@@ -75,13 +75,25 @@ jobs:
           cd data_output
           unzip processed-data.zip
       
+      # Add debug step before extraction
+      - name: Debug data structure (before extraction)
+        run: |
+          python openstates_scraped_data_formatter/debug_extraction.py
+      
       - name: Extract Bill Text
         run: |
           python openstates_scraped_data_formatter/extract_bill_text.py \
             --processed-folder ./data_output/data_processed \
-            --batch-size 100
+            --batch-size 10
+      
+      # Add debug step after extraction
+      - name: Debug data structure (after extraction)
+        run: |
+          python openstates_scraped_data_formatter/debug_extraction.py
+      
       - name: Checkout local repo
         uses: actions/checkout@v4
+      
       # Commit and push the extracted text files to the same repository
       - name: Commit extracted text files
         run: |
