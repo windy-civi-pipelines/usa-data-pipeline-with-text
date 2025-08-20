@@ -54,6 +54,7 @@ jobs:
         with:
           repository: windy-civi/opencivicdata-blockchain-transformer
           ref: bill-text-extraction
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -81,11 +82,13 @@ jobs:
             --processed-folder ./data_output/data_processed \
             --batch-size 100
       
-      # Commit and push the extracted text files
+      # Commit and push the extracted text files with proper authentication
       - name: Commit extracted text files
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add data_output/data_processed/
           git commit -m "Add extracted bill text files" || echo "No changes to commit"
           git push origin bill-text-extraction
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
