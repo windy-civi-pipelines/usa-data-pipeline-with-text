@@ -75,6 +75,11 @@ jobs:
           cd data_output
           unzip processed-data.zip
       
+      # Add metadata structure debug step
+      - name: Debug metadata structure
+        run: |
+          python openstates_scraped_data_formatter/debug_metadata_structure.py
+      
       # Add debug step before extraction
       - name: Debug data structure (before extraction)
         run: |
