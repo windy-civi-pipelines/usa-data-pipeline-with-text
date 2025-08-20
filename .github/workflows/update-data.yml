@@ -80,3 +80,12 @@ jobs:
           python openstates_scraped_data_formatter/extract_bill_text.py \
             --processed-folder ./data_output/data_processed \
             --batch-size 100
+      
+      # Commit and push the extracted text files
+      - name: Commit extracted text files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data_output/data_processed/
+          git commit -m "Add extracted bill text files" || echo "No changes to commit"
+          git push origin bill-text-extraction
