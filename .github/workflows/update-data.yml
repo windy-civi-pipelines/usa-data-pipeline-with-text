@@ -22,7 +22,7 @@ jobs:
     steps:
       - uses: windy-civi/opencivicdata-blockchain-transformer@bill-text-extraction
         with:
-           state: wy
+           state: usa
            github-token: ${{ secrets.GITHUB_TOKEN }}
            use-scrape-cache: ${{ inputs.use-scrape-cache }}
            force-update: ${{ inputs.force-update }}
