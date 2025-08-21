@@ -1,0 +1,702 @@
+Title: MAY21, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: MAY21, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 8
+Source: documents - H. Rept. 119-111
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–111
+SMALL BUSINESS REGULATORY REDUCTION ACT OF 2025
+the Union and ordered to be printed
+Mr. WILLIAMS of Texas, from the Committee on Small Business,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 2965]
+The Committee on Small Business, to whom was referred the bill
+(H.R. 2965) to require the Administrator of the Small Business Ad-
+ministration to ensure that the small business regulatory budget
+for a small business concern in a fiscal year is not greater than
+zero, and for other purposes, having considered the same, reports
+favorably thereon with an amendment and recommends that the
+bill as amended do pass.
+CONTENTS
+Page
+I. Purpose and Bill Summary ........................................................................ 2
+II. Need for Legislation .................................................................................... 2
+III. Hearings....................................................................................................... 3
+IV. Committee Consideration ........................................................................... 3
+V. Committee Votes ......................................................................................... 3
+VI. Section-by-Section of H.R. 2965 ................................................................. 7
+VII. Congressional Budget Office Cost Estimate ............................................. 7
+VIII. New Budget Authority, Entitlement Authority, and Tax Expenditures 7
+IX. Oversight Findings & Recommendations .................................................. 7
+X. Performance Goals and Objectives ............................................................ 7
+XI. Statement of Duplication of Federal Programs ........................................ 8
+XII. Congressional Earmarks, Limited Tax Benefits, and Limited Tariff
+Benefits..................................................................................................... 8
+XIII. Federal Mandates Statement ..................................................................... 8
+XIV. Federal Advisory Committee Statement ................................................... 8
+XV. Applicability to Legislative Branch ........................................................... 8
+XVI. Statement of Constitutional Authority...................................................... 8
+XVII. Minority Views ............................................................................................ 9
+59–006
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+2
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 2:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Small Business Regulatory Reduction Act of 2025’’.
+SEC. 2. SMALL BUSINESS ADMINISTRATION RULEMAKING COSTS TO SMALL BUSINESS CON-
+CERNS.
+(a) DEFINITIONS.—In this section:
+(1) ADMINISTRATOR.—The term ‘‘Administrator’’ means the Administrator of
+the Small Business Administration.
+(2) RULE; RULEMAKING.—The terms ‘‘rule’’ and ‘‘rulemaking’’ have the mean-
+ings given those terms in section 551 of title 5, United States Code.
+(3) SMALL BUSINESS.—The term ‘‘small business’’ has the same meaning as
+the term ‘‘small business concern’’ under section 3 of the Small Business Act
+(15 U.S.C. 632), unless an agency, after consultation with the Office of Advocacy
+of the Small Business Administration and after opportunity for public comment,
+establishes one or more definitions of such term which are appropriate to the
+activities of the agency and publishes any such definitions in the Federal Reg-
+ister.
+(4) SMALL BUSINESS REGULATORY BUDGET.—The term ‘‘small business regu-
+latory budget’’ means the cost to a small business of a rulemaking conducted
+by a Federal agency, including the cost resulting from the issuance of any new
+rule and the cost resulting from the modification or repeal of an existing rule.
+(b) REQUIREMENT.—In fiscal year 2026 and each fiscal year thereafter, the Admin-
+istrator shall ensure that the small business regulatory budget for the Small Busi-
+ness Administration for the applicable fiscal year is not greater than zero.
+(c) ADVOCACY REPORT.—Not later than 60 days after the end of fiscal year 2025,
+and annually thereafter, the Chief Counsel for the Office of Advocacy of the Small
+Business Administration shall submit to Congress a report regarding rules issued
+by Federal agencies other than the Administration during the preceding fiscal year
+that have an impact on small businesses, which shall—
+(1) include the total small business regulatory budgets for the preceding fiscal
+year for each Federal agency;
+(2) include each such rule issued during the preceding fiscal year; and
+(3) be disaggregated by the Federal agency that issued each such rule.
+SEC. 3. NO ADDITIONAL FUNDS.
+No additional funds are authorized to be appropriated to carry out this Act.
+I. PURPOSE AND BILL SUMMARY
+On April 17, 2025, Rep. Van Duyne, along with Rep. King-Hinds,
+introduced H.R. 2965, the Small Business Regulatory Reduction Act
+of 2025. H.R. 2965 requires the Small Business Administration
+(SBA) to ensure that for each fiscal year the cost to small busi-
+nesses of the Administration’s rule making, including the modifica-
+tion or repeal of a rule, is not greater than zero. The SBA Office
+of Advocacy must also report the costs of regulations issued by
+other federal agencies that have an impact on small businesses.
+II. NEED FOR LEGISLATION
+H.R. 2965 provides needed relief to Main Street as they recover
+from four years of overregulation under the Biden-Harris Adminis-
+tration. The bill ensures that the burdens of federal regulations on
+small businesses are minimized, creating a government-wide report
+detailing the regulatory costs on small businesses.
+This bill codifies President Trump’s Executive Order (EO) 14192
+‘‘Unleashing Prosperity Through Deregulation.’’1 Additionally, H.R.
+2965 ensures that the SBA’s total cost of new regulations is not
+more than zero dollars. Further, the bill directs the Small Business
+Office of Advocacy to calculate the annual cost of rulemaking for
+1Exec. Order No. 14,192, 90 F.R. 9065 (2025).
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+3
+each Federal agency. Both of these legislative requirements codify
+the requirements in EO 14192.
+III. HEARINGS
+On April 1, 2025, the Committee on Small Business held a hear-
+ing examining matters related to H.R. 2965 entitled ‘‘The Golden
+Age: Unleashing Main Street Through Deregulation.’’
+IV. COMMITTEE CONSIDERATION
+The Committee on Small Business met in open session, with a
+quorum being present, on April 30, 2025, and ordered H.R. 2965,
+as amended, to be reported favorably to the House of Representa-
+tives by a roll call vote of 15 ayes to 11 nos. During the markup
+three amendments were offered.
+V. COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee to list the recorded votes on the mo-
+tion to report legislation and amendments thereto. The Committee
+voted to favorably report H.R. 2965, as amended, to the House of
+Representatives at 6:18 PM.
+The Committee considered the following amendments to H.R.
+2965:
+• Representative Van Duyne offered an amendment in the
+nature of a substitute. This amendment was adopted by voice
+vote.
+• Representative Olszewski offered an amendment to the
+amendment in the nature of a substitute. The vote on the
+amendment failed 11 ayes to 15 nos.
+• Representative Morrison offered an amendment to the
+amendment in the nature of a substitute. The vote on the
+amendment failed 11 ayes to 15 nos.
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+4
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 3:
+100.111RH
+ereh
+6 oilof
+tesffo
+tresnI
+5
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 4:
+200.111RH
+ereh
+7 oilof
+tesffo
+tresnI
+6
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 5:
+300.111RH
+ereh
+8 oilof
+tesffo
+tresnI
+7
+VI. SECTION-BY-SECTION OF H.R. 2965
+
+Section 6:
+Section 1—Short title
+This Act may be cited as the ‘‘Small Business Regulatory Reduc-
+tion Act of 2025.’’
+
+Section 7:
+Section 2—Small Business Administration rulemaking costs to
+small business concerns
+This section requires the Administrator of the SBA to ensure
+that the small business regulatory budget for a fiscal year is not
+greater than zero. Additionally, it requires a report on regulations
+issued by other federal agencies that have an impact on small busi-
+nesses.
+
+Section 8:
+Section 3—No additional funds
+No additional funds are authorized to be appropriated to carry
+out H.R. 2965.
+VII. CONGRESSIONAL BUDGET OFFICE COST ESTIMATE
+Pursuant to clause 3(d)(1) of House rule XIII, the Committee
+adopts as its own the cost estimate prepared by the Director of the
+Congressional Budget Office pursuant to section 402 of the Con-
+gressional Budget Act of 1974. The Committee has requested but
+not received from the Director of the Congressional Budget Office
+a cost estimate for the Committee’s provisions. Once available, the
+cost estimate will be published in the Congressional Record.
+VIII. NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY,
+AND TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII of the Rules of the House
+of Representatives and section 308(a)(I) of the Congressional Budg-
+et Act of 1974, the Committee provides the following opinion and
+estimate with respect to new budget authority, entitlement author-
+ity, and tax expenditures. While the Committee has not received an
+estimate of new budget authority contained in the cost estimate
+prepared by the Director of the Congressional Budget Office pursu-
+ant to Sec. 402 of the Congressional Budget Act of 1974, the Com-
+mittee does not believe that there will be any additional costs at-
+tributable to this legislation. H.R. 2965 does not direct new spend-
+ing, but instead reallocates funding independently authorized and
+appropriated.
+IX. OVERSIGHT FINDINGS & RECOMMENDATIONS
+In accordance with clause 3(c)(1) of rule XIII and clause 2(b)(1)
+of rule X of the Rules of the House of Representatives, the over-
+sight findings and recommendations of the Committee on Small
+Business with respect to the subject matter contained in H.R. 2965
+are incorporated into the descriptive portions of this report.
+X. PERFORMANCE GOALS AND OBJECTIVES
+With respect to the requirements of clause 3(c)(4) of rule XIII of
+the Rules of the House of Representatives, the performance goals
+and objectives of H.R. 2965 requires the SBA Office of Advocacy to
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+8
+report to Congress on rules issued by Federal agencies that have
+an impact on small businesses.
+XI. STATEMENT OF DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, no provision of H.R. 2965 is known to be dupli-
+cative of another Federal program, including any program that was
+included in a report to Congress pursuant to section 21 of Public
+Law 111–139 or the most recent Catalog of Federal Domestic As-
+sistance.
+XII. CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS,
+AND LIMITED TARIFF BENEFITS
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee finds that the bill does not con-
+tain any congressional earmarks, limited tax benefits, or limited
+tariff benefits as defined in clause 9(e), 9(f), or 9(g) of rule XXI of
+the Rules of the House of Representatives.
+XIII. FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+XIV. FEDERAL ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+XV. APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+XVI. STATEMENT OF CONSTITUTIONAL AUTHORITY
+Pursuant to clause 7 of rule XII of the Rules of the House, the
+Committee finds that the authority for this legislation in Art. I, §8,
+cl.1 of the Constitution of the United States.
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+XVII. MINORITY VIEWS
+A regulatory budget seeks to impose an arbitrary cap on total
+regulatory costs. Any new rule that levies a cost could not be im-
+plemented unless an existing rule with an equal dollar amount is
+repealed. The first Trump Administration implemented a regu-
+latory budget that allowed zero or negative new costs for regula-
+tions.
+Under H.R. 2965, the definition of a regulatory budget would
+only include costs, not benefits. The practical effect would be SBA
+would be inclined to either stop issuing rules or opt for rules that
+impose the least costs on small businesses, despite the benefits.
+Moreover, the agency could block new proposals enacted by Con-
+gress if the Administrator determined that the rule would not fit
+into its regulatory budget.
+It is important to note regulations can also benefit small busi-
+nesses. Oftentimes, the benefit of the regulation is greater than the
+cost to small businesses. This bill would only look at one side of
+the ledger. In a real-world situation, no small business would ever
+make an investment in a new product or equipment if it looked
+solely at the cost. For example, the Paycheck Protection Program
+(PPP) would not have been implemented during the pandemic be-
+cause of the costs associated with the program. Moreover, there is
+no exception in this bill for national emergencies.
+Committee Democrats offered two amendments to the bill. Rep.
+Johnny Olszewski, Jr. (D–MD) offered an amendment to carve out
+an exemption for rules related to workforce development and small
+rural business programs. Mr. Olszewski shared he is happy to work
+together to fix our regulatory system, however noting that the Coa-
+lition of Sensible Safeguards, a coalition of more than 200 labor,
+scientific research, faith, community health, and environmental
+groups said the bill is unworkable, he offered the amendment to ex-
+empt rules related to workforce development programs and those
+that benefit rural small business owners. Republicans defeated this
+amendment.
+Similarly, Rep. Kelly Morrison (D–MN) offered an amendment to
+carve our rules pertaining to veterans. The Ranking Member ex-
+pressed support for the amendment stating, we owe a lot to our na-
+tion’s veterans and cannot take a chance with the unintended con-
+sequences a regulatory budget would have on them. Despite Demo-
+crats support for our nation’s veterans, the Republicans defeated
+this amendment.
+(9)
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6604 Sfmt 6604 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+10
+In sum, Committee Democrats opposed the measure because it is
+unworkable and would grind the legislative process to a halt.
+NYDIA M. VELA ´ ZQUEZ,
+Ranking Member.
+Æ
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6604 Sfmt 6611 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–111
+SMALL BUSINESS REGULATORY REDUCTION ACT OF 2025
+MAY21, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. WILLIAMS of Texas, from the Committee on Small Business,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 2965]
+The Committee on Small Business, to whom was referred the bill
+(H.R. 2965) to require the Administrator of the Small Business Ad-
+ministration to ensure that the small business regulatory budget
+for a small business concern in a fiscal year is not greater than
+zero, and for other purposes, having considered the same, reports
+favorably thereon with an amendment and recommends that the
+bill as amended do pass.
+CONTENTS
+Page
+I. Purpose and Bill Summary ........................................................................ 2
+II. Need for Legislation .................................................................................... 2
+III. Hearings....................................................................................................... 3
+IV. Committee Consideration ........................................................................... 3
+V. Committee Votes ......................................................................................... 3
+VI. Section-by-Section of H.R. 2965 ................................................................. 7
+VII. Congressional Budget Office Cost Estimate ............................................. 7
+VIII. New Budget Authority, Entitlement Authority, and Tax Expenditures 7
+IX. Oversight Findings & Recommendations .................................................. 7
+X. Performance Goals and Objectives ............................................................ 7
+XI. Statement of Duplication of Federal Programs ........................................ 8
+XII. Congressional Earmarks, Limited Tax Benefits, and Limited Tariff
+Benefits..................................................................................................... 8
+XIII. Federal Mandates Statement ..................................................................... 8
+XIV. Federal Advisory Committee Statement ................................................... 8
+XV. Applicability to Legislative Branch ........................................................... 8
+XVI. Statement of Constitutional Authority...................................................... 8
+XVII. Minority Views ............................................................................................ 9
+59–006
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+2
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Small Business Regulatory Reduction Act of 2025’’.
+SEC. 2. SMALL BUSINESS ADMINISTRATION RULEMAKING COSTS TO SMALL BUSINESS CON-
+CERNS.
+(a) DEFINITIONS.—In this section:
+(1) ADMINISTRATOR.—The term ‘‘Administrator’’ means the Administrator of
+the Small Business Administration.
+(2) RULE; RULEMAKING.—The terms ‘‘rule’’ and ‘‘rulemaking’’ have the mean-
+ings given those terms in section 551 of title 5, United States Code.
+(3) SMALL BUSINESS.—The term ‘‘small business’’ has the same meaning as
+the term ‘‘small business concern’’ under section 3 of the Small Business Act
+(15 U.S.C. 632), unless an agency, after consultation with the Office of Advocacy
+of the Small Business Administration and after opportunity for public comment,
+establishes one or more definitions of such term which are appropriate to the
+activities of the agency and publishes any such definitions in the Federal Reg-
+ister.
+(4) SMALL BUSINESS REGULATORY BUDGET.—The term ‘‘small business regu-
+latory budget’’ means the cost to a small business of a rulemaking conducted
+by a Federal agency, including the cost resulting from the issuance of any new
+rule and the cost resulting from the modification or repeal of an existing rule.
+(b) REQUIREMENT.—In fiscal year 2026 and each fiscal year thereafter, the Admin-
+istrator shall ensure that the small business regulatory budget for the Small Busi-
+ness Administration for the applicable fiscal year is not greater than zero.
+(c) ADVOCACY REPORT.—Not later than 60 days after the end of fiscal year 2025,
+and annually thereafter, the Chief Counsel for the Office of Advocacy of the Small
+Business Administration shall submit to Congress a report regarding rules issued
+by Federal agencies other than the Administration during the preceding fiscal year
+that have an impact on small businesses, which shall—
+(1) include the total small business regulatory budgets for the preceding fiscal
+year for each Federal agency;
+(2) include each such rule issued during the preceding fiscal year; and
+(3) be disaggregated by the Federal agency that issued each such rule.
+SEC. 3. NO ADDITIONAL FUNDS.
+No additional funds are authorized to be appropriated to carry out this Act.
+I. PURPOSE AND BILL SUMMARY
+On April 17, 2025, Rep. Van Duyne, along with Rep. King-Hinds,
+introduced H.R. 2965, the Small Business Regulatory Reduction Act
+of 2025. H.R. 2965 requires the Small Business Administration
+(SBA) to ensure that for each fiscal year the cost to small busi-
+nesses of the Administration’s rule making, including the modifica-
+tion or repeal of a rule, is not greater than zero. The SBA Office
+of Advocacy must also report the costs of regulations issued by
+other federal agencies that have an impact on small businesses.
+II. NEED FOR LEGISLATION
+H.R. 2965 provides needed relief to Main Street as they recover
+from four years of overregulation under the Biden-Harris Adminis-
+tration. The bill ensures that the burdens of federal regulations on
+small businesses are minimized, creating a government-wide report
+detailing the regulatory costs on small businesses.
+This bill codifies President Trump’s Executive Order (EO) 14192
+‘‘Unleashing Prosperity Through Deregulation.’’1 Additionally, H.R.
+2965 ensures that the SBA’s total cost of new regulations is not
+more than zero dollars. Further, the bill directs the Small Business
+Office of Advocacy to calculate the annual cost of rulemaking for
+1Exec. Order No. 14,192, 90 F.R. 9065 (2025).
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+3
+each Federal agency. Both of these legislative requirements codify
+the requirements in EO 14192.
+III. HEARINGS
+On April 1, 2025, the Committee on Small Business held a hear-
+ing examining matters related to H.R. 2965 entitled ‘‘The Golden
+Age: Unleashing Main Street Through Deregulation.’’
+IV. COMMITTEE CONSIDERATION
+The Committee on Small Business met in open session, with a
+quorum being present, on April 30, 2025, and ordered H.R. 2965,
+as amended, to be reported favorably to the House of Representa-
+tives by a roll call vote of 15 ayes to 11 nos. During the markup
+three amendments were offered.
+V. COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee to list the recorded votes on the mo-
+tion to report legislation and amendments thereto. The Committee
+voted to favorably report H.R. 2965, as amended, to the House of
+Representatives at 6:18 PM.
+The Committee considered the following amendments to H.R.
+2965:
+• Representative Van Duyne offered an amendment in the
+nature of a substitute. This amendment was adopted by voice
+vote.
+• Representative Olszewski offered an amendment to the
+amendment in the nature of a substitute. The vote on the
+amendment failed 11 ayes to 15 nos.
+• Representative Morrison offered an amendment to the
+amendment in the nature of a substitute. The vote on the
+amendment failed 11 ayes to 15 nos.
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+4
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+100.111RH
+ereh
+6 oilof
+tesffo
+tresnI
+
+5
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+200.111RH
+ereh
+7 oilof
+tesffo
+tresnI
+
+6
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+300.111RH
+ereh
+8 oilof
+tesffo
+tresnI
+
+7
+VI. SECTION-BY-SECTION OF H.R. 2965
+Section 1—Short title
+This Act may be cited as the ‘‘Small Business Regulatory Reduc-
+tion Act of 2025.’’
+Section 2—Small Business Administration rulemaking costs to
+small business concerns
+This section requires the Administrator of the SBA to ensure
+that the small business regulatory budget for a fiscal year is not
+greater than zero. Additionally, it requires a report on regulations
+issued by other federal agencies that have an impact on small busi-
+nesses.
+Section 3—No additional funds
+No additional funds are authorized to be appropriated to carry
+out H.R. 2965.
+VII. CONGRESSIONAL BUDGET OFFICE COST ESTIMATE
+Pursuant to clause 3(d)(1) of House rule XIII, the Committee
+adopts as its own the cost estimate prepared by the Director of the
+Congressional Budget Office pursuant to section 402 of the Con-
+gressional Budget Act of 1974. The Committee has requested but
+not received from the Director of the Congressional Budget Office
+a cost estimate for the Committee’s provisions. Once available, the
+cost estimate will be published in the Congressional Record.
+VIII. NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY,
+AND TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII of the Rules of the House
+of Representatives and section 308(a)(I) of the Congressional Budg-
+et Act of 1974, the Committee provides the following opinion and
+estimate with respect to new budget authority, entitlement author-
+ity, and tax expenditures. While the Committee has not received an
+estimate of new budget authority contained in the cost estimate
+prepared by the Director of the Congressional Budget Office pursu-
+ant to Sec. 402 of the Congressional Budget Act of 1974, the Com-
+mittee does not believe that there will be any additional costs at-
+tributable to this legislation. H.R. 2965 does not direct new spend-
+ing, but instead reallocates funding independently authorized and
+appropriated.
+IX. OVERSIGHT FINDINGS & RECOMMENDATIONS
+In accordance with clause 3(c)(1) of rule XIII and clause 2(b)(1)
+of rule X of the Rules of the House of Representatives, the over-
+sight findings and recommendations of the Committee on Small
+Business with respect to the subject matter contained in H.R. 2965
+are incorporated into the descriptive portions of this report.
+X. PERFORMANCE GOALS AND OBJECTIVES
+With respect to the requirements of clause 3(c)(4) of rule XIII of
+the Rules of the House of Representatives, the performance goals
+and objectives of H.R. 2965 requires the SBA Office of Advocacy to
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+8
+report to Congress on rules issued by Federal agencies that have
+an impact on small businesses.
+XI. STATEMENT OF DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, no provision of H.R. 2965 is known to be dupli-
+cative of another Federal program, including any program that was
+included in a report to Congress pursuant to section 21 of Public
+Law 111–139 or the most recent Catalog of Federal Domestic As-
+sistance.
+XII. CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS,
+AND LIMITED TARIFF BENEFITS
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee finds that the bill does not con-
+tain any congressional earmarks, limited tax benefits, or limited
+tariff benefits as defined in clause 9(e), 9(f), or 9(g) of rule XXI of
+the Rules of the House of Representatives.
+XIII. FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+XIV. FEDERAL ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+XV. APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+XVI. STATEMENT OF CONSTITUTIONAL AUTHORITY
+Pursuant to clause 7 of rule XII of the Rules of the House, the
+Committee finds that the authority for this legislation in Art. I, §8,
+cl.1 of the Constitution of the United States.
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+XVII. MINORITY VIEWS
+A regulatory budget seeks to impose an arbitrary cap on total
+regulatory costs. Any new rule that levies a cost could not be im-
+plemented unless an existing rule with an equal dollar amount is
+repealed. The first Trump Administration implemented a regu-
+latory budget that allowed zero or negative new costs for regula-
+tions.
+Under H.R. 2965, the definition of a regulatory budget would
+only include costs, not benefits. The practical effect would be SBA
+would be inclined to either stop issuing rules or opt for rules that
+impose the least costs on small businesses, despite the benefits.
+Moreover, the agency could block new proposals enacted by Con-
+gress if the Administrator determined that the rule would not fit
+into its regulatory budget.
+It is important to note regulations can also benefit small busi-
+nesses. Oftentimes, the benefit of the regulation is greater than the
+cost to small businesses. This bill would only look at one side of
+the ledger. In a real-world situation, no small business would ever
+make an investment in a new product or equipment if it looked
+solely at the cost. For example, the Paycheck Protection Program
+(PPP) would not have been implemented during the pandemic be-
+cause of the costs associated with the program. Moreover, there is
+no exception in this bill for national emergencies.
+Committee Democrats offered two amendments to the bill. Rep.
+Johnny Olszewski, Jr. (D–MD) offered an amendment to carve out
+an exemption for rules related to workforce development and small
+rural business programs. Mr. Olszewski shared he is happy to work
+together to fix our regulatory system, however noting that the Coa-
+lition of Sensible Safeguards, a coalition of more than 200 labor,
+scientific research, faith, community health, and environmental
+groups said the bill is unworkable, he offered the amendment to ex-
+empt rules related to workforce development programs and those
+that benefit rural small business owners. Republicans defeated this
+amendment.
+Similarly, Rep. Kelly Morrison (D–MN) offered an amendment to
+carve our rules pertaining to veterans. The Ranking Member ex-
+pressed support for the amendment stating, we owe a lot to our na-
+tion’s veterans and cannot take a chance with the unintended con-
+sequences a regulatory budget would have on them. Despite Demo-
+crats support for our nation’s veterans, the Republicans defeated
+this amendment.
+(9)
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6604 Sfmt 6604 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+10
+In sum, Committee Democrats opposed the measure because it is
+unworkable and would grind the legislative process to a halt.
+NYDIA M. VELA ´ ZQUEZ,
+Ranking Member.
+Æ
+VerDate Sep 11 2014 01:01 May 31, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6604 Sfmt 6611 E:\HR\OC\HR111.XXX HR111
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD

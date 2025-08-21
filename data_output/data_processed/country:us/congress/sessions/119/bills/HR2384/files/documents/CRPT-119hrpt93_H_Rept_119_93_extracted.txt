@@ -1,0 +1,990 @@
+Title: MAY6, 2025.—Committed to the Committee of the Whole House on the State of the
+Official Title: MAY6, 2025.—Committed to the Committee of the Whole House on the State of the
+Number of Sections: 12
+Source: documents - H. Rept. 119-93
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–93
+FINANCIAL TECHNOLOGY PROTECTION ACT OF 2025
+Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+[To accompany H.R. 2384]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 2384) to establish an Independent Financial Technology
+Working Group to Combat Terrorism and Illicit Financing, and for
+other purposes, having considered the same, reports favorably
+thereon with an amendment and recommends that the bill as
+amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 4
+Background and Need for Legislation .................................................................... 4
+Committee Consideration ........................................................................................ 4
+Related Hearings ..................................................................................................... 5
+Committee Votes ...................................................................................................... 6
+Committee Oversight Findings ............................................................................... 8
+Performance Goals and Objectives ......................................................................... 8
+Committee Cost Estimate ....................................................................................... 8
+New Budget Authority and CBO Cost Estimate ................................................... 8
+Unfunded Mandates Statement .............................................................................. 8
+Earmark Statement ................................................................................................. 8
+Federal Advisory Committee Act Statement ......................................................... 9
+Applicability to the Legislative Branch ................................................................. 9
+Duplication of Federal Programs ............................................................................ 9
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 9
+Changes in Existing Law Made by the Bill, as Reported ..................................... 10
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Financial Technology Protection Act of 2025’’.
+59–006
+VerDate Sep 11 2014 03:56 May 17, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6621 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+SEC. 2. INDEPENDENT FINANCIAL TECHNOLOGY WORKING GROUP TO COMBAT TERRORISM
+AND ILLICIT FINANCING.
+(a) ESTABLISHMENT.—There is established the Independent Financial Technology
+Working Group to Combat Terrorism and Illicit Financing (in this section referred
+to as the ‘‘Working Group’’), which shall consist of the following:
+(1) The Secretary of the Treasury, acting through the Under Secretary for
+Terrorism and Financial Crimes, who shall serve as the chair of the Working
+Group.
+(2) A senior-level representative from each of the following:
+(A) The Department of the Treasury.
+(B) The Office of Terrorism and Financial Intelligence.
+(C) The Internal Revenue Service.
+(D) The Department of Justice.
+(E) The Federal Bureau of Investigation.
+(F) The Drug Enforcement Administration.
+(G) The Department of Homeland Security.
+(H) The United States Secret Service.
+(I) The Department of State.
+(J) The Office of the Director of National Intelligence.
+(3) At least five individuals appointed by the Under Secretary for Terrorism
+and Financial Crimes to represent the following:
+(A) Financial technology companies.
+(B) Blockchain intelligence companies.
+(C) Financial institutions.
+(D) Institutions or organizations engaged in research.
+(E) Institutions or organizations focused on individual privacy and civil
+liberties.
+(4) Such additional individuals as the Secretary of the Treasury may appoint
+as necessary to accomplish the duties described under subsection (b).
+(b) DUTIES.—The Working Group shall—
+(1) conduct research on terrorist and illicit use of digital assets and other re-
+lated emerging technologies; and
+(2) develop legislative and regulatory proposals to improve anti-money laun-
+dering, counter-terrorist, and other counter-illicit financing efforts in the United
+States.
+(c) REPORTS.—
+(1) IN GENERAL.—Not later than one year after the date of the enactment of
+this Act, and annually for the 3 years thereafter, the Working Group shall sub-
+mit to the Secretary of the Treasury, the heads of each agency represented in
+the Working Group pursuant to subsection (a)(2), and the appropriate congres-
+sional committees a report containing the findings and determinations made by
+the Working Group in the previous year and any legislative and regulatory pro-
+posals developed by the Working Group.
+(2) FINAL REPORT.—Before the date on which the Working Group terminates
+under subsection (d)(1), the Working Group shall submit to the appropriate con-
+gressional committees a final report detailing the findings, recommendations,
+and activities of the Working Group, including any final results from the re-
+search conducted by the Working Group.
+(d) SUNSET.—
+(1) INGENERAL.—The Working Group shall terminate on the later of—
+(A) the date that is 4 years after the date of the enactment of this Act;
+or
+(B) the date on which the Working Group completes any wind-up activi-
+ties described under paragraph (2).
+(2) AUTHORITY TO WIND UP ACTIVITIES.—If there are ongoing research, pro-
+posals, or other related activities of the Working Group ongoing as of the date
+that is 4 years after the date of the enactment of this Act, the Working Group
+may temporarily continue working in order to wind-up such activities.
+(3) RETURN OF APPROPRIATED FUNDS.—On the date on which the Working
+Group terminates under paragraph (1), any unobligated funds appropriated to
+carry out this section shall be transferred to the Treasury.
+SEC. 3. PREVENTING ROGUE AND FOREIGN ACTORS FROM EVADING SANCTIONS.
+(a) REPORTANDSTRATEGYWITHRESPECTTODIGITALASSETSANDOTHERRELATED
+EMERGINGTECHNOLOGIES.—
+(1) IN GENERAL.—Not later than 180 days after the date of the enactment of
+this Act, the President, acting through the Secretary of the Treasury and in con-
+sultation with the head of each agency represented on the Independent Finan-
+cial Technology Working Group to Combat Terrorism and Illicit Financing pur-
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+suant to section 2(a)(2), shall submit to the appropriate congressional commit-
+tees a report that describes—
+(A) the potential uses of digital assets and other related emerging tech-
+nologies by States, non-State actors, foreign terrorist organizations, and
+other terrorist groups to evade sanctions, finance terrorism, or launder
+monetary instruments, and threaten the national security of the United
+States; and
+(B) a strategy for the United States to mitigate and prevent the illicit use
+of digital assets and other related emerging technologies.
+(2) FORMOFREPORT; PUBLICAVAILABILITY.—
+(A) IN GENERAL.—The report required by paragraph (1) shall be sub-
+mitted in unclassified form, but may include a classified annex.
+(B) PUBLIC AVAILABILITY.—The unclassified portion of each report re-
+quired by paragraph (1) shall be made available to the public and posted
+on a publicly accessible website of the Department of the Treasury—
+(i) in precompressed, easily downloadable versions, in all appropriate
+formats; and
+(ii) in machine-readable format, if applicable.
+(3) SOURCES OF INFORMATION.—In preparing the reports required by para-
+graph (1), the President may utilize any credible publication, database, or web-
+based resource, and any credible information compiled by any government agen-
+cy, nongovernmental organization, or other entity that is made available to the
+President.
+(b) BRIEFING.—Not later than 2 years after the date of the enactment of this Act,
+the Secretary of the Treasury shall brief the appropriate congressional committees
+on the implementation of the strategy required by subsection (a)(1)(B).
+SEC. 4. DEFINITIONS.
+In this Act:
+(1) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term ‘‘appropriate con-
+gressional committees’’ means—
+(A) the Committee on Banking, Housing, and Urban Affairs, the Com-
+mittee on Finance, the Committee on Foreign Relations, the Committee on
+Homeland Security and Governmental Affairs, the Committee on the Judi-
+ciary, and the Select Committee on Intelligence of the Senate; and
+(B) the Committee on Financial Services, the Committee on Foreign Af-
+fairs, the Committee on Homeland Security, the Committee on the Judici-
+ary, the Committee on Ways and Means, and the Permanent Select Com-
+mittee on Intelligence of the House of Representatives.
+(2) BLOCKCHAIN INTELLIGENCE COMPANY.—The term ‘‘blockchain intelligence
+company’’ means any business providing software, research, or other services
+(such as blockchain tracing tools, geofencing, transaction screening, the collec-
+tion of business data, and sanctions screening) that—
+(A) support private and public sector investigations and risk management
+activities; and
+(B) involve cryptographically secured distributed ledgers or any similar
+technology or implementation.
+(3) DIGITALASSET.—The term ‘‘digital asset’’ means any digital representation
+of value that is recorded on a cryptographically secured digital ledger or any
+similar technology.
+(4) EMERGING TECHNOLOGIES.—The term ‘‘emerging technologies’’ means the
+critical and emerging technology areas listed in the Critical and Emerging Tech-
+nologies List developed by the Fast Track Action Subcommittee on Critical and
+Emerging Technologies of the National Science and Technology Council, includ-
+ing any updates to such list.
+(5) FOREIGN TERRORIST ORGANIZATION.—The term ‘‘foreign terrorist organiza-
+tion’’ means an organization that is designated as a foreign terrorist organiza-
+tion under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
+(6) ILLICIT USE.—The term ‘‘illicit use’’ includes fraud, darknet marketplace
+transactions, money laundering, the purchase and sale of illicit goods, sanctions
+evasion, theft of funds, funding of illegal activities, transactions related to child
+sexual abuse material, and any other financial transaction involving the pro-
+ceeds of specified unlawful activity (as defined in section 1956(c) of title 18,
+United States Code).
+(7) TERRORIST.—The term ‘‘terrorist’’ includes a person carrying out domestic
+terrorism or international terrorism (as such terms are defined, respectively,
+under section 2331 of title 18, United States Code).
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6621 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+PURPOSE AND SUMMARY
+Introduced on March 26, 2025, by Representative Nunn, H.R.
+2384, the Financial Technology Protection Act, establishes the Inde-
+pendent Financial Technology Working Group to Combat Terrorism
+and Illicit Financing to study and report on terrorist and illicit use
+of emerging technologies, including digital assets, and provide rec-
+ommendations to improve anti-money laundering and counterter-
+rorist financing efforts.
+BACKGROUND AND NEED FOR LEGISLATION
+The Financial Technology Protection Act was first introduced by
+former Representative Ted Budd (R–NC) and Representative Ste-
+phen Lynch (D–MA) in the 115th Congress, where it passed on the
+House floor by a voice vote. This legislation was re-introduced in
+both the 116th and the 117th Congresses. In the 118th Congress,
+the Financial Technology Protection Act passed the House by voice
+vote. Senators Ted Budd (R–NC) and Kirsten Gillibrand (D–NY)
+also introduced a Senate companion during the 118th Congress.
+Although rates of illicit activity remain low in the digital asset
+ecosystem, the ease by which digital asset transactions can be car-
+ried out and settled has proven to be used by bad actors. Addition-
+ally, because digital assets are a nascent and ever-evolving tech-
+nology, law enforcement bodies around the world have struggled to
+keep pace with emerging trends and types of crime in the eco-
+system. At the same time, however, the immutability and trans-
+parency of blockchain networks means that law enforcement has
+unique insight into the movement of illicit funds. Indeed, several
+high-profile cases have been solved because law enforcement was
+able to leverage the unique features of a blockchain network to
+track down and ultimately reclaim ill-gotten gains.
+There has been considerable focus by U.S. regulators and Con-
+gress to curb nefarious activity with digital assets. In the Treasury
+Department’s 2024 National Strategy for Combating Terrorist and
+Other Illicit Financing, Treasury identified ‘‘improv[ing] and
+expand[ing] on public-private information-sharing efforts’’ as one of
+its priority action items.1 H.R. 2384 would provide a forum for such
+engagement and make significant progress in helping the United
+States ensure that Americans can interact with digital assets in a
+safe and secure manner.
+COMMITTEE CONSIDERATION
+115TH CONGRESS
+The Subcommittee on Terrorism and Illicit Finance of the Com-
+mittee on Financial Services held a hearing on June 8, 2017, ‘‘Vir-
+tual Currency: Financial Innovation and National Security Implica-
+tions.’’
+The Subcommittee on Terrorism and Illicit Finance of the Com-
+mittee on Financial Services held a hearing on June 20, 2018, ‘‘Il-
+licit Use of Virtual Currency and the Law Enforcement Response.’’
+1U.S. DEP’T OF THE TREASURY, 2024 NATIONAL STRATEGY FOR COMBATTING TERRORIST AND
+OTHERILLICITFINANCING(2024).
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+5
+117TH CONGRESS
+The Subcommittee on National Security, International Develop-
+ment, and Monetary Policy of the Committee on Financial Services
+held a hearing on June 16, 2021, ‘‘Schemes and Subversion: How
+Bad Actors and Foreign Governments Undermine and Evade Sanc-
+tions Regimes.’’
+The Committee on Financial Services held a hearing on February
+8, 2022, ‘‘Digital Assets and the Future of Finance: Understanding
+the Challenges and Benefits of Financial Innovation in the United
+States.’’
+The Subcommittee on National Security, International Develop-
+ment, and Monetary Policy of the Committee on Financial Services
+held a hearing on September 20, 2022, ‘‘Under the Radar: Alter-
+native Payment Systems and the National Security Impacts of
+Their Growth.’’
+118TH CONGRESS
+The Subcommittee on Digital Assets, Financial Technology and
+Inclusion of the Committee on Financial Services held a hearing on
+March 9, 2023, ‘‘Coincidence or Coordinated? The Administration’s
+Attack on the Digital Asset Ecosystem.’’
+The Subcommittee on National Security, Illicit Finance, and
+International Financial Institutions of the Committee on Financial
+Services held a hearing on April 27, 2023, ‘‘Oversight of the Finan-
+cial Crimes Enforcement Network (FinCEN) and the Office of Ter-
+rorism and Financial Intelligence (TFI).’’
+The Subcommittee on Digital Assets, Financial Technology, and
+Inclusion of the Committee on Financial Services held a hearing on
+November 15, 2023, ‘‘Crypto Crime in Context: Breaking Down the
+Illicit Activity in Digital Assets.’’
+The Subcommittee on Digital Assets, Financial Technology, and
+Inclusion of the Committee on Financial Services held a hearing on
+February 15, 2024, ‘‘Crypto Crime in Context Part II: Examining
+Approaches to Combat Illicit Activity.’’
+The Subcommittee on National Security, Illicit Finance, and
+International Financial Institutions of the Committee on Financial
+Services held a hearing on April 16, 2024, ‘‘Held for Ransom: How
+Ransomware Endangers Our Financial System.’’
+119TH CONGRESS
+On March 26, 2025, Representative Zach Nunn (R–IA) intro-
+duced H.R. 2384, the Financial Technology Protection Act, with
+Representative Jim Himes (D–CT) as original cosponsor. Rep-
+resentatives Warren Davidson (R–OH), Mike Lawler (R–NY), and
+Josh Gottheimer (D–NJ) were added subsequently as cosponsors.
+The bill was referred solely to the Committee on Financial Serv-
+ices.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+2384:
+The Full Committee held a hearing on February 25, 2025, enti-
+tled ‘‘Examining Policies to Counter China.’’ A discussion draft
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+6
+version of the bill was considered in this hearing. The following
+witnesses testified: John Miller, Senior Vice President of Policy,
+Trust, Data, and Technology, and General Counsel, Information
+Technology Industry Council; Nicholas McMurray, Managing Direc-
+tor of International and Nuclear Policy, ClearPath; John Cassara,
+retired United States Treasury Department Special Agent; Martin
+Muhleisen, Nonresident Senior Fellow at the GAO Economic Cen-
+ter at the Atlantic Council; and Dr. Rush Doshi, C.V. Starr Senior
+Fellow for Asian Studies, and Director of the China Strategy Initia-
+tive at the Council on Foreign Relations, and an assistant professor
+at Georgetown University.
+The Committee on Financial Services met in open session on
+April 2, 2025, to consider, among others, H.R. 2384.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On April 2, 2025, H.R. 2384, as amended, was ordered to be re-
+ported favorably to the House by a recorded vote of 49 ayes and
+0 nays, a quorum being present. (Record Vote No. FC–059). Before
+the question to report was called, the Committee adopted an
+amendment in the nature of a substitute, which made minor edits
+and technical changes, offered by Representative Nunn. The
+amendment was adopted by voice vote, a quorum being present.
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+7
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 4:
+100.39RH
+ereh
+9
+oilof
+tesffo
+tresnI
+8
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 2384 is to establish the Inde-
+pendent Financial Technology Working Group to Combat Terrorism
+and Illicit Financing to study and report on terrorist and illicit use
+of emerging technologies, including digital assets, and provide rec-
+ommendations to improve anti-money laundering and counterter-
+rorist financing efforts.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 2384. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of House rule XIII, the Committee will adopt as its own the
+cost estimate by the Director of the Congressional Budget Office
+once it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+9
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+
+Section 5:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 6:
+Section 1. Short title
+
+Section 7:
+Section 1 provides the short title is the ‘‘Financial Technology
+Protection Act of 2025.’’
+
+Section 8:
+Section 2. Independent Financial Technology Working Group to
+Combat Terrorism and Illicit Financing
+This section creates the Independent Financial Technology Work-
+ing Group to Combat Terrorism and Illicit Financing and estab-
+lishes the Under Secretary for Terrorism and Financial Intelligence
+as the chair. The Working Group will have representatives from
+the Department of Treasury, the Department of Justice, the De-
+partment of Homeland Security, the Department of State, the Of-
+fice of the Director of National Intelligence, and at least five indi-
+viduals from the private sector with equities in emerging tech-
+nologies. The Working Group will conduct research on the illicit
+use of emerging technologies and develop legislative and regulatory
+proposals to mitigate this activity. The Working Group will be re-
+quired to submit annual reports on its findings and determinations
+and sunset after four years.
+
+Section 9:
+Section 2 also sunsets the Working Group.
+
+Section 10:
+Section 3. Preventing rogue and foreign actors from evading sanc-
+tions
+
+Section 11:
+Section 3 requires the Working Group to submit a report that de-
+scribes (1) the potential uses of digital assets by States, non-State
+actors, foreign terrorist organizations, and other terrorist groups to
+evade sanctions, finance terrorism, or launder monetary instru-
+ments, and threaten the national security of the United States; and
+(2) a strategy for the United States to mitigate and prevent the il-
+licit use of digital assets.
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+10
+
+Section 12:
+Section 4. Definitions
+This section defines various terms, including digital asset, for-
+eign terrorist organization, illicit use, and emerging technologies.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+H.R. 2384 does not repeal or amend any section of a statute.
+Therefore, the Office of Legislative Counsel did not prepare the re-
+port required under clause 3(e) of rule XIII of the House of Rep-
+resentatives.
+Æ
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6611 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–93
+FINANCIAL TECHNOLOGY PROTECTION ACT OF 2025
+MAY6, 2025.—Committed to the Committee of the Whole House on the State of the
+Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+[To accompany H.R. 2384]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 2384) to establish an Independent Financial Technology
+Working Group to Combat Terrorism and Illicit Financing, and for
+other purposes, having considered the same, reports favorably
+thereon with an amendment and recommends that the bill as
+amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 4
+Background and Need for Legislation .................................................................... 4
+Committee Consideration ........................................................................................ 4
+Related Hearings ..................................................................................................... 5
+Committee Votes ...................................................................................................... 6
+Committee Oversight Findings ............................................................................... 8
+Performance Goals and Objectives ......................................................................... 8
+Committee Cost Estimate ....................................................................................... 8
+New Budget Authority and CBO Cost Estimate ................................................... 8
+Unfunded Mandates Statement .............................................................................. 8
+Earmark Statement ................................................................................................. 8
+Federal Advisory Committee Act Statement ......................................................... 9
+Applicability to the Legislative Branch ................................................................. 9
+Duplication of Federal Programs ............................................................................ 9
+Section-by-Section Analysis of the Legislation ...................................................... 9
+Changes in Existing Law Made by the Bill, as Reported ..................................... 10
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Financial Technology Protection Act of 2025’’.
+59–006
+VerDate Sep 11 2014 03:56 May 17, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6621 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+SEC. 2. INDEPENDENT FINANCIAL TECHNOLOGY WORKING GROUP TO COMBAT TERRORISM
+AND ILLICIT FINANCING.
+(a) ESTABLISHMENT.—There is established the Independent Financial Technology
+Working Group to Combat Terrorism and Illicit Financing (in this section referred
+to as the ‘‘Working Group’’), which shall consist of the following:
+(1) The Secretary of the Treasury, acting through the Under Secretary for
+Terrorism and Financial Crimes, who shall serve as the chair of the Working
+Group.
+(2) A senior-level representative from each of the following:
+(A) The Department of the Treasury.
+(B) The Office of Terrorism and Financial Intelligence.
+(C) The Internal Revenue Service.
+(D) The Department of Justice.
+(E) The Federal Bureau of Investigation.
+(F) The Drug Enforcement Administration.
+(G) The Department of Homeland Security.
+(H) The United States Secret Service.
+(I) The Department of State.
+(J) The Office of the Director of National Intelligence.
+(3) At least five individuals appointed by the Under Secretary for Terrorism
+and Financial Crimes to represent the following:
+(A) Financial technology companies.
+(B) Blockchain intelligence companies.
+(C) Financial institutions.
+(D) Institutions or organizations engaged in research.
+(E) Institutions or organizations focused on individual privacy and civil
+liberties.
+(4) Such additional individuals as the Secretary of the Treasury may appoint
+as necessary to accomplish the duties described under subsection (b).
+(b) DUTIES.—The Working Group shall—
+(1) conduct research on terrorist and illicit use of digital assets and other re-
+lated emerging technologies; and
+(2) develop legislative and regulatory proposals to improve anti-money laun-
+dering, counter-terrorist, and other counter-illicit financing efforts in the United
+States.
+(c) REPORTS.—
+(1) IN GENERAL.—Not later than one year after the date of the enactment of
+this Act, and annually for the 3 years thereafter, the Working Group shall sub-
+mit to the Secretary of the Treasury, the heads of each agency represented in
+the Working Group pursuant to subsection (a)(2), and the appropriate congres-
+sional committees a report containing the findings and determinations made by
+the Working Group in the previous year and any legislative and regulatory pro-
+posals developed by the Working Group.
+(2) FINAL REPORT.—Before the date on which the Working Group terminates
+under subsection (d)(1), the Working Group shall submit to the appropriate con-
+gressional committees a final report detailing the findings, recommendations,
+and activities of the Working Group, including any final results from the re-
+search conducted by the Working Group.
+(d) SUNSET.—
+(1) INGENERAL.—The Working Group shall terminate on the later of—
+(A) the date that is 4 years after the date of the enactment of this Act;
+or
+(B) the date on which the Working Group completes any wind-up activi-
+ties described under paragraph (2).
+(2) AUTHORITY TO WIND UP ACTIVITIES.—If there are ongoing research, pro-
+posals, or other related activities of the Working Group ongoing as of the date
+that is 4 years after the date of the enactment of this Act, the Working Group
+may temporarily continue working in order to wind-up such activities.
+(3) RETURN OF APPROPRIATED FUNDS.—On the date on which the Working
+Group terminates under paragraph (1), any unobligated funds appropriated to
+carry out this section shall be transferred to the Treasury.
+SEC. 3. PREVENTING ROGUE AND FOREIGN ACTORS FROM EVADING SANCTIONS.
+(a) REPORTANDSTRATEGYWITHRESPECTTODIGITALASSETSANDOTHERRELATED
+EMERGINGTECHNOLOGIES.—
+(1) IN GENERAL.—Not later than 180 days after the date of the enactment of
+this Act, the President, acting through the Secretary of the Treasury and in con-
+sultation with the head of each agency represented on the Independent Finan-
+cial Technology Working Group to Combat Terrorism and Illicit Financing pur-
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+suant to section 2(a)(2), shall submit to the appropriate congressional commit-
+tees a report that describes—
+(A) the potential uses of digital assets and other related emerging tech-
+nologies by States, non-State actors, foreign terrorist organizations, and
+other terrorist groups to evade sanctions, finance terrorism, or launder
+monetary instruments, and threaten the national security of the United
+States; and
+(B) a strategy for the United States to mitigate and prevent the illicit use
+of digital assets and other related emerging technologies.
+(2) FORMOFREPORT; PUBLICAVAILABILITY.—
+(A) IN GENERAL.—The report required by paragraph (1) shall be sub-
+mitted in unclassified form, but may include a classified annex.
+(B) PUBLIC AVAILABILITY.—The unclassified portion of each report re-
+quired by paragraph (1) shall be made available to the public and posted
+on a publicly accessible website of the Department of the Treasury—
+(i) in precompressed, easily downloadable versions, in all appropriate
+formats; and
+(ii) in machine-readable format, if applicable.
+(3) SOURCES OF INFORMATION.—In preparing the reports required by para-
+graph (1), the President may utilize any credible publication, database, or web-
+based resource, and any credible information compiled by any government agen-
+cy, nongovernmental organization, or other entity that is made available to the
+President.
+(b) BRIEFING.—Not later than 2 years after the date of the enactment of this Act,
+the Secretary of the Treasury shall brief the appropriate congressional committees
+on the implementation of the strategy required by subsection (a)(1)(B).
+SEC. 4. DEFINITIONS.
+In this Act:
+(1) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term ‘‘appropriate con-
+gressional committees’’ means—
+(A) the Committee on Banking, Housing, and Urban Affairs, the Com-
+mittee on Finance, the Committee on Foreign Relations, the Committee on
+Homeland Security and Governmental Affairs, the Committee on the Judi-
+ciary, and the Select Committee on Intelligence of the Senate; and
+(B) the Committee on Financial Services, the Committee on Foreign Af-
+fairs, the Committee on Homeland Security, the Committee on the Judici-
+ary, the Committee on Ways and Means, and the Permanent Select Com-
+mittee on Intelligence of the House of Representatives.
+(2) BLOCKCHAIN INTELLIGENCE COMPANY.—The term ‘‘blockchain intelligence
+company’’ means any business providing software, research, or other services
+(such as blockchain tracing tools, geofencing, transaction screening, the collec-
+tion of business data, and sanctions screening) that—
+(A) support private and public sector investigations and risk management
+activities; and
+(B) involve cryptographically secured distributed ledgers or any similar
+technology or implementation.
+(3) DIGITALASSET.—The term ‘‘digital asset’’ means any digital representation
+of value that is recorded on a cryptographically secured digital ledger or any
+similar technology.
+(4) EMERGING TECHNOLOGIES.—The term ‘‘emerging technologies’’ means the
+critical and emerging technology areas listed in the Critical and Emerging Tech-
+nologies List developed by the Fast Track Action Subcommittee on Critical and
+Emerging Technologies of the National Science and Technology Council, includ-
+ing any updates to such list.
+(5) FOREIGN TERRORIST ORGANIZATION.—The term ‘‘foreign terrorist organiza-
+tion’’ means an organization that is designated as a foreign terrorist organiza-
+tion under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
+(6) ILLICIT USE.—The term ‘‘illicit use’’ includes fraud, darknet marketplace
+transactions, money laundering, the purchase and sale of illicit goods, sanctions
+evasion, theft of funds, funding of illegal activities, transactions related to child
+sexual abuse material, and any other financial transaction involving the pro-
+ceeds of specified unlawful activity (as defined in section 1956(c) of title 18,
+United States Code).
+(7) TERRORIST.—The term ‘‘terrorist’’ includes a person carrying out domestic
+terrorism or international terrorism (as such terms are defined, respectively,
+under section 2331 of title 18, United States Code).
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6621 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+PURPOSE AND SUMMARY
+Introduced on March 26, 2025, by Representative Nunn, H.R.
+2384, the Financial Technology Protection Act, establishes the Inde-
+pendent Financial Technology Working Group to Combat Terrorism
+and Illicit Financing to study and report on terrorist and illicit use
+of emerging technologies, including digital assets, and provide rec-
+ommendations to improve anti-money laundering and counterter-
+rorist financing efforts.
+BACKGROUND AND NEED FOR LEGISLATION
+The Financial Technology Protection Act was first introduced by
+former Representative Ted Budd (R–NC) and Representative Ste-
+phen Lynch (D–MA) in the 115th Congress, where it passed on the
+House floor by a voice vote. This legislation was re-introduced in
+both the 116th and the 117th Congresses. In the 118th Congress,
+the Financial Technology Protection Act passed the House by voice
+vote. Senators Ted Budd (R–NC) and Kirsten Gillibrand (D–NY)
+also introduced a Senate companion during the 118th Congress.
+Although rates of illicit activity remain low in the digital asset
+ecosystem, the ease by which digital asset transactions can be car-
+ried out and settled has proven to be used by bad actors. Addition-
+ally, because digital assets are a nascent and ever-evolving tech-
+nology, law enforcement bodies around the world have struggled to
+keep pace with emerging trends and types of crime in the eco-
+system. At the same time, however, the immutability and trans-
+parency of blockchain networks means that law enforcement has
+unique insight into the movement of illicit funds. Indeed, several
+high-profile cases have been solved because law enforcement was
+able to leverage the unique features of a blockchain network to
+track down and ultimately reclaim ill-gotten gains.
+There has been considerable focus by U.S. regulators and Con-
+gress to curb nefarious activity with digital assets. In the Treasury
+Department’s 2024 National Strategy for Combating Terrorist and
+Other Illicit Financing, Treasury identified ‘‘improv[ing] and
+expand[ing] on public-private information-sharing efforts’’ as one of
+its priority action items.1 H.R. 2384 would provide a forum for such
+engagement and make significant progress in helping the United
+States ensure that Americans can interact with digital assets in a
+safe and secure manner.
+COMMITTEE CONSIDERATION
+115TH CONGRESS
+The Subcommittee on Terrorism and Illicit Finance of the Com-
+mittee on Financial Services held a hearing on June 8, 2017, ‘‘Vir-
+tual Currency: Financial Innovation and National Security Implica-
+tions.’’
+The Subcommittee on Terrorism and Illicit Finance of the Com-
+mittee on Financial Services held a hearing on June 20, 2018, ‘‘Il-
+licit Use of Virtual Currency and the Law Enforcement Response.’’
+1U.S. DEP’T OF THE TREASURY, 2024 NATIONAL STRATEGY FOR COMBATTING TERRORIST AND
+OTHERILLICITFINANCING(2024).
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+5
+117TH CONGRESS
+The Subcommittee on National Security, International Develop-
+ment, and Monetary Policy of the Committee on Financial Services
+held a hearing on June 16, 2021, ‘‘Schemes and Subversion: How
+Bad Actors and Foreign Governments Undermine and Evade Sanc-
+tions Regimes.’’
+The Committee on Financial Services held a hearing on February
+8, 2022, ‘‘Digital Assets and the Future of Finance: Understanding
+the Challenges and Benefits of Financial Innovation in the United
+States.’’
+The Subcommittee on National Security, International Develop-
+ment, and Monetary Policy of the Committee on Financial Services
+held a hearing on September 20, 2022, ‘‘Under the Radar: Alter-
+native Payment Systems and the National Security Impacts of
+Their Growth.’’
+118TH CONGRESS
+The Subcommittee on Digital Assets, Financial Technology and
+Inclusion of the Committee on Financial Services held a hearing on
+March 9, 2023, ‘‘Coincidence or Coordinated? The Administration’s
+Attack on the Digital Asset Ecosystem.’’
+The Subcommittee on National Security, Illicit Finance, and
+International Financial Institutions of the Committee on Financial
+Services held a hearing on April 27, 2023, ‘‘Oversight of the Finan-
+cial Crimes Enforcement Network (FinCEN) and the Office of Ter-
+rorism and Financial Intelligence (TFI).’’
+The Subcommittee on Digital Assets, Financial Technology, and
+Inclusion of the Committee on Financial Services held a hearing on
+November 15, 2023, ‘‘Crypto Crime in Context: Breaking Down the
+Illicit Activity in Digital Assets.’’
+The Subcommittee on Digital Assets, Financial Technology, and
+Inclusion of the Committee on Financial Services held a hearing on
+February 15, 2024, ‘‘Crypto Crime in Context Part II: Examining
+Approaches to Combat Illicit Activity.’’
+The Subcommittee on National Security, Illicit Finance, and
+International Financial Institutions of the Committee on Financial
+Services held a hearing on April 16, 2024, ‘‘Held for Ransom: How
+Ransomware Endangers Our Financial System.’’
+119TH CONGRESS
+On March 26, 2025, Representative Zach Nunn (R–IA) intro-
+duced H.R. 2384, the Financial Technology Protection Act, with
+Representative Jim Himes (D–CT) as original cosponsor. Rep-
+resentatives Warren Davidson (R–OH), Mike Lawler (R–NY), and
+Josh Gottheimer (D–NJ) were added subsequently as cosponsors.
+The bill was referred solely to the Committee on Financial Serv-
+ices.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+2384:
+The Full Committee held a hearing on February 25, 2025, enti-
+tled ‘‘Examining Policies to Counter China.’’ A discussion draft
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+6
+version of the bill was considered in this hearing. The following
+witnesses testified: John Miller, Senior Vice President of Policy,
+Trust, Data, and Technology, and General Counsel, Information
+Technology Industry Council; Nicholas McMurray, Managing Direc-
+tor of International and Nuclear Policy, ClearPath; John Cassara,
+retired United States Treasury Department Special Agent; Martin
+Muhleisen, Nonresident Senior Fellow at the GAO Economic Cen-
+ter at the Atlantic Council; and Dr. Rush Doshi, C.V. Starr Senior
+Fellow for Asian Studies, and Director of the China Strategy Initia-
+tive at the Council on Foreign Relations, and an assistant professor
+at Georgetown University.
+The Committee on Financial Services met in open session on
+April 2, 2025, to consider, among others, H.R. 2384.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On April 2, 2025, H.R. 2384, as amended, was ordered to be re-
+ported favorably to the House by a recorded vote of 49 ayes and
+0 nays, a quorum being present. (Record Vote No. FC–059). Before
+the question to report was called, the Committee adopted an
+amendment in the nature of a substitute, which made minor edits
+and technical changes, offered by Representative Nunn. The
+amendment was adopted by voice vote, a quorum being present.
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+7
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.39RH
+ereh
+9
+oilof
+tesffo
+tresnI
+
+8
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 2384 is to establish the Inde-
+pendent Financial Technology Working Group to Combat Terrorism
+and Illicit Financing to study and report on terrorist and illicit use
+of emerging technologies, including digital assets, and provide rec-
+ommendations to improve anti-money laundering and counterter-
+rorist financing efforts.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 2384. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of House rule XIII, the Committee will adopt as its own the
+cost estimate by the Director of the Congressional Budget Office
+once it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+9
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+Section 1 provides the short title is the ‘‘Financial Technology
+Protection Act of 2025.’’
+Section 2. Independent Financial Technology Working Group to
+Combat Terrorism and Illicit Financing
+This section creates the Independent Financial Technology Work-
+ing Group to Combat Terrorism and Illicit Financing and estab-
+lishes the Under Secretary for Terrorism and Financial Intelligence
+as the chair. The Working Group will have representatives from
+the Department of Treasury, the Department of Justice, the De-
+partment of Homeland Security, the Department of State, the Of-
+fice of the Director of National Intelligence, and at least five indi-
+viduals from the private sector with equities in emerging tech-
+nologies. The Working Group will conduct research on the illicit
+use of emerging technologies and develop legislative and regulatory
+proposals to mitigate this activity. The Working Group will be re-
+quired to submit annual reports on its findings and determinations
+and sunset after four years.
+Section 2 also sunsets the Working Group.
+Section 3. Preventing rogue and foreign actors from evading sanc-
+tions
+Section 3 requires the Working Group to submit a report that de-
+scribes (1) the potential uses of digital assets by States, non-State
+actors, foreign terrorist organizations, and other terrorist groups to
+evade sanctions, finance terrorism, or launder monetary instru-
+ments, and threaten the national security of the United States; and
+(2) a strategy for the United States to mitigate and prevent the il-
+licit use of digital assets.
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+10
+Section 4. Definitions
+This section defines various terms, including digital asset, for-
+eign terrorist organization, illicit use, and emerging technologies.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+H.R. 2384 does not repeal or amend any section of a statute.
+Therefore, the Office of Legislative Counsel did not prepare the re-
+port required under clause 3(e) of rule XIII of the House of Rep-
+resentatives.
+Æ
+VerDate Sep 11 2014 02:02 May 17, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6611 E:\HR\OC\HR093.XXX HR093
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

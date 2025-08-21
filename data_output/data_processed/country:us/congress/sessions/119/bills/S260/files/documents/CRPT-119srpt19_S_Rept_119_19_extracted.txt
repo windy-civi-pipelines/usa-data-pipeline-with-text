@@ -1,0 +1,682 @@
+Title: VerDate Sep 11 2014 02:04 May 13, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR019.XXX SR019
+Official Title: VerDate Sep 11 2014 02:04 May 13, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR019.XXX SR019
+Number of Sections: 7
+Source: documents - S. Rept. 119-19
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+1
+Calendar No. 68
+119THCONGRESS
+" SENATE !
+REPORT
+1st Session 119–19
+BOTTLES AND BREASTFEEDING EQUIPMENT
+SCREENING ENHANCEMENT ACT
+R E P O R T
+OFTHE
+COMMITTEE ON COMMERCE, SCIENCE, AND
+TRANSPORTATION
+ON
+S. 260
+MAY 6, 2025.—Ordered to be printed
+U.S. GOVERNMENT PUBLISHING OFFICE
+59–010 WASHINGTON : 2025
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba 31#.ssergnoc
+SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION
+ONE HUNDRED NINETEENTH CONGRESS
+FIRST SESSION
+TED CRUZ, Texas, Chairman
+JOHNTHUNE,SouthDakota MARIACANTWELL,Washington
+ROGERF.WICKER,Mississippi AMYKLOBUCHAR,Minnesota
+DEBFISCHER,Nebraska BRIANSCHATZ,Hawaii
+JERRYMORAN,Kansas EDWARDJ.MARKEY,Massachusetts
+DANSULLIVAN,Alaska GARYC.PETERS,Michigan
+MARSHABLACKBURN,Tennessee TAMMYBALDWIN,Wisconsin
+TODDYOUNG,Indiana TAMMYDUCKWORTH,Illinois
+TEDBUDD,NorthCarolina JACKYROSEN,Nevada
+ERICSCHMITT,Missouri BENRAYLUJA´N,NewMexico
+JOHNCURTIS,Utah JOHNW.HICKENLOOPER,Colorado
+BERNIEMORENO,Ohio JOHNFETTERMAN,Pennsylvania
+TIMSHEEHY,Montana ANDYKIM,NewJersey
+SHELLEYMOORECAPITO,WestVirginia LISABLUNTROCHESTER,Delaware
+CYNTHIAM.LUMMIS,Wyoming
+BRAD GRANTZ, Majority Staff Director
+LILA HARPER HELMS, Democratic Staff Director
+(II)
+VerDate Sep 11 2014 02:04 May 13, 2025 Jkt 059010 PO 00000 Frm 00002 Fmt 5904 Sfmt 5904 E:\HR\OC\SR019.XXX SR019
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+Calendar No. 68
+119THCONGRESS REPORT
+1st Session " SENATE ! 119–19
+BOTTLES AND BREASTFEEDING EQUIPMENT SCREENING
+ENHANCEMENT ACT
+MAY6, 2025.—Ordered to be printed
+Mr. CRUZ, from the Committee on Commerce, Science, and
+Transportation, submitted the following
+R E P O R T
+[To accompany S. 260]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Commerce, Science, and Transportation, to
+which was referred the bill (S. 260) to amend the Bottles and
+Breastfeeding Equipment Screening Act to require hygienic han-
+dling of breast milk and baby formula by security screening per-
+sonnel of the Transportation Security Administration and per-
+sonnel of private security companies providing security screening,
+and for other purposes, having considered the same, reports favor-
+ably thereon without amendment and recommends that the bill do
+pass.
+PURPOSE OF THE BILL
+The purpose of this legislation is to direct the Transportation Se-
+curity Administration (TSA) to issue or update guidance to mini-
+mize the risk of contamination of breast milk, baby formula, puri-
+fied deionized water for infants, juice, and other related products
+that are subject to re-screening or additional screening, including
+adherence to hygienic standards.
+BACKGROUND AND NEEDS
+After terrorists plotted to bring liquid explosives on-board air-
+craft in August 2006, TSA banned all liquids, gels, and aerosols
+VerDate Sep 11 2014 02:04 May 13, 2025 Jkt 059010 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\SR019.XXX SR019
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+2
+from carry-on luggage.1 In September 2006, however, the TSA
+amended the ban to allow for a limited quantity of liquid on-board,
+now known as the TSA 3–1–1 liquids rule.2 TSA’s 3–1–1 liquids
+rule allows passengers to bring containers holding liquids, aerosols,
+gels, creams and pastes of 3.4 ounces or less that fit into one quart-
+sized plastic bag in carry-on luggage.3 Any containers larger than
+
+Section 2:
+3.4 ounces, or in addition to what can fit in a quart-sized plastic
+bag, must be put into checked baggage.
+The Bottles and Breastfeeding Equipment Screening (BABES)
+Enhancement Act4 exempts baby formula, breast milk, purified de-
+ionized water for infants, and juice from TSA’s 3–1–1 liquids re-
+striction. The law includes additional training requirements for
+TSA screening personnel. Yet, families continue to report instances
+of TSA delaying screening or prohibiting families from carrying
+covered infant liquids through security checkpoints.5 Additionally,
+families have reported that TSA’s wipe down of bottles, pumps, or
+formula, in screening for explosives and other contaminants, has
+contaminated such medically necessary items.6
+SUMMARY OF PROVISIONS
+S. 260, the BABES Enhancement Act, would do the following:
+• Direct TSA to, not later than 90 days after the date of enact-
+ment and every 5 years thereafter if appropriate, issue or up-
+date guidance to minimize the risk for contamination of any
+breast milk, baby formula, purified deionized water for infants,
+and juice (as well as ice packs, freezer packs, frozen gel packs
+and other accessories required to cool breast milk, baby for-
+mula, and juice) that is subject to re-screening or otherwise
+subject to additional screening; and
+• Direct the Department of Homeland Security Office of Inspec-
+tor General to audit and report to Congress on TSA’s compli-
+ance with the BABES Enhancement Act.
+LEGISLATIVE HISTORY
+S. 260, the Bottles and Breastfeeding Equipment Screening En-
+hancement Act, was introduced on January 27, 2025, by Senator
+Duckworth (for herself and Senators Daines, Cruz, and Hirono) and
+was referred to the Committee on Commerce, Science, and Trans-
+portation of the Senate. On February 5, 2025, the Committee met
+in open Executive Session and, by voice vote, ordered S. 260 re-
+ported favorably without amendment.
+1‘‘Terrorists plot to detonate liquid explosives carried onboard at least 10 airliners traveling
+from the UK to United States and Canada. British Police foil the plot. In response, TSA bans
+all liquids, gels and aerosols from passenger carry-on luggage.’’ See ‘‘Timeline: Aug. 2006 Trans-
+atlantic Aircraft Plot,’’ Transportation Security Administration (https://www.tsa.gov/timeline).
+2‘‘A month after the implementation of the original liquids ban, TSA amends its rules gov-
+erning liquids in passenger carry-on baggage and allows airline passengers to carry liquids, gels
+and aerosols in containers of only 3.4 ounces or less in a single, clear, resealable 1-quart plastic
+bag.’’ See ‘‘Timeline: Sep. 2006 3–1–1 Liquids Rule,’’ Transportation Security Administration
+(https://www.tsa.gov/timeline).
+3‘‘Liquids, Aerosols, and Gels Rule,’’ Transportation Security Administration (https://
+www.tsa.gov/travel/security-screening/liquids-aerosols-gels-rule).
+4Public Law 114–293.
+5Kim Elsesser, ‘‘After Nursing Mom Calls Out TSA, a New Bill Addresses the Handling of
+Breast Milk at Airports,’’ Forbes, August 12, 2022 (https://www.forbes.com/sites/kimelsesser/
+2022/08/12/after-nursing-mom-calls-out-tsa-a-new-bill-addresses-the-handling-of-breast-milk-at-
+airports/).
+6Ibid.
+VerDate Sep 11 2014 02:04 May 13, 2025 Jkt 059010 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\SR019.XXX SR019
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+3
+House companion legislation, H.R. 820, was introduced on Janu-
+ary 28, 2025, by Representative Swalwell (for himself and 14 origi-
+nal cosponsors) and was referred to the Committee on Homeland
+Security of the House of Representatives. Seven cosponsors were
+later added.
+118TH CONGRESS
+S. 1570, the Bottles and Breastfeeding Equipment Screening En-
+hancement Act, was introduced on May 11, 2023, by Senator
+Duckworth (for herself and Senators Daines and Hirono) and was
+referred to the Committee on Commerce, Science, and Transpor-
+tation of the Senate. Senator Cruz was added as a cosponsor on
+January 30, 2024. On July 31, 2024, the Committee met in open
+Executive Session and, by voice vote, ordered S. 1570 reported fa-
+vorably without amendment. On September 25, 2024, S. 1570
+passed the Senate by unanimous consent.
+A House companion bill, H.R. 3386, was introduced on May 16,
+2023, by Representative Porter (for herself and Representatives
+Salazar and Swalwell) and was referred to the Committee on
+Homeland Security of the House of Representatives. Sixteen co-
+sponsors were later added. On September 25, 2024, H.R. 3386 was
+ordered reported by the House Committee on Homeland Security
+by voice vote.
+ESTIMATED COSTS
+In accordance with paragraph 11(a) of rule XXVI of the Standing
+Rules of the Senate and section 403 of the Congressional Budget
+Act of 1974, the Committee provides the following cost estimate,
+prepared by the Congressional Budget Office:
+S. 260 would require the Transportation Security Administration
+(TSA) to issue or update guidance to minimize the risk of contami-
+nating breastmilk, baby formula, and related accessories during the
+passenger screening process at airports. The bill also would require
+VerDate Sep 11 2014 02:04 May 13, 2025 Jkt 059010 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\SR019.XXX SR019
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+Section 3:
+100.910RS
+ereh
+6
+oilof
+tesffo
+tresnI
+4
+the Inspector General of the Department of Homeland Security to
+audit that guidance.
+According to information from the agency, TSA regularly updates
+its guidance for screening breastmilk and related items under cur-
+rent law. On that basis, CBO estimates that implementing that
+provision would not significantly affect the federal budget. Based
+on the cost of similar activities, CBO estimates that conducting the
+audit would cost less than $500,000 over the 2025–2030 period; any
+related spending would be subject to the availability of appro-
+priated funds.
+The CBO staff contact for this estimate is Emma Uebelhor. The
+estimate was reviewed by H. Samuel Papenfuss, Deputy Director
+of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+REGULATORY IMPACT STATEMENT
+Because S. 260 does not create any new programs, the legislation
+will have no additional regulatory impact, and will result in no ad-
+ditional reporting requirements. The legislation will have no fur-
+ther effect on the number or types of individuals and businesses
+regulated, the economic impact of such regulation, the personal pri-
+vacy of affected individuals, or the paperwork required from such
+individuals and businesses.
+CONGRESSIONALLY DIRECTED SPENDING
+In compliance with paragraph 4(b) of rule XLIV of the Standing
+Rules of the Senate, the Committee provides that no provisions
+contained in the bill, as reported, meet the definition of congres-
+sionally directed spending items under the rule.
+
+Section 4:
+SECTION-BY-SECTION ANALYSIS
+
+Section 5:
+Section 1. Short title.
+This section would provide that the bill may be cited as the ‘‘Bot-
+tles and Breastfeeding Equipment Screening Enhancement Act’’.
+
+Section 6:
+Section 2. Hygienic handling of breast milk and baby formula dur-
+ing aviation security screening.
+This section would amend the Bottles and Breastfeeding Equip-
+ment Screening Act7 by adding new sections to:
+• Require the TSA Administrator to issue or update guidance
+within 90 days of enactment, and every 5 years after (if appro-
+priate), to minimize the risk for contamination of any breast
+milk, baby formula, purified deionized water for infants, and
+juice (as well as ice packs, freezer packs, frozen gel packs, and
+other accessories required to cool breast milk) subject to re-
+screening or additional screening.
+• Direct TSA to consult with nationally recognized maternal
+health organizations in developing the guidance for covered in-
+fant liquids undergoing additional screening and adherence to
+such protocols. This provision would apply to TSA and con-
+tracted airport screening personnel.
+7Public Law 114–293.
+VerDate Sep 11 2014 02:04 May 13, 2025 Jkt 059010 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\SR019.XXX SR019
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+5
+• Require the Inspector General of the Department of Homeland
+Security to complete an audit of TSA’s compliance with the re-
+quirements of this Act no later than 1 year after the date of
+enactment. The report would include information relating to
+the effect of various types of screening technologies on bottled
+liquid scanners, breast milk, baby formula, purified deionized
+water for infants, and juice (as well as ice packs, freezer packs,
+frozen gel packs, and other accessories required to cool breast
+milk).
+CHANGES IN EXISTING LAW
+In compliance with paragraph 12 of rule XXVI of the Standing
+Rules of the Senate, changes in existing law made by the bill, as
+reported, are shown as follows (existing law proposed to be omitted
+is enclosed in black brackets, new material is printed in italic, ex-
+isting law in which no change is proposed is shown in roman):
+THE BOTTLES AND BREASTFEEDING
+EQUIPMENT SCREENING ACT
+[Public Law 114–293]
+* * * * * * *
+
+Section 7:
+SECTION 1. * * *
+SEC. 2. * * *
+SEC. 3. HYGIENIC HANDLING OF BREAST MILK AND BABY FORMULA
+DURING AVIATION SECURITY SCREENING.
+Not later than 90 days after the date of the enactment of this sec-
+tion and every five years thereafter, if appropriate, the Adminis-
+trator of the Transportation Security Administration shall issue or
+update, as the case may be, guidance to minimize the risk for con-
+tamination of any breast milk, baby formula, purified deionized
+water for infants, and juice (as well as ice packs, freezer packs, fro-
+zen gel packs and other accessories required to cool breast milk,
+baby formula, and juice) that is subject to re-screening or otherwise
+subject to additional screening. Such guidance shall—
+(1) be developed in consultation with nationally recognized
+maternal health organizations;
+(2) ensure adherence to hygienic standards, as established by
+the Administrator, in consultation with nationally recognized
+maternal health organizations;
+(3) ensure that, when any such re-screening or additional
+screening requires additional testing, such testing so adheres to
+such standards, to so minimize such risk; and
+(4) apply to security screening personnel of the Administra-
+tion and personnel of private security companies providing se-
+curity screening pursuant to section 44920 of title 49, United
+States Code.
+SEC. 4. INSPECTOR GENERAL AUDIT.
+Not later than one year after the date of the enactment of this sec-
+tion, the Inspector General of the Department of Homeland Security
+shall submit to the Committee on Homeland Security of the House
+of Representatives and the Committee on Commerce, Science, and
+VerDate Sep 11 2014 02:04 May 13, 2025 Jkt 059010 PO 00000 Frm 00007 Fmt 6659 Sfmt 6603 E:\HR\OC\SR019.XXX SR019
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+6
+Transportation of the Senate a report containing an audit of compli-
+ance with the requirements of sections 2 and 3. Such audit shall
+also include information relating to the effect of various types of
+screening technologies, including bottled liquid scanners, on the
+screening of breast milk, baby formula, purified deionized water for
+infants, and juice (as well as ice packs, freezer packs, frozen gel
+packs and other accessories required to cool breast milk, baby for-
+mula, and juice) that is subject to re-screening or otherwise subject
+to additional screening, and the rate at which such items are denied
+entry into the sterile area (as such term is defined in section 1540.5
+of title 49, Code of Federal Regulations).
+* * * * * * *
+Æ
+VerDate Sep 11 2014 02:04 May 13, 2025 Jkt 059010 PO 00000 Frm 00008 Fmt 6659 Sfmt 6611 E:\HR\OC\SR019.XXX SR019
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+
+================================================================================
+
+Raw Text:
+1
+Calendar No. 68
+119THCONGRESS
+" SENATE !
+REPORT
+1st Session 119–19
+BOTTLES AND BREASTFEEDING EQUIPMENT
+SCREENING ENHANCEMENT ACT
+R E P O R T
+OFTHE
+COMMITTEE ON COMMERCE, SCIENCE, AND
+TRANSPORTATION
+ON
+S. 260
+MAY 6, 2025.—Ordered to be printed
+U.S. GOVERNMENT PUBLISHING OFFICE
+59–010 WASHINGTON : 2025
+VerDate Sep 11 2014 02:04 May 13, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR019.XXX SR019
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba 31#.ssergnoc
+
+SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION
+ONE HUNDRED NINETEENTH CONGRESS
+FIRST SESSION
+TED CRUZ, Texas, Chairman
+JOHNTHUNE,SouthDakota MARIACANTWELL,Washington
+ROGERF.WICKER,Mississippi AMYKLOBUCHAR,Minnesota
+DEBFISCHER,Nebraska BRIANSCHATZ,Hawaii
+JERRYMORAN,Kansas EDWARDJ.MARKEY,Massachusetts
+DANSULLIVAN,Alaska GARYC.PETERS,Michigan
+MARSHABLACKBURN,Tennessee TAMMYBALDWIN,Wisconsin
+TODDYOUNG,Indiana TAMMYDUCKWORTH,Illinois
+TEDBUDD,NorthCarolina JACKYROSEN,Nevada
+ERICSCHMITT,Missouri BENRAYLUJA´N,NewMexico
+JOHNCURTIS,Utah JOHNW.HICKENLOOPER,Colorado
+BERNIEMORENO,Ohio JOHNFETTERMAN,Pennsylvania
+TIMSHEEHY,Montana ANDYKIM,NewJersey
+SHELLEYMOORECAPITO,WestVirginia LISABLUNTROCHESTER,Delaware
+CYNTHIAM.LUMMIS,Wyoming
+BRAD GRANTZ, Majority Staff Director
+LILA HARPER HELMS, Democratic Staff Director
+(II)
+VerDate Sep 11 2014 02:04 May 13, 2025 Jkt 059010 PO 00000 Frm 00002 Fmt 5904 Sfmt 5904 E:\HR\OC\SR019.XXX SR019
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+Calendar No. 68
+119THCONGRESS REPORT
+1st Session " SENATE ! 119–19
+BOTTLES AND BREASTFEEDING EQUIPMENT SCREENING
+ENHANCEMENT ACT
+MAY6, 2025.—Ordered to be printed
+Mr. CRUZ, from the Committee on Commerce, Science, and
+Transportation, submitted the following
+R E P O R T
+[To accompany S. 260]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Commerce, Science, and Transportation, to
+which was referred the bill (S. 260) to amend the Bottles and
+Breastfeeding Equipment Screening Act to require hygienic han-
+dling of breast milk and baby formula by security screening per-
+sonnel of the Transportation Security Administration and per-
+sonnel of private security companies providing security screening,
+and for other purposes, having considered the same, reports favor-
+ably thereon without amendment and recommends that the bill do
+pass.
+PURPOSE OF THE BILL
+The purpose of this legislation is to direct the Transportation Se-
+curity Administration (TSA) to issue or update guidance to mini-
+mize the risk of contamination of breast milk, baby formula, puri-
+fied deionized water for infants, juice, and other related products
+that are subject to re-screening or additional screening, including
+adherence to hygienic standards.
+BACKGROUND AND NEEDS
+After terrorists plotted to bring liquid explosives on-board air-
+craft in August 2006, TSA banned all liquids, gels, and aerosols
+VerDate Sep 11 2014 02:04 May 13, 2025 Jkt 059010 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\SR019.XXX SR019
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+2
+from carry-on luggage.1 In September 2006, however, the TSA
+amended the ban to allow for a limited quantity of liquid on-board,
+now known as the TSA 3–1–1 liquids rule.2 TSA’s 3–1–1 liquids
+rule allows passengers to bring containers holding liquids, aerosols,
+gels, creams and pastes of 3.4 ounces or less that fit into one quart-
+sized plastic bag in carry-on luggage.3 Any containers larger than
+3.4 ounces, or in addition to what can fit in a quart-sized plastic
+bag, must be put into checked baggage.
+The Bottles and Breastfeeding Equipment Screening (BABES)
+Enhancement Act4 exempts baby formula, breast milk, purified de-
+ionized water for infants, and juice from TSA’s 3–1–1 liquids re-
+striction. The law includes additional training requirements for
+TSA screening personnel. Yet, families continue to report instances
+of TSA delaying screening or prohibiting families from carrying
+covered infant liquids through security checkpoints.5 Additionally,
+families have reported that TSA’s wipe down of bottles, pumps, or
+formula, in screening for explosives and other contaminants, has
+contaminated such medically necessary items.6
+SUMMARY OF PROVISIONS
+S. 260, the BABES Enhancement Act, would do the following:
+• Direct TSA to, not later than 90 days after the date of enact-
+ment and every 5 years thereafter if appropriate, issue or up-
+date guidance to minimize the risk for contamination of any
+breast milk, baby formula, purified deionized water for infants,
+and juice (as well as ice packs, freezer packs, frozen gel packs
+and other accessories required to cool breast milk, baby for-
+mula, and juice) that is subject to re-screening or otherwise
+subject to additional screening; and
+• Direct the Department of Homeland Security Office of Inspec-
+tor General to audit and report to Congress on TSA’s compli-
+ance with the BABES Enhancement Act.
+LEGISLATIVE HISTORY
+S. 260, the Bottles and Breastfeeding Equipment Screening En-
+hancement Act, was introduced on January 27, 2025, by Senator
+Duckworth (for herself and Senators Daines, Cruz, and Hirono) and
+was referred to the Committee on Commerce, Science, and Trans-
+portation of the Senate. On February 5, 2025, the Committee met
+in open Executive Session and, by voice vote, ordered S. 260 re-
+ported favorably without amendment.
+1‘‘Terrorists plot to detonate liquid explosives carried onboard at least 10 airliners traveling
+from the UK to United States and Canada. British Police foil the plot. In response, TSA bans
+all liquids, gels and aerosols from passenger carry-on luggage.’’ See ‘‘Timeline: Aug. 2006 Trans-
+atlantic Aircraft Plot,’’ Transportation Security Administration (https://www.tsa.gov/timeline).
+2‘‘A month after the implementation of the original liquids ban, TSA amends its rules gov-
+erning liquids in passenger carry-on baggage and allows airline passengers to carry liquids, gels
+and aerosols in containers of only 3.4 ounces or less in a single, clear, resealable 1-quart plastic
+bag.’’ See ‘‘Timeline: Sep. 2006 3–1–1 Liquids Rule,’’ Transportation Security Administration
+(https://www.tsa.gov/timeline).
+3‘‘Liquids, Aerosols, and Gels Rule,’’ Transportation Security Administration (https://
+www.tsa.gov/travel/security-screening/liquids-aerosols-gels-rule).
+4Public Law 114–293.
+5Kim Elsesser, ‘‘After Nursing Mom Calls Out TSA, a New Bill Addresses the Handling of
+Breast Milk at Airports,’’ Forbes, August 12, 2022 (https://www.forbes.com/sites/kimelsesser/
+2022/08/12/after-nursing-mom-calls-out-tsa-a-new-bill-addresses-the-handling-of-breast-milk-at-
+airports/).
+6Ibid.
+VerDate Sep 11 2014 02:04 May 13, 2025 Jkt 059010 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\SR019.XXX SR019
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+3
+House companion legislation, H.R. 820, was introduced on Janu-
+ary 28, 2025, by Representative Swalwell (for himself and 14 origi-
+nal cosponsors) and was referred to the Committee on Homeland
+Security of the House of Representatives. Seven cosponsors were
+later added.
+118TH CONGRESS
+S. 1570, the Bottles and Breastfeeding Equipment Screening En-
+hancement Act, was introduced on May 11, 2023, by Senator
+Duckworth (for herself and Senators Daines and Hirono) and was
+referred to the Committee on Commerce, Science, and Transpor-
+tation of the Senate. Senator Cruz was added as a cosponsor on
+January 30, 2024. On July 31, 2024, the Committee met in open
+Executive Session and, by voice vote, ordered S. 1570 reported fa-
+vorably without amendment. On September 25, 2024, S. 1570
+passed the Senate by unanimous consent.
+A House companion bill, H.R. 3386, was introduced on May 16,
+2023, by Representative Porter (for herself and Representatives
+Salazar and Swalwell) and was referred to the Committee on
+Homeland Security of the House of Representatives. Sixteen co-
+sponsors were later added. On September 25, 2024, H.R. 3386 was
+ordered reported by the House Committee on Homeland Security
+by voice vote.
+ESTIMATED COSTS
+In accordance with paragraph 11(a) of rule XXVI of the Standing
+Rules of the Senate and section 403 of the Congressional Budget
+Act of 1974, the Committee provides the following cost estimate,
+prepared by the Congressional Budget Office:
+S. 260 would require the Transportation Security Administration
+(TSA) to issue or update guidance to minimize the risk of contami-
+nating breastmilk, baby formula, and related accessories during the
+passenger screening process at airports. The bill also would require
+VerDate Sep 11 2014 02:04 May 13, 2025 Jkt 059010 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\SR019.XXX SR019
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+100.910RS
+ereh
+6
+oilof
+tesffo
+tresnI
+
+4
+the Inspector General of the Department of Homeland Security to
+audit that guidance.
+According to information from the agency, TSA regularly updates
+its guidance for screening breastmilk and related items under cur-
+rent law. On that basis, CBO estimates that implementing that
+provision would not significantly affect the federal budget. Based
+on the cost of similar activities, CBO estimates that conducting the
+audit would cost less than $500,000 over the 2025–2030 period; any
+related spending would be subject to the availability of appro-
+priated funds.
+The CBO staff contact for this estimate is Emma Uebelhor. The
+estimate was reviewed by H. Samuel Papenfuss, Deputy Director
+of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+REGULATORY IMPACT STATEMENT
+Because S. 260 does not create any new programs, the legislation
+will have no additional regulatory impact, and will result in no ad-
+ditional reporting requirements. The legislation will have no fur-
+ther effect on the number or types of individuals and businesses
+regulated, the economic impact of such regulation, the personal pri-
+vacy of affected individuals, or the paperwork required from such
+individuals and businesses.
+CONGRESSIONALLY DIRECTED SPENDING
+In compliance with paragraph 4(b) of rule XLIV of the Standing
+Rules of the Senate, the Committee provides that no provisions
+contained in the bill, as reported, meet the definition of congres-
+sionally directed spending items under the rule.
+SECTION-BY-SECTION ANALYSIS
+Section 1. Short title.
+This section would provide that the bill may be cited as the ‘‘Bot-
+tles and Breastfeeding Equipment Screening Enhancement Act’’.
+Section 2. Hygienic handling of breast milk and baby formula dur-
+ing aviation security screening.
+This section would amend the Bottles and Breastfeeding Equip-
+ment Screening Act7 by adding new sections to:
+• Require the TSA Administrator to issue or update guidance
+within 90 days of enactment, and every 5 years after (if appro-
+priate), to minimize the risk for contamination of any breast
+milk, baby formula, purified deionized water for infants, and
+juice (as well as ice packs, freezer packs, frozen gel packs, and
+other accessories required to cool breast milk) subject to re-
+screening or additional screening.
+• Direct TSA to consult with nationally recognized maternal
+health organizations in developing the guidance for covered in-
+fant liquids undergoing additional screening and adherence to
+such protocols. This provision would apply to TSA and con-
+tracted airport screening personnel.
+7Public Law 114–293.
+VerDate Sep 11 2014 02:04 May 13, 2025 Jkt 059010 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\SR019.XXX SR019
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+5
+• Require the Inspector General of the Department of Homeland
+Security to complete an audit of TSA’s compliance with the re-
+quirements of this Act no later than 1 year after the date of
+enactment. The report would include information relating to
+the effect of various types of screening technologies on bottled
+liquid scanners, breast milk, baby formula, purified deionized
+water for infants, and juice (as well as ice packs, freezer packs,
+frozen gel packs, and other accessories required to cool breast
+milk).
+CHANGES IN EXISTING LAW
+In compliance with paragraph 12 of rule XXVI of the Standing
+Rules of the Senate, changes in existing law made by the bill, as
+reported, are shown as follows (existing law proposed to be omitted
+is enclosed in black brackets, new material is printed in italic, ex-
+isting law in which no change is proposed is shown in roman):
+THE BOTTLES AND BREASTFEEDING
+EQUIPMENT SCREENING ACT
+[Public Law 114–293]
+* * * * * * *
+SECTION 1. * * *
+SEC. 2. * * *
+SEC. 3. HYGIENIC HANDLING OF BREAST MILK AND BABY FORMULA
+DURING AVIATION SECURITY SCREENING.
+Not later than 90 days after the date of the enactment of this sec-
+tion and every five years thereafter, if appropriate, the Adminis-
+trator of the Transportation Security Administration shall issue or
+update, as the case may be, guidance to minimize the risk for con-
+tamination of any breast milk, baby formula, purified deionized
+water for infants, and juice (as well as ice packs, freezer packs, fro-
+zen gel packs and other accessories required to cool breast milk,
+baby formula, and juice) that is subject to re-screening or otherwise
+subject to additional screening. Such guidance shall—
+(1) be developed in consultation with nationally recognized
+maternal health organizations;
+(2) ensure adherence to hygienic standards, as established by
+the Administrator, in consultation with nationally recognized
+maternal health organizations;
+(3) ensure that, when any such re-screening or additional
+screening requires additional testing, such testing so adheres to
+such standards, to so minimize such risk; and
+(4) apply to security screening personnel of the Administra-
+tion and personnel of private security companies providing se-
+curity screening pursuant to section 44920 of title 49, United
+States Code.
+SEC. 4. INSPECTOR GENERAL AUDIT.
+Not later than one year after the date of the enactment of this sec-
+tion, the Inspector General of the Department of Homeland Security
+shall submit to the Committee on Homeland Security of the House
+of Representatives and the Committee on Commerce, Science, and
+VerDate Sep 11 2014 02:04 May 13, 2025 Jkt 059010 PO 00000 Frm 00007 Fmt 6659 Sfmt 6603 E:\HR\OC\SR019.XXX SR019
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+6
+Transportation of the Senate a report containing an audit of compli-
+ance with the requirements of sections 2 and 3. Such audit shall
+also include information relating to the effect of various types of
+screening technologies, including bottled liquid scanners, on the
+screening of breast milk, baby formula, purified deionized water for
+infants, and juice (as well as ice packs, freezer packs, frozen gel
+packs and other accessories required to cool breast milk, baby for-
+mula, and juice) that is subject to re-screening or otherwise subject
+to additional screening, and the rate at which such items are denied
+entry into the sterile area (as such term is defined in section 1540.5
+of title 49, Code of Federal Regulations).
+* * * * * * *
+Æ
+VerDate Sep 11 2014 02:04 May 13, 2025 Jkt 059010 PO 00000 Frm 00008 Fmt 6659 Sfmt 6611 E:\HR\OC\SR019.XXX SR019
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba

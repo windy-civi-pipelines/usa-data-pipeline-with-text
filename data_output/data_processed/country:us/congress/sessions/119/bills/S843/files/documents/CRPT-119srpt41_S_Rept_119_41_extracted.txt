@@ -1,0 +1,984 @@
+Title: VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR041.XXX SR041
+Official Title: VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR041.XXX SR041
+Number of Sections: 7
+Source: documents - S. Rept. 119-41
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+1
+Calendar No. 118
+119THCONGRESS
+" SENATE !
+REPORT
+1st Session 119–41
+SEA TURTLE RESCUE ASSISTANCE AND
+REHABILITATION ACT OF 2025
+R E P O R T
+OFTHE
+COMMITTEE ON COMMERCE, SCIENCE, AND
+TRANSPORTATION
+ON
+S. 843
+JULY, 16 2025.—Ordered to be printed
+U.S. GOVERNMENT PUBLISHING OFFICE
+59–010 WASHINGTON : 2025
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD 31#.ssergnoc
+SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION
+ONE HUNDRED NINETEENTH CONGRESS
+FIRST SESSION
+TED CRUZ, Texas, Chairman
+JOHNTHUNE,SouthDakota MARIACANTWELL,Washington
+ROGERF.WICKER,Mississippi AMYKLOBUCHAR,Minnesota
+DEBFISCHER,Nebraska BRIANSCHATZ,Hawaii
+JERRYMORAN,Kansas EDWARDJ.MARKEY,Massachusetts
+DANSULLIVAN,Alaska GARYC.PETERS,Michigan
+MARSHABLACKBURN,Tennessee TAMMYBALDWIN,Wisconsin
+TODDYOUNG,Indiana TAMMYDUCKWORTH,Illinois
+TEDBUDD,NorthCarolina JACKYROSEN,Nevada
+ERICSCHMITT,Missouri BENRAYLUJA´N,NewMexico
+JOHNCURTIS,Utah JOHNW.HICKENLOOPER,Colorado
+BERNIEMORENO,Ohio JOHNFETTERMAN,Pennsylvania
+TIMSHEEHY,Montana ANDYKIM,NewJersey
+SHELLEYMOORECAPITO,WestVirginia LISABLUNTROCHESTER,Delaware
+CYNTHIAM.LUMMIS,Wyoming
+BRAD GRANTZ, Majority Staff Director
+LILA HARPER HELMS, Democratic Staff Director
+(II)
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00002 Fmt 5904 Sfmt 5904 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+Calendar No. 118
+119THCONGRESS REPORT
+1st Session " SENATE ! 119–41
+SEA TURTLE RESCUE ASSISTANCE AND REHABILITATION
+ACT OF 2025
+JULY16, 2025.—Ordered to be printed
+Mr. CRUZ, from the Committee on Commerce, Science, and
+Transportation, submitted the following
+R E P O R T
+[To accompany S. 843]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Commerce, Science, and Transportation, to
+which was referred the bill (S. 843) to require the Secretary of
+Commerce to establish the Sea Turtle Rescue Assistance Grant
+Program, having considered the same, reports favorably thereon
+with an amendment and recommends that the bill, as amended, do
+pass.1
+PURPOSE OF THE BILL
+The purpose of S. 843, Sea Turtle Rescue Assistance and Reha-
+bilitation Act of 2025, is to integrate sea turtle rescue and response
+into an existing stranding program at the National Oceanic and At-
+mospheric Administration (NOAA).
+BACKGROUND AND NEEDS
+There are six species of sea turtles found in U.S. waters, all of
+which are listed and protected under the Endangered Species Act.2
+Sea turtles play an important role in maintaining healthy marine
+ecosystems and their protection is critical for the preservation of
+marine biodiversity. Specifically, sea turtles help control popu-
+lations of jellyfish, maintain healthy seagrass beds, and contribute
+1At the markup, S. 843 was ordered to be reported without amendment, but post-markup,
+a technical amendment required the bill to be reported favorably with an amendment.
+2‘‘Sea Turtles,’’ NOAA Fisheries (https://www.fisheries.noaa.gov/sea-turtles); Public Law 93–
+
+Section 2:
+205.
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+2
+to nutrient cycling in both ocean floor and beach ecosystems.3 Be-
+cause they are a migratory species with a lifespan across decades,
+sea turtles are also considered an indicator of the overall health of
+the ocean and the impact of human activities.4 In addition to their
+ecological importance, sea turtles are a part of coastal communities’
+culture and traditions, and their presence can draw in tourists,
+generating both economic benefits and occasional safety issues for
+both humans and turtles.5
+While most of their lives are spent at sea, sea turtles return to
+land to lay eggs and nest every year. Sea turtles face threats both
+on and off the land and are often harmed by bycatch,6 loss of nest-
+ing and foraging habitats, marine debris entanglement, and vessel
+strikes. In addition to bycatch, other factors such as red tide, viral
+disease, and cold stunning during the winter can lead to turtle
+strandings,7 both on land or in water when a sea turtle cannot
+function properly due to injury, illness, or some other problem.8 Six
+of the world’s seven sea turtle species are found in U.S. waters:
+Kemp’s ridley, green turtle, loggerhead, hawksbill, olive ridley, and
+leatherback. Three of these turtle species are found in Mississippi,
+including Kemp’s ridley turtle, the world’s most critically endan-
+gered sea turtle.9 In 2024, there were 916 sea turtle strandings in
+Massachusetts and 799 sea turtle strandings in Texas.10
+NOAA established the Sea Turtle Stranding and Salvage Net-
+work in 1980 to respond to and document all stranding incidents
+in the United States.11 This network includes other Federal and
+State agencies, academic institutions, and private organizations
+that respond to and document stranded sea turtles, transport them
+to rehabilitation facilities for care, perform necropsies of dead tur-
+tles, and collect other information to identify causes of stranding.
+NOAA has an existing stranding grant program, the John H.
+Prescott Marine Mammal Stranding Grant program, which for
+more than 20 years has provided funding response to stranded
+whales, dolphins, seals, and other marine mammals.12
+SUMMARY OF PROVISIONS
+S. 843 would do the following:
+• Require the Secretary of Commerce to work with the Director
+of the U.S. Fish and Wildlife Service to develop separate grant
+application criteria for the Sea Turtle Rescue Assistance Grant
+3James R. Spotila, Sea Turtles: A Complete Guide to Their Biology, Behavior, and Conserva-
+tion, JHU Press, 2004.
+4‘‘Why Sea Turtles Matter,’’ National Park Service (https://www.nps.gov/guis/learn/nature/
+sea-turtles-matter.htm).
+5‘‘Turtles, Tourism, and Traffic—Keeping Hawai’I Honu Safe,’’ NOAA Fisheries ( https://
+www.fisheries.noaa.gov/feature-story/turtles-tourism-and-traffic-keeping-hawaii-honu-safe).
+6Ibid.
+7‘‘Frequent Questions: Northern Gulf of Mexico Sea Turtle Strandings,’’ NOAA Fisheries
+(https://www.fisheries.noaa.gov/southeast/marine-life-distress/frequent-questions-northern-gulf-
+mexico-sea-turtle-strandings).
+8Ibid.
+9‘‘Sea Turtle Strandings and Rehabilitation,’’ Institute for Marine Mammal Studies (https://
+imms.org/sea-turtle-rehabilitation/).
+10Sea Turtle Stranding and Salvage Network Database,’’ NOAA Fisheries (https://con-
+nect.fisheries.noaa.gov/content/cb3f4647-9e4f-4f3d-9edf-e7a87a1feef6).
+11‘‘Sea Turtle Stranding and Salvage Network,’’ NOAA Fisheries (https://
+www.fisheries.noaa.gov/national/marine-life-distress/sea-turtle-stranding-and-salvage-network).
+12‘‘John H. Prescott Marine Mammal Rescue Assistance Grant Program,’’ NOAA (https://
+www.fisheries.noaa.gov/grant/john-h-prescott-marine-mammal-rescue-assistance-grant-program).
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+3
+Program under the John H. Prescott Marine Mammal Rescue
+and Response Grant Program.
+• Require the grant application to be submitted to the Secretary
+of Commerce and that all applicants must comply with existing
+law, standard conditions for sea turtle care, and the Sea Turtle
+Stranding and Salvage Network data collection requirements.
+• Establish a new interest-bearing fund in the Treasury, the Sea
+Turtle Rescue, Rehabilitation, and Rapid Response Fund, for
+emergency assistance for sea turtles.
+• Authorize appropriations with respect to Sea Turtle Rescue for
+the existing Joseph R. Geraci Mammal Rescue and Rapid Re-
+sponse Fund and the new Sea Turtle Rescue, Rehabilitation,
+and Rapid Response Fund.
+LEGISLATIVE HISTORY
+S. 843, the Sea Turtle Rescue Assistance and Rehabilitation Act
+of 2025, was introduced on March 4, 2025, by Senator Markey (for
+himself and Senators Cornyn, Tillis, Graham, Van Hollen, and
+Booker) and was referred to the Committee on Commerce, Science,
+and Transportation of the Senate. On March 12, 2025, the Com-
+mittee met in open Executive Session and, by voice vote, ordered
+S. 843 reported favorably without amendment. After the markup,
+the bill needed a technical fix, which required S. 843 to be reported
+favorably with an amendment.
+H.R. 347, the House companion bill to S. 843, was introduced on
+January 13, 2025, by Representative Keating and was referred to
+the Committee on Natural Resources of the House of Representa-
+tives. Fifteen Representatives were later added as cosponsors.
+118th Congress
+S. 2086, the Sea Turtle Rescue Assistance and Rehabilitation Act
+of 2023, was introduced on June 21, 2023, by Senator Markey (for
+himself and Senators Cornyn, Van Hollen, Graham, Wicker, and
+Carper) and was referred to the Committee on Commerce, Science,
+and Transportation of the Senate. Senator Tillis was later added as
+a cosponsor. On July 31, 2024, the Committee met in open Execu-
+tive Session and, by voice vote, ordered S. 2086 reported favorably
+with an amendment (in the nature of a substitute).
+H.R. 2560, the House companion bill to S. 2086, was introduced
+on April 10, 2023, by Representative Keating and was referred to
+the Committee on Natural Resources of the House of Representa-
+tives. Twelve Representatives and one Resident Commissioner
+were later added as cosponsors. On October 26, 2023, that Com-
+mittee met in open Executive Session and ordered H.R. 2560 re-
+ported, as amended, by unanimous consent. On April 11, 2024, the
+House passed H.R. 2560 under suspension of the rules by a vote
+of 332–80.
+117th Congress
+S. 4432, the Sea Turtle Rescue Assistance Act of 2022, was intro-
+duced on June 16, 2022, by Senator Markey (for himself and Sen-
+ator Cornyn) and was referred to the Committee on Commerce,
+Science, and Transportation of the Senate. Senators Graham, Van
+Hollen, Booker, and Inhofe were later added as cosponsors.
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+4
+H.R. 7918, a House companion bill to S. 4432, was introduced on
+May 31, 2022, by Representative Keating and was referred to the
+Committee on Natural Resources of the House of Representatives.
+Representatives Jayapal, Lynch, DelBene, and Resident Commis-
+sioner Gonza´lez-Colo´n were later added as cosponsors. On Decem-
+ber 8, 2022, that Committee met in open Executive Session and or-
+dered H.R. 7918 reported, as amended, by unanimous consent.
+ESTIMATED COSTS
+In accordance with paragraph 11(a) of rule XXVI of the Standing
+Rules of the Senate and section 403 of the Congressional Budget
+Act of 1974, the Committee provides the following cost estimate,
+prepared by the Congressional Budget Office:
+S. 843 would authorize the appropriation of $5 million annually
+for fiscal years 2025 through 2030 for the National Oceanic and At-
+mospheric Administration (NOAA) and the U.S. Fish and Wildlife
+Service for grants to rescue and rehabilitate stranded marine tur-
+tles. Those grants would support marine turtle rescue and recov-
+ery, data collection, research, and the operating costs for research
+and rehabilitation facilities. In 2024, NOAA allocated $3 million for
+those activities.
+S. 843 also would authorize the appropriation of $500,000 annu-
+ally for fiscal years 2025 through 2030 for each of two trust funds
+that are credited with interest on unspent balances. Under current
+law, the Joseph R. Geraci Marine Mammal Rescue and Rapid Re-
+sponse Fund is authorized to be appropriated $500,000 annually
+through 2028. Therefore, CBO estimates the bill would authorize
+the appropriation of a total of $4 million over the 2025–2030 period
+for the two funds.
+The costs of the legislation, detailed in Table 1, fall within budg-
+et function 300 (natural resources and environment).
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 3:
+100.14S
+ereh
+7 oilof
+tesffo
+tresnI
+5
+TABLE 1.—ESTIMATED BUDGETARY EFFECTS UNDER S. 843
+By fiscal year, millions of dollars—
+2025 2026 2027 2028 2029 2030 2 2 0 0 2 3 5 0 –
+Sea Turtle Rescue Grants:
+Authorization ................................................................... 5 5 5 5 5 5 30
+Estimated Outlays........................................................... 2 5 6 5 5 5 28
+Trust Fundsa:
+Authorization ................................................................... * 1 * 1 1 1 4
+Estimated Outlays........................................................... * * 1 * 1 1 3
+Total Changes:
+Authorization ................................................................... 5 6 5 6 6 6 34
+Estimated Outlays........................................................... 2 5 7 5 6 6 31
+* = between zero and $500,000.
+Enacting the bill also would increase direct spending by less than $500,000 in every year and over the 2025–2035 period for the spending
+of interest credited to the trust funds.
+aS. 843 would authorize the appropriation of $500,000 annually for fiscal years 2025 through 2030 for each of the two trust funds. Under
+current law, one fund is authorized to be appropriated $500,000 annually through 2028.
+CBO assumes that S. 843 will be enacted in fiscal year 2025 and
+that the authorized amounts will be available in each year. Using
+historical spending patterns, CBO estimates that implementing S.
+843 would cost $31 million over the 2025–2030 period and $3 mil-
+lion after 2030, assuming appropriation of the authorized amounts.
+Enacting the bill would increase direct spending because any in-
+terest credited to the trust funds would be available without fur-
+ther appropriation. Based on the projection of interest rates that
+underlie CBO’s baseline, CBO estimates that the amount of inter-
+est credited to the funds and subsequently spent would be less
+than $500,000 in every year and over the 2025–2035 period.
+The CBO staff contacts for this estimate are Johnny Willing and
+Aurora Swanson. The estimate was reviewed by H. Samuel
+Papenfuss, Deputy Director of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+REGULATORY IMPACT STATEMENT
+Because S. 843 does not create any new programs, the legislation
+will have no additional regulatory impact, and will result in no ad-
+ditional reporting requirements. The legislation will have no fur-
+ther effect on the number or types of individuals and businesses
+regulated, the economic impact of such regulation, the personal pri-
+vacy of affected individuals, or the paperwork required from such
+individuals and businesses.
+CONGRESSIONALLY DIRECTED SPENDING
+In compliance with paragraph 4(b) of rule XLIV of the Standing
+Rules of the Senate, the Committee provides that no provisions
+contained in the bill, as reported, meet the definition of congres-
+sionally directed spending items under the rule.
+
+Section 4:
+SECTION-BY-SECTION ANALYSIS
+
+Section 5:
+Section 1. Short title
+This section would provide that the bill may be cited as the ‘‘Sea
+Turtle Rescue Assistance and Rehabilitation Act of 2025’’.
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+6
+
+Section 6:
+Section 2. Sea turtle rescue, rehabilitation, and response
+This section would add an additional eligibility to the John H.
+Prescott Marine Mammal Rescue and Response Grant Program to
+fund the Sea Turtle Rescue Assistance Grant Program for sea tur-
+tle rescue, rehabilitation, and response. Eligible entities and grant
+conditions would be consistent with equivalent criteria and require-
+ments as under the John H. Prescott Marine Mammal Rescue and
+Response Grant Program. Grant participants would be required to
+comply with standard conditions for care of sea turtles and the Sea
+Turtle Stranding and Salvage Network data collection require-
+ments.
+This section would establish a parallel fund to the Joseph R.
+Geraci Marine Mammal Rescue and Rapid Response Fund, only for
+use to provide emergency assistance. It would authorize appropria-
+tions of $5 million for each fiscal year from 2025 through 2030 for
+the purpose of sea turtle rescue, rehabilitation, and response, with-
+in the Prescott Program. This section would also authorize appro-
+priations of $500,000 for the Joseph R. Geraci Marine Mammal
+Rescue and Rapid Response Fund and $500,000 for the Sea Turtle
+Rescue, Rehabilitation, and Rapid Response Fund for each fiscal
+year from 2025 through 2030.
+CHANGES IN EXISTING LAW
+In compliance with paragraph 12 of rule XXVI of the Standing
+Rules of the Senate, changes in existing law made by the bill, as
+reported, are shown as follows (existing law proposed to be omitted
+is enclosed in black brackets, new material is printed in italic, ex-
+isting law in which no change is proposed is shown in roman):
+MARINE MAMMAL PROTECTION ACT OF
+1972
+* * * * * * *
+[16 U.S.C. 1421f–1]
+SEC. 408. MARINE MAMMAL RESCUE AND RESPONSE GRANT PRO-
+GRAM AND RAPID RESPONSE FUND.
+(a) * * *
+(b) JOHN H. PRESCOTT MARINE MAMMAL RESCUE AND RESPONSE
+GRANT PROGRAM.—
+(1) * * *
+* * * * * * *
+(9) * * *
+(10) SEA TURTLE RESCUE, REHABILITATION, AND RESPONSE.—
+(A) IN GENERAL.—Subject to the availability of appro-
+priations specific to address sea turtle rescue, rehabilita-
+tion, and response, the Secretary of Commerce and the Di-
+rector of the United States Fish and Wildlife Service shall
+include separate eligibility for grants under this subsection
+to address the purposes described in paragraph (2) with re-
+spect to sea turtles.
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00008 Fmt 6659 Sfmt 6603 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+7
+(B) CONDITIONS OF GRANT.—A grant awarded under this
+subsection to address sea turtle rescue, rehabilitation, and
+response shall—
+(i) include the equivalent grant criteria and adminis-
+tration authorities and requirements described under
+paragraph (3), subparagraphs (A) and (B) of para-
+graph (4), and paragraphs (5) through (9), developed,
+as appropriate, and awarded separately for sea turtles
+and in consultation with the United States Fish and
+Wildlife Service in lieu of the Marine Mammal Com-
+mission; and
+(ii) in addition to the considerations under para-
+graph (4)(B), also consider rehabilitation of stranded
+sea turtles.
+(C) ELIGIBILITY CRITERIA.—In order to apply for a grant
+awarded under this subsection to address sea turtle rescue,
+rehabilitation, and response, an entity shall—
+(i) submit an application described in paragraph (5)
+to the Secretary of Commerce with respect to sea tur-
+tles;
+(ii) be authorized by and in compliance with—
+(I) an authorization issued under section
+10(a)(1)(A) of the Endangered Species Act of 1973
+(16 U.S.C. 1539(a)(1)(A)) with respect to sea tur-
+tles; or
+(II) a cooperative agreement entered into under
+
+Section 7:
+section 6 of the Endangered Species Act of 1973
+(16 U.S.C. 1535) with respect to sea turtles;
+(iii) comply with the standard conditions for care
+and maintenance of captive sea turtles prescribed by
+the Secretary of the Interior when relevant facilities
+will be utilized for such purposes; and
+(iv) comply with all relevant data reporting, require-
+ments, such as the Sea Turtle Stranding and Salvage
+Network data collection requirements.
+* * * * * * *
+ø(c) Joseph R. Geraci Marine Mammal Rescue And Rapid Re-
+sponse Fund.—
+ø(1) IN GENERAL.—There is established in the Treasury of
+the United States an interest-bearing fund, to be known as the
+‘‘Joseph R. Geraci Marine Mammal Rescue and Rapid Re-
+sponse Fund’’ (referred to in this section as the ‘‘Rapid Re-
+sponse Fund’’).
+ø(2) USE OF FUNDS.—Amounts in the Rapid Response Fund
+shall be available only for use by the Secretary to provide
+emergency assistance.¿
+(c) RESCUE AND RAPID RESPONSE FUNDS.—
+(1) IN GENERAL.—There is established in the Treasury of the
+United States—
+(A) an interest-bearing fund to be known as the ‘‘Joseph
+R. Geraci Marine Mammal Rescue and Rapid Response
+Fund’’; and
+(B) an interest-bearing fund to be known as the ‘‘Sea Tur-
+tle Rescue, Rehabilitation, and Rapid Response Fund’’.
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00009 Fmt 6659 Sfmt 6603 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+8
+(2) USE OF FUNDS.—Amounts in the funds established under
+paragraph (1) shall be available only for use by the Secretary
+to provide emergency assistance.
+(d) AUTHORIZATION OF APPROPRIATIONS.—
+(1) IN GENERAL.—
+(A) AUTHORIZATION OF APPROPRIATIONS.—There is au-
+thorized to be appropriated to carry out the marine mam-
+mal rescue and response grant program $7,000,000 for
+each of fiscal years 2023 through 2028, to remain available
+until expended, of which for each fiscal year—
+(i) $6,000,000 shall be made available to the Sec-
+retary of Commerce; and
+(ii) $1,000,000 shall be made available to the Sec-
+retary of the Interior.
+(B) AUTHORIZATION OF APPROPRIATIONS WITH RESPECT
+TO SEA TURTLE RESCUE, REHABILITATION, AND RESPONSE.—
+There is authorized to be appropriated for the Secretary of
+Commerce to carry out the sea turtle rescue, rehabilitation,
+and response grant program under subsection (b)(10),
+$5,000,000 for each of fiscal years 2025 through 2030, to
+remain available until expended.
+ø(B)¿ (C) DERIVATION OF FUNDS.—Funds to carry out the
+activities under this section shall be derived from amounts
+authorized to be appropriated pursuant to subparagraph
+(A) or (B) that are enacted after the date of enactment of
+the James M. Inhofe National Defense Authorization Act
+for Fiscal Year 2023.
+ø(2) JOSEPH R. GERACI MARINE MAMMAL RESCUE AND RAPID
+RESPONSE FUND.—There is authorized to be appropriated to the
+Rapid Response Fund $500,000 for each of fiscal years 2023
+through 2028.¿
+(2) RESCUE AND RAPID RESPONSE FUNDS.—There is author-
+ized to be appropriated—
+(A) to the Joseph R. Geraci Marine Mammal Rescue and
+Rapid Response Fund $500,000 for each of fiscal years
+2025 through 2030; and
+(B) to the Sea Turtle Rescue, Rehabilitation, and Rapid
+Response Fund $500,000 for each of fiscal years 2025
+through 2030.
+(e) * * *
+(f) * * *
+* * * * * * *
+Æ
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00010 Fmt 6659 Sfmt 6611 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+
+================================================================================
+
+Raw Text:
+1
+Calendar No. 118
+119THCONGRESS
+" SENATE !
+REPORT
+1st Session 119–41
+SEA TURTLE RESCUE ASSISTANCE AND
+REHABILITATION ACT OF 2025
+R E P O R T
+OFTHE
+COMMITTEE ON COMMERCE, SCIENCE, AND
+TRANSPORTATION
+ON
+S. 843
+JULY, 16 2025.—Ordered to be printed
+U.S. GOVERNMENT PUBLISHING OFFICE
+59–010 WASHINGTON : 2025
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD 31#.ssergnoc
+
+SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION
+ONE HUNDRED NINETEENTH CONGRESS
+FIRST SESSION
+TED CRUZ, Texas, Chairman
+JOHNTHUNE,SouthDakota MARIACANTWELL,Washington
+ROGERF.WICKER,Mississippi AMYKLOBUCHAR,Minnesota
+DEBFISCHER,Nebraska BRIANSCHATZ,Hawaii
+JERRYMORAN,Kansas EDWARDJ.MARKEY,Massachusetts
+DANSULLIVAN,Alaska GARYC.PETERS,Michigan
+MARSHABLACKBURN,Tennessee TAMMYBALDWIN,Wisconsin
+TODDYOUNG,Indiana TAMMYDUCKWORTH,Illinois
+TEDBUDD,NorthCarolina JACKYROSEN,Nevada
+ERICSCHMITT,Missouri BENRAYLUJA´N,NewMexico
+JOHNCURTIS,Utah JOHNW.HICKENLOOPER,Colorado
+BERNIEMORENO,Ohio JOHNFETTERMAN,Pennsylvania
+TIMSHEEHY,Montana ANDYKIM,NewJersey
+SHELLEYMOORECAPITO,WestVirginia LISABLUNTROCHESTER,Delaware
+CYNTHIAM.LUMMIS,Wyoming
+BRAD GRANTZ, Majority Staff Director
+LILA HARPER HELMS, Democratic Staff Director
+(II)
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00002 Fmt 5904 Sfmt 5904 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Calendar No. 118
+119THCONGRESS REPORT
+1st Session " SENATE ! 119–41
+SEA TURTLE RESCUE ASSISTANCE AND REHABILITATION
+ACT OF 2025
+JULY16, 2025.—Ordered to be printed
+Mr. CRUZ, from the Committee on Commerce, Science, and
+Transportation, submitted the following
+R E P O R T
+[To accompany S. 843]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Commerce, Science, and Transportation, to
+which was referred the bill (S. 843) to require the Secretary of
+Commerce to establish the Sea Turtle Rescue Assistance Grant
+Program, having considered the same, reports favorably thereon
+with an amendment and recommends that the bill, as amended, do
+pass.1
+PURPOSE OF THE BILL
+The purpose of S. 843, Sea Turtle Rescue Assistance and Reha-
+bilitation Act of 2025, is to integrate sea turtle rescue and response
+into an existing stranding program at the National Oceanic and At-
+mospheric Administration (NOAA).
+BACKGROUND AND NEEDS
+There are six species of sea turtles found in U.S. waters, all of
+which are listed and protected under the Endangered Species Act.2
+Sea turtles play an important role in maintaining healthy marine
+ecosystems and their protection is critical for the preservation of
+marine biodiversity. Specifically, sea turtles help control popu-
+lations of jellyfish, maintain healthy seagrass beds, and contribute
+1At the markup, S. 843 was ordered to be reported without amendment, but post-markup,
+a technical amendment required the bill to be reported favorably with an amendment.
+2‘‘Sea Turtles,’’ NOAA Fisheries (https://www.fisheries.noaa.gov/sea-turtles); Public Law 93–
+205.
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+2
+to nutrient cycling in both ocean floor and beach ecosystems.3 Be-
+cause they are a migratory species with a lifespan across decades,
+sea turtles are also considered an indicator of the overall health of
+the ocean and the impact of human activities.4 In addition to their
+ecological importance, sea turtles are a part of coastal communities’
+culture and traditions, and their presence can draw in tourists,
+generating both economic benefits and occasional safety issues for
+both humans and turtles.5
+While most of their lives are spent at sea, sea turtles return to
+land to lay eggs and nest every year. Sea turtles face threats both
+on and off the land and are often harmed by bycatch,6 loss of nest-
+ing and foraging habitats, marine debris entanglement, and vessel
+strikes. In addition to bycatch, other factors such as red tide, viral
+disease, and cold stunning during the winter can lead to turtle
+strandings,7 both on land or in water when a sea turtle cannot
+function properly due to injury, illness, or some other problem.8 Six
+of the world’s seven sea turtle species are found in U.S. waters:
+Kemp’s ridley, green turtle, loggerhead, hawksbill, olive ridley, and
+leatherback. Three of these turtle species are found in Mississippi,
+including Kemp’s ridley turtle, the world’s most critically endan-
+gered sea turtle.9 In 2024, there were 916 sea turtle strandings in
+Massachusetts and 799 sea turtle strandings in Texas.10
+NOAA established the Sea Turtle Stranding and Salvage Net-
+work in 1980 to respond to and document all stranding incidents
+in the United States.11 This network includes other Federal and
+State agencies, academic institutions, and private organizations
+that respond to and document stranded sea turtles, transport them
+to rehabilitation facilities for care, perform necropsies of dead tur-
+tles, and collect other information to identify causes of stranding.
+NOAA has an existing stranding grant program, the John H.
+Prescott Marine Mammal Stranding Grant program, which for
+more than 20 years has provided funding response to stranded
+whales, dolphins, seals, and other marine mammals.12
+SUMMARY OF PROVISIONS
+S. 843 would do the following:
+• Require the Secretary of Commerce to work with the Director
+of the U.S. Fish and Wildlife Service to develop separate grant
+application criteria for the Sea Turtle Rescue Assistance Grant
+3James R. Spotila, Sea Turtles: A Complete Guide to Their Biology, Behavior, and Conserva-
+tion, JHU Press, 2004.
+4‘‘Why Sea Turtles Matter,’’ National Park Service (https://www.nps.gov/guis/learn/nature/
+sea-turtles-matter.htm).
+5‘‘Turtles, Tourism, and Traffic—Keeping Hawai’I Honu Safe,’’ NOAA Fisheries ( https://
+www.fisheries.noaa.gov/feature-story/turtles-tourism-and-traffic-keeping-hawaii-honu-safe).
+6Ibid.
+7‘‘Frequent Questions: Northern Gulf of Mexico Sea Turtle Strandings,’’ NOAA Fisheries
+(https://www.fisheries.noaa.gov/southeast/marine-life-distress/frequent-questions-northern-gulf-
+mexico-sea-turtle-strandings).
+8Ibid.
+9‘‘Sea Turtle Strandings and Rehabilitation,’’ Institute for Marine Mammal Studies (https://
+imms.org/sea-turtle-rehabilitation/).
+10Sea Turtle Stranding and Salvage Network Database,’’ NOAA Fisheries (https://con-
+nect.fisheries.noaa.gov/content/cb3f4647-9e4f-4f3d-9edf-e7a87a1feef6).
+11‘‘Sea Turtle Stranding and Salvage Network,’’ NOAA Fisheries (https://
+www.fisheries.noaa.gov/national/marine-life-distress/sea-turtle-stranding-and-salvage-network).
+12‘‘John H. Prescott Marine Mammal Rescue Assistance Grant Program,’’ NOAA (https://
+www.fisheries.noaa.gov/grant/john-h-prescott-marine-mammal-rescue-assistance-grant-program).
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+3
+Program under the John H. Prescott Marine Mammal Rescue
+and Response Grant Program.
+• Require the grant application to be submitted to the Secretary
+of Commerce and that all applicants must comply with existing
+law, standard conditions for sea turtle care, and the Sea Turtle
+Stranding and Salvage Network data collection requirements.
+• Establish a new interest-bearing fund in the Treasury, the Sea
+Turtle Rescue, Rehabilitation, and Rapid Response Fund, for
+emergency assistance for sea turtles.
+• Authorize appropriations with respect to Sea Turtle Rescue for
+the existing Joseph R. Geraci Mammal Rescue and Rapid Re-
+sponse Fund and the new Sea Turtle Rescue, Rehabilitation,
+and Rapid Response Fund.
+LEGISLATIVE HISTORY
+S. 843, the Sea Turtle Rescue Assistance and Rehabilitation Act
+of 2025, was introduced on March 4, 2025, by Senator Markey (for
+himself and Senators Cornyn, Tillis, Graham, Van Hollen, and
+Booker) and was referred to the Committee on Commerce, Science,
+and Transportation of the Senate. On March 12, 2025, the Com-
+mittee met in open Executive Session and, by voice vote, ordered
+S. 843 reported favorably without amendment. After the markup,
+the bill needed a technical fix, which required S. 843 to be reported
+favorably with an amendment.
+H.R. 347, the House companion bill to S. 843, was introduced on
+January 13, 2025, by Representative Keating and was referred to
+the Committee on Natural Resources of the House of Representa-
+tives. Fifteen Representatives were later added as cosponsors.
+118th Congress
+S. 2086, the Sea Turtle Rescue Assistance and Rehabilitation Act
+of 2023, was introduced on June 21, 2023, by Senator Markey (for
+himself and Senators Cornyn, Van Hollen, Graham, Wicker, and
+Carper) and was referred to the Committee on Commerce, Science,
+and Transportation of the Senate. Senator Tillis was later added as
+a cosponsor. On July 31, 2024, the Committee met in open Execu-
+tive Session and, by voice vote, ordered S. 2086 reported favorably
+with an amendment (in the nature of a substitute).
+H.R. 2560, the House companion bill to S. 2086, was introduced
+on April 10, 2023, by Representative Keating and was referred to
+the Committee on Natural Resources of the House of Representa-
+tives. Twelve Representatives and one Resident Commissioner
+were later added as cosponsors. On October 26, 2023, that Com-
+mittee met in open Executive Session and ordered H.R. 2560 re-
+ported, as amended, by unanimous consent. On April 11, 2024, the
+House passed H.R. 2560 under suspension of the rules by a vote
+of 332–80.
+117th Congress
+S. 4432, the Sea Turtle Rescue Assistance Act of 2022, was intro-
+duced on June 16, 2022, by Senator Markey (for himself and Sen-
+ator Cornyn) and was referred to the Committee on Commerce,
+Science, and Transportation of the Senate. Senators Graham, Van
+Hollen, Booker, and Inhofe were later added as cosponsors.
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+4
+H.R. 7918, a House companion bill to S. 4432, was introduced on
+May 31, 2022, by Representative Keating and was referred to the
+Committee on Natural Resources of the House of Representatives.
+Representatives Jayapal, Lynch, DelBene, and Resident Commis-
+sioner Gonza´lez-Colo´n were later added as cosponsors. On Decem-
+ber 8, 2022, that Committee met in open Executive Session and or-
+dered H.R. 7918 reported, as amended, by unanimous consent.
+ESTIMATED COSTS
+In accordance with paragraph 11(a) of rule XXVI of the Standing
+Rules of the Senate and section 403 of the Congressional Budget
+Act of 1974, the Committee provides the following cost estimate,
+prepared by the Congressional Budget Office:
+S. 843 would authorize the appropriation of $5 million annually
+for fiscal years 2025 through 2030 for the National Oceanic and At-
+mospheric Administration (NOAA) and the U.S. Fish and Wildlife
+Service for grants to rescue and rehabilitate stranded marine tur-
+tles. Those grants would support marine turtle rescue and recov-
+ery, data collection, research, and the operating costs for research
+and rehabilitation facilities. In 2024, NOAA allocated $3 million for
+those activities.
+S. 843 also would authorize the appropriation of $500,000 annu-
+ally for fiscal years 2025 through 2030 for each of two trust funds
+that are credited with interest on unspent balances. Under current
+law, the Joseph R. Geraci Marine Mammal Rescue and Rapid Re-
+sponse Fund is authorized to be appropriated $500,000 annually
+through 2028. Therefore, CBO estimates the bill would authorize
+the appropriation of a total of $4 million over the 2025–2030 period
+for the two funds.
+The costs of the legislation, detailed in Table 1, fall within budg-
+et function 300 (natural resources and environment).
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+100.14S
+ereh
+7 oilof
+tesffo
+tresnI
+
+5
+TABLE 1.—ESTIMATED BUDGETARY EFFECTS UNDER S. 843
+By fiscal year, millions of dollars—
+2025 2026 2027 2028 2029 2030 2 2 0 0 2 3 5 0 –
+Sea Turtle Rescue Grants:
+Authorization ................................................................... 5 5 5 5 5 5 30
+Estimated Outlays........................................................... 2 5 6 5 5 5 28
+Trust Fundsa:
+Authorization ................................................................... * 1 * 1 1 1 4
+Estimated Outlays........................................................... * * 1 * 1 1 3
+Total Changes:
+Authorization ................................................................... 5 6 5 6 6 6 34
+Estimated Outlays........................................................... 2 5 7 5 6 6 31
+* = between zero and $500,000.
+Enacting the bill also would increase direct spending by less than $500,000 in every year and over the 2025–2035 period for the spending
+of interest credited to the trust funds.
+aS. 843 would authorize the appropriation of $500,000 annually for fiscal years 2025 through 2030 for each of the two trust funds. Under
+current law, one fund is authorized to be appropriated $500,000 annually through 2028.
+CBO assumes that S. 843 will be enacted in fiscal year 2025 and
+that the authorized amounts will be available in each year. Using
+historical spending patterns, CBO estimates that implementing S.
+843 would cost $31 million over the 2025–2030 period and $3 mil-
+lion after 2030, assuming appropriation of the authorized amounts.
+Enacting the bill would increase direct spending because any in-
+terest credited to the trust funds would be available without fur-
+ther appropriation. Based on the projection of interest rates that
+underlie CBO’s baseline, CBO estimates that the amount of inter-
+est credited to the funds and subsequently spent would be less
+than $500,000 in every year and over the 2025–2035 period.
+The CBO staff contacts for this estimate are Johnny Willing and
+Aurora Swanson. The estimate was reviewed by H. Samuel
+Papenfuss, Deputy Director of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+REGULATORY IMPACT STATEMENT
+Because S. 843 does not create any new programs, the legislation
+will have no additional regulatory impact, and will result in no ad-
+ditional reporting requirements. The legislation will have no fur-
+ther effect on the number or types of individuals and businesses
+regulated, the economic impact of such regulation, the personal pri-
+vacy of affected individuals, or the paperwork required from such
+individuals and businesses.
+CONGRESSIONALLY DIRECTED SPENDING
+In compliance with paragraph 4(b) of rule XLIV of the Standing
+Rules of the Senate, the Committee provides that no provisions
+contained in the bill, as reported, meet the definition of congres-
+sionally directed spending items under the rule.
+SECTION-BY-SECTION ANALYSIS
+Section 1. Short title
+This section would provide that the bill may be cited as the ‘‘Sea
+Turtle Rescue Assistance and Rehabilitation Act of 2025’’.
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+6
+Section 2. Sea turtle rescue, rehabilitation, and response
+This section would add an additional eligibility to the John H.
+Prescott Marine Mammal Rescue and Response Grant Program to
+fund the Sea Turtle Rescue Assistance Grant Program for sea tur-
+tle rescue, rehabilitation, and response. Eligible entities and grant
+conditions would be consistent with equivalent criteria and require-
+ments as under the John H. Prescott Marine Mammal Rescue and
+Response Grant Program. Grant participants would be required to
+comply with standard conditions for care of sea turtles and the Sea
+Turtle Stranding and Salvage Network data collection require-
+ments.
+This section would establish a parallel fund to the Joseph R.
+Geraci Marine Mammal Rescue and Rapid Response Fund, only for
+use to provide emergency assistance. It would authorize appropria-
+tions of $5 million for each fiscal year from 2025 through 2030 for
+the purpose of sea turtle rescue, rehabilitation, and response, with-
+in the Prescott Program. This section would also authorize appro-
+priations of $500,000 for the Joseph R. Geraci Marine Mammal
+Rescue and Rapid Response Fund and $500,000 for the Sea Turtle
+Rescue, Rehabilitation, and Rapid Response Fund for each fiscal
+year from 2025 through 2030.
+CHANGES IN EXISTING LAW
+In compliance with paragraph 12 of rule XXVI of the Standing
+Rules of the Senate, changes in existing law made by the bill, as
+reported, are shown as follows (existing law proposed to be omitted
+is enclosed in black brackets, new material is printed in italic, ex-
+isting law in which no change is proposed is shown in roman):
+MARINE MAMMAL PROTECTION ACT OF
+1972
+* * * * * * *
+[16 U.S.C. 1421f–1]
+SEC. 408. MARINE MAMMAL RESCUE AND RESPONSE GRANT PRO-
+GRAM AND RAPID RESPONSE FUND.
+(a) * * *
+(b) JOHN H. PRESCOTT MARINE MAMMAL RESCUE AND RESPONSE
+GRANT PROGRAM.—
+(1) * * *
+* * * * * * *
+(9) * * *
+(10) SEA TURTLE RESCUE, REHABILITATION, AND RESPONSE.—
+(A) IN GENERAL.—Subject to the availability of appro-
+priations specific to address sea turtle rescue, rehabilita-
+tion, and response, the Secretary of Commerce and the Di-
+rector of the United States Fish and Wildlife Service shall
+include separate eligibility for grants under this subsection
+to address the purposes described in paragraph (2) with re-
+spect to sea turtles.
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00008 Fmt 6659 Sfmt 6603 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+7
+(B) CONDITIONS OF GRANT.—A grant awarded under this
+subsection to address sea turtle rescue, rehabilitation, and
+response shall—
+(i) include the equivalent grant criteria and adminis-
+tration authorities and requirements described under
+paragraph (3), subparagraphs (A) and (B) of para-
+graph (4), and paragraphs (5) through (9), developed,
+as appropriate, and awarded separately for sea turtles
+and in consultation with the United States Fish and
+Wildlife Service in lieu of the Marine Mammal Com-
+mission; and
+(ii) in addition to the considerations under para-
+graph (4)(B), also consider rehabilitation of stranded
+sea turtles.
+(C) ELIGIBILITY CRITERIA.—In order to apply for a grant
+awarded under this subsection to address sea turtle rescue,
+rehabilitation, and response, an entity shall—
+(i) submit an application described in paragraph (5)
+to the Secretary of Commerce with respect to sea tur-
+tles;
+(ii) be authorized by and in compliance with—
+(I) an authorization issued under section
+10(a)(1)(A) of the Endangered Species Act of 1973
+(16 U.S.C. 1539(a)(1)(A)) with respect to sea tur-
+tles; or
+(II) a cooperative agreement entered into under
+section 6 of the Endangered Species Act of 1973
+(16 U.S.C. 1535) with respect to sea turtles;
+(iii) comply with the standard conditions for care
+and maintenance of captive sea turtles prescribed by
+the Secretary of the Interior when relevant facilities
+will be utilized for such purposes; and
+(iv) comply with all relevant data reporting, require-
+ments, such as the Sea Turtle Stranding and Salvage
+Network data collection requirements.
+* * * * * * *
+ø(c) Joseph R. Geraci Marine Mammal Rescue And Rapid Re-
+sponse Fund.—
+ø(1) IN GENERAL.—There is established in the Treasury of
+the United States an interest-bearing fund, to be known as the
+‘‘Joseph R. Geraci Marine Mammal Rescue and Rapid Re-
+sponse Fund’’ (referred to in this section as the ‘‘Rapid Re-
+sponse Fund’’).
+ø(2) USE OF FUNDS.—Amounts in the Rapid Response Fund
+shall be available only for use by the Secretary to provide
+emergency assistance.¿
+(c) RESCUE AND RAPID RESPONSE FUNDS.—
+(1) IN GENERAL.—There is established in the Treasury of the
+United States—
+(A) an interest-bearing fund to be known as the ‘‘Joseph
+R. Geraci Marine Mammal Rescue and Rapid Response
+Fund’’; and
+(B) an interest-bearing fund to be known as the ‘‘Sea Tur-
+tle Rescue, Rehabilitation, and Rapid Response Fund’’.
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00009 Fmt 6659 Sfmt 6603 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+8
+(2) USE OF FUNDS.—Amounts in the funds established under
+paragraph (1) shall be available only for use by the Secretary
+to provide emergency assistance.
+(d) AUTHORIZATION OF APPROPRIATIONS.—
+(1) IN GENERAL.—
+(A) AUTHORIZATION OF APPROPRIATIONS.—There is au-
+thorized to be appropriated to carry out the marine mam-
+mal rescue and response grant program $7,000,000 for
+each of fiscal years 2023 through 2028, to remain available
+until expended, of which for each fiscal year—
+(i) $6,000,000 shall be made available to the Sec-
+retary of Commerce; and
+(ii) $1,000,000 shall be made available to the Sec-
+retary of the Interior.
+(B) AUTHORIZATION OF APPROPRIATIONS WITH RESPECT
+TO SEA TURTLE RESCUE, REHABILITATION, AND RESPONSE.—
+There is authorized to be appropriated for the Secretary of
+Commerce to carry out the sea turtle rescue, rehabilitation,
+and response grant program under subsection (b)(10),
+$5,000,000 for each of fiscal years 2025 through 2030, to
+remain available until expended.
+ø(B)¿ (C) DERIVATION OF FUNDS.—Funds to carry out the
+activities under this section shall be derived from amounts
+authorized to be appropriated pursuant to subparagraph
+(A) or (B) that are enacted after the date of enactment of
+the James M. Inhofe National Defense Authorization Act
+for Fiscal Year 2023.
+ø(2) JOSEPH R. GERACI MARINE MAMMAL RESCUE AND RAPID
+RESPONSE FUND.—There is authorized to be appropriated to the
+Rapid Response Fund $500,000 for each of fiscal years 2023
+through 2028.¿
+(2) RESCUE AND RAPID RESPONSE FUNDS.—There is author-
+ized to be appropriated—
+(A) to the Joseph R. Geraci Marine Mammal Rescue and
+Rapid Response Fund $500,000 for each of fiscal years
+2025 through 2030; and
+(B) to the Sea Turtle Rescue, Rehabilitation, and Rapid
+Response Fund $500,000 for each of fiscal years 2025
+through 2030.
+(e) * * *
+(f) * * *
+* * * * * * *
+Æ
+VerDate Sep 11 2014 03:10 Aug 08, 2025 Jkt 059010 PO 00000 Frm 00010 Fmt 6659 Sfmt 6611 E:\HR\OC\SR041.XXX SR041
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD

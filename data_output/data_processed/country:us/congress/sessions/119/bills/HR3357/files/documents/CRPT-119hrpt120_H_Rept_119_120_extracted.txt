@@ -1,0 +1,1897 @@
+Title: JUNE3, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JUNE3, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 17
+Source: documents - H. Rept. 119-120
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–120
+ENHANCING MULTI-CLASS SHARE DISCLOSURES ACT
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+[To accompany H.R. 3357]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 3357) to amend the Securities Exchange Act of 1934 to
+require issuers with a multi-class stock structure to make certain
+disclosures in any proxy or consent solicitation material, and for
+other purposes, having considered the same, reports favorably
+thereon with an amendment and recommends that the bill as
+amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Consideration ........................................................................................ 3
+Related Hearings ..................................................................................................... 3
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings ............................................................................... 6
+Performance Goals and Objectives ......................................................................... 6
+Committee Cost Estimate ....................................................................................... 6
+New Budget Authority and CBO Cost Estimate ................................................... 6
+Unfunded Mandates Statement .............................................................................. 6
+Earmark Statement ................................................................................................. 6
+Federal Advisory Committee Act Statement ......................................................... 6
+Applicability to the Legislative Branch ................................................................. 7
+Duplication of Federal Programs ............................................................................ 7
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 7
+Changes in Existing Law Made by the Bill, as Reported ..................................... 7
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Enhancing Multi-Class Share Disclosures Act’’.
+59–006
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6621 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+2
+SEC. 2. DISCLOSURE RELATING TO MULTI-CLASS SHARE STRUCTURES.
+
+Section 4:
+Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n) is amended by
+adding at the end the following:
+‘‘(l) DISCLOSURERELATINGTOMULTI-CLASSSHARESTRUCTURES.—
+‘‘(1) DISCLOSURE.—The Commission shall, by rule, require each issuer with a
+multi-class share structure to disclose the information described in paragraph
+(2) in any proxy or consent solicitation material for an annual meeting of the
+shareholders of the issuer, or any other filing as the Commission determines ap-
+propriate.
+‘‘(2) CONTENT OF DISCLOSURE.—A disclosure made under paragraph (1) shall
+include, with respect to each person who is a director, director nominee, or
+named executive officer of the issuer, or who is the beneficial owner of securities
+with 5 percent or more of the total combined voting power of all classes of secu-
+rities entitled to vote in the election of directors—
+‘‘(A) the number of shares of all classes of securities entitled to vote in
+the election of directors beneficially owned by such person, expressed as a
+percentage of the total number of the outstanding securities of the issuer
+entitled to vote in the election of directors; and
+‘‘(B) the amount of voting power held by such person, expressed as a per-
+centage of the total combined voting power of all classes of the securities
+of the issuer entitled to vote in the election of directors.
+‘‘(3) MULTI-CLASSSHARESTRUCTURE.—In this subsection, the term ‘multi-class
+share structure’ means a capitalization structure that contains 2 or more types
+of securities that have differing amounts of voting rights in the election of direc-
+tors.’’.
+PURPOSE AND SUMMARY
+H.R. 3357, the Enhancing Multi-Class Share Disclosures Act, was
+introduced on May 13, 2025, by Representative Gregory Meeks
+(NY–05). The bill requires issuers with a multi-class stock struc-
+ture to make certain disclosures in any proxy or consent solicita-
+tion material.
+BACKGROUND AND NEED FOR LEGISLATION
+Multi-class share structures have existed in the U.S. since the
+late 1800s. The original intent of these structures was to allow
+companies, particularly family-run businesses, to maintain voting
+control without having to own the majority of equity in their com-
+pany. In the 1980s, in response to a number of hostile takeovers
+of companies and the increasing competitiveness of national securi-
+ties exchanges, limitations on multi-class share structures became
+more relaxed. The majority of companies that took advantage of the
+newly relaxed limitations were media companies such as the Wash-
+ington Post and New York Times. Media companies viewed multi-
+class structures as a means to protect journalistic integrity.
+In 2017, the SEC’s Investor Advisory Committee approved a rec-
+ommendation that called for the SEC to require more disclosures
+from companies with multi-class shares.1 Currently, the SEC does
+not require companies to disclose the gap between the equity an in-
+dividual holds in the company and the number of voting shares
+they control—although many companies already do this for their
+shareholders. Requiring disclosures regarding voting power, par-
+ticularly regarding officers and directors and those who have more
+than five percent voting power, ensures shareholders receive more
+uniform information in proxy materials, particularly because com-
+panies already are required to disclose ownership information for
+1See SEC Investor Advisory Committee, Recommendation re: Dual Class and Other Entrench-
+ing Governance Structures in Public Companies (Dec. 17, 2017), https://www.sec.gov/spotlight/
+investor-advisory-committee-2012/recommendation-on-dual-class-shares.pdf.
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+3
+directors, officers, and shareholders controlling more than five per-
+cent of equity.
+Rather than prohibiting multi-class share structures altogether,
+this bill represents a thoughtful and balanced approach to enhance
+transparency without eliminating class structures that encourage
+founders who may not otherwise go public to do so.
+COMMITTEE CONSIDERATION
+115TH CONGRESS
+On July 10, 2018, Representative Gregory Meeks (D–NY) intro-
+duced H.R. 6322, the Enhancing Multi-Class Share Disclosure Act.
+This bill is an earlier iteration of H.R. 3357. The bill was referred
+solely to the Committee on Financial Services. On July 11, 2018,
+the Committee on Financial Services ordered H.R. 6322 to be re-
+ported favorably to the House of Representatives by a voice vote.
+118TH CONGRESS
+On April 24, 2023, Representative Meeks introduced H.R. 2795,
+the Enhancing Multi-Class Share Disclosure Act. This bill is an
+earlier iteration of H.R. 3357. The bill was referred solely to the
+Committee on Financial Services. The Subcommittee on Capital
+Markets of the Committee on Financial Services held a hearing to
+examine matters relating to H.R. 2795 on April 19, 2023. On April
+26, 2023, the Committee on Financial Services ordered H.R. 2795
+to be reported favorably to the House of Representatives. On May
+30, 2023, the House suspended the rules and passed the bill by a
+recorded vote of 347–30. It was received in the Senate and referred
+to the Committee on Banking, Housing, and Urban Affairs.
+119TH CONGRESS
+On May 13, 2025, Representative Meeks introduced H.R. 3357,
+the Enhancing Multi-Class Share Disclosure Act. The bill was re-
+ferred solely to the Committee on Financial Services. The bill was
+attached to the February 26, 2025, hearing titled ‘‘The Future of
+American Capital: Strengthening Public and Private Markets by
+Increasing Investor Access and Facilitating Capital Formation’’ and
+the March 25, 2025, hearing titled, ‘‘Beyond Silicon Valley: Ex-
+panding Access to Capital Across America.’’
+On May 20, 2025, the Committee met in open session to consider,
+among others, H.R. 3357. The Committee favorably reported H.R.
+3357, as amended, to the House of Representatives.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearings were used to develop
+H.R. 3357:
+The Capital Markets Subcommittee of the Committee on Finan-
+cial Services held a February 26, 2025, hearing titled ‘‘The Future
+of American Capital: Strengthening Public and Private Markets by
+Increasing Investor Access and Facilitating Capital Formation’’ and
+the Full Committee held a March 25, 2025, hearing titled, ‘‘Beyond
+Silicon Valley: Expanding Access to Capital Across America.’’ A dis-
+cussion draft version of the bill was attached to both hearings. The
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+4
+following witnesses testified at the February 26, 2025, hearing: Mr.
+Andrew Barnell, CEO and Co-Founder, Geneoscopy; Mr. McKeever
+Conwell, Founder and Managing Partner, RareBreed Ventures; Ms.
+Rebecca Kacaba, CEO and Co-Founder, DealMaker; Ms. Anna
+Pinedo, Partner, Mayer Brown; and Ms. Alexandra Thornton, Sen-
+ior Director, Financial Regulation, Center for American Progress.
+The following witnesses testified at the March 25, 2025, hearing:
+Mr. Steve Case, Chairman and CEO, Revolution LLC; Mr. Bill
+Newell, Senior Business Advisor & Former CEO, Sutro Biopharma;
+Ms. Candice Matthews Brackeen, General Partner, Lightship Cap-
+ital; Mr. Joel Trotter, Partner, Latham & Watkins LLP; and Ms.
+Amanda Senn, Director of the Alabama Securities Commission.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On May 20, 2025, the Committee ordered H.R. 3357, as amend-
+ed, to be reported favorably to the House by a recorded vote of 51
+yeas and 0 nays, a quorum being present. (Record Vote No. FC–
+107).
+Before the question to report was called, the Committee adopted
+an amendment in the nature of a substitute, designated MEEKS—
+028, which made minor edits and technical changes, offered by
+Representative Meeks. The amendment was adopted by voice vote,
+a quorum being present.
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+5
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 5:
+100.021RH
+ereh
+8 oilof
+tesffo
+tresnI
+6
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 3357 is to require issuers with
+a multi-class stock structure to make certain disclosures in any
+proxy or consent solicitation material.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 3357. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of rule XIII, the Committee will adopt as its own the cost
+estimate by the Director of the Congressional Budget Office once
+it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+7
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+
+Section 6:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 7:
+Section 1. Short title
+
+Section 8:
+Section 1 provides the short title is the ‘‘Enhancing Multi-Class
+Share Disclosures Act.’’
+
+Section 9:
+Section 2. Disclosure relating to multi-class share structures
+This section amends Section 14 of the Securities Exchange Act of
+1934 by mandating certain disclosures by issuers of multi-class
+share structures. Specifically, this section requires the U.S. Securi-
+ties and Exchange Commission (SEC) to require, by rule, issuers
+to make certain disclosures in any proxy or consent solicitation ma-
+terial with respect to each person who is a director or executive of-
+ficer of the issuer or who holds five percent or more of the total
+combined voting power of all classes of stock entitled to vote in the
+election of directors.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+SECURITIES EXCHANGE ACT OF 1934
+TITLE I—REGULATION OF SECURITIES EXCHANGES
+* * * * * * *
+PROXIES
+SEC. 14. (a)(1) It shall be unlawful for any person, by the use of
+the mails or by any means or instrumentality of interstate com-
+merce or of any facility of a national securities exchange or other-
+wise, in contravention of such rules and regulations as the Com-
+mission may prescribe as necessary or appropriate in the public in-
+terest or for the protection of investors, to solicit or to permit the
+use of his name to solicit any proxy or consent or authorization in
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+8
+respect of any security (other than an exempted security) registered
+pursuant to section 12 of this title.
+(2) The rules and regulations prescribed by the Commission
+under paragraph (1) may include—
+(A) a requirement that a solicitation of proxy, consent, or au-
+thorization by (or on behalf of) an issuer include a nominee
+submitted by a shareholder to serve on the board of directors
+of the issuer; and
+(B) a requirement that an issuer follow a certain procedure
+in relation to a solicitation described in subparagraph (A).
+(b)(1) It shall be unlawful for any member of a national securities
+exchange, or any broker or dealer registered under this title, or any
+bank, association, or other entity that exercises fiduciary powers,
+in contravention of such rules and regulations as the Commission
+may prescribe as necessary or appropriate in the public interest or
+for the protection of investors, to give, or to refrain from giving a
+proxy, consent, authorization, or information statement in respect
+of any security registered pursuant to section 12 of this title, or any
+security issued by an investment company registered under the In-
+vestment Company Act of 1940, and carried for the account of a
+customer.
+(2) With respect to banks, the rules and regulations prescribed
+by the Commission under paragraph (1) shall not require the dis-
+closure of the names of beneficial owners of securities in an account
+held by the bank on the date of enactment of this paragraph unless
+the beneficial owner consents to the disclosure. The provisions of
+this paragraph shall not apply in the case of a bank which the
+Commission finds has not made a good faith effort to obtain such
+consent from such beneficial owners.
+(c) Unless proxies, consents, or authorizations in respect of a se-
+curity registered pursuant to section 12 of this title, or a security
+issued by an investment company registered under the Investment
+Company Act of 1940, are solicited by or on behalf of the manage-
+ment of the issuer from the holders of record of such security in
+accordance with the rules and regulations prescribed under sub-
+
+Section 10:
+section (a) of this section, prior to any annual or other meeting of
+the holders of such security, such issuer shall, in accordance with
+rules and regulations prescribed by the Commission, file with the
+Commission and transmit to all holders of record of such security
+information substantially equivalent to the information which
+would be required to be transmitted if a solicitation were made, but
+no information shall be required to be filed or transmitted pursu-
+ant to this subsection before July 1, 1964.
+(d)(1) It shall be unlawful for any person, directly or indirectly,
+by use of the mails or by any means or instrumentality of inter-
+state commerce or of any facility of a national securities exchange
+or otherwise, to make a tender offer for, or a request or invitation
+for tenders of, any class of any equity security which is registered
+pursuant to section 12 of this title, or any equity security of an in-
+surance company which would have been required to be so reg-
+istered except for the exemption contained in section 12(g)(2)(G) of
+this title, or any equity security issued by a closed-end investment
+company registered under the Investment Company Act of 1940, if,
+after consummation thereof, such person would, directly or indi-
+rectly, be the beneficial owner of more than 5 per centum of such
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+9
+class, unless at the time copies of the offer or request or invitation
+are first published or sent or given to security holders such person
+has filed with the Commission a statement containing such of the
+information specified in section 13(d) of this title, and such addi-
+tional information as the Commission may by rules and regulations
+prescribe as necessary or appropriate in the public interest or for
+the protection of investors. All requests or invitations for tenders
+or advertisements making a tender offer or requesting or inviting
+tenders, of such a security shall be filed as a part of such statement
+and shall contain such of the information contained in such state-
+ment as the Commission may by rules and regulations prescribe.
+Copies of any additional material soliciting or requesting such ten-
+der offers subsequent to the initial solicitation or request shall con-
+tain such information as the Commission may by rules and regula-
+tions prescribe as necessary or appropriate in the public interest or
+for the protection of investors, and shall be filed with the Commis-
+sion not later than the time copies of such material are first pub-
+lished or sent or given to security holders. Copies of all statements,
+in the form in which such material is furnished to security holders
+and the Commission, shall be sent to the issuer not later than the
+date such material is first published or sent or given to any secu-
+rity holders.
+(2) When two or more persons act as a partnership, limited part-
+nership, syndicate, or other group for the purpose of acquiring,
+holding, or disposing of securities of an issuer, such syndicate or
+group shall be deemed a ‘‘person’’ for purposes of this subsection.
+(3) In determining, for purposes of this subsection, any percent-
+age of a class of any security, such class shall be deemed to consist
+of the amount of the outstanding securities of such class, exclusive
+of any securities of such class held by or for the account of the
+issuer or a subsidiary of the issuer.
+(4) Any solicitation or recommendation to the holders of such a
+security to accept or reject a tender offer or request or invitation
+for tenders shall be made in accordance with such rules and regu-
+lations as the Commission may prescribe as necessary or appro-
+priate in the public interest or for the protection of investors.
+(5) Securities deposited pursuant to a tender offer or request or
+invitation for tenders may be withdrawn by or on behalf of the de-
+positor at any time until the expiration of seven days after the time
+definitive copies of the offer or request or invitation are first pub-
+lished or sent or given to security holders, and at any time after
+sixty days from the date of the original tender offer or request or
+invitation, except as the Commission may otherwise prescribe by
+rules, regulations, or order as necessary or appropriate in the pub-
+lic interest or for the protection of investors.
+(6) Where any person makes a tender offer, or request or invita-
+tion for tenders, for less than all the outstanding equity securities
+of a class, and where a greater number of securities is deposited
+pursuant thereto within ten days after copies of the offer or request
+or invitation are first published or sent or given to security holders
+than such person is bound or willing to take up and pay for, the
+securities taken up shall be taken up as nearly as may be pro rata,
+disregarding fractions, according to the number of securities depos-
+ited by each depositor. The provisions of this subsection shall also
+apply to securities deposited within ten days after notice of an in-
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+10
+crease in the consideration offered to security holders, as described
+in paragraph (7), is first published or sent or given to security hold-
+ers.
+(7) Where any person varies the terms of a tender offer or re-
+quest or invitation for tenders before the expiration thereof by in-
+creasing the consideration offered to holders of such securities,
+such person shall pay the increased consideration to each security
+holder whose securities are taken up and paid for pursuant to the
+tender offer or request or invitation for tenders whether or not
+such securities have been taken up by such person before the vari-
+ation of the tender offer or request or invitation.
+(8) The provisions of this subsection shall not apply to any offer
+for, or request or invitation for tenders of, any security—
+(A) if the acquisition of such security, together with all other
+acquisitions by the same person of securities of the same class
+during the preceding twelve months, would not exceed 2 per
+centum of that class;
+(B) by the issuer of such security; or
+(C) which the Commission, by rules or regulations or by
+order, shall exempt from the provisions of this subsection as
+not entered into for the purpose of, and not having the effect
+of, changing or influencing the control of the issuer or other-
+wise as not comprehended within the purposes of this sub-
+
+Section 11:
+section.
+(e) It shall be unlawful for any person to make any untrue state-
+ment of a material fact or omit to state any material fact necessary
+in order to make the statements made, in the light of the cir-
+cumstances under which they are made, not misleading, or to en-
+gage in any fraudulent, deceptive, or manipulative acts or prac-
+tices, in connection with any tender offer or request or invitation
+for tenders, or any solicitation of security holders in opposition to
+or in favor of any such offer, request, or invitation. The Commis-
+sion shall, for the purposes of this subsection, by rules and regula-
+tions define, and prescribe means reasonably designed to prevent,
+such acts and practices as are fraudulent, deceptive, or manipula-
+tive.
+(f) If, pursuant to any arrangement or understanding with the
+person or persons acquiring securities in a transaction subject to
+subsection (d) of this section or subsection (d) of section 13 of this
+title, any persons are to be elected or designated as directors of the
+issuer, otherwise than at a meeting of security holders, and the
+persons so elected or designated will constitute a majority of the di-
+rectors of the issuer, then, prior to the time any such person takes
+office as a director, and in accordance with rules and regulations
+prescribed by the Commission, the issuer shall file with the Com-
+mission, and transmit to all holders of record of securities of the
+issuer who would be entitled to vote at a meeting for election of di-
+rectors, information substantially equivalent to the information
+which would be required by subsection (a) or (c) of this section to
+be transmitted if such person or persons were nominees for election
+as directors at a meeting of such security holders.
+(g)(1)(A) At the time of filing such preliminary proxy solicitation
+material as the Commission may require by rule pursuant to sub-
+
+Section 12:
+section (a) of this section that concerns an acquisition, merger, con-
+solidation, or proposed sale or other disposition of substantially all
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+11
+the assets of a company, the person making such filing, other than
+a company registered under the Investment Company Act of 1940,
+shall pay to the Commission the following fees:
+(i) for preliminary proxy solicitation material involving an
+acquisition, merger, or consolidation, if there is a proposed pay-
+ment of cash or transfer of securities or property to share-
+holders, a fee at a rate that, subject to paragraph (4), is equal
+to $92 per $1,000,000 of such proposed payment, or of the
+value of such securities or other property proposed to be trans-
+ferred; and
+(ii) for preliminary proxy solicitation material involving a
+proposed sale or other disposition of substantially all of the as-
+sets of a company, a fee at a rate that, subject to paragraph
+(4), is equal to $92 per $1,000,000 of the cash or of the value
+of any securities or other property proposed to be received
+upon such sale or disposition.
+(B) The fee imposed under subparagraph (A) shall be reduced
+with respect to securities in an amount equal to any fee paid to the
+Commission with respect to such securities in connection with the
+proposed transaction under section 6(b) of the Securities Act of
+1933 (15 U.S.C. 77f(b)), or the fee paid under that section shall be
+reduced in an amount equal to the fee paid to the Commission in
+connection with such transaction under this subsection. Where two
+or more companies involved in an acquisition, merger, consolida-
+tion, sale, or other disposition of substantially all the assets of a
+company must file such proxy material with the Commission, each
+shall pay a proportionate share of such fee.
+(2) At the time of filing such preliminary information statement
+as the Commission may require by rule pursuant to subsection (c)
+of this section, the issuer shall pay to the Commission the same fee
+as required for preliminary proxy solicitation material under para-
+graph (1) of this subsection.
+(3) At the time of filing such statement as the Commission may
+require by rule pursuant to subsection (d)(1) of this section, the
+person making the filing shall pay to the Commission a fee at a
+rate that, subject to paragraph (4), is equal to $92 per $1,000,000
+of the aggregate amount of cash or of the value of securities or
+other property proposed to be offered. The fee shall be reduced with
+respect to securities in an amount equal to any fee paid with re-
+spect to such securities in connection with the proposed transaction
+under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)),
+or the fee paid under that section shall be reduced in an amount
+equal to the fee paid to the Commission in connection with such
+transaction under this subsection.
+(4) ANNUAL ADJUSTMENT.—For each fiscal year, the Commis-
+sion shall by order adjust the rate required by paragraphs (1)
+and (3) for such fiscal year to a rate that is equal to the rate
+(expressed in dollars per million) that is applicable under sec-
+tion 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)) for
+such fiscal year.
+(5) FEE COLLECTION.—Fees collected pursuant to this sub-
+
+Section 13:
+section for fiscal year 2012 and each fiscal year thereafter shall
+be deposited and credited as general revenue of the Treasury
+and shall not be available for obligation.
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+12
+(6) REVIEW; EFFECTIVE DATE; PUBLICATION.—In exercising its
+authority under this subsection, the Commission shall not be
+required to comply with the provisions of section 553 of title
+5, United States Code. An adjusted rate prescribed under para-
+graph (4) shall be published and take effect in accordance with
+
+Section 14:
+section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)).
+(7) PRO RATA APPLICATION.—The rates per $1,000,000 re-
+quired by this subsection shall be applied pro rata to amounts
+and balances of less than $1,000,000.
+(8) Notwithstanding any other provision of law, the Commission
+may impose fees, charges, or prices for matters not involving any
+acquisition, merger, consolidation, sale, or other disposition of as-
+sets described in this subsection, as authorized by section 9701 of
+title 31, United States Code, or otherwise.
+(h) PROXY SOLICITATIONS AND TENDER OFFERS IN CONNECTION
+WITH LIMITED PARTNERSHIP ROLLUP TRANSACTIONS.—
+(1) PROXY RULES TO CONTAIN SPECIAL PROVISIONS.—It shall
+be unlawful for any person to solicit any proxy, consent, or au-
+thorization concerning a limited partnership rollup transaction,
+or to make any tender offer in furtherance of a limited partner-
+ship rollup transaction, unless such transaction is conducted in
+accordance with rules prescribed by the Commission under
+subsections (a) and (d) as required by this subsection. Such
+rules shall—
+(A) permit any holder of a security that is the subject of
+the proposed limited partnership rollup transaction to en-
+gage in preliminary communications for the purpose of de-
+termining whether to solicit proxies, consents, or author-
+izations in opposition to the proposed limited partnership
+rollup transaction, without regard to whether any such
+communication would otherwise be considered a solicita-
+tion of proxies, and without being required to file soliciting
+material with the Commission prior to making that deter-
+mination, except that—
+(i) nothing in this subparagraph shall be construed
+to limit the application of any provision of this title
+prohibiting, or reasonably designed to prevent, fraudu-
+lent, deceptive, or manipulative acts or practices under
+this title; and
+(ii) any holder of not less than 5 percent of the out-
+standing securities that are the subject of the pro-
+posed limited partnership rollup transaction who en-
+gages in the business of buying and selling limited
+partnership interests in the secondary market shall be
+required to disclose such ownership interests and any
+potential conflicts of interests in such preliminary
+communications;
+(B) require the issuer to provide to holders of the securi-
+ties that are the subject of the limited partnership rollup
+transaction such list of the holders of the issuer’s securi-
+ties as the Commission may determine in such form and
+subject to such terms and conditions as the Commission
+may specify;
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+13
+(C) prohibit compensating any person soliciting proxies,
+consents, or authorizations directly from security holders
+concerning such a limited partnership rollup transaction—
+(i) on the basis of whether the solicited proxy, con-
+sent, or authorization either approves or disapproves
+the proposed limited partnership rollup transaction; or
+(ii) contingent on the approval, disapproval, or com-
+pletion of the limited partnership rollup transaction;
+(D) set forth disclosure requirements for soliciting mate-
+rial distributed in connection with a limited partnership
+rollup transaction, including requirements for clear, con-
+cise, and comprehensible disclosure with respect to—
+(i) any changes in the business plan, voting rights,
+form of ownership interest, or the compensation of the
+general partner in the proposed limited partnership
+rollup transaction from each of the original limited
+partnerships;
+(ii) the conflicts of interest, if any, of the general
+partner;
+(iii) whether it is expected that there will be a sig-
+nificant difference between the exchange values of the
+limited partnerships and the trading price of the secu-
+rities to be issued in the limited partnership rollup
+transaction;
+(iv) the valuation of the limited partnerships and
+the method used to determine the value of the inter-
+ests of the limited partners to be exchanged for the se-
+curities in the limited partnership rollup transaction;
+(v) the differing risks and effects of the limited part-
+nership rollup transaction for investors in different
+limited partnerships proposed to be included, and the
+risks and effects of completing the limited partnership
+rollup transaction with less than all limited partner-
+ships;
+(vi) the statement by the general partner required
+under subparagraph (E);
+(vii) such other matters deemed necessary or appro-
+priate by the Commission;
+(E) require a statement by the general partner as to
+whether the proposed limited partnership rollup trans-
+action is fair or unfair to investors in each limited partner-
+ship, a discussion of the basis for that conclusion, and an
+evaluation and a description by the general partner of al-
+ternatives to the limited partnership rollup transaction,
+such as liquidation;
+(F) provide that, if the general partner or sponsor has
+obtained any opinion (other than an opinion of counsel),
+appraisal, or report that is prepared by an outside party
+and that is materially related to the limited partnership
+rollup transaction, such soliciting materials shall contain
+or be accompanied by clear, concise, and comprehensible
+disclosure with respect to—
+(i) the analysis of the transaction, scope of review,
+preparation of the opinion, and basis for and methods
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+14
+of arriving at conclusions, and any representations
+and undertakings with respect thereto;
+(ii) the identity and qualifications of the person who
+prepared the opinion, the method of selection of such
+person, and any material past, existing, or con-
+templated relationships between the person or any of
+its affiliates and the general partner, sponsor, suc-
+cessor, or any other affiliate;
+(iii) any compensation of the preparer of such opin-
+ion, appraisal, or report that is contingent on the
+transaction’s approval or completion; and
+(iv) any limitations imposed by the issuer on the ac-
+cess afforded to such preparer to the issuer’s per-
+sonnel, premises, and relevant books and records;
+(G) provide that, if the general partner or sponsor has
+obtained any opinion, appraisal, or report as described in
+subparagraph (F) from any person whose compensation is
+contingent on the transaction’s approval or completion or
+who has not been given access by the issuer to its per-
+sonnel and premises and relevant books and records, the
+general partner or sponsor shall state the reasons therefor;
+(H) provide that, if the general partner or sponsor has
+not obtained any opinion on the fairness of the proposed
+limited partnership rollup transaction to investors in each
+of the affected partnerships, such soliciting materials shall
+contain or be accompanied by a statement of such part-
+ner’s or sponsor’s reasons for concluding that such an opin-
+ion is not necessary in order to permit the limited partners
+to make an informed decision on the proposed transaction;
+(I) require that the soliciting material include a clear,
+concise, and comprehensible summary of the limited part-
+nership rollup transaction (including a summary of the
+matters referred to in clauses (i) through (vii) of subpara-
+graph (D) and a summary of the matter referred to in sub-
+paragraphs (F), (G), and (H)), with the risks of the limited
+partnership rollup transaction set forth prominently in the
+fore part thereof;
+(J) provide that any solicitation or offering period with
+respect to any proxy solicitation, tender offer, or informa-
+tion statement in a limited partnership rollup transaction
+shall be for not less than the lesser of 60 calendar days or
+the maximum number of days permitted under applicable
+State law; and
+(K) contain such other provisions as the Commission de-
+termines to be necessary or appropriate for the protection
+of investors in limited partnership rollup transactions.
+(2) EXEMPTIONS.—The Commission may, consistent with the
+public interest, the protection of investors, and the purposes of
+this title, exempt by rule or order any security or class of secu-
+rities, any transaction or class of transactions, or any person
+or class of persons, in whole or in part, conditionally or uncon-
+ditionally, from the requirements imposed pursuant to para-
+graph (1) or from the definition contained in paragraph (4).
+(3) EFFECT ON COMMISSION AUTHORITY.—Nothing in this sub-
+
+Section 15:
+section limits the authority of the Commission under sub-
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+15
+
+Section 16:
+section (a) or (d) or any other provision of this title or pre-
+cludes the Commission from imposing, under subsection (a) or
+(d) or any other provision of this title, a remedy or procedure
+required to be imposed under this subsection.
+(4) DEFINITION OF LIMITED PARTNERSHIP ROLLUP TRANS-
+ACTION.—Except as provided in paragraph (5), as used in this
+subsection, the term ‘‘limited partnership rollup transaction’’
+means a transaction involving the combination or reorganiza-
+tion of one or more limited partnerships, directly or indirectly,
+in which—
+(A) some or all of the investors in any of such limited
+partnerships will receive new securities, or securities in
+another entity, that will be reported under a transaction
+reporting plan declared effective before the date of enact-
+ment of this subsection by the Commission under section
+11A;
+(B) any of the investors’ limited partnership securities
+are not, as of the date of filing, reported under a trans-
+action reporting plan declared effective before the date of
+enactment of this subsection by the Commission under sec-
+tion 11A;
+(C) investors in any of the limited partnerships involved
+in the transaction are subject to a significant adverse
+change with respect to voting rights, the term of existence
+of the entity, management compensation, or investment
+objectives; and
+(D) any of such investors are not provided an option to
+receive or retain a security under substantially the same
+terms and conditions as the original issue.
+(5) EXCLUSIONS FROM DEFINITION.—Notwithstanding para-
+graph (4), the term ‘‘limited partnership rollup transaction’’
+does not include—
+(A) a transaction that involves only a limited partner-
+ship or partnerships having an operating policy or practice
+of retaining cash available for distribution and reinvesting
+proceeds from the sale, financing, or refinancing of assets
+in accordance with such criteria as the Commission deter-
+mines appropriate;
+(B) a transaction involving only limited partnerships
+wherein the interests of the limited partners are repur-
+chased, recalled, or exchanged in accordance with the
+terms of the preexisting limited partnership agreements
+for securities in an operating company specifically identi-
+fied at the time of the formation of the original limited
+partnership;
+(C) a transaction in which the securities to be issued or
+exchanged are not required to be and are not registered
+under the Securities Act of 1933;
+(D) a transaction that involves only issuers that are not
+required to register or report under section 12, both before
+and after the transaction;
+(E) a transaction, except as the Commission may other-
+wise provide by rule for the protection of investors, involv-
+ing the combination or reorganization of one or more lim-
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+16
+ited partnerships in which a non-affiliated party succeeds
+to the interests of a general partner or sponsor, if—
+(i) such action is approved by not less than 662⁄
+3
+per-
+cent of the outstanding units of each of the partici-
+pating limited partnerships; and
+(ii) as a result of the transaction, the existing gen-
+eral partners will receive only compensation to which
+they are entitled as expressly provided for in the pre-
+existing limited partnership agreements; or
+(F) a transaction, except as the Commission may other-
+wise provide by rule for the protection of investors, in
+which the securities offered to investors are securities of
+another entity that are reported under a transaction re-
+porting plan declared effective before the date of enact-
+ment of this subsection by the Commission under section
+11A, if—
+(i) such other entity was formed, and such class of
+securities was reported and regularly traded, not less
+than 12 months before the date on which soliciting
+material is mailed to investors; and
+(ii) the securities of that entity issued to investors in
+the transaction do not exceed 20 percent of the total
+outstanding securities of the entity, exclusive of any
+securities of such class held by or for the account of
+the entity or a subsidiary of the entity.
+(i) DISCLOSURE OF PAY VERSUS PERFORMANCE.—The Commission
+shall, by rule, require each issuer to disclose in any proxy or con-
+sent solicitation material for an annual meeting of the shareholders
+of the issuer a clear description of any compensation required to be
+disclosed by the issuer under section 229.402 of title 17, Code of
+Federal Regulations (or any successor thereto), including, for any
+issuer other than an emerging growth company, information that
+shows the relationship between executive compensation actually
+paid and the financial performance of the issuer, taking into ac-
+count any change in the value of the shares of stock and dividends
+of the issuer and any distributions. The disclosure under this sub-
+
+Section 17:
+section may include a graphic representation of the information re-
+quired to be disclosed.
+(j) DISCLOSURE OF HEDGING BY EMPLOYEES AND DIRECTORS.—
+The Commission shall, by rule, require each issuer to disclose in
+any proxy or consent solicitation material for an annual meeting of
+the shareholders of the issuer whether any employee or member of
+the board of directors of the issuer, or any designee of such em-
+ployee or member, is permitted to purchase financial instruments
+(including prepaid variable forward contracts, equity swaps, collars,
+and exchange funds) that are designed to hedge or offset any de-
+crease in the market value of equity securities—
+(1) granted to the employee or member of the board of direc-
+tors by the issuer as part of the compensation of the employee
+or member of the board of directors; or
+(2) held, directly or indirectly, by the employee or member of
+the board of directors.
+(k) DATA STANDARDS FOR PROXY AND CONSENT SOLICITATION MA-
+TERIALS.—
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+17
+(1) REQUIREMENT.—The Commission shall, by rule, adopt
+data standards for all information contained in any proxy or
+consent solicitation material prepared by an issuer for an an-
+nual meeting of the shareholders of the issuer, except that the
+Commission may exempt exhibits, signatures, and certifi-
+cations from those data standards.
+(2) CONSISTENCY.—The data standards required under para-
+graph (1) shall incorporate, and ensure compatibility with (to
+the extent feasible), all applicable data standards established
+in the rules promulgated under section 124 of the Financial
+Stability Act of 2010, including, to the extent practicable, by
+having the characteristics described in clauses (i) through (vi)
+of subsection (c)(1)(B) of such section 124.
+(l) DISCLOSURE RELATING TO MULTI-CLASS SHARE STRUC-
+TURES.—
+(1) DISCLOSURE.—The Commission shall, by rule, require
+each issuer with a multi-class share structure to disclose the in-
+formation described in paragraph (2) in any proxy or consent
+solicitation material for an annual meeting of the shareholders
+of the issuer, or any other filing as the Commission determines
+appropriate.
+(2) CONTENT OF DISCLOSURE.—A disclosure made under
+paragraph (1) shall include, with respect to each person who is
+a director, director nominee, or named executive officer of the
+issuer, or who is the beneficial owner of securities with 5 per-
+cent or more of the total combined voting power of all classes
+of securities entitled to vote in the election of directors—
+(A) the number of shares of all classes of securities enti-
+tled to vote in the election of directors beneficially owned by
+such person, expressed as a percentage of the total number
+of the outstanding securities of the issuer entitled to vote in
+the election of directors; and
+(B) the amount of voting power held by such person, ex-
+pressed as a percentage of the total combined voting power
+of all classes of the securities of the issuer entitled to vote
+in the election of directors.
+(3) MULTI-CLASS SHARE STRUCTURE.—In this subsection, the
+term ‘‘multi-class share structure’’ means a capitalization struc-
+ture that contains 2 or more types of securities that have dif-
+fering amounts of voting rights in the election of directors.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00017 Fmt 6659 Sfmt 6611 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–120
+ENHANCING MULTI-CLASS SHARE DISCLOSURES ACT
+JUNE3, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+[To accompany H.R. 3357]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 3357) to amend the Securities Exchange Act of 1934 to
+require issuers with a multi-class stock structure to make certain
+disclosures in any proxy or consent solicitation material, and for
+other purposes, having considered the same, reports favorably
+thereon with an amendment and recommends that the bill as
+amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Consideration ........................................................................................ 3
+Related Hearings ..................................................................................................... 3
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings ............................................................................... 6
+Performance Goals and Objectives ......................................................................... 6
+Committee Cost Estimate ....................................................................................... 6
+New Budget Authority and CBO Cost Estimate ................................................... 6
+Unfunded Mandates Statement .............................................................................. 6
+Earmark Statement ................................................................................................. 6
+Federal Advisory Committee Act Statement ......................................................... 6
+Applicability to the Legislative Branch ................................................................. 7
+Duplication of Federal Programs ............................................................................ 7
+Section-by-Section Analysis of the Legislation ...................................................... 7
+Changes in Existing Law Made by the Bill, as Reported ..................................... 7
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Enhancing Multi-Class Share Disclosures Act’’.
+59–006
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6621 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+2
+SEC. 2. DISCLOSURE RELATING TO MULTI-CLASS SHARE STRUCTURES.
+Section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n) is amended by
+adding at the end the following:
+‘‘(l) DISCLOSURERELATINGTOMULTI-CLASSSHARESTRUCTURES.—
+‘‘(1) DISCLOSURE.—The Commission shall, by rule, require each issuer with a
+multi-class share structure to disclose the information described in paragraph
+(2) in any proxy or consent solicitation material for an annual meeting of the
+shareholders of the issuer, or any other filing as the Commission determines ap-
+propriate.
+‘‘(2) CONTENT OF DISCLOSURE.—A disclosure made under paragraph (1) shall
+include, with respect to each person who is a director, director nominee, or
+named executive officer of the issuer, or who is the beneficial owner of securities
+with 5 percent or more of the total combined voting power of all classes of secu-
+rities entitled to vote in the election of directors—
+‘‘(A) the number of shares of all classes of securities entitled to vote in
+the election of directors beneficially owned by such person, expressed as a
+percentage of the total number of the outstanding securities of the issuer
+entitled to vote in the election of directors; and
+‘‘(B) the amount of voting power held by such person, expressed as a per-
+centage of the total combined voting power of all classes of the securities
+of the issuer entitled to vote in the election of directors.
+‘‘(3) MULTI-CLASSSHARESTRUCTURE.—In this subsection, the term ‘multi-class
+share structure’ means a capitalization structure that contains 2 or more types
+of securities that have differing amounts of voting rights in the election of direc-
+tors.’’.
+PURPOSE AND SUMMARY
+H.R. 3357, the Enhancing Multi-Class Share Disclosures Act, was
+introduced on May 13, 2025, by Representative Gregory Meeks
+(NY–05). The bill requires issuers with a multi-class stock struc-
+ture to make certain disclosures in any proxy or consent solicita-
+tion material.
+BACKGROUND AND NEED FOR LEGISLATION
+Multi-class share structures have existed in the U.S. since the
+late 1800s. The original intent of these structures was to allow
+companies, particularly family-run businesses, to maintain voting
+control without having to own the majority of equity in their com-
+pany. In the 1980s, in response to a number of hostile takeovers
+of companies and the increasing competitiveness of national securi-
+ties exchanges, limitations on multi-class share structures became
+more relaxed. The majority of companies that took advantage of the
+newly relaxed limitations were media companies such as the Wash-
+ington Post and New York Times. Media companies viewed multi-
+class structures as a means to protect journalistic integrity.
+In 2017, the SEC’s Investor Advisory Committee approved a rec-
+ommendation that called for the SEC to require more disclosures
+from companies with multi-class shares.1 Currently, the SEC does
+not require companies to disclose the gap between the equity an in-
+dividual holds in the company and the number of voting shares
+they control—although many companies already do this for their
+shareholders. Requiring disclosures regarding voting power, par-
+ticularly regarding officers and directors and those who have more
+than five percent voting power, ensures shareholders receive more
+uniform information in proxy materials, particularly because com-
+panies already are required to disclose ownership information for
+1See SEC Investor Advisory Committee, Recommendation re: Dual Class and Other Entrench-
+ing Governance Structures in Public Companies (Dec. 17, 2017), https://www.sec.gov/spotlight/
+investor-advisory-committee-2012/recommendation-on-dual-class-shares.pdf.
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+3
+directors, officers, and shareholders controlling more than five per-
+cent of equity.
+Rather than prohibiting multi-class share structures altogether,
+this bill represents a thoughtful and balanced approach to enhance
+transparency without eliminating class structures that encourage
+founders who may not otherwise go public to do so.
+COMMITTEE CONSIDERATION
+115TH CONGRESS
+On July 10, 2018, Representative Gregory Meeks (D–NY) intro-
+duced H.R. 6322, the Enhancing Multi-Class Share Disclosure Act.
+This bill is an earlier iteration of H.R. 3357. The bill was referred
+solely to the Committee on Financial Services. On July 11, 2018,
+the Committee on Financial Services ordered H.R. 6322 to be re-
+ported favorably to the House of Representatives by a voice vote.
+118TH CONGRESS
+On April 24, 2023, Representative Meeks introduced H.R. 2795,
+the Enhancing Multi-Class Share Disclosure Act. This bill is an
+earlier iteration of H.R. 3357. The bill was referred solely to the
+Committee on Financial Services. The Subcommittee on Capital
+Markets of the Committee on Financial Services held a hearing to
+examine matters relating to H.R. 2795 on April 19, 2023. On April
+26, 2023, the Committee on Financial Services ordered H.R. 2795
+to be reported favorably to the House of Representatives. On May
+30, 2023, the House suspended the rules and passed the bill by a
+recorded vote of 347–30. It was received in the Senate and referred
+to the Committee on Banking, Housing, and Urban Affairs.
+119TH CONGRESS
+On May 13, 2025, Representative Meeks introduced H.R. 3357,
+the Enhancing Multi-Class Share Disclosure Act. The bill was re-
+ferred solely to the Committee on Financial Services. The bill was
+attached to the February 26, 2025, hearing titled ‘‘The Future of
+American Capital: Strengthening Public and Private Markets by
+Increasing Investor Access and Facilitating Capital Formation’’ and
+the March 25, 2025, hearing titled, ‘‘Beyond Silicon Valley: Ex-
+panding Access to Capital Across America.’’
+On May 20, 2025, the Committee met in open session to consider,
+among others, H.R. 3357. The Committee favorably reported H.R.
+3357, as amended, to the House of Representatives.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearings were used to develop
+H.R. 3357:
+The Capital Markets Subcommittee of the Committee on Finan-
+cial Services held a February 26, 2025, hearing titled ‘‘The Future
+of American Capital: Strengthening Public and Private Markets by
+Increasing Investor Access and Facilitating Capital Formation’’ and
+the Full Committee held a March 25, 2025, hearing titled, ‘‘Beyond
+Silicon Valley: Expanding Access to Capital Across America.’’ A dis-
+cussion draft version of the bill was attached to both hearings. The
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+4
+following witnesses testified at the February 26, 2025, hearing: Mr.
+Andrew Barnell, CEO and Co-Founder, Geneoscopy; Mr. McKeever
+Conwell, Founder and Managing Partner, RareBreed Ventures; Ms.
+Rebecca Kacaba, CEO and Co-Founder, DealMaker; Ms. Anna
+Pinedo, Partner, Mayer Brown; and Ms. Alexandra Thornton, Sen-
+ior Director, Financial Regulation, Center for American Progress.
+The following witnesses testified at the March 25, 2025, hearing:
+Mr. Steve Case, Chairman and CEO, Revolution LLC; Mr. Bill
+Newell, Senior Business Advisor & Former CEO, Sutro Biopharma;
+Ms. Candice Matthews Brackeen, General Partner, Lightship Cap-
+ital; Mr. Joel Trotter, Partner, Latham & Watkins LLP; and Ms.
+Amanda Senn, Director of the Alabama Securities Commission.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On May 20, 2025, the Committee ordered H.R. 3357, as amend-
+ed, to be reported favorably to the House by a recorded vote of 51
+yeas and 0 nays, a quorum being present. (Record Vote No. FC–
+107).
+Before the question to report was called, the Committee adopted
+an amendment in the nature of a substitute, designated MEEKS—
+028, which made minor edits and technical changes, offered by
+Representative Meeks. The amendment was adopted by voice vote,
+a quorum being present.
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+5
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+100.021RH
+ereh
+8 oilof
+tesffo
+tresnI
+
+6
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 3357 is to require issuers with
+a multi-class stock structure to make certain disclosures in any
+proxy or consent solicitation material.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 3357. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of rule XIII, the Committee will adopt as its own the cost
+estimate by the Director of the Congressional Budget Office once
+it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+7
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+Section 1 provides the short title is the ‘‘Enhancing Multi-Class
+Share Disclosures Act.’’
+Section 2. Disclosure relating to multi-class share structures
+This section amends Section 14 of the Securities Exchange Act of
+1934 by mandating certain disclosures by issuers of multi-class
+share structures. Specifically, this section requires the U.S. Securi-
+ties and Exchange Commission (SEC) to require, by rule, issuers
+to make certain disclosures in any proxy or consent solicitation ma-
+terial with respect to each person who is a director or executive of-
+ficer of the issuer or who holds five percent or more of the total
+combined voting power of all classes of stock entitled to vote in the
+election of directors.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+SECURITIES EXCHANGE ACT OF 1934
+TITLE I—REGULATION OF SECURITIES EXCHANGES
+* * * * * * *
+PROXIES
+SEC. 14. (a)(1) It shall be unlawful for any person, by the use of
+the mails or by any means or instrumentality of interstate com-
+merce or of any facility of a national securities exchange or other-
+wise, in contravention of such rules and regulations as the Com-
+mission may prescribe as necessary or appropriate in the public in-
+terest or for the protection of investors, to solicit or to permit the
+use of his name to solicit any proxy or consent or authorization in
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+8
+respect of any security (other than an exempted security) registered
+pursuant to section 12 of this title.
+(2) The rules and regulations prescribed by the Commission
+under paragraph (1) may include—
+(A) a requirement that a solicitation of proxy, consent, or au-
+thorization by (or on behalf of) an issuer include a nominee
+submitted by a shareholder to serve on the board of directors
+of the issuer; and
+(B) a requirement that an issuer follow a certain procedure
+in relation to a solicitation described in subparagraph (A).
+(b)(1) It shall be unlawful for any member of a national securities
+exchange, or any broker or dealer registered under this title, or any
+bank, association, or other entity that exercises fiduciary powers,
+in contravention of such rules and regulations as the Commission
+may prescribe as necessary or appropriate in the public interest or
+for the protection of investors, to give, or to refrain from giving a
+proxy, consent, authorization, or information statement in respect
+of any security registered pursuant to section 12 of this title, or any
+security issued by an investment company registered under the In-
+vestment Company Act of 1940, and carried for the account of a
+customer.
+(2) With respect to banks, the rules and regulations prescribed
+by the Commission under paragraph (1) shall not require the dis-
+closure of the names of beneficial owners of securities in an account
+held by the bank on the date of enactment of this paragraph unless
+the beneficial owner consents to the disclosure. The provisions of
+this paragraph shall not apply in the case of a bank which the
+Commission finds has not made a good faith effort to obtain such
+consent from such beneficial owners.
+(c) Unless proxies, consents, or authorizations in respect of a se-
+curity registered pursuant to section 12 of this title, or a security
+issued by an investment company registered under the Investment
+Company Act of 1940, are solicited by or on behalf of the manage-
+ment of the issuer from the holders of record of such security in
+accordance with the rules and regulations prescribed under sub-
+section (a) of this section, prior to any annual or other meeting of
+the holders of such security, such issuer shall, in accordance with
+rules and regulations prescribed by the Commission, file with the
+Commission and transmit to all holders of record of such security
+information substantially equivalent to the information which
+would be required to be transmitted if a solicitation were made, but
+no information shall be required to be filed or transmitted pursu-
+ant to this subsection before July 1, 1964.
+(d)(1) It shall be unlawful for any person, directly or indirectly,
+by use of the mails or by any means or instrumentality of inter-
+state commerce or of any facility of a national securities exchange
+or otherwise, to make a tender offer for, or a request or invitation
+for tenders of, any class of any equity security which is registered
+pursuant to section 12 of this title, or any equity security of an in-
+surance company which would have been required to be so reg-
+istered except for the exemption contained in section 12(g)(2)(G) of
+this title, or any equity security issued by a closed-end investment
+company registered under the Investment Company Act of 1940, if,
+after consummation thereof, such person would, directly or indi-
+rectly, be the beneficial owner of more than 5 per centum of such
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+9
+class, unless at the time copies of the offer or request or invitation
+are first published or sent or given to security holders such person
+has filed with the Commission a statement containing such of the
+information specified in section 13(d) of this title, and such addi-
+tional information as the Commission may by rules and regulations
+prescribe as necessary or appropriate in the public interest or for
+the protection of investors. All requests or invitations for tenders
+or advertisements making a tender offer or requesting or inviting
+tenders, of such a security shall be filed as a part of such statement
+and shall contain such of the information contained in such state-
+ment as the Commission may by rules and regulations prescribe.
+Copies of any additional material soliciting or requesting such ten-
+der offers subsequent to the initial solicitation or request shall con-
+tain such information as the Commission may by rules and regula-
+tions prescribe as necessary or appropriate in the public interest or
+for the protection of investors, and shall be filed with the Commis-
+sion not later than the time copies of such material are first pub-
+lished or sent or given to security holders. Copies of all statements,
+in the form in which such material is furnished to security holders
+and the Commission, shall be sent to the issuer not later than the
+date such material is first published or sent or given to any secu-
+rity holders.
+(2) When two or more persons act as a partnership, limited part-
+nership, syndicate, or other group for the purpose of acquiring,
+holding, or disposing of securities of an issuer, such syndicate or
+group shall be deemed a ‘‘person’’ for purposes of this subsection.
+(3) In determining, for purposes of this subsection, any percent-
+age of a class of any security, such class shall be deemed to consist
+of the amount of the outstanding securities of such class, exclusive
+of any securities of such class held by or for the account of the
+issuer or a subsidiary of the issuer.
+(4) Any solicitation or recommendation to the holders of such a
+security to accept or reject a tender offer or request or invitation
+for tenders shall be made in accordance with such rules and regu-
+lations as the Commission may prescribe as necessary or appro-
+priate in the public interest or for the protection of investors.
+(5) Securities deposited pursuant to a tender offer or request or
+invitation for tenders may be withdrawn by or on behalf of the de-
+positor at any time until the expiration of seven days after the time
+definitive copies of the offer or request or invitation are first pub-
+lished or sent or given to security holders, and at any time after
+sixty days from the date of the original tender offer or request or
+invitation, except as the Commission may otherwise prescribe by
+rules, regulations, or order as necessary or appropriate in the pub-
+lic interest or for the protection of investors.
+(6) Where any person makes a tender offer, or request or invita-
+tion for tenders, for less than all the outstanding equity securities
+of a class, and where a greater number of securities is deposited
+pursuant thereto within ten days after copies of the offer or request
+or invitation are first published or sent or given to security holders
+than such person is bound or willing to take up and pay for, the
+securities taken up shall be taken up as nearly as may be pro rata,
+disregarding fractions, according to the number of securities depos-
+ited by each depositor. The provisions of this subsection shall also
+apply to securities deposited within ten days after notice of an in-
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+10
+crease in the consideration offered to security holders, as described
+in paragraph (7), is first published or sent or given to security hold-
+ers.
+(7) Where any person varies the terms of a tender offer or re-
+quest or invitation for tenders before the expiration thereof by in-
+creasing the consideration offered to holders of such securities,
+such person shall pay the increased consideration to each security
+holder whose securities are taken up and paid for pursuant to the
+tender offer or request or invitation for tenders whether or not
+such securities have been taken up by such person before the vari-
+ation of the tender offer or request or invitation.
+(8) The provisions of this subsection shall not apply to any offer
+for, or request or invitation for tenders of, any security—
+(A) if the acquisition of such security, together with all other
+acquisitions by the same person of securities of the same class
+during the preceding twelve months, would not exceed 2 per
+centum of that class;
+(B) by the issuer of such security; or
+(C) which the Commission, by rules or regulations or by
+order, shall exempt from the provisions of this subsection as
+not entered into for the purpose of, and not having the effect
+of, changing or influencing the control of the issuer or other-
+wise as not comprehended within the purposes of this sub-
+section.
+(e) It shall be unlawful for any person to make any untrue state-
+ment of a material fact or omit to state any material fact necessary
+in order to make the statements made, in the light of the cir-
+cumstances under which they are made, not misleading, or to en-
+gage in any fraudulent, deceptive, or manipulative acts or prac-
+tices, in connection with any tender offer or request or invitation
+for tenders, or any solicitation of security holders in opposition to
+or in favor of any such offer, request, or invitation. The Commis-
+sion shall, for the purposes of this subsection, by rules and regula-
+tions define, and prescribe means reasonably designed to prevent,
+such acts and practices as are fraudulent, deceptive, or manipula-
+tive.
+(f) If, pursuant to any arrangement or understanding with the
+person or persons acquiring securities in a transaction subject to
+subsection (d) of this section or subsection (d) of section 13 of this
+title, any persons are to be elected or designated as directors of the
+issuer, otherwise than at a meeting of security holders, and the
+persons so elected or designated will constitute a majority of the di-
+rectors of the issuer, then, prior to the time any such person takes
+office as a director, and in accordance with rules and regulations
+prescribed by the Commission, the issuer shall file with the Com-
+mission, and transmit to all holders of record of securities of the
+issuer who would be entitled to vote at a meeting for election of di-
+rectors, information substantially equivalent to the information
+which would be required by subsection (a) or (c) of this section to
+be transmitted if such person or persons were nominees for election
+as directors at a meeting of such security holders.
+(g)(1)(A) At the time of filing such preliminary proxy solicitation
+material as the Commission may require by rule pursuant to sub-
+section (a) of this section that concerns an acquisition, merger, con-
+solidation, or proposed sale or other disposition of substantially all
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+11
+the assets of a company, the person making such filing, other than
+a company registered under the Investment Company Act of 1940,
+shall pay to the Commission the following fees:
+(i) for preliminary proxy solicitation material involving an
+acquisition, merger, or consolidation, if there is a proposed pay-
+ment of cash or transfer of securities or property to share-
+holders, a fee at a rate that, subject to paragraph (4), is equal
+to $92 per $1,000,000 of such proposed payment, or of the
+value of such securities or other property proposed to be trans-
+ferred; and
+(ii) for preliminary proxy solicitation material involving a
+proposed sale or other disposition of substantially all of the as-
+sets of a company, a fee at a rate that, subject to paragraph
+(4), is equal to $92 per $1,000,000 of the cash or of the value
+of any securities or other property proposed to be received
+upon such sale or disposition.
+(B) The fee imposed under subparagraph (A) shall be reduced
+with respect to securities in an amount equal to any fee paid to the
+Commission with respect to such securities in connection with the
+proposed transaction under section 6(b) of the Securities Act of
+1933 (15 U.S.C. 77f(b)), or the fee paid under that section shall be
+reduced in an amount equal to the fee paid to the Commission in
+connection with such transaction under this subsection. Where two
+or more companies involved in an acquisition, merger, consolida-
+tion, sale, or other disposition of substantially all the assets of a
+company must file such proxy material with the Commission, each
+shall pay a proportionate share of such fee.
+(2) At the time of filing such preliminary information statement
+as the Commission may require by rule pursuant to subsection (c)
+of this section, the issuer shall pay to the Commission the same fee
+as required for preliminary proxy solicitation material under para-
+graph (1) of this subsection.
+(3) At the time of filing such statement as the Commission may
+require by rule pursuant to subsection (d)(1) of this section, the
+person making the filing shall pay to the Commission a fee at a
+rate that, subject to paragraph (4), is equal to $92 per $1,000,000
+of the aggregate amount of cash or of the value of securities or
+other property proposed to be offered. The fee shall be reduced with
+respect to securities in an amount equal to any fee paid with re-
+spect to such securities in connection with the proposed transaction
+under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)),
+or the fee paid under that section shall be reduced in an amount
+equal to the fee paid to the Commission in connection with such
+transaction under this subsection.
+(4) ANNUAL ADJUSTMENT.—For each fiscal year, the Commis-
+sion shall by order adjust the rate required by paragraphs (1)
+and (3) for such fiscal year to a rate that is equal to the rate
+(expressed in dollars per million) that is applicable under sec-
+tion 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)) for
+such fiscal year.
+(5) FEE COLLECTION.—Fees collected pursuant to this sub-
+section for fiscal year 2012 and each fiscal year thereafter shall
+be deposited and credited as general revenue of the Treasury
+and shall not be available for obligation.
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+12
+(6) REVIEW; EFFECTIVE DATE; PUBLICATION.—In exercising its
+authority under this subsection, the Commission shall not be
+required to comply with the provisions of section 553 of title
+5, United States Code. An adjusted rate prescribed under para-
+graph (4) shall be published and take effect in accordance with
+section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)).
+(7) PRO RATA APPLICATION.—The rates per $1,000,000 re-
+quired by this subsection shall be applied pro rata to amounts
+and balances of less than $1,000,000.
+(8) Notwithstanding any other provision of law, the Commission
+may impose fees, charges, or prices for matters not involving any
+acquisition, merger, consolidation, sale, or other disposition of as-
+sets described in this subsection, as authorized by section 9701 of
+title 31, United States Code, or otherwise.
+(h) PROXY SOLICITATIONS AND TENDER OFFERS IN CONNECTION
+WITH LIMITED PARTNERSHIP ROLLUP TRANSACTIONS.—
+(1) PROXY RULES TO CONTAIN SPECIAL PROVISIONS.—It shall
+be unlawful for any person to solicit any proxy, consent, or au-
+thorization concerning a limited partnership rollup transaction,
+or to make any tender offer in furtherance of a limited partner-
+ship rollup transaction, unless such transaction is conducted in
+accordance with rules prescribed by the Commission under
+subsections (a) and (d) as required by this subsection. Such
+rules shall—
+(A) permit any holder of a security that is the subject of
+the proposed limited partnership rollup transaction to en-
+gage in preliminary communications for the purpose of de-
+termining whether to solicit proxies, consents, or author-
+izations in opposition to the proposed limited partnership
+rollup transaction, without regard to whether any such
+communication would otherwise be considered a solicita-
+tion of proxies, and without being required to file soliciting
+material with the Commission prior to making that deter-
+mination, except that—
+(i) nothing in this subparagraph shall be construed
+to limit the application of any provision of this title
+prohibiting, or reasonably designed to prevent, fraudu-
+lent, deceptive, or manipulative acts or practices under
+this title; and
+(ii) any holder of not less than 5 percent of the out-
+standing securities that are the subject of the pro-
+posed limited partnership rollup transaction who en-
+gages in the business of buying and selling limited
+partnership interests in the secondary market shall be
+required to disclose such ownership interests and any
+potential conflicts of interests in such preliminary
+communications;
+(B) require the issuer to provide to holders of the securi-
+ties that are the subject of the limited partnership rollup
+transaction such list of the holders of the issuer’s securi-
+ties as the Commission may determine in such form and
+subject to such terms and conditions as the Commission
+may specify;
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+13
+(C) prohibit compensating any person soliciting proxies,
+consents, or authorizations directly from security holders
+concerning such a limited partnership rollup transaction—
+(i) on the basis of whether the solicited proxy, con-
+sent, or authorization either approves or disapproves
+the proposed limited partnership rollup transaction; or
+(ii) contingent on the approval, disapproval, or com-
+pletion of the limited partnership rollup transaction;
+(D) set forth disclosure requirements for soliciting mate-
+rial distributed in connection with a limited partnership
+rollup transaction, including requirements for clear, con-
+cise, and comprehensible disclosure with respect to—
+(i) any changes in the business plan, voting rights,
+form of ownership interest, or the compensation of the
+general partner in the proposed limited partnership
+rollup transaction from each of the original limited
+partnerships;
+(ii) the conflicts of interest, if any, of the general
+partner;
+(iii) whether it is expected that there will be a sig-
+nificant difference between the exchange values of the
+limited partnerships and the trading price of the secu-
+rities to be issued in the limited partnership rollup
+transaction;
+(iv) the valuation of the limited partnerships and
+the method used to determine the value of the inter-
+ests of the limited partners to be exchanged for the se-
+curities in the limited partnership rollup transaction;
+(v) the differing risks and effects of the limited part-
+nership rollup transaction for investors in different
+limited partnerships proposed to be included, and the
+risks and effects of completing the limited partnership
+rollup transaction with less than all limited partner-
+ships;
+(vi) the statement by the general partner required
+under subparagraph (E);
+(vii) such other matters deemed necessary or appro-
+priate by the Commission;
+(E) require a statement by the general partner as to
+whether the proposed limited partnership rollup trans-
+action is fair or unfair to investors in each limited partner-
+ship, a discussion of the basis for that conclusion, and an
+evaluation and a description by the general partner of al-
+ternatives to the limited partnership rollup transaction,
+such as liquidation;
+(F) provide that, if the general partner or sponsor has
+obtained any opinion (other than an opinion of counsel),
+appraisal, or report that is prepared by an outside party
+and that is materially related to the limited partnership
+rollup transaction, such soliciting materials shall contain
+or be accompanied by clear, concise, and comprehensible
+disclosure with respect to—
+(i) the analysis of the transaction, scope of review,
+preparation of the opinion, and basis for and methods
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+14
+of arriving at conclusions, and any representations
+and undertakings with respect thereto;
+(ii) the identity and qualifications of the person who
+prepared the opinion, the method of selection of such
+person, and any material past, existing, or con-
+templated relationships between the person or any of
+its affiliates and the general partner, sponsor, suc-
+cessor, or any other affiliate;
+(iii) any compensation of the preparer of such opin-
+ion, appraisal, or report that is contingent on the
+transaction’s approval or completion; and
+(iv) any limitations imposed by the issuer on the ac-
+cess afforded to such preparer to the issuer’s per-
+sonnel, premises, and relevant books and records;
+(G) provide that, if the general partner or sponsor has
+obtained any opinion, appraisal, or report as described in
+subparagraph (F) from any person whose compensation is
+contingent on the transaction’s approval or completion or
+who has not been given access by the issuer to its per-
+sonnel and premises and relevant books and records, the
+general partner or sponsor shall state the reasons therefor;
+(H) provide that, if the general partner or sponsor has
+not obtained any opinion on the fairness of the proposed
+limited partnership rollup transaction to investors in each
+of the affected partnerships, such soliciting materials shall
+contain or be accompanied by a statement of such part-
+ner’s or sponsor’s reasons for concluding that such an opin-
+ion is not necessary in order to permit the limited partners
+to make an informed decision on the proposed transaction;
+(I) require that the soliciting material include a clear,
+concise, and comprehensible summary of the limited part-
+nership rollup transaction (including a summary of the
+matters referred to in clauses (i) through (vii) of subpara-
+graph (D) and a summary of the matter referred to in sub-
+paragraphs (F), (G), and (H)), with the risks of the limited
+partnership rollup transaction set forth prominently in the
+fore part thereof;
+(J) provide that any solicitation or offering period with
+respect to any proxy solicitation, tender offer, or informa-
+tion statement in a limited partnership rollup transaction
+shall be for not less than the lesser of 60 calendar days or
+the maximum number of days permitted under applicable
+State law; and
+(K) contain such other provisions as the Commission de-
+termines to be necessary or appropriate for the protection
+of investors in limited partnership rollup transactions.
+(2) EXEMPTIONS.—The Commission may, consistent with the
+public interest, the protection of investors, and the purposes of
+this title, exempt by rule or order any security or class of secu-
+rities, any transaction or class of transactions, or any person
+or class of persons, in whole or in part, conditionally or uncon-
+ditionally, from the requirements imposed pursuant to para-
+graph (1) or from the definition contained in paragraph (4).
+(3) EFFECT ON COMMISSION AUTHORITY.—Nothing in this sub-
+section limits the authority of the Commission under sub-
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+15
+section (a) or (d) or any other provision of this title or pre-
+cludes the Commission from imposing, under subsection (a) or
+(d) or any other provision of this title, a remedy or procedure
+required to be imposed under this subsection.
+(4) DEFINITION OF LIMITED PARTNERSHIP ROLLUP TRANS-
+ACTION.—Except as provided in paragraph (5), as used in this
+subsection, the term ‘‘limited partnership rollup transaction’’
+means a transaction involving the combination or reorganiza-
+tion of one or more limited partnerships, directly or indirectly,
+in which—
+(A) some or all of the investors in any of such limited
+partnerships will receive new securities, or securities in
+another entity, that will be reported under a transaction
+reporting plan declared effective before the date of enact-
+ment of this subsection by the Commission under section
+11A;
+(B) any of the investors’ limited partnership securities
+are not, as of the date of filing, reported under a trans-
+action reporting plan declared effective before the date of
+enactment of this subsection by the Commission under sec-
+tion 11A;
+(C) investors in any of the limited partnerships involved
+in the transaction are subject to a significant adverse
+change with respect to voting rights, the term of existence
+of the entity, management compensation, or investment
+objectives; and
+(D) any of such investors are not provided an option to
+receive or retain a security under substantially the same
+terms and conditions as the original issue.
+(5) EXCLUSIONS FROM DEFINITION.—Notwithstanding para-
+graph (4), the term ‘‘limited partnership rollup transaction’’
+does not include—
+(A) a transaction that involves only a limited partner-
+ship or partnerships having an operating policy or practice
+of retaining cash available for distribution and reinvesting
+proceeds from the sale, financing, or refinancing of assets
+in accordance with such criteria as the Commission deter-
+mines appropriate;
+(B) a transaction involving only limited partnerships
+wherein the interests of the limited partners are repur-
+chased, recalled, or exchanged in accordance with the
+terms of the preexisting limited partnership agreements
+for securities in an operating company specifically identi-
+fied at the time of the formation of the original limited
+partnership;
+(C) a transaction in which the securities to be issued or
+exchanged are not required to be and are not registered
+under the Securities Act of 1933;
+(D) a transaction that involves only issuers that are not
+required to register or report under section 12, both before
+and after the transaction;
+(E) a transaction, except as the Commission may other-
+wise provide by rule for the protection of investors, involv-
+ing the combination or reorganization of one or more lim-
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+16
+ited partnerships in which a non-affiliated party succeeds
+to the interests of a general partner or sponsor, if—
+(i) such action is approved by not less than 662⁄
+3
+per-
+cent of the outstanding units of each of the partici-
+pating limited partnerships; and
+(ii) as a result of the transaction, the existing gen-
+eral partners will receive only compensation to which
+they are entitled as expressly provided for in the pre-
+existing limited partnership agreements; or
+(F) a transaction, except as the Commission may other-
+wise provide by rule for the protection of investors, in
+which the securities offered to investors are securities of
+another entity that are reported under a transaction re-
+porting plan declared effective before the date of enact-
+ment of this subsection by the Commission under section
+11A, if—
+(i) such other entity was formed, and such class of
+securities was reported and regularly traded, not less
+than 12 months before the date on which soliciting
+material is mailed to investors; and
+(ii) the securities of that entity issued to investors in
+the transaction do not exceed 20 percent of the total
+outstanding securities of the entity, exclusive of any
+securities of such class held by or for the account of
+the entity or a subsidiary of the entity.
+(i) DISCLOSURE OF PAY VERSUS PERFORMANCE.—The Commission
+shall, by rule, require each issuer to disclose in any proxy or con-
+sent solicitation material for an annual meeting of the shareholders
+of the issuer a clear description of any compensation required to be
+disclosed by the issuer under section 229.402 of title 17, Code of
+Federal Regulations (or any successor thereto), including, for any
+issuer other than an emerging growth company, information that
+shows the relationship between executive compensation actually
+paid and the financial performance of the issuer, taking into ac-
+count any change in the value of the shares of stock and dividends
+of the issuer and any distributions. The disclosure under this sub-
+section may include a graphic representation of the information re-
+quired to be disclosed.
+(j) DISCLOSURE OF HEDGING BY EMPLOYEES AND DIRECTORS.—
+The Commission shall, by rule, require each issuer to disclose in
+any proxy or consent solicitation material for an annual meeting of
+the shareholders of the issuer whether any employee or member of
+the board of directors of the issuer, or any designee of such em-
+ployee or member, is permitted to purchase financial instruments
+(including prepaid variable forward contracts, equity swaps, collars,
+and exchange funds) that are designed to hedge or offset any de-
+crease in the market value of equity securities—
+(1) granted to the employee or member of the board of direc-
+tors by the issuer as part of the compensation of the employee
+or member of the board of directors; or
+(2) held, directly or indirectly, by the employee or member of
+the board of directors.
+(k) DATA STANDARDS FOR PROXY AND CONSENT SOLICITATION MA-
+TERIALS.—
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6659 Sfmt 6601 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+17
+(1) REQUIREMENT.—The Commission shall, by rule, adopt
+data standards for all information contained in any proxy or
+consent solicitation material prepared by an issuer for an an-
+nual meeting of the shareholders of the issuer, except that the
+Commission may exempt exhibits, signatures, and certifi-
+cations from those data standards.
+(2) CONSISTENCY.—The data standards required under para-
+graph (1) shall incorporate, and ensure compatibility with (to
+the extent feasible), all applicable data standards established
+in the rules promulgated under section 124 of the Financial
+Stability Act of 2010, including, to the extent practicable, by
+having the characteristics described in clauses (i) through (vi)
+of subsection (c)(1)(B) of such section 124.
+(l) DISCLOSURE RELATING TO MULTI-CLASS SHARE STRUC-
+TURES.—
+(1) DISCLOSURE.—The Commission shall, by rule, require
+each issuer with a multi-class share structure to disclose the in-
+formation described in paragraph (2) in any proxy or consent
+solicitation material for an annual meeting of the shareholders
+of the issuer, or any other filing as the Commission determines
+appropriate.
+(2) CONTENT OF DISCLOSURE.—A disclosure made under
+paragraph (1) shall include, with respect to each person who is
+a director, director nominee, or named executive officer of the
+issuer, or who is the beneficial owner of securities with 5 per-
+cent or more of the total combined voting power of all classes
+of securities entitled to vote in the election of directors—
+(A) the number of shares of all classes of securities enti-
+tled to vote in the election of directors beneficially owned by
+such person, expressed as a percentage of the total number
+of the outstanding securities of the issuer entitled to vote in
+the election of directors; and
+(B) the amount of voting power held by such person, ex-
+pressed as a percentage of the total combined voting power
+of all classes of the securities of the issuer entitled to vote
+in the election of directors.
+(3) MULTI-CLASS SHARE STRUCTURE.—In this subsection, the
+term ‘‘multi-class share structure’’ means a capitalization struc-
+ture that contains 2 or more types of securities that have dif-
+fering amounts of voting rights in the election of directors.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 03:27 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00017 Fmt 6659 Sfmt 6611 E:\HR\OC\HR120.XXX HR120
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD

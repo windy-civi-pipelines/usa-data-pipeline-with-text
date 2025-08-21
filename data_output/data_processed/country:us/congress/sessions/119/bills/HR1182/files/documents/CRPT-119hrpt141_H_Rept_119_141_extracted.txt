@@ -1,0 +1,598 @@
+Title: JUNE5, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JUNE5, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 8
+Source: documents - H. Rept. 119-141
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–141
+COMPRESSED GAS CYLINDER SAFETY AND OVERSIGHT
+IMPROVEMENTS ACT OF 2025
+the Union and ordered to be printed
+Mr. GRAVES, from the Committee on Transportation and
+Infrastructure, submitted the following
+R E P O R T
+[To accompany H.R. 1182]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Transportation and Infrastructure, to whom
+was referred the bill (H.R. 1182) to require the Secretary of Trans-
+portation to promulgate regulations relating to the approval of for-
+eign manufacturers of cylinders, and for other purposes, having
+considered the same, reports favorably thereon without amendment
+and recommends that the bill do pass.
+CONTENTS
+Page
+Purpose of Legislation ............................................................................................. 2
+Background and Need for Legislation .................................................................... 2
+Hearings ................................................................................................................... 3
+Legislative History and Consideration .................................................................. 3
+Committee Votes ...................................................................................................... 3
+Committee Oversight Findings and Recommendations ........................................ 3
+New Budget Authority and Tax Expenditures ...................................................... 3
+Congressional Budget Office Cost Estimate .......................................................... 3
+Performance Goals and Objectives ......................................................................... 4
+Duplication of Federal Programs ............................................................................ 5
+Congressional Earmarks, Limited Tax Benefits, and Limited Tariff Benefits ... 5
+Federal Mandates Statement ................................................................................. 5
+Preemption Clarification ......................................................................................... 5
+Advisory Committee Statement .............................................................................. 5
+Applicability to Legislative Branch ........................................................................ 5
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 5
+Changes in Existing Law Made by the Bill, as Reported ..................................... 6
+59–006
+VerDate Sep 11 2014 04:33 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR141.XXX HR141
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+PURPOSE OF LEGISLATION
+The purpose of H.R. 1182 is to require the Secretary of Transpor-
+tation to promulgate regulations relating to the approval of foreign
+manufacturers of compressed gas cylinders, and for other purposes.
+BACKGROUND AND NEED FOR LEGISLATION
+The United States Department of Transportation’s (DOT’s) Pipe-
+line Safety and Hazardous Materials Administration (PHMSA),
+through authority delegated to it by the Secretary of Transpor-
+tation, is the Federal entity responsible for regulating the intra-
+state, interstate, and foreign transportation of hazardous gasses,
+including those transported in compressed gas cylinders (49 U.S.C.
+
+Section 3:
+§5103(b)(1)). These cylinders are required to meet DOT specifica-
+tion or United Nations (UN) standard and shipped in accordance
+with the Hazardous Materials Regulations (HMR) prior to entering
+transportation.
+In recent years, an influx of foreign manufactured compressed
+gas cylinders that may be used to transport hazardous gasses have
+been transported in commerce with risk of significant damage to
+property, physical injury, or death. Cylinders that meet Federal
+specifications or UN standards are marked to indicate their compli-
+ance. Some cylinders sold by major online retailers have not been
+manufactured to DOT specification or UN standard, lack certifi-
+cation markings and are not designed to contain and safely trans-
+port hazardous materials. While the initial shipment of empty cyl-
+inders is not within PHMSA’s purview, once these cylinders are
+filled and transported to a United States Environmental Protection
+Agency-certified reclaimer, they are in violation of the HMR. Use
+of unauthorized cylinders that do not adhere to the regulations for
+the safe manufacture, use, and periodic requalification of cylinders
+can lead to the release of high pressure hazardous gases, posing se-
+rious health and safety risks. These risks include fires, explosions,
+inhalation injuries, and death to transportation workers, emer-
+gency responders, and the general public. On January 13, 2025,
+PHMSA issued a Safety Advisory Notice to warn and provide guid-
+ance to the public regarding the presence of non-DOT specification
+or UN-standard compressed gas cylinders and the means to iden-
+tify such cylinders.
+Unfortunately, certain foreign manufacturers of compressed gas
+cylinder facilities are inadequately inspected to ensure they meet
+or continue to meet DOT specifications or UN standards. PHMSA
+does not currently have the capability to regularly inspect overseas
+facilities due to the distance and costs of conducting such inspec-
+tions.
+The bill ensures that foreign manufacturers of compressed gas
+cylinders (FMOC) meet DOT specifications. It requires that initial
+PHMSA approvals be limited to one year for FMOCs to dem-
+onstrate consistent compliance and then allows for five-year ap-
+proval intervals. The legislation strengthens PHMSA’s ability to
+suspend or terminate an approval if an FMOC, or any entity con-
+trolling more than 10 percent of that FMOC, obstructs inspections
+or PHMSA finds the FMOC knowingly or deliberately misrepre-
+sented responses required by law, or fails to meet safety compli-
+ance conditions. The bill also requires that FMOC approvals be
+VerDate Sep 11 2014 04:33 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR141.XXX HR141
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+printed in the Federal Register for public comment and creates a
+reevaluation process based on evidence of non-compliance. Finally,
+the bill allows PHMSA to seek cost recovery for the travel and as-
+sociated costs of inspecting overseas FMOCs.
+HEARINGS
+For the purposes of rule XIII, clause 3(c)(6)(A) of the 119th Con-
+gress, the following hearings were used to develop or consider H.R.
+1182:
+In the 119th Congress, no hearings were used to develop or con-
+sider H.R. 1182.
+LEGISLATIVE HISTORY AND CONSIDERATION
+H.R. 1182, the Compressed Gas Cylinder Safety and Oversight
+Improvements Act of 2025 was introduced in the United States
+House of Representatives on February 11, 2025 by Mr. Balderson
+of Ohio, with Mr. Krishnamoorthi of Illinois and Mr. Taylor of Ohio
+as original cosponsors, and Mr. Nehls of Texas and Mr. Wied of
+Wisconsin as cosponsors, and referred to the Committee on Trans-
+portation and Infrastructure. Within the Committee on Transpor-
+tation and Infrastructure, H.R. 1182 was referred to the Sub-
+committee on Railroads, Pipelines, and Hazardous Materials. The
+Subcommittee on Railroads, Pipelines, and Hazardous Materials
+was discharged from further consideration of H.R. 1182 on Feb-
+ruary 26, 2025.
+The Committee on Transportation and Infrastructure considered
+H.R. 1182 on February 26, 2025, and ordered the measure to be re-
+ported to the House with a favorable recommendation, without
+amendment, by voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires each committee report to include the total number of
+votes cast for and against on each record vote on a motion to report
+and on any amendment offered to the measure or matter, and the
+names of those members voting for and against.
+No recorded votes were requested.
+COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+With respect to the requirements of clause 3(c)(1) of rule XIII of
+the Rules of the House of Representatives, the Committee’s over-
+sight findings and recommendations are reflected in this report.
+NEW BUDGET AUTHORITY AND TAX EXPENDITURES
+Clause 3(c)(2) of rule XIII of the Rules of the House of Represent-
+atives does not apply where a cost estimate and comparison pre-
+pared by the Director of the Congressional Budget Office under sec-
+tion 402 of the Congressional Budget Act of 1974 has been timely
+submitted prior to the filing of the report and is included in the re-
+port. Such a cost estimate is included in this report.
+CONGRESSIONAL BUDGET OFFICE COST ESTIMATE
+With respect to the requirement of clause 3(c)(3) of rule XIII of
+the Rules of the House of Representatives and section 402 of the
+VerDate Sep 11 2014 04:33 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR141.XXX HR141
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+Congressional Budget Act of 1974, the Committee has received the
+enclosed cost estimate for H.R. 1182 from the Director of the Con-
+gressional Budget Office:
+H.R. 1182 would amend the process the Pipeline and Hazardous
+Materials Safety Administration (PHMSA) uses to approve foreign-
+manufactured cylinders used to transport certain hazardous mate-
+rials. In particular, the bill would:
+• Require PHMSA to approve foreign-manufactured cyl-
+inders every year, except under conditions specified in the bill
+(under current law, such approvals generally last for five
+years);
+• Broaden the criteria under which PHMSA could deny or
+reevaluate applications from foreign manufacturers; and
+• Increase the frequency of inspections at manufacturing fa-
+cilities.
+Using information from PHMSA, CBO expects that the agency
+would need two full-time equivalent employees to carry out the
+bill’s requirements at an average annual cost of $200,000 per em-
+ployee for pay and benefits. On that basis, CBO estimates that im-
+plementing H.R. 1182 would cost $2 million over the 2025–2030 pe-
+riod. Any related spending would be subject to the availability of
+appropriated funds.
+The CBO staff contact for this estimate is Aaron Krupkin. The
+estimate was reviewed by H. Samuel Papenfuss, Deputy Director
+of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+PERFORMANCE GOALS AND OBJECTIVES
+With respect to the requirement of clause 3(c)(4) of rule XIII of
+the Rules of the House of Representatives, the performance goals
+and objectives of this legislation is to ensure foreign made gas cyl-
+inders meet PHSMA hazardous material safety requirements be-
+fore entering commerce.
+VerDate Sep 11 2014 04:33 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR141.XXX HR141
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 4:
+100.141RH
+ereh
+5
+oilof
+tesffo
+tresnI
+5
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee finds that no provision of H.R.
+1182 establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, a pro-
+gram that was included in any report from the Government Ac-
+countability Office to Congress pursuant to section 21 of Public
+Law 111–139, or a program related to a program identified in the
+most recent Catalog of Federal Domestic Assistance.
+CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND LIMITED
+TARIFF BENEFITS
+In compliance with clause 9 of rule XXI of the Rules of the House
+of Representatives, this bill, as reported, contains no congressional
+earmarks, limited tax benefits, or limited tariff benefits as defined
+in clause 9(e), 9(f), or 9(g) of the rule XXI.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act
+(Public Law 104–4).
+PREEMPTION CLARIFICATION
+
+Section 5:
+Section 423 of the Congressional Budget Act of 1974 requires the
+report of any Committee on a bill or joint resolution to include a
+statement on the extent to which the bill or joint resolution is in-
+tended to preempt state, local, or tribal law. The Committee finds
+that H.R. 1182 does not preempt any state, local, or tribal law.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act (Public Law 104–1).
+
+Section 6:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 7:
+Section 1. Short title
+This section states that this Act may be cited as the ‘‘Compressed
+Gas Cylinder Safety and Improvements Act of 2025’’.
+
+Section 8:
+Section 2. Regulation of foreign manufacturers of cylinders used in
+transporting hazardous materials
+This section defines key terms and directs the Secretary of
+Transportation to promulgate regulations to provide procedures for
+the approval of foreign manufactures of cylinders (FMOCs) for one-
+year for initial approvals and extending to five-years for FMOCs
+that can demonstrate consistent compliance. This section also es-
+tablishes an approval reevaluation process based on evidence of
+VerDate Sep 11 2014 04:33 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR141.XXX HR141
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+6
+FMOC non-compliance. Further this section, requires a notice and
+comment period for newly issued approvals or reapprovals. Addi-
+tionally, the section requires FMOCs to disclose whether they or
+any entity controlling more than 10 percent of the FMOC, has been
+subject to civil penalties, are subject to the Do Not Pay Initiative,
+are listed in the United States Department of Commerce’s Military
+End User List, are identified under section 1237 of the Strom
+Thurmond National Defense Authorization Act of 1999, are subject
+to anti-dumping our countervailing duties as of the date of the ap-
+plication, or have been found guilty of a criminal penalty. The bill
+mandates that PHMSA maintain a website of approved FMOCs,
+and allows the Secretary to require annual inspections of FMOCs
+if the Secretary finds there is good cause. The bill also allows
+PHMSA to recover the costs associated with foreign conducting for-
+eign inspections.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+As reported by the Committee, H.R. 1182 makes no changes in
+existing law.
+Æ
+VerDate Sep 11 2014 04:33 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6611 E:\HR\OC\HR141.XXX HR141
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–141
+COMPRESSED GAS CYLINDER SAFETY AND OVERSIGHT
+IMPROVEMENTS ACT OF 2025
+JUNE5, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. GRAVES, from the Committee on Transportation and
+Infrastructure, submitted the following
+R E P O R T
+[To accompany H.R. 1182]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Transportation and Infrastructure, to whom
+was referred the bill (H.R. 1182) to require the Secretary of Trans-
+portation to promulgate regulations relating to the approval of for-
+eign manufacturers of cylinders, and for other purposes, having
+considered the same, reports favorably thereon without amendment
+and recommends that the bill do pass.
+CONTENTS
+Page
+Purpose of Legislation ............................................................................................. 2
+Background and Need for Legislation .................................................................... 2
+Hearings ................................................................................................................... 3
+Legislative History and Consideration .................................................................. 3
+Committee Votes ...................................................................................................... 3
+Committee Oversight Findings and Recommendations ........................................ 3
+New Budget Authority and Tax Expenditures ...................................................... 3
+Congressional Budget Office Cost Estimate .......................................................... 3
+Performance Goals and Objectives ......................................................................... 4
+Duplication of Federal Programs ............................................................................ 5
+Congressional Earmarks, Limited Tax Benefits, and Limited Tariff Benefits ... 5
+Federal Mandates Statement ................................................................................. 5
+Preemption Clarification ......................................................................................... 5
+Advisory Committee Statement .............................................................................. 5
+Applicability to Legislative Branch ........................................................................ 5
+Section-by-Section Analysis of the Legislation ...................................................... 5
+Changes in Existing Law Made by the Bill, as Reported ..................................... 6
+59–006
+VerDate Sep 11 2014 04:33 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR141.XXX HR141
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+PURPOSE OF LEGISLATION
+The purpose of H.R. 1182 is to require the Secretary of Transpor-
+tation to promulgate regulations relating to the approval of foreign
+manufacturers of compressed gas cylinders, and for other purposes.
+BACKGROUND AND NEED FOR LEGISLATION
+The United States Department of Transportation’s (DOT’s) Pipe-
+line Safety and Hazardous Materials Administration (PHMSA),
+through authority delegated to it by the Secretary of Transpor-
+tation, is the Federal entity responsible for regulating the intra-
+state, interstate, and foreign transportation of hazardous gasses,
+including those transported in compressed gas cylinders (49 U.S.C.
+§5103(b)(1)). These cylinders are required to meet DOT specifica-
+tion or United Nations (UN) standard and shipped in accordance
+with the Hazardous Materials Regulations (HMR) prior to entering
+transportation.
+In recent years, an influx of foreign manufactured compressed
+gas cylinders that may be used to transport hazardous gasses have
+been transported in commerce with risk of significant damage to
+property, physical injury, or death. Cylinders that meet Federal
+specifications or UN standards are marked to indicate their compli-
+ance. Some cylinders sold by major online retailers have not been
+manufactured to DOT specification or UN standard, lack certifi-
+cation markings and are not designed to contain and safely trans-
+port hazardous materials. While the initial shipment of empty cyl-
+inders is not within PHMSA’s purview, once these cylinders are
+filled and transported to a United States Environmental Protection
+Agency-certified reclaimer, they are in violation of the HMR. Use
+of unauthorized cylinders that do not adhere to the regulations for
+the safe manufacture, use, and periodic requalification of cylinders
+can lead to the release of high pressure hazardous gases, posing se-
+rious health and safety risks. These risks include fires, explosions,
+inhalation injuries, and death to transportation workers, emer-
+gency responders, and the general public. On January 13, 2025,
+PHMSA issued a Safety Advisory Notice to warn and provide guid-
+ance to the public regarding the presence of non-DOT specification
+or UN-standard compressed gas cylinders and the means to iden-
+tify such cylinders.
+Unfortunately, certain foreign manufacturers of compressed gas
+cylinder facilities are inadequately inspected to ensure they meet
+or continue to meet DOT specifications or UN standards. PHMSA
+does not currently have the capability to regularly inspect overseas
+facilities due to the distance and costs of conducting such inspec-
+tions.
+The bill ensures that foreign manufacturers of compressed gas
+cylinders (FMOC) meet DOT specifications. It requires that initial
+PHMSA approvals be limited to one year for FMOCs to dem-
+onstrate consistent compliance and then allows for five-year ap-
+proval intervals. The legislation strengthens PHMSA’s ability to
+suspend or terminate an approval if an FMOC, or any entity con-
+trolling more than 10 percent of that FMOC, obstructs inspections
+or PHMSA finds the FMOC knowingly or deliberately misrepre-
+sented responses required by law, or fails to meet safety compli-
+ance conditions. The bill also requires that FMOC approvals be
+VerDate Sep 11 2014 04:33 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR141.XXX HR141
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+printed in the Federal Register for public comment and creates a
+reevaluation process based on evidence of non-compliance. Finally,
+the bill allows PHMSA to seek cost recovery for the travel and as-
+sociated costs of inspecting overseas FMOCs.
+HEARINGS
+For the purposes of rule XIII, clause 3(c)(6)(A) of the 119th Con-
+gress, the following hearings were used to develop or consider H.R.
+1182:
+In the 119th Congress, no hearings were used to develop or con-
+sider H.R. 1182.
+LEGISLATIVE HISTORY AND CONSIDERATION
+H.R. 1182, the Compressed Gas Cylinder Safety and Oversight
+Improvements Act of 2025 was introduced in the United States
+House of Representatives on February 11, 2025 by Mr. Balderson
+of Ohio, with Mr. Krishnamoorthi of Illinois and Mr. Taylor of Ohio
+as original cosponsors, and Mr. Nehls of Texas and Mr. Wied of
+Wisconsin as cosponsors, and referred to the Committee on Trans-
+portation and Infrastructure. Within the Committee on Transpor-
+tation and Infrastructure, H.R. 1182 was referred to the Sub-
+committee on Railroads, Pipelines, and Hazardous Materials. The
+Subcommittee on Railroads, Pipelines, and Hazardous Materials
+was discharged from further consideration of H.R. 1182 on Feb-
+ruary 26, 2025.
+The Committee on Transportation and Infrastructure considered
+H.R. 1182 on February 26, 2025, and ordered the measure to be re-
+ported to the House with a favorable recommendation, without
+amendment, by voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires each committee report to include the total number of
+votes cast for and against on each record vote on a motion to report
+and on any amendment offered to the measure or matter, and the
+names of those members voting for and against.
+No recorded votes were requested.
+COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+With respect to the requirements of clause 3(c)(1) of rule XIII of
+the Rules of the House of Representatives, the Committee’s over-
+sight findings and recommendations are reflected in this report.
+NEW BUDGET AUTHORITY AND TAX EXPENDITURES
+Clause 3(c)(2) of rule XIII of the Rules of the House of Represent-
+atives does not apply where a cost estimate and comparison pre-
+pared by the Director of the Congressional Budget Office under sec-
+tion 402 of the Congressional Budget Act of 1974 has been timely
+submitted prior to the filing of the report and is included in the re-
+port. Such a cost estimate is included in this report.
+CONGRESSIONAL BUDGET OFFICE COST ESTIMATE
+With respect to the requirement of clause 3(c)(3) of rule XIII of
+the Rules of the House of Representatives and section 402 of the
+VerDate Sep 11 2014 04:33 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR141.XXX HR141
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+Congressional Budget Act of 1974, the Committee has received the
+enclosed cost estimate for H.R. 1182 from the Director of the Con-
+gressional Budget Office:
+H.R. 1182 would amend the process the Pipeline and Hazardous
+Materials Safety Administration (PHMSA) uses to approve foreign-
+manufactured cylinders used to transport certain hazardous mate-
+rials. In particular, the bill would:
+• Require PHMSA to approve foreign-manufactured cyl-
+inders every year, except under conditions specified in the bill
+(under current law, such approvals generally last for five
+years);
+• Broaden the criteria under which PHMSA could deny or
+reevaluate applications from foreign manufacturers; and
+• Increase the frequency of inspections at manufacturing fa-
+cilities.
+Using information from PHMSA, CBO expects that the agency
+would need two full-time equivalent employees to carry out the
+bill’s requirements at an average annual cost of $200,000 per em-
+ployee for pay and benefits. On that basis, CBO estimates that im-
+plementing H.R. 1182 would cost $2 million over the 2025–2030 pe-
+riod. Any related spending would be subject to the availability of
+appropriated funds.
+The CBO staff contact for this estimate is Aaron Krupkin. The
+estimate was reviewed by H. Samuel Papenfuss, Deputy Director
+of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+PERFORMANCE GOALS AND OBJECTIVES
+With respect to the requirement of clause 3(c)(4) of rule XIII of
+the Rules of the House of Representatives, the performance goals
+and objectives of this legislation is to ensure foreign made gas cyl-
+inders meet PHSMA hazardous material safety requirements be-
+fore entering commerce.
+VerDate Sep 11 2014 04:33 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR141.XXX HR141
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.141RH
+ereh
+5
+oilof
+tesffo
+tresnI
+
+5
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee finds that no provision of H.R.
+1182 establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, a pro-
+gram that was included in any report from the Government Ac-
+countability Office to Congress pursuant to section 21 of Public
+Law 111–139, or a program related to a program identified in the
+most recent Catalog of Federal Domestic Assistance.
+CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND LIMITED
+TARIFF BENEFITS
+In compliance with clause 9 of rule XXI of the Rules of the House
+of Representatives, this bill, as reported, contains no congressional
+earmarks, limited tax benefits, or limited tariff benefits as defined
+in clause 9(e), 9(f), or 9(g) of the rule XXI.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act
+(Public Law 104–4).
+PREEMPTION CLARIFICATION
+Section 423 of the Congressional Budget Act of 1974 requires the
+report of any Committee on a bill or joint resolution to include a
+statement on the extent to which the bill or joint resolution is in-
+tended to preempt state, local, or tribal law. The Committee finds
+that H.R. 1182 does not preempt any state, local, or tribal law.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act (Public Law 104–1).
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+This section states that this Act may be cited as the ‘‘Compressed
+Gas Cylinder Safety and Improvements Act of 2025’’.
+Section 2. Regulation of foreign manufacturers of cylinders used in
+transporting hazardous materials
+This section defines key terms and directs the Secretary of
+Transportation to promulgate regulations to provide procedures for
+the approval of foreign manufactures of cylinders (FMOCs) for one-
+year for initial approvals and extending to five-years for FMOCs
+that can demonstrate consistent compliance. This section also es-
+tablishes an approval reevaluation process based on evidence of
+VerDate Sep 11 2014 04:33 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR141.XXX HR141
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+6
+FMOC non-compliance. Further this section, requires a notice and
+comment period for newly issued approvals or reapprovals. Addi-
+tionally, the section requires FMOCs to disclose whether they or
+any entity controlling more than 10 percent of the FMOC, has been
+subject to civil penalties, are subject to the Do Not Pay Initiative,
+are listed in the United States Department of Commerce’s Military
+End User List, are identified under section 1237 of the Strom
+Thurmond National Defense Authorization Act of 1999, are subject
+to anti-dumping our countervailing duties as of the date of the ap-
+plication, or have been found guilty of a criminal penalty. The bill
+mandates that PHMSA maintain a website of approved FMOCs,
+and allows the Secretary to require annual inspections of FMOCs
+if the Secretary finds there is good cause. The bill also allows
+PHMSA to recover the costs associated with foreign conducting for-
+eign inspections.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+As reported by the Committee, H.R. 1182 makes no changes in
+existing law.
+Æ
+VerDate Sep 11 2014 04:33 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6611 E:\HR\OC\HR141.XXX HR141
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

@@ -1,0 +1,1023 @@
+Title: AUGUST8, 2025.—Committed to the Committee of the Whole House on the State
+Official Title: AUGUST8, 2025.—Committed to the Committee of the Whole House on the State
+Number of Sections: 11
+Source: documents - H. Rept. 119-222
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–222
+DEPARTMENT OF HOMELAND SECURITY VEHICULAR
+TERRORISM PREVENTION AND MITIGATION ACT OF 2025
+of the Union and ordered to be printed
+Mr. GARBARINO, from the Committee on Homeland Security,
+submitted the following
+R E P O R T
+[To accompany H.R. 1608]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Homeland Security, to whom was referred the
+bill (H.R. 1608) to require the Secretary of Homeland Security to
+produce a report on emerging threats and countermeasures related
+to vehicular terrorism, and for other purposes, having considered
+the same, reports favorably thereon with an amendment and rec-
+ommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 4
+Background and Need for Legislation .................................................................... 4
+Hearings ................................................................................................................... 5
+Committee Consideration ........................................................................................ 6
+Committee Votes ...................................................................................................... 6
+Committee Oversight Findings ............................................................................... 6
+C.B.O. Estimate, New Budget Authority, Entitlement Authority, and Tax
+Expenditures ........................................................................................................ 6
+Federal Mandates Statement ................................................................................. 7
+Duplicative Federal Programs ................................................................................ 7
+Statement of General Performance Goals and Objectives .................................... 7
+Congressional Earmarks, Limited Tax Benefits, and Limited Tariff Benefits ... 7
+Advisory Committee Statement .............................................................................. 7
+Applicability to Legislative Branch ........................................................................ 7
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 7
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+2
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Department of Homeland Security Vehicular Ter-
+rorism Prevention and Mitigation Act of 2025’’.
+SEC. 2. FINDINGS.
+Congress finds the following:
+(1) On January 1, 2025, a devastating vehicular terrorist attack occurred on
+Bourbon Street in New Orleans, Louisiana, when an assailant inspired by the
+Islamic State drove a vehicle into a crowd and engaged in a shootout with law
+enforcement. This tragic incident resulted in the loss of 14 lives and injuries
+to at least thirty-five others, including two police officers.
+(2) Vehicle-ramming attacks and other vehicular terrorist incidents represent
+an enduring and evolving threat to public safety in the United States and
+around the world, targeting innocent civilians and first responders.
+(3) These attacks, carried out by both organized terrorist groups and indi-
+vidual actors, often aim to exploit high-density public gatherings, critical infra-
+structure, and key transportation hubs, causing mass casualties and widespread
+disruption.
+(4) Emerging automotive technologies, such as autonomous vehicles, Ad-
+vanced Driver Assistance System (ADAS) capabilities, and ride-sharing plat-
+forms, create new vulnerabilities that could be leveraged by malicious actors to
+conduct sophisticated vehicle-based attacks.
+(5) The Department of Homeland Security, through agencies like the Trans-
+portation Security Administration and the Cybersecurity and Infrastructure Se-
+curity Agency, plays a vital role in detecting, assessing, and mitigating the risks
+associated with vehicle-based threats.
+(6) Strengthened coordination between Federal, State, local, Tribal, territorial,
+and private sector stakeholders is essential to enhance prevention, prepared-
+ness, and response efforts, ensuring the safety of communities across the nation.
+SEC. 3. REPORT ON EMERGING THREATS AND COUNTERMEASURES RELATED TO VEHICULAR
+TERRORISM.
+(a) REPORT.—
+(1) IN GENERAL.—Not later than 180 days after the date of the enactment of
+this Act, the Secretary of Homeland Security, in coordination with the Adminis-
+trator of the Transportation Security Administration and the Director of the Cy-
+bersecurity and Infrastructure Security Agency, shall submit to the appropriate
+congressional committees a report on the Department of Homeland Security’s
+efforts to prevent, deter, and respond to vehicular terrorism.
+(2) ELEMENTS.—The report under paragraph (1) shall include the following:
+(A) An assessment of the current and emerging threats posed by vehic-
+ular terrorism, as well as the following:
+(i) An analysis of the methods, tactics, and motivations used by per-
+petrators of vehicular terrorism.
+(ii) An evaluation of domestic and international trends in vehicular
+terrorism.
+(iii) An identification of potential future threats related to the misuse
+of connected or autonomous vehicles, Advanced Driver Assistance Sys-
+tem (ADAS) -equipped vehicles, ride-sharing services, and advance-
+ments in automotive technologies, including cybersecurity threats to
+underlying software technologies (including artificial intelligence-en-
+abled technologies) powering autonomous vehicles.
+(B) A review of higher-risk locations and events that may be vulnerable
+to vehicular terrorism, including the following:
+(i) Critical infrastructure sites such as the following:
+(I) Airports.
+(II) Seaports.
+(III) Federal, State, local, Tribal, and territorial government fa-
+cilities.
+(IV) Power plants.
+(V) Substations.
+(VI) Oil refineries.
+(VII) Public transportation hubs.
+(VIII) Healthcare facilities.
+(ii) Soft-targets and crowded spaces, including mass gatherings and
+widely attended events such as parades, concerts, sporting events, po-
+litical rallies, holiday markets, places of worship, public demonstra-
+tions, and ceremonial events.
+(iii) High-density urban areas with limited physical security meas-
+ures such as pedestrianized city centers, commercial districts, residen-
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+3
+tial neighborhoods, public parks, recreational areas, educational insti-
+tutions, and tourist destinations.
+(C) A comprehensive summary of actions taken by the Department of
+Homeland Security, the Transportation Security Administration, and the
+Cybersecurity and Infrastructure Security Agency to research measures
+that prevent, deter, and respond to vehicular terrorism, including the fol-
+lowing:
+(i) The identification and coordination with State, local, Tribal, and
+territorial governments and industry partners for the strategic place-
+ment of physical barriers, bollards, and other protective infrastructure
+at higher-risk locations.
+(ii) The research, testing, and deployment of geofencing, surveillance
+systems, cybersecurity measures, and other technologies designed to
+monitor, restrict, and manage vehicle access to such higher-risk loca-
+tions.
+(iii) The creation of real-time response strategies and operational
+plans to neutralize vehicular terrorism, including ongoing research into
+best practices for threat detection, incident management, and threat
+containment.
+(D) An evaluation of the Department’s engagement with private and pub-
+lic sector stakeholders to address risks of vehicular terrorism, including the
+following:
+(i) Collaboration with vehicle rental companies, ride-sharing plat-
+forms, vendors of connected, autonomous, and ADAS technologies,
+freight operators, and automotive manufacturers.
+(ii) Development of industry-specific best practices to prevent the
+misuse of vehicles.
+(iii) Protocols for sharing threat intelligence and security guidance
+with private sector partners.
+(E) A description of the Department’s coordination efforts with Federal,
+State, local, Tribal, and territorial law enforcement agencies to prevent ve-
+hicular terrorism, including the following:
+(i) Mechanisms for sharing threat intelligence and situational aware-
+ness.
+(ii) Guidance provided to such law enforcement agencies regarding
+implementing countermeasures, such as traffic control measures and
+rapid vehicle containment protocols.
+(iii) Joint exercises and training programs to enhance interagency
+preparedness and response.
+(iv) Efforts to equip law enforcement, first responders, and private
+sector partners with the knowledge and skills to recognize and respond
+to vehicular terrorism, including the development of specialized cur-
+ricula addressing emerging threats, such as connected or autonomous
+vehicles and other advanced technologies.
+(v) Outreach efforts to ensure that smaller jurisdictions have access
+to necessary training resources and public safety awareness tools.
+(F) Recommendations for the research, development, and deployment of
+technologies to detect, deter, and mitigate vehicular terrorism, including
+the following:
+(i) Vehicle immobilization systems and remote disablement tech-
+nologies.
+(ii) Predictive analytics and threat detection software that incor-
+porate artificial intelligence and machine learning algorithms to iden-
+tify and flag in real time anomalous or suspicious vehicle behavior, as
+well as associated technologies to disable or divert a vehicle before it
+becomes a threat.
+(iii) Innovations in cybersecurity to prevent the hacking or misuse of
+connected, autonomous, or ADAS-equipped vehicles.
+(G) A description of the Department’s engagement with privacy, civil
+rights, and civil liberties stakeholders to ensure all countermeasures and
+technologies, including artificial-intelligence and machine learning algo-
+rithms, deployed to prevent vehicular terrorism are implemented in a man-
+ner that respects individual rights and freedoms.
+(H) A review of the Department’s public awareness initiatives focused on
+the following:
+(i) Educating the public on recognizing suspicious vehicle-related be-
+havior and reporting potential threats.
+(ii) Building trust and fostering collaboration between communities
+and law enforcement agencies.
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6621 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+4
+(iii) Enhancing resilience by encouraging community-based security
+measures.
+(I) Such other elements as the Secretary of Homeland Security considers
+appropriate.
+(3) FORM.—The report under paragraph (1) shall be submitted in classified
+form, but may include an unclassified executive summary.
+(4) PUBLICATION.—The unclassified executive summary of the report required
+under paragraph (1) shall be published on a publicly accessible website of the
+Department of Homeland Security.
+(b) BRIEFING.—Not later than 30 days after the submission of the report under
+subsection (a), the Secretary of Homeland Security shall provide to the appropriate
+congressional committees a briefing on the findings, conclusions, and recommenda-
+tions of such report.
+(c) DEFINITIONS.—In this section:
+(1) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term ‘‘appropriate con-
+gressional committees’’ means—
+(A) the Committee on Homeland Security of the House of Representa-
+tives; and
+(B) the Committee on Commerce, Science, and Transportation and the
+Committee on Homeland Security and Governmental Affairs of the Senate.
+(2) VEHICULAR TERRORISM.—The term ‘‘vehicular terrorism’’ means an action
+that utilizes automotive transportation to commit terrorism (as such term is de-
+fined in section 2(18) of the Homeland Security Act of 2002 (6 U.S.C. 101(18))).
+PURPOSE AND SUMMARY
+H.R. 1608, the ‘‘Department of Homeland Security Vehicular Ter-
+rorism Prevention and Mitigation Act of 2025,’’ requires the Sec-
+retary of Homeland Security to produce a comprehensive report on
+the Department’s efforts to detect, prevent, and respond to threats
+associated with vehicular terrorism. This report, due within 180
+days of enactment, is to be developed in coordination with the
+Transportation Security Administration (TSA) and the Cybersecu-
+rity and Infrastructure Security Agency (CISA).
+The legislation requires the Department to assess current and
+emerging threats posed by vehicle-ramming attacks and the poten-
+tial exploitation of advanced automotive technologies, including au-
+tonomous and connected vehicles. It also mandates a review of
+high-risk locations vulnerable to such attacks, an analysis of secu-
+rity countermeasures, coordination practices with law enforcement
+and industry, and recommendations for deploying advanced tech-
+nologies and protective infrastructure.
+BACKGROUND AND NEED FOR LEGISLATION
+On January 1, 2025, a deadly vehicular terrorist attack occurred
+on Bourbon Street in New Orleans, Louisiana, when an assailant
+inspired by the Islamic State drove a vehicle into a crowded area
+before engaging in a shootout with law enforcement.1 The attack
+resulted in the deaths of 14 individuals and injuries to at least doz-
+ens of others.2 This tragedy underscores the growing threat posed
+by vehicle-ramming attacks, particularly at public events and soft-
+target locations.
+Vehicular terrorism has emerged as a tactic of choice among both
+foreign terrorist organizations and homegrown violent extremists
+1Press Release, Federal Bureau of Investigation, FBI Statement on the Attack in New Orleans
+(Jan. 1, 2025) (on file with author).
+2Mary Kekatos et al., What we know about the victims of the New Orleans attack: ‘So beautiful
+and full of life’, ABC News, (Jan. 26, 2025) https://abcnews.go.com/US/victims-new-orleans-
+attack/story?id=117246659.
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+5
+due to its simplicity, accessibility, and devastating impact.3 High-
+profile terrorist groups such, as ISIS and al-Qaeda, have repeatedly
+encouraged followers to use vehicles as weapons, citing the ease
+with which such attacks can be carried out with minimal training
+or resources.4 This tactic has been deployed across major global cit-
+ies, often targeting pedestrian zones, transit hubs, and celebratory
+events.5
+The threat landscape is further complicated by technological ad-
+vancements in the automotive sector. The increasing availability of
+autonomous vehicles, advanced driver-assistance systems (ADAS),
+and connected vehicle platforms introduces new vulnerabilities that
+could be exploited by malicious actors. These systems may be sub-
+ject to manipulation or cyber intrusion, creating opportunities for
+more sophisticated or large-scale vehicular attacks.
+Despite the evolving nature of this threat, Federal coordination
+remains uneven and fragmented. While the Department plays a
+central role in safeguarding critical infrastructure and public gath-
+erings, there is a growing need for a more strategic and integrated
+Federal response. This includes improving threat assessments, ac-
+celerating the deployment of countermeasures, and strengthening
+partnerships with state, local, tribal, territorial (SLTT) entities,
+and private sector stakeholders, particularly in the transportation,
+rideshare, and automotive manufacturing industries.
+H.R. 1608 addresses this gap by requiring the Department to de-
+velop a timely and detailed threat assessment that evaluates both
+current and emerging risks related to vehicular terrorism. The re-
+port will inform Congress and security stakeholders about defen-
+sive strategies, vehicle-disabling technologies, infrastructure protec-
+tions, coordination mechanisms, public awareness efforts, and pri-
+vacy considerations. With major domestic mass gatherings and
+global events on the horizon, including the 2026 FIFA World Cup
+and 2028 Summer Olympics, this legislation will ensure the Fed-
+eral government is proactively addressing the vehicular terrorism
+threat to protect the American public and international visitors.
+HEARINGS
+The Committee held the following hearing in the 119th Congress
+that informed H.R. 1608:
+On Tuesday, April 8, 2025, the Subcommittee on Transportation
+and Maritime Security held a hearing entitled, ‘‘America on the
+Global Stage: Examining Efforts to Secure and Improve the U.S.
+Travel System for Significant International Events.’’ The Sub-
+committee received testimony from the following witnesses: Mr.
+Geoff Freeman, President and Chief Executive Officer, U.S. Travel
+Association; Mr. Jon Gruen, Chief Executive Officer, Fortem Tech-
+nologies; and Dr. Everett Kelley, National President, American
+Federation of Government Employees.
+3Alexandre Rodde and Justin Olmstead, Into the Crowd: The Evolution of Vehicular Attacks
+and Prevention Efforts (March 2025), COMBATING TERRORISM CENTER AT WEST POINT,
+(last visited Mar. 2025) https://ctc.westpoint.edu/into-the-crowd-the-evolution-of-vehicular-
+attacks-and-prevention-efforts/.
+4Id.
+5Id.
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+6
+COMMITTEE CONSIDERATION
+The Committee met on Wednesday, April 9, 2025, a quorum
+being present, to consider H.R. 1608 and ordered the measure to
+be favorably reported to the House, as amended, by voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the re-
+corded votes on the motion to report legislation and amendments
+thereto.
+No recorded votes were requested during consideration of H.R.
+
+Section 4:
+1608.
+COMMITTEE OVERSIGHT FINDINGS
+In compliance with clause 3(c)(1) of rule XIII, the Committee ad-
+vises that the findings and recommendations of the Committee,
+based on oversight activities under clause 2(b)(1) of rule X, are in-
+corporated in the descriptive portions of this report.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE, NEW BUDGET AUTHORITY,
+ENTITLEMENT AUTHORITY, AND TAX EXPENDITURES
+With respect to the requirements of clause 3(c)(2) of rule XIII
+and section 308(a) of the Congressional Budget Act of 1974, and
+with respect to the requirements of clause 3(c)(3) of rule XIII and
+
+Section 5:
+section 402 of the Congressional Budget Act of 1974, the Com-
+mittee adopts as its own the estimate of any new budget authority,
+spending authority, credit authority, or an increase or decrease in
+revenues or tax expenditures contained in the cost estimate pre-
+pared by the Director of the Congressional Budget Office.
+H.R. 1608 would require the Department of Homeland Security
+(DHS) to report to the Congress on its efforts to detect, prevent,
+and respond to acts of terrorism in which a vehicle is used as a
+weapon. The report would include an assessment of current and
+emerging threats, a review of high-risk locations, and recommenda-
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+Section 6:
+100.222RH
+ereh
+9
+oilof
+tesffo
+tresnI
+7
+tions for research and development. H.R. 1608 would require DHS
+to brief the Congress on the report’s findings and recommenda-
+tions.
+Based on the costs of similar activities, CBO estimates that im-
+plementing H.R. 1608 would cost less than $500,000 over the 2025–
+2030 period. Any related spending would be subject to the avail-
+ability of appropriated funds.
+The CBO staff contact for this estimate is Jeremy Crimm. The
+estimate was reviewed by H. Samuel Papenfuss, Deputy Director
+of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act of
+
+Section 7:
+1995.
+DUPLICATIVE FEDERAL PROGRAMS
+Pursuant to clause 3(c) of rule XIII, the Committee finds that
+H.R. 1608 does not contain any provision that establishes or reau-
+thorizes a program known to be duplicative of another Federal pro-
+gram.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the objective of H.R. 1608
+is to require the Secretary of Homeland Security to produce a re-
+port on emerging threats and countermeasures related to vehicular
+terrorism.
+CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND LIMITED
+TARIFF BENEFITS
+In compliance with rule XXI, this bill, as reported, contains no
+congressional earmarks, limited tax benefits, or limited tariff bene-
+fits as defined in clause 9(d), 9(e), or 9(f) of rule XXI.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that H.R. 1608 does not relate to the terms
+and conditions of employment or access to public services or accom-
+modation within the meaning of section 102(b)(3) of the Congres-
+sional Accountability Act.
+
+Section 8:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 9:
+Section 1. Short title
+This section designates the legislation as the ‘‘Department of
+Homeland Security Vehicular Terrorism Prevention and Mitigation
+Act of 2025.’’
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+8
+
+Section 10:
+Section 2. Findings
+This section outlines Congress’s findings regarding the persistent
+and evolving threat of vehicular terrorism. It references the Janu-
+ary 1, 2025, attack in New Orleans and highlights the vulnerability
+of soft targets, the influence of terrorist propaganda, and the emer-
+gence of risks related to autonomous vehicles, ride-sharing plat-
+forms, and cybersecurity. The section emphasizes DHS’s critical
+role in countering these threats and the need for collaboration
+across all levels of government and the private sector.
+
+Section 11:
+Section 3. Report on emerging threats and countermeasures related
+to vehicular terrorism
+This section requires the Secretary of Homeland Security, in co-
+ordination with the TSA Administrator and the CISA Director, to
+submit a comprehensive report to the appropriate congressional
+committees within 180 days of enactment. The report must provide
+a detailed assessment of the Department’s efforts to detect, pre-
+vent, and respond to threats associated with vehicular terrorism.
+Specifically, the report must evaluate current and emerging
+threats, including tactics and motivations used by perpetrators,
+and examine how advanced vehicle technologies, such as autono-
+mous vehicles, connected platforms, and ADAS-equipped systems,
+could be exploited by malicious actors. It must also identify high-
+risk locations and events that are vulnerable to vehicular attacks,
+such as critical infrastructure sites, large public gatherings, and
+pedestrian-heavy urban areas, and describe the measures being
+taken to mitigate these risks.
+The report must include a summary of actions taken by the De-
+partment and its components to deploy protective infrastructure,
+geofencing tools, and surveillance systems, as well as the Depart-
+ment’s coordination with state, local, tribal, and territorial govern-
+ments and private sector partners to develop and implement deter-
+rent strategies. Additionally, it must review the Department’s en-
+gagement with industry stakeholders, such as rental car compa-
+nies, ride-sharing platforms, and vehicle manufacturers, to estab-
+lish security protocols and prevent misuse of vehicles for nefarious
+purposes. The report must also describe ongoing efforts to train law
+enforcement and first responders, conduct joint exercises, and pro-
+vide resources to jurisdictions of varying capacities to improve pre-
+paredness.
+Further, the report is required to present recommendations for
+the development and deployment of advanced technologies, includ-
+ing vehicle disablement tools, predictive analytics, artificial intel-
+ligence-enabled monitoring systems, and cybersecurity safeguards
+for emerging vehicle platforms. It must also include a description
+of the Department’s engagement with privacy and civil liberties
+stakeholders to ensure that all counterterrorism technologies are
+implemented in a manner that respects constitutional protections.
+Finally, the report must address public education initiatives de-
+signed to raise awareness, foster community-law enforcement co-
+operation, and encourage vigilance. The final report shall be sub-
+mitted in classified form but must include an unclassified executive
+summary that will be published on a publicly accessible Depart-
+ment website. The Secretary is also required to brief the appro-
+priate congressional committees on the findings, conclusions, and
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+9
+recommendations of the report no later than 30 days after its sub-
+mission.
+Sec. 3(c)(1) defines the term ‘‘appropriate congressional commit-
+tees’’ as the Committee of Homeland Security of the House of Rep-
+resentatives and the Committee on Commerce, Science, and Trans-
+portation and the Committee on Homeland Security and Govern-
+mental Affairs of the Senate.
+Sec. 3(c)(2) defines the term ‘‘vehicular terrorism’’ as an action
+that utilizes automotive transportation to commit terrorism (as de-
+fined in section 2(18) of the Homeland Security Act of 2002 (6
+U.S.C. 101(18)).
+Æ
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6611 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–222
+DEPARTMENT OF HOMELAND SECURITY VEHICULAR
+TERRORISM PREVENTION AND MITIGATION ACT OF 2025
+AUGUST8, 2025.—Committed to the Committee of the Whole House on the State
+of the Union and ordered to be printed
+Mr. GARBARINO, from the Committee on Homeland Security,
+submitted the following
+R E P O R T
+[To accompany H.R. 1608]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Homeland Security, to whom was referred the
+bill (H.R. 1608) to require the Secretary of Homeland Security to
+produce a report on emerging threats and countermeasures related
+to vehicular terrorism, and for other purposes, having considered
+the same, reports favorably thereon with an amendment and rec-
+ommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 4
+Background and Need for Legislation .................................................................... 4
+Hearings ................................................................................................................... 5
+Committee Consideration ........................................................................................ 6
+Committee Votes ...................................................................................................... 6
+Committee Oversight Findings ............................................................................... 6
+C.B.O. Estimate, New Budget Authority, Entitlement Authority, and Tax
+Expenditures ........................................................................................................ 6
+Federal Mandates Statement ................................................................................. 7
+Duplicative Federal Programs ................................................................................ 7
+Statement of General Performance Goals and Objectives .................................... 7
+Congressional Earmarks, Limited Tax Benefits, and Limited Tariff Benefits ... 7
+Advisory Committee Statement .............................................................................. 7
+Applicability to Legislative Branch ........................................................................ 7
+Section-by-Section Analysis of the Legislation ...................................................... 7
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+2
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Department of Homeland Security Vehicular Ter-
+rorism Prevention and Mitigation Act of 2025’’.
+SEC. 2. FINDINGS.
+Congress finds the following:
+(1) On January 1, 2025, a devastating vehicular terrorist attack occurred on
+Bourbon Street in New Orleans, Louisiana, when an assailant inspired by the
+Islamic State drove a vehicle into a crowd and engaged in a shootout with law
+enforcement. This tragic incident resulted in the loss of 14 lives and injuries
+to at least thirty-five others, including two police officers.
+(2) Vehicle-ramming attacks and other vehicular terrorist incidents represent
+an enduring and evolving threat to public safety in the United States and
+around the world, targeting innocent civilians and first responders.
+(3) These attacks, carried out by both organized terrorist groups and indi-
+vidual actors, often aim to exploit high-density public gatherings, critical infra-
+structure, and key transportation hubs, causing mass casualties and widespread
+disruption.
+(4) Emerging automotive technologies, such as autonomous vehicles, Ad-
+vanced Driver Assistance System (ADAS) capabilities, and ride-sharing plat-
+forms, create new vulnerabilities that could be leveraged by malicious actors to
+conduct sophisticated vehicle-based attacks.
+(5) The Department of Homeland Security, through agencies like the Trans-
+portation Security Administration and the Cybersecurity and Infrastructure Se-
+curity Agency, plays a vital role in detecting, assessing, and mitigating the risks
+associated with vehicle-based threats.
+(6) Strengthened coordination between Federal, State, local, Tribal, territorial,
+and private sector stakeholders is essential to enhance prevention, prepared-
+ness, and response efforts, ensuring the safety of communities across the nation.
+SEC. 3. REPORT ON EMERGING THREATS AND COUNTERMEASURES RELATED TO VEHICULAR
+TERRORISM.
+(a) REPORT.—
+(1) IN GENERAL.—Not later than 180 days after the date of the enactment of
+this Act, the Secretary of Homeland Security, in coordination with the Adminis-
+trator of the Transportation Security Administration and the Director of the Cy-
+bersecurity and Infrastructure Security Agency, shall submit to the appropriate
+congressional committees a report on the Department of Homeland Security’s
+efforts to prevent, deter, and respond to vehicular terrorism.
+(2) ELEMENTS.—The report under paragraph (1) shall include the following:
+(A) An assessment of the current and emerging threats posed by vehic-
+ular terrorism, as well as the following:
+(i) An analysis of the methods, tactics, and motivations used by per-
+petrators of vehicular terrorism.
+(ii) An evaluation of domestic and international trends in vehicular
+terrorism.
+(iii) An identification of potential future threats related to the misuse
+of connected or autonomous vehicles, Advanced Driver Assistance Sys-
+tem (ADAS) -equipped vehicles, ride-sharing services, and advance-
+ments in automotive technologies, including cybersecurity threats to
+underlying software technologies (including artificial intelligence-en-
+abled technologies) powering autonomous vehicles.
+(B) A review of higher-risk locations and events that may be vulnerable
+to vehicular terrorism, including the following:
+(i) Critical infrastructure sites such as the following:
+(I) Airports.
+(II) Seaports.
+(III) Federal, State, local, Tribal, and territorial government fa-
+cilities.
+(IV) Power plants.
+(V) Substations.
+(VI) Oil refineries.
+(VII) Public transportation hubs.
+(VIII) Healthcare facilities.
+(ii) Soft-targets and crowded spaces, including mass gatherings and
+widely attended events such as parades, concerts, sporting events, po-
+litical rallies, holiday markets, places of worship, public demonstra-
+tions, and ceremonial events.
+(iii) High-density urban areas with limited physical security meas-
+ures such as pedestrianized city centers, commercial districts, residen-
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+3
+tial neighborhoods, public parks, recreational areas, educational insti-
+tutions, and tourist destinations.
+(C) A comprehensive summary of actions taken by the Department of
+Homeland Security, the Transportation Security Administration, and the
+Cybersecurity and Infrastructure Security Agency to research measures
+that prevent, deter, and respond to vehicular terrorism, including the fol-
+lowing:
+(i) The identification and coordination with State, local, Tribal, and
+territorial governments and industry partners for the strategic place-
+ment of physical barriers, bollards, and other protective infrastructure
+at higher-risk locations.
+(ii) The research, testing, and deployment of geofencing, surveillance
+systems, cybersecurity measures, and other technologies designed to
+monitor, restrict, and manage vehicle access to such higher-risk loca-
+tions.
+(iii) The creation of real-time response strategies and operational
+plans to neutralize vehicular terrorism, including ongoing research into
+best practices for threat detection, incident management, and threat
+containment.
+(D) An evaluation of the Department’s engagement with private and pub-
+lic sector stakeholders to address risks of vehicular terrorism, including the
+following:
+(i) Collaboration with vehicle rental companies, ride-sharing plat-
+forms, vendors of connected, autonomous, and ADAS technologies,
+freight operators, and automotive manufacturers.
+(ii) Development of industry-specific best practices to prevent the
+misuse of vehicles.
+(iii) Protocols for sharing threat intelligence and security guidance
+with private sector partners.
+(E) A description of the Department’s coordination efforts with Federal,
+State, local, Tribal, and territorial law enforcement agencies to prevent ve-
+hicular terrorism, including the following:
+(i) Mechanisms for sharing threat intelligence and situational aware-
+ness.
+(ii) Guidance provided to such law enforcement agencies regarding
+implementing countermeasures, such as traffic control measures and
+rapid vehicle containment protocols.
+(iii) Joint exercises and training programs to enhance interagency
+preparedness and response.
+(iv) Efforts to equip law enforcement, first responders, and private
+sector partners with the knowledge and skills to recognize and respond
+to vehicular terrorism, including the development of specialized cur-
+ricula addressing emerging threats, such as connected or autonomous
+vehicles and other advanced technologies.
+(v) Outreach efforts to ensure that smaller jurisdictions have access
+to necessary training resources and public safety awareness tools.
+(F) Recommendations for the research, development, and deployment of
+technologies to detect, deter, and mitigate vehicular terrorism, including
+the following:
+(i) Vehicle immobilization systems and remote disablement tech-
+nologies.
+(ii) Predictive analytics and threat detection software that incor-
+porate artificial intelligence and machine learning algorithms to iden-
+tify and flag in real time anomalous or suspicious vehicle behavior, as
+well as associated technologies to disable or divert a vehicle before it
+becomes a threat.
+(iii) Innovations in cybersecurity to prevent the hacking or misuse of
+connected, autonomous, or ADAS-equipped vehicles.
+(G) A description of the Department’s engagement with privacy, civil
+rights, and civil liberties stakeholders to ensure all countermeasures and
+technologies, including artificial-intelligence and machine learning algo-
+rithms, deployed to prevent vehicular terrorism are implemented in a man-
+ner that respects individual rights and freedoms.
+(H) A review of the Department’s public awareness initiatives focused on
+the following:
+(i) Educating the public on recognizing suspicious vehicle-related be-
+havior and reporting potential threats.
+(ii) Building trust and fostering collaboration between communities
+and law enforcement agencies.
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6621 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+4
+(iii) Enhancing resilience by encouraging community-based security
+measures.
+(I) Such other elements as the Secretary of Homeland Security considers
+appropriate.
+(3) FORM.—The report under paragraph (1) shall be submitted in classified
+form, but may include an unclassified executive summary.
+(4) PUBLICATION.—The unclassified executive summary of the report required
+under paragraph (1) shall be published on a publicly accessible website of the
+Department of Homeland Security.
+(b) BRIEFING.—Not later than 30 days after the submission of the report under
+subsection (a), the Secretary of Homeland Security shall provide to the appropriate
+congressional committees a briefing on the findings, conclusions, and recommenda-
+tions of such report.
+(c) DEFINITIONS.—In this section:
+(1) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term ‘‘appropriate con-
+gressional committees’’ means—
+(A) the Committee on Homeland Security of the House of Representa-
+tives; and
+(B) the Committee on Commerce, Science, and Transportation and the
+Committee on Homeland Security and Governmental Affairs of the Senate.
+(2) VEHICULAR TERRORISM.—The term ‘‘vehicular terrorism’’ means an action
+that utilizes automotive transportation to commit terrorism (as such term is de-
+fined in section 2(18) of the Homeland Security Act of 2002 (6 U.S.C. 101(18))).
+PURPOSE AND SUMMARY
+H.R. 1608, the ‘‘Department of Homeland Security Vehicular Ter-
+rorism Prevention and Mitigation Act of 2025,’’ requires the Sec-
+retary of Homeland Security to produce a comprehensive report on
+the Department’s efforts to detect, prevent, and respond to threats
+associated with vehicular terrorism. This report, due within 180
+days of enactment, is to be developed in coordination with the
+Transportation Security Administration (TSA) and the Cybersecu-
+rity and Infrastructure Security Agency (CISA).
+The legislation requires the Department to assess current and
+emerging threats posed by vehicle-ramming attacks and the poten-
+tial exploitation of advanced automotive technologies, including au-
+tonomous and connected vehicles. It also mandates a review of
+high-risk locations vulnerable to such attacks, an analysis of secu-
+rity countermeasures, coordination practices with law enforcement
+and industry, and recommendations for deploying advanced tech-
+nologies and protective infrastructure.
+BACKGROUND AND NEED FOR LEGISLATION
+On January 1, 2025, a deadly vehicular terrorist attack occurred
+on Bourbon Street in New Orleans, Louisiana, when an assailant
+inspired by the Islamic State drove a vehicle into a crowded area
+before engaging in a shootout with law enforcement.1 The attack
+resulted in the deaths of 14 individuals and injuries to at least doz-
+ens of others.2 This tragedy underscores the growing threat posed
+by vehicle-ramming attacks, particularly at public events and soft-
+target locations.
+Vehicular terrorism has emerged as a tactic of choice among both
+foreign terrorist organizations and homegrown violent extremists
+1Press Release, Federal Bureau of Investigation, FBI Statement on the Attack in New Orleans
+(Jan. 1, 2025) (on file with author).
+2Mary Kekatos et al., What we know about the victims of the New Orleans attack: ‘So beautiful
+and full of life’, ABC News, (Jan. 26, 2025) https://abcnews.go.com/US/victims-new-orleans-
+attack/story?id=117246659.
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+5
+due to its simplicity, accessibility, and devastating impact.3 High-
+profile terrorist groups such, as ISIS and al-Qaeda, have repeatedly
+encouraged followers to use vehicles as weapons, citing the ease
+with which such attacks can be carried out with minimal training
+or resources.4 This tactic has been deployed across major global cit-
+ies, often targeting pedestrian zones, transit hubs, and celebratory
+events.5
+The threat landscape is further complicated by technological ad-
+vancements in the automotive sector. The increasing availability of
+autonomous vehicles, advanced driver-assistance systems (ADAS),
+and connected vehicle platforms introduces new vulnerabilities that
+could be exploited by malicious actors. These systems may be sub-
+ject to manipulation or cyber intrusion, creating opportunities for
+more sophisticated or large-scale vehicular attacks.
+Despite the evolving nature of this threat, Federal coordination
+remains uneven and fragmented. While the Department plays a
+central role in safeguarding critical infrastructure and public gath-
+erings, there is a growing need for a more strategic and integrated
+Federal response. This includes improving threat assessments, ac-
+celerating the deployment of countermeasures, and strengthening
+partnerships with state, local, tribal, territorial (SLTT) entities,
+and private sector stakeholders, particularly in the transportation,
+rideshare, and automotive manufacturing industries.
+H.R. 1608 addresses this gap by requiring the Department to de-
+velop a timely and detailed threat assessment that evaluates both
+current and emerging risks related to vehicular terrorism. The re-
+port will inform Congress and security stakeholders about defen-
+sive strategies, vehicle-disabling technologies, infrastructure protec-
+tions, coordination mechanisms, public awareness efforts, and pri-
+vacy considerations. With major domestic mass gatherings and
+global events on the horizon, including the 2026 FIFA World Cup
+and 2028 Summer Olympics, this legislation will ensure the Fed-
+eral government is proactively addressing the vehicular terrorism
+threat to protect the American public and international visitors.
+HEARINGS
+The Committee held the following hearing in the 119th Congress
+that informed H.R. 1608:
+On Tuesday, April 8, 2025, the Subcommittee on Transportation
+and Maritime Security held a hearing entitled, ‘‘America on the
+Global Stage: Examining Efforts to Secure and Improve the U.S.
+Travel System for Significant International Events.’’ The Sub-
+committee received testimony from the following witnesses: Mr.
+Geoff Freeman, President and Chief Executive Officer, U.S. Travel
+Association; Mr. Jon Gruen, Chief Executive Officer, Fortem Tech-
+nologies; and Dr. Everett Kelley, National President, American
+Federation of Government Employees.
+3Alexandre Rodde and Justin Olmstead, Into the Crowd: The Evolution of Vehicular Attacks
+and Prevention Efforts (March 2025), COMBATING TERRORISM CENTER AT WEST POINT,
+(last visited Mar. 2025) https://ctc.westpoint.edu/into-the-crowd-the-evolution-of-vehicular-
+attacks-and-prevention-efforts/.
+4Id.
+5Id.
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+6
+COMMITTEE CONSIDERATION
+The Committee met on Wednesday, April 9, 2025, a quorum
+being present, to consider H.R. 1608 and ordered the measure to
+be favorably reported to the House, as amended, by voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the re-
+corded votes on the motion to report legislation and amendments
+thereto.
+No recorded votes were requested during consideration of H.R.
+1608.
+COMMITTEE OVERSIGHT FINDINGS
+In compliance with clause 3(c)(1) of rule XIII, the Committee ad-
+vises that the findings and recommendations of the Committee,
+based on oversight activities under clause 2(b)(1) of rule X, are in-
+corporated in the descriptive portions of this report.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE, NEW BUDGET AUTHORITY,
+ENTITLEMENT AUTHORITY, AND TAX EXPENDITURES
+With respect to the requirements of clause 3(c)(2) of rule XIII
+and section 308(a) of the Congressional Budget Act of 1974, and
+with respect to the requirements of clause 3(c)(3) of rule XIII and
+section 402 of the Congressional Budget Act of 1974, the Com-
+mittee adopts as its own the estimate of any new budget authority,
+spending authority, credit authority, or an increase or decrease in
+revenues or tax expenditures contained in the cost estimate pre-
+pared by the Director of the Congressional Budget Office.
+H.R. 1608 would require the Department of Homeland Security
+(DHS) to report to the Congress on its efforts to detect, prevent,
+and respond to acts of terrorism in which a vehicle is used as a
+weapon. The report would include an assessment of current and
+emerging threats, a review of high-risk locations, and recommenda-
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+100.222RH
+ereh
+9
+oilof
+tesffo
+tresnI
+
+7
+tions for research and development. H.R. 1608 would require DHS
+to brief the Congress on the report’s findings and recommenda-
+tions.
+Based on the costs of similar activities, CBO estimates that im-
+plementing H.R. 1608 would cost less than $500,000 over the 2025–
+2030 period. Any related spending would be subject to the avail-
+ability of appropriated funds.
+The CBO staff contact for this estimate is Jeremy Crimm. The
+estimate was reviewed by H. Samuel Papenfuss, Deputy Director
+of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act of
+1995.
+DUPLICATIVE FEDERAL PROGRAMS
+Pursuant to clause 3(c) of rule XIII, the Committee finds that
+H.R. 1608 does not contain any provision that establishes or reau-
+thorizes a program known to be duplicative of another Federal pro-
+gram.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the objective of H.R. 1608
+is to require the Secretary of Homeland Security to produce a re-
+port on emerging threats and countermeasures related to vehicular
+terrorism.
+CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND LIMITED
+TARIFF BENEFITS
+In compliance with rule XXI, this bill, as reported, contains no
+congressional earmarks, limited tax benefits, or limited tariff bene-
+fits as defined in clause 9(d), 9(e), or 9(f) of rule XXI.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that H.R. 1608 does not relate to the terms
+and conditions of employment or access to public services or accom-
+modation within the meaning of section 102(b)(3) of the Congres-
+sional Accountability Act.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+This section designates the legislation as the ‘‘Department of
+Homeland Security Vehicular Terrorism Prevention and Mitigation
+Act of 2025.’’
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+8
+Section 2. Findings
+This section outlines Congress’s findings regarding the persistent
+and evolving threat of vehicular terrorism. It references the Janu-
+ary 1, 2025, attack in New Orleans and highlights the vulnerability
+of soft targets, the influence of terrorist propaganda, and the emer-
+gence of risks related to autonomous vehicles, ride-sharing plat-
+forms, and cybersecurity. The section emphasizes DHS’s critical
+role in countering these threats and the need for collaboration
+across all levels of government and the private sector.
+Section 3. Report on emerging threats and countermeasures related
+to vehicular terrorism
+This section requires the Secretary of Homeland Security, in co-
+ordination with the TSA Administrator and the CISA Director, to
+submit a comprehensive report to the appropriate congressional
+committees within 180 days of enactment. The report must provide
+a detailed assessment of the Department’s efforts to detect, pre-
+vent, and respond to threats associated with vehicular terrorism.
+Specifically, the report must evaluate current and emerging
+threats, including tactics and motivations used by perpetrators,
+and examine how advanced vehicle technologies, such as autono-
+mous vehicles, connected platforms, and ADAS-equipped systems,
+could be exploited by malicious actors. It must also identify high-
+risk locations and events that are vulnerable to vehicular attacks,
+such as critical infrastructure sites, large public gatherings, and
+pedestrian-heavy urban areas, and describe the measures being
+taken to mitigate these risks.
+The report must include a summary of actions taken by the De-
+partment and its components to deploy protective infrastructure,
+geofencing tools, and surveillance systems, as well as the Depart-
+ment’s coordination with state, local, tribal, and territorial govern-
+ments and private sector partners to develop and implement deter-
+rent strategies. Additionally, it must review the Department’s en-
+gagement with industry stakeholders, such as rental car compa-
+nies, ride-sharing platforms, and vehicle manufacturers, to estab-
+lish security protocols and prevent misuse of vehicles for nefarious
+purposes. The report must also describe ongoing efforts to train law
+enforcement and first responders, conduct joint exercises, and pro-
+vide resources to jurisdictions of varying capacities to improve pre-
+paredness.
+Further, the report is required to present recommendations for
+the development and deployment of advanced technologies, includ-
+ing vehicle disablement tools, predictive analytics, artificial intel-
+ligence-enabled monitoring systems, and cybersecurity safeguards
+for emerging vehicle platforms. It must also include a description
+of the Department’s engagement with privacy and civil liberties
+stakeholders to ensure that all counterterrorism technologies are
+implemented in a manner that respects constitutional protections.
+Finally, the report must address public education initiatives de-
+signed to raise awareness, foster community-law enforcement co-
+operation, and encourage vigilance. The final report shall be sub-
+mitted in classified form but must include an unclassified executive
+summary that will be published on a publicly accessible Depart-
+ment website. The Secretary is also required to brief the appro-
+priate congressional committees on the findings, conclusions, and
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+9
+recommendations of the report no later than 30 days after its sub-
+mission.
+Sec. 3(c)(1) defines the term ‘‘appropriate congressional commit-
+tees’’ as the Committee of Homeland Security of the House of Rep-
+resentatives and the Committee on Commerce, Science, and Trans-
+portation and the Committee on Homeland Security and Govern-
+mental Affairs of the Senate.
+Sec. 3(c)(2) defines the term ‘‘vehicular terrorism’’ as an action
+that utilizes automotive transportation to commit terrorism (as de-
+fined in section 2(18) of the Homeland Security Act of 2002 (6
+U.S.C. 101(18)).
+Æ
+VerDate Sep 11 2014 02:09 Aug 19, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6611 E:\HR\OC\HR222.XXX HR222
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD

@@ -1,0 +1,487 @@
+Title: JULY2, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JULY2, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 7
+Source: documents - H. Rept. 119-184
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–184
+OPEN RAN OUTREACH ACT
+the Union and ordered to be printed
+Mr. GUTHRIE, from the Committee on Energy and Commerce,
+submitted the following
+R E P O R T
+[To accompany H.R. 2037]
+The Committee on Energy and Commerce, to whom was referred
+the bill (H.R. 2037) to provide outreach and technical assistance to
+small providers regarding Open RAN networks, and for other pur-
+poses, having considered the same, reports favorably thereon with
+an amendment and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Action .................................................................................................... 3
+Committee Votes ...................................................................................................... 3
+Oversight Findings and Recommendations ........................................................... 3
+New Budget Authority, Entitlement Authority, and Tax Expenditures ............. 3
+Congressional Budget Office Estimate ................................................................... 3
+Federal Mandates Statement ................................................................................. 3
+Statement of General Performance Goals and Objectives .................................... 3
+Duplication of Federal Programs ............................................................................ 4
+Related Committee and Subcommittee Hearings ................................................. 4
+Committee Cost Estimate ....................................................................................... 4
+Earmark, Limited Tax Benefits, and Limited Tariff Benefits ............................. 4
+Advisory Committee Statement .............................................................................. 4
+Applicability to Legislative Branch ........................................................................ 4
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 4
+Changes in Existing Law Made by the Bill, as Reported ..................................... 5
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Open RAN Outreach Act’’.
+59–006
+VerDate Sep 11 2014 08:23 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6621 E:\HR\OC\HR184.XXX HR184
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+2
+SEC. 2. OUTREACH AND TECHNICAL ASSISTANCE TO SMALL PROVIDERS REGARDING OPEN
+RAN NETWORKS.
+(a) IN GENERAL.—The Assistant Secretary shall conduct outreach and provide
+technical assistance to small communications network providers—
+(1) to raise awareness regarding the uses, benefits, and challenges of Open
+RAN networks and other open network architectures; and
+(2) regarding participation in the Wireless Supply Chain Innovation Grant
+Program established under section 9202(a)(1) of the William M. (Mac) Thorn-
+berry National Defense Authorization Act for Fiscal Year 2021 (Public Law
+116–283).
+(b) DEFINITIONS.—In this section:
+(1) ASSISTANTSECRETARY.—The term ‘‘Assistant Secretary’’ means the Assist-
+ant Secretary of Commerce for Communications and Information, acting
+through the head of the Office of Internet Connectivity and Growth.
+(2) OPEN NETWORK ARCHITECTURE.—The term ‘‘open network architecture’’
+means Open RAN networks and other network elements that follow a set of
+published open standards for multi-vendor network equipment interoperability,
+including open core and open transport.
+(3) OPEN RAN NETWORK.—The term ‘‘Open RAN network’’ means a wireless
+network that follows the Open Radio Access Network architecture and pub-
+lished open standards for multi-vendor network equipment interoperability.
+PURPOSE AND SUMMARY
+H.R. 2037, the Open RAN Outreach Act, was introduced on
+March 11, 2025, by Representative Troy Carter (D–LA). The bill di-
+rects the Assistant Secretary of the National Telecommunications
+and Information Administration (NTIA) to provide outreach and
+technical assistance to small communications network providers re-
+garding the use, benefits and challenges of Open Radio Access Net-
+works (Open RAN) technologies.
+BACKGROUND AND NEED FOR LEGISLATION
+United States communications service providers rely heavily on
+equipment and services manufactured and provided by foreign com-
+panies. The increasingly globalized market for telecommunications
+equipment and services has increased competition and opened the
+door to cheaper goods for consumers but poses new challenges for
+the United States, particularly for ensuring the security of the tele-
+communications supply chain.
+To support the development of a competitive market for trusted,
+secure network equipment, a growing movement has focused on
+Open RAN network architecture, which relies primarily on open-
+sourced standards and software to operate wireless communica-
+tions networks. Open RAN architecture will potentially allow a net-
+work operator to choose network components from various vendors,
+rather than relying on one vendor for its entire network, spurring
+the development of a competitive marketplace for secure equip-
+ment.
+While this architecture and related technologies may bring ad-
+vantages to communications network providers and the commu-
+nications supply chain, it could also pose challenges to smaller com-
+munications providers without the resources to integrate several
+different kinds of vendors and equipment to create an end-to-end
+network. Directing the NTIA to provide this assistance to small
+providers will make it more likely that small providers can make
+informed decisions about adopting this network architecture.
+VerDate Sep 11 2014 08:23 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR184.XXX HR184
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+3
+COMMITTEE ACTION
+The Committee on Energy and Commerce held a hearing in the
+development of the legislation during the 119th Congress. On Jan-
+uary 23, 2025, the Subcommittee on Communications and Tech-
+nology held a hearing. The title of the hearing was ‘‘Strengthening
+American Leadership in Wireless Technology.’’ The Subcommittee
+received testimony from the following witnesses:
+• Michael K. Powell, President & CEO, NCTA—The Internet
+& Television Association;
+• Brad Gillen, Executive Vice President, CTIA—The Wire-
+less Association;
+• Diane Rinaldo, Executive Director, Open RAN Policy Coa-
+lition; and
+• Chris Lewis, President & CEO, Public Knowledge.
+On April 8, 2025, the full Committee on Energy and Commerce
+met in open markup session and ordered H.R. 2037 Open RAN
+Outreach Act, as amended, favorably reported to the House by a
+voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the record
+votes on the motion to report legislation and amendments thereto.
+There were no record votes taken in connection with ordering H.R.
+2037 reported.
+OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Pursuant to clause 2(b)(1) of rule X and clause 3(c)(1) of rule
+XIII, the Committee held hearings and made findings that are re-
+flected in this report.
+NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY,
+AND TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII, the Committee finds that
+H.R. 2037 would result in no new or increased budget authority,
+entitlement authority, or tax expenditures or revenues.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE
+Pursuant to clause 3(c)(3) of rule XIII, at the time this report
+was filed, the cost estimate prepared by the Director of the Con-
+gressional Budget Office pursuant to section 402 of the Congres-
+sional Budget Act of 1974 was not available.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the general performance
+goal or objective of this legislation is to provide technical assistance
+to small communications providers regarding OpenRAN Network
+Equipment and open network architectures.
+VerDate Sep 11 2014 08:23 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR184.XXX HR184
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+4
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII, no provision of H.R. 2037
+is known to be duplicative of another Federal program, including
+any program that was included in a report to Congress pursuant
+to section 21 of Public Law 111–139 or the most recent Catalog of
+Federal Domestic Assistance.
+RELATED COMMITTEE AND SUBCOMMITTEE HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII, the following hearing was
+used to develop or consider H.R. 2037:
+On January 23, 2025, the Subcommittee on Communications and
+Technology held a hearing. The title of the hearing was ‘‘Strength-
+ening American Leadership in Wireless Technology.’’ The Sub-
+committee received testimony from the following witnesses:
+• Michael K. Powell, President & CEO, NCTA—The Internet
+& Television Association;
+• Brad Gillen, Executive Vice President, CTIA—The Wire-
+less Association;
+• Diane Rinaldo, Executive Director, Open RAN Policy Coa-
+lition; and
+• Chris Lewis, President & CEO, Public Knowledge.
+COMMITTEE COST ESTIMATE
+Pursuant to clause 3(d)(1) of rule XIII, the Committee adopts as
+its own the cost estimate prepared by the Director of the Congres-
+sional Budget Office pursuant to section 402 of the Congressional
+Budget Act of 1974. At the time this report was filed, the estimate
+was not available.
+EARMARK, LIMITED TAX BENEFITS, AND LIMITED TARIFF BENEFITS
+Pursuant to clause 9(e), 9(f), and 9(g) of rule XXI, the Committee
+finds that H.R. 2037 contains no earmarks, limited tax benefits, or
+limited tariff benefits.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+
+Section 4:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Sec. 1. Short title
+
+Section 5:
+Section 1 designates that the short title may be cited as the
+‘‘Open RAN Outreach Act’’.
+Sec. 2. Outreach and technical assistance to small providers regard-
+ing Open RAN networks
+
+Section 6:
+Section 2 directs the Assistant Secretary to conduct outreach and
+technical assistance to small communications network providers,
+VerDate Sep 11 2014 08:23 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR184.XXX HR184
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+5
+(1) to raise awareness regarding the uses, benefits, and challenges
+of Open RAN networks and other open network architectures, and
+(2) regarding participation in the Wireless Supply Chain Innova-
+tion Grant Program established in the Fiscal Year 2021 National
+Defense Authorization Act.
+Sec. 3. Definitions
+
+Section 7:
+Section 3 defines three terms used in the legislation: Assistant
+Secretary, Open Network architecture, and Open RAN network.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+This legislation does not amend any existing Federal statute.
+Æ
+VerDate Sep 11 2014 08:23 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6611 E:\HR\OC\HR184.XXX HR184
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–184
+OPEN RAN OUTREACH ACT
+JULY2, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. GUTHRIE, from the Committee on Energy and Commerce,
+submitted the following
+R E P O R T
+[To accompany H.R. 2037]
+The Committee on Energy and Commerce, to whom was referred
+the bill (H.R. 2037) to provide outreach and technical assistance to
+small providers regarding Open RAN networks, and for other pur-
+poses, having considered the same, reports favorably thereon with
+an amendment and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Action .................................................................................................... 3
+Committee Votes ...................................................................................................... 3
+Oversight Findings and Recommendations ........................................................... 3
+New Budget Authority, Entitlement Authority, and Tax Expenditures ............. 3
+Congressional Budget Office Estimate ................................................................... 3
+Federal Mandates Statement ................................................................................. 3
+Statement of General Performance Goals and Objectives .................................... 3
+Duplication of Federal Programs ............................................................................ 4
+Related Committee and Subcommittee Hearings ................................................. 4
+Committee Cost Estimate ....................................................................................... 4
+Earmark, Limited Tax Benefits, and Limited Tariff Benefits ............................. 4
+Advisory Committee Statement .............................................................................. 4
+Applicability to Legislative Branch ........................................................................ 4
+Section-by-Section Analysis of the Legislation ...................................................... 4
+Changes in Existing Law Made by the Bill, as Reported ..................................... 5
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Open RAN Outreach Act’’.
+59–006
+VerDate Sep 11 2014 08:23 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6621 E:\HR\OC\HR184.XXX HR184
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+2
+SEC. 2. OUTREACH AND TECHNICAL ASSISTANCE TO SMALL PROVIDERS REGARDING OPEN
+RAN NETWORKS.
+(a) IN GENERAL.—The Assistant Secretary shall conduct outreach and provide
+technical assistance to small communications network providers—
+(1) to raise awareness regarding the uses, benefits, and challenges of Open
+RAN networks and other open network architectures; and
+(2) regarding participation in the Wireless Supply Chain Innovation Grant
+Program established under section 9202(a)(1) of the William M. (Mac) Thorn-
+berry National Defense Authorization Act for Fiscal Year 2021 (Public Law
+116–283).
+(b) DEFINITIONS.—In this section:
+(1) ASSISTANTSECRETARY.—The term ‘‘Assistant Secretary’’ means the Assist-
+ant Secretary of Commerce for Communications and Information, acting
+through the head of the Office of Internet Connectivity and Growth.
+(2) OPEN NETWORK ARCHITECTURE.—The term ‘‘open network architecture’’
+means Open RAN networks and other network elements that follow a set of
+published open standards for multi-vendor network equipment interoperability,
+including open core and open transport.
+(3) OPEN RAN NETWORK.—The term ‘‘Open RAN network’’ means a wireless
+network that follows the Open Radio Access Network architecture and pub-
+lished open standards for multi-vendor network equipment interoperability.
+PURPOSE AND SUMMARY
+H.R. 2037, the Open RAN Outreach Act, was introduced on
+March 11, 2025, by Representative Troy Carter (D–LA). The bill di-
+rects the Assistant Secretary of the National Telecommunications
+and Information Administration (NTIA) to provide outreach and
+technical assistance to small communications network providers re-
+garding the use, benefits and challenges of Open Radio Access Net-
+works (Open RAN) technologies.
+BACKGROUND AND NEED FOR LEGISLATION
+United States communications service providers rely heavily on
+equipment and services manufactured and provided by foreign com-
+panies. The increasingly globalized market for telecommunications
+equipment and services has increased competition and opened the
+door to cheaper goods for consumers but poses new challenges for
+the United States, particularly for ensuring the security of the tele-
+communications supply chain.
+To support the development of a competitive market for trusted,
+secure network equipment, a growing movement has focused on
+Open RAN network architecture, which relies primarily on open-
+sourced standards and software to operate wireless communica-
+tions networks. Open RAN architecture will potentially allow a net-
+work operator to choose network components from various vendors,
+rather than relying on one vendor for its entire network, spurring
+the development of a competitive marketplace for secure equip-
+ment.
+While this architecture and related technologies may bring ad-
+vantages to communications network providers and the commu-
+nications supply chain, it could also pose challenges to smaller com-
+munications providers without the resources to integrate several
+different kinds of vendors and equipment to create an end-to-end
+network. Directing the NTIA to provide this assistance to small
+providers will make it more likely that small providers can make
+informed decisions about adopting this network architecture.
+VerDate Sep 11 2014 08:23 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR184.XXX HR184
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+3
+COMMITTEE ACTION
+The Committee on Energy and Commerce held a hearing in the
+development of the legislation during the 119th Congress. On Jan-
+uary 23, 2025, the Subcommittee on Communications and Tech-
+nology held a hearing. The title of the hearing was ‘‘Strengthening
+American Leadership in Wireless Technology.’’ The Subcommittee
+received testimony from the following witnesses:
+• Michael K. Powell, President & CEO, NCTA—The Internet
+& Television Association;
+• Brad Gillen, Executive Vice President, CTIA—The Wire-
+less Association;
+• Diane Rinaldo, Executive Director, Open RAN Policy Coa-
+lition; and
+• Chris Lewis, President & CEO, Public Knowledge.
+On April 8, 2025, the full Committee on Energy and Commerce
+met in open markup session and ordered H.R. 2037 Open RAN
+Outreach Act, as amended, favorably reported to the House by a
+voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the record
+votes on the motion to report legislation and amendments thereto.
+There were no record votes taken in connection with ordering H.R.
+2037 reported.
+OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Pursuant to clause 2(b)(1) of rule X and clause 3(c)(1) of rule
+XIII, the Committee held hearings and made findings that are re-
+flected in this report.
+NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY,
+AND TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII, the Committee finds that
+H.R. 2037 would result in no new or increased budget authority,
+entitlement authority, or tax expenditures or revenues.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE
+Pursuant to clause 3(c)(3) of rule XIII, at the time this report
+was filed, the cost estimate prepared by the Director of the Con-
+gressional Budget Office pursuant to section 402 of the Congres-
+sional Budget Act of 1974 was not available.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the general performance
+goal or objective of this legislation is to provide technical assistance
+to small communications providers regarding OpenRAN Network
+Equipment and open network architectures.
+VerDate Sep 11 2014 08:23 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR184.XXX HR184
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+4
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII, no provision of H.R. 2037
+is known to be duplicative of another Federal program, including
+any program that was included in a report to Congress pursuant
+to section 21 of Public Law 111–139 or the most recent Catalog of
+Federal Domestic Assistance.
+RELATED COMMITTEE AND SUBCOMMITTEE HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII, the following hearing was
+used to develop or consider H.R. 2037:
+On January 23, 2025, the Subcommittee on Communications and
+Technology held a hearing. The title of the hearing was ‘‘Strength-
+ening American Leadership in Wireless Technology.’’ The Sub-
+committee received testimony from the following witnesses:
+• Michael K. Powell, President & CEO, NCTA—The Internet
+& Television Association;
+• Brad Gillen, Executive Vice President, CTIA—The Wire-
+less Association;
+• Diane Rinaldo, Executive Director, Open RAN Policy Coa-
+lition; and
+• Chris Lewis, President & CEO, Public Knowledge.
+COMMITTEE COST ESTIMATE
+Pursuant to clause 3(d)(1) of rule XIII, the Committee adopts as
+its own the cost estimate prepared by the Director of the Congres-
+sional Budget Office pursuant to section 402 of the Congressional
+Budget Act of 1974. At the time this report was filed, the estimate
+was not available.
+EARMARK, LIMITED TAX BENEFITS, AND LIMITED TARIFF BENEFITS
+Pursuant to clause 9(e), 9(f), and 9(g) of rule XXI, the Committee
+finds that H.R. 2037 contains no earmarks, limited tax benefits, or
+limited tariff benefits.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Sec. 1. Short title
+Section 1 designates that the short title may be cited as the
+‘‘Open RAN Outreach Act’’.
+Sec. 2. Outreach and technical assistance to small providers regard-
+ing Open RAN networks
+Section 2 directs the Assistant Secretary to conduct outreach and
+technical assistance to small communications network providers,
+VerDate Sep 11 2014 08:23 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR184.XXX HR184
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+5
+(1) to raise awareness regarding the uses, benefits, and challenges
+of Open RAN networks and other open network architectures, and
+(2) regarding participation in the Wireless Supply Chain Innova-
+tion Grant Program established in the Fiscal Year 2021 National
+Defense Authorization Act.
+Sec. 3. Definitions
+Section 3 defines three terms used in the legislation: Assistant
+Secretary, Open Network architecture, and Open RAN network.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+This legislation does not amend any existing Federal statute.
+Æ
+VerDate Sep 11 2014 08:23 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6611 E:\HR\OC\HR184.XXX HR184
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD

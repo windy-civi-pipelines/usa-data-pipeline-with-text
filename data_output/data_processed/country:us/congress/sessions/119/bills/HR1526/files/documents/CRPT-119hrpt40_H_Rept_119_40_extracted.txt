@@ -1,0 +1,1496 @@
+Title: MARCH25, 2025.—Committed to the Committee of the Whole House on the State
+Official Title: MARCH25, 2025.—Committed to the Committee of the Whole House on the State
+Number of Sections: 11
+Source: documents - H. Rept. 119-40
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–40
+NO ROGUE RULINGS ACT OF 2025
+of the Union and ordered to be printed
+Mr. JORDAN, from the Committee on the Judiciary,
+submitted the following
+R E P O R T
+together with
+DISSENTING VIEWS
+[To accompany H.R. 1526]
+The Committee on the Judiciary, to whom was referred the bill
+(H.R. 1526) to amend title 28, United States Code, to limit the au-
+thority of district courts to provide injunctive relief, and for other
+purposes, having considered the same, reports favorably thereon
+with an amendment and recommends that the bill as amended do
+pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for the Legislation ............................................................. 2
+Hearings ................................................................................................................... 7
+Committee Consideration ........................................................................................ 7
+Committee Votes ...................................................................................................... 7
+Committee Oversight Findings ............................................................................... 9
+New Budget Authority and Tax Expenditures ...................................................... 9
+Congressional Budget Office Cost Estimate .......................................................... 9
+Committee Estimate of Budgetary Effects ............................................................ 9
+Duplication of Federal Programs ............................................................................ 9
+Performance Goals and Objectives ......................................................................... 9
+Advisory on Earmarks ............................................................................................. 10
+Federal Mandates Statement ................................................................................. 10
+Advisory Committee Statement .............................................................................. 10
+Applicability to Legislative Branch ........................................................................ 10
+
+Section 2:
+Section-by-Section Analysis .................................................................................... 10
+Changes in Existing Law Made by the Bill, as Reported ..................................... 10
+Dissenting Views ..................................................................................................... 11
+59–006
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+2
+The amendment is as follows:
+Strike all that follows after the enacting clause, and insert the
+following:
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘No Rogue Rulings Act of 2025’’ as the ‘‘NORRA of
+2025’’.
+SEC. 2. LIMITATION ON AUTHORITY OF UNITED STATES DISTRICT COURTS TO PROVIDE IN-
+JUNCTIVE RELIEF.
+(a) IN GENERAL.—Chapter 85 of title 28, United States Code, is amended by add-
+ing at the end the following:
+‘‘§1370. Limitation on authority to provide injunctive relief
+‘‘(a) Except as provided in subsection (b), notwithstanding any other provision of
+law, no United States district court shall issue any order providing for injunctive
+relief, except in the case of such an order that is applicable only to limit the actions
+of a party to the case before such district court with respect to the party seeking
+injunctive relief from such district court and non-parties represented by such a
+party acting in a representative capacity pursuant to the Federal Rules of Civil Pro-
+cedure.
+‘‘(b) If a case is brought by two or more States located in different circuits chal-
+lenging an action by the executive branch, that case shall be referred to a three-
+judge panel selected pursuant to section 2284, except that the selection of judges
+shall be random, and not by the chief judge of the circuit. The three-judge panel
+may issue an injunction that would otherwise be prohibited under subsection (a),
+and shall consider the interest of justice, the risk of irreparable harm to non-parties,
+and the preservation of the constitutional separation of powers in determining
+whether to issue such an order.
+‘‘(c) An appeal of an order granting or denying injunctive relief pursuant to sub-
+
+Section 4:
+section (b) may lie to the circuit embracing the district or to the Supreme Court,
+at the preference of the party.’’.
+(b) TABLE OF SECTIONS.—The table of sections for such chapter is amended by
+adding at the end the following:
+‘‘1370. Limitation on authority to provide injunctive relief.’’.
+Purpose and Summary
+H.R. 1526, the No Rogue Rulings Act, or NORRA, introduced by
+Rep. Darrell Issa (R–CA), would prohibit United States district
+courts from issuing any orders providing for injunctive relief that
+are broader in scope than restricting the actions of a party before
+the court with respect to the party seeking injunctive relief. The
+bill would allow a district court to issue a nationwide injunction in
+a case in which two separate states from two separate judicial cir-
+cuits are parties—making clear the nationwide nature of the dis-
+pute. In such a case, the bill provides for the establishment of a
+panel of three randomly chosen judges to determine whether to
+issue a nationwide injunction. Such injunctions may be appealed
+directly to the Supreme Court.
+Background and Need for the Legislation
+Since President Donald Trump’s second term began in January
+2025, federal district courts have issued a series of nationwide in-
+junctions that have halted numerous executive orders, affecting a
+wide array of policy areas including immigration, federal spending,
+regulatory reforms, and social policy.1 These court orders, each of
+which purport to enjoin federal actions throughout the United
+1See Litigation Tracker: Legal Challenges to Trump Administration Actions, JUST SECURITY
+(updated Feb. 27, 2025), https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-
+trump-administration/ [hereinafter ‘‘Litigation Tracker’’]; see also Alex Lemonides, Tracking the
+Lawsuits Against Trump’s Agenda, N.Y. TIMES(Feb. 28, 2025).
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+3
+States, have emerged from litigation challenging the Trump Ad-
+ministration’s agenda and role in setting Executive Branch policy,
+and raise substantial questions about the federal judiciary’s role in
+national policymaking.2 These injunctions, which are part of more
+than 100 lawsuits against President Trump’s approximately sev-
+enty-five executive orders issued as of March 24, 2025,3 extend well
+beyond the immediate litigants in their respective cases and ulti-
+mately affect national policy execution.4
+Litigation Challenging Immigration Executive Orders
+President Trump’s executive orders on immigration policies have
+been a primary target of lawsuits seeking nationwide injunctive re-
+lief.5 On February 5, 2025, U.S. District Judge Deborah Boardman
+of the District of Maryland issued a nationwide preliminary injunc-
+tion against Executive Order 14160, which sought to end birthright
+citizenship for children born to undocumented immigrants or those
+on temporary visas.6 In her order, Judge Boardman, in response to
+lawsuits from immigrant families and advocacy groups, stated that
+the terms of the executive order were in conflict with the 14th
+Amendment.7 Additionally, on February 6, 2025, U.S. District
+Judge John Coughenour in the Western District of Washington
+issued another nationwide injunction against the birthright citizen-
+ship order, which highlighted purported constitutional concerns
+with the executive order.8
+Moreover, on February 25, 2025, U.S. District Judge Jamal N.
+Whitehead, also of the Western District of Washington, issued a
+preliminary injunction that blocks the implementation of Executive
+Order 14163, which sought to suspend the admission of refugees
+into the country under the U.S. Refugee Admissions Program
+(USRAP).9 Judge Whitehead, who was appointed by President Joe
+Biden, stated that it appeared ‘‘likely that [President Trump] ex-
+ceeded [his] lawful authority by suspending [USRAP,]’’ which was
+established by Congress in 1980.10 Judge Whitehead further stated
+that President Trump’s executive orders was an ‘‘effective nullifica-
+tion of congressional will[.]’’11
+Litigation Challenging Executive Orders Regarding Federal Re-
+sources
+Recently, several individuals and left-wing groups have filed law-
+suits challenging the establishment and actions of the Department
+of Government Efficiency (DOGE), with the plaintiffs alleging vio-
+2Chapter Four District Court Reform: Nationwide Injunctions, 137 HARV. L. REV. 1701, 1707–
+13 (2024) [hereinafter ‘‘Nationwide Injunctions’’]; see generally JOANNA R. LAMPE, CONG. RE-
+SEARCHSERV., LSB10664, NATIONWIDEINJUNCTIONS: RECENTLEGALDEVELOPMENTS3–4 (2021)
+[hereinafter ‘‘Developments’’].
+32025 Donald J. Trump Executive Orders, FED. REG. (last accessed Feb. 28, 2025), https://
+www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025; see Nigel
+Chiwaya, Tracking Trump’s executive orders, NBC NEWS (Feb. 5, 2025), https://
+www.nbcnews.com/data-graphics/tracking-trumps-executive-orders-rcna189571; Trump Adminis-
+tration Litigation Tracker, LAWFARE, https://www.lawfaremedia.org/projects-series/trumps-first-
+100-days/tracking-trump-administration-litigation (last accessed Mar. 24, 2025).
+4See Nationwide Injunctions, supra note 2, at 1712.
+5See Litigation Tracker, supra note 1.
+6Order, Casa, Inc., et al., v. Trump, et al., No. 8:25–CV–00201–DLB (Feb. 5, 2025).
+7Id.
+8Order, State of Washington, et al., v. Trump, et al., No. 2:25–CV–00127–JCC (Jan. 23, 2025).
+9Mattathias Schwartz, Judge Blocks Trump Executive Order to Suspend Refugee Program,
+N.Y. TIMES(Feb. 25, 2025); Executive Order 14163 (2025).
+10Schwartz, supra note 9.
+11Id.
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+4
+lations of the Federal Advisory Committee Act (FACA) and the Ad-
+ministrative Procedure Act (APA). These cases involve various or-
+ganizations and government entities contesting DOGE’s access to
+government records, its influence on federal agencies, and its effect
+on employees, with multiple motions for temporary restraining or-
+ders and injunctions under consideration.12
+On February 25, 2025, Judge Loren AliKhan of the U.S. District
+Court for the District of Columbia, blocked a January 27, 2025,
+memorandum from the Office of Management and Budget (OMB)
+freezing certain federal grants and loans.13 Intended to pause fed-
+eral disbursements while they were examined to ensure compliance
+with the Trump Administration’s priorities, the directive was con-
+tested by an array of nonprofits and businesses.14 Additionally, on
+February 21, 2025, Judge Adam B. Abelson of the District of Mary-
+land, who was appointed by President Biden, issued a nationwide
+injunction against parts of Executive Order 14151, establishing
+DOGE.15 In that case, groups of retirees and unions challenged the
+executive order’s agency restructuring plans, leading to a broad
+suspension of its implementation.16
+On January 28, 2025, a coalition of 22 states, along with the Dis-
+trict of Columbia, brought suit against President Trump and,
+among other agencies, OMB and the Treasury Department, alleg-
+ing that President Trump’s executive order directing all executive
+agencies to ‘‘pause all activities related to obligation or disburse-
+ment of all Federal financial assistance, and other relevant agency
+activities that [include] financial assistance for foreign aid, non-
+governmental organizations, DEI, woke gender ideology, and the
+green new deal’’ is unconstitutional and violates the APA.17 On
+January 31, 2025, Judge John J. McConnell, Jr., of the District of
+Rhode Island, who was appointed by President Obama, issued a
+temporary restraining order barring the enforcement of the OMB
+directive.18 On February 10, 2025, Judge McConnell granted Plain-
+tiffs’ motion to enforce the restraining order and stated that the
+White House failed to comply with the court’s order.19 Further, on
+February 11, 2025, the U.S. Court of Appeals for the First Circuit
+denied defendants’ request for an administrative stay pending reso-
+lution of their motion for a stay pending appeal, but did not rule
+on whether to issue a stay pending appeal,20 and on February 12,
+2025, Judge McConnell denied defendants’ motion to stay the tem-
+porary restraining order and enforcement order pending appeal.21
+12See Litigation Tracker, supra note 1.
+13Memorandum Opinion, Nat’l Council of Nonprofits, et al., v. Office of Mgmt. & Budget, et
+al., No. 1:25–CV–00239–LLA (Feb. 25, 2025).
+14Id.
+15Memorandum Opinion, Nat’l Ass’n of Diversity Officers in Higher Ed., Inc., et al. v. Trump,
+et al., No. 1:25–CV–00333–ABA (Feb. 21, 2025).
+16See id.
+17Complaint, State of New York, et al., v. Trump, et al., No.1:25–CV–00039–JJM–PAS (D.R.I.
+Jan. 28, 2025).
+18Temporary Restraining Order, State of New York, et al., v. Trump, et al., No.1:25–CV–
+00039–JJM–PAS (D.R.I. Jan. 31, 2025).
+19Order, State of New York, et al., v. Trump, et al., No.1:25–CV–00039–JJM–PAS (D.R.I. Feb.
+10, 2025).
+20See Judgment, State of New York, et al., v. Trump, et al., No. 25–1128 (1st Cir. Feb. 13,
+2025).
+21Order, State of New York, et al., v. Trump, et al., No.1:25–CV–00039–JJM–PAS (D.R.I. Feb.
+12, 2025). On February 13, 2025, defendants moved to voluntarily dismiss their appeal chal-
+lenging the temporary restraining order and enforcement order, which the First Circuit so-or-
+dered the same day. Judgment, State of New York, et al., v. Trump, et al., No. 25–1128 (1st
+Cir. Feb. 13, 2025).
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+5
+Litigation Challenging Executive Orders Regarding Social Policy
+Initiatives
+President Trump’s regulatory and social policy initiatives have
+encountered similar obstruction. For example, on February 14,
+2025, Judge Brendan Hurson of the District of Maryland, who was
+appointed by President Biden, issued a nationwide preliminary in-
+junction blocking President Trump’s executive order aimed at pro-
+tecting children from chemical and surgical mutilation.22 According
+to the Heritage Foundation, Judge Hurson’s order ‘‘ignore[d] a cor-
+rect application of guiding law that gives the president the author-
+ity to halt further governmental federal funding’’ of such treat-
+ments.23 Additionally, on February 14, 2025, following litigation
+from civil rights organizations questioning its alignment with fed-
+eral law, Judge Lauren King of the Western District of Washington
+issued another nationwide preliminary injunction halting the same
+executive order.24
+Litigation Challenging Removal of Federal Employees
+President Trump’s efforts to reduce federal employee headcounts
+have received similar attention from some activist judges. For ex-
+ample, on March 13, 2025, Judge William Alsup of the Northern
+District of California, who was appointed by President Clinton,
+issued a nationwide preliminary injunction through an oral order
+from the bench requiring President Trump to reinstate all proba-
+tionary employees who were fired from the Departments of Vet-
+erans Affairs, Agriculture, Defense, Energy, Interior and Treas-
+ury.25 Judge Alsup indicated he may extend the order to cover
+other agencies at a later time.26 Judge Alsup stated that ‘‘[t]he
+court finds that Office of Personnel Management did direct all
+agencies to terminate probationary employees with the exception of
+mission critical employees,’’ and called the President’s efforts a
+‘‘sham.’’27
+The Necessity for NORRA and Legislative Reform
+NORRA will amend Chapter 85 of Title 28, United States Code,
+to restrict the ability of federal district courts to provide injunctive
+relief to only the parties directly involved in a case. This legislation
+responds to concerns that nationwide injunctions disrupt the con-
+stitutional separation of powers, impede lawful administrative ac-
+tivities, and unduly impede the authority of elected officials to de-
+termine questions of policy,28 as demonstrated by recent judicial
+actions against President Trump’s executive orders.29
+The scope of nationwide injunctions highlights the necessity for
+reform. Nationwide injunctions frequently extend far beyond the
+immediate parties in a lawsuit, affecting entire populations and ju-
+22Memorandum Opinion, PFLAG, Inc., et al., v. Trump, et al., No. 8:25–CV–00337–BAH (Feb.
+14, 2025).
+23Sarah Parshall Perry, Follow the Law, HERITAGE FOUND. (Feb. 27, 2025), https://
+www.heritage.org/gender/commentary/follow-the-law.
+24Order, State of Washington, et al., v. Trump, et al., No. 2:25–CV–00244–LK (Feb. 14, 2025).
+25Devan Cole, Judge orders Trump administration to reinstate thousands of fired employees
+at VA, Defense Department and other agencies, CNN (Mar. 13, 2025).
+26Id.
+27Id.
+28See JOANNA R. LAMPE, CONG. RESEARCH SERV., R46902, NATIONWIDE INJUNCTIONS: LAW,
+HISTORY, ANDPROPOSALSFORREFORM10–15 (2021) [hereinafter ‘‘Proposals’’].
+29See Litigation Tracker, supra note 1.
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+6
+risdictions not involved in the original dispute.30 This expansive
+reach often results from strategic filings in districts chosen for
+their likelihood to grant favorable outcomes, a practice of forum
+and judge shopping that concentrates significant policymaking
+power in individual, ideologically reliable judges.31 Such a trend
+shifts the policymaking power away from the legislative and execu-
+tive branches, raising fundamental questions about the judiciary’s
+role in our constitutional system.32 This trend is also in conflict
+with former Supreme Court Justice Lewis Powell’s admonition that
+judges should only ‘‘decide the case before the court.’’33
+Moreover, the practice of issuing nationwide injunctions also cre-
+ates substantial challenges for effective governance.34 When mul-
+tiple district courts issue injunctions on the same issue, the poten-
+tial for conflicting rulings fosters legal uncertainty, complicating
+the uniform application of federal policy.35 Furthermore, the imme-
+diate nationwide enforcement of these orders delays resolution by
+higher courts, stalling the implementation of executive and legisla-
+tive initiatives and leaving critical policies in limbo.36 NORRA
+seeks to restore district courts to their traditional function of re-
+solving specific disputes between parties appearing before them,
+ensuring that broader policy determinations remain the responsi-
+bility of the democratically elected branches of government, i.e.,
+Congress and the President.
+Opponents may argue that restricting nationwide injunctions
+limits the judiciary’s ability to serve as a check on executive actions
+perceived as overreaching or harmful.37 However, NORRA would
+serve to enhance democratic accountability by ensuring that signifi-
+cant policy decisions align with the authority of the legislative and
+executive branches, which are directly accountable to the elec-
+torate, rather than resting on the unilateral rulings of individual
+judges. With the current administration facing an unprecedented
+volume of litigation challenging its executive actions, NORRA pre-
+sents a critical opportunity to reinforce constitutional principles,
+promote consistency within the judicial system, and support the ef-
+fective execution of federal governance.
+Further, as modified by Rep. Derek Schmidt’s amendment to
+NORRA, nationwide injunctions would still be available where the
+facts of the case make clear the nationwide nature of the dispute.
+To establish that a matter in fact has nationwide implications, the
+amendment focuses on those cases where at least two separate
+states in different federal judicial circuits are parties. In such situ-
+ations, a panel of three randomly chosen judges would be estab-
+lished to determine whether to issue a nationwide injunction. The
+historical basis for requiring three judge panels is well established
+in federal law under 28 U.S.C. 2284, which explicitly provides that
+‘‘[a] district court of three judges shall be convened when otherwise
+required by Act of Congress.’’ Under 28 U.S.C. §2284, when a dis-
+trict court judge receives a request for a three-judge panel, the
+30Proposals, supra note 28, at 12.
+31Developments, supra note 2, at 4.
+32See id.
+33LEWIS F. POWELL, JR. STARE DECISIS AND JUDICIAL RESTRAINT, 47 WASH. & LEE L. REV.
+281, 288 (1990).
+34Nationwide Injunctions, supra note 2, at 1724.
+35See id.
+36Developments, supra note 2, at 4–5.
+37Proposals, supra note 28, at 13–14.
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+7
+chief judge of the relevant circuit is tasked with selecting the two
+additional judges who will join the district court judge who received
+the request. To prevent gamesmanship and forum shopping, all
+three judges are selected randomly under the procedure set forth
+in Rep. Schmidt’s amendment. Further, any injunctions issued by
+the panel may be appealed directly to the Supreme Court.
+Hearings
+For the purposes of clause 3(c)(6)(A) of House rule XIII, the fol-
+lowing hearings were used to develop H.R. 1526: ‘‘Justice Delayed:
+The Crisis of Undermanned Federal Courts’’ a hearing held on Feb-
+ruary 25, 2025, before the Subcommittee on Courts, Intellectual
+Property, Artificial Intelligence, and the Internet of the Committee
+on the Judiciary. The Subcommittee heard testimony from the fol-
+lowing witnesses:
+• The Honorable Timothy Tymkovich, Circuit Judge, United
+States Court of Appeals for the Tenth Circuit.
+The hearing addressed, among other topics, injunctive relief in
+federal courts and the lack of clear standards for the issuance of
+nationwide injunctions.
+Committee Consideration
+On March 5, 2025, the Committee met in open session and or-
+dered the bill, H.R. 1526, favorably reported with an amendment
+in the nature of a substitute, by a roll call vote of 14–9, a quorum
+being present.
+Committee Votes
+In compliance with clause 3(b) of House rule XIII, the following
+roll call votes occurred during the Committee’s consideration of
+H.R. 1526:
+• 1. Vote on favorably reporting H.R. 1526, as amended—
+passed 14 ayes to 9 nays.
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+8
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+Section 5:
+100.04RH
+ereh
+21
+oilof
+tesffo
+tresnI
+9
+Committee Oversight Findings
+In compliance with clause 3(c)(1) of House rule XIII, the Com-
+mittee advises that the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+New Budget Authority and Tax Expenditures
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to the require-
+ments of clause 3(c)(3) of rule XIII of the Rules of the House of
+Representatives and section 402 of the Congressional Budget Act of
+1974, the Committee has requested but not received a cost estimate
+for this bill from the Director of the Congressional Budget Office.
+The Committee has requested but not received from the Director
+of the Congressional Budget Office a statement as to whether this
+bill contains any new budget authority, spending authority, credit
+authority, or an increase or decrease in revenues or tax expendi-
+tures. The Chairman of the Committee shall cause such estimate
+and statement to be printed in the Congressional Record upon its
+receipt by the Committee.
+Congressional Budget Office Cost Estimate
+With respect to the requirement of clause 3(c)(3) of rule XIII of
+the Rules of the House of Representatives, a cost estimate provided
+by the Congressional Budget Office pursuant to section 402 of the
+Congressional Budget Act of 1974 was not made available to the
+Committee in time for the filing of this report. The Chairman of
+the Committee shall cause such estimate to be printed in the Con-
+gressional Record upon its receipt by the Committee.
+Committee Estimate of Budgetary Effects
+With respect to the requirements of clause 3(d)(1) of rule XIII of
+the Rules of the House of Representatives, the Committee adopts
+as its own the cost estimate prepared by the Director of the Con-
+gressional Budget Office pursuant to section 402 of the Congres-
+sional Budget Act of 1974.
+Duplication of Federal Programs
+Pursuant to clause 3(c)(5) of House rule XIII, no provision of H.R.
+1526 establishes or reauthorizes a program of the federal govern-
+ment known to be duplicative of another federal program.
+Performance Goals and Objectives
+The Committee states that pursuant to clause 3(c)(4) of House
+rule XIII, H.R. 1526 would limit when United States district courts
+may issue an order providing for injunctive relief that is broader
+in scope than restricting the actions of a party before the court
+with respect to the party seeking injunctive relief.
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+10
+Advisory on Earmarks
+In accordance with clause 9 of House rule XXI, H.R. 1526 does
+not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits as defined in clauses 9(d), 9(e), or 9(f) of
+House Rule XXI.
+Federal Mandates Statement
+An estimate of federal mandates prepared by the Director of the
+Congressional Budget office pursuant to section 423 of the Un-
+funded Mandates Reform Act was not made available to the Com-
+mittee in time for the filing of this report. The Chairman of the
+Committee shall cause such estimate to be printed in the Congres-
+sional Record upon its receipt by the Committee.
+Advisory Committee Statement
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+Applicability to Legislative Branch
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act (Pub. L. 104–1).
+
+Section 6:
+Section-by-Section Analysis
+
+Section 7:
+Section 1. Short Title. This Act may be cited as the ‘‘No Rogue
+Rulings Act of 2025.’’
+
+Section 8:
+Section 2. Limitation on Authority of United States District
+Courts to Provide Injunctive Relief. This section amends Chapter 85
+of title 28 of the United States Code to limit the ability of a United
+States district court to issue an order that provides for injunctive
+relief, except for such orders that are applicable only to limit the
+actions of a party to the case with respect to the party who sought
+the injunctive relief.
+This section also would permit a district court to issue a nation-
+wide injunction where at least two state attorneys general from dif-
+ferent judicial districts are plaintiffs and provides that such a case
+must be heard by a three-judge panel. In such a case, the court
+must consider certain enumerated factors, and the parties may ap-
+peal the granting or denial of the nationwide injunction to the Su-
+preme Court.
+Changes in Existing Law Made by the Bill, as Reported
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+TITLE 28, UNITED STATES CODE
+* * * * * * *
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+11
+PART IV—JURISDICTION AND VENUE
+* * * * * * *
+CHAPTER 85—DISTRICT COURTS; JURISDICTION
+Sec.
+
+Section 9:
+1330. Actions against foreign states.
+* * * * * * *
+
+Section 10:
+1370. Limitation on authority to provide injunctive relief.
+* * * * * * *
+
+Section 11:
+§1370. Limitation on authority to provide injunctive relief
+(a) Except as provided in subsection (b), notwithstanding any
+other provision of law, no United States district court shall issue
+any order providing for injunctive relief, except in the case of such
+an order that is applicable only to limit the actions of a party to
+the case before such district court with respect to the party seeking
+injunctive relief from such district court and non-parties represented
+by such a party acting in a representative capacity pursuant to the
+Federal Rules of Civil Procedure.
+(b) If a case is brought by two or more States located in different
+circuits challenging an action by the executive branch, that case
+shall be referred to a three-judge panel selected pursuant to section
+2284, except that the selection of judges shall be random, and not
+by the chief judge of the circuit. The three-judge panel may issue an
+injunction that would otherwise be prohibited under subsection (a),
+and shall consider the interest of justice, the risk of irreparable
+harm to non-parties, and the preservation of the constitutional sepa-
+ration of powers in determining whether to issue such an order.
+(c) An appeal of an order granting or denying injunctive relief
+pursuant to subsection (b) may lie to the circuit embracing the dis-
+trict or to the Supreme Court, at the preference of the party.
+* * * * * * *
+Dissenting Views
+H.R. 1526, the ‘‘No Rogue Rulings Act,’’ would prohibit any fed-
+eral district court from issuing injunctive relief that extends be-
+yond the parties to a case. This bill would prevent federal district
+courts from imposing universal injunctive relief, or ‘‘nationwide in-
+junctions,’’ even when that court is tasked with ruling on the valid-
+ity of certain federal policies with nationwide effects.
+District courts across the country have universally enjoined
+President Trump’s most damaging executive actions, from his at-
+tempt to unilaterally end birthright citizenship and freezing con-
+gressionally appropriated funding to the mass firing of civil serv-
+ants. Each of these cases have the potential to cause very real and
+serious harm to Americans across the country. They demonstrate
+how nationwide injunctions play an essential role as a check on the
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+12
+political branches and can serve an important purpose that, when
+weighed properly by a court, outweighs their costs.1
+This legislation would ban the use of nationwide injunctions in
+district courts across the country. Without this form of universal
+injunctive relief, federal district courts would be powerless to pro-
+tect thousands, sometimes millions, of Americans from the illegal
+and unconstitutional polices of the Trump Administration. For
+these reasons and others discussed below, I strongly oppose H.R.
+1526 and respectfully dissent from the Committee’s views on this
+legislation.
+I. BACKGROUND AND DESCRIPTION
+An injunction is a form of equitable relief that allows a court to
+‘‘‘control a party’s conduct’—either by prohibiting or requiring ac-
+tion by a party.’’2 Injunctions are intended to provide strong, coer-
+cive relief and as such, ‘‘courts aim to issue injunctions that are ‘no
+more burdensome to the defendant than necessary to provide com-
+plete relief’ to the parties before the court.’’3 Depending on what
+stage the parties are at in the litigation, an injunction can take the
+form of a temporary restraining order (TRO), a preliminary injunc-
+tion, or a permanent injunction.4
+Injunctions can also take the form of a ‘‘nationwide injunction,’’
+which is a universal form of equitable relief that ‘‘bars the defend-
+ant from acting against anyone—not just the plaintiffs in the
+case.’’5 There are many reasons that a court might find it nec-
+essary to issue an injunction that protects persons not before the
+court, depending upon the facts of the case. Sometimes, courts de-
+termine it is not feasible, as a practical matter, to tailor relief nar-
+rowly to reach only the plaintiff; in other cases, nothing less than
+a nationwide injunction will fully protect the rights of the parties
+to the case.6
+Many experts agree that Article III of the Constitution confers a
+singular ‘‘judicial power’’ to decide ‘‘cases in law and equity’’ to the
+courts, and that judicial power includes the power to issue injunc-
+tions that apply to nonparties, especially in cases where they are
+‘‘crafted in terms of providing complete relief to the plaintiff.’’7 For
+example, in a school desegregation case, the only way to alleviate
+the plaintiff’s injury is to require the defendant to allow all
+nonwhite students in the jurisdiction to attend the school.8 This re-
+lief would be a form of a ‘‘nationwide injunction’’ because it applies
+to not just the party in the case, but all similarly situated persons.
+An order requiring the defendant to admit only the plaintiff would
+1Amanda Frost, In Defense of Nationwide Injunctions, 93 NEW YORK UNIVERSITY LAW
+REVIEW 1065–1119 at 1070 (2018).
+2District Court Reform: Nationwide Injunctions, 137 Harv. L. Rev. 1701 (Apr. 2024) at 1703;
+HIAS, Inc. v. Trump, 985 F.3d 309, 326 (4th Cir. 2021) (quoting Roe v. Dep’t of Def., 947 F.3d
+207, 231 (4th Cir. 2020)).
+3District Court Reform: Nationwide Injunctions, 137 Harv. L. Rev. 1701 (Apr. 2024) at 1703.
+4District Court Reform: Nationwide Injunctions, 137 Harv. L. Rev. 1701 (Apr. 2024) at 1703.
+5Steve Vladeck, Justice Gorsuch and ‘‘Nationwide Injunctions,’’ ONE FIRST (Apr. 22, 2024),
+https://www.stevevladeck.com/p/77-justice-gorsuch-and-nationwide.
+6Joanna R. Lampe, Nationwide Injunctions: Recent Legal Developments, CONGRESSIONAL
+RESEARCH SERVICE (Dec. 2, 2021).
+7Amanda Frost, In Defense of Nationwide Injunctions, 93 NEW YORK UNIVERSITY LAW
+REVIEW 1065–1119 at 1082 (2018); U.S. Const. art. III, §§1 and 2; Mila Sahoni, Rule by Dis-
+trict Judge: The Challenges of Universal Injunctions, SENATE JUDICIARY COMMITTEE (Feb.
+25, 2020).
+8Amanda Frost, In Defense of Nationwide Injunctions, 93 NEW YORK UNIVERSITY LAW
+REVIEW 1065–1119 at 1082 (2018).
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+13
+not address the injury at issue. Yet if enacted, this legislation
+would demand the latter result, which would be ineffective to re-
+dress the injury; only nationwide relief in that context can provide
+proper and complete relief to the plaintiff.9
+Nationwide injunctions play an important role in protecting both
+the independence of our judiciary and our system of checks and
+balances. This universal form of injunctive relief is sometimes the
+only ‘‘means to provide plaintiffs with complete relief, or to prevent
+harm to thousands of individuals who cannot quickly bring their
+own cases before the courts,’’ making them a useful tool to provide
+better access to justice for all Americans.10 Nationwide injunctions
+can also provide continuity among varying jurisdictions, avoid re-
+petitive litigation on identical questions of law, and prevent piece-
+meal implementation of potentially harmful executive actions.11
+The ability to issue universal forms of injunctive relief, like na-
+tionwide injunctions, allows federal courts to play their essential
+role as a check on the political branches and nothing in the Con-
+stitution’s text bars federal courts from issuing a remedy that ex-
+tends beyond the parties to the case. It is my strong belief that
+stripping federal district courts of this equitable remedy that they
+have used for over a century would be not only disruptive but
+would also deprive the judiciary of an essential remedy to check
+the executive branch.12 Legislation addressing such a complex and
+fundamentally important subject should not be as absolute nor
+rushed, particularly when enactment is being sought under the
+mistaken belief that these judicial orders are the usurpation of the
+executive branch by overreaching federal judges, as the title of this
+bill suggests.
+The enactment of such drastic legislation, particularly now, when
+the current administration has taken an active and detrimental
+role in enacting laws and implementing policies with severe and
+damaging nationwide effects, would be unwise. This legislation is
+simply an attempt to strip the judiciary of a constitutionally essen-
+tial tool that it is effectively wielding against the Trump Adminis-
+tration.
+II. CONCERNS WITH H.R. 1526
+Since taking office, President Trump has sought to expand the
+powers of the executive branch. In response, federal courts have re-
+peatedly placed temporary holds on some of those actions. These
+preliminary injunctions help the courts avoid—or at least mini-
+mize—the harm done by potentially unconstitutional or unlawful
+acts, not just to the plaintiffs, but often to hundreds, thousands,
+and even millions of Americans similarly situated to the litigants.
+Injunctive relief is one of the ways courts perform their ‘‘check’’
+in the system of ‘‘checks and balances.’’ The cases against the
+9Amanda Frost, In Defense of Nationwide Injunctions, 93 NEW YORK UNIVERSITY LAW
+REVIEW 1065–1119 at 1082 (2018).
+10Amanda Frost, In Defense of Nationwide Injunctions, 93 NEW YORK UNIVERSITY LAW
+REVIEW 1065–1119 at 1065 (2018).
+11U.S. Const. art. III, §§1 and 2; Mila Sahoni, Rule by District Judge: The Challenges of Uni-
+versal Injunctions, SENATE JUDICIARY COMMITTEE (Feb. 25, 2020); Amanda Frost, In De-
+fense of Nationwide Injunctions, 93 NEW YORK UNIVERSITY LAW REVIEW 1065–1119 at
+1065 (2018).
+12Amanda Frost, In Defense of Nationwide Injunctions, 93 NEW YORK UNIVERSITY LAW
+REVIEW 1065–1119 at 1080 (2018); Mila Sahoni, Rule by District Judge: The Challenges of Uni-
+versal Injunctions, SENATE JUDICIARY COMMITTEE (Feb. 25, 2020).
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+14
+Trump Administration are instructive for how injunctive relief can
+be used to rein in an overreaching executive trying to unconsti-
+tutionally expand his presidential powers.
+H.R. 1526 would allow injunctions in district court only to the ex-
+tent that they apply to parties to the case. When an individual re-
+quests the court grant injunctive relief, the judge could order the
+administration to act, but only with respect to the movant—they
+could never expand the order to affect individuals in the same class
+or with the same injury as the movant.
+If this legislation were enacted, nationwide injunctions would
+thus be prohibited, and the federal courts would be powerless to ex-
+ercise this essential tool to protect the nonparties from the poten-
+tially illegal or unconstitutional Trump Administration polices, in
+effect removing a powerful check of the judicial branch against the
+executive.
+For all these reasons, I dissent, and I urge all Members to oppose
+this legislation.
+JAMIE RASKIN,
+Ranking Member.
+Æ
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6611 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–40
+NO ROGUE RULINGS ACT OF 2025
+MARCH25, 2025.—Committed to the Committee of the Whole House on the State
+of the Union and ordered to be printed
+Mr. JORDAN, from the Committee on the Judiciary,
+submitted the following
+R E P O R T
+together with
+DISSENTING VIEWS
+[To accompany H.R. 1526]
+The Committee on the Judiciary, to whom was referred the bill
+(H.R. 1526) to amend title 28, United States Code, to limit the au-
+thority of district courts to provide injunctive relief, and for other
+purposes, having considered the same, reports favorably thereon
+with an amendment and recommends that the bill as amended do
+pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for the Legislation ............................................................. 2
+Hearings ................................................................................................................... 7
+Committee Consideration ........................................................................................ 7
+Committee Votes ...................................................................................................... 7
+Committee Oversight Findings ............................................................................... 9
+New Budget Authority and Tax Expenditures ...................................................... 9
+Congressional Budget Office Cost Estimate .......................................................... 9
+Committee Estimate of Budgetary Effects ............................................................ 9
+Duplication of Federal Programs ............................................................................ 9
+Performance Goals and Objectives ......................................................................... 9
+Advisory on Earmarks ............................................................................................. 10
+Federal Mandates Statement ................................................................................. 10
+Advisory Committee Statement .............................................................................. 10
+Applicability to Legislative Branch ........................................................................ 10
+Section-by-Section Analysis .................................................................................... 10
+Changes in Existing Law Made by the Bill, as Reported ..................................... 10
+Dissenting Views ..................................................................................................... 11
+59–006
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+2
+The amendment is as follows:
+Strike all that follows after the enacting clause, and insert the
+following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘No Rogue Rulings Act of 2025’’ as the ‘‘NORRA of
+2025’’.
+SEC. 2. LIMITATION ON AUTHORITY OF UNITED STATES DISTRICT COURTS TO PROVIDE IN-
+JUNCTIVE RELIEF.
+(a) IN GENERAL.—Chapter 85 of title 28, United States Code, is amended by add-
+ing at the end the following:
+‘‘§1370. Limitation on authority to provide injunctive relief
+‘‘(a) Except as provided in subsection (b), notwithstanding any other provision of
+law, no United States district court shall issue any order providing for injunctive
+relief, except in the case of such an order that is applicable only to limit the actions
+of a party to the case before such district court with respect to the party seeking
+injunctive relief from such district court and non-parties represented by such a
+party acting in a representative capacity pursuant to the Federal Rules of Civil Pro-
+cedure.
+‘‘(b) If a case is brought by two or more States located in different circuits chal-
+lenging an action by the executive branch, that case shall be referred to a three-
+judge panel selected pursuant to section 2284, except that the selection of judges
+shall be random, and not by the chief judge of the circuit. The three-judge panel
+may issue an injunction that would otherwise be prohibited under subsection (a),
+and shall consider the interest of justice, the risk of irreparable harm to non-parties,
+and the preservation of the constitutional separation of powers in determining
+whether to issue such an order.
+‘‘(c) An appeal of an order granting or denying injunctive relief pursuant to sub-
+section (b) may lie to the circuit embracing the district or to the Supreme Court,
+at the preference of the party.’’.
+(b) TABLE OF SECTIONS.—The table of sections for such chapter is amended by
+adding at the end the following:
+‘‘1370. Limitation on authority to provide injunctive relief.’’.
+Purpose and Summary
+H.R. 1526, the No Rogue Rulings Act, or NORRA, introduced by
+Rep. Darrell Issa (R–CA), would prohibit United States district
+courts from issuing any orders providing for injunctive relief that
+are broader in scope than restricting the actions of a party before
+the court with respect to the party seeking injunctive relief. The
+bill would allow a district court to issue a nationwide injunction in
+a case in which two separate states from two separate judicial cir-
+cuits are parties—making clear the nationwide nature of the dis-
+pute. In such a case, the bill provides for the establishment of a
+panel of three randomly chosen judges to determine whether to
+issue a nationwide injunction. Such injunctions may be appealed
+directly to the Supreme Court.
+Background and Need for the Legislation
+Since President Donald Trump’s second term began in January
+2025, federal district courts have issued a series of nationwide in-
+junctions that have halted numerous executive orders, affecting a
+wide array of policy areas including immigration, federal spending,
+regulatory reforms, and social policy.1 These court orders, each of
+which purport to enjoin federal actions throughout the United
+1See Litigation Tracker: Legal Challenges to Trump Administration Actions, JUST SECURITY
+(updated Feb. 27, 2025), https://www.justsecurity.org/107087/tracker-litigation-legal-challenges-
+trump-administration/ [hereinafter ‘‘Litigation Tracker’’]; see also Alex Lemonides, Tracking the
+Lawsuits Against Trump’s Agenda, N.Y. TIMES(Feb. 28, 2025).
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+3
+States, have emerged from litigation challenging the Trump Ad-
+ministration’s agenda and role in setting Executive Branch policy,
+and raise substantial questions about the federal judiciary’s role in
+national policymaking.2 These injunctions, which are part of more
+than 100 lawsuits against President Trump’s approximately sev-
+enty-five executive orders issued as of March 24, 2025,3 extend well
+beyond the immediate litigants in their respective cases and ulti-
+mately affect national policy execution.4
+Litigation Challenging Immigration Executive Orders
+President Trump’s executive orders on immigration policies have
+been a primary target of lawsuits seeking nationwide injunctive re-
+lief.5 On February 5, 2025, U.S. District Judge Deborah Boardman
+of the District of Maryland issued a nationwide preliminary injunc-
+tion against Executive Order 14160, which sought to end birthright
+citizenship for children born to undocumented immigrants or those
+on temporary visas.6 In her order, Judge Boardman, in response to
+lawsuits from immigrant families and advocacy groups, stated that
+the terms of the executive order were in conflict with the 14th
+Amendment.7 Additionally, on February 6, 2025, U.S. District
+Judge John Coughenour in the Western District of Washington
+issued another nationwide injunction against the birthright citizen-
+ship order, which highlighted purported constitutional concerns
+with the executive order.8
+Moreover, on February 25, 2025, U.S. District Judge Jamal N.
+Whitehead, also of the Western District of Washington, issued a
+preliminary injunction that blocks the implementation of Executive
+Order 14163, which sought to suspend the admission of refugees
+into the country under the U.S. Refugee Admissions Program
+(USRAP).9 Judge Whitehead, who was appointed by President Joe
+Biden, stated that it appeared ‘‘likely that [President Trump] ex-
+ceeded [his] lawful authority by suspending [USRAP,]’’ which was
+established by Congress in 1980.10 Judge Whitehead further stated
+that President Trump’s executive orders was an ‘‘effective nullifica-
+tion of congressional will[.]’’11
+Litigation Challenging Executive Orders Regarding Federal Re-
+sources
+Recently, several individuals and left-wing groups have filed law-
+suits challenging the establishment and actions of the Department
+of Government Efficiency (DOGE), with the plaintiffs alleging vio-
+2Chapter Four District Court Reform: Nationwide Injunctions, 137 HARV. L. REV. 1701, 1707–
+13 (2024) [hereinafter ‘‘Nationwide Injunctions’’]; see generally JOANNA R. LAMPE, CONG. RE-
+SEARCHSERV., LSB10664, NATIONWIDEINJUNCTIONS: RECENTLEGALDEVELOPMENTS3–4 (2021)
+[hereinafter ‘‘Developments’’].
+32025 Donald J. Trump Executive Orders, FED. REG. (last accessed Feb. 28, 2025), https://
+www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2025; see Nigel
+Chiwaya, Tracking Trump’s executive orders, NBC NEWS (Feb. 5, 2025), https://
+www.nbcnews.com/data-graphics/tracking-trumps-executive-orders-rcna189571; Trump Adminis-
+tration Litigation Tracker, LAWFARE, https://www.lawfaremedia.org/projects-series/trumps-first-
+100-days/tracking-trump-administration-litigation (last accessed Mar. 24, 2025).
+4See Nationwide Injunctions, supra note 2, at 1712.
+5See Litigation Tracker, supra note 1.
+6Order, Casa, Inc., et al., v. Trump, et al., No. 8:25–CV–00201–DLB (Feb. 5, 2025).
+7Id.
+8Order, State of Washington, et al., v. Trump, et al., No. 2:25–CV–00127–JCC (Jan. 23, 2025).
+9Mattathias Schwartz, Judge Blocks Trump Executive Order to Suspend Refugee Program,
+N.Y. TIMES(Feb. 25, 2025); Executive Order 14163 (2025).
+10Schwartz, supra note 9.
+11Id.
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+4
+lations of the Federal Advisory Committee Act (FACA) and the Ad-
+ministrative Procedure Act (APA). These cases involve various or-
+ganizations and government entities contesting DOGE’s access to
+government records, its influence on federal agencies, and its effect
+on employees, with multiple motions for temporary restraining or-
+ders and injunctions under consideration.12
+On February 25, 2025, Judge Loren AliKhan of the U.S. District
+Court for the District of Columbia, blocked a January 27, 2025,
+memorandum from the Office of Management and Budget (OMB)
+freezing certain federal grants and loans.13 Intended to pause fed-
+eral disbursements while they were examined to ensure compliance
+with the Trump Administration’s priorities, the directive was con-
+tested by an array of nonprofits and businesses.14 Additionally, on
+February 21, 2025, Judge Adam B. Abelson of the District of Mary-
+land, who was appointed by President Biden, issued a nationwide
+injunction against parts of Executive Order 14151, establishing
+DOGE.15 In that case, groups of retirees and unions challenged the
+executive order’s agency restructuring plans, leading to a broad
+suspension of its implementation.16
+On January 28, 2025, a coalition of 22 states, along with the Dis-
+trict of Columbia, brought suit against President Trump and,
+among other agencies, OMB and the Treasury Department, alleg-
+ing that President Trump’s executive order directing all executive
+agencies to ‘‘pause all activities related to obligation or disburse-
+ment of all Federal financial assistance, and other relevant agency
+activities that [include] financial assistance for foreign aid, non-
+governmental organizations, DEI, woke gender ideology, and the
+green new deal’’ is unconstitutional and violates the APA.17 On
+January 31, 2025, Judge John J. McConnell, Jr., of the District of
+Rhode Island, who was appointed by President Obama, issued a
+temporary restraining order barring the enforcement of the OMB
+directive.18 On February 10, 2025, Judge McConnell granted Plain-
+tiffs’ motion to enforce the restraining order and stated that the
+White House failed to comply with the court’s order.19 Further, on
+February 11, 2025, the U.S. Court of Appeals for the First Circuit
+denied defendants’ request for an administrative stay pending reso-
+lution of their motion for a stay pending appeal, but did not rule
+on whether to issue a stay pending appeal,20 and on February 12,
+2025, Judge McConnell denied defendants’ motion to stay the tem-
+porary restraining order and enforcement order pending appeal.21
+12See Litigation Tracker, supra note 1.
+13Memorandum Opinion, Nat’l Council of Nonprofits, et al., v. Office of Mgmt. & Budget, et
+al., No. 1:25–CV–00239–LLA (Feb. 25, 2025).
+14Id.
+15Memorandum Opinion, Nat’l Ass’n of Diversity Officers in Higher Ed., Inc., et al. v. Trump,
+et al., No. 1:25–CV–00333–ABA (Feb. 21, 2025).
+16See id.
+17Complaint, State of New York, et al., v. Trump, et al., No.1:25–CV–00039–JJM–PAS (D.R.I.
+Jan. 28, 2025).
+18Temporary Restraining Order, State of New York, et al., v. Trump, et al., No.1:25–CV–
+00039–JJM–PAS (D.R.I. Jan. 31, 2025).
+19Order, State of New York, et al., v. Trump, et al., No.1:25–CV–00039–JJM–PAS (D.R.I. Feb.
+10, 2025).
+20See Judgment, State of New York, et al., v. Trump, et al., No. 25–1128 (1st Cir. Feb. 13,
+2025).
+21Order, State of New York, et al., v. Trump, et al., No.1:25–CV–00039–JJM–PAS (D.R.I. Feb.
+12, 2025). On February 13, 2025, defendants moved to voluntarily dismiss their appeal chal-
+lenging the temporary restraining order and enforcement order, which the First Circuit so-or-
+dered the same day. Judgment, State of New York, et al., v. Trump, et al., No. 25–1128 (1st
+Cir. Feb. 13, 2025).
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+5
+Litigation Challenging Executive Orders Regarding Social Policy
+Initiatives
+President Trump’s regulatory and social policy initiatives have
+encountered similar obstruction. For example, on February 14,
+2025, Judge Brendan Hurson of the District of Maryland, who was
+appointed by President Biden, issued a nationwide preliminary in-
+junction blocking President Trump’s executive order aimed at pro-
+tecting children from chemical and surgical mutilation.22 According
+to the Heritage Foundation, Judge Hurson’s order ‘‘ignore[d] a cor-
+rect application of guiding law that gives the president the author-
+ity to halt further governmental federal funding’’ of such treat-
+ments.23 Additionally, on February 14, 2025, following litigation
+from civil rights organizations questioning its alignment with fed-
+eral law, Judge Lauren King of the Western District of Washington
+issued another nationwide preliminary injunction halting the same
+executive order.24
+Litigation Challenging Removal of Federal Employees
+President Trump’s efforts to reduce federal employee headcounts
+have received similar attention from some activist judges. For ex-
+ample, on March 13, 2025, Judge William Alsup of the Northern
+District of California, who was appointed by President Clinton,
+issued a nationwide preliminary injunction through an oral order
+from the bench requiring President Trump to reinstate all proba-
+tionary employees who were fired from the Departments of Vet-
+erans Affairs, Agriculture, Defense, Energy, Interior and Treas-
+ury.25 Judge Alsup indicated he may extend the order to cover
+other agencies at a later time.26 Judge Alsup stated that ‘‘[t]he
+court finds that Office of Personnel Management did direct all
+agencies to terminate probationary employees with the exception of
+mission critical employees,’’ and called the President’s efforts a
+‘‘sham.’’27
+The Necessity for NORRA and Legislative Reform
+NORRA will amend Chapter 85 of Title 28, United States Code,
+to restrict the ability of federal district courts to provide injunctive
+relief to only the parties directly involved in a case. This legislation
+responds to concerns that nationwide injunctions disrupt the con-
+stitutional separation of powers, impede lawful administrative ac-
+tivities, and unduly impede the authority of elected officials to de-
+termine questions of policy,28 as demonstrated by recent judicial
+actions against President Trump’s executive orders.29
+The scope of nationwide injunctions highlights the necessity for
+reform. Nationwide injunctions frequently extend far beyond the
+immediate parties in a lawsuit, affecting entire populations and ju-
+22Memorandum Opinion, PFLAG, Inc., et al., v. Trump, et al., No. 8:25–CV–00337–BAH (Feb.
+14, 2025).
+23Sarah Parshall Perry, Follow the Law, HERITAGE FOUND. (Feb. 27, 2025), https://
+www.heritage.org/gender/commentary/follow-the-law.
+24Order, State of Washington, et al., v. Trump, et al., No. 2:25–CV–00244–LK (Feb. 14, 2025).
+25Devan Cole, Judge orders Trump administration to reinstate thousands of fired employees
+at VA, Defense Department and other agencies, CNN (Mar. 13, 2025).
+26Id.
+27Id.
+28See JOANNA R. LAMPE, CONG. RESEARCH SERV., R46902, NATIONWIDE INJUNCTIONS: LAW,
+HISTORY, ANDPROPOSALSFORREFORM10–15 (2021) [hereinafter ‘‘Proposals’’].
+29See Litigation Tracker, supra note 1.
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+6
+risdictions not involved in the original dispute.30 This expansive
+reach often results from strategic filings in districts chosen for
+their likelihood to grant favorable outcomes, a practice of forum
+and judge shopping that concentrates significant policymaking
+power in individual, ideologically reliable judges.31 Such a trend
+shifts the policymaking power away from the legislative and execu-
+tive branches, raising fundamental questions about the judiciary’s
+role in our constitutional system.32 This trend is also in conflict
+with former Supreme Court Justice Lewis Powell’s admonition that
+judges should only ‘‘decide the case before the court.’’33
+Moreover, the practice of issuing nationwide injunctions also cre-
+ates substantial challenges for effective governance.34 When mul-
+tiple district courts issue injunctions on the same issue, the poten-
+tial for conflicting rulings fosters legal uncertainty, complicating
+the uniform application of federal policy.35 Furthermore, the imme-
+diate nationwide enforcement of these orders delays resolution by
+higher courts, stalling the implementation of executive and legisla-
+tive initiatives and leaving critical policies in limbo.36 NORRA
+seeks to restore district courts to their traditional function of re-
+solving specific disputes between parties appearing before them,
+ensuring that broader policy determinations remain the responsi-
+bility of the democratically elected branches of government, i.e.,
+Congress and the President.
+Opponents may argue that restricting nationwide injunctions
+limits the judiciary’s ability to serve as a check on executive actions
+perceived as overreaching or harmful.37 However, NORRA would
+serve to enhance democratic accountability by ensuring that signifi-
+cant policy decisions align with the authority of the legislative and
+executive branches, which are directly accountable to the elec-
+torate, rather than resting on the unilateral rulings of individual
+judges. With the current administration facing an unprecedented
+volume of litigation challenging its executive actions, NORRA pre-
+sents a critical opportunity to reinforce constitutional principles,
+promote consistency within the judicial system, and support the ef-
+fective execution of federal governance.
+Further, as modified by Rep. Derek Schmidt’s amendment to
+NORRA, nationwide injunctions would still be available where the
+facts of the case make clear the nationwide nature of the dispute.
+To establish that a matter in fact has nationwide implications, the
+amendment focuses on those cases where at least two separate
+states in different federal judicial circuits are parties. In such situ-
+ations, a panel of three randomly chosen judges would be estab-
+lished to determine whether to issue a nationwide injunction. The
+historical basis for requiring three judge panels is well established
+in federal law under 28 U.S.C. 2284, which explicitly provides that
+‘‘[a] district court of three judges shall be convened when otherwise
+required by Act of Congress.’’ Under 28 U.S.C. §2284, when a dis-
+trict court judge receives a request for a three-judge panel, the
+30Proposals, supra note 28, at 12.
+31Developments, supra note 2, at 4.
+32See id.
+33LEWIS F. POWELL, JR. STARE DECISIS AND JUDICIAL RESTRAINT, 47 WASH. & LEE L. REV.
+281, 288 (1990).
+34Nationwide Injunctions, supra note 2, at 1724.
+35See id.
+36Developments, supra note 2, at 4–5.
+37Proposals, supra note 28, at 13–14.
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+7
+chief judge of the relevant circuit is tasked with selecting the two
+additional judges who will join the district court judge who received
+the request. To prevent gamesmanship and forum shopping, all
+three judges are selected randomly under the procedure set forth
+in Rep. Schmidt’s amendment. Further, any injunctions issued by
+the panel may be appealed directly to the Supreme Court.
+Hearings
+For the purposes of clause 3(c)(6)(A) of House rule XIII, the fol-
+lowing hearings were used to develop H.R. 1526: ‘‘Justice Delayed:
+The Crisis of Undermanned Federal Courts’’ a hearing held on Feb-
+ruary 25, 2025, before the Subcommittee on Courts, Intellectual
+Property, Artificial Intelligence, and the Internet of the Committee
+on the Judiciary. The Subcommittee heard testimony from the fol-
+lowing witnesses:
+• The Honorable Timothy Tymkovich, Circuit Judge, United
+States Court of Appeals for the Tenth Circuit.
+The hearing addressed, among other topics, injunctive relief in
+federal courts and the lack of clear standards for the issuance of
+nationwide injunctions.
+Committee Consideration
+On March 5, 2025, the Committee met in open session and or-
+dered the bill, H.R. 1526, favorably reported with an amendment
+in the nature of a substitute, by a roll call vote of 14–9, a quorum
+being present.
+Committee Votes
+In compliance with clause 3(b) of House rule XIII, the following
+roll call votes occurred during the Committee’s consideration of
+H.R. 1526:
+• 1. Vote on favorably reporting H.R. 1526, as amended—
+passed 14 ayes to 9 nays.
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+8
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+100.04RH
+ereh
+21
+oilof
+tesffo
+tresnI
+
+9
+Committee Oversight Findings
+In compliance with clause 3(c)(1) of House rule XIII, the Com-
+mittee advises that the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+New Budget Authority and Tax Expenditures
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to the require-
+ments of clause 3(c)(3) of rule XIII of the Rules of the House of
+Representatives and section 402 of the Congressional Budget Act of
+1974, the Committee has requested but not received a cost estimate
+for this bill from the Director of the Congressional Budget Office.
+The Committee has requested but not received from the Director
+of the Congressional Budget Office a statement as to whether this
+bill contains any new budget authority, spending authority, credit
+authority, or an increase or decrease in revenues or tax expendi-
+tures. The Chairman of the Committee shall cause such estimate
+and statement to be printed in the Congressional Record upon its
+receipt by the Committee.
+Congressional Budget Office Cost Estimate
+With respect to the requirement of clause 3(c)(3) of rule XIII of
+the Rules of the House of Representatives, a cost estimate provided
+by the Congressional Budget Office pursuant to section 402 of the
+Congressional Budget Act of 1974 was not made available to the
+Committee in time for the filing of this report. The Chairman of
+the Committee shall cause such estimate to be printed in the Con-
+gressional Record upon its receipt by the Committee.
+Committee Estimate of Budgetary Effects
+With respect to the requirements of clause 3(d)(1) of rule XIII of
+the Rules of the House of Representatives, the Committee adopts
+as its own the cost estimate prepared by the Director of the Con-
+gressional Budget Office pursuant to section 402 of the Congres-
+sional Budget Act of 1974.
+Duplication of Federal Programs
+Pursuant to clause 3(c)(5) of House rule XIII, no provision of H.R.
+1526 establishes or reauthorizes a program of the federal govern-
+ment known to be duplicative of another federal program.
+Performance Goals and Objectives
+The Committee states that pursuant to clause 3(c)(4) of House
+rule XIII, H.R. 1526 would limit when United States district courts
+may issue an order providing for injunctive relief that is broader
+in scope than restricting the actions of a party before the court
+with respect to the party seeking injunctive relief.
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+10
+Advisory on Earmarks
+In accordance with clause 9 of House rule XXI, H.R. 1526 does
+not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits as defined in clauses 9(d), 9(e), or 9(f) of
+House Rule XXI.
+Federal Mandates Statement
+An estimate of federal mandates prepared by the Director of the
+Congressional Budget office pursuant to section 423 of the Un-
+funded Mandates Reform Act was not made available to the Com-
+mittee in time for the filing of this report. The Chairman of the
+Committee shall cause such estimate to be printed in the Congres-
+sional Record upon its receipt by the Committee.
+Advisory Committee Statement
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+Applicability to Legislative Branch
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act (Pub. L. 104–1).
+Section-by-Section Analysis
+Section 1. Short Title. This Act may be cited as the ‘‘No Rogue
+Rulings Act of 2025.’’
+Section 2. Limitation on Authority of United States District
+Courts to Provide Injunctive Relief. This section amends Chapter 85
+of title 28 of the United States Code to limit the ability of a United
+States district court to issue an order that provides for injunctive
+relief, except for such orders that are applicable only to limit the
+actions of a party to the case with respect to the party who sought
+the injunctive relief.
+This section also would permit a district court to issue a nation-
+wide injunction where at least two state attorneys general from dif-
+ferent judicial districts are plaintiffs and provides that such a case
+must be heard by a three-judge panel. In such a case, the court
+must consider certain enumerated factors, and the parties may ap-
+peal the granting or denial of the nationwide injunction to the Su-
+preme Court.
+Changes in Existing Law Made by the Bill, as Reported
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+TITLE 28, UNITED STATES CODE
+* * * * * * *
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+11
+PART IV—JURISDICTION AND VENUE
+* * * * * * *
+CHAPTER 85—DISTRICT COURTS; JURISDICTION
+Sec.
+1330. Actions against foreign states.
+* * * * * * *
+1370. Limitation on authority to provide injunctive relief.
+* * * * * * *
+§1370. Limitation on authority to provide injunctive relief
+(a) Except as provided in subsection (b), notwithstanding any
+other provision of law, no United States district court shall issue
+any order providing for injunctive relief, except in the case of such
+an order that is applicable only to limit the actions of a party to
+the case before such district court with respect to the party seeking
+injunctive relief from such district court and non-parties represented
+by such a party acting in a representative capacity pursuant to the
+Federal Rules of Civil Procedure.
+(b) If a case is brought by two or more States located in different
+circuits challenging an action by the executive branch, that case
+shall be referred to a three-judge panel selected pursuant to section
+2284, except that the selection of judges shall be random, and not
+by the chief judge of the circuit. The three-judge panel may issue an
+injunction that would otherwise be prohibited under subsection (a),
+and shall consider the interest of justice, the risk of irreparable
+harm to non-parties, and the preservation of the constitutional sepa-
+ration of powers in determining whether to issue such an order.
+(c) An appeal of an order granting or denying injunctive relief
+pursuant to subsection (b) may lie to the circuit embracing the dis-
+trict or to the Supreme Court, at the preference of the party.
+* * * * * * *
+Dissenting Views
+H.R. 1526, the ‘‘No Rogue Rulings Act,’’ would prohibit any fed-
+eral district court from issuing injunctive relief that extends be-
+yond the parties to a case. This bill would prevent federal district
+courts from imposing universal injunctive relief, or ‘‘nationwide in-
+junctions,’’ even when that court is tasked with ruling on the valid-
+ity of certain federal policies with nationwide effects.
+District courts across the country have universally enjoined
+President Trump’s most damaging executive actions, from his at-
+tempt to unilaterally end birthright citizenship and freezing con-
+gressionally appropriated funding to the mass firing of civil serv-
+ants. Each of these cases have the potential to cause very real and
+serious harm to Americans across the country. They demonstrate
+how nationwide injunctions play an essential role as a check on the
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+12
+political branches and can serve an important purpose that, when
+weighed properly by a court, outweighs their costs.1
+This legislation would ban the use of nationwide injunctions in
+district courts across the country. Without this form of universal
+injunctive relief, federal district courts would be powerless to pro-
+tect thousands, sometimes millions, of Americans from the illegal
+and unconstitutional polices of the Trump Administration. For
+these reasons and others discussed below, I strongly oppose H.R.
+1526 and respectfully dissent from the Committee’s views on this
+legislation.
+I. BACKGROUND AND DESCRIPTION
+An injunction is a form of equitable relief that allows a court to
+‘‘‘control a party’s conduct’—either by prohibiting or requiring ac-
+tion by a party.’’2 Injunctions are intended to provide strong, coer-
+cive relief and as such, ‘‘courts aim to issue injunctions that are ‘no
+more burdensome to the defendant than necessary to provide com-
+plete relief’ to the parties before the court.’’3 Depending on what
+stage the parties are at in the litigation, an injunction can take the
+form of a temporary restraining order (TRO), a preliminary injunc-
+tion, or a permanent injunction.4
+Injunctions can also take the form of a ‘‘nationwide injunction,’’
+which is a universal form of equitable relief that ‘‘bars the defend-
+ant from acting against anyone—not just the plaintiffs in the
+case.’’5 There are many reasons that a court might find it nec-
+essary to issue an injunction that protects persons not before the
+court, depending upon the facts of the case. Sometimes, courts de-
+termine it is not feasible, as a practical matter, to tailor relief nar-
+rowly to reach only the plaintiff; in other cases, nothing less than
+a nationwide injunction will fully protect the rights of the parties
+to the case.6
+Many experts agree that Article III of the Constitution confers a
+singular ‘‘judicial power’’ to decide ‘‘cases in law and equity’’ to the
+courts, and that judicial power includes the power to issue injunc-
+tions that apply to nonparties, especially in cases where they are
+‘‘crafted in terms of providing complete relief to the plaintiff.’’7 For
+example, in a school desegregation case, the only way to alleviate
+the plaintiff’s injury is to require the defendant to allow all
+nonwhite students in the jurisdiction to attend the school.8 This re-
+lief would be a form of a ‘‘nationwide injunction’’ because it applies
+to not just the party in the case, but all similarly situated persons.
+An order requiring the defendant to admit only the plaintiff would
+1Amanda Frost, In Defense of Nationwide Injunctions, 93 NEW YORK UNIVERSITY LAW
+REVIEW 1065–1119 at 1070 (2018).
+2District Court Reform: Nationwide Injunctions, 137 Harv. L. Rev. 1701 (Apr. 2024) at 1703;
+HIAS, Inc. v. Trump, 985 F.3d 309, 326 (4th Cir. 2021) (quoting Roe v. Dep’t of Def., 947 F.3d
+207, 231 (4th Cir. 2020)).
+3District Court Reform: Nationwide Injunctions, 137 Harv. L. Rev. 1701 (Apr. 2024) at 1703.
+4District Court Reform: Nationwide Injunctions, 137 Harv. L. Rev. 1701 (Apr. 2024) at 1703.
+5Steve Vladeck, Justice Gorsuch and ‘‘Nationwide Injunctions,’’ ONE FIRST (Apr. 22, 2024),
+https://www.stevevladeck.com/p/77-justice-gorsuch-and-nationwide.
+6Joanna R. Lampe, Nationwide Injunctions: Recent Legal Developments, CONGRESSIONAL
+RESEARCH SERVICE (Dec. 2, 2021).
+7Amanda Frost, In Defense of Nationwide Injunctions, 93 NEW YORK UNIVERSITY LAW
+REVIEW 1065–1119 at 1082 (2018); U.S. Const. art. III, §§1 and 2; Mila Sahoni, Rule by Dis-
+trict Judge: The Challenges of Universal Injunctions, SENATE JUDICIARY COMMITTEE (Feb.
+25, 2020).
+8Amanda Frost, In Defense of Nationwide Injunctions, 93 NEW YORK UNIVERSITY LAW
+REVIEW 1065–1119 at 1082 (2018).
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+13
+not address the injury at issue. Yet if enacted, this legislation
+would demand the latter result, which would be ineffective to re-
+dress the injury; only nationwide relief in that context can provide
+proper and complete relief to the plaintiff.9
+Nationwide injunctions play an important role in protecting both
+the independence of our judiciary and our system of checks and
+balances. This universal form of injunctive relief is sometimes the
+only ‘‘means to provide plaintiffs with complete relief, or to prevent
+harm to thousands of individuals who cannot quickly bring their
+own cases before the courts,’’ making them a useful tool to provide
+better access to justice for all Americans.10 Nationwide injunctions
+can also provide continuity among varying jurisdictions, avoid re-
+petitive litigation on identical questions of law, and prevent piece-
+meal implementation of potentially harmful executive actions.11
+The ability to issue universal forms of injunctive relief, like na-
+tionwide injunctions, allows federal courts to play their essential
+role as a check on the political branches and nothing in the Con-
+stitution’s text bars federal courts from issuing a remedy that ex-
+tends beyond the parties to the case. It is my strong belief that
+stripping federal district courts of this equitable remedy that they
+have used for over a century would be not only disruptive but
+would also deprive the judiciary of an essential remedy to check
+the executive branch.12 Legislation addressing such a complex and
+fundamentally important subject should not be as absolute nor
+rushed, particularly when enactment is being sought under the
+mistaken belief that these judicial orders are the usurpation of the
+executive branch by overreaching federal judges, as the title of this
+bill suggests.
+The enactment of such drastic legislation, particularly now, when
+the current administration has taken an active and detrimental
+role in enacting laws and implementing policies with severe and
+damaging nationwide effects, would be unwise. This legislation is
+simply an attempt to strip the judiciary of a constitutionally essen-
+tial tool that it is effectively wielding against the Trump Adminis-
+tration.
+II. CONCERNS WITH H.R. 1526
+Since taking office, President Trump has sought to expand the
+powers of the executive branch. In response, federal courts have re-
+peatedly placed temporary holds on some of those actions. These
+preliminary injunctions help the courts avoid—or at least mini-
+mize—the harm done by potentially unconstitutional or unlawful
+acts, not just to the plaintiffs, but often to hundreds, thousands,
+and even millions of Americans similarly situated to the litigants.
+Injunctive relief is one of the ways courts perform their ‘‘check’’
+in the system of ‘‘checks and balances.’’ The cases against the
+9Amanda Frost, In Defense of Nationwide Injunctions, 93 NEW YORK UNIVERSITY LAW
+REVIEW 1065–1119 at 1082 (2018).
+10Amanda Frost, In Defense of Nationwide Injunctions, 93 NEW YORK UNIVERSITY LAW
+REVIEW 1065–1119 at 1065 (2018).
+11U.S. Const. art. III, §§1 and 2; Mila Sahoni, Rule by District Judge: The Challenges of Uni-
+versal Injunctions, SENATE JUDICIARY COMMITTEE (Feb. 25, 2020); Amanda Frost, In De-
+fense of Nationwide Injunctions, 93 NEW YORK UNIVERSITY LAW REVIEW 1065–1119 at
+1065 (2018).
+12Amanda Frost, In Defense of Nationwide Injunctions, 93 NEW YORK UNIVERSITY LAW
+REVIEW 1065–1119 at 1080 (2018); Mila Sahoni, Rule by District Judge: The Challenges of Uni-
+versal Injunctions, SENATE JUDICIARY COMMITTEE (Feb. 25, 2020).
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD
+
+14
+Trump Administration are instructive for how injunctive relief can
+be used to rein in an overreaching executive trying to unconsti-
+tutionally expand his presidential powers.
+H.R. 1526 would allow injunctions in district court only to the ex-
+tent that they apply to parties to the case. When an individual re-
+quests the court grant injunctive relief, the judge could order the
+administration to act, but only with respect to the movant—they
+could never expand the order to affect individuals in the same class
+or with the same injury as the movant.
+If this legislation were enacted, nationwide injunctions would
+thus be prohibited, and the federal courts would be powerless to ex-
+ercise this essential tool to protect the nonparties from the poten-
+tially illegal or unconstitutional Trump Administration polices, in
+effect removing a powerful check of the judicial branch against the
+executive.
+For all these reasons, I dissent, and I urge all Members to oppose
+this legislation.
+JAMIE RASKIN,
+Ranking Member.
+Æ
+VerDate Sep 11 2014 07:50 Mar 26, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6611 E:\HR\OC\HR040.XXX HR040
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwMD

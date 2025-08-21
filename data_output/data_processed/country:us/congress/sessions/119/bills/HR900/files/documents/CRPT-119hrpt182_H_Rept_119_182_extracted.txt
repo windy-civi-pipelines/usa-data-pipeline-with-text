@@ -1,0 +1,402 @@
+Title: JULY2, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JULY2, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 9
+Source: documents - H. Rept. 119-182
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–182
+SINKHOLE MAPPING ACT OF 2025
+the Union and ordered to be printed
+Mr. WESTERMAN, from the Committee on Natural Resources,
+submitted the following
+R E P O R T
+[To accompany H.R. 900]
+The Committee on Natural Resources, to whom was referred the
+bill (H.R. 900) to direct the Director of the United States Geological
+Survey to establish a program to map zones that are at greater
+risk of sinkhole formation, and for other purposes, having consid-
+ered the same, reports favorably thereon with an amendment and
+recommends that the bill as amended do pass.
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 2:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Sinkhole Mapping Act of 2025’’.
+SEC. 2. SINKHOLE HAZARD IDENTIFICATION.
+(a) INGENERAL.—Subject to the availability of appropriations made in advance for
+such purpose, the Director of the United States Geological Survey shall establish a
+program to—
+(1) study the short-term and long-term mechanisms that cause sinkholes, in-
+cluding extreme storm events, prolonged droughts causing shifts in water man-
+agement practices, aquifer depletion, and other major changes in water use; and
+(2) develop maps that depict zones that are at greater risk of sinkhole forma-
+tion.
+(b) USEOFCERTAINDATA.—In developing maps under subsection (a)(2), the Direc-
+tor of the United States Geological Survey shall utilize 3D elevation data (as that
+term is defined in section 2 of the National Landslide Preparedness Act (43 U.S.C.
+3101)) collected pursuant to section 5 of that Act (43 U.S.C. 3104).
+(c) REVIEWOFMAPS.—Once during each 5-year period, or more often as the Direc-
+tor of the United States Geological Survey determines is necessary, the Director
+shall assess the need to revise and update the maps developed under this section.
+(d) WEBSITE.—The Director of the United States Geological Survey shall establish
+and maintain a public website that displays the maps developed under this section
+and other relevant information critical for use by community planners and emer-
+gency managers.
+59–006
+VerDate Sep 11 2014 07:41 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6621 E:\HR\OC\HR182.XXX HR182
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+2
+PURPOSE OF THE LEGISLATION
+The purpose of H.R. 900 is to direct the Director of the United
+States Geological Survey to establish a program to map zones that
+are at greater risk of sinkhole formation, and for other purposes.
+BACKGROUND AND NEED FOR LEGISLATION
+H.R. 900 directs the United States Geological Survey (USGS) to
+examine the short- and long-term causes of sinkholes and map
+areas at greater risk of sinkhole formation. Sinkholes are a dan-
+gerous natural hazard, created when a ground depression lacks ex-
+ternal surface drainage and the rock below the subsurface is dis-
+solved by groundwater.1 While rock in the subsurface gradually
+dissolves creating an underground cavern, the surface can stay in-
+tact for a time, until the underground cavern gets to be too large
+and cannot support the surface leading to a collapse.2 Over the
+past 15 years, damage from sinkholes cost an average of $300 mil-
+lion annually in the United States.3
+H.R. 900 directs USGS to establish a program to study the
+causes of sinkholes, including storms and droughts. The develop-
+ment of such program would be subject to the availability of appro-
+priations. The bill also requires USGS to develop, and make pub-
+licly available, maps of higher-risk areas and revise them as need-
+ed every five years. These provisions could reduce the risk to the
+public and help land-use planners make development decisions.
+H.R. 900 has bipartisan cosponsors, including two Republicans:
+Reps. Gus Bilirakis (R–FL) and Brian Fitzpatrick (R–PA). Previous
+versions of this bill passed the Committee on Natural Resources by
+unanimous consent in the 116th, 117th, and 118th Congresses.
+COMMITTEE ACTION
+H.R. 900 was introduced on January 31, 2025, by Representative
+Darren Soto (D–FL). The bill was referred to the Committee on
+Natural Resources. On April 9, 2025, the Committee on Natural
+Resources met to consider the bill. Representative Darren Soto (D–
+FL) offered an Amendment in the Nature of a Substitute des-
+ignated Soto_012 ANS. The Amendment in the Nature of a Sub-
+stitute was adopted by unanimous consent. The bill, as amended,
+was then ordered favorably reported to the House of Representa-
+tives by unanimous consent.
+HEARINGS
+For the purposes of clause 3(c)(6) of House rule XIII, the fol-
+lowing hearing was used to develop or consider this measure: hear-
+ing in the 118th Congress by the Subcommittee on Energy and
+Mineral Resources held on October 25, 2023.
+1U.S. Geological Survey, Geology, What is a Sinkhole, https://www.usgs.gov/faqs/what-a-
+sinkhole.
+2Id.
+3U.S. Geological Survey, Geology, Frequently Asked Questions, https://www.usgs.gov/faqs/
+how-much-does-sinkhole-damage-cost-each-year-united-states.
+VerDate Sep 11 2014 07:41 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR182.XXX HR182
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+3
+
+Section 3:
+SECTION-BY-SECTION ANALYSIS
+
+Section 4:
+Section 1. Short title
+
+Section 5:
+Section 1 designates the short title of this bill as the ‘‘Sinkhole
+Mapping Act of 2025’’.
+
+Section 6:
+Section 2. Sinkhole hazard identification
+
+Section 7:
+Section 2 requires the Director of the USGS to establish a pro-
+gram to study short- and long-term causes of sinkholes, such as
+heavy rainfall and prolonged droughts. The USGS must also de-
+velop maps that analyze zones that are at risk of sinkhole forma-
+tion. When developing these maps, the USGS will use Light Detec-
+tion and Ranging (LiDAR) data acquired through the 3D Elevation
+Program, and these maps must be updated at least every 5 years,
+or more frequently if the Director determines it is necessary, and
+must be made publicly available. No appropriations are authorized
+for this program in this bill.
+COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Regarding clause 2(b)(1) of rule X and clause 3(c)(1) of rule XIII
+of the Rules of the House of Representatives, the Committee on
+Natural Resources’ oversight findings and recommendations are re-
+flected in the body of this report.
+COMPLIANCE WITH HOUSE RULE XIII AND
+CONGRESSIONAL BUDGET ACT
+
+Section 8:
+1. Cost of Legislation and the Congressional Budget Act. Pursu-
+ant to clause 3(c)(2) of House rule XIII and section 308(a) of the
+Congressional Budget Act of 1974, and pursuant to clause 3(c)(3)
+of House rule XIII and section 402 of the Congressional Budget Act
+of 1974, the Committee has requested but not received from the Di-
+rector of the Congressional Budget Office a budgetary analysis and
+a cost estimate of this bill.
+
+Section 9:
+2. General Performance Goals and Objectives. As required by
+clause 3(c)(4) of rule XIII, the general performance goal or objective
+of this bill is to direct the Director of the United States Geological
+Survey to establish a program to map zones that are at greater
+risk of sinkhole formation, and for other purposes.
+EARMARK STATEMENT
+This bill does not contain any Congressional earmarks, limited
+tax benefits, or limited tariff benefits as defined under clause 9(e),
+9(f), and 9(g) of rule XXI of the Rules of the House of Representa-
+tives.
+UNFUNDED MANDATES REFORM ACT STATEMENT
+An estimate of federal mandates prepared by the Director of the
+Congressional Budget Office pursuant to section 423 of the Un-
+funded Mandates Reform Act was not made available to the Com-
+mittee in time for the filing of this report. The Chair of the Com-
+mittee shall cause such estimate to be printed in the Congressional
+Record upon its receipt by the Committee, if such estimate is not
+publicly available on the Congressional Budget Office website.
+VerDate Sep 11 2014 07:41 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR182.XXX HR182
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+4
+EXISTING PROGRAMS
+Directed Rule Making. This bill does not contain any directed
+rule makings.
+Duplication of Existing Programs. This bill does not establish or
+reauthorize a program of the federal government known to be du-
+plicative of another program. Such program was not included in
+any report from the Government Accountability Office to Congress
+pursuant to section 21 of Public Law 111–139 or identified in the
+most recent Catalog of Federal Domestic Assistance published pur-
+suant to the Federal Program Information Act (Public Law 95–220,
+as amended by Public Law 98–169) as relating to other programs.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+PREEMPTION OF STATE, LOCAL OR TRIBAL LAW
+Any preemptive effect of this bill over state, local, or tribal law
+is intended to be consistent with the bill’s purposes and text and
+the Supremacy Clause of Article VI of the U.S. Constitution.
+CHANGES IN EXISTING LAW
+As ordered reported by the Committee on Natural Resources,
+H.R. 900 would make no changes in existing law.
+Æ
+VerDate Sep 11 2014 07:41 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6611 E:\HR\OC\HR182.XXX HR182
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–182
+SINKHOLE MAPPING ACT OF 2025
+JULY2, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. WESTERMAN, from the Committee on Natural Resources,
+submitted the following
+R E P O R T
+[To accompany H.R. 900]
+The Committee on Natural Resources, to whom was referred the
+bill (H.R. 900) to direct the Director of the United States Geological
+Survey to establish a program to map zones that are at greater
+risk of sinkhole formation, and for other purposes, having consid-
+ered the same, reports favorably thereon with an amendment and
+recommends that the bill as amended do pass.
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Sinkhole Mapping Act of 2025’’.
+SEC. 2. SINKHOLE HAZARD IDENTIFICATION.
+(a) INGENERAL.—Subject to the availability of appropriations made in advance for
+such purpose, the Director of the United States Geological Survey shall establish a
+program to—
+(1) study the short-term and long-term mechanisms that cause sinkholes, in-
+cluding extreme storm events, prolonged droughts causing shifts in water man-
+agement practices, aquifer depletion, and other major changes in water use; and
+(2) develop maps that depict zones that are at greater risk of sinkhole forma-
+tion.
+(b) USEOFCERTAINDATA.—In developing maps under subsection (a)(2), the Direc-
+tor of the United States Geological Survey shall utilize 3D elevation data (as that
+term is defined in section 2 of the National Landslide Preparedness Act (43 U.S.C.
+3101)) collected pursuant to section 5 of that Act (43 U.S.C. 3104).
+(c) REVIEWOFMAPS.—Once during each 5-year period, or more often as the Direc-
+tor of the United States Geological Survey determines is necessary, the Director
+shall assess the need to revise and update the maps developed under this section.
+(d) WEBSITE.—The Director of the United States Geological Survey shall establish
+and maintain a public website that displays the maps developed under this section
+and other relevant information critical for use by community planners and emer-
+gency managers.
+59–006
+VerDate Sep 11 2014 07:41 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6621 E:\HR\OC\HR182.XXX HR182
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+2
+PURPOSE OF THE LEGISLATION
+The purpose of H.R. 900 is to direct the Director of the United
+States Geological Survey to establish a program to map zones that
+are at greater risk of sinkhole formation, and for other purposes.
+BACKGROUND AND NEED FOR LEGISLATION
+H.R. 900 directs the United States Geological Survey (USGS) to
+examine the short- and long-term causes of sinkholes and map
+areas at greater risk of sinkhole formation. Sinkholes are a dan-
+gerous natural hazard, created when a ground depression lacks ex-
+ternal surface drainage and the rock below the subsurface is dis-
+solved by groundwater.1 While rock in the subsurface gradually
+dissolves creating an underground cavern, the surface can stay in-
+tact for a time, until the underground cavern gets to be too large
+and cannot support the surface leading to a collapse.2 Over the
+past 15 years, damage from sinkholes cost an average of $300 mil-
+lion annually in the United States.3
+H.R. 900 directs USGS to establish a program to study the
+causes of sinkholes, including storms and droughts. The develop-
+ment of such program would be subject to the availability of appro-
+priations. The bill also requires USGS to develop, and make pub-
+licly available, maps of higher-risk areas and revise them as need-
+ed every five years. These provisions could reduce the risk to the
+public and help land-use planners make development decisions.
+H.R. 900 has bipartisan cosponsors, including two Republicans:
+Reps. Gus Bilirakis (R–FL) and Brian Fitzpatrick (R–PA). Previous
+versions of this bill passed the Committee on Natural Resources by
+unanimous consent in the 116th, 117th, and 118th Congresses.
+COMMITTEE ACTION
+H.R. 900 was introduced on January 31, 2025, by Representative
+Darren Soto (D–FL). The bill was referred to the Committee on
+Natural Resources. On April 9, 2025, the Committee on Natural
+Resources met to consider the bill. Representative Darren Soto (D–
+FL) offered an Amendment in the Nature of a Substitute des-
+ignated Soto_012 ANS. The Amendment in the Nature of a Sub-
+stitute was adopted by unanimous consent. The bill, as amended,
+was then ordered favorably reported to the House of Representa-
+tives by unanimous consent.
+HEARINGS
+For the purposes of clause 3(c)(6) of House rule XIII, the fol-
+lowing hearing was used to develop or consider this measure: hear-
+ing in the 118th Congress by the Subcommittee on Energy and
+Mineral Resources held on October 25, 2023.
+1U.S. Geological Survey, Geology, What is a Sinkhole, https://www.usgs.gov/faqs/what-a-
+sinkhole.
+2Id.
+3U.S. Geological Survey, Geology, Frequently Asked Questions, https://www.usgs.gov/faqs/
+how-much-does-sinkhole-damage-cost-each-year-united-states.
+VerDate Sep 11 2014 07:41 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR182.XXX HR182
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+3
+SECTION-BY-SECTION ANALYSIS
+Section 1. Short title
+Section 1 designates the short title of this bill as the ‘‘Sinkhole
+Mapping Act of 2025’’.
+Section 2. Sinkhole hazard identification
+Section 2 requires the Director of the USGS to establish a pro-
+gram to study short- and long-term causes of sinkholes, such as
+heavy rainfall and prolonged droughts. The USGS must also de-
+velop maps that analyze zones that are at risk of sinkhole forma-
+tion. When developing these maps, the USGS will use Light Detec-
+tion and Ranging (LiDAR) data acquired through the 3D Elevation
+Program, and these maps must be updated at least every 5 years,
+or more frequently if the Director determines it is necessary, and
+must be made publicly available. No appropriations are authorized
+for this program in this bill.
+COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Regarding clause 2(b)(1) of rule X and clause 3(c)(1) of rule XIII
+of the Rules of the House of Representatives, the Committee on
+Natural Resources’ oversight findings and recommendations are re-
+flected in the body of this report.
+COMPLIANCE WITH HOUSE RULE XIII AND
+CONGRESSIONAL BUDGET ACT
+1. Cost of Legislation and the Congressional Budget Act. Pursu-
+ant to clause 3(c)(2) of House rule XIII and section 308(a) of the
+Congressional Budget Act of 1974, and pursuant to clause 3(c)(3)
+of House rule XIII and section 402 of the Congressional Budget Act
+of 1974, the Committee has requested but not received from the Di-
+rector of the Congressional Budget Office a budgetary analysis and
+a cost estimate of this bill.
+2. General Performance Goals and Objectives. As required by
+clause 3(c)(4) of rule XIII, the general performance goal or objective
+of this bill is to direct the Director of the United States Geological
+Survey to establish a program to map zones that are at greater
+risk of sinkhole formation, and for other purposes.
+EARMARK STATEMENT
+This bill does not contain any Congressional earmarks, limited
+tax benefits, or limited tariff benefits as defined under clause 9(e),
+9(f), and 9(g) of rule XXI of the Rules of the House of Representa-
+tives.
+UNFUNDED MANDATES REFORM ACT STATEMENT
+An estimate of federal mandates prepared by the Director of the
+Congressional Budget Office pursuant to section 423 of the Un-
+funded Mandates Reform Act was not made available to the Com-
+mittee in time for the filing of this report. The Chair of the Com-
+mittee shall cause such estimate to be printed in the Congressional
+Record upon its receipt by the Committee, if such estimate is not
+publicly available on the Congressional Budget Office website.
+VerDate Sep 11 2014 07:41 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR182.XXX HR182
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+4
+EXISTING PROGRAMS
+Directed Rule Making. This bill does not contain any directed
+rule makings.
+Duplication of Existing Programs. This bill does not establish or
+reauthorize a program of the federal government known to be du-
+plicative of another program. Such program was not included in
+any report from the Government Accountability Office to Congress
+pursuant to section 21 of Public Law 111–139 or identified in the
+most recent Catalog of Federal Domestic Assistance published pur-
+suant to the Federal Program Information Act (Public Law 95–220,
+as amended by Public Law 98–169) as relating to other programs.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+PREEMPTION OF STATE, LOCAL OR TRIBAL LAW
+Any preemptive effect of this bill over state, local, or tribal law
+is intended to be consistent with the bill’s purposes and text and
+the Supremacy Clause of Article VI of the U.S. Constitution.
+CHANGES IN EXISTING LAW
+As ordered reported by the Committee on Natural Resources,
+H.R. 900 would make no changes in existing law.
+Æ
+VerDate Sep 11 2014 07:41 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6611 E:\HR\OC\HR182.XXX HR182
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD

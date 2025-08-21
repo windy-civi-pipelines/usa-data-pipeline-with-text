@@ -1,0 +1,1075 @@
+Title: DISAPPROVING THE RULE SUBMITTED BY THE BUREAU OF CONSUMER FI-
+Official Title: DISAPPROVING THE RULE SUBMITTED BY THE BUREAU OF CONSUMER FI-
+Number of Sections: 4
+Source: documents - H. Rept. 119-26
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–26
+NANCIAL PROTECTION RELATING TO OVERDRAFT LENDING: ‘‘VERY
+LARGE FINANCIAL INSTITUTIONS’’
+MARCH21, 2025.—Committed to the Committee of the Whole House on the State
+of the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.J. Res. 59]
+The Committee on Financial Services, to whom was referred the
+joint resolution (H.J. Res. 59) disapproving the rule submitted by
+the Bureau of Consumer Financial Protection relating to ‘‘Over-
+draft Lending: Very Large Financial Institutions’’, having consid-
+ered the same, reports favorably thereon without amendment and
+recommends that the joint resolution do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Consideration ........................................................................................ 4
+Related Hearings ..................................................................................................... 4
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings ............................................................................... 6
+Performance Goals and Objectives ......................................................................... 6
+Committee Cost Estimate ....................................................................................... 6
+New Budget Authority and CBO Cost Estimate ................................................... 6
+Unfunded Mandates Statement .............................................................................. 6
+Earmark Statement ................................................................................................. 6
+Federal Advisory Committee Act Statement ......................................................... 6
+Applicability to the Legislative Branch ................................................................. 7
+Duplication of Federal Programs ............................................................................ 7
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 7
+Changes in Existing Law Made by the Bill, as Reported ..................................... 7
+Minority Views ......................................................................................................... 8
+59–008
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+2
+PURPOSE AND SUMMARY
+Introduced on February 13, 2025, by Representative French Hill,
+H.J. Res. 59, a joint resolution providing for congressional dis-
+approval under chapter 8 of title 5, United States Code, of the rule
+submitted by the Bureau of Consumer Financial Protection relating
+to ‘‘Overdraft Lending: Very Large Financial Institutions’’, would
+nullify the final rule submitted by the Bureau of Consumer Finan-
+cial Protection that implements significant changes to federal regu-
+lations governing overdraft fees for financial institutions with more
+than $10 billion in assets.
+BACKGROUND AND NEED FOR LEGISLATION
+Title X of the Dodd-Frank Act established the Consumer Finan-
+cial Protection Bureau (CFPB) for the purpose of implementing and
+enforcing federal consumer financial law while ensuring that con-
+sumers have access to consumer financial services and products
+and that the markets that provide them are ‘‘fair, transparent, and
+competitive.’’ Under the Dodd-Frank Act, the CFPB can issue rules,
+examine certain financial institutions, and enforce federal con-
+sumer protection laws and regulations. Prior to Dodd-Frank, con-
+sumer protection laws were enforced by an array of federal and
+state entities, including the federal banking agencies.
+Under Director Rohit Chopra, the CFPB repeatedly exceeded its
+statutory authority, ignored decades of precedent, circumvented the
+Administrative Procedure Act (APA), and pushed the boundaries of
+its jurisdiction. This was made especially clear when former Direc-
+tor Chopra finalized several rules following the November 2024
+presidential election. The CFPB’s overdraft rule is one of Chopra’s
+midnight rulemakings aimed at forcing financial institutions to be
+public utilities by instituting a government price cap on a popular
+consumer financial product.
+The CFPB’s overdraft rule, which applies to financial institutions
+with more than $10 billion in assets, introduces new requirements
+for offering overdraft products. Banks and credit unions have two
+options: they (1) can provide overdraft as a courtesy service or (2)
+treat it as a loan. If offering overdraft as a courtesy service, institu-
+tions must choose between (1) adhering to a $5 price cap set by the
+CFPB, which is deemed sufficient to cover the costs associated with
+the service, or (2) setting their own fee that only covers the serv-
+ice’s costs and losses, without factoring in risk, deterrence, or prof-
+it. If overdraft is treated as a loan, the service will be subject to
+the Truth in Lending Act (TILA) and its Regulation Z, requiring
+more stringent disclosures and compliance with loan-specific regu-
+lations.
+The CFPB’s overdraft rule is another form of government price
+control that leads to fewer options for consumers. The rule dis-
+regards the complexity of consumer behavior and financial institu-
+tions’ existing practices. By classifying overdraft services as ‘‘over-
+draft credit’’ under Regulation Z, the rule imposes burdensome dis-
+closure requirements that may confuse consumers rather than in-
+form them. Financial institutions have long relied on established
+guidelines to manage overdraft services, which are designed to offer
+a safety net for customers in financial distress. The reality is that
+overdraft products allow millions of Americans each year to meet
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+3
+their short-term financial needs rather than being denied a pur-
+chase at the register.
+The rule’s one-size-fits-all approach fails to consider the variety
+of overdraft practices across institutions and could lead to unin-
+tended consequences, such as increasing the cost of or eliminating
+overdraft protection programs altogether. This may ultimately
+harm the very consumers the rule aims to protect by limiting their
+access to financial flexibility and emergency liquidity, especially for
+those who rely on overdraft services as a temporary solution to
+cash flow issues. Emphasized in the Federal Reserve Bank of New
+York report, ‘‘Who Pays the Price? Overdraft Fee Ceilings and the
+Unbanked,’’ ‘‘overdraft fee caps hinder financial inclusion. When
+constrained by fee caps, banks reduce overdraft coverage and de-
+posit supply, causing more returned checks and a decline in ac-
+count ownership among low-income households.’’1
+The CFPB’s reinterpretation of credit in the overdraft rule clear-
+ly disregards how Congress defined credit in TILA—as the ‘‘right
+granted by a creditor to a debtor to defer payment of debt or to
+incur debt and defer its payment.’’2 When the Federal Reserve im-
+plemented Regulation Z in 1969, it determined that overdraft fees
+do not constitute credit. If financial institutions are now required
+to treat overdraft fees as credit, they will be forced to evaluate con-
+sumers’ ability to repay in a manner similar to how loans are un-
+derwritten, which could impose additional burdens on both con-
+sumers and financial institutions. This shift could complicate the
+management of overdraft services and limit their accessibility for
+consumers who rely on them as a temporary financial cushion.
+When financial institutions are forced to provide overdraft serv-
+ices without the ability to generate profit or under the strict re-
+quirements of Regulation Z, they will be unable to offer these serv-
+ices effectively. This could be detrimental to consumers who rely on
+overdraft protection for everyday or emergency purchases. Many of
+these households are financially vulnerable, with low incomes and
+little to no savings, and may lose access to their bank accounts—
+or the banking system altogether. Such an outcome is counter-
+productive to the CFPB’s purpose and the broader goals of financial
+regulators to promote fairness and financial access.
+Moreover, the proposal overlooks the significant changes in the
+banking sector regarding overdraft fees since 2020. Many financial
+institutions have already reduced overdraft fees, and several large
+banks have completely stopped charging overdraft fees. These re-
+ductions have been accompanied by innovations in banking, such
+as low balance alerts, mandatory back-up accounts, and overdraft
+‘‘grace periods,’’ which help consumers avoid fees and better man-
+age their finances. The proposed rule fails to recognize these posi-
+tive developments and the efforts already being made to improve
+consumer outcomes.
+Shortly after the rule was adopted, a preliminary injunction was
+filed jointly by the Mississippi Bankers Association, Consumer
+Bankers Association, American Bankers Association, America’s
+Credit Unions, Arvest Bank, Bank of Franklin, and the Commer-
+cial Bank to prevent the CFPB from implementing the rule. The
+1FED. RESERVE BANK OF NEW YORK, WHO PAYS THE PRICE? OVERDRAFT FEE CEILINGS AND
+THEUNBANKED(No. 973), (June 2021, revised July 2023).
+215 USC §1602(f).
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+4
+lawsuit claims that the CFPB violated the Administrative Proce-
+dure Act (APA) by exceeding its statutory authority on three
+counts. Additionally, the suit argues that the CFPB acted arbi-
+trarily and capriciously by failing to conduct a valid, statutorily re-
+quired cost-benefit analysis before implementing the rule.
+COMMITTEE CONSIDERATION
+119TH CONGRESS
+On February 13, 2025, Representative French Hill (R–AR) intro-
+duced H.J. Res. 59, Disapproving the rule submitted by the Bureau
+of Consumer Financial Protection relating to ‘‘Overdraft Lending:
+Very Large Financial Institutions,’’ with Representatives Daniel
+Meuser (R–PA), Andrew Ogles (R–TN), Ann Wagner (R–MO), Bill
+Huizenga (R–MI), William Timmons (R–SC), Tim Moore (R–NC),
+Mike Haridopolos (R–FL), Andy Barr (R–KY), Roger Williams (R–
+TX), Byron Donalds (R–FL), Maria Salazar (R–FL), Troy Downing
+(R–MT), Ralph Norman (R–SC), and Glenn Grothman (R–WI) as
+original cosponsors. Representatives Mike Ezell (R–MS), Barry
+Loudermilk (R–GA), and Dusty Johnson (R–SD) were subsequently
+added as cosponsors. The joint resolution was referred solely to the
+Committee on Financial Services.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.J.
+Res. 59:
+The Full Committee held a hearing on February 5, 2025, entitled
+‘‘Make Community Banking Great Again.’’ A draft version of H.J.
+Res. 59 was attached to the hearing. The following witnesses testi-
+fied: Mr. Pat Kennedy, Jr., founding partner of the law firm Ken-
+nedy Sutherland, San Antonio, TX; Ms. Susannah Marshall, Bank
+Commissioner of the Arkansas State Bank Department; Ms. Cathy
+Owen, Executive Chairman of Eagle Bank and Trust, Little Rock,
+AR; Ms. Rebeca Romero Rainey, President and CEO of the Inde-
+pendent Community Bankers of America; and Ms. Mitria Spotser,
+Vice President of Federal Policy for the Center for Responsible
+Lending. In the course of the witness testimony regarding overdraft
+fees, Ms. Romero Rainey testified that the point of the concern
+about the rule is that it limits options.
+The Committee on Financial Services met in open session on
+March 5, 2025, to consider H.J. Res. 59.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On March 5, 2025, the Committee on Financial Services ordered
+H.J. Res. 59 to be reported favorably to the House by a recorded
+vote of 30 yeas to 19 nays, a quorum being present. (Record Vote
+No. FC–019).
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+5
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+
+Section 3:
+100.62RH
+ereh
+6
+oilof
+tesffo
+tresnI
+6
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.J. Res. 59 is to rescind the CFPB’s
+rule relating to ‘‘Overdraft Lending: Very Large Financial Institu-
+tions.’’
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.J. Res. 59.
+The Committee has requested but not received a cost estimate
+from the Director of the Congressional Budget Office. However,
+pursuant to clause 3(d)(1) of rule XIII of the House of Representa-
+tives, the Committee will adopt as its own the cost estimate by the
+Director of the Congressional Budget Office once it has been pre-
+pared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974, and with respect to the require-
+ments of clause 3(c)(3) of rule XIII of the Rules of the House of
+Representatives and section 402 of the Congressional Budget Act of
+1974, a cost estimate was not made available to the Committee in
+time for the filing of this report. The Chairman of the Committee
+shall cause such estimate to be printed in the Congressional Record
+upon its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+7
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+
+Section 4:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+The Joint Resolution disapproves of the rule submitted by the
+Bureau of Consumer Financial Protection relating to ‘‘Overdraft
+Lending: Very Large Financial Institutions’’ and asserts that such
+rules shall have no force or effect.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+H.J. Res. 59 does not repeal or amend any section of a statute.
+Therefore, the Office of Legislative Counsel did not prepare the re-
+port required under clause 3(e) of rule XIII of the House of Rep-
+resentatives.
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+MINORITY VIEWS
+H.J. Res. 59 is a Congressional Review Act (CRA) resolution that
+would rescind the Consumer Financial Protection Bureau (CFPB)
+rule to reduce excessive overdraft fees charged by large depository
+institutions with more than $10 billion in assets. The rule requires
+banks to generally reduce overdraft fees to $5 per transaction,
+though a bank could charge more if their costs were higher, or they
+could disclose the product’s applicable interest rate to the con-
+sumer. The rule only applies to the largest institutions with more
+than $10 billion in total assets, leaving 97% of banks and nearly
+all credit unions completely exempt. Moreover, this CRA resolution
+would not only rescind the rule, but also prevent the CFPB from
+issuing any similar rule on overdraft without a new law being en-
+acted.
+Overdraft is a service provided by a financial institution when
+the money in a consumer account cannot cover a given transaction,
+but a financial institution pays the transaction. While some finan-
+cial institutions do not offer overdraft coverage on their checking
+accounts, banks that do typically charge a fee for covering each
+overdraft, typically around $35.1 Approximately 23 million house-
+holds pay overdraft fees every year, and CFPB’s rule is estimated
+to save one-in-five households a total of $5 billion each year. Sur-
+veys have shown that more than 80 percent of Americans, includ-
+ing Republicans, want to see these costly overdraft fees capped.2
+In 1969, the Federal Reserve implemented a rule exempting
+overdraft fees from being disclosed as finance charges to a con-
+sumer pursuant to the Truth In Lending Act (TILA). This exemp-
+tion came at a time when banks charged overdraft fees on rare oc-
+casions as a service to help prevent customers from bouncing paper
+checks. As transactions became more automated and electronic,
+consumer advocates argue the industry exploited this TILA loop-
+hole to increase these fees and boost their profits. Moreover, some
+banks sequenced how transactions were applied to an account to
+maximize the number of overdraft fees that could be charged.3
+In response, Democrats introduced the Overdraft Protection Act
+in 2009 to strengthen consumer protections and curb these exces-
+sive practices.4 Among other things, the bill would have prohibited
+the sequencing of transactions to maximize overdraft fees and
+would have limited what banks could charge to an amount that
+was reasonable and proportional to providing the service. The bill
+1Congressional Research Service, CFPB Finalizes Overdraft Rule, Related Legislation (Feb.
+24, 2025).
+2See Americans for Financial Reform (AFR), New Poll Shows Voters Across Party Lines Want
+CFPB Action to Curb Junk Fees, Tame Wall Street (Sep. 9, 2024).
+3For example, see New York Times, Customers Can Lose When Banks Shuffle Payments (Apr.
+11, 2014).
+4Former Rep. Carolyn Maloney (D–NY), Maloney, Frank introduce Overdraft Protection Act
+in House (Oct. 22, 2009).
+(8)
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6604 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+9
+was reintroduced in subsequent Congresses, and the House Finan-
+cial Services Committee later marked up and approved the Over-
+draft Protection Act in 2022.5 Furthermore, in recent years the
+House Financial Services Committee as well as former CFPB Di-
+rector Chopra highlighted the excessive overdraft fees banks were
+charging, and the industry started to voluntarily reduce some of
+these fees. CFPB estimated that these voluntary reductions saved
+consumers roughly $6 billion annually.6 Later, the CFPB proposed
+and finalized the overdraft rule that H.J. Res. 59 would rescind
+that would save consumers an additional $5 billion every year.
+H.J. Res. 59 will effectively increase bank junk fees for millions
+of consumers, including servicemembers and veterans. CFPB’s
+overdraft fee rule would benefit military families that live paycheck
+to paycheck. Nearly 80% of military families used checking ac-
+counts, and the CFPB’s overdraft fees rule would save roughly one-
+in-five households that pay overdraft fees amounting to around
+$225 each year. These excessive overdraft fees are harmful for jun-
+ior enlisted service members who are younger, less financially
+savvy, and struggling to make ends meet. Servicemembers have
+filed CFPB complaints over unfair or deceptive overdraft practices
+that have imposed unaffordable fees. The CFPB previously took an
+enforcement action against Navy Federal Credit Union for inappro-
+priate overdraft fees, requiring the credit union to repay $80 mil-
+lion to harmed customers, largely servicemembers and veterans.7
+Repealing CFPB’s rule will only expose servicemembers to exces-
+sive overdraft fees when they can least afford them.
+Furthermore, H.J. Res. 59 will allow big banks to charge exces-
+sive fees and encourage related exploitative practices. Most debit
+card overdrafts are repaid within three days and are used to cover
+transaction amounts that are less than $26, which is less than the
+average overdraft fee that is charged.8 Banks have been found to
+have manipulated the order of transactions to maximize fees or
+charged consumers overdraft fees even when their account had suf-
+ficient funds.9 Curbing excessive overdraft fees would discourage
+banks from engaging in these manipulative practices, while allow-
+ing them to charge a reasonable fee to provide this service to their
+customers.
+Moreover, this bill will undermine efforts to combat junk fees
+that raise the cost of living. This overdraft rule was part of an ef-
+fort by the Biden Administration to combat junk fees. In 2022, the
+CFPB launched an initiative to eliminate and reduce junk fees,
+which are inflated, hidden, or back-end fees that cut into con-
+sumers savings.10 For example, the CFPB finalized a rule to limit
+certain late fees that credit card companies could charge to $8 after
+it found that late fee income exceeds associated collection costs by
+5House Financial Services Committee, Markup of Various Measures (Jul. 27, 2022).
+6CFPB, Overdraft/NSF Revenue in 2023 down more than 50% versus pre-pandemic levels,
+saving consumers over $6 billion annually (Apr. 24, 2024).
+7AFR, Fact Sheet: AFREF Factsheet on CFPB Overdraft Rule Benefitting Servicemembers and
+Military Families (Feb. 19, 2025).
+8National Consumer Law Center (NCLC), Fact Sheet: AFREF Coalition Fact Sheet on CFPB
+Overdraft Rule (Jan. 21, 2025).
+9Id.
+10See CFPB, Junk Fees (Accessed Nov. 21, 2023).
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6604 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+10
+a factor of five.11 The CFPB estimates that this rule would save
+consumers up to $10 billion annually. The industry has sued the
+agency to try to block that rule.12 Additionally, the CFPB issued
+guidance in October 2023 to implement Section 1034(c) of Dodd-
+Frank, which generally prohibits large banks and credit unions
+from charging fees to provide basic account information to a con-
+sumer when they request it.13 In late May 2024, the CFPB initi-
+ated a public inquiry into the mortgage closing costs related junk
+fees, reporting that median total loan costs for a home mortgage in-
+creased by more than 36% from 2021 to 2023.14 The agency was
+searching for methods to reduce anticompetitive fees that harm
+homebuyers and lenders.15 Unfortunately, the industry and Con-
+gressional Republicans have fought back against many of these ef-
+forts to enrich megabanks that already are making record profits.16
+At a time when working-class families are already struggling
+with rising grocery prices, the cost of housing, and the con-
+sequences of the disastrous economic policies of the Trump Admin-
+istration, H.J. Res. 59 would make life even harder for the Amer-
+ican people by giving big banks permission to increase costs for
+consumers with excessively high overdraft fees.
+More than 200 consumer, civil rights, labor, legal services, com-
+munity organizations, and academics from across the country op-
+pose H.J. Res. 59, including: 20/20 Vision, Accountable.US, Amer-
+ican Association of People with Disabilities, American Friends
+Service Committee, Americans for Financial Reform (AFR), Blue
+Future, CAARMA, CAMEO Network, Center for Economic Justice,
+Center for Justice & Democracy, Center for LGBTQ Economic Ad-
+vancement & Research (CLEAR), Center for Responsible Lending
+(CRL), Center for Survivor Agency and Justice, Coalition on
+Human Needs, Consumer Action, Consumer Federation of America,
+Consumer Reports, Demand Progress Education Fund, Disability
+Belongs, Disability Rights Advocates, Equal Rights Advocates,
+Faith in Action National Network, Family Values @ Work, HEAL
+(Health, Environment, Agriculture, Labor) Food Alliance, Impact
+Fund, Interfaith Center on Corporate Responsibility, Justice in
+Aging, National Association for Latino Community Asset Builders
+(NALCAB), National Association of Consumer Advocates, National
+Black Justice Coalition, National Center for Law and Economic
+Justice, National Coalition for Asian Pacific American Community
+Development (National CAPACD), National Coalition for the
+Homeless, National Community Reinvestment Coalition (NCRC),
+National Consumer Law Center (on behalf of its low-income cli-
+ents), National Consumers League, National Disability Institute,
+National Employment Law Project, National Partnership for
+Women & Families, National Women’s Law Center, P Street, Peo-
+11CFPB, CFPB Bans Excessive Credit Card Late Fees, Lowers Typical Fee from $32 to $8
+(Mar. 5, 2024).
+12See Ballard Spahr Consumer Finance Monitor, CFPB and plaintiffs fully brief motion for
+preliminary injunction in trade group lawsuit regarding final credit card late fee rule (Mar. 15,
+2024).
+13CFPB, CFPB Issues Guidance to Halt Large Banks from Charging Illegal Junk Fees for
+Basic Customer Service (Oct. 11, 2023).
+14CFPB, CFPB Launches Inquiry into Junk Fees in Mortgage Closing Costs (May 30, 2024).
+15Id.
+16Bloomberg, JPMorgan Breaks Its Own Record for Best Year Ever With 18% Jump (Jan. 15,
+2025).
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6604 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+11
+ple Power United, Public Citizen, Public Good Law Center, U.S.
+PIRG, and Woodstock Institute.17
+For these reasons, we strongly oppose H.J. Res. 59.
+Sincerely,
+MAXINE WATERS,
+Ranking Member.
+AL GREEN,
+EMANUEL CLEAVER, II,
+BILL FOSTER,
+JOYCE BEATTY,
+RASHIDA TLAIB,
+SYLVIA R. GARCIA,
+NIKEMA WILLIAMS,
+CLEO FIELDS,
+Members of Congress.
+Æ
+17NCLC, 201 Groups Oppose Repealing CFPB Overdraft Fee Rule (Feb. 5, 2025).
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6604 Sfmt 6611 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–26
+DISAPPROVING THE RULE SUBMITTED BY THE BUREAU OF CONSUMER FI-
+NANCIAL PROTECTION RELATING TO OVERDRAFT LENDING: ‘‘VERY
+LARGE FINANCIAL INSTITUTIONS’’
+MARCH21, 2025.—Committed to the Committee of the Whole House on the State
+of the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.J. Res. 59]
+The Committee on Financial Services, to whom was referred the
+joint resolution (H.J. Res. 59) disapproving the rule submitted by
+the Bureau of Consumer Financial Protection relating to ‘‘Over-
+draft Lending: Very Large Financial Institutions’’, having consid-
+ered the same, reports favorably thereon without amendment and
+recommends that the joint resolution do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Consideration ........................................................................................ 4
+Related Hearings ..................................................................................................... 4
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings ............................................................................... 6
+Performance Goals and Objectives ......................................................................... 6
+Committee Cost Estimate ....................................................................................... 6
+New Budget Authority and CBO Cost Estimate ................................................... 6
+Unfunded Mandates Statement .............................................................................. 6
+Earmark Statement ................................................................................................. 6
+Federal Advisory Committee Act Statement ......................................................... 6
+Applicability to the Legislative Branch ................................................................. 7
+Duplication of Federal Programs ............................................................................ 7
+Section-by-Section Analysis of the Legislation ...................................................... 7
+Changes in Existing Law Made by the Bill, as Reported ..................................... 7
+Minority Views ......................................................................................................... 8
+59–008
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+
+2
+PURPOSE AND SUMMARY
+Introduced on February 13, 2025, by Representative French Hill,
+H.J. Res. 59, a joint resolution providing for congressional dis-
+approval under chapter 8 of title 5, United States Code, of the rule
+submitted by the Bureau of Consumer Financial Protection relating
+to ‘‘Overdraft Lending: Very Large Financial Institutions’’, would
+nullify the final rule submitted by the Bureau of Consumer Finan-
+cial Protection that implements significant changes to federal regu-
+lations governing overdraft fees for financial institutions with more
+than $10 billion in assets.
+BACKGROUND AND NEED FOR LEGISLATION
+Title X of the Dodd-Frank Act established the Consumer Finan-
+cial Protection Bureau (CFPB) for the purpose of implementing and
+enforcing federal consumer financial law while ensuring that con-
+sumers have access to consumer financial services and products
+and that the markets that provide them are ‘‘fair, transparent, and
+competitive.’’ Under the Dodd-Frank Act, the CFPB can issue rules,
+examine certain financial institutions, and enforce federal con-
+sumer protection laws and regulations. Prior to Dodd-Frank, con-
+sumer protection laws were enforced by an array of federal and
+state entities, including the federal banking agencies.
+Under Director Rohit Chopra, the CFPB repeatedly exceeded its
+statutory authority, ignored decades of precedent, circumvented the
+Administrative Procedure Act (APA), and pushed the boundaries of
+its jurisdiction. This was made especially clear when former Direc-
+tor Chopra finalized several rules following the November 2024
+presidential election. The CFPB’s overdraft rule is one of Chopra’s
+midnight rulemakings aimed at forcing financial institutions to be
+public utilities by instituting a government price cap on a popular
+consumer financial product.
+The CFPB’s overdraft rule, which applies to financial institutions
+with more than $10 billion in assets, introduces new requirements
+for offering overdraft products. Banks and credit unions have two
+options: they (1) can provide overdraft as a courtesy service or (2)
+treat it as a loan. If offering overdraft as a courtesy service, institu-
+tions must choose between (1) adhering to a $5 price cap set by the
+CFPB, which is deemed sufficient to cover the costs associated with
+the service, or (2) setting their own fee that only covers the serv-
+ice’s costs and losses, without factoring in risk, deterrence, or prof-
+it. If overdraft is treated as a loan, the service will be subject to
+the Truth in Lending Act (TILA) and its Regulation Z, requiring
+more stringent disclosures and compliance with loan-specific regu-
+lations.
+The CFPB’s overdraft rule is another form of government price
+control that leads to fewer options for consumers. The rule dis-
+regards the complexity of consumer behavior and financial institu-
+tions’ existing practices. By classifying overdraft services as ‘‘over-
+draft credit’’ under Regulation Z, the rule imposes burdensome dis-
+closure requirements that may confuse consumers rather than in-
+form them. Financial institutions have long relied on established
+guidelines to manage overdraft services, which are designed to offer
+a safety net for customers in financial distress. The reality is that
+overdraft products allow millions of Americans each year to meet
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+
+3
+their short-term financial needs rather than being denied a pur-
+chase at the register.
+The rule’s one-size-fits-all approach fails to consider the variety
+of overdraft practices across institutions and could lead to unin-
+tended consequences, such as increasing the cost of or eliminating
+overdraft protection programs altogether. This may ultimately
+harm the very consumers the rule aims to protect by limiting their
+access to financial flexibility and emergency liquidity, especially for
+those who rely on overdraft services as a temporary solution to
+cash flow issues. Emphasized in the Federal Reserve Bank of New
+York report, ‘‘Who Pays the Price? Overdraft Fee Ceilings and the
+Unbanked,’’ ‘‘overdraft fee caps hinder financial inclusion. When
+constrained by fee caps, banks reduce overdraft coverage and de-
+posit supply, causing more returned checks and a decline in ac-
+count ownership among low-income households.’’1
+The CFPB’s reinterpretation of credit in the overdraft rule clear-
+ly disregards how Congress defined credit in TILA—as the ‘‘right
+granted by a creditor to a debtor to defer payment of debt or to
+incur debt and defer its payment.’’2 When the Federal Reserve im-
+plemented Regulation Z in 1969, it determined that overdraft fees
+do not constitute credit. If financial institutions are now required
+to treat overdraft fees as credit, they will be forced to evaluate con-
+sumers’ ability to repay in a manner similar to how loans are un-
+derwritten, which could impose additional burdens on both con-
+sumers and financial institutions. This shift could complicate the
+management of overdraft services and limit their accessibility for
+consumers who rely on them as a temporary financial cushion.
+When financial institutions are forced to provide overdraft serv-
+ices without the ability to generate profit or under the strict re-
+quirements of Regulation Z, they will be unable to offer these serv-
+ices effectively. This could be detrimental to consumers who rely on
+overdraft protection for everyday or emergency purchases. Many of
+these households are financially vulnerable, with low incomes and
+little to no savings, and may lose access to their bank accounts—
+or the banking system altogether. Such an outcome is counter-
+productive to the CFPB’s purpose and the broader goals of financial
+regulators to promote fairness and financial access.
+Moreover, the proposal overlooks the significant changes in the
+banking sector regarding overdraft fees since 2020. Many financial
+institutions have already reduced overdraft fees, and several large
+banks have completely stopped charging overdraft fees. These re-
+ductions have been accompanied by innovations in banking, such
+as low balance alerts, mandatory back-up accounts, and overdraft
+‘‘grace periods,’’ which help consumers avoid fees and better man-
+age their finances. The proposed rule fails to recognize these posi-
+tive developments and the efforts already being made to improve
+consumer outcomes.
+Shortly after the rule was adopted, a preliminary injunction was
+filed jointly by the Mississippi Bankers Association, Consumer
+Bankers Association, American Bankers Association, America’s
+Credit Unions, Arvest Bank, Bank of Franklin, and the Commer-
+cial Bank to prevent the CFPB from implementing the rule. The
+1FED. RESERVE BANK OF NEW YORK, WHO PAYS THE PRICE? OVERDRAFT FEE CEILINGS AND
+THEUNBANKED(No. 973), (June 2021, revised July 2023).
+215 USC §1602(f).
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+
+4
+lawsuit claims that the CFPB violated the Administrative Proce-
+dure Act (APA) by exceeding its statutory authority on three
+counts. Additionally, the suit argues that the CFPB acted arbi-
+trarily and capriciously by failing to conduct a valid, statutorily re-
+quired cost-benefit analysis before implementing the rule.
+COMMITTEE CONSIDERATION
+119TH CONGRESS
+On February 13, 2025, Representative French Hill (R–AR) intro-
+duced H.J. Res. 59, Disapproving the rule submitted by the Bureau
+of Consumer Financial Protection relating to ‘‘Overdraft Lending:
+Very Large Financial Institutions,’’ with Representatives Daniel
+Meuser (R–PA), Andrew Ogles (R–TN), Ann Wagner (R–MO), Bill
+Huizenga (R–MI), William Timmons (R–SC), Tim Moore (R–NC),
+Mike Haridopolos (R–FL), Andy Barr (R–KY), Roger Williams (R–
+TX), Byron Donalds (R–FL), Maria Salazar (R–FL), Troy Downing
+(R–MT), Ralph Norman (R–SC), and Glenn Grothman (R–WI) as
+original cosponsors. Representatives Mike Ezell (R–MS), Barry
+Loudermilk (R–GA), and Dusty Johnson (R–SD) were subsequently
+added as cosponsors. The joint resolution was referred solely to the
+Committee on Financial Services.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.J.
+Res. 59:
+The Full Committee held a hearing on February 5, 2025, entitled
+‘‘Make Community Banking Great Again.’’ A draft version of H.J.
+Res. 59 was attached to the hearing. The following witnesses testi-
+fied: Mr. Pat Kennedy, Jr., founding partner of the law firm Ken-
+nedy Sutherland, San Antonio, TX; Ms. Susannah Marshall, Bank
+Commissioner of the Arkansas State Bank Department; Ms. Cathy
+Owen, Executive Chairman of Eagle Bank and Trust, Little Rock,
+AR; Ms. Rebeca Romero Rainey, President and CEO of the Inde-
+pendent Community Bankers of America; and Ms. Mitria Spotser,
+Vice President of Federal Policy for the Center for Responsible
+Lending. In the course of the witness testimony regarding overdraft
+fees, Ms. Romero Rainey testified that the point of the concern
+about the rule is that it limits options.
+The Committee on Financial Services met in open session on
+March 5, 2025, to consider H.J. Res. 59.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On March 5, 2025, the Committee on Financial Services ordered
+H.J. Res. 59 to be reported favorably to the House by a recorded
+vote of 30 yeas to 19 nays, a quorum being present. (Record Vote
+No. FC–019).
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+
+5
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+100.62RH
+ereh
+6
+oilof
+tesffo
+tresnI
+
+6
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.J. Res. 59 is to rescind the CFPB’s
+rule relating to ‘‘Overdraft Lending: Very Large Financial Institu-
+tions.’’
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.J. Res. 59.
+The Committee has requested but not received a cost estimate
+from the Director of the Congressional Budget Office. However,
+pursuant to clause 3(d)(1) of rule XIII of the House of Representa-
+tives, the Committee will adopt as its own the cost estimate by the
+Director of the Congressional Budget Office once it has been pre-
+pared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974, and with respect to the require-
+ments of clause 3(c)(3) of rule XIII of the Rules of the House of
+Representatives and section 402 of the Congressional Budget Act of
+1974, a cost estimate was not made available to the Committee in
+time for the filing of this report. The Chairman of the Committee
+shall cause such estimate to be printed in the Congressional Record
+upon its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+
+7
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+The Joint Resolution disapproves of the rule submitted by the
+Bureau of Consumer Financial Protection relating to ‘‘Overdraft
+Lending: Very Large Financial Institutions’’ and asserts that such
+rules shall have no force or effect.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+H.J. Res. 59 does not repeal or amend any section of a statute.
+Therefore, the Office of Legislative Counsel did not prepare the re-
+port required under clause 3(e) of rule XIII of the House of Rep-
+resentatives.
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+
+MINORITY VIEWS
+H.J. Res. 59 is a Congressional Review Act (CRA) resolution that
+would rescind the Consumer Financial Protection Bureau (CFPB)
+rule to reduce excessive overdraft fees charged by large depository
+institutions with more than $10 billion in assets. The rule requires
+banks to generally reduce overdraft fees to $5 per transaction,
+though a bank could charge more if their costs were higher, or they
+could disclose the product’s applicable interest rate to the con-
+sumer. The rule only applies to the largest institutions with more
+than $10 billion in total assets, leaving 97% of banks and nearly
+all credit unions completely exempt. Moreover, this CRA resolution
+would not only rescind the rule, but also prevent the CFPB from
+issuing any similar rule on overdraft without a new law being en-
+acted.
+Overdraft is a service provided by a financial institution when
+the money in a consumer account cannot cover a given transaction,
+but a financial institution pays the transaction. While some finan-
+cial institutions do not offer overdraft coverage on their checking
+accounts, banks that do typically charge a fee for covering each
+overdraft, typically around $35.1 Approximately 23 million house-
+holds pay overdraft fees every year, and CFPB’s rule is estimated
+to save one-in-five households a total of $5 billion each year. Sur-
+veys have shown that more than 80 percent of Americans, includ-
+ing Republicans, want to see these costly overdraft fees capped.2
+In 1969, the Federal Reserve implemented a rule exempting
+overdraft fees from being disclosed as finance charges to a con-
+sumer pursuant to the Truth In Lending Act (TILA). This exemp-
+tion came at a time when banks charged overdraft fees on rare oc-
+casions as a service to help prevent customers from bouncing paper
+checks. As transactions became more automated and electronic,
+consumer advocates argue the industry exploited this TILA loop-
+hole to increase these fees and boost their profits. Moreover, some
+banks sequenced how transactions were applied to an account to
+maximize the number of overdraft fees that could be charged.3
+In response, Democrats introduced the Overdraft Protection Act
+in 2009 to strengthen consumer protections and curb these exces-
+sive practices.4 Among other things, the bill would have prohibited
+the sequencing of transactions to maximize overdraft fees and
+would have limited what banks could charge to an amount that
+was reasonable and proportional to providing the service. The bill
+1Congressional Research Service, CFPB Finalizes Overdraft Rule, Related Legislation (Feb.
+24, 2025).
+2See Americans for Financial Reform (AFR), New Poll Shows Voters Across Party Lines Want
+CFPB Action to Curb Junk Fees, Tame Wall Street (Sep. 9, 2024).
+3For example, see New York Times, Customers Can Lose When Banks Shuffle Payments (Apr.
+11, 2014).
+4Former Rep. Carolyn Maloney (D–NY), Maloney, Frank introduce Overdraft Protection Act
+in House (Oct. 22, 2009).
+(8)
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6604 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+
+9
+was reintroduced in subsequent Congresses, and the House Finan-
+cial Services Committee later marked up and approved the Over-
+draft Protection Act in 2022.5 Furthermore, in recent years the
+House Financial Services Committee as well as former CFPB Di-
+rector Chopra highlighted the excessive overdraft fees banks were
+charging, and the industry started to voluntarily reduce some of
+these fees. CFPB estimated that these voluntary reductions saved
+consumers roughly $6 billion annually.6 Later, the CFPB proposed
+and finalized the overdraft rule that H.J. Res. 59 would rescind
+that would save consumers an additional $5 billion every year.
+H.J. Res. 59 will effectively increase bank junk fees for millions
+of consumers, including servicemembers and veterans. CFPB’s
+overdraft fee rule would benefit military families that live paycheck
+to paycheck. Nearly 80% of military families used checking ac-
+counts, and the CFPB’s overdraft fees rule would save roughly one-
+in-five households that pay overdraft fees amounting to around
+$225 each year. These excessive overdraft fees are harmful for jun-
+ior enlisted service members who are younger, less financially
+savvy, and struggling to make ends meet. Servicemembers have
+filed CFPB complaints over unfair or deceptive overdraft practices
+that have imposed unaffordable fees. The CFPB previously took an
+enforcement action against Navy Federal Credit Union for inappro-
+priate overdraft fees, requiring the credit union to repay $80 mil-
+lion to harmed customers, largely servicemembers and veterans.7
+Repealing CFPB’s rule will only expose servicemembers to exces-
+sive overdraft fees when they can least afford them.
+Furthermore, H.J. Res. 59 will allow big banks to charge exces-
+sive fees and encourage related exploitative practices. Most debit
+card overdrafts are repaid within three days and are used to cover
+transaction amounts that are less than $26, which is less than the
+average overdraft fee that is charged.8 Banks have been found to
+have manipulated the order of transactions to maximize fees or
+charged consumers overdraft fees even when their account had suf-
+ficient funds.9 Curbing excessive overdraft fees would discourage
+banks from engaging in these manipulative practices, while allow-
+ing them to charge a reasonable fee to provide this service to their
+customers.
+Moreover, this bill will undermine efforts to combat junk fees
+that raise the cost of living. This overdraft rule was part of an ef-
+fort by the Biden Administration to combat junk fees. In 2022, the
+CFPB launched an initiative to eliminate and reduce junk fees,
+which are inflated, hidden, or back-end fees that cut into con-
+sumers savings.10 For example, the CFPB finalized a rule to limit
+certain late fees that credit card companies could charge to $8 after
+it found that late fee income exceeds associated collection costs by
+5House Financial Services Committee, Markup of Various Measures (Jul. 27, 2022).
+6CFPB, Overdraft/NSF Revenue in 2023 down more than 50% versus pre-pandemic levels,
+saving consumers over $6 billion annually (Apr. 24, 2024).
+7AFR, Fact Sheet: AFREF Factsheet on CFPB Overdraft Rule Benefitting Servicemembers and
+Military Families (Feb. 19, 2025).
+8National Consumer Law Center (NCLC), Fact Sheet: AFREF Coalition Fact Sheet on CFPB
+Overdraft Rule (Jan. 21, 2025).
+9Id.
+10See CFPB, Junk Fees (Accessed Nov. 21, 2023).
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6604 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+
+10
+a factor of five.11 The CFPB estimates that this rule would save
+consumers up to $10 billion annually. The industry has sued the
+agency to try to block that rule.12 Additionally, the CFPB issued
+guidance in October 2023 to implement Section 1034(c) of Dodd-
+Frank, which generally prohibits large banks and credit unions
+from charging fees to provide basic account information to a con-
+sumer when they request it.13 In late May 2024, the CFPB initi-
+ated a public inquiry into the mortgage closing costs related junk
+fees, reporting that median total loan costs for a home mortgage in-
+creased by more than 36% from 2021 to 2023.14 The agency was
+searching for methods to reduce anticompetitive fees that harm
+homebuyers and lenders.15 Unfortunately, the industry and Con-
+gressional Republicans have fought back against many of these ef-
+forts to enrich megabanks that already are making record profits.16
+At a time when working-class families are already struggling
+with rising grocery prices, the cost of housing, and the con-
+sequences of the disastrous economic policies of the Trump Admin-
+istration, H.J. Res. 59 would make life even harder for the Amer-
+ican people by giving big banks permission to increase costs for
+consumers with excessively high overdraft fees.
+More than 200 consumer, civil rights, labor, legal services, com-
+munity organizations, and academics from across the country op-
+pose H.J. Res. 59, including: 20/20 Vision, Accountable.US, Amer-
+ican Association of People with Disabilities, American Friends
+Service Committee, Americans for Financial Reform (AFR), Blue
+Future, CAARMA, CAMEO Network, Center for Economic Justice,
+Center for Justice & Democracy, Center for LGBTQ Economic Ad-
+vancement & Research (CLEAR), Center for Responsible Lending
+(CRL), Center for Survivor Agency and Justice, Coalition on
+Human Needs, Consumer Action, Consumer Federation of America,
+Consumer Reports, Demand Progress Education Fund, Disability
+Belongs, Disability Rights Advocates, Equal Rights Advocates,
+Faith in Action National Network, Family Values @ Work, HEAL
+(Health, Environment, Agriculture, Labor) Food Alliance, Impact
+Fund, Interfaith Center on Corporate Responsibility, Justice in
+Aging, National Association for Latino Community Asset Builders
+(NALCAB), National Association of Consumer Advocates, National
+Black Justice Coalition, National Center for Law and Economic
+Justice, National Coalition for Asian Pacific American Community
+Development (National CAPACD), National Coalition for the
+Homeless, National Community Reinvestment Coalition (NCRC),
+National Consumer Law Center (on behalf of its low-income cli-
+ents), National Consumers League, National Disability Institute,
+National Employment Law Project, National Partnership for
+Women & Families, National Women’s Law Center, P Street, Peo-
+11CFPB, CFPB Bans Excessive Credit Card Late Fees, Lowers Typical Fee from $32 to $8
+(Mar. 5, 2024).
+12See Ballard Spahr Consumer Finance Monitor, CFPB and plaintiffs fully brief motion for
+preliminary injunction in trade group lawsuit regarding final credit card late fee rule (Mar. 15,
+2024).
+13CFPB, CFPB Issues Guidance to Halt Large Banks from Charging Illegal Junk Fees for
+Basic Customer Service (Oct. 11, 2023).
+14CFPB, CFPB Launches Inquiry into Junk Fees in Mortgage Closing Costs (May 30, 2024).
+15Id.
+16Bloomberg, JPMorgan Breaks Its Own Record for Best Year Ever With 18% Jump (Jan. 15,
+2025).
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6604 Sfmt 6602 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr
+
+11
+ple Power United, Public Citizen, Public Good Law Center, U.S.
+PIRG, and Woodstock Institute.17
+For these reasons, we strongly oppose H.J. Res. 59.
+Sincerely,
+MAXINE WATERS,
+Ranking Member.
+AL GREEN,
+EMANUEL CLEAVER, II,
+BILL FOSTER,
+JOYCE BEATTY,
+RASHIDA TLAIB,
+SYLVIA R. GARCIA,
+NIKEMA WILLIAMS,
+CLEO FIELDS,
+Members of Congress.
+Æ
+17NCLC, 201 Groups Oppose Repealing CFPB Overdraft Fee Rule (Feb. 5, 2025).
+VerDate Sep 11 2014 04:50 Mar 30, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6604 Sfmt 6611 E:\HR\OC\HR026.XXX HR026
+GNIRAEH
+htiw
+DORP3YLW3M8PAL
+no
+kcirederfr

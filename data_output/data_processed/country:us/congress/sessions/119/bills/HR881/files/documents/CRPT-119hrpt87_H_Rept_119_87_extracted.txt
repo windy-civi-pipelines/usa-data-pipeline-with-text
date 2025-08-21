@@ -1,0 +1,1041 @@
+Title: MAY5, 2025.—Committed to the Committee of the Whole House on the State of the
+Official Title: MAY5, 2025.—Committed to the Committee of the Whole House on the State of the
+Number of Sections: 10
+Source: documents - H. Rept. 119-87
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–87
+DHS RESTRICTIONS ON CONFUCIUS INSTITUTES AND
+CHINESE ENTITIES OF CONCERN ACT
+Union and ordered to be printed
+Mr. GREEN of Tennessee, from the Committee on Homeland
+Security, submitted the following
+R E P O R T
+[To accompany H.R. 881]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Homeland Security, to whom was referred the
+bill (H.R. 881) to establish Department of Homeland Security fund-
+ing restrictions on institutions of higher education that have a rela-
+tionship with Confucius Institutes, and for other purposes, having
+considered the same, reports favorably thereon with an amendment
+and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 3
+Background and Need for Legislation .................................................................... 3
+Hearings ................................................................................................................... 5
+Committee Consideration ........................................................................................ 6
+Committee Votes ...................................................................................................... 6
+Committee Oversight Findings ............................................................................... 6
+C.B.O. Estimate, New Budget Authority, Entitlement Authority, and Tax
+Expenditures ........................................................................................................ 6
+Federal Mandates Statement ................................................................................. 7
+Duplicative Federal Programs ................................................................................ 7
+Statement of General Performance Goals and Objectives .................................... 7
+Congressional Earmarks, Limited Tax Benefits, and Limited Tariff Benefits ... 7
+Advisory Committee Statement .............................................................................. 7
+Applicability to Legislative Branch ........................................................................ 7
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 8
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 06:40 May 06, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+2
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘DHS Restrictions on Confucius Institutes and Chi-
+nese Entities of Concern Act’’.
+SEC. 2. LIMITATIONS ON CONFUCIUS INSTITUTES’ HOST SCHOOLS.
+(a) DEFINITIONS.—In this section:
+(1) CHINESE ENTITY OF CONCERN.—The term ‘‘Chinese entity of concern’’
+means any university or college in the People’s Republic of China that—
+(A) is involved in the implementation of military-civil fusion;
+(B) participates in the Chinese defense industrial base;
+(C) is affiliated with the Chinese State Administration for Science, Tech-
+nology and Industry for the National Defense;
+(D) receives funding from any organization subordinate to the Central
+Military Commission of the Chinese Communist Party;
+(E) provides support to any security, defense, police, or intelligence orga-
+nization of the Government of the People’s Republic of China or the Chinese
+Communist Party;
+(F) purposefully undermines the United States’ relationship with Taiwan;
+(G) aids, abets, or enables the detention, imprisonment, persecution, or
+forced labor of Uyghur Muslims in the People’s Republic of China;
+(H) willfully and knowingly engages in malicious activities, including on-
+line disinformation campaigns and propaganda, for the purpose of inter-
+fering with United States Federal, State, or local elections; or
+(I) is affiliated with the Chinese Academy of Sciences.
+(2) CONFUCIUS INSTITUTE.—The term ‘‘Confucius Institute’’ means a cultural
+institute funded by the Government of the People’s Republic of China.
+(3) INSTITUTION OF HIGHER EDUCATION.—The term ‘‘institution of higher edu-
+cation’’ has the meaning given such term in section 102 of the Higher Education
+Act of 1965 (20 U.S.C. 1002).
+(4) RELATIONSHIP.—The term ‘‘relationship’’ means, with respect to an institu-
+tion of higher education, any contract awarded, or agreement entered into, as
+well as any in-kind donation or gift, received from a Confucius Institute or Chi-
+nese entity of concern.
+(5) THOUSAND TALENTS PROGRAM.—The term ‘‘Thousand Talents Program’’
+means any technological or educational program funded or administered by the
+Chinese Communist Party’s Ministry of Industry and Information Technology.
+(b) RESTRICTIONS ON INSTITUTIONS OF HIGHER EDUCATION.—Beginning with the
+first fiscal year that begins after the date that is 12 months after the date of the
+enactment of this Act, the Secretary of Homeland Security shall ensure that an in-
+stitution of higher education (referred to in this subsection as an ‘‘institution’’)
+which has a relationship with a Confucius Institute, Thousand Talents Program, or
+Chinese entity of concern is ineligible to receive any funds from the Department of
+Homeland Security, unless the institution terminates the relationship between the
+institution and such Confucius Institute, Thousand Talents Program, or Chinese en-
+tity of concern, as the case may be. Upon termination of such a relationship, the
+institution at issue shall be eligible to receive funds from the Department of Home-
+land Security.
+(c) WAIVER.—
+(1) INGENERAL.—The Secretary of Homeland Security may, after consultation
+with the Director of National Intelligence, on a case-by-case basis and for a pe-
+riod not to exceed one year, waive the application of subsection (b) with respect
+to an institution of higher education if the Secretary determines the institution
+at issue maintains robust safeguards and enforcement protocols to monitor the
+relationship at issue, including active measures to detect and deter attempts by
+Chinese nationals affiliated with a Confucius Institute, Thousand Talents Pro-
+gram, or Chinese entity of concern that is the subject of such relationship to
+gain unauthorized access to sensitive research, data, or federally funded devel-
+opment activities conducted at or on the premises of, or by, such institution, and
+either of the following conditions is satisfied:
+(A) The relationship at issue is in the national security interests of the
+United States.
+(B) The relationship at issue does not present a direct or indirect national
+security risk to the United States or its allies.
+(2) RENEWAL.—The Secretary of Homeland Security may, after consultation
+with the Director of National Intelligence, annually renew a waiver issued pur-
+suant to paragraph (1) if the Secretary determines all of the conditions de-
+scribed in such paragraph continue to be satisfied.
+VerDate Sep 11 2014 06:05 May 06, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+3
+(3) EFFECTIVEDATES.—A waiver issued or renewed pursuant to paragraph (1)
+or (2), respectively, takes effect and applies beginning on the date that is 30
+days after such issuance or renewal, as the case may be.
+(4) NOTIFICATION.—If the Secretary of Homeland Security, after consultation
+with the Director of National Intelligence, issues or renews a waiver pursuant
+to paragraph (1) or (2), respectively, not later than 30 days before such issuance
+or renewal, as the case may be, takes effect, the Secretary shall submit to the
+Committee on Homeland Security of the House of Representatives and the Com-
+mittee on Homeland Security and Governmental Affairs of the Senate written
+notification regarding such issuance or renewal, including a justification relat-
+ing thereto.
+(d) ASSISTANCE.—The Secretary of Homeland Security shall provide outreach and,
+upon request, technical assistance to institutions of higher education relating to
+compliance with this Act.
+(e) REPORTS.—Not later than 18 months after the date of the enactment of this
+Act and annually thereafter, the Secretary of Homeland Security shall submit to the
+Committee on Homeland Security of the House of Representatives and the Com-
+mittee on Homeland Security and Governmental Affairs of the Senate a report re-
+garding implementation of this section during the immediately preceding 12 month
+period. Each such report shall include information relating to the following:
+(1) Any institution of higher education that has a relationship with a Confu-
+cius Institute, Thousand Talents Program, or Chinese entity of concern and re-
+ceives funds from the Department of Homeland Security.
+(2) The implementation of subsections (b), (c), and (d).
+PURPOSE AND SUMMARY
+H.R. 881, the ‘‘DHS Restrictions on Confucius Institutes and Chi-
+nese Entities of Concern Act,’’ prohibits the Department of Home-
+land Security (DHS) from providing any funds to any United States
+institution of higher education that has a relationship with a Con-
+fucius Institute (CI) funded by the Government of the People’s Re-
+public of China (PRC). H.R. 881 also bars such funds to any insti-
+tution of higher education with a ‘‘Thousand Talents Program’’ or
+‘‘Chinese Entity of Concern’’ that has a relationship with the Chi-
+nese Communist Party (CCP), supports China’s Military-Civil Fu-
+sion (MCF) programs, the PRC’s Ministry of State Security, or the
+PRC’s Ministry of Science and Technology. If an institution of high-
+er education completely terminates the relationship with the CI or
+Chinese entity of concern, the institution will be eligible to receive
+funds from DHS. The Secretary may waive a restriction on funding
+in limited circumstances where the institution maintains robust
+safeguards and enforcement protocols and has measures to detect
+or deter any efforts by the PRC to gain access to sensitive research,
+and the relationship at issue does not present a national security
+risk to the U.S. or its allies or is in the national security interest
+of the U.S.
+BACKGROUND AND NEED FOR LEGISLATION
+For years, the CCP, working through the People’s Liberation
+Army (PLA), has executed sophisticated propaganda and espionage
+campaigns across the globe. Of particular concern, is the CCP’s
+practice of exploiting the open and collaborative nature of Amer-
+ican academia, to conduct widespread industrial and military espio-
+nage inside the United States.
+VerDate Sep 11 2014 06:05 May 06, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+4
+Confucius Institutes were first established in America in 2004.1
+These initiatives were marketed by the CCP as a mechanism to
+promote Chinese language and culture, support local Chinese
+teaching internationally, and facilitate cultural exchanges.2 How-
+ever, it quickly became apparent that CIs were an extension of the
+CCP’s global influence apparatus, allowing it to impact the deci-
+sions of academic institutions, conduct espionage inside the home-
+land, and promote MCF programs.34 MCF is the CCP’s aggressive
+national strategy to help the PRC develop the most technologically
+advanced military in the world by the year 2049, often through the
+theft of American intellectual property and trade secrets.5 The Fed-
+eral Bureau of Investigation determined that the U.S. economy
+loses between $225 and $600 billion annually to the PRC due to
+counterfeit goods, pirated software, and the theft of trade secrets.6
+Although there are less than five active CIs left in existence in
+the United States, the Government Accountability Office (GAO) has
+found that 43 out of the 74 schools surveyed still maintain a rela-
+tionship with an entity that supported their previous CI.7 Congress
+has not been able to keep up in combatting these new entities be-
+cause of the rapidly evolving nature of these threats. There is little
+to no transparency from institutions of higher learning in what
+type of assistance they receive from the PRC. Data collected by the
+Department of Education from June 22, 2020, to April 6, 2023,
+shows that universities in the United States have collected over $3
+billion from entities connected to the PRC and the CCP.8 Further
+complicating matters is the PRC’s 2017 National Intelligence Law,
+which obligates individuals, organizations, and institutions to as-
+sist the PRC security and intelligence services in advancing a wide
+variety of intelligence work.9
+The United States Government has taken some successful action
+against this encroachment in the last several years. Congress has
+already passed two statutes limiting the Department of Defense’s
+(DOD) ability to fund U.S. universities that host a CI.10 For exam-
+ple, the Fiscal Year (FY) 2019 National Defense Authorization Act
+(NDAA) included provisions barring DOD from obligating or ex-
+1U.S. Gov’t Accountability Office, GAO–19–278, China: Agreements Establishing Confucius
+Institutes at U.S. Universities Are Similar, but Institute Operations Vary (2019), https://
+www.gao.gov/assets/gao-19-278.pdf.
+2Congressional Research Service, Confucius Institutes in the United States: Selected Issues
+(2023) https://crsreports.congress.gov/product/pdf/IF/IF11180.
+3U.S. State Department, ‘‘Confucius Institutes U.S. Center’’ Designation as a Foreign Mission,
+https://2017-2021.state.gov/confucius-institute-u-s-center-designation-as-a-foreign-mission/.
+4U.S. Department of Justice, Texas Professor and NASA Researcher Arrested on Charges Re-
+lated to China’s Talent Program, https://www.justice.gov/usao-sdtx/pr/texas-professor-and-nasa-
+researcher-arrested-charges-related-china-s-talents-program (2020).
+5U.S. State Department, Military-Civil Fusion of the People’s Republic of China, 2020, https://
+www.state.gov/wp-content/uploads/2020/05/What-is-MCF-One-Pager.pdf.
+6Fed. Bureau of Investigations, China: the Risk to Academia, https://www.fbi.gov/file-
+repository/counterintelligence/china-risk-to-academia-2019.pdf/view.
+7U.S. Government Accountability Office, ‘‘China: With Nearly All U.S. Confucius Institutes
+Closed, Some Schools Sought Alternative Language Support’’ Report Number GAO–24–105981,
+October 30, 2023, https://www.gao.gov/assets/d24105981.pdf.
+8U.S. Department of Education, College and Foreign Gift Report, https://sites.ed.gov/
+foreigngifts/.
+9U.S. Department of Homeland Security, Data Security Business Advisory: Risks and Consid-
+erations for Businesses Using Data Services and Equipment From Firms Linked to the People’s
+Republic of China, https://www.dhs.gov/sites/default/files/publications/20_1222_data-security-
+business-advisory.pdf.
+10U.S. Government Accountability Office, ‘‘China: With Nearly All U.S. Confucius Institutes
+Closed, Some Schools Sought Alternative Language Support’’ Report Number GAO–24–105981,
+October 30, 2023, https://www.gao.gov/assets/d24105981.pdf.
+VerDate Sep 11 2014 06:05 May 06, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+5
+pending funds for Chinese language instruction provided by a CI.11
+It also restricted DOD’s ability to use funds to support Chinese lan-
+guage programs at U.S. universities that host a CI.12 Subse-
+quently, the FY 2021 NDAA prohibited the DOD from providing
+any funding to institutions of higher education that host CIs.13 Im-
+portantly, while both acts allow for waivers of the limitations if cer-
+tain elements are met, no waivers have been granted altogether
+since May of 2023, according to the GAO.14 The waiver and assist-
+ance language included in this measure may be used by the Sec-
+retary of Homeland Security to help American institutions of high-
+er education avoid unintended outcomes, such as a U.S. univer-
+sity’s exchange program with a Chinese university on a topic whol-
+ly unrelated to national security resulting in denial of Federal
+Emergency Management Agency assistance following a natural dis-
+aster because the Chinese university met the bill’s broad definition
+of ‘‘Chinese entity of concern’’ unbeknownst to the U.S. university.
+H.R. 881, the ‘‘DHS Restrictions on Confucius Institutes and Chi-
+nese Entities of Concern Act,’’ ensures that universities and other
+institutions of higher education prioritize the security of their sci-
+entific research and technological development efforts above a rela-
+tionship or funding from entities affiliated with the CCP or PLA.
+Specifically, this legislation restricts DHS funding from going to
+universities who maintain relationships with entities connected to
+the CCP or support the PRC’s MCF programs. This bill helps en-
+sure taxpayer dollars are appropriately used and encourages uni-
+versities to end relationships with partners who do not have Amer-
+ica’s best interests in mind. More importantly, this bill helps to free
+U.S. institutions from the PRC’s foreign influence and ensure safe-
+ty from the theft of their critical research and development work.
+HEARINGS
+The Committee held the following hearing in the 119th Congress
+that informed H.R. 881:
+On March 5, 2025, the Full Committee held a hearing entitled
+‘‘Countering Threats Posed by the Chinese Communist Party to
+U.S. National Security.’’ The Committee received testimony from
+Dr. Michael Pillsbury, Senior Fellow for China Strategy, the Herit-
+age Foundation; the Honorable William R. Evanina, founder and
+CEO, the Eviana Group; Craig Singleton, China Program Senior
+Director and Senior Fellow, Foundation for Defense of Democracies;
+and Dr. Rush Doshi, Assistant Professor of Security Studies,
+Georgetown University Walsh School of Foreign Service and C.V.
+Starr Senior Fellow for Asia Studies and Director of the China
+Strategy Initiative, Council on Foreign Relations.
+11Id. at 6.
+12Id.
+13United States Congress, Section 1062 of the H.R. 6395 William M. (MAC) Thornberry Na-
+tional Defense Authorization Act for Fiscal Year 2021, https://www.congress.gov/116/plaws/
+publ283/PLAW-116publ283.pdf.
+14U.S. Government Accountability Office, ‘‘China: With Nearly All U.S. Confucius Institutes
+Closed, Some Schools Sought Alternative Language Support’’ Report Number GAO–24–105981,
+October 30, 2023, https://www.gao.gov/assets/d24105981.pdf.
+VerDate Sep 11 2014 06:05 May 06, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+6
+COMMITTEE CONSIDERATION
+The Committee met on April 9, 2025, a quorum being present,
+to consider H.R. 881 and ordered the measure to be favorably re-
+ported, as amended, to the House by voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the re-
+corded votes on the motion to report legislation and amendments
+thereto.
+No recorded votes were requested during consideration of H.R.
+
+Section 4:
+881.
+COMMITTEE OVERSIGHT FINDINGS
+In compliance with clause 3(c)(1) of rule XIII, the Committee ad-
+vises that the findings and recommendations of the Committee,
+based on oversight activities under clause 2(b)(1) of rule X, are in-
+corporated in the descriptive portions of this report.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE, NEW BUDGET AUTHORITY,
+ENTITLEMENT AUTHORITY, AND TAX EXPENDITURES
+With respect to the requirements of clause 3(c)(2) of rule XIII
+and section 308(a) of the Congressional Budget Act of 1974, and
+with respect to the requirements of clause 3(c)(3) of rule XIII and
+
+Section 5:
+section 402 of the Congressional Budget Act of 1974, the Com-
+mittee adopts as its own the estimate of any new budget authority,
+spending authority, credit authority, or an increase or decrease in
+revenues or tax expenditures contained in the cost estimate pre-
+pared by the Director of the Congressional Budget Office.
+H.R. 881 would prohibit the Department of Homeland Security
+(DHS) from providing funds to any higher education institution
+that hosts Confucius Institutes, which are nonprofit cultural and
+educational centers funded by the Chinese government. That prohi-
+bition also would apply to institutions that have financial relation-
+VerDate Sep 11 2014 06:05 May 06, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 6:
+100.78RH
+ereh
+9 oilof
+tesffo
+tresnI
+7
+ships with Chinese universities or colleges that meet other criteria
+such as receiving funding from or providing support to elements of
+the Chinese Communist Party. H.R. 881 also would require DHS
+to report to the Congress on the number of education institutions
+that maintain relationships with Chinese entities of concern and
+receive funds from the department.
+The requirements of H.R. 881 would not change the total amount
+of funding DHS provides to higher education institutions. CBO ex-
+pects that the department would update its contracting and federal
+assistance procedures to ensure that it complies with H.R. 881.
+CBO estimates that those administrative and reporting efforts
+would cost less than $500,000. Any spending would be subject to
+the availability of appropriated funds.
+The CBO staff contact for this estimate is Aldo Prosperi. The es-
+timate was reviewed by Christina Hawley Anthony, Deputy Direc-
+tor of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act of
+
+Section 7:
+1995.
+DUPLICATIVE FEDERAL PROGRAMS
+Pursuant to clause 3(c) of rule XIII, the Committee finds that
+H.R. 881 does not contain any provision that establishes or reau-
+thorizes a program known to be duplicative of another Federal pro-
+gram.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the objective of H.R. 881
+is to establish Department of Homeland Security funding restric-
+tions on institutions of higher education that have a relationship
+with Confucius Institutes.
+CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND LIMITED
+TARIFF BENEFITS
+In compliance with rule XXI, this bill, as reported, contains no
+congressional earmarks, limited tax benefits, or limited tariff bene-
+fits as defined in clause 9(d), 9(e), or 9(f) of rule XXI.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that H.R. 881 does not relate to the terms
+and conditions of employment or access to public services or accom-
+modations within the meaning of section 102(b)(3) of the Congres-
+sional Accountability Act.
+VerDate Sep 11 2014 06:05 May 06, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+8
+
+Section 8:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 9:
+Section 1. Short title
+This section states that the Act may be cited as the ‘‘DHS Re-
+strictions on Confucius Institutes Act and Chinese Entities of Con-
+cern Act’’.
+
+Section 10:
+Section 2. Limitations on Confucius Institutes’ host schools
+Subsection (a) paragraph (1) defines the term ‘‘Chinese Entity of
+Concern’’ as a university or college located in the PRC that is in-
+volved with the implementation of MCF programs; supports the
+PRC’s defense industrial base; is affiliated with the Chinese State
+Administration for Science, Technology, and Industry for the Na-
+tional Defense; receives any funding from any organization that is
+subordinate to the Central Military Commission of the CCP; pro-
+vides support to any security, defense, police, or intelligence organi-
+zation of the Government of the PRC or CCP; purposefully under-
+mines the United States’ relationship with Taiwan; aids, abets or
+enables the detention, imprisonment, persecution, or forced labor of
+Uyghur Muslims in the PRC; willfully and knowingly engages in
+malicious activities, including online disinformation campaigns and
+propaganda, for the purpose of interfering with the United States
+Federal, State, or local elections; or, is affiliated with the Chinese
+Academy of Sciences.
+Subsection (a) paragraph (2) defines the term ‘‘Confucius Insti-
+tute’’ as any cultural institute that is funded by the Government
+of the PRC.
+Subsection (a) paragraph (3) defines the term ‘‘institution of
+higher education’’ as the meaning given in section 102 of the 20
+U.S.C. 1002.
+Subsection (a) paragraph (4) defines the term ‘‘relationship’’ as
+any in-kind donation or gift, contract awarded, or agreement en-
+tered into by an institution of higher education within the United
+States and any CI or Chinese entity of concern.
+Subsection (a) paragraph (5) defines the term ‘‘Thousand Talents
+Program’’ as any technological or educational program funded or
+administered by the Chinese Communist Party’s Ministry of Indus-
+try and Information Technology.
+Subsection (b) requires the Secretary of Homeland Security to en-
+sure that any institution of higher education within the United
+States which has a relationship with a Confucius Institute, Thou-
+sand Talents Program, or Chinese entity of concern is ineligible to
+receive any funds from the Department of Homeland Security with-
+in one year of enactment of this legislation. If an institution of
+higher education completely terminates the relationship with the
+Confucius Institute, Thousand Talents Program, or Chinese entity
+of concern, the institution will be eligible to receive funds from the
+Department of Homeland Security.
+Subsection (c) paragraph (1) allows the Secretary of Homeland
+Security to, after consultation with the Director of National Intel-
+ligence, waive the application of subsection (b) on a case-by-case
+basis and for a period not to exceed one year to institutions of high-
+er education. The Secretary may issue such a waiver if the Sec-
+retary determines that the institution at issue maintains robust
+safeguards and enforcement protocols to monitor the relationship
+VerDate Sep 11 2014 06:05 May 06, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+9
+at issue, including active measures to detect and deter attempts by
+Chinese nationals affiliated with a Confucius Institute, Thousand
+Talents Program, or Chinese entity of concern that is the subject
+to such relationship to gain unauthorized access to sensitive re-
+search, data, or federally funded development activities conducted
+at or on the premises of, or by, such institution. In addition, the
+relationship at issue must be either in the national security inter-
+ests of the United States or not present a direct or indirect national
+security risk to the United States or its allies.
+Subsection (c) paragraph (2) allows the Secretary to, after con-
+sultation with the Director of National Intelligence, annually renew
+a waiver issued pursuant to paragraph (1) if the Secretary deter-
+mines all of the conditions described in such paragraph continue to
+be satisfied.
+Subsection (c) paragraph (3) clarifies that a waiver issued or re-
+newed pursuant to paragraph (1) or (2) takes effect and applies be-
+ginning on the date that is 30 days after such issuance or renewal.
+Subsection (c) paragraph (4) requires the Secretary of Homeland
+Security, if the Secretary of Homeland Security after consultation
+with the Director of National Intelligence issues or renews a waiver
+pursuant to paragraphs (1) or (2), to submit to the Committee on
+Homeland Security of the House of Representatives and the Com-
+mittee on Homeland Security and Governmental Affairs of the Sen-
+ate written notification regarding such issuance or renewal, includ-
+ing a justification relating thereto, not later than 30 days before
+such issuance or renewal.
+Subsection (d) requires the Secretary of Homeland Security to
+provide outreach to and, upon request, technical to institutions of
+higher education relating to compliance of the Act.
+Subsection (e) requires the Secretary of Homeland Security to
+submit to the Committee on Homeland Security of the House of
+Representatives and the Committee on Homeland Security and
+Governmental Affairs of the Senate a report containing information
+on higher education institution that has a relationship with a Con-
+fucius Institute, Thousand Talents Program, or Chinese entity of
+concern and receives funds from the Department of Homeland Se-
+curity.
+Æ
+VerDate Sep 11 2014 06:05 May 06, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6611 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–87
+DHS RESTRICTIONS ON CONFUCIUS INSTITUTES AND
+CHINESE ENTITIES OF CONCERN ACT
+MAY5, 2025.—Committed to the Committee of the Whole House on the State of the
+Union and ordered to be printed
+Mr. GREEN of Tennessee, from the Committee on Homeland
+Security, submitted the following
+R E P O R T
+[To accompany H.R. 881]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Homeland Security, to whom was referred the
+bill (H.R. 881) to establish Department of Homeland Security fund-
+ing restrictions on institutions of higher education that have a rela-
+tionship with Confucius Institutes, and for other purposes, having
+considered the same, reports favorably thereon with an amendment
+and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 3
+Background and Need for Legislation .................................................................... 3
+Hearings ................................................................................................................... 5
+Committee Consideration ........................................................................................ 6
+Committee Votes ...................................................................................................... 6
+Committee Oversight Findings ............................................................................... 6
+C.B.O. Estimate, New Budget Authority, Entitlement Authority, and Tax
+Expenditures ........................................................................................................ 6
+Federal Mandates Statement ................................................................................. 7
+Duplicative Federal Programs ................................................................................ 7
+Statement of General Performance Goals and Objectives .................................... 7
+Congressional Earmarks, Limited Tax Benefits, and Limited Tariff Benefits ... 7
+Advisory Committee Statement .............................................................................. 7
+Applicability to Legislative Branch ........................................................................ 7
+Section-by-Section Analysis of the Legislation ...................................................... 8
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 06:40 May 06, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+2
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘DHS Restrictions on Confucius Institutes and Chi-
+nese Entities of Concern Act’’.
+SEC. 2. LIMITATIONS ON CONFUCIUS INSTITUTES’ HOST SCHOOLS.
+(a) DEFINITIONS.—In this section:
+(1) CHINESE ENTITY OF CONCERN.—The term ‘‘Chinese entity of concern’’
+means any university or college in the People’s Republic of China that—
+(A) is involved in the implementation of military-civil fusion;
+(B) participates in the Chinese defense industrial base;
+(C) is affiliated with the Chinese State Administration for Science, Tech-
+nology and Industry for the National Defense;
+(D) receives funding from any organization subordinate to the Central
+Military Commission of the Chinese Communist Party;
+(E) provides support to any security, defense, police, or intelligence orga-
+nization of the Government of the People’s Republic of China or the Chinese
+Communist Party;
+(F) purposefully undermines the United States’ relationship with Taiwan;
+(G) aids, abets, or enables the detention, imprisonment, persecution, or
+forced labor of Uyghur Muslims in the People’s Republic of China;
+(H) willfully and knowingly engages in malicious activities, including on-
+line disinformation campaigns and propaganda, for the purpose of inter-
+fering with United States Federal, State, or local elections; or
+(I) is affiliated with the Chinese Academy of Sciences.
+(2) CONFUCIUS INSTITUTE.—The term ‘‘Confucius Institute’’ means a cultural
+institute funded by the Government of the People’s Republic of China.
+(3) INSTITUTION OF HIGHER EDUCATION.—The term ‘‘institution of higher edu-
+cation’’ has the meaning given such term in section 102 of the Higher Education
+Act of 1965 (20 U.S.C. 1002).
+(4) RELATIONSHIP.—The term ‘‘relationship’’ means, with respect to an institu-
+tion of higher education, any contract awarded, or agreement entered into, as
+well as any in-kind donation or gift, received from a Confucius Institute or Chi-
+nese entity of concern.
+(5) THOUSAND TALENTS PROGRAM.—The term ‘‘Thousand Talents Program’’
+means any technological or educational program funded or administered by the
+Chinese Communist Party’s Ministry of Industry and Information Technology.
+(b) RESTRICTIONS ON INSTITUTIONS OF HIGHER EDUCATION.—Beginning with the
+first fiscal year that begins after the date that is 12 months after the date of the
+enactment of this Act, the Secretary of Homeland Security shall ensure that an in-
+stitution of higher education (referred to in this subsection as an ‘‘institution’’)
+which has a relationship with a Confucius Institute, Thousand Talents Program, or
+Chinese entity of concern is ineligible to receive any funds from the Department of
+Homeland Security, unless the institution terminates the relationship between the
+institution and such Confucius Institute, Thousand Talents Program, or Chinese en-
+tity of concern, as the case may be. Upon termination of such a relationship, the
+institution at issue shall be eligible to receive funds from the Department of Home-
+land Security.
+(c) WAIVER.—
+(1) INGENERAL.—The Secretary of Homeland Security may, after consultation
+with the Director of National Intelligence, on a case-by-case basis and for a pe-
+riod not to exceed one year, waive the application of subsection (b) with respect
+to an institution of higher education if the Secretary determines the institution
+at issue maintains robust safeguards and enforcement protocols to monitor the
+relationship at issue, including active measures to detect and deter attempts by
+Chinese nationals affiliated with a Confucius Institute, Thousand Talents Pro-
+gram, or Chinese entity of concern that is the subject of such relationship to
+gain unauthorized access to sensitive research, data, or federally funded devel-
+opment activities conducted at or on the premises of, or by, such institution, and
+either of the following conditions is satisfied:
+(A) The relationship at issue is in the national security interests of the
+United States.
+(B) The relationship at issue does not present a direct or indirect national
+security risk to the United States or its allies.
+(2) RENEWAL.—The Secretary of Homeland Security may, after consultation
+with the Director of National Intelligence, annually renew a waiver issued pur-
+suant to paragraph (1) if the Secretary determines all of the conditions de-
+scribed in such paragraph continue to be satisfied.
+VerDate Sep 11 2014 06:05 May 06, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+3
+(3) EFFECTIVEDATES.—A waiver issued or renewed pursuant to paragraph (1)
+or (2), respectively, takes effect and applies beginning on the date that is 30
+days after such issuance or renewal, as the case may be.
+(4) NOTIFICATION.—If the Secretary of Homeland Security, after consultation
+with the Director of National Intelligence, issues or renews a waiver pursuant
+to paragraph (1) or (2), respectively, not later than 30 days before such issuance
+or renewal, as the case may be, takes effect, the Secretary shall submit to the
+Committee on Homeland Security of the House of Representatives and the Com-
+mittee on Homeland Security and Governmental Affairs of the Senate written
+notification regarding such issuance or renewal, including a justification relat-
+ing thereto.
+(d) ASSISTANCE.—The Secretary of Homeland Security shall provide outreach and,
+upon request, technical assistance to institutions of higher education relating to
+compliance with this Act.
+(e) REPORTS.—Not later than 18 months after the date of the enactment of this
+Act and annually thereafter, the Secretary of Homeland Security shall submit to the
+Committee on Homeland Security of the House of Representatives and the Com-
+mittee on Homeland Security and Governmental Affairs of the Senate a report re-
+garding implementation of this section during the immediately preceding 12 month
+period. Each such report shall include information relating to the following:
+(1) Any institution of higher education that has a relationship with a Confu-
+cius Institute, Thousand Talents Program, or Chinese entity of concern and re-
+ceives funds from the Department of Homeland Security.
+(2) The implementation of subsections (b), (c), and (d).
+PURPOSE AND SUMMARY
+H.R. 881, the ‘‘DHS Restrictions on Confucius Institutes and Chi-
+nese Entities of Concern Act,’’ prohibits the Department of Home-
+land Security (DHS) from providing any funds to any United States
+institution of higher education that has a relationship with a Con-
+fucius Institute (CI) funded by the Government of the People’s Re-
+public of China (PRC). H.R. 881 also bars such funds to any insti-
+tution of higher education with a ‘‘Thousand Talents Program’’ or
+‘‘Chinese Entity of Concern’’ that has a relationship with the Chi-
+nese Communist Party (CCP), supports China’s Military-Civil Fu-
+sion (MCF) programs, the PRC’s Ministry of State Security, or the
+PRC’s Ministry of Science and Technology. If an institution of high-
+er education completely terminates the relationship with the CI or
+Chinese entity of concern, the institution will be eligible to receive
+funds from DHS. The Secretary may waive a restriction on funding
+in limited circumstances where the institution maintains robust
+safeguards and enforcement protocols and has measures to detect
+or deter any efforts by the PRC to gain access to sensitive research,
+and the relationship at issue does not present a national security
+risk to the U.S. or its allies or is in the national security interest
+of the U.S.
+BACKGROUND AND NEED FOR LEGISLATION
+For years, the CCP, working through the People’s Liberation
+Army (PLA), has executed sophisticated propaganda and espionage
+campaigns across the globe. Of particular concern, is the CCP’s
+practice of exploiting the open and collaborative nature of Amer-
+ican academia, to conduct widespread industrial and military espio-
+nage inside the United States.
+VerDate Sep 11 2014 06:05 May 06, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+4
+Confucius Institutes were first established in America in 2004.1
+These initiatives were marketed by the CCP as a mechanism to
+promote Chinese language and culture, support local Chinese
+teaching internationally, and facilitate cultural exchanges.2 How-
+ever, it quickly became apparent that CIs were an extension of the
+CCP’s global influence apparatus, allowing it to impact the deci-
+sions of academic institutions, conduct espionage inside the home-
+land, and promote MCF programs.34 MCF is the CCP’s aggressive
+national strategy to help the PRC develop the most technologically
+advanced military in the world by the year 2049, often through the
+theft of American intellectual property and trade secrets.5 The Fed-
+eral Bureau of Investigation determined that the U.S. economy
+loses between $225 and $600 billion annually to the PRC due to
+counterfeit goods, pirated software, and the theft of trade secrets.6
+Although there are less than five active CIs left in existence in
+the United States, the Government Accountability Office (GAO) has
+found that 43 out of the 74 schools surveyed still maintain a rela-
+tionship with an entity that supported their previous CI.7 Congress
+has not been able to keep up in combatting these new entities be-
+cause of the rapidly evolving nature of these threats. There is little
+to no transparency from institutions of higher learning in what
+type of assistance they receive from the PRC. Data collected by the
+Department of Education from June 22, 2020, to April 6, 2023,
+shows that universities in the United States have collected over $3
+billion from entities connected to the PRC and the CCP.8 Further
+complicating matters is the PRC’s 2017 National Intelligence Law,
+which obligates individuals, organizations, and institutions to as-
+sist the PRC security and intelligence services in advancing a wide
+variety of intelligence work.9
+The United States Government has taken some successful action
+against this encroachment in the last several years. Congress has
+already passed two statutes limiting the Department of Defense’s
+(DOD) ability to fund U.S. universities that host a CI.10 For exam-
+ple, the Fiscal Year (FY) 2019 National Defense Authorization Act
+(NDAA) included provisions barring DOD from obligating or ex-
+1U.S. Gov’t Accountability Office, GAO–19–278, China: Agreements Establishing Confucius
+Institutes at U.S. Universities Are Similar, but Institute Operations Vary (2019), https://
+www.gao.gov/assets/gao-19-278.pdf.
+2Congressional Research Service, Confucius Institutes in the United States: Selected Issues
+(2023) https://crsreports.congress.gov/product/pdf/IF/IF11180.
+3U.S. State Department, ‘‘Confucius Institutes U.S. Center’’ Designation as a Foreign Mission,
+https://2017-2021.state.gov/confucius-institute-u-s-center-designation-as-a-foreign-mission/.
+4U.S. Department of Justice, Texas Professor and NASA Researcher Arrested on Charges Re-
+lated to China’s Talent Program, https://www.justice.gov/usao-sdtx/pr/texas-professor-and-nasa-
+researcher-arrested-charges-related-china-s-talents-program (2020).
+5U.S. State Department, Military-Civil Fusion of the People’s Republic of China, 2020, https://
+www.state.gov/wp-content/uploads/2020/05/What-is-MCF-One-Pager.pdf.
+6Fed. Bureau of Investigations, China: the Risk to Academia, https://www.fbi.gov/file-
+repository/counterintelligence/china-risk-to-academia-2019.pdf/view.
+7U.S. Government Accountability Office, ‘‘China: With Nearly All U.S. Confucius Institutes
+Closed, Some Schools Sought Alternative Language Support’’ Report Number GAO–24–105981,
+October 30, 2023, https://www.gao.gov/assets/d24105981.pdf.
+8U.S. Department of Education, College and Foreign Gift Report, https://sites.ed.gov/
+foreigngifts/.
+9U.S. Department of Homeland Security, Data Security Business Advisory: Risks and Consid-
+erations for Businesses Using Data Services and Equipment From Firms Linked to the People’s
+Republic of China, https://www.dhs.gov/sites/default/files/publications/20_1222_data-security-
+business-advisory.pdf.
+10U.S. Government Accountability Office, ‘‘China: With Nearly All U.S. Confucius Institutes
+Closed, Some Schools Sought Alternative Language Support’’ Report Number GAO–24–105981,
+October 30, 2023, https://www.gao.gov/assets/d24105981.pdf.
+VerDate Sep 11 2014 06:05 May 06, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+5
+pending funds for Chinese language instruction provided by a CI.11
+It also restricted DOD’s ability to use funds to support Chinese lan-
+guage programs at U.S. universities that host a CI.12 Subse-
+quently, the FY 2021 NDAA prohibited the DOD from providing
+any funding to institutions of higher education that host CIs.13 Im-
+portantly, while both acts allow for waivers of the limitations if cer-
+tain elements are met, no waivers have been granted altogether
+since May of 2023, according to the GAO.14 The waiver and assist-
+ance language included in this measure may be used by the Sec-
+retary of Homeland Security to help American institutions of high-
+er education avoid unintended outcomes, such as a U.S. univer-
+sity’s exchange program with a Chinese university on a topic whol-
+ly unrelated to national security resulting in denial of Federal
+Emergency Management Agency assistance following a natural dis-
+aster because the Chinese university met the bill’s broad definition
+of ‘‘Chinese entity of concern’’ unbeknownst to the U.S. university.
+H.R. 881, the ‘‘DHS Restrictions on Confucius Institutes and Chi-
+nese Entities of Concern Act,’’ ensures that universities and other
+institutions of higher education prioritize the security of their sci-
+entific research and technological development efforts above a rela-
+tionship or funding from entities affiliated with the CCP or PLA.
+Specifically, this legislation restricts DHS funding from going to
+universities who maintain relationships with entities connected to
+the CCP or support the PRC’s MCF programs. This bill helps en-
+sure taxpayer dollars are appropriately used and encourages uni-
+versities to end relationships with partners who do not have Amer-
+ica’s best interests in mind. More importantly, this bill helps to free
+U.S. institutions from the PRC’s foreign influence and ensure safe-
+ty from the theft of their critical research and development work.
+HEARINGS
+The Committee held the following hearing in the 119th Congress
+that informed H.R. 881:
+On March 5, 2025, the Full Committee held a hearing entitled
+‘‘Countering Threats Posed by the Chinese Communist Party to
+U.S. National Security.’’ The Committee received testimony from
+Dr. Michael Pillsbury, Senior Fellow for China Strategy, the Herit-
+age Foundation; the Honorable William R. Evanina, founder and
+CEO, the Eviana Group; Craig Singleton, China Program Senior
+Director and Senior Fellow, Foundation for Defense of Democracies;
+and Dr. Rush Doshi, Assistant Professor of Security Studies,
+Georgetown University Walsh School of Foreign Service and C.V.
+Starr Senior Fellow for Asia Studies and Director of the China
+Strategy Initiative, Council on Foreign Relations.
+11Id. at 6.
+12Id.
+13United States Congress, Section 1062 of the H.R. 6395 William M. (MAC) Thornberry Na-
+tional Defense Authorization Act for Fiscal Year 2021, https://www.congress.gov/116/plaws/
+publ283/PLAW-116publ283.pdf.
+14U.S. Government Accountability Office, ‘‘China: With Nearly All U.S. Confucius Institutes
+Closed, Some Schools Sought Alternative Language Support’’ Report Number GAO–24–105981,
+October 30, 2023, https://www.gao.gov/assets/d24105981.pdf.
+VerDate Sep 11 2014 06:05 May 06, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+6
+COMMITTEE CONSIDERATION
+The Committee met on April 9, 2025, a quorum being present,
+to consider H.R. 881 and ordered the measure to be favorably re-
+ported, as amended, to the House by voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the re-
+corded votes on the motion to report legislation and amendments
+thereto.
+No recorded votes were requested during consideration of H.R.
+881.
+COMMITTEE OVERSIGHT FINDINGS
+In compliance with clause 3(c)(1) of rule XIII, the Committee ad-
+vises that the findings and recommendations of the Committee,
+based on oversight activities under clause 2(b)(1) of rule X, are in-
+corporated in the descriptive portions of this report.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE, NEW BUDGET AUTHORITY,
+ENTITLEMENT AUTHORITY, AND TAX EXPENDITURES
+With respect to the requirements of clause 3(c)(2) of rule XIII
+and section 308(a) of the Congressional Budget Act of 1974, and
+with respect to the requirements of clause 3(c)(3) of rule XIII and
+section 402 of the Congressional Budget Act of 1974, the Com-
+mittee adopts as its own the estimate of any new budget authority,
+spending authority, credit authority, or an increase or decrease in
+revenues or tax expenditures contained in the cost estimate pre-
+pared by the Director of the Congressional Budget Office.
+H.R. 881 would prohibit the Department of Homeland Security
+(DHS) from providing funds to any higher education institution
+that hosts Confucius Institutes, which are nonprofit cultural and
+educational centers funded by the Chinese government. That prohi-
+bition also would apply to institutions that have financial relation-
+VerDate Sep 11 2014 06:05 May 06, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+100.78RH
+ereh
+9 oilof
+tesffo
+tresnI
+
+7
+ships with Chinese universities or colleges that meet other criteria
+such as receiving funding from or providing support to elements of
+the Chinese Communist Party. H.R. 881 also would require DHS
+to report to the Congress on the number of education institutions
+that maintain relationships with Chinese entities of concern and
+receive funds from the department.
+The requirements of H.R. 881 would not change the total amount
+of funding DHS provides to higher education institutions. CBO ex-
+pects that the department would update its contracting and federal
+assistance procedures to ensure that it complies with H.R. 881.
+CBO estimates that those administrative and reporting efforts
+would cost less than $500,000. Any spending would be subject to
+the availability of appropriated funds.
+The CBO staff contact for this estimate is Aldo Prosperi. The es-
+timate was reviewed by Christina Hawley Anthony, Deputy Direc-
+tor of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act of
+1995.
+DUPLICATIVE FEDERAL PROGRAMS
+Pursuant to clause 3(c) of rule XIII, the Committee finds that
+H.R. 881 does not contain any provision that establishes or reau-
+thorizes a program known to be duplicative of another Federal pro-
+gram.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the objective of H.R. 881
+is to establish Department of Homeland Security funding restric-
+tions on institutions of higher education that have a relationship
+with Confucius Institutes.
+CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND LIMITED
+TARIFF BENEFITS
+In compliance with rule XXI, this bill, as reported, contains no
+congressional earmarks, limited tax benefits, or limited tariff bene-
+fits as defined in clause 9(d), 9(e), or 9(f) of rule XXI.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that H.R. 881 does not relate to the terms
+and conditions of employment or access to public services or accom-
+modations within the meaning of section 102(b)(3) of the Congres-
+sional Accountability Act.
+VerDate Sep 11 2014 06:05 May 06, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+8
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+This section states that the Act may be cited as the ‘‘DHS Re-
+strictions on Confucius Institutes Act and Chinese Entities of Con-
+cern Act’’.
+Section 2. Limitations on Confucius Institutes’ host schools
+Subsection (a) paragraph (1) defines the term ‘‘Chinese Entity of
+Concern’’ as a university or college located in the PRC that is in-
+volved with the implementation of MCF programs; supports the
+PRC’s defense industrial base; is affiliated with the Chinese State
+Administration for Science, Technology, and Industry for the Na-
+tional Defense; receives any funding from any organization that is
+subordinate to the Central Military Commission of the CCP; pro-
+vides support to any security, defense, police, or intelligence organi-
+zation of the Government of the PRC or CCP; purposefully under-
+mines the United States’ relationship with Taiwan; aids, abets or
+enables the detention, imprisonment, persecution, or forced labor of
+Uyghur Muslims in the PRC; willfully and knowingly engages in
+malicious activities, including online disinformation campaigns and
+propaganda, for the purpose of interfering with the United States
+Federal, State, or local elections; or, is affiliated with the Chinese
+Academy of Sciences.
+Subsection (a) paragraph (2) defines the term ‘‘Confucius Insti-
+tute’’ as any cultural institute that is funded by the Government
+of the PRC.
+Subsection (a) paragraph (3) defines the term ‘‘institution of
+higher education’’ as the meaning given in section 102 of the 20
+U.S.C. 1002.
+Subsection (a) paragraph (4) defines the term ‘‘relationship’’ as
+any in-kind donation or gift, contract awarded, or agreement en-
+tered into by an institution of higher education within the United
+States and any CI or Chinese entity of concern.
+Subsection (a) paragraph (5) defines the term ‘‘Thousand Talents
+Program’’ as any technological or educational program funded or
+administered by the Chinese Communist Party’s Ministry of Indus-
+try and Information Technology.
+Subsection (b) requires the Secretary of Homeland Security to en-
+sure that any institution of higher education within the United
+States which has a relationship with a Confucius Institute, Thou-
+sand Talents Program, or Chinese entity of concern is ineligible to
+receive any funds from the Department of Homeland Security with-
+in one year of enactment of this legislation. If an institution of
+higher education completely terminates the relationship with the
+Confucius Institute, Thousand Talents Program, or Chinese entity
+of concern, the institution will be eligible to receive funds from the
+Department of Homeland Security.
+Subsection (c) paragraph (1) allows the Secretary of Homeland
+Security to, after consultation with the Director of National Intel-
+ligence, waive the application of subsection (b) on a case-by-case
+basis and for a period not to exceed one year to institutions of high-
+er education. The Secretary may issue such a waiver if the Sec-
+retary determines that the institution at issue maintains robust
+safeguards and enforcement protocols to monitor the relationship
+VerDate Sep 11 2014 06:05 May 06, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+9
+at issue, including active measures to detect and deter attempts by
+Chinese nationals affiliated with a Confucius Institute, Thousand
+Talents Program, or Chinese entity of concern that is the subject
+to such relationship to gain unauthorized access to sensitive re-
+search, data, or federally funded development activities conducted
+at or on the premises of, or by, such institution. In addition, the
+relationship at issue must be either in the national security inter-
+ests of the United States or not present a direct or indirect national
+security risk to the United States or its allies.
+Subsection (c) paragraph (2) allows the Secretary to, after con-
+sultation with the Director of National Intelligence, annually renew
+a waiver issued pursuant to paragraph (1) if the Secretary deter-
+mines all of the conditions described in such paragraph continue to
+be satisfied.
+Subsection (c) paragraph (3) clarifies that a waiver issued or re-
+newed pursuant to paragraph (1) or (2) takes effect and applies be-
+ginning on the date that is 30 days after such issuance or renewal.
+Subsection (c) paragraph (4) requires the Secretary of Homeland
+Security, if the Secretary of Homeland Security after consultation
+with the Director of National Intelligence issues or renews a waiver
+pursuant to paragraphs (1) or (2), to submit to the Committee on
+Homeland Security of the House of Representatives and the Com-
+mittee on Homeland Security and Governmental Affairs of the Sen-
+ate written notification regarding such issuance or renewal, includ-
+ing a justification relating thereto, not later than 30 days before
+such issuance or renewal.
+Subsection (d) requires the Secretary of Homeland Security to
+provide outreach to and, upon request, technical to institutions of
+higher education relating to compliance of the Act.
+Subsection (e) requires the Secretary of Homeland Security to
+submit to the Committee on Homeland Security of the House of
+Representatives and the Committee on Homeland Security and
+Governmental Affairs of the Senate a report containing information
+on higher education institution that has a relationship with a Con-
+fucius Institute, Thousand Talents Program, or Chinese entity of
+concern and receives funds from the Department of Homeland Se-
+curity.
+Æ
+VerDate Sep 11 2014 06:05 May 06, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6611 E:\HR\OC\HR087.XXX HR087
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD

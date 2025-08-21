@@ -1,0 +1,1229 @@
+Title: JUNE4, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JUNE4, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 11
+Source: documents - H. Rept. 119-138
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–138
+PROTECTING OUR NATION’S CAPITAL EMERGENCY ACT
+the Union and ordered to be printed
+Mr. COMER, from the Committee on Oversight and Government
+Reform, submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 2096]
+The Committee on Oversight and Government Reform, to whom
+was referred the bill (H.R. 2096) to restore the right to negotiate
+matters pertaining to the discipline of law enforcement officers of
+the District of Columbia through collective bargaining, to restore
+the statute of limitations for bringing disciplinary cases against
+members or civilian employees of the Metropolitan Police Depart-
+ment of the District of Columbia, and for other purposes, having
+considered the same, reports favorably thereon with an amendment
+and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Summary and Purpose of Legislation .................................................................... 2
+Background and Need for Legislation .................................................................... 2
+
+Section 2:
+Section-by-Section Analysis .................................................................................... 3
+Legislative History .................................................................................................. 3
+Committee Consideration ........................................................................................ 4
+Roll Call Votes ......................................................................................................... 4
+Explanation of Amendments ................................................................................... 6
+List of Related Committee Hearings ...................................................................... 6
+Statement of Oversight Findings and Recommendations of the Committee ...... 6
+Statement of General Performance Goals and Objectives .................................... 6
+Application of Law to the Legislative Branch ....................................................... 6
+Duplication of Federal Programs ............................................................................ 7
+Federal Advisory Committee Act Statement ......................................................... 7
+Unfunded Mandates Reform Act Statement ......................................................... 7
+Earmark Identification ............................................................................................ 7
+Committee Cost Estimate ....................................................................................... 7
+New Budget Authority and Congressional Budget Office Cost Estimate ........... 7
+Changes in Existing Law Made by the Bill, as Reported ..................................... 7
+59–006
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+2
+Minority Views ......................................................................................................... 10
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Protecting Our Nation’s Capital Emergency Act’’.
+SEC. 2. RESTORATION OF EQUITABLE AND FAIR TREATMENT OF LAW ENFORCEMENT PER-
+SONNEL OF DISTRICT OF COLUMBIA.
+(a) RESTORATIONOFRIGHTTONEGOTIATEMATTERSPERTAININGTODISCIPLINEOF
+DISTRICT OF COLUMBIA LAW ENFORCEMENT OFFICERS THROUGH COLLECTIVE BAR-
+GAINING.—Section 1708 of the District of Columbia Government Comprehensive
+Merit Personnel Act of 1978 (sec. 1–617.08, D.C. Official Code), as amended by sec-
+tion 116(b) of the Comprehensive Policing and Justice Reform Amendment Act of
+2022 (D.C. Law 24–345), is amended by striking subsection (c).
+(b) RESTORATION OF STATUTE OF LIMITATIONS FOR CLAIMS AGAINST MEMBERS OR
+CIVILIAN EMPLOYEES OF METROPOLITAN POLICE DEPARTMENT.—Subtitle M of title I
+of the Comprehensive Policing and Justice Reform Amendment Act of 2022 (D.C.
+Law 24–345) is repealed, and any provision of law amended or repealed by such
+subtitle is restored or revived as if such subtitle had not been enacted into law.
+SUMMARY AND PURPOSE OF LEGISLATION
+H.R. 2096 amends the D.C. Government Comprehensive Merit
+Personnel Act of 1978 to repeal two amendments recently made by
+the Comprehensive Policing and Justice Reform Amendment Act of
+2022 (D.C. Law 24–345), including the ability of the Metro Police
+Department (MPD) officer union to bargain on matters of officer
+discipline, removal of a strict timeline under which such discipline
+must be carried out for alleged wrongdoing, and the creation of a
+public website announcing the schedule of adverse action hearings
+for officers.
+BACKGROUND AND NEED FOR LEGISLATION
+H.R. 2096 would overturn certain provisions in the Comprehen-
+sive Policing and Justice Reform Amendment Act of 2022, which
+was passed by the D.C. Council on January 4, 2023. In the 118th
+Congress, in response to the Comprehensive Policing and Justice
+Reform Amendment Act of 2022, the Congress voted in a bipartisan
+fashion to pass H.J. Res. 42, a resolution of disapproval of the
+Comprehensive Policing and Justice Reform Amendment Act. H.J.
+Res. 42 was then vetoed by President Biden. Additionally, in the
+118th Congress, a bill identical to H.R. 2096 was passed out of the
+Committee on Oversight and Accountability by a vote of 22–19.
+Local D.C. residents are aware of this and have held community
+meetings to discuss crime, particularly carjackings.1 Crime is also
+occurring right outside of Federal government buildings.2 On
+March 21, 2025, a D.C. violence interrupter (a group of individuals
+serving as alternatives to traditional police charged with curbing
+crime in the District) was himself arrested for first degree murder
+in a D.C. shooting—an occurrence that calls into serious question
+the viability of local government alternatives to traditional polic-
+1Sierra Fox, Community demands Accountability for juvenile crimes at carjacking panel in
+Southeast, FOX 5 (Jan. 31, 2024), https://www.fox5dc.com/news/community-demands-Account-
+ability-for-juvenile-crimes-at-carjacking-panel-in-southeast.
+2MPD Investigating Man’s Overnight Crime Spree, Leaving 1 Dead and 1 with Critical Inju-
+ries, DC.GOV (Jan. 30, 2024), https://mpdc.dc.gov/release/mpd-investigating-man%E2%80%99s-
+overnight-crime-spree-leaving-1-dead-and-1-critical-injuries.
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+3
+ing.3 It is clear that the District of Columbia needs more police offi-
+cers on the streets. D.C.’s businesses recognize the seriousness of
+the rising crime and have responded by either closing their doors
+or relocating to safer regions. In 2024, the District of Columbia saw
+the highest number of restaurant closings in its history.4
+Meanwhile, the D.C. Council has chosen to attack their own po-
+lice force, singling out the Metropolitan Police Department (MPD)
+as the only major police union with restrictions on it its ability to
+bargain on disciplinary matters. H.R. 2096 would restore D.C. po-
+lice officers’ collective bargaining rights by restoring their ability to
+negotiate matters pertaining to officer discipline through the collec-
+tive bargaining process. Next, it would restore the requirement for
+claims against MPD members or civilian employees of MPD be
+timely, as prolonged investigations can represent its own form of
+additional punishment to officers. Finally, it would remove the re-
+quirement for D.C. to publicly disclose the time and location of offi-
+cers’ adverse actions hearings.
+D.C. cannot afford to lose any more officers while combatting ris-
+ing crime and keeping D.C. residents safe. It is the Committee’s po-
+sition that these policies must be reinstated in D.C. Code in order
+to preserve the MPD’s ability to recruit and retain officers.
+
+Section 4:
+SECTION-BY-SECTION ANALYSIS
+
+Section 5:
+Section 1. Short title
+The short title is the ‘‘Protecting Our Nation’s Capital Emer-
+gency Act of 2025’’.
+
+Section 6:
+Section 2. Restoration of equitable and fair treatment of law en-
+forcement personnel of District of Columbia
+Subsection (a) restores the D.C. law enforcement officers’ right to
+collectively bargain on matters pertaining to discipline. Subsection
+(b) restores the requirement for timely disciplinary actions regard-
+ing claims against members or civilian employees of MPD. The sub-
+
+Section 7:
+section also removes the requirement for a public website to pro-
+vide the time and place for adverse action hearings against officers.
+LEGISLATIVE HISTORY
+H.R. 2096, the Protecting Our Nation’s Capital Emergency Act of
+2025, was introduced on March 14, 2025, by Representative An-
+drew Garbarino (R–NY). The following Representatives are cospon-
+sors of the bill: Pete Stauber (R–MN), Andy Biggs (R–AZ), and
+John Rutherford (R–FL). The bill was referred to the Committee on
+Oversight and Government Reform. The Committee considered
+H.R. 2096 at a business meeting on May 21, 2025, and ordered the
+bill as amended favorably reported by a recorded vote.
+3DC violence interrupter arrested for deadly shooting, NBCWASHINGTON (Mar. 25, 2025),
+https://www.nbcwashington.com/news/local/dc-violence-interrupter-arrested-for-deadly-shooting/
+3874237/.
+4Jeff Clabaugh, Half of DC restaurants say business is down, many may close, survey finds,
+WTOPNEWS (Mar. 19, 2025), https://wtop.com/business-finance/2025/03/half-of-dc-restaurants-
+say-business-is-down-many-may-close/.
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+4
+COMMITTEE CONSIDERATION
+On May 21, the Committee met in open session and ordered the
+bill, H.R. 2096, favorably reported with an amendment in the na-
+ture of a substitute, by a roll call vote of 23–18, a quorum being
+present.
+ROLL CALL VOTES
+In compliance with clause 3(b) of rule XIII of the Rules of the
+House of Representatives, the following roll call vote occurred dur-
+ing the Committee’s consideration of H.R. 2096:
+The roll call vote was on favorably reporting H.R. 2096. The bill
+was agreed to in a recorded vote of 23–18.
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+5
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 8:
+100.831RH
+ereh
+7 oilof
+tesffo
+tresnI
+6
+EXPLANATION OF AMENDMENTS
+During Committee consideration of the bill, Representative
+James Comer (R–KY), Chairman of the Committee, offered an
+amendment in the nature of a substitute that made a certain tech-
+nical change to the bill. The amendment in the nature of a sub-
+stitute passed by voice vote.
+LIST OF RELATED COMMITTEE HEARINGS
+In accordance with House Rule XIII, clause 3(c)(6), (1) The fol-
+lowing hearing was used to develop or consider H.R. 2096:
+On March 11, 2025, the Committee on Oversight and Govern-
+ment Reform subcommittee on Federal Law Enforcement held a
+legislative hearing titled ‘‘Enhancing Federal, State, and Local Co-
+ordination in the Fight Against Criminal Illegal Aliens’’ with Jo-
+seph Humire, Executive Director, The Center for a Secure Free So-
+ciety; the Honorable Bob Gaultieri, Sheriff, Pinellas County, Flor-
+ida; and Kerry E. Doyle, Former Principal Legal Advisor, U.S. Im-
+migration and Customs Enforcement.
+(2) The following related hearing was held:
+On March 11, 2025, the Committee on Oversight and Govern-
+ment Reform subcommittee on Federal Law Enforcement held a
+legislative hearing titled ‘‘Enhancing Federal, State, and Local Co-
+ordination in the Fight Against Criminal Illegal Aliens’’ with Jo-
+seph Humire, Executive Director, The Center for a Secure Free So-
+ciety; the Honorable Bob Gaultieri, Sheriff, Pinellas County, Flor-
+ida; and Kerry E. Doyle, Former Principal Legal Advisor, U.S. Im-
+migration and Customs Enforcement.
+STATEMENT OF OVERSIGHT FINDINGS AND RECOMMENDATIONS OF
+THE COMMITTEE
+In compliance with clause 3(c)(1) of rule XIII and clause (2)(b)(1)
+of rule X of the Rules of the House of Representatives, the Commit-
+tee’s oversight findings and recommendations are reflected in the
+Background and Need for Legislation section above.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+In accordance with clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee’s performance goals or
+objectives of this bill are to restore the ability of the Metropolitan
+Police Department (MPD) to negotiate matters pertaining to the
+discipline of law enforcement officers of the District of Columbia,
+to restore the statute of limitations for resolving disciplinary cases
+against members or civilian employees of the MPD, and for other
+purposes.
+APPLICATION OF LAW TO THE LEGISLATIVE BRANCH
+
+Section 9:
+Section 102(b)(3) of Public Law 104–1 requires a description of
+the application of this bill to the legislative branch where the bill
+relates to the terms and conditions of employment or access to pub-
+lic services and accommodations. This bill does not relate to em-
+ployment or access to public services and accommodations in the
+legislative branch.
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+7
+DUPLICATION OF FEDERAL PROGRAMS
+In accordance with clause 3(c)(5) of rule XIII no provision of this
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, a pro-
+gram that was included in any report from the Government Ac-
+countability Office to Congress pursuant to section 21 of Public
+Law 111–139, or a program related to a program identified in the
+most recent Catalog of Federal Domestic Assistance.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+Pursuant to section 5(b) of Public Law 92–463 (5 U.S.C. 1004(b)),
+the Federal Advisory Committee Act, the Committee finds that this
+Committee Print does not direct the establishment of an advisory
+committee.
+UNFUNDED MANDATES REFORM ACT STATEMENT
+Pursuant to section 423 of the Congressional Budget Act of 1974
+the Committee has included a letter received from the Congres-
+sional Budget Office below.
+EARMARK IDENTIFICATION
+This bill does not include any congressional earmarks, limited
+tax benefits, or limited tariff benefits as defined in clause 9 of rule
+XXI of the House of Representatives.
+COMMITTEE COST ESTIMATE
+Pursuant to clause 3(d) of rule XIII of the Rules of the House of
+Representatives, the Committee includes below a cost estimate of
+the bill prepared by the Director of the Congressional Budget Office
+under section 402 of the Congressional Budget Act of 1974.
+NEW BUDGET AUTHORITY AND CONGRESSIONAL BUDGET OFFICE
+COST ESTIMATE
+Pursuant to clause 3(d)(1) of House rule XIII, the Committee
+adopts as its own the cost estimate prepared by the Director of the
+Congressional Budget Office pursuant to section 402 of the Con-
+gressional Budget Act of 1974.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets and existing law in which no
+change is proposed is shown in roman):
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6601 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+8
+
+Section 10:
+SECTION 1–617.08 OF THE DISTRICT OF COLUMBIA
+OFFICIAL CODE
+
+Section 11:
+§1–617.08. Management rights; matters subject to collective
+bargaining
+(a) The respective personnel authorities (management) shall re-
+tain the sole right, in accordance with applicable laws and rules
+and regulations:
+(1) To direct employees of the agencies;
+(2) To hire, promote, transfer, assign, and retain employees
+in positions within the agency and to suspend, demote, dis-
+charge, or take other disciplinary action against employees for
+cause;
+(3) To relieve employees of duties because of lack of work or
+other legitimate reasons;
+(4) To maintain the efficiency of the District government op-
+erations entrusted to them;
+(5) To determine:
+(A) The mission of the agency, its budget, its organiza-
+tion, the number of employees, and to establish the tour of
+duty;
+(B) The number, types, and grades of positions of em-
+ployees assigned to an agency’s organizational unit, work
+project, or tour of duty;
+(C) The technology of performing the agency’s work; and
+(D) The agency’s internal security practices; and
+(6) To take whatever actions may be necessary to carry out
+the mission of the District government in emergency situa-
+tions.
+(a–1) An act, exercise, or agreement of the respective personnel
+authorities (management) shall not be interpreted in any manner
+as a waiver of the sole management rights contained in subsection
+(a) of this section.
+(b) All matters shall be deemed negotiable except those that are
+proscribed by this subchapter. Negotiations concerning compensa-
+tion are authorized to the extent provided in 1-617.16.
+ø(c)(1) All matters pertaining to the discipline of sworn law en-
+forcement personnel shall be retained by management and not be
+negotiable through bargaining, including substantive or impacts-
+and-effects bargaining.
+ø(2) This subsection shall apply to any collective bargaining
+agreements entered into with the Fraternal Order of Police/Metro-
+politan Police Department Labor Committee after September 30,
+2020, and to any collective bargaining agreements automatically
+renewed on or after September 30, 2020.¿
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+9
+SUBTITLE M OF TITLE I OF THE COMPREHENSIVE PO-
+LICING AND JUSTICE REFORM AMENDMENT ACT OF
+2022
+øSubtitle M—OFFICER DISCIPLINE
+REFORMS
+øSEC. 117. Section 502 of the Omnibus Public Safety Agency Re-
+form Amendment Act of 2004, effective September 30, 2004 (D.C.
+Law 15-194; D.C. Official Code § 5-1031), is amended as follows:
+ø(a) Subsection (a-1) is repealed.
+ø(b) Subsection (b) is amended to read as follows:
+ø‘‘(b) If the act or occurrence allegedly constituting cause is the
+subject of a criminal investigation by the Metropolitan Police De-
+partment or any law enforcement or prosecuting agency with juris-
+diction within the United States, the Office of the United States
+Attorney for the District of Columbia, or the Office of the Attorney
+General, or is the subject of an investigation by the Office of the
+Inspector General or the Office of the District of Columbia Auditor,
+the 90-day period for commencing a corrective or adverse action
+under subsection (a) of this section shall be tolled until the conclu-
+sion of the investigation.’’.
+ø(c) A new subsection (c) is added to read as follows:
+ø‘‘(c)(1) MPD shall publish, on a publicly accessible website, a
+schedule of adverse action hearings for cases in which the proposed
+discipline is termination.
+ø‘‘(2) The schedule shall include:
+ø‘‘(A) The date, time, and location of the hearing;
+ø‘‘(B) The name and badge number of the subject officer; and
+ø‘‘(C) A summary of the alleged misconduct or charges
+against the subject officer.’’.
+øSEC. 118. Section 6-A1001.5 of Chapter 10 of Title 6 of the Dis-
+trict of Columbia Municipal Regulations is amended by striking the
+phrase ‘‘reduce the penalty’’ and inserting the phrase ‘‘reduce or in-
+crease the penalty’’ in its place.¿
+* * * * * * *
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+MINORITY VIEWS
+Committee Democrats strongly oppose H.R. 2096, which would
+repeal provisions of a law duly enacted by the District of Columbia
+(D.C.), because we strongly support local D.C. self-government.
+DENIAL OF DEMOCRACY IN D.C.
+The principles of no taxation without representation and consent
+of the governed helped launch the American Revolution and are en-
+shrined in the Declaration of Independence. Yet, D.C. residents,
+who pay all federal taxes, have no voting representation in Con-
+gress, and Congress has plenary authority over D.C.1
+The Majority claims Congress has a constitutional duty to legis-
+late on local D.C. matters. That is false, and Republicans choose to
+legislate on local D.C. matters when they think they can score po-
+litical points.
+Despite giving Congress plenary authority over D.C., the Fram-
+ers expected Congress to establish a local government for D.C.2 In-
+deed, Congress has established various forms of local government
+for D.C. since 1802.3 The Supreme Court has held that ‘‘there is
+no constitutional barrier to the delegation by Congress to the Dis-
+trict of Columbia of full legislative power.’’4
+In 1973, Congress passed the D.C. Home Rule Act, which estab-
+lished an elected chief executive (the D.C. Mayor) and an elected
+legislature (the D.C. Council) for D.C.5 The purpose of the D.C.
+Home Rule Act is to, among other things, ‘‘grant to the inhabitants
+of the District of Columbia powers of local self-government’’ and
+‘‘relieve Congress of the burden of legislating upon essentially local
+District matters.’’6 H.R. 2096 contravenes the purpose of the D.C.
+Home Rule Act. Both D.C. Mayor Muriel Bowser and the D.C.
+Council oppose H.R. 2096.7
+POLICE ACCOUNTABILITY AND TRANSPARENCY
+The merits of H.R. 2096 are beside the point, because we support
+D.C. home rule, but we will address them nonetheless. Police offi-
+cers are entrusted with extraordinary authority to protect public
+1U.S. Const. art. I, Sec. 8, cl. 17.
+2‘‘[A] municipal legislature for local purposes, derived from their own suffrages, will of course
+be allowed them.’’ Library of Congress, Federalist Nos. 41–50 (online at https://guides.loc.gov/
+federalist-papers/text-41–50).
+3Congressional Research Service, Governing the District of Columbia: Overview and Timeline
+(Jan. 29, 2024) (online at www.congress.gov/crs-product/IF12577).
+4District of Columbia v. John R. Thompson Co., Inc., 346 U.S. 100, 109 (1953).
+5Pub. L. No. 93–198 (1973).
+6Id.
+7Letter from District of Columbia Mayor Muriel Bowser to Rep. James Comer, Chairman,
+House Committee on Oversight and Government Reform, and Rep. Gerald Connolly, Ranking
+Member, House Committee on Oversight and Government Reform (May 21, 2025); Letter from
+Council of the District of Columbia to Rep. James Comer, Chairman, House Committee on Over-
+sight and Government Reform, and Rep. Gerald Connolly, Ranking Member, House Committee
+on Oversight and Government Reform (May 20, 2025).
+(10)
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6604 Sfmt 6604 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+11
+safety. The vast majority of police officers exercise that authority
+honorably and bravely. However, there must be accountability and
+transparency for instances in which police officers violate their
+oath of office.
+Following the devastating murder of George Floyd, D.C. enacted
+the Comprehensive Policing and Justice Reform Amendment Act of
+2022 (CPJRAA), which, in pertinent part, made it easier for the po-
+lice department to discipline police officers for violating their oath
+of office. H.R. 2096 would repeal police officer discipline provisions
+in the CPJRAA.
+H.R. 2096, as introduced, includes a purpose section. According
+to the introduced version of H.R. 2096, the purpose of the bill is
+‘‘to combat the rise in violent crime in our Nation’s Capital by
+eliminating policies which place law enforcement personnel of the
+District of Columbia at risk and discourage them from serving, en-
+suring that such personnel will be treated equitably and fairly and
+the recruitment and retention of such personnel shall be in-
+creased.’’ We are not surprised that H.R. 2096, as ordered to be re-
+ported, does not include that purpose section, since it is inaccurate.
+Violent crime is not rising in D.C. In 2025, violent crime in D.C.
+is down 22%, compared to the same period in 2024.8 In 2024, vio-
+lent crime in D.C. was the lowest in over 30 years.9
+The D.C. police department is not alone in having difficulty re-
+cruiting and retaining police officers. Police departments across the
+country are having difficulty with recruitment and retention, and
+this difficulty predates the police accountability and transparency
+legislation enacted across the country in the aftermath of the mur-
+der of George Floyd.10 A survey conducted in 2019 found that ‘‘the
+challenge of recruiting law enforcement is widespread and affects
+agencies of all types, sizes, and locations across the United
+States.’’11 That survey also found that ‘‘the difficulty in recruiting
+law enforcement officers and employees is not due to one particular
+cause. Rather, multiple social, political, and economic forces are all
+simultaneously at play.’’12
+The actual purpose of H.R. 2096 is to make it harder for the po-
+lice department to discipline police officers who violate their oath
+of office. Before the CPJRAA, the police department had been
+forced to rehire a significant number of police officers it had fired
+for crimes and official misconduct.13 D.C. also had to provide mil-
+lions of dollars in back pay to police officers it was forced to rehire,
+8Metropolitan Police Department, District Crime Data at a Glance (online at
+www.mpdc.dc.gov/dailycrime) (accessed May 28, 2025).
+9Office of the United States Attorney for the District of Columbia, Violent Crime in D.C. Hits
+30 Year Low (Jan. 3, 2025) (online at www.justice.gov/usao-dc/pr/violent-crime-dc-hits-30-year-
+low#::text=WASHINGTON%20-%20Total%20violent%20crime%20for,Graves.).
+10International Association of Chiefs of Police, The State of Recruitment & Retention: A Con-
+tinuing Crisis for Policing (www.theiacp.org/sites/default/files/2024-11/
+IACP_Recruitment_Report_Survey.pdf) (accessed May 28, 2025).
+11International Association of Chiefs of Police, The State of Recruitment: A Crisis for Law En-
+forcement (online at www.theiacp.org/sites/default/files/239416_IACP_RecruitmentBR_HR_0.pdf)
+(accessed May 28, 2025).
+12Id.
+13Office of the District of Columbia Auditor, 36 Fired MPD Officers Reinstated; Receive $14
+Million in Back Pay (Oct. 6, 2022) (online at www.dcauditor.org/report/mpd-personnel-
+settlement-report/).
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6604 Sfmt 6604 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+12
+and D.C. paid millions of dollars to resolve claims alleging police
+officer misconduct.14
+H.R. 2096 would repeal four police officer discipline provisions in
+the CPJRAA.
+First, H.R. 2096 would repeal a provision that removed police of-
+ficer discipline from collective bargaining. Several states, including
+states represented by Republican Members of the Committee, pro-
+hibit collective bargaining by police officers.15 The CPJRAA main-
+tained the right of police officers to collectively bargain, except over
+discipline, and maintains the civil service protections and due proc-
+ess rights of police officers.
+Collective bargaining by police officers has been widely criticized
+for protecting police officers from discipline for crimes and official
+misconduct. A Republican staff report for the Joint Economic Com-
+mittee said that ‘‘[c]ollective bargaining plays a significant role in
+shielding police officers from the consequences of their mis-
+conduct.’’16 A law review article conducted an empirical examina-
+tion of police union contracts, concluding, ‘‘This [a]rticle’s findings
+are consistent with the hypothesis that police union contracts
+sometimes establish problematic internal disciplinary procedures
+that serve as barriers to accountability.’’17
+Second, H.R. 2096 would reinstate a 90-day statute of limitations
+on the police department to commence discipline. The CPJRAA re-
+pealed that provision because 90 days was not enough time in some
+cases to commence discipline. Adjudicators had overturned dis-
+cipline in some cases because the police department had exceeded
+90 days to commence discipline, and there is no statute of limita-
+tions for commencing discipline against most other D.C. govern-
+ment employees.18 The home state of Rep. Andrew Garbarino, the
+sponsor of H.R. 2096, has an 18-month statute of limitations to
+commence discipline against police officers.19
+Third, H.R. 2096 would repeal a provision that gave the police
+chief the authority to increase the discipline proposed by a police
+trial board, which consists of police officers. Before the CPJRAA,
+the police chief could only impose or reduce the proposed discipline
+or order a new trial. The CPJRAA increased the discipline power
+of the police chief and reduced the discipline power of the police
+trial board, which may be more inclined to protect their fellow po-
+lice officers from discipline.20
+14Office of the District of Columbia Auditor, 36 Fired MPD Officers Reinstated; Receive $14
+Million in Back Pay (Oct. 6, 2022) (online at www.dcauditor.org/report/mpd-personnel-
+settlement-report/); The Hidden Billion-Dollar Cost of Repeated Police Misconduct, Washington
+Post (May 9, 2022) (online at www.washingtonpost.com/investigations/interactive/2022/police-
+misconduct-repeated-settlements/).
+15Ballotpedia, Public-Sector Union Policy in the United States, 2018–2023 (online at
+www.ballotpedia.org/Public-sector_union_policy_in_the_United_States,_2018-2023).
+16Joint Economic Committee, Accountability for Bad Apples: Police Reforms to Restore Faith
+in Institutions (Mar. 2021) (online at www.jec.senate.gov/public/_cache/files/e54f6c37-017c-49c2-
+ad0b-de12bcc48978/3-21-police-reform.pdf).
+17Stephen Rushin, Police Union Contracts, 66 Duke L.J. 1191, 1239 (2017) (online at https://
+scholarship.law.duke.edu/cgi/viewcontent.cgi?article=3890&context=dlj).
+18Council of the District of Columbia Committee on the Judiciary and Public Safety, Report
+on Bill 24–0320, the Comprehensive Policing and Justice Reform Amendment Act of 2022 (Nov.
+30, 2022) (online at https://lims.dccouncil.gov/downloads/LIMS/47448/Committee_Report/B24-
+0320-Committee_Report1.pdf).
+19N.Y. Civil Service Law §75(4) (online at www.nysenate.gov/legislation/laws/CVS/75).
+20D.C. Police Tried to Fire 24 Current Officers For ‘Criminal Offenses.’ A Powerful Panel
+Blocked Nearly Every One, Documents Show, DCist (Dec. 18, 2021) (online at www.dcist.com/
+story/21/12/18/dc-police-panel-blocked-mpd-firings/).
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6604 Sfmt 6604 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+13
+Finally, H.R. 2096 would repeal a provision that required the po-
+lice department to publish on a public website a schedule of police
+officer discipline hearings, which are open to the public.
+CONCLUSION
+We strongly oppose H.R. 2096 and any other effort to undermine
+the will of D.C. residents and their locally elected representatives.
+Instead of interfering in local D.C. matters, Congress should grant
+D.C.’s statehood petition.
+STEPHEN F. LYNCH,
+Acting Ranking Member.
+Æ
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6604 Sfmt 6611 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–138
+PROTECTING OUR NATION’S CAPITAL EMERGENCY ACT
+JUNE4, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. COMER, from the Committee on Oversight and Government
+Reform, submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 2096]
+The Committee on Oversight and Government Reform, to whom
+was referred the bill (H.R. 2096) to restore the right to negotiate
+matters pertaining to the discipline of law enforcement officers of
+the District of Columbia through collective bargaining, to restore
+the statute of limitations for bringing disciplinary cases against
+members or civilian employees of the Metropolitan Police Depart-
+ment of the District of Columbia, and for other purposes, having
+considered the same, reports favorably thereon with an amendment
+and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Summary and Purpose of Legislation .................................................................... 2
+Background and Need for Legislation .................................................................... 2
+Section-by-Section Analysis .................................................................................... 3
+Legislative History .................................................................................................. 3
+Committee Consideration ........................................................................................ 4
+Roll Call Votes ......................................................................................................... 4
+Explanation of Amendments ................................................................................... 6
+List of Related Committee Hearings ...................................................................... 6
+Statement of Oversight Findings and Recommendations of the Committee ...... 6
+Statement of General Performance Goals and Objectives .................................... 6
+Application of Law to the Legislative Branch ....................................................... 6
+Duplication of Federal Programs ............................................................................ 7
+Federal Advisory Committee Act Statement ......................................................... 7
+Unfunded Mandates Reform Act Statement ......................................................... 7
+Earmark Identification ............................................................................................ 7
+Committee Cost Estimate ....................................................................................... 7
+New Budget Authority and Congressional Budget Office Cost Estimate ........... 7
+Changes in Existing Law Made by the Bill, as Reported ..................................... 7
+59–006
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+2
+Minority Views ......................................................................................................... 10
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Protecting Our Nation’s Capital Emergency Act’’.
+SEC. 2. RESTORATION OF EQUITABLE AND FAIR TREATMENT OF LAW ENFORCEMENT PER-
+SONNEL OF DISTRICT OF COLUMBIA.
+(a) RESTORATIONOFRIGHTTONEGOTIATEMATTERSPERTAININGTODISCIPLINEOF
+DISTRICT OF COLUMBIA LAW ENFORCEMENT OFFICERS THROUGH COLLECTIVE BAR-
+GAINING.—Section 1708 of the District of Columbia Government Comprehensive
+Merit Personnel Act of 1978 (sec. 1–617.08, D.C. Official Code), as amended by sec-
+tion 116(b) of the Comprehensive Policing and Justice Reform Amendment Act of
+2022 (D.C. Law 24–345), is amended by striking subsection (c).
+(b) RESTORATION OF STATUTE OF LIMITATIONS FOR CLAIMS AGAINST MEMBERS OR
+CIVILIAN EMPLOYEES OF METROPOLITAN POLICE DEPARTMENT.—Subtitle M of title I
+of the Comprehensive Policing and Justice Reform Amendment Act of 2022 (D.C.
+Law 24–345) is repealed, and any provision of law amended or repealed by such
+subtitle is restored or revived as if such subtitle had not been enacted into law.
+SUMMARY AND PURPOSE OF LEGISLATION
+H.R. 2096 amends the D.C. Government Comprehensive Merit
+Personnel Act of 1978 to repeal two amendments recently made by
+the Comprehensive Policing and Justice Reform Amendment Act of
+2022 (D.C. Law 24–345), including the ability of the Metro Police
+Department (MPD) officer union to bargain on matters of officer
+discipline, removal of a strict timeline under which such discipline
+must be carried out for alleged wrongdoing, and the creation of a
+public website announcing the schedule of adverse action hearings
+for officers.
+BACKGROUND AND NEED FOR LEGISLATION
+H.R. 2096 would overturn certain provisions in the Comprehen-
+sive Policing and Justice Reform Amendment Act of 2022, which
+was passed by the D.C. Council on January 4, 2023. In the 118th
+Congress, in response to the Comprehensive Policing and Justice
+Reform Amendment Act of 2022, the Congress voted in a bipartisan
+fashion to pass H.J. Res. 42, a resolution of disapproval of the
+Comprehensive Policing and Justice Reform Amendment Act. H.J.
+Res. 42 was then vetoed by President Biden. Additionally, in the
+118th Congress, a bill identical to H.R. 2096 was passed out of the
+Committee on Oversight and Accountability by a vote of 22–19.
+Local D.C. residents are aware of this and have held community
+meetings to discuss crime, particularly carjackings.1 Crime is also
+occurring right outside of Federal government buildings.2 On
+March 21, 2025, a D.C. violence interrupter (a group of individuals
+serving as alternatives to traditional police charged with curbing
+crime in the District) was himself arrested for first degree murder
+in a D.C. shooting—an occurrence that calls into serious question
+the viability of local government alternatives to traditional polic-
+1Sierra Fox, Community demands Accountability for juvenile crimes at carjacking panel in
+Southeast, FOX 5 (Jan. 31, 2024), https://www.fox5dc.com/news/community-demands-Account-
+ability-for-juvenile-crimes-at-carjacking-panel-in-southeast.
+2MPD Investigating Man’s Overnight Crime Spree, Leaving 1 Dead and 1 with Critical Inju-
+ries, DC.GOV (Jan. 30, 2024), https://mpdc.dc.gov/release/mpd-investigating-man%E2%80%99s-
+overnight-crime-spree-leaving-1-dead-and-1-critical-injuries.
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+3
+ing.3 It is clear that the District of Columbia needs more police offi-
+cers on the streets. D.C.’s businesses recognize the seriousness of
+the rising crime and have responded by either closing their doors
+or relocating to safer regions. In 2024, the District of Columbia saw
+the highest number of restaurant closings in its history.4
+Meanwhile, the D.C. Council has chosen to attack their own po-
+lice force, singling out the Metropolitan Police Department (MPD)
+as the only major police union with restrictions on it its ability to
+bargain on disciplinary matters. H.R. 2096 would restore D.C. po-
+lice officers’ collective bargaining rights by restoring their ability to
+negotiate matters pertaining to officer discipline through the collec-
+tive bargaining process. Next, it would restore the requirement for
+claims against MPD members or civilian employees of MPD be
+timely, as prolonged investigations can represent its own form of
+additional punishment to officers. Finally, it would remove the re-
+quirement for D.C. to publicly disclose the time and location of offi-
+cers’ adverse actions hearings.
+D.C. cannot afford to lose any more officers while combatting ris-
+ing crime and keeping D.C. residents safe. It is the Committee’s po-
+sition that these policies must be reinstated in D.C. Code in order
+to preserve the MPD’s ability to recruit and retain officers.
+SECTION-BY-SECTION ANALYSIS
+Section 1. Short title
+The short title is the ‘‘Protecting Our Nation’s Capital Emer-
+gency Act of 2025’’.
+Section 2. Restoration of equitable and fair treatment of law en-
+forcement personnel of District of Columbia
+Subsection (a) restores the D.C. law enforcement officers’ right to
+collectively bargain on matters pertaining to discipline. Subsection
+(b) restores the requirement for timely disciplinary actions regard-
+ing claims against members or civilian employees of MPD. The sub-
+section also removes the requirement for a public website to pro-
+vide the time and place for adverse action hearings against officers.
+LEGISLATIVE HISTORY
+H.R. 2096, the Protecting Our Nation’s Capital Emergency Act of
+2025, was introduced on March 14, 2025, by Representative An-
+drew Garbarino (R–NY). The following Representatives are cospon-
+sors of the bill: Pete Stauber (R–MN), Andy Biggs (R–AZ), and
+John Rutherford (R–FL). The bill was referred to the Committee on
+Oversight and Government Reform. The Committee considered
+H.R. 2096 at a business meeting on May 21, 2025, and ordered the
+bill as amended favorably reported by a recorded vote.
+3DC violence interrupter arrested for deadly shooting, NBCWASHINGTON (Mar. 25, 2025),
+https://www.nbcwashington.com/news/local/dc-violence-interrupter-arrested-for-deadly-shooting/
+3874237/.
+4Jeff Clabaugh, Half of DC restaurants say business is down, many may close, survey finds,
+WTOPNEWS (Mar. 19, 2025), https://wtop.com/business-finance/2025/03/half-of-dc-restaurants-
+say-business-is-down-many-may-close/.
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+4
+COMMITTEE CONSIDERATION
+On May 21, the Committee met in open session and ordered the
+bill, H.R. 2096, favorably reported with an amendment in the na-
+ture of a substitute, by a roll call vote of 23–18, a quorum being
+present.
+ROLL CALL VOTES
+In compliance with clause 3(b) of rule XIII of the Rules of the
+House of Representatives, the following roll call vote occurred dur-
+ing the Committee’s consideration of H.R. 2096:
+The roll call vote was on favorably reporting H.R. 2096. The bill
+was agreed to in a recorded vote of 23–18.
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+5
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+100.831RH
+ereh
+7 oilof
+tesffo
+tresnI
+
+6
+EXPLANATION OF AMENDMENTS
+During Committee consideration of the bill, Representative
+James Comer (R–KY), Chairman of the Committee, offered an
+amendment in the nature of a substitute that made a certain tech-
+nical change to the bill. The amendment in the nature of a sub-
+stitute passed by voice vote.
+LIST OF RELATED COMMITTEE HEARINGS
+In accordance with House Rule XIII, clause 3(c)(6), (1) The fol-
+lowing hearing was used to develop or consider H.R. 2096:
+On March 11, 2025, the Committee on Oversight and Govern-
+ment Reform subcommittee on Federal Law Enforcement held a
+legislative hearing titled ‘‘Enhancing Federal, State, and Local Co-
+ordination in the Fight Against Criminal Illegal Aliens’’ with Jo-
+seph Humire, Executive Director, The Center for a Secure Free So-
+ciety; the Honorable Bob Gaultieri, Sheriff, Pinellas County, Flor-
+ida; and Kerry E. Doyle, Former Principal Legal Advisor, U.S. Im-
+migration and Customs Enforcement.
+(2) The following related hearing was held:
+On March 11, 2025, the Committee on Oversight and Govern-
+ment Reform subcommittee on Federal Law Enforcement held a
+legislative hearing titled ‘‘Enhancing Federal, State, and Local Co-
+ordination in the Fight Against Criminal Illegal Aliens’’ with Jo-
+seph Humire, Executive Director, The Center for a Secure Free So-
+ciety; the Honorable Bob Gaultieri, Sheriff, Pinellas County, Flor-
+ida; and Kerry E. Doyle, Former Principal Legal Advisor, U.S. Im-
+migration and Customs Enforcement.
+STATEMENT OF OVERSIGHT FINDINGS AND RECOMMENDATIONS OF
+THE COMMITTEE
+In compliance with clause 3(c)(1) of rule XIII and clause (2)(b)(1)
+of rule X of the Rules of the House of Representatives, the Commit-
+tee’s oversight findings and recommendations are reflected in the
+Background and Need for Legislation section above.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+In accordance with clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee’s performance goals or
+objectives of this bill are to restore the ability of the Metropolitan
+Police Department (MPD) to negotiate matters pertaining to the
+discipline of law enforcement officers of the District of Columbia,
+to restore the statute of limitations for resolving disciplinary cases
+against members or civilian employees of the MPD, and for other
+purposes.
+APPLICATION OF LAW TO THE LEGISLATIVE BRANCH
+Section 102(b)(3) of Public Law 104–1 requires a description of
+the application of this bill to the legislative branch where the bill
+relates to the terms and conditions of employment or access to pub-
+lic services and accommodations. This bill does not relate to em-
+ployment or access to public services and accommodations in the
+legislative branch.
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+7
+DUPLICATION OF FEDERAL PROGRAMS
+In accordance with clause 3(c)(5) of rule XIII no provision of this
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, a pro-
+gram that was included in any report from the Government Ac-
+countability Office to Congress pursuant to section 21 of Public
+Law 111–139, or a program related to a program identified in the
+most recent Catalog of Federal Domestic Assistance.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+Pursuant to section 5(b) of Public Law 92–463 (5 U.S.C. 1004(b)),
+the Federal Advisory Committee Act, the Committee finds that this
+Committee Print does not direct the establishment of an advisory
+committee.
+UNFUNDED MANDATES REFORM ACT STATEMENT
+Pursuant to section 423 of the Congressional Budget Act of 1974
+the Committee has included a letter received from the Congres-
+sional Budget Office below.
+EARMARK IDENTIFICATION
+This bill does not include any congressional earmarks, limited
+tax benefits, or limited tariff benefits as defined in clause 9 of rule
+XXI of the House of Representatives.
+COMMITTEE COST ESTIMATE
+Pursuant to clause 3(d) of rule XIII of the Rules of the House of
+Representatives, the Committee includes below a cost estimate of
+the bill prepared by the Director of the Congressional Budget Office
+under section 402 of the Congressional Budget Act of 1974.
+NEW BUDGET AUTHORITY AND CONGRESSIONAL BUDGET OFFICE
+COST ESTIMATE
+Pursuant to clause 3(d)(1) of House rule XIII, the Committee
+adopts as its own the cost estimate prepared by the Director of the
+Congressional Budget Office pursuant to section 402 of the Con-
+gressional Budget Act of 1974.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets and existing law in which no
+change is proposed is shown in roman):
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6601 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+8
+SECTION 1–617.08 OF THE DISTRICT OF COLUMBIA
+OFFICIAL CODE
+§1–617.08. Management rights; matters subject to collective
+bargaining
+(a) The respective personnel authorities (management) shall re-
+tain the sole right, in accordance with applicable laws and rules
+and regulations:
+(1) To direct employees of the agencies;
+(2) To hire, promote, transfer, assign, and retain employees
+in positions within the agency and to suspend, demote, dis-
+charge, or take other disciplinary action against employees for
+cause;
+(3) To relieve employees of duties because of lack of work or
+other legitimate reasons;
+(4) To maintain the efficiency of the District government op-
+erations entrusted to them;
+(5) To determine:
+(A) The mission of the agency, its budget, its organiza-
+tion, the number of employees, and to establish the tour of
+duty;
+(B) The number, types, and grades of positions of em-
+ployees assigned to an agency’s organizational unit, work
+project, or tour of duty;
+(C) The technology of performing the agency’s work; and
+(D) The agency’s internal security practices; and
+(6) To take whatever actions may be necessary to carry out
+the mission of the District government in emergency situa-
+tions.
+(a–1) An act, exercise, or agreement of the respective personnel
+authorities (management) shall not be interpreted in any manner
+as a waiver of the sole management rights contained in subsection
+(a) of this section.
+(b) All matters shall be deemed negotiable except those that are
+proscribed by this subchapter. Negotiations concerning compensa-
+tion are authorized to the extent provided in 1-617.16.
+ø(c)(1) All matters pertaining to the discipline of sworn law en-
+forcement personnel shall be retained by management and not be
+negotiable through bargaining, including substantive or impacts-
+and-effects bargaining.
+ø(2) This subsection shall apply to any collective bargaining
+agreements entered into with the Fraternal Order of Police/Metro-
+politan Police Department Labor Committee after September 30,
+2020, and to any collective bargaining agreements automatically
+renewed on or after September 30, 2020.¿
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+9
+SUBTITLE M OF TITLE I OF THE COMPREHENSIVE PO-
+LICING AND JUSTICE REFORM AMENDMENT ACT OF
+2022
+øSubtitle M—OFFICER DISCIPLINE
+REFORMS
+øSEC. 117. Section 502 of the Omnibus Public Safety Agency Re-
+form Amendment Act of 2004, effective September 30, 2004 (D.C.
+Law 15-194; D.C. Official Code § 5-1031), is amended as follows:
+ø(a) Subsection (a-1) is repealed.
+ø(b) Subsection (b) is amended to read as follows:
+ø‘‘(b) If the act or occurrence allegedly constituting cause is the
+subject of a criminal investigation by the Metropolitan Police De-
+partment or any law enforcement or prosecuting agency with juris-
+diction within the United States, the Office of the United States
+Attorney for the District of Columbia, or the Office of the Attorney
+General, or is the subject of an investigation by the Office of the
+Inspector General or the Office of the District of Columbia Auditor,
+the 90-day period for commencing a corrective or adverse action
+under subsection (a) of this section shall be tolled until the conclu-
+sion of the investigation.’’.
+ø(c) A new subsection (c) is added to read as follows:
+ø‘‘(c)(1) MPD shall publish, on a publicly accessible website, a
+schedule of adverse action hearings for cases in which the proposed
+discipline is termination.
+ø‘‘(2) The schedule shall include:
+ø‘‘(A) The date, time, and location of the hearing;
+ø‘‘(B) The name and badge number of the subject officer; and
+ø‘‘(C) A summary of the alleged misconduct or charges
+against the subject officer.’’.
+øSEC. 118. Section 6-A1001.5 of Chapter 10 of Title 6 of the Dis-
+trict of Columbia Municipal Regulations is amended by striking the
+phrase ‘‘reduce the penalty’’ and inserting the phrase ‘‘reduce or in-
+crease the penalty’’ in its place.¿
+* * * * * * *
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+MINORITY VIEWS
+Committee Democrats strongly oppose H.R. 2096, which would
+repeal provisions of a law duly enacted by the District of Columbia
+(D.C.), because we strongly support local D.C. self-government.
+DENIAL OF DEMOCRACY IN D.C.
+The principles of no taxation without representation and consent
+of the governed helped launch the American Revolution and are en-
+shrined in the Declaration of Independence. Yet, D.C. residents,
+who pay all federal taxes, have no voting representation in Con-
+gress, and Congress has plenary authority over D.C.1
+The Majority claims Congress has a constitutional duty to legis-
+late on local D.C. matters. That is false, and Republicans choose to
+legislate on local D.C. matters when they think they can score po-
+litical points.
+Despite giving Congress plenary authority over D.C., the Fram-
+ers expected Congress to establish a local government for D.C.2 In-
+deed, Congress has established various forms of local government
+for D.C. since 1802.3 The Supreme Court has held that ‘‘there is
+no constitutional barrier to the delegation by Congress to the Dis-
+trict of Columbia of full legislative power.’’4
+In 1973, Congress passed the D.C. Home Rule Act, which estab-
+lished an elected chief executive (the D.C. Mayor) and an elected
+legislature (the D.C. Council) for D.C.5 The purpose of the D.C.
+Home Rule Act is to, among other things, ‘‘grant to the inhabitants
+of the District of Columbia powers of local self-government’’ and
+‘‘relieve Congress of the burden of legislating upon essentially local
+District matters.’’6 H.R. 2096 contravenes the purpose of the D.C.
+Home Rule Act. Both D.C. Mayor Muriel Bowser and the D.C.
+Council oppose H.R. 2096.7
+POLICE ACCOUNTABILITY AND TRANSPARENCY
+The merits of H.R. 2096 are beside the point, because we support
+D.C. home rule, but we will address them nonetheless. Police offi-
+cers are entrusted with extraordinary authority to protect public
+1U.S. Const. art. I, Sec. 8, cl. 17.
+2‘‘[A] municipal legislature for local purposes, derived from their own suffrages, will of course
+be allowed them.’’ Library of Congress, Federalist Nos. 41–50 (online at https://guides.loc.gov/
+federalist-papers/text-41–50).
+3Congressional Research Service, Governing the District of Columbia: Overview and Timeline
+(Jan. 29, 2024) (online at www.congress.gov/crs-product/IF12577).
+4District of Columbia v. John R. Thompson Co., Inc., 346 U.S. 100, 109 (1953).
+5Pub. L. No. 93–198 (1973).
+6Id.
+7Letter from District of Columbia Mayor Muriel Bowser to Rep. James Comer, Chairman,
+House Committee on Oversight and Government Reform, and Rep. Gerald Connolly, Ranking
+Member, House Committee on Oversight and Government Reform (May 21, 2025); Letter from
+Council of the District of Columbia to Rep. James Comer, Chairman, House Committee on Over-
+sight and Government Reform, and Rep. Gerald Connolly, Ranking Member, House Committee
+on Oversight and Government Reform (May 20, 2025).
+(10)
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6604 Sfmt 6604 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+11
+safety. The vast majority of police officers exercise that authority
+honorably and bravely. However, there must be accountability and
+transparency for instances in which police officers violate their
+oath of office.
+Following the devastating murder of George Floyd, D.C. enacted
+the Comprehensive Policing and Justice Reform Amendment Act of
+2022 (CPJRAA), which, in pertinent part, made it easier for the po-
+lice department to discipline police officers for violating their oath
+of office. H.R. 2096 would repeal police officer discipline provisions
+in the CPJRAA.
+H.R. 2096, as introduced, includes a purpose section. According
+to the introduced version of H.R. 2096, the purpose of the bill is
+‘‘to combat the rise in violent crime in our Nation’s Capital by
+eliminating policies which place law enforcement personnel of the
+District of Columbia at risk and discourage them from serving, en-
+suring that such personnel will be treated equitably and fairly and
+the recruitment and retention of such personnel shall be in-
+creased.’’ We are not surprised that H.R. 2096, as ordered to be re-
+ported, does not include that purpose section, since it is inaccurate.
+Violent crime is not rising in D.C. In 2025, violent crime in D.C.
+is down 22%, compared to the same period in 2024.8 In 2024, vio-
+lent crime in D.C. was the lowest in over 30 years.9
+The D.C. police department is not alone in having difficulty re-
+cruiting and retaining police officers. Police departments across the
+country are having difficulty with recruitment and retention, and
+this difficulty predates the police accountability and transparency
+legislation enacted across the country in the aftermath of the mur-
+der of George Floyd.10 A survey conducted in 2019 found that ‘‘the
+challenge of recruiting law enforcement is widespread and affects
+agencies of all types, sizes, and locations across the United
+States.’’11 That survey also found that ‘‘the difficulty in recruiting
+law enforcement officers and employees is not due to one particular
+cause. Rather, multiple social, political, and economic forces are all
+simultaneously at play.’’12
+The actual purpose of H.R. 2096 is to make it harder for the po-
+lice department to discipline police officers who violate their oath
+of office. Before the CPJRAA, the police department had been
+forced to rehire a significant number of police officers it had fired
+for crimes and official misconduct.13 D.C. also had to provide mil-
+lions of dollars in back pay to police officers it was forced to rehire,
+8Metropolitan Police Department, District Crime Data at a Glance (online at
+www.mpdc.dc.gov/dailycrime) (accessed May 28, 2025).
+9Office of the United States Attorney for the District of Columbia, Violent Crime in D.C. Hits
+30 Year Low (Jan. 3, 2025) (online at www.justice.gov/usao-dc/pr/violent-crime-dc-hits-30-year-
+low#::text=WASHINGTON%20-%20Total%20violent%20crime%20for,Graves.).
+10International Association of Chiefs of Police, The State of Recruitment & Retention: A Con-
+tinuing Crisis for Policing (www.theiacp.org/sites/default/files/2024-11/
+IACP_Recruitment_Report_Survey.pdf) (accessed May 28, 2025).
+11International Association of Chiefs of Police, The State of Recruitment: A Crisis for Law En-
+forcement (online at www.theiacp.org/sites/default/files/239416_IACP_RecruitmentBR_HR_0.pdf)
+(accessed May 28, 2025).
+12Id.
+13Office of the District of Columbia Auditor, 36 Fired MPD Officers Reinstated; Receive $14
+Million in Back Pay (Oct. 6, 2022) (online at www.dcauditor.org/report/mpd-personnel-
+settlement-report/).
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6604 Sfmt 6604 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+12
+and D.C. paid millions of dollars to resolve claims alleging police
+officer misconduct.14
+H.R. 2096 would repeal four police officer discipline provisions in
+the CPJRAA.
+First, H.R. 2096 would repeal a provision that removed police of-
+ficer discipline from collective bargaining. Several states, including
+states represented by Republican Members of the Committee, pro-
+hibit collective bargaining by police officers.15 The CPJRAA main-
+tained the right of police officers to collectively bargain, except over
+discipline, and maintains the civil service protections and due proc-
+ess rights of police officers.
+Collective bargaining by police officers has been widely criticized
+for protecting police officers from discipline for crimes and official
+misconduct. A Republican staff report for the Joint Economic Com-
+mittee said that ‘‘[c]ollective bargaining plays a significant role in
+shielding police officers from the consequences of their mis-
+conduct.’’16 A law review article conducted an empirical examina-
+tion of police union contracts, concluding, ‘‘This [a]rticle’s findings
+are consistent with the hypothesis that police union contracts
+sometimes establish problematic internal disciplinary procedures
+that serve as barriers to accountability.’’17
+Second, H.R. 2096 would reinstate a 90-day statute of limitations
+on the police department to commence discipline. The CPJRAA re-
+pealed that provision because 90 days was not enough time in some
+cases to commence discipline. Adjudicators had overturned dis-
+cipline in some cases because the police department had exceeded
+90 days to commence discipline, and there is no statute of limita-
+tions for commencing discipline against most other D.C. govern-
+ment employees.18 The home state of Rep. Andrew Garbarino, the
+sponsor of H.R. 2096, has an 18-month statute of limitations to
+commence discipline against police officers.19
+Third, H.R. 2096 would repeal a provision that gave the police
+chief the authority to increase the discipline proposed by a police
+trial board, which consists of police officers. Before the CPJRAA,
+the police chief could only impose or reduce the proposed discipline
+or order a new trial. The CPJRAA increased the discipline power
+of the police chief and reduced the discipline power of the police
+trial board, which may be more inclined to protect their fellow po-
+lice officers from discipline.20
+14Office of the District of Columbia Auditor, 36 Fired MPD Officers Reinstated; Receive $14
+Million in Back Pay (Oct. 6, 2022) (online at www.dcauditor.org/report/mpd-personnel-
+settlement-report/); The Hidden Billion-Dollar Cost of Repeated Police Misconduct, Washington
+Post (May 9, 2022) (online at www.washingtonpost.com/investigations/interactive/2022/police-
+misconduct-repeated-settlements/).
+15Ballotpedia, Public-Sector Union Policy in the United States, 2018–2023 (online at
+www.ballotpedia.org/Public-sector_union_policy_in_the_United_States,_2018-2023).
+16Joint Economic Committee, Accountability for Bad Apples: Police Reforms to Restore Faith
+in Institutions (Mar. 2021) (online at www.jec.senate.gov/public/_cache/files/e54f6c37-017c-49c2-
+ad0b-de12bcc48978/3-21-police-reform.pdf).
+17Stephen Rushin, Police Union Contracts, 66 Duke L.J. 1191, 1239 (2017) (online at https://
+scholarship.law.duke.edu/cgi/viewcontent.cgi?article=3890&context=dlj).
+18Council of the District of Columbia Committee on the Judiciary and Public Safety, Report
+on Bill 24–0320, the Comprehensive Policing and Justice Reform Amendment Act of 2022 (Nov.
+30, 2022) (online at https://lims.dccouncil.gov/downloads/LIMS/47448/Committee_Report/B24-
+0320-Committee_Report1.pdf).
+19N.Y. Civil Service Law §75(4) (online at www.nysenate.gov/legislation/laws/CVS/75).
+20D.C. Police Tried to Fire 24 Current Officers For ‘Criminal Offenses.’ A Powerful Panel
+Blocked Nearly Every One, Documents Show, DCist (Dec. 18, 2021) (online at www.dcist.com/
+story/21/12/18/dc-police-panel-blocked-mpd-firings/).
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6604 Sfmt 6604 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+13
+Finally, H.R. 2096 would repeal a provision that required the po-
+lice department to publish on a public website a schedule of police
+officer discipline hearings, which are open to the public.
+CONCLUSION
+We strongly oppose H.R. 2096 and any other effort to undermine
+the will of D.C. residents and their locally elected representatives.
+Instead of interfering in local D.C. matters, Congress should grant
+D.C.’s statehood petition.
+STEPHEN F. LYNCH,
+Acting Ranking Member.
+Æ
+VerDate Sep 11 2014 08:31 Jun 05, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6604 Sfmt 6611 E:\HR\OC\HR138.XXX HR138
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD

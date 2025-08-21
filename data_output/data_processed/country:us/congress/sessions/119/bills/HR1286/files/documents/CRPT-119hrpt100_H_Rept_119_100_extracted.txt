@@ -1,0 +1,1183 @@
+Title: MAY17, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: MAY17, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 19
+Source: documents - H. Rept. 119-100
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–100
+SIMPLIFYING FORMS FOR VETERANS CLAIMS ACT
+the Union and ordered to be printed
+Mr. BOST, from the Committee on Veterans’ Affairs,
+submitted the following
+R E P O R T
+[To accompany H.R. 1286]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Veterans’ Affairs, to whom was referred the
+bill (H.R. 1286) to direct the Secretary of Veterans Affairs to seek
+to enter into an agreement with a federally funded research and
+development center for an assessment of forms that the Secretary
+sends to claimants for benefits under laws administered by the Sec-
+retary, and for other purposes, having considered the same, reports
+favorably thereon with an amendment and recommends that the
+bill as amended do pass.
+CONTENTS
+Page
+Amendment .............................................................................................................. 2
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Hearings ................................................................................................................... 4
+Subcommittee Consideration .................................................................................. 4
+Committee Consideration ........................................................................................ 4
+Committee Votes ...................................................................................................... 5
+Committee Oversight Findings ............................................................................... 5
+Statement of General Performance Goals and Objectives .................................... 5
+Earmarks and Tax and Tariff Benefits .................................................................. 5
+Committee Cost Estimate ....................................................................................... 5
+Budget Authority and Congressional Budget Office Estimate ............................ 5
+Federal Mandates Statement ................................................................................. 7
+Advisory Committee Statement .............................................................................. 7
+Applicability to Legislative Branch ........................................................................ 7
+Statement on Duplication of Federal Programs .................................................... 7
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 8
+59–006
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Simplifying Forms for Veterans Claims Act’’.
+SEC. 2. INDEPENDENT ASSESSMENT OF FORMS THAT THE SECRETARY OF VETERANS AF-
+FAIRS SENDS TO CLAIMANTS.
+(a) AGREEMENT.—Not later than 30 days after the date of the enactment of this
+Act, the Secretary of Veterans Affairs shall seek to enter into an agreement with
+an FFRDC for an assessment of forms that the Secretary sends to claimants.
+(b) ASSESSMENT.—An FFRDC that enters to an agreement under subsection (a)
+shall submit to the Secretary a written assessment, made in consultation with cov-
+ered entities, of such forms. The assessment shall include the recommendations of
+the FFRDC regarding how the Secretary may make such forms clearer to claimants
+and better organized.
+(c) REPORT; IMPLEMENTATION.—Not later than 90 days after the Secretary receives
+the assessment under subsection (b), the Secretary shall—
+(1) submit to the Committees on Veterans’ Affairs of the Senate and House
+of Representatives a copy of such assessment; and
+(2) implement the recommendations in the assessment that are in compliance
+with the laws administered by the Secretary.
+(d) DEADLINEFORIMPLEMENTATION.—The Secretary shall complete the implemen-
+tation of such recommendations pursuant to subsection (c)(2) by not later than two
+years after the date on which the Secretary commences such implementation.
+(e) DEFINITIONS.—In this section:
+(1) The term ‘‘FFRDC’’ means a federally funded research and development
+center.
+(2) The term ‘‘covered entities’’ includes—
+(A) the Secretary of Veterans Affairs;
+(B) an expert in laws administered by the Secretary of Veterans Affairs;
+(C) a veterans service organization recognized under section 5902 of title
+38, United States Code;
+(D) an entity that advocates for veterans; and
+(E) an entity that advocates for survivors of veterans.
+(3) The term ‘‘claimant’’ has the meaning given such term in section 5100 of
+title 38, United States Code.
+SEC. 3. EXTENSION OF CERTAIN LIMITS ON PAYMENTS OF PENSION.
+
+Section 4:
+Section 5503(d)(7) of title 38, United States Code, is amended by striking ‘‘Novem-
+ber 30, 2031’’ and inserting ‘‘December 31, 2031’’.
+PURPOSE AND SUMMARY
+H.R. 1286, the ‘‘Simplifying Forms for Veterans Claims Act,’’ was
+introduced by Representative Robert Bresnahan of Pennsylvania on
+February 13, 2025. The bill, as amended, would require the Depart-
+ment of Veterans Affairs (VA) to contract with a third-party re-
+search entity to improve the forms that veterans and their sur-
+vivors must complete to initiate and pursue their claims for VA
+benefits. The bill, as amended, would also provide an offset for the
+cost of this bill by extending the current law reducing the amount
+of pension paid to VA pension beneficiaries who are admitted to a
+VA or Medicaid sponsored nursing facility.
+BACKGROUND AND NEED FOR LEGISLATION
+
+Section 5:
+Section 1: Short Title
+This Act may be cited as the ‘‘Simplifying Forms for Veterans
+Claims Act.’’
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+
+Section 6:
+Section 2: Independent Assessment of Forms that the Secretary of
+Veterans Affairs Sends to Claimants
+VA requires that veterans and their survivors complete certain
+forms to initiate and continue pursuing their claims for VA bene-
+fits, including claims for disability compensation, pension, and sur-
+vivors’ benefits. VA uses many types of standard forms that cor-
+respond to steps in the VA claims and appeals process. Generally,
+VA must notify the public of any proposed revisions to such stand-
+ard forms. It is crucial that veterans and survivors understand how
+to fill out each form completely and accurately, because failure to
+do so can result in delays in processing their claim, delays in re-
+ceiving a decision on their claim, or a denial of their claim.
+At a March 26, 2025, Subcommittee on Disability Assistance and
+Memorial Affairs legislative hearing,1 the Committee learned that
+VA standard forms, including VA’s instructions for completing
+them, can be disorganized and confusing to navigate for veterans
+and beneficiaries.
+In her written testimony for the March 26, 2025, legislative hear-
+ing, Ms. Diane Boyd Rauber, Executive Director, National Organi-
+zation of Veterans’ Advocates, Inc. (NOVA), stated that ‘‘VA forms
+need to be readable, understandable, and organized.’’2 In a state-
+ment for the record for the March 26, 2025, legislative hearing, Mr.
+Marquis D. Barefield, Assistant National Legislative Director, Dis-
+abled American Veterans (DAV), stated: ‘‘The complexity of these
+forms can be frustrating to the average person and overwhelming
+for veterans with mental health issues and TBI, hindering their
+ability to fill out complete, error-free, and timely claims. Making
+the forms user-friendly could lead to higher utilization rates and
+more accurate claims processing.’’3
+To address this issue, this section would require VA to contract
+with a nonpartisan, federally-funded research entity that would—
+in collaboration with VA and veterans’ and survivors’ advocates—
+conduct a study on, and provide recommendations for, revising VA
+forms to be more understandable for veterans and their survivors.
+This section would also require VA to report those findings to Con-
+gress and implement the recommendations that are compliant with
+VA law.
+The Committee believes that this section is critical for veterans
+and their families to have the best chance of accessing their earned
+VA benefits. Veterans and their families should not be subjected to
+a VA claims process that is more difficult and stressful than nec-
+essary. This section would ensure that the forms they must com-
+plete are improved so that they can receive timely and accurate de-
+cisions on their claims for benefits.
+
+Section 7:
+Section 3: Extension of Certain Limits on Payments of Pension
+Under current law (38 U.S.C. § 5503(d)), the amount of VA pen-
+sion paid to veterans having no spouse nor child, veterans’ sur-
+viving spouses having no child, and veterans’ children who are ad-
+1Subcommittee on Disability Assistance and Memorial Affairs Legislative Hearing | House
+Committee on Veterans Affairs.
+2Diane Boyd Rauber, Testimony of NOVA (March, 26, 2025), HHRG-119-VR09-Wstate-
+BoydRauberD-20250326.pdf (house.gov).
+3Marquis D. Barefield, Statement For The Record of DAV, (March 26, 2025), HHRG-119-
+VR09-20250326-SD002.pdf (house.gov).
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+mitted to a VA or Medicaid sponsored nursing facility is capped at
+$90 a month. This section would cover the costs of the other sec-
+tions of this bill by extending this pension limitation by one month
+to December 31, 2031. Because they receive government sponsored
+care in a nursing home, these pension beneficiaries do not require
+the full amount of pension to cover their cost of living. The Com-
+mittee believes this short-term extension of the current limit on
+pension payments is a reasonable way to cover the costs associated
+with the other sections of this bill.
+HEARINGS
+On March 26, 2025, the Subcommittee on Disability Assistance
+and Memorial Affairs held a legislative hearing on H.R. 1286 and
+other bills that were pending before the subcommittee.
+The following witnesses testified:
+The Honorable Keith Self, U.S. House of Representatives;
+The Honorable Young Kim, U.S. House of Representatives; The
+Honorable August Pfluger, U.S. House of Representatives; The
+Honorable Rudy Yakym III, U.S. House of Representatives;
+The Honorable Tom Barrett, U.S. House of Representatives;
+The Honorable Robert P. Bresnahan, U.S. House of Represent-
+atives; Mrs. Patricia Krisfalusy-Maxon, Sister of Master Ser-
+geant Dennis Krisfalusy, U.S. Air Force (Retired); Colonel An-
+drew Shurtleff, U.S. Air Force (Retired); Ms. Diane Boyd
+Rauber, Executive Director, National Organization of Veterans’
+Advocates; Ms. Lesley Witter, Senior Vice President, Advocacy,
+National Funeral Directors Association; Ms. Kenesha Britton,
+Assistant Deputy Undersecretary, Field Operations, Veterans
+Benefits Administration, U.S. Department of Veterans Affairs;
+Ms. Jocelyn Moses, Senior Principal Advisor, Compensation
+Service, Veterans Benefits Administration, U.S. Department of
+Veterans Affairs; Ms. Lisa Pozzebon, Executive Director, Ceme-
+tery Operations, National Cemetery Administration, U.S. De-
+partment of Veterans Affairs; and Mr. Evan Deichert, Acting
+Deputy Vice Chairman, Board of Veterans’ Appeals, U.S. De-
+partment of Veterans Affairs.
+The following individuals and organizations submitted state-
+ments for the record:
+Disabled American Veterans (DAV); Paralyzed Veterans of
+America (PVA); Tragedy Assistance Program for Survivors
+(TAPS); Veterans of Foreign Wars of the United States (VFW);
+and the American Federation of Government Employees, AFL
+CIO (AFGE).
+SUBCOMMITTEE CONSIDERATION
+On April 9, 2025, the Subcommittee on Disability Assistance and
+Memorial Affairs met in an open markup session on proposed legis-
+lation, including H.R. 1286. There were no amendments to this bill.
+A motion made by Representative McGarvey to favorably forward
+H.R. 1286 to the Full Committee was agreed to by voice vote.
+COMMITTEE CONSIDERATION
+On May 6, 2025, the full Committee met in an open markup ses-
+sion with a quorum being present, and ordered H.R. 1286, as
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+5
+amended, be reported favorably to the House of Representatives by
+voice vote. During consideration of the bill, the following amend-
+ments were considered:
+An amendment in the nature of a substitute to H.R. 1286 of-
+fered by Chairman Bost would provide an offset for the other
+
+Section 8:
+sections of the bill by extending the current limit on the
+amount of pension payable to VA pension beneficiaries who
+currently have VA or Medicaid sponsored nursing care. The
+amendment in the nature of a substitute was approved by
+voice vote.
+A motion by Ranking Member Takano to report H.R. 1286, as
+amended, favorably to the House of Representatives was agreed to
+by voice vote.
+COMMITTEE VOTES
+In compliance with clause 3(b) of rule XIII of the Rules of the
+House of Representatives, no recorded votes were taken on amend-
+ments or in connection with ordering H.R. 1286, as amended, re-
+ported to the House.
+COMMITTEE OVERSIGHT FINDINGS
+In compliance with clause 3(c)(1) of rule XIII and clause (2)(b)(1)
+of rule X of the Rules of the House of Representatives, the Commit-
+tee’s oversight findings and recommendations are reflected in the
+descriptive portions of this report.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+In accordance with clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee’s performance goals and
+objectives of H.R. 1286, as amended, are to ensure that the VA
+claims process is veteran-friendly and streamlined so that veterans
+and their families can access their earned VA benefits.
+EARMARKS AND TAX AND TARIFF BENEFITS
+H.R. 1286, as amended, does not contain any Congressional ear-
+marks, limited tax benefits, or limited tariff benefits as defined in
+clause 9 of rule XXI of the Rules of the House of Representatives.
+COMMITTEE COST ESTIMATE
+The Committee adopts as its own the Congressional Budget Of-
+fice cost estimate on this measure.
+BUDGET AUTHORITY AND CONGRESSIONAL BUDGET OFFICE
+COST ESTIMATE
+Pursuant to clause (3)(c)(3) of rule XIII of the Rules of the House
+of Representatives, the following is the cost estimate for H.R. 1969,
+as amended, provided by the Congressional Budget Office (CBO)
+pursuant to section 402 of the Congressional Budget Act of 1974:
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+6
+H.R. 1286 would require the Department of Veterans Affairs
+(VA) to enter into an agreement with a federally funded research
+and development center (FFRDC) to assess the forms that the de-
+partment sends to people who have applied for VA benefits. The
+bill also would reduce the amount of VA pensions the department
+pays to certain veterans and survivors who reside in nursing
+homes.
+Spending subject to appropriation: Section 2 would require VA to
+enter into an agreement with an FFRDC to assess forms sent to
+claimants for benefits administered by VA. (FFRDCs are public-pri-
+vate partnerships between the federal government and universities
+or corporations that conduct research and development for the fed-
+eral government.) The FFRDC would consult with organizations
+and individuals who assist veterans to determine if such forms
+could be better organized and clearer to claimants. The bill would
+require VA to submit the assessment to the Congress and imple-
+ment any such recommendations within two years of receipt of the
+assessment. Using information on the cost of similar studies, CBO
+estimates that the assessment would cost $1 million in fiscal year
+
+Section 9:
+2026. Based on information from VA, CBO estimates that it would
+cost the department $1 million to analyze and implement the as-
+sessment’s recommendations.
+In total, implementing section 2 would cost $2 million over the
+2025–2035 period. Such spending would be subject to the avail-
+ability of appropriations (See Table 1).
+TABLE 1.—ESTIMATED BUDGETARY EFFECTS OF H.R. 1286
+By fiscal year, millions of dollars—
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2 2 0 0 2 3 5 0 – 2 2 0 0 2 3 5 5 –
+INCREASES IN SPENDING SUBJECT TO APPROPRIATION
+Estimated Authorization.................. * 1 * 1 0 0 0 0 0 0 0 2 2
+Estimated Outlays........................... * 1 * 1 0 0 0 0 0 0 0 2 2
+DECREASES (¥) IN DIRECT SPENDING
+Budget Authority ............................. 0 0 0 0 0 0 0 ¥4 0 0 0 0 ¥4
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 10:
+100.001RH
+ereh
+9
+oilof
+tesffo
+tresnI
+7
+TABLE 1.—ESTIMATED BUDGETARY EFFECTS OF H.R. 1286—Continued
+By fiscal year, millions of dollars—
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2 2 0 0 2 3 5 0 – 2 2 0 0 2 3 5 5 –
+Estimated Outlays........................... 0 0 0 0 0 0 0 ¥4 0 0 0 0 ¥4
+* = between zero and $500,000.
+Direct spending: Section 3 would extend through December 31,
+2031, the reduction of pension payments for veterans and survivors
+who reside in a Medicaid nursing home. Under current law, VA re-
+duces payments to those beneficiaries to $90 per month. The re-
+quirement to reduce pension payments expires on November 30,
+
+Section 11:
+2031. CBO estimates that extending that requirement by one
+month would reduce VA benefits by $10 million. (Those benefits are
+paid from mandatory appropriations and are therefore considered
+direct spending.) As a result of that reduction in beneficiaries’ in-
+come, Medicaid would pay more of the cost of their care, increasing
+spending in that program by $6 million. On net, capping pensions
+for the approximately 4,000 veterans and survivors in Medicaid
+nursing homes would reduce outlays by $4 million over the 2025–
+2035 period.
+The CBO staff contact for this estimate is Logan Smith. The esti-
+mate was reviewed by Christina Hawley Anthony, Deputy Director
+of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+FEDERAL MANDATES STATEMENT
+
+Section 12:
+Section 423 of the Congressional Budget and Impoundment Con-
+trol Act (as amended by Section 101(a)(2) of the Unfunded Mandate
+Reform Act, P.L. 104–4 is inapplicable to H.R. 1286, as amended.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act would be created by H.R. 1286, as
+amended.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that H.R. 1286, as amended, does not relate
+to the terms and conditions of employment or access to public serv-
+ices or accommodations within the meaning of section 102(b)(3) of
+the Congressional Accountability Act.
+STATEMENT ON DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee finds that no provision of H.R.
+1286, as amended, would establish or reauthorize a program of the
+Federal Government known to be duplicative of another Federal
+program, a program that was included in any report from the Gov-
+ernment Accountability Office to Congress pursuant to section 21
+of Public Law 111–139, or a program related to a program identi-
+fied in the most recent Catalog of Federal Domestic Assistance.
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+8
+
+Section 13:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 14:
+Section 1. Short title
+
+Section 15:
+Section 1 would establish the short title of the bill as the ‘‘Simpli-
+fying Forms for Veterans Claims Act.’’
+
+Section 16:
+Section 2. Independent assessment of forms that the Secretary of
+Veterans Affairs sends to claimants
+This section would require VA, no later than 30 days after the
+date of the enactment of this Act, to seek to enter into an agree-
+ment with a federally funded research and development center
+(FFRDC) to—in consultation with VA, legal experts, and veterans’
+and survivors’ advocates—to assess VA forms and provide rec-
+ommendations how VA may make those forms clearer and better
+organized. This section would also require VA to submit a copy of
+the assessment to the Committees on Veterans’ Affairs of the Sen-
+ate and the House of Representatives. This section would also re-
+quire VA, within 90 days after receiving such assessment, to imple-
+ment the recommendations that are complaint with VA law, and
+complete such implementation within two years.
+
+Section 17:
+Section 3. Extension of certain limits on payments of pension
+This section would extend the limitation of pension payable to
+certain veterans, their surviving spouses, and their children as es-
+tablished in section 5503(d)(7) of title 38, United States Code, from
+November 30, 2031, to December 31, 2031.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+existing law in which no change is proposed is shown in roman):
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+TITLE 38, UNITED STATES CODE
+* * * * * * *
+PART IV—GENERAL ADMINISTRATIVE
+PROVISIONS
+* * * * * * *
+CHAPTER 55—MINORS, INCOMPETENTS, AND OTHER
+WARDS
+* * * * * * *
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+9
+
+Section 18:
+§5503. Hospitalized veterans and estates of incompetent in-
+stitutionalized veterans
+(a)(1)(A) Where any veteran having neither spouse nor child is
+being furnished domiciliary care by the Department, no pension in
+excess of $90 per month shall be paid to or for the veteran for any
+period after the end of the third full calendar month following the
+month of admission for such care.
+(B) Except as provided in subparagraph (D) of this paragraph,
+where any veteran having neither spouse nor child is being fur-
+nished nursing home care by the Department, no pension in excess
+of $90 per month shall be paid to or for the veteran for any period
+after the end of the third full calendar month following the month
+of admission for such care. Any amount in excess of $90 per month
+to which the veteran would be entitled but for the application of
+the preceding sentence shall be deposited in a revolving fund at the
+Department medical facility which furnished the veteran nursing
+care, and such amount shall be available for obligation without fis-
+cal year limitation to help defray operating expenses of that facil-
+ity.
+(C) No pension in excess of $90 per month shall be paid to or for
+a veteran having neither spouse nor child for any period after the
+month in which such veteran is readmitted for care described in
+subparagraph (A) or (B) of this paragraph and furnished by the De-
+partment if such veteran is readmitted within six months of a pe-
+riod of care in connection with which pension was reduced pursu-
+ant to subparagraph (A) or (B) of this paragraph.
+(D) In the case of a veteran being furnished nursing home care
+by the Department and with respect to whom subparagraph (B) of
+this paragraph requires a reduction in pension, such reduction
+shall not be made for a period of up to three additional calendar
+months after the last day of the third month referred to in such
+subparagraph if the Secretary determines that the primary purpose
+for the furnishing of such care during such additional period is for
+the Department to provide such veteran with a prescribed program
+of rehabilitation services, under chapter 17 of this title, designed
+to restore such veteran’s ability to function within such veteran’s
+family and community. If the Secretary determines that it is nec-
+essary, after such period, for the veteran to continue such program
+of rehabilitation services in order to achieve the purposes of such
+program and that the primary purpose of furnishing nursing home
+care to the veteran continues to be the provision of such program
+to the veteran, the reduction in pension required by subparagraph
+(B) of this paragraph shall not be made for the number of calendar
+months that the Secretary determines is necessary for the veteran
+to achieve the purposes of such program.
+(2) The provisions of paragraph (1) shall also apply to a veteran
+being furnished such care who has a spouse but whose pension is
+payable under section 1521(b) of this title. In such a case, the Sec-
+retary may apportion and pay to the spouse, upon an affirmative
+showing of hardship, all or any part of the amounts in excess of
+the amount payable to the veteran while being furnished such care
+which would be payable to the veteran if pension were payable
+under section 1521(c) of this title.
+(b) Notwithstanding any other provision of this section or any
+other provision of law, no reduction shall be made in the pension
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+10
+of any veteran for any part of the period during which the veteran
+is furnished hospital treatment, or institutional or domiciliary care,
+for Hansen’s disease, by the United States or any political subdivi-
+sion thereof.
+(c) Where any veteran in receipt of an aid and attendance allow-
+ance described in subsection (r) or (t) of section 1114 of this title
+is hospitalized at Government expense, such allowance shall be dis-
+continued from the first day of the second calendar month which
+begins after the date of the veteran’s admission for such hos-
+pitalization for so long as such hospitalization continues. Any dis-
+continuance required by administrative regulation, during hos-
+pitalization of a veteran by the Department, of increased pension
+based on need of regular aid and attendance or additional com-
+pensation based on need of regular aid and attendance as described
+in subsection (l) or (m) of section 1114 of this title, shall not be ef-
+fective earlier than the first day of the second calendar month
+which begins after the date of the veteran’s admission for hos-
+pitalization. In case a veteran affected by this subsection leaves a
+hospital against medical advice and is thereafter admitted to hos-
+pitalization within six months from the date of such departure,
+such allowance, increased pension, or additional compensation, as
+the case may be, shall be discontinued from the date of such read-
+mission for so long as such hospitalization continues.
+(d)(1) For the purposes of this subsection—
+(A) the term ‘‘Medicaid plan’’ means a State plan for medical
+assistance referred to in section 1902(a) of the Social Security
+Act (42 U.S.C. 1396a(a)); and
+(B) the term ‘‘nursing facility’’ means a nursing facility de-
+scribed in section 1919 of such Act (42 U.S.C. 1396r), other
+than a facility that is a State home with respect to which the
+Secretary makes per diem payments for nursing home care
+pursuant to section 1741(a) of this title.
+(2) If a veteran having neither spouse nor child is covered by a
+Medicaid plan for services furnished such veteran by a nursing fa-
+cility, no pension in excess of $90 per month shall be paid to or for
+the veteran for any period after the month of admission to such
+nursing facility.
+(3) Notwithstanding any provision of title XIX of the Social Secu-
+rity Act, the amount of the payment paid a nursing facility pursu-
+ant to a Medicaid plan for services furnished a veteran may not be
+reduced by any amount of pension permitted to be paid such vet-
+eran under paragraph (2) of this subsection.
+(4) A veteran is not liable to the United States for any payment
+of pension in excess of the amount permitted under this subsection
+that is paid to or for the veteran by reason of the inability or fail-
+ure of the Secretary to reduce the veteran’s pension under this sub-
+
+Section 19:
+section unless such inability or failure is the result of a willful con-
+cealment by the veteran of information necessary to make a reduc-
+tion in pension under this subsection.
+(5)(A) The provisions of this subsection shall apply with respect
+to a surviving spouse having no child in the same manner as they
+apply to a veteran having neither spouse nor child.
+(B) The provisions of this subsection shall apply with respect to
+a child entitled to pension under section 1542 of this title in the
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+11
+same manner as they apply to a veteran having neither spouse nor
+child.
+(6) The costs of administering this subsection shall be paid for
+from amounts available to the Department of Veterans Affairs for
+the payment of compensation and pension.
+(7) This subsection expires on øNovember 30, 2031¿ December
+31, 2031.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6611 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–100
+SIMPLIFYING FORMS FOR VETERANS CLAIMS ACT
+MAY17, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. BOST, from the Committee on Veterans’ Affairs,
+submitted the following
+R E P O R T
+[To accompany H.R. 1286]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Veterans’ Affairs, to whom was referred the
+bill (H.R. 1286) to direct the Secretary of Veterans Affairs to seek
+to enter into an agreement with a federally funded research and
+development center for an assessment of forms that the Secretary
+sends to claimants for benefits under laws administered by the Sec-
+retary, and for other purposes, having considered the same, reports
+favorably thereon with an amendment and recommends that the
+bill as amended do pass.
+CONTENTS
+Page
+Amendment .............................................................................................................. 2
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Hearings ................................................................................................................... 4
+Subcommittee Consideration .................................................................................. 4
+Committee Consideration ........................................................................................ 4
+Committee Votes ...................................................................................................... 5
+Committee Oversight Findings ............................................................................... 5
+Statement of General Performance Goals and Objectives .................................... 5
+Earmarks and Tax and Tariff Benefits .................................................................. 5
+Committee Cost Estimate ....................................................................................... 5
+Budget Authority and Congressional Budget Office Estimate ............................ 5
+Federal Mandates Statement ................................................................................. 7
+Advisory Committee Statement .............................................................................. 7
+Applicability to Legislative Branch ........................................................................ 7
+Statement on Duplication of Federal Programs .................................................... 7
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 8
+59–006
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Simplifying Forms for Veterans Claims Act’’.
+SEC. 2. INDEPENDENT ASSESSMENT OF FORMS THAT THE SECRETARY OF VETERANS AF-
+FAIRS SENDS TO CLAIMANTS.
+(a) AGREEMENT.—Not later than 30 days after the date of the enactment of this
+Act, the Secretary of Veterans Affairs shall seek to enter into an agreement with
+an FFRDC for an assessment of forms that the Secretary sends to claimants.
+(b) ASSESSMENT.—An FFRDC that enters to an agreement under subsection (a)
+shall submit to the Secretary a written assessment, made in consultation with cov-
+ered entities, of such forms. The assessment shall include the recommendations of
+the FFRDC regarding how the Secretary may make such forms clearer to claimants
+and better organized.
+(c) REPORT; IMPLEMENTATION.—Not later than 90 days after the Secretary receives
+the assessment under subsection (b), the Secretary shall—
+(1) submit to the Committees on Veterans’ Affairs of the Senate and House
+of Representatives a copy of such assessment; and
+(2) implement the recommendations in the assessment that are in compliance
+with the laws administered by the Secretary.
+(d) DEADLINEFORIMPLEMENTATION.—The Secretary shall complete the implemen-
+tation of such recommendations pursuant to subsection (c)(2) by not later than two
+years after the date on which the Secretary commences such implementation.
+(e) DEFINITIONS.—In this section:
+(1) The term ‘‘FFRDC’’ means a federally funded research and development
+center.
+(2) The term ‘‘covered entities’’ includes—
+(A) the Secretary of Veterans Affairs;
+(B) an expert in laws administered by the Secretary of Veterans Affairs;
+(C) a veterans service organization recognized under section 5902 of title
+38, United States Code;
+(D) an entity that advocates for veterans; and
+(E) an entity that advocates for survivors of veterans.
+(3) The term ‘‘claimant’’ has the meaning given such term in section 5100 of
+title 38, United States Code.
+SEC. 3. EXTENSION OF CERTAIN LIMITS ON PAYMENTS OF PENSION.
+Section 5503(d)(7) of title 38, United States Code, is amended by striking ‘‘Novem-
+ber 30, 2031’’ and inserting ‘‘December 31, 2031’’.
+PURPOSE AND SUMMARY
+H.R. 1286, the ‘‘Simplifying Forms for Veterans Claims Act,’’ was
+introduced by Representative Robert Bresnahan of Pennsylvania on
+February 13, 2025. The bill, as amended, would require the Depart-
+ment of Veterans Affairs (VA) to contract with a third-party re-
+search entity to improve the forms that veterans and their sur-
+vivors must complete to initiate and pursue their claims for VA
+benefits. The bill, as amended, would also provide an offset for the
+cost of this bill by extending the current law reducing the amount
+of pension paid to VA pension beneficiaries who are admitted to a
+VA or Medicaid sponsored nursing facility.
+BACKGROUND AND NEED FOR LEGISLATION
+Section 1: Short Title
+This Act may be cited as the ‘‘Simplifying Forms for Veterans
+Claims Act.’’
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+Section 2: Independent Assessment of Forms that the Secretary of
+Veterans Affairs Sends to Claimants
+VA requires that veterans and their survivors complete certain
+forms to initiate and continue pursuing their claims for VA bene-
+fits, including claims for disability compensation, pension, and sur-
+vivors’ benefits. VA uses many types of standard forms that cor-
+respond to steps in the VA claims and appeals process. Generally,
+VA must notify the public of any proposed revisions to such stand-
+ard forms. It is crucial that veterans and survivors understand how
+to fill out each form completely and accurately, because failure to
+do so can result in delays in processing their claim, delays in re-
+ceiving a decision on their claim, or a denial of their claim.
+At a March 26, 2025, Subcommittee on Disability Assistance and
+Memorial Affairs legislative hearing,1 the Committee learned that
+VA standard forms, including VA’s instructions for completing
+them, can be disorganized and confusing to navigate for veterans
+and beneficiaries.
+In her written testimony for the March 26, 2025, legislative hear-
+ing, Ms. Diane Boyd Rauber, Executive Director, National Organi-
+zation of Veterans’ Advocates, Inc. (NOVA), stated that ‘‘VA forms
+need to be readable, understandable, and organized.’’2 In a state-
+ment for the record for the March 26, 2025, legislative hearing, Mr.
+Marquis D. Barefield, Assistant National Legislative Director, Dis-
+abled American Veterans (DAV), stated: ‘‘The complexity of these
+forms can be frustrating to the average person and overwhelming
+for veterans with mental health issues and TBI, hindering their
+ability to fill out complete, error-free, and timely claims. Making
+the forms user-friendly could lead to higher utilization rates and
+more accurate claims processing.’’3
+To address this issue, this section would require VA to contract
+with a nonpartisan, federally-funded research entity that would—
+in collaboration with VA and veterans’ and survivors’ advocates—
+conduct a study on, and provide recommendations for, revising VA
+forms to be more understandable for veterans and their survivors.
+This section would also require VA to report those findings to Con-
+gress and implement the recommendations that are compliant with
+VA law.
+The Committee believes that this section is critical for veterans
+and their families to have the best chance of accessing their earned
+VA benefits. Veterans and their families should not be subjected to
+a VA claims process that is more difficult and stressful than nec-
+essary. This section would ensure that the forms they must com-
+plete are improved so that they can receive timely and accurate de-
+cisions on their claims for benefits.
+Section 3: Extension of Certain Limits on Payments of Pension
+Under current law (38 U.S.C. § 5503(d)), the amount of VA pen-
+sion paid to veterans having no spouse nor child, veterans’ sur-
+viving spouses having no child, and veterans’ children who are ad-
+1Subcommittee on Disability Assistance and Memorial Affairs Legislative Hearing | House
+Committee on Veterans Affairs.
+2Diane Boyd Rauber, Testimony of NOVA (March, 26, 2025), HHRG-119-VR09-Wstate-
+BoydRauberD-20250326.pdf (house.gov).
+3Marquis D. Barefield, Statement For The Record of DAV, (March 26, 2025), HHRG-119-
+VR09-20250326-SD002.pdf (house.gov).
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+mitted to a VA or Medicaid sponsored nursing facility is capped at
+$90 a month. This section would cover the costs of the other sec-
+tions of this bill by extending this pension limitation by one month
+to December 31, 2031. Because they receive government sponsored
+care in a nursing home, these pension beneficiaries do not require
+the full amount of pension to cover their cost of living. The Com-
+mittee believes this short-term extension of the current limit on
+pension payments is a reasonable way to cover the costs associated
+with the other sections of this bill.
+HEARINGS
+On March 26, 2025, the Subcommittee on Disability Assistance
+and Memorial Affairs held a legislative hearing on H.R. 1286 and
+other bills that were pending before the subcommittee.
+The following witnesses testified:
+The Honorable Keith Self, U.S. House of Representatives;
+The Honorable Young Kim, U.S. House of Representatives; The
+Honorable August Pfluger, U.S. House of Representatives; The
+Honorable Rudy Yakym III, U.S. House of Representatives;
+The Honorable Tom Barrett, U.S. House of Representatives;
+The Honorable Robert P. Bresnahan, U.S. House of Represent-
+atives; Mrs. Patricia Krisfalusy-Maxon, Sister of Master Ser-
+geant Dennis Krisfalusy, U.S. Air Force (Retired); Colonel An-
+drew Shurtleff, U.S. Air Force (Retired); Ms. Diane Boyd
+Rauber, Executive Director, National Organization of Veterans’
+Advocates; Ms. Lesley Witter, Senior Vice President, Advocacy,
+National Funeral Directors Association; Ms. Kenesha Britton,
+Assistant Deputy Undersecretary, Field Operations, Veterans
+Benefits Administration, U.S. Department of Veterans Affairs;
+Ms. Jocelyn Moses, Senior Principal Advisor, Compensation
+Service, Veterans Benefits Administration, U.S. Department of
+Veterans Affairs; Ms. Lisa Pozzebon, Executive Director, Ceme-
+tery Operations, National Cemetery Administration, U.S. De-
+partment of Veterans Affairs; and Mr. Evan Deichert, Acting
+Deputy Vice Chairman, Board of Veterans’ Appeals, U.S. De-
+partment of Veterans Affairs.
+The following individuals and organizations submitted state-
+ments for the record:
+Disabled American Veterans (DAV); Paralyzed Veterans of
+America (PVA); Tragedy Assistance Program for Survivors
+(TAPS); Veterans of Foreign Wars of the United States (VFW);
+and the American Federation of Government Employees, AFL
+CIO (AFGE).
+SUBCOMMITTEE CONSIDERATION
+On April 9, 2025, the Subcommittee on Disability Assistance and
+Memorial Affairs met in an open markup session on proposed legis-
+lation, including H.R. 1286. There were no amendments to this bill.
+A motion made by Representative McGarvey to favorably forward
+H.R. 1286 to the Full Committee was agreed to by voice vote.
+COMMITTEE CONSIDERATION
+On May 6, 2025, the full Committee met in an open markup ses-
+sion with a quorum being present, and ordered H.R. 1286, as
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+5
+amended, be reported favorably to the House of Representatives by
+voice vote. During consideration of the bill, the following amend-
+ments were considered:
+An amendment in the nature of a substitute to H.R. 1286 of-
+fered by Chairman Bost would provide an offset for the other
+sections of the bill by extending the current limit on the
+amount of pension payable to VA pension beneficiaries who
+currently have VA or Medicaid sponsored nursing care. The
+amendment in the nature of a substitute was approved by
+voice vote.
+A motion by Ranking Member Takano to report H.R. 1286, as
+amended, favorably to the House of Representatives was agreed to
+by voice vote.
+COMMITTEE VOTES
+In compliance with clause 3(b) of rule XIII of the Rules of the
+House of Representatives, no recorded votes were taken on amend-
+ments or in connection with ordering H.R. 1286, as amended, re-
+ported to the House.
+COMMITTEE OVERSIGHT FINDINGS
+In compliance with clause 3(c)(1) of rule XIII and clause (2)(b)(1)
+of rule X of the Rules of the House of Representatives, the Commit-
+tee’s oversight findings and recommendations are reflected in the
+descriptive portions of this report.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+In accordance with clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee’s performance goals and
+objectives of H.R. 1286, as amended, are to ensure that the VA
+claims process is veteran-friendly and streamlined so that veterans
+and their families can access their earned VA benefits.
+EARMARKS AND TAX AND TARIFF BENEFITS
+H.R. 1286, as amended, does not contain any Congressional ear-
+marks, limited tax benefits, or limited tariff benefits as defined in
+clause 9 of rule XXI of the Rules of the House of Representatives.
+COMMITTEE COST ESTIMATE
+The Committee adopts as its own the Congressional Budget Of-
+fice cost estimate on this measure.
+BUDGET AUTHORITY AND CONGRESSIONAL BUDGET OFFICE
+COST ESTIMATE
+Pursuant to clause (3)(c)(3) of rule XIII of the Rules of the House
+of Representatives, the following is the cost estimate for H.R. 1969,
+as amended, provided by the Congressional Budget Office (CBO)
+pursuant to section 402 of the Congressional Budget Act of 1974:
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+6
+H.R. 1286 would require the Department of Veterans Affairs
+(VA) to enter into an agreement with a federally funded research
+and development center (FFRDC) to assess the forms that the de-
+partment sends to people who have applied for VA benefits. The
+bill also would reduce the amount of VA pensions the department
+pays to certain veterans and survivors who reside in nursing
+homes.
+Spending subject to appropriation: Section 2 would require VA to
+enter into an agreement with an FFRDC to assess forms sent to
+claimants for benefits administered by VA. (FFRDCs are public-pri-
+vate partnerships between the federal government and universities
+or corporations that conduct research and development for the fed-
+eral government.) The FFRDC would consult with organizations
+and individuals who assist veterans to determine if such forms
+could be better organized and clearer to claimants. The bill would
+require VA to submit the assessment to the Congress and imple-
+ment any such recommendations within two years of receipt of the
+assessment. Using information on the cost of similar studies, CBO
+estimates that the assessment would cost $1 million in fiscal year
+2026. Based on information from VA, CBO estimates that it would
+cost the department $1 million to analyze and implement the as-
+sessment’s recommendations.
+In total, implementing section 2 would cost $2 million over the
+2025–2035 period. Such spending would be subject to the avail-
+ability of appropriations (See Table 1).
+TABLE 1.—ESTIMATED BUDGETARY EFFECTS OF H.R. 1286
+By fiscal year, millions of dollars—
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2 2 0 0 2 3 5 0 – 2 2 0 0 2 3 5 5 –
+INCREASES IN SPENDING SUBJECT TO APPROPRIATION
+Estimated Authorization.................. * 1 * 1 0 0 0 0 0 0 0 2 2
+Estimated Outlays........................... * 1 * 1 0 0 0 0 0 0 0 2 2
+DECREASES (¥) IN DIRECT SPENDING
+Budget Authority ............................. 0 0 0 0 0 0 0 ¥4 0 0 0 0 ¥4
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.001RH
+ereh
+9
+oilof
+tesffo
+tresnI
+
+7
+TABLE 1.—ESTIMATED BUDGETARY EFFECTS OF H.R. 1286—Continued
+By fiscal year, millions of dollars—
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2 2 0 0 2 3 5 0 – 2 2 0 0 2 3 5 5 –
+Estimated Outlays........................... 0 0 0 0 0 0 0 ¥4 0 0 0 0 ¥4
+* = between zero and $500,000.
+Direct spending: Section 3 would extend through December 31,
+2031, the reduction of pension payments for veterans and survivors
+who reside in a Medicaid nursing home. Under current law, VA re-
+duces payments to those beneficiaries to $90 per month. The re-
+quirement to reduce pension payments expires on November 30,
+2031. CBO estimates that extending that requirement by one
+month would reduce VA benefits by $10 million. (Those benefits are
+paid from mandatory appropriations and are therefore considered
+direct spending.) As a result of that reduction in beneficiaries’ in-
+come, Medicaid would pay more of the cost of their care, increasing
+spending in that program by $6 million. On net, capping pensions
+for the approximately 4,000 veterans and survivors in Medicaid
+nursing homes would reduce outlays by $4 million over the 2025–
+2035 period.
+The CBO staff contact for this estimate is Logan Smith. The esti-
+mate was reviewed by Christina Hawley Anthony, Deputy Director
+of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+FEDERAL MANDATES STATEMENT
+Section 423 of the Congressional Budget and Impoundment Con-
+trol Act (as amended by Section 101(a)(2) of the Unfunded Mandate
+Reform Act, P.L. 104–4 is inapplicable to H.R. 1286, as amended.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act would be created by H.R. 1286, as
+amended.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that H.R. 1286, as amended, does not relate
+to the terms and conditions of employment or access to public serv-
+ices or accommodations within the meaning of section 102(b)(3) of
+the Congressional Accountability Act.
+STATEMENT ON DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee finds that no provision of H.R.
+1286, as amended, would establish or reauthorize a program of the
+Federal Government known to be duplicative of another Federal
+program, a program that was included in any report from the Gov-
+ernment Accountability Office to Congress pursuant to section 21
+of Public Law 111–139, or a program related to a program identi-
+fied in the most recent Catalog of Federal Domestic Assistance.
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+8
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+Section 1 would establish the short title of the bill as the ‘‘Simpli-
+fying Forms for Veterans Claims Act.’’
+Section 2. Independent assessment of forms that the Secretary of
+Veterans Affairs sends to claimants
+This section would require VA, no later than 30 days after the
+date of the enactment of this Act, to seek to enter into an agree-
+ment with a federally funded research and development center
+(FFRDC) to—in consultation with VA, legal experts, and veterans’
+and survivors’ advocates—to assess VA forms and provide rec-
+ommendations how VA may make those forms clearer and better
+organized. This section would also require VA to submit a copy of
+the assessment to the Committees on Veterans’ Affairs of the Sen-
+ate and the House of Representatives. This section would also re-
+quire VA, within 90 days after receiving such assessment, to imple-
+ment the recommendations that are complaint with VA law, and
+complete such implementation within two years.
+Section 3. Extension of certain limits on payments of pension
+This section would extend the limitation of pension payable to
+certain veterans, their surviving spouses, and their children as es-
+tablished in section 5503(d)(7) of title 38, United States Code, from
+November 30, 2031, to December 31, 2031.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+existing law in which no change is proposed is shown in roman):
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+TITLE 38, UNITED STATES CODE
+* * * * * * *
+PART IV—GENERAL ADMINISTRATIVE
+PROVISIONS
+* * * * * * *
+CHAPTER 55—MINORS, INCOMPETENTS, AND OTHER
+WARDS
+* * * * * * *
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+9
+§5503. Hospitalized veterans and estates of incompetent in-
+stitutionalized veterans
+(a)(1)(A) Where any veteran having neither spouse nor child is
+being furnished domiciliary care by the Department, no pension in
+excess of $90 per month shall be paid to or for the veteran for any
+period after the end of the third full calendar month following the
+month of admission for such care.
+(B) Except as provided in subparagraph (D) of this paragraph,
+where any veteran having neither spouse nor child is being fur-
+nished nursing home care by the Department, no pension in excess
+of $90 per month shall be paid to or for the veteran for any period
+after the end of the third full calendar month following the month
+of admission for such care. Any amount in excess of $90 per month
+to which the veteran would be entitled but for the application of
+the preceding sentence shall be deposited in a revolving fund at the
+Department medical facility which furnished the veteran nursing
+care, and such amount shall be available for obligation without fis-
+cal year limitation to help defray operating expenses of that facil-
+ity.
+(C) No pension in excess of $90 per month shall be paid to or for
+a veteran having neither spouse nor child for any period after the
+month in which such veteran is readmitted for care described in
+subparagraph (A) or (B) of this paragraph and furnished by the De-
+partment if such veteran is readmitted within six months of a pe-
+riod of care in connection with which pension was reduced pursu-
+ant to subparagraph (A) or (B) of this paragraph.
+(D) In the case of a veteran being furnished nursing home care
+by the Department and with respect to whom subparagraph (B) of
+this paragraph requires a reduction in pension, such reduction
+shall not be made for a period of up to three additional calendar
+months after the last day of the third month referred to in such
+subparagraph if the Secretary determines that the primary purpose
+for the furnishing of such care during such additional period is for
+the Department to provide such veteran with a prescribed program
+of rehabilitation services, under chapter 17 of this title, designed
+to restore such veteran’s ability to function within such veteran’s
+family and community. If the Secretary determines that it is nec-
+essary, after such period, for the veteran to continue such program
+of rehabilitation services in order to achieve the purposes of such
+program and that the primary purpose of furnishing nursing home
+care to the veteran continues to be the provision of such program
+to the veteran, the reduction in pension required by subparagraph
+(B) of this paragraph shall not be made for the number of calendar
+months that the Secretary determines is necessary for the veteran
+to achieve the purposes of such program.
+(2) The provisions of paragraph (1) shall also apply to a veteran
+being furnished such care who has a spouse but whose pension is
+payable under section 1521(b) of this title. In such a case, the Sec-
+retary may apportion and pay to the spouse, upon an affirmative
+showing of hardship, all or any part of the amounts in excess of
+the amount payable to the veteran while being furnished such care
+which would be payable to the veteran if pension were payable
+under section 1521(c) of this title.
+(b) Notwithstanding any other provision of this section or any
+other provision of law, no reduction shall be made in the pension
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+10
+of any veteran for any part of the period during which the veteran
+is furnished hospital treatment, or institutional or domiciliary care,
+for Hansen’s disease, by the United States or any political subdivi-
+sion thereof.
+(c) Where any veteran in receipt of an aid and attendance allow-
+ance described in subsection (r) or (t) of section 1114 of this title
+is hospitalized at Government expense, such allowance shall be dis-
+continued from the first day of the second calendar month which
+begins after the date of the veteran’s admission for such hos-
+pitalization for so long as such hospitalization continues. Any dis-
+continuance required by administrative regulation, during hos-
+pitalization of a veteran by the Department, of increased pension
+based on need of regular aid and attendance or additional com-
+pensation based on need of regular aid and attendance as described
+in subsection (l) or (m) of section 1114 of this title, shall not be ef-
+fective earlier than the first day of the second calendar month
+which begins after the date of the veteran’s admission for hos-
+pitalization. In case a veteran affected by this subsection leaves a
+hospital against medical advice and is thereafter admitted to hos-
+pitalization within six months from the date of such departure,
+such allowance, increased pension, or additional compensation, as
+the case may be, shall be discontinued from the date of such read-
+mission for so long as such hospitalization continues.
+(d)(1) For the purposes of this subsection—
+(A) the term ‘‘Medicaid plan’’ means a State plan for medical
+assistance referred to in section 1902(a) of the Social Security
+Act (42 U.S.C. 1396a(a)); and
+(B) the term ‘‘nursing facility’’ means a nursing facility de-
+scribed in section 1919 of such Act (42 U.S.C. 1396r), other
+than a facility that is a State home with respect to which the
+Secretary makes per diem payments for nursing home care
+pursuant to section 1741(a) of this title.
+(2) If a veteran having neither spouse nor child is covered by a
+Medicaid plan for services furnished such veteran by a nursing fa-
+cility, no pension in excess of $90 per month shall be paid to or for
+the veteran for any period after the month of admission to such
+nursing facility.
+(3) Notwithstanding any provision of title XIX of the Social Secu-
+rity Act, the amount of the payment paid a nursing facility pursu-
+ant to a Medicaid plan for services furnished a veteran may not be
+reduced by any amount of pension permitted to be paid such vet-
+eran under paragraph (2) of this subsection.
+(4) A veteran is not liable to the United States for any payment
+of pension in excess of the amount permitted under this subsection
+that is paid to or for the veteran by reason of the inability or fail-
+ure of the Secretary to reduce the veteran’s pension under this sub-
+section unless such inability or failure is the result of a willful con-
+cealment by the veteran of information necessary to make a reduc-
+tion in pension under this subsection.
+(5)(A) The provisions of this subsection shall apply with respect
+to a surviving spouse having no child in the same manner as they
+apply to a veteran having neither spouse nor child.
+(B) The provisions of this subsection shall apply with respect to
+a child entitled to pension under section 1542 of this title in the
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+11
+same manner as they apply to a veteran having neither spouse nor
+child.
+(6) The costs of administering this subsection shall be paid for
+from amounts available to the Department of Veterans Affairs for
+the payment of compensation and pension.
+(7) This subsection expires on øNovember 30, 2031¿ December
+31, 2031.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 05:41 May 18, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6611 E:\HR\OC\HR100.XXX HR100
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

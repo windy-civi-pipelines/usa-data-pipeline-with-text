@@ -1,0 +1,1337 @@
+Title: APRIL28, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: APRIL28, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 6
+Source: documents - H. Rept. 119-79
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–79
+IMPROVING LAW ENFORCEMENT OFFICER SAFETY AND
+WELLNESS THROUGH DATA ACT
+the Union and ordered to be printed
+Mr. JORDAN, from the Committee on the Judiciary,
+submitted the following
+R E P O R T
+[To accompany H.R. 2240]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on the Judiciary, to whom was referred the bill
+(H.R. 2240) to require the Attorney General to develop reports re-
+lating to violent attacks against law enforcement officers, and for
+other purposes, having considered the same, reports favorably
+thereon with an amendment and recommends that the bill as
+amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 4
+Background and Need for the Legislation ............................................................. 4
+Committee Consideration ........................................................................................ 9
+Committee Votes ...................................................................................................... 9
+Committee Oversight Findings ............................................................................... 9
+New Budget Authority and Tax Expenditures ...................................................... 9
+Congressional Budget Office Cost Estimate .......................................................... 9
+Committee Estimate of Budgetary Effects ............................................................ 10
+Duplication of Federal Programs ............................................................................ 10
+Performance Goals and Objectives ......................................................................... 10
+Advisory on Earmarks ............................................................................................. 10
+Federal Mandates Statement ................................................................................. 10
+Advisory Committee Statement .............................................................................. 10
+Applicability to Legislative Branch ........................................................................ 11
+
+Section 2:
+Section-by-Section Analysis .................................................................................... 11
+The amendment is as follows:
+Strike all that follows after the enacting clause and insert the
+following:
+59–006
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+2
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Improving Law Enforcement Officer Safety and
+Wellness Through Data Act’’.
+SEC. 2. FINDINGS.
+Congress finds the following:
+(1) There has been a rise in anti-police rhetoric and a corresponding rise in
+violence against law enforcement officers.
+(2) In 2022, a total of 60 police officers were feloniously killed in the line of
+duty.
+(3) Nearly 30 percent of police officer killings in 2022 were caused by
+unprovoked attacks or ambushes on officers.
+(4) Law enforcement officers bravely put themselves at risk for the better-
+ment of society.
+(5) A data collection that represents the full circumstances surrounding vio-
+lent attacks and ambush attacks on law enforcement officers is vital for the pro-
+vision of needed Federal resources to Federal, State, and local law enforcement
+officers.
+(6) Police suffer assaults and other offenses that do not rise to the level of
+Law Enforcement Officers Killed and Assaulted or National Incident-Based Re-
+porting System reporting due to the frequency of such incidents, lower risk to
+officers, and minimal administrative resources to report such frequent events.
+(7) The mental health of law enforcement officers has suffered due to over-
+work, recruitment issues, and the general stress of their work.
+(8) The people of the United States will always remember the victims of these
+hateful attacks against law enforcement officers and stand in solidarity with in-
+dividuals affected by these senseless tragedies and incidents of hate that have
+affected law enforcement communities and their families.
+(9) The United States must demonstrate to its brave law enforcement officers
+that they are important, valued, and respected.
+(10) Congress has made a commitment to helping communities protect the
+lives of their police officers, as evidenced by the Bulletproof Vest Partnership
+Grant Program Reauthorization Act of 2015 (Public Law 114–155; 130 Stat.
+389) and other laws.
+(11) Subsection (c) of the Uniform Federal Crime Reporting Act of 1988 (34
+U.S.C. 41303(c)) requires the Attorney General to ‘‘acquire, collect, classify, and
+preserve national data on Federal criminal offenses as part of the Uniform
+Crime Reports’’ and requires all Federal departments and agencies that inves-
+tigate criminal activity to ‘‘report details about crime within their respective ju-
+risdiction to the Attorney General in a uniform matter and on a form prescribed
+by the Attorney General’’.
+SEC. 3. ATTACKS ON LAW ENFORCEMENT OFFICERS REPORTING REQUIREMENT.
+(a) INGENERAL.—Not later than 270 days after the date of enactment of this Act,
+the Attorney General, in consultation with the Director of the Federal Bureau of In-
+vestigation, the Director of the National Institute of Justice, and the Director of the
+Criminal Justice Information Services Division of the Federal Bureau of Investiga-
+tion, shall submit to the Committee on the Judiciary of the Senate and the Com-
+mittee on the Judiciary of the House of Representatives a report that includes—
+(1) the number of offenders that intentionally target law enforcement officers
+because of their status as law enforcement officers;
+(2) the number of incidents reported to the Law Enforcement Officers Killed
+and Assaulted Data Collection that occur through the coordinated actions of 2
+or more parties;
+(3) a description of the Federal response to ambushes and violent attacks on
+Federal law enforcement officers;
+(4) a detailed survey of what State and local responses are to ambushes and
+violent attacks on State and local law enforcement officers;
+(5) recommendations for improving State, local, and Federal responses to am-
+bushes and violent attacks on law enforcement officers;
+(6) a detailed survey of Federal and State-based training programs that law
+enforcement officers receive in preparation for violent attacks, including am-
+bush attacks;
+(7) an analysis of the effectiveness of the programs described in paragraph (6)
+in preparing law enforcement officers for violent attacks, including ambush at-
+tacks;
+(8) recommendations on how to improve State, local, and Federal training pro-
+grams for law enforcement officers relating to ambush attacks;
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+3
+(9) an analysis of, with respect to the Patrick Leahy Bulletproof Vest Partner-
+ship under part Y of title I of the Omnibus Crime Control and Safe Streets Act
+of 1968 (34 U.S.C. 10530 et seq.)—
+(A) the efficacy of the Partnership in distributing protective gear to law
+enforcement officers across the United States, including any location-spe-
+cific limitations to the distribution under such Partnership; and
+(B) the general limitations of the Partnership, including any location-spe-
+cific limitations to the distributions under the Partnership, considering the
+fact that law enforcement officers are suffering from ambush attacks;
+(10) an analysis of the ability of the Department of Justice to combine the
+Law Enforcement Officers Killed and Assaulted Data Collection and a 09C Jus-
+tifiable Homicide report for officer-involved shooting reports and any roadblocks
+to producing a clear report with such information;
+(11) an analysis of the ability of the Criminal Justice Information Services of
+the Federal Bureau of Investigation to expand data collection to include a sus-
+pect offender’s level of injury at the time of a reported Law Enforcement Offi-
+cers Killed and Assaulted Data Collection incident;
+(12) an analysis of the existence and extent of, and reasons for, disparities
+in the availability and reporting of data between—
+(A) data relating to ambush attacks against law enforcement officers; and
+(B) other types of violent crime data; and
+(13) an analysis of any additional legislative tools or authorities that may be
+helpful or necessary to assist in deterring ambush attacks against law enforce-
+ment officers.
+(b) DEVELOPMENT.—In developing the report required under subsection (a), the
+Attorney General, the Director of the Federal Bureau of Investigation, the Director
+of the National Institute of Justice, and the Director of the Criminal Justice Infor-
+mation Services Division of the Federal Bureau of Investigation, shall consult rel-
+evant stakeholders, including—
+(1) Federal, State, Tribal, and local law enforcement agencies; and
+(2) nongovernmental organizations, international organizations, academies, or
+other entities.
+SEC. 4. AGGRESSION AGAINST LAW ENFORCEMENT OFFICERS REPORTING REQUIREMENT.
+(a) INGENERAL.—Not later than 270 days after the date of enactment of this Act,
+the Attorney General, in consultation with the Director of the Federal Bureau of In-
+vestigation and the Director of the National Institute of Justice, shall submit to the
+Committee on the Judiciary of the Senate and the Committee on the Judiciary of
+the House of Representatives a report on—
+(1) an analysis of the ability to implement a new category in the Uniform
+Crime Reporting System and the National Incident-Based Reporting System on
+aggressive actions, conduct, or other trauma-inducing incidents against law en-
+forcement officers that, as of the date of enactment of this Act, are not reported
+in such systems;
+(2) the level of detail the category described in paragraph (1) would include
+and the standard of evidence that would be used for any reported incidents;
+(3) an analysis of how to engage State and local law enforcement agencies in
+reporting the data described in paragraph (1), despite the fact that such data
+is beyond the standard crime-based reporting to the systems described in para-
+graph (1);
+(4) an analysis of potential uses by the Department of Justice and any compo-
+nent agencies of the Department of Justice of the data described in paragraph
+(1);
+(5) an analysis of the existence and extent of, and reasons for, disparities in
+the availability and reporting of data between—
+(A) data relating to aggressive actions or other trauma-inducing incidents
+against law enforcement officers that do not rise to the level of crimes; and
+(B) other types of violent crime data; and
+(6) an analysis of additional legislative tools or authorities that may be help-
+ful or necessary to assist in deterring aggressive actions, conduct, or other trau-
+ma-inducing incidents against law enforcement officers.
+(b) DEVELOPMENT.—In developing the report under subsection (a), the Attorney
+General, the Director of the Federal Bureau of Investigation, and the Director of the
+National Institute of Justice shall consult relevant stakeholders, including—
+(1) Federal, State, Tribal, and local law enforcement agencies; and
+(2) nongovernmental organizations, international organizations, academies, or
+other entities.
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6621 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+4
+SEC. 5. MENTAL HEALTH AND WELLNESS REPORTING REQUIREMENT.
+(a) INGENERAL.—Not later than 270 days after the date of enactment of this Act,
+the Attorney General, in consultation with the Director of the Federal Bureau of In-
+vestigation and the Director of the National Institute of Justice, shall submit to the
+Committee on the Judiciary of the Senate and the Committee on the Judiciary of
+the House of Representatives a report on—
+(1) the types, frequency, and severity of mental health and stress-related re-
+sponses of law enforcement officers to aggressive actions or other trauma-induc-
+ing incidents against law enforcement officers;
+(2) mental health and stress-related resources or programs that are available
+to law enforcement officers at the Federal, State, and local levels, especially
+peer-to-peer programs;
+(3) the extent to which law enforcement officers use the resources or programs
+described in paragraph (2);
+(4) the availability of, or need for, mental health screening within Federal,
+State, and local law enforcement agencies; and
+(5) additional legislative tools or authorities that may be helpful or necessary
+to assist in assessing, monitoring, and improving the mental health and
+wellness of Federal, State, and local law enforcement officers.
+(b) DEVELOPMENT.—In developing the report required under subsection (a), the
+Attorney General, the Director of the Federal Bureau of Investigation, and the Di-
+rector of the National Institute of Justice shall consult relevant stakeholders, includ-
+ing—
+(1) Federal, State, Tribal and local law enforcement agencies; and
+(2) nongovernmental organizations, international organizations, academies, or
+other entities.
+Purpose and Summary
+H.R. 2240, the Improving Law Enforcement Officer Safety and
+Wellness Through Data Act, introduced by Rep. Tim Moore (R–
+NC), would fill gaps in the reporting of attacks targeting law en-
+forcement officers. The bill requires the Attorney General to de-
+velop a series of reports related to violent attacks on law enforce-
+ment officers, the efficacy of current data collection related to vio-
+lent attacks on law enforcement officers, and the efficacy of pro-
+grams intended to provide protective equipment and wellness re-
+sources to law enforcement officers.
+Background and Need for the Legislation
+Democrat-run Cities Defunded Their Police
+Due to the radical left’s ‘‘defund the police’’ movement, Democrat-
+run cities across the United States reduced funding for police de-
+partments, which left their cities without an adequate law enforce-
+ment presence to address a surge in violent crime.1 In 2020, Los
+Angeles reduced its police department’s budget by $150 million.2 At
+the same time, New York City also made cuts amounting to $1 bil-
+lion from the New York Police Department (NYPD).3 Chicago’s
+then-Mayor Lori Lightfoot approved a decrease of approximately
+$80 million for the Chicago Police Department (CPD) budget for
+
+Section 4:
+2021.4 In 2021, Washington, D.C. slashed the Metropolitan Police
+Department (MPD) budget by roughly $15 million.5 The subse-
+quent years unsurprisingly saw a significant uptick in violent
+1Rep. Clay Higgins, Democrats’ push to defund police caused crime to spike, WASH. EXAMINER
+(Jun. 22, 2022).
+2Audrey Conklin, LA ‘Defund’ Police Budget Cuts Force Department to Dissolve Sexual Assault
+Unit that Investigated Weinstein, FOXNEWS(Nov. 12, 2020).
+3Scottie Andrew and Kristina Sgueglia, New York Police Department’s budget has been
+slashed by $1 billion, CNN(July 1, 2020).
+4After caving to the defund movement in 2020, Chicago Mayor Lightfoot proposes more police
+funding as crime continues to spiral, THENATIONALPOLICESUPPORTFUND(Oct. 21, 2021).
+5Eric Flack, Verify: Did DC ‘Defund the Police?’, WASH. POST(Apr. 20, 2021).
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+5
+crime in these cities, which can be attributed to these decisions to
+defund law enforcement.6
+According to the Major City Chiefs Association (MCCA), violent
+crime increased in 2021 compared to 2020.7 After the FBI updated
+its data in 2022, there were 80,029 more violent crimes recorded
+in 2022 than in 2021.8 Out of the 70 cities included in MCCA’s
+data, 69 cities saw increases in at least one category of violent
+crimes in 2022, which include homicide, rape, robbery, and aggra-
+vated assault.9 After homicide rates reached a peak in 2021, it re-
+mained 24 percent higher in 30 cities in the first half of 2023 than
+it was before the COVID–19 pandemic.10 Likewise, when com-
+paring aggravated assault cases from 2019 to those in 2023, the
+number is nearly 10 percent higher, with over 23,000 more assaults
+recorded within the same period.11
+Although crime rates are generally lower in 2024 when compared
+to pre-pandemic levels, some violent crimes have actually increased
+when compared to 2019.12 For example, aggravated assaults have
+increased four percent, assaults with firearms have increased by
+five percent, and carjackings have increased by 25 percent.13
+After this spike in crime, some Democrats refused to acknowl-
+edge their own policy failures and instead blamed firearms, eco-
+nomic downturns, and perceived deficiencies in federal law enforce-
+ment support.14 For example, former Chicago Mayor Lori Lightfoot
+reached out to then-Attorney General Merrick Garland, advocating
+for an increase in Bureau of Alcohol, Tobacco, Firearms & Explo-
+sives (ATF) agents in Chicago to address illegal firearms, remark-
+ing, ‘‘we cannot continue to endure the level of violence that we are
+now experiencing.’’15
+However, other Democrats realized the effects of their cata-
+strophic defunding decisions and reversed course. For example,
+then-San Francisco Mayor London Breed initially diverted $120
+million from the police budget towards social initiatives, only to re-
+calibrate her approach in light of rising crime and commit to
+strengthen the police force and counter the criminal elements in
+the city.16 Within three years, almost all large Democrat-led cities
+reversed course on their decision to defund law enforcement and
+augmented their police department budgets, with many Democrats
+abandoning the ‘‘defund the police’’ narrative altogether.17 In 2023
+6Higgins, supra note 1.
+7Major Cities Chiefs Association, Violent Crime Survey—Agency Totals (2020–2021), https://
+majorcitieschiefs.com/wp-content/uploads/2021/11/MCCA-Violent-Crime-Report-2021-and-2020-
+Jan1toSept30.pdf.
+8John R. Lott Jr., Stealth Edit: FBI Quietly Revises Violent Crime Stats, https://
+www.congress.gov/118/meeting/house/117762/documents/HHRG-118-JU08-20241217-SD002-
+U2.pdf/ (Oct. 16, 2024).
+9Supra note 8.
+10Council on Criminal Justice, Trends in Homicide: What You Need to Know (Dec. 2023)
+https://counciloncj.org/homicide-trends-report/.
+11Major Cities Chiefs Association, Violent Crime Survey—National Totals (2022–2023),
+https://majorcitieschiefs.com/wp-content/uploads/2024/02/MCCA-Violent-Crime-Report-2023-and-
+2022-Year-End.pdf (last visited Mar. 31, 2025).
+12Press Release, Council on Criminal Justice, Homicide, Most Other Violent Crimes Fall
+Below Pre-Pandemic Levels in U.S. Cities, https://counciloncj.org/homicide-most-other-violent-
+crimes-fall-below-pre-pandemic-levels-in-u-s-cities/ (Jan. 23, 2025).
+13Id.
+14Alec Schemmel, Mayor who pushed to defund police by $80M pleads with feds to help with
+rampant crime, FOX17 NASHVILLE(Dec. 22, 2021).
+15Id.
+16Id.
+17Id.
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+6
+after Washington D.C. experienced its deadliest year in more than
+20 years,18 Mayor Muriel Bowser proposed legislation to soften the
+anti-police reforms.19 The legislation also sought to target orga-
+nized retail crime as well as the issue of open-air drug markets in
+the District.20 Bowser admitted the original police reform legisla-
+tion did not ‘‘match the daily practice of safe and effective polic-
+ing.’’21
+Rogue Prosecutors Refusing to Enforce the Law
+Another significant reason for the increase in crime over the past
+several years is the prevalence of far-left rogue prosecutors who
+prioritize social justice initiatives over public safety. Dozens of
+these rogue prosecutors owe their election victories, in large part,
+to far-left political action committees.22 These rogue prosecutors
+made social justice initiatives more important than public safety.
+Their goal is to fundamentally change the criminal justice system
+by replacing both Republican and Democrat law-and-order prosecu-
+tors with pro-criminal, anti-victim extremists who ignore the law,
+abuse their offices, and allow crime to rise in their jurisdictions.23
+These prosecutors generally fail to charge criminals, or permit
+criminals to be charged on low-level crimes, allowing them to re-
+turn to communities to reoffend.
+Police Recruitment Crisis
+Police departments across the country are experiencing signifi-
+cant recruitment challenges, as officers have been leaving the force
+in droves. As of January 2025, the Los Angeles Police Department
+(LAPD) is projected to mark the lowest staffing levels in 30 years.
+LAPD leaders expect to lose more than 150 officers, leaving a force
+of about 8,620 by June 30, 2026.24 In 2023, the San Francisco Po-
+lice Department had over 600 fewer officers compared to 2020, a
+decrease of approximately thirty percent of the department.25 In
+2023, the Metropolitan Police Department (MPD) in Washington,
+D.C. had the lowest number of officers it has had in the past fifty
+years.26 In January 2025, the DC Police Union chair said that the
+MPD is operating at dangerously low staffing levels.27 As of Sep-
+tember 2024, Chicago had 1,662 fewer officers than it did in 2018,
+a decline of nearly 13 percent.28
+In an effort to hire more law enforcement officers, police depart-
+ments have ‘‘expanded the geographic area from which they draw
+recruits, offered hiring bonuses and multiyear contracts, beefed up
+18Emily Davies, John D. Harden and Peter Hermann, 2023 was District’s deadliest year in
+more than two decades, WASH. POST(Jan. 1, 2024).
+19Melissa Koenig, DC mayor proposes rolling back progressive police reforms amid spike in
+violent crimes, N.Y. POST(Oct. 24, 2023).
+20Id.
+21Id.
+22Zack Smith and Charles Stimson, Meet Chesa Boudin, the Rogue Prosecutor Wreaking
+Havoc in San Francisco, THEHERITAGEFOUNDATION(Aug. 11, 2021).
+23Id.
+24Libor Jany, LAPD projected to lose 150 officers by mid-2026, which would mark lowest staff-
+ing in 30 years, Los Angeles Times, (Jan. 27, 2025).
+25Robert Klemko, Police agencies are desperate to hire. But they say few want the job., WASH.
+POST(May 27, 2023).
+26Id.
+27Phylicia Ashley, DC police union claims MPD needs more officers, auditor says no data sup-
+ports that, ABC NEWS 7 (Jan. 15, 2025).
+28Ben Bradley, Andrew Schroedter, Calls Go Unanswered Amid Continued Decline in Chicago
+Police Ranks, WGN9. (Oct. 29, 2024).
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+7
+recruiting efforts, decreased onboarding obstacles and adjusted ad-
+mission requirements.’’29 For example, the MPD is offering a
+$25,000 hiring bonus for new MPD recruits.30 On March 2, 2024,
+the City of Dunwoody, Georgia, announced it is increasing its hir-
+ing bonuses for new recruits to $15,000.31 Alameda County, Cali-
+fornia, just outside San Francisco, is offering a $75,000 recruitment
+bonus that will be paid out installments over several years.32 The
+City of Fremont, California, introduced a $100,000 signing bonus
+for up to 10 lateral police officer hires. This initiative significantly
+expands upon the city’s previous $20,000 signing bonus for lateral
+officers.33
+Escalating Attacks on Law Enforcement Officers
+The effects of far-left efforts to defund the police, elect rogue
+prosecutors, and enact radical criminal justice policies can all be
+seen through the continuous attacks on police officers. In 2022, 328
+officers were shot in the line of duty,34 there were 88 ambush-style
+attacks against police officers, and 31 of those officers lost their
+lives.35 When those statistics were released, Patrick Yoes, national
+president of the Fraternal Order of Police (FOP), described 2022
+‘‘one of the most dangerous years for law enforcement in recent his-
+tory due to the increase of violence directed towards law enforce-
+ment officers . . . .’’36 In 2023, 378 officers were shot in the line
+of duty, with 115 ambush-style attacks,37 and 20 officers lost their
+lives because of these attacks.38 FOP President Yoes reported:
+Last year, over 330 police officers were shot in the line
+of duty. With the COVID–19 pandemic behind us and after
+so many Americans have seen the tragic consequences of
+the defund the police movement, it was our hope that
+these numbers would be a high-water mark. We were
+wrong. Instead, 378 officers were shot in the line of duty
+in 2023, the highest number the FOP has ever recorded.39
+In 2024, the number of officers killed in the line of duty again
+increased from the previous year. According to National Law En-
+forcement Officers Memorial Fund (NLEOMF), 147 law enforce-
+ment officers died in the line of duty in 2024 compared to 118 offi-
+cers who died in the line of duty in 2023, representing a 25% in-
+29Glenn Minnis, With 1,500 Vacancies, Chicago Police Ramp Up Recruiting Efforts, THECEN-
+TERSQUARE(Mar. 28, 2023).
+30Press Release, Government of the District of Columbia, Mayor Bowser Announces Increase
+in Hiring Bonuses for New MPD Recruits, https://mayor.dc.gov/release/mayor-bowser-announces-
+increase-hiring-bonuses-new-mpd-recruits (last visited Mar. 13, 2025).
+31WSB Staff, Dunwoody increases hiring bonuses for new police recruits to $15,000, WSB AT-
+LANTA(Mar. 2, 2024).
+32CBS Staff, Police departments offering bonuses, incentives to new recruits and experienced
+officers to fill Bay Area openings, CBS NEWS(Sep. 26, 2023).
+33Police1 Staff, Calif. city announces $100,000 hiring bonus for lateral police officers, POLICE1
+(Dec. 20, 2024).
+34Press Release, National Fraternal Order of Police, Updated 29 December: One of the Most
+Dangerous Years for Law Enforcement, https://fop.net/2022/12/updated-29-december-one-of-the-
+most-dangerous-years-for-law-enforcement/ (last visited Mar. 13, 2025).
+35Id.
+36Id.
+37Press Release, National Fraternal Order of Police, 378 Officers Shot in the Line of Duty
+in 2023, https://fop.net/2024/01/378-officers-shot-in-the-line-of-duty-in-2023/ (last visited Mar. 13,
+2025).
+38Id.
+39Id.
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+8
+crease.40 In 2024, 342 officers were shot in the line of duty, with
+50 officers succumbing to their injuries.41
+Improving Law Enforcement Officer Safety and Wellness Through
+Data Act
+Currently, basic information on law enforcement attacks is col-
+lected by the FBI’s Law Enforcement Officers Killed and Assaulted
+(LEOKA) program.42 While the program collects information such
+as the circumstance of the assault and the weapon used,43 it does
+not contain information or recommendations to help prevent fur-
+ther attacks on law enforcement officers. The Improving Law En-
+forcement Officer Safety and Wellness Through Data Act would
+help to prevent attacks by increasing the categories of information
+that can be voluntarily reported, including the intention and co-
+ordination of criminals. It would also direct the Justice Department
+to examine adding additional categories to the Uniform Crime Re-
+porting System such as aggressive actions, conduct, or other trau-
+ma-inducing incidents against law enforcement officers. The bill
+will also provide further transparency on the mental health im-
+pacts of attacks on law enforcement officers and examine the avail-
+ability and extent of mental health resources for police officers.
+Hearings
+For the purposes of clause 3(c)(6)(A) of House rule XIII, the fol-
+lowing hearings were used to develop H.R. 2240: ‘‘The Right to Self
+Defense’’ a hearing held on March 4, 2025, before Subcommittee on
+Crime and Federal Government Surveillance of the Committee on
+the Judiciary. The Subcommittee heard testimony from the fol-
+lowing witnesses:
+• Doug Ritter, Founder and Chair of Knife Rights, Inc. and
+Knife Rights Foundation;
+• Diana Muller, Founder of Women for Gun Rights;
+• Dave McDermott, Founding Partner of McDermott Law
+Group and USCCA Network Attorney; and
+• Gregory Jackson, Jr., Former Deputy Director, White
+House Office of Gun Violence Prevention.
+The hearing examined the individual’s right to self-defense, pro-
+tected by the Second Amendment, and examined the efficacy of gun
+control policies and the related effect on public safety. The sub-
+committee received testimony from Ms. Muller, a retired law en-
+forcement officer, about the stressful situations law enforcement of-
+ficers encounter that have a negative effect on their mental health.
+40Press Release, National Law Enforcement Officers Memorial Fund, 2024 Law Enforcement
+Fatalities Report Reveals Law Enforcement Deaths Increased, https://nleomf.org/2024-law-
+enforcement-fatalities-report-reveals-law-enforcement-deaths-increased/ (last visited Mar. 13,
+2025).
+41Press Release, National Fraternal Order of Police, FOP Monthly Update: Officers Shot and
+Killed, https://fop.net/2025/01/fop-monthly-update-shot-and-killed-11/ (last visited Mar. 21, 2025).
+42Federal Bureau of Investigation, Law Enforcement Officers Assaulted in 2021 (last visited
+Mar. 13, 2025), https://leb.fbi.gov/bulletin-highlights/additional-highlights/crime-data-law-
+enforcement-officers-assaulted-in-2021.
+43Id.
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+9
+Committee Consideration
+On March 25, 2025, the Committee met in open session and or-
+dered the bill, H.R. 2240, favorably reported with an amendment
+in the nature of a substitute by voice vote, a quorum being present.
+Committee Votes
+In compliance with clause 3(b) of House rule XIII, the Committee
+states that no roll call votes occurred during the Committee’s con-
+sideration of H.R. 2240.
+Committee Oversight Findings
+In compliance with clause 3(c)(1) of House rule XIII, the Com-
+mittee advises that the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+New Budget Authority and Tax Expenditures
+Clause 3(c)(2) of rule XIII of the Rules of the House of Represent-
+atives does not apply where a cost estimate and comparison pre-
+pared by the Director of the Congressional Budget Office under sec-
+tion 402 of the Congressional Budget Act of 1974 has been timely
+submitted prior to filing of the report and is included in the report.
+Such a cost estimate is included in this report.
+Congressional Budget Office Cost Estimate
+With respect to the requirement of clause 3(c)(3) of rule XIII of
+the Rules of the House of Representatives and section 402 of the
+Congressional Budget Act of 1974, the Committee has received the
+enclosed cost estimate for H.R. 2240 from the Director of the Con-
+gressional Budget Office:
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+Section 5:
+100.97RH
+ereh
+31
+oilof
+tesffo
+tresnI
+10
+H.R. 2240 would require the Department of Justice (DOJ) to re-
+port to the Congress about violent attacks on law enforcement offi-
+cers, including the responses of federal, state, and local govern-
+ments to such attacks and how to improve the reporting of those
+attacks. The bill also would require DOJ to report to the Congress
+on how traumatic incidents affect the mental health and wellness
+of officers.
+Based on the costs of similar reports, CBO estimates that imple-
+menting H.R. 2240 would cost $3 million over the 2025–2030 pe-
+riod. Any related spending would be subject to the availability of
+appropriated funds.
+The CBO staff contact for this estimate is Jeremy Crimm. The
+estimate was reviewed by H. Samuel Papenfuss, Deputy Director
+of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+Committee Estimate of Budgetary Effects
+With respect to the requirements of clause 3(d)(1) of rule XIII of
+the Rules of the House of Representatives, the Committee adopts
+as its own the cost estimate prepared by the Director of the Con-
+gressional Budget Office pursuant to section 402 of the Congres-
+sional Budget Act of 1974.
+Duplication of Federal Programs
+Pursuant to clause 3(c)(5) of House rule XIII, no provision of H.R.
+2240 establishes or reauthorizes a program of the federal govern-
+ment known to be duplicative of another federal program.
+Performance Goals and Objectives
+The Committee states that pursuant to clause 3(c)(4) of House
+rule XIII, H.R. 2240 would fill gaps in the reporting of attacks tar-
+geting law enforcement officers by requiring reporting of violent at-
+tacks on law enforcement officers, the efficacy of current data col-
+lection, and the efficacy of programs intended to provide protective
+equipment and wellness resources.
+Advisory on Earmarks
+In accordance with clause 9 of House rule XXI, H.R. 2240 does
+not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits as defined in clauses 9(d), 9(e), or 9(f) of
+House Rule XXI.
+Federal Mandates Statement
+The Committee adopts as its own the estimate of federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+Advisory Committee Statement
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+11
+Applicability to Legislative Branch
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act (Pub. L. 104–1).
+
+Section 6:
+Section-by-Section Analysis
+Sec. 1. Short Title. The ‘‘Improving Law Enforcement Officer
+Safety and Wellness Through Data Act’’.
+Sec. 2. Findings. Details the continued trend of law enforcement
+attacks and reasserts Congress’s commitment to helping protect
+lives of police officers.
+Sec. 3. Attacks on Law Enforcement Officers Reporting Require-
+ment. Requires the Attorney General to submit a report to Con-
+gress that includes: (1) the number of attacks intentionally tar-
+geting police officers; (2) whether attacks occurred through the ac-
+tions of two or more parties; (3) a description of the federal re-
+sponse on attacks against federal law enforcement officers; (4) a
+survey detailing state and local responses to attacks; (5) rec-
+ommendations for improving responses to attacks; (6) A survey of
+training programs officers receive in preparation for attacks; (7) an
+analysis of the above programs; (8) recommendations on improving
+the above programs; (9) an analysis of the efficacy of distributing
+protective gear and any limitations that exist; (10) an analysis of
+DOJ’s ability to expand data collection to the suspect offender’s
+level of injury; (12) an analysis of any existence of disparities in re-
+porting; and (13) an analysis of any additional legislative tools or
+authorities helpful to deter ambush attacks. It also requires the At-
+torney General and others to consult with relevant stakeholders,
+including law enforcement agencies, nongovernment organizations,
+and others.
+Sec. 4. Aggression Against Law Enforcement Officers Reporting
+Requirement. Requires the Attorney General to submit to Congress
+a report analyzing the ability to implement a new category of re-
+porting in the Uniform Crime Reporting System and the National
+Incident-Based Reporting System, how to engage state and local
+law enforcement agencies in reporting the data, any disparities,
+and additional legislative tools or authorities helpful in deterring
+aggressive actions.
+Sec. 5 Mental Health and Wellness Reporting Requirement. Re-
+quires the Attorney General to report to Congress on the type of
+mental health and stress-responses of law enforcement officers to
+aggressive attacks, the programs available, the use of those pro-
+grams, and any additional tools needed to improve mental health
+and wellness.
+Æ
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6611 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–79
+IMPROVING LAW ENFORCEMENT OFFICER SAFETY AND
+WELLNESS THROUGH DATA ACT
+APRIL28, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. JORDAN, from the Committee on the Judiciary,
+submitted the following
+R E P O R T
+[To accompany H.R. 2240]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on the Judiciary, to whom was referred the bill
+(H.R. 2240) to require the Attorney General to develop reports re-
+lating to violent attacks against law enforcement officers, and for
+other purposes, having considered the same, reports favorably
+thereon with an amendment and recommends that the bill as
+amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 4
+Background and Need for the Legislation ............................................................. 4
+Committee Consideration ........................................................................................ 9
+Committee Votes ...................................................................................................... 9
+Committee Oversight Findings ............................................................................... 9
+New Budget Authority and Tax Expenditures ...................................................... 9
+Congressional Budget Office Cost Estimate .......................................................... 9
+Committee Estimate of Budgetary Effects ............................................................ 10
+Duplication of Federal Programs ............................................................................ 10
+Performance Goals and Objectives ......................................................................... 10
+Advisory on Earmarks ............................................................................................. 10
+Federal Mandates Statement ................................................................................. 10
+Advisory Committee Statement .............................................................................. 10
+Applicability to Legislative Branch ........................................................................ 11
+Section-by-Section Analysis .................................................................................... 11
+The amendment is as follows:
+Strike all that follows after the enacting clause and insert the
+following:
+59–006
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+2
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Improving Law Enforcement Officer Safety and
+Wellness Through Data Act’’.
+SEC. 2. FINDINGS.
+Congress finds the following:
+(1) There has been a rise in anti-police rhetoric and a corresponding rise in
+violence against law enforcement officers.
+(2) In 2022, a total of 60 police officers were feloniously killed in the line of
+duty.
+(3) Nearly 30 percent of police officer killings in 2022 were caused by
+unprovoked attacks or ambushes on officers.
+(4) Law enforcement officers bravely put themselves at risk for the better-
+ment of society.
+(5) A data collection that represents the full circumstances surrounding vio-
+lent attacks and ambush attacks on law enforcement officers is vital for the pro-
+vision of needed Federal resources to Federal, State, and local law enforcement
+officers.
+(6) Police suffer assaults and other offenses that do not rise to the level of
+Law Enforcement Officers Killed and Assaulted or National Incident-Based Re-
+porting System reporting due to the frequency of such incidents, lower risk to
+officers, and minimal administrative resources to report such frequent events.
+(7) The mental health of law enforcement officers has suffered due to over-
+work, recruitment issues, and the general stress of their work.
+(8) The people of the United States will always remember the victims of these
+hateful attacks against law enforcement officers and stand in solidarity with in-
+dividuals affected by these senseless tragedies and incidents of hate that have
+affected law enforcement communities and their families.
+(9) The United States must demonstrate to its brave law enforcement officers
+that they are important, valued, and respected.
+(10) Congress has made a commitment to helping communities protect the
+lives of their police officers, as evidenced by the Bulletproof Vest Partnership
+Grant Program Reauthorization Act of 2015 (Public Law 114–155; 130 Stat.
+389) and other laws.
+(11) Subsection (c) of the Uniform Federal Crime Reporting Act of 1988 (34
+U.S.C. 41303(c)) requires the Attorney General to ‘‘acquire, collect, classify, and
+preserve national data on Federal criminal offenses as part of the Uniform
+Crime Reports’’ and requires all Federal departments and agencies that inves-
+tigate criminal activity to ‘‘report details about crime within their respective ju-
+risdiction to the Attorney General in a uniform matter and on a form prescribed
+by the Attorney General’’.
+SEC. 3. ATTACKS ON LAW ENFORCEMENT OFFICERS REPORTING REQUIREMENT.
+(a) INGENERAL.—Not later than 270 days after the date of enactment of this Act,
+the Attorney General, in consultation with the Director of the Federal Bureau of In-
+vestigation, the Director of the National Institute of Justice, and the Director of the
+Criminal Justice Information Services Division of the Federal Bureau of Investiga-
+tion, shall submit to the Committee on the Judiciary of the Senate and the Com-
+mittee on the Judiciary of the House of Representatives a report that includes—
+(1) the number of offenders that intentionally target law enforcement officers
+because of their status as law enforcement officers;
+(2) the number of incidents reported to the Law Enforcement Officers Killed
+and Assaulted Data Collection that occur through the coordinated actions of 2
+or more parties;
+(3) a description of the Federal response to ambushes and violent attacks on
+Federal law enforcement officers;
+(4) a detailed survey of what State and local responses are to ambushes and
+violent attacks on State and local law enforcement officers;
+(5) recommendations for improving State, local, and Federal responses to am-
+bushes and violent attacks on law enforcement officers;
+(6) a detailed survey of Federal and State-based training programs that law
+enforcement officers receive in preparation for violent attacks, including am-
+bush attacks;
+(7) an analysis of the effectiveness of the programs described in paragraph (6)
+in preparing law enforcement officers for violent attacks, including ambush at-
+tacks;
+(8) recommendations on how to improve State, local, and Federal training pro-
+grams for law enforcement officers relating to ambush attacks;
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+3
+(9) an analysis of, with respect to the Patrick Leahy Bulletproof Vest Partner-
+ship under part Y of title I of the Omnibus Crime Control and Safe Streets Act
+of 1968 (34 U.S.C. 10530 et seq.)—
+(A) the efficacy of the Partnership in distributing protective gear to law
+enforcement officers across the United States, including any location-spe-
+cific limitations to the distribution under such Partnership; and
+(B) the general limitations of the Partnership, including any location-spe-
+cific limitations to the distributions under the Partnership, considering the
+fact that law enforcement officers are suffering from ambush attacks;
+(10) an analysis of the ability of the Department of Justice to combine the
+Law Enforcement Officers Killed and Assaulted Data Collection and a 09C Jus-
+tifiable Homicide report for officer-involved shooting reports and any roadblocks
+to producing a clear report with such information;
+(11) an analysis of the ability of the Criminal Justice Information Services of
+the Federal Bureau of Investigation to expand data collection to include a sus-
+pect offender’s level of injury at the time of a reported Law Enforcement Offi-
+cers Killed and Assaulted Data Collection incident;
+(12) an analysis of the existence and extent of, and reasons for, disparities
+in the availability and reporting of data between—
+(A) data relating to ambush attacks against law enforcement officers; and
+(B) other types of violent crime data; and
+(13) an analysis of any additional legislative tools or authorities that may be
+helpful or necessary to assist in deterring ambush attacks against law enforce-
+ment officers.
+(b) DEVELOPMENT.—In developing the report required under subsection (a), the
+Attorney General, the Director of the Federal Bureau of Investigation, the Director
+of the National Institute of Justice, and the Director of the Criminal Justice Infor-
+mation Services Division of the Federal Bureau of Investigation, shall consult rel-
+evant stakeholders, including—
+(1) Federal, State, Tribal, and local law enforcement agencies; and
+(2) nongovernmental organizations, international organizations, academies, or
+other entities.
+SEC. 4. AGGRESSION AGAINST LAW ENFORCEMENT OFFICERS REPORTING REQUIREMENT.
+(a) INGENERAL.—Not later than 270 days after the date of enactment of this Act,
+the Attorney General, in consultation with the Director of the Federal Bureau of In-
+vestigation and the Director of the National Institute of Justice, shall submit to the
+Committee on the Judiciary of the Senate and the Committee on the Judiciary of
+the House of Representatives a report on—
+(1) an analysis of the ability to implement a new category in the Uniform
+Crime Reporting System and the National Incident-Based Reporting System on
+aggressive actions, conduct, or other trauma-inducing incidents against law en-
+forcement officers that, as of the date of enactment of this Act, are not reported
+in such systems;
+(2) the level of detail the category described in paragraph (1) would include
+and the standard of evidence that would be used for any reported incidents;
+(3) an analysis of how to engage State and local law enforcement agencies in
+reporting the data described in paragraph (1), despite the fact that such data
+is beyond the standard crime-based reporting to the systems described in para-
+graph (1);
+(4) an analysis of potential uses by the Department of Justice and any compo-
+nent agencies of the Department of Justice of the data described in paragraph
+(1);
+(5) an analysis of the existence and extent of, and reasons for, disparities in
+the availability and reporting of data between—
+(A) data relating to aggressive actions or other trauma-inducing incidents
+against law enforcement officers that do not rise to the level of crimes; and
+(B) other types of violent crime data; and
+(6) an analysis of additional legislative tools or authorities that may be help-
+ful or necessary to assist in deterring aggressive actions, conduct, or other trau-
+ma-inducing incidents against law enforcement officers.
+(b) DEVELOPMENT.—In developing the report under subsection (a), the Attorney
+General, the Director of the Federal Bureau of Investigation, and the Director of the
+National Institute of Justice shall consult relevant stakeholders, including—
+(1) Federal, State, Tribal, and local law enforcement agencies; and
+(2) nongovernmental organizations, international organizations, academies, or
+other entities.
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6621 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+4
+SEC. 5. MENTAL HEALTH AND WELLNESS REPORTING REQUIREMENT.
+(a) INGENERAL.—Not later than 270 days after the date of enactment of this Act,
+the Attorney General, in consultation with the Director of the Federal Bureau of In-
+vestigation and the Director of the National Institute of Justice, shall submit to the
+Committee on the Judiciary of the Senate and the Committee on the Judiciary of
+the House of Representatives a report on—
+(1) the types, frequency, and severity of mental health and stress-related re-
+sponses of law enforcement officers to aggressive actions or other trauma-induc-
+ing incidents against law enforcement officers;
+(2) mental health and stress-related resources or programs that are available
+to law enforcement officers at the Federal, State, and local levels, especially
+peer-to-peer programs;
+(3) the extent to which law enforcement officers use the resources or programs
+described in paragraph (2);
+(4) the availability of, or need for, mental health screening within Federal,
+State, and local law enforcement agencies; and
+(5) additional legislative tools or authorities that may be helpful or necessary
+to assist in assessing, monitoring, and improving the mental health and
+wellness of Federal, State, and local law enforcement officers.
+(b) DEVELOPMENT.—In developing the report required under subsection (a), the
+Attorney General, the Director of the Federal Bureau of Investigation, and the Di-
+rector of the National Institute of Justice shall consult relevant stakeholders, includ-
+ing—
+(1) Federal, State, Tribal and local law enforcement agencies; and
+(2) nongovernmental organizations, international organizations, academies, or
+other entities.
+Purpose and Summary
+H.R. 2240, the Improving Law Enforcement Officer Safety and
+Wellness Through Data Act, introduced by Rep. Tim Moore (R–
+NC), would fill gaps in the reporting of attacks targeting law en-
+forcement officers. The bill requires the Attorney General to de-
+velop a series of reports related to violent attacks on law enforce-
+ment officers, the efficacy of current data collection related to vio-
+lent attacks on law enforcement officers, and the efficacy of pro-
+grams intended to provide protective equipment and wellness re-
+sources to law enforcement officers.
+Background and Need for the Legislation
+Democrat-run Cities Defunded Their Police
+Due to the radical left’s ‘‘defund the police’’ movement, Democrat-
+run cities across the United States reduced funding for police de-
+partments, which left their cities without an adequate law enforce-
+ment presence to address a surge in violent crime.1 In 2020, Los
+Angeles reduced its police department’s budget by $150 million.2 At
+the same time, New York City also made cuts amounting to $1 bil-
+lion from the New York Police Department (NYPD).3 Chicago’s
+then-Mayor Lori Lightfoot approved a decrease of approximately
+$80 million for the Chicago Police Department (CPD) budget for
+2021.4 In 2021, Washington, D.C. slashed the Metropolitan Police
+Department (MPD) budget by roughly $15 million.5 The subse-
+quent years unsurprisingly saw a significant uptick in violent
+1Rep. Clay Higgins, Democrats’ push to defund police caused crime to spike, WASH. EXAMINER
+(Jun. 22, 2022).
+2Audrey Conklin, LA ‘Defund’ Police Budget Cuts Force Department to Dissolve Sexual Assault
+Unit that Investigated Weinstein, FOXNEWS(Nov. 12, 2020).
+3Scottie Andrew and Kristina Sgueglia, New York Police Department’s budget has been
+slashed by $1 billion, CNN(July 1, 2020).
+4After caving to the defund movement in 2020, Chicago Mayor Lightfoot proposes more police
+funding as crime continues to spiral, THENATIONALPOLICESUPPORTFUND(Oct. 21, 2021).
+5Eric Flack, Verify: Did DC ‘Defund the Police?’, WASH. POST(Apr. 20, 2021).
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+5
+crime in these cities, which can be attributed to these decisions to
+defund law enforcement.6
+According to the Major City Chiefs Association (MCCA), violent
+crime increased in 2021 compared to 2020.7 After the FBI updated
+its data in 2022, there were 80,029 more violent crimes recorded
+in 2022 than in 2021.8 Out of the 70 cities included in MCCA’s
+data, 69 cities saw increases in at least one category of violent
+crimes in 2022, which include homicide, rape, robbery, and aggra-
+vated assault.9 After homicide rates reached a peak in 2021, it re-
+mained 24 percent higher in 30 cities in the first half of 2023 than
+it was before the COVID–19 pandemic.10 Likewise, when com-
+paring aggravated assault cases from 2019 to those in 2023, the
+number is nearly 10 percent higher, with over 23,000 more assaults
+recorded within the same period.11
+Although crime rates are generally lower in 2024 when compared
+to pre-pandemic levels, some violent crimes have actually increased
+when compared to 2019.12 For example, aggravated assaults have
+increased four percent, assaults with firearms have increased by
+five percent, and carjackings have increased by 25 percent.13
+After this spike in crime, some Democrats refused to acknowl-
+edge their own policy failures and instead blamed firearms, eco-
+nomic downturns, and perceived deficiencies in federal law enforce-
+ment support.14 For example, former Chicago Mayor Lori Lightfoot
+reached out to then-Attorney General Merrick Garland, advocating
+for an increase in Bureau of Alcohol, Tobacco, Firearms & Explo-
+sives (ATF) agents in Chicago to address illegal firearms, remark-
+ing, ‘‘we cannot continue to endure the level of violence that we are
+now experiencing.’’15
+However, other Democrats realized the effects of their cata-
+strophic defunding decisions and reversed course. For example,
+then-San Francisco Mayor London Breed initially diverted $120
+million from the police budget towards social initiatives, only to re-
+calibrate her approach in light of rising crime and commit to
+strengthen the police force and counter the criminal elements in
+the city.16 Within three years, almost all large Democrat-led cities
+reversed course on their decision to defund law enforcement and
+augmented their police department budgets, with many Democrats
+abandoning the ‘‘defund the police’’ narrative altogether.17 In 2023
+6Higgins, supra note 1.
+7Major Cities Chiefs Association, Violent Crime Survey—Agency Totals (2020–2021), https://
+majorcitieschiefs.com/wp-content/uploads/2021/11/MCCA-Violent-Crime-Report-2021-and-2020-
+Jan1toSept30.pdf.
+8John R. Lott Jr., Stealth Edit: FBI Quietly Revises Violent Crime Stats, https://
+www.congress.gov/118/meeting/house/117762/documents/HHRG-118-JU08-20241217-SD002-
+U2.pdf/ (Oct. 16, 2024).
+9Supra note 8.
+10Council on Criminal Justice, Trends in Homicide: What You Need to Know (Dec. 2023)
+https://counciloncj.org/homicide-trends-report/.
+11Major Cities Chiefs Association, Violent Crime Survey—National Totals (2022–2023),
+https://majorcitieschiefs.com/wp-content/uploads/2024/02/MCCA-Violent-Crime-Report-2023-and-
+2022-Year-End.pdf (last visited Mar. 31, 2025).
+12Press Release, Council on Criminal Justice, Homicide, Most Other Violent Crimes Fall
+Below Pre-Pandemic Levels in U.S. Cities, https://counciloncj.org/homicide-most-other-violent-
+crimes-fall-below-pre-pandemic-levels-in-u-s-cities/ (Jan. 23, 2025).
+13Id.
+14Alec Schemmel, Mayor who pushed to defund police by $80M pleads with feds to help with
+rampant crime, FOX17 NASHVILLE(Dec. 22, 2021).
+15Id.
+16Id.
+17Id.
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+6
+after Washington D.C. experienced its deadliest year in more than
+20 years,18 Mayor Muriel Bowser proposed legislation to soften the
+anti-police reforms.19 The legislation also sought to target orga-
+nized retail crime as well as the issue of open-air drug markets in
+the District.20 Bowser admitted the original police reform legisla-
+tion did not ‘‘match the daily practice of safe and effective polic-
+ing.’’21
+Rogue Prosecutors Refusing to Enforce the Law
+Another significant reason for the increase in crime over the past
+several years is the prevalence of far-left rogue prosecutors who
+prioritize social justice initiatives over public safety. Dozens of
+these rogue prosecutors owe their election victories, in large part,
+to far-left political action committees.22 These rogue prosecutors
+made social justice initiatives more important than public safety.
+Their goal is to fundamentally change the criminal justice system
+by replacing both Republican and Democrat law-and-order prosecu-
+tors with pro-criminal, anti-victim extremists who ignore the law,
+abuse their offices, and allow crime to rise in their jurisdictions.23
+These prosecutors generally fail to charge criminals, or permit
+criminals to be charged on low-level crimes, allowing them to re-
+turn to communities to reoffend.
+Police Recruitment Crisis
+Police departments across the country are experiencing signifi-
+cant recruitment challenges, as officers have been leaving the force
+in droves. As of January 2025, the Los Angeles Police Department
+(LAPD) is projected to mark the lowest staffing levels in 30 years.
+LAPD leaders expect to lose more than 150 officers, leaving a force
+of about 8,620 by June 30, 2026.24 In 2023, the San Francisco Po-
+lice Department had over 600 fewer officers compared to 2020, a
+decrease of approximately thirty percent of the department.25 In
+2023, the Metropolitan Police Department (MPD) in Washington,
+D.C. had the lowest number of officers it has had in the past fifty
+years.26 In January 2025, the DC Police Union chair said that the
+MPD is operating at dangerously low staffing levels.27 As of Sep-
+tember 2024, Chicago had 1,662 fewer officers than it did in 2018,
+a decline of nearly 13 percent.28
+In an effort to hire more law enforcement officers, police depart-
+ments have ‘‘expanded the geographic area from which they draw
+recruits, offered hiring bonuses and multiyear contracts, beefed up
+18Emily Davies, John D. Harden and Peter Hermann, 2023 was District’s deadliest year in
+more than two decades, WASH. POST(Jan. 1, 2024).
+19Melissa Koenig, DC mayor proposes rolling back progressive police reforms amid spike in
+violent crimes, N.Y. POST(Oct. 24, 2023).
+20Id.
+21Id.
+22Zack Smith and Charles Stimson, Meet Chesa Boudin, the Rogue Prosecutor Wreaking
+Havoc in San Francisco, THEHERITAGEFOUNDATION(Aug. 11, 2021).
+23Id.
+24Libor Jany, LAPD projected to lose 150 officers by mid-2026, which would mark lowest staff-
+ing in 30 years, Los Angeles Times, (Jan. 27, 2025).
+25Robert Klemko, Police agencies are desperate to hire. But they say few want the job., WASH.
+POST(May 27, 2023).
+26Id.
+27Phylicia Ashley, DC police union claims MPD needs more officers, auditor says no data sup-
+ports that, ABC NEWS 7 (Jan. 15, 2025).
+28Ben Bradley, Andrew Schroedter, Calls Go Unanswered Amid Continued Decline in Chicago
+Police Ranks, WGN9. (Oct. 29, 2024).
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+7
+recruiting efforts, decreased onboarding obstacles and adjusted ad-
+mission requirements.’’29 For example, the MPD is offering a
+$25,000 hiring bonus for new MPD recruits.30 On March 2, 2024,
+the City of Dunwoody, Georgia, announced it is increasing its hir-
+ing bonuses for new recruits to $15,000.31 Alameda County, Cali-
+fornia, just outside San Francisco, is offering a $75,000 recruitment
+bonus that will be paid out installments over several years.32 The
+City of Fremont, California, introduced a $100,000 signing bonus
+for up to 10 lateral police officer hires. This initiative significantly
+expands upon the city’s previous $20,000 signing bonus for lateral
+officers.33
+Escalating Attacks on Law Enforcement Officers
+The effects of far-left efforts to defund the police, elect rogue
+prosecutors, and enact radical criminal justice policies can all be
+seen through the continuous attacks on police officers. In 2022, 328
+officers were shot in the line of duty,34 there were 88 ambush-style
+attacks against police officers, and 31 of those officers lost their
+lives.35 When those statistics were released, Patrick Yoes, national
+president of the Fraternal Order of Police (FOP), described 2022
+‘‘one of the most dangerous years for law enforcement in recent his-
+tory due to the increase of violence directed towards law enforce-
+ment officers . . . .’’36 In 2023, 378 officers were shot in the line
+of duty, with 115 ambush-style attacks,37 and 20 officers lost their
+lives because of these attacks.38 FOP President Yoes reported:
+Last year, over 330 police officers were shot in the line
+of duty. With the COVID–19 pandemic behind us and after
+so many Americans have seen the tragic consequences of
+the defund the police movement, it was our hope that
+these numbers would be a high-water mark. We were
+wrong. Instead, 378 officers were shot in the line of duty
+in 2023, the highest number the FOP has ever recorded.39
+In 2024, the number of officers killed in the line of duty again
+increased from the previous year. According to National Law En-
+forcement Officers Memorial Fund (NLEOMF), 147 law enforce-
+ment officers died in the line of duty in 2024 compared to 118 offi-
+cers who died in the line of duty in 2023, representing a 25% in-
+29Glenn Minnis, With 1,500 Vacancies, Chicago Police Ramp Up Recruiting Efforts, THECEN-
+TERSQUARE(Mar. 28, 2023).
+30Press Release, Government of the District of Columbia, Mayor Bowser Announces Increase
+in Hiring Bonuses for New MPD Recruits, https://mayor.dc.gov/release/mayor-bowser-announces-
+increase-hiring-bonuses-new-mpd-recruits (last visited Mar. 13, 2025).
+31WSB Staff, Dunwoody increases hiring bonuses for new police recruits to $15,000, WSB AT-
+LANTA(Mar. 2, 2024).
+32CBS Staff, Police departments offering bonuses, incentives to new recruits and experienced
+officers to fill Bay Area openings, CBS NEWS(Sep. 26, 2023).
+33Police1 Staff, Calif. city announces $100,000 hiring bonus for lateral police officers, POLICE1
+(Dec. 20, 2024).
+34Press Release, National Fraternal Order of Police, Updated 29 December: One of the Most
+Dangerous Years for Law Enforcement, https://fop.net/2022/12/updated-29-december-one-of-the-
+most-dangerous-years-for-law-enforcement/ (last visited Mar. 13, 2025).
+35Id.
+36Id.
+37Press Release, National Fraternal Order of Police, 378 Officers Shot in the Line of Duty
+in 2023, https://fop.net/2024/01/378-officers-shot-in-the-line-of-duty-in-2023/ (last visited Mar. 13,
+2025).
+38Id.
+39Id.
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+8
+crease.40 In 2024, 342 officers were shot in the line of duty, with
+50 officers succumbing to their injuries.41
+Improving Law Enforcement Officer Safety and Wellness Through
+Data Act
+Currently, basic information on law enforcement attacks is col-
+lected by the FBI’s Law Enforcement Officers Killed and Assaulted
+(LEOKA) program.42 While the program collects information such
+as the circumstance of the assault and the weapon used,43 it does
+not contain information or recommendations to help prevent fur-
+ther attacks on law enforcement officers. The Improving Law En-
+forcement Officer Safety and Wellness Through Data Act would
+help to prevent attacks by increasing the categories of information
+that can be voluntarily reported, including the intention and co-
+ordination of criminals. It would also direct the Justice Department
+to examine adding additional categories to the Uniform Crime Re-
+porting System such as aggressive actions, conduct, or other trau-
+ma-inducing incidents against law enforcement officers. The bill
+will also provide further transparency on the mental health im-
+pacts of attacks on law enforcement officers and examine the avail-
+ability and extent of mental health resources for police officers.
+Hearings
+For the purposes of clause 3(c)(6)(A) of House rule XIII, the fol-
+lowing hearings were used to develop H.R. 2240: ‘‘The Right to Self
+Defense’’ a hearing held on March 4, 2025, before Subcommittee on
+Crime and Federal Government Surveillance of the Committee on
+the Judiciary. The Subcommittee heard testimony from the fol-
+lowing witnesses:
+• Doug Ritter, Founder and Chair of Knife Rights, Inc. and
+Knife Rights Foundation;
+• Diana Muller, Founder of Women for Gun Rights;
+• Dave McDermott, Founding Partner of McDermott Law
+Group and USCCA Network Attorney; and
+• Gregory Jackson, Jr., Former Deputy Director, White
+House Office of Gun Violence Prevention.
+The hearing examined the individual’s right to self-defense, pro-
+tected by the Second Amendment, and examined the efficacy of gun
+control policies and the related effect on public safety. The sub-
+committee received testimony from Ms. Muller, a retired law en-
+forcement officer, about the stressful situations law enforcement of-
+ficers encounter that have a negative effect on their mental health.
+40Press Release, National Law Enforcement Officers Memorial Fund, 2024 Law Enforcement
+Fatalities Report Reveals Law Enforcement Deaths Increased, https://nleomf.org/2024-law-
+enforcement-fatalities-report-reveals-law-enforcement-deaths-increased/ (last visited Mar. 13,
+2025).
+41Press Release, National Fraternal Order of Police, FOP Monthly Update: Officers Shot and
+Killed, https://fop.net/2025/01/fop-monthly-update-shot-and-killed-11/ (last visited Mar. 21, 2025).
+42Federal Bureau of Investigation, Law Enforcement Officers Assaulted in 2021 (last visited
+Mar. 13, 2025), https://leb.fbi.gov/bulletin-highlights/additional-highlights/crime-data-law-
+enforcement-officers-assaulted-in-2021.
+43Id.
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+9
+Committee Consideration
+On March 25, 2025, the Committee met in open session and or-
+dered the bill, H.R. 2240, favorably reported with an amendment
+in the nature of a substitute by voice vote, a quorum being present.
+Committee Votes
+In compliance with clause 3(b) of House rule XIII, the Committee
+states that no roll call votes occurred during the Committee’s con-
+sideration of H.R. 2240.
+Committee Oversight Findings
+In compliance with clause 3(c)(1) of House rule XIII, the Com-
+mittee advises that the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+New Budget Authority and Tax Expenditures
+Clause 3(c)(2) of rule XIII of the Rules of the House of Represent-
+atives does not apply where a cost estimate and comparison pre-
+pared by the Director of the Congressional Budget Office under sec-
+tion 402 of the Congressional Budget Act of 1974 has been timely
+submitted prior to filing of the report and is included in the report.
+Such a cost estimate is included in this report.
+Congressional Budget Office Cost Estimate
+With respect to the requirement of clause 3(c)(3) of rule XIII of
+the Rules of the House of Representatives and section 402 of the
+Congressional Budget Act of 1974, the Committee has received the
+enclosed cost estimate for H.R. 2240 from the Director of the Con-
+gressional Budget Office:
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+100.97RH
+ereh
+31
+oilof
+tesffo
+tresnI
+
+10
+H.R. 2240 would require the Department of Justice (DOJ) to re-
+port to the Congress about violent attacks on law enforcement offi-
+cers, including the responses of federal, state, and local govern-
+ments to such attacks and how to improve the reporting of those
+attacks. The bill also would require DOJ to report to the Congress
+on how traumatic incidents affect the mental health and wellness
+of officers.
+Based on the costs of similar reports, CBO estimates that imple-
+menting H.R. 2240 would cost $3 million over the 2025–2030 pe-
+riod. Any related spending would be subject to the availability of
+appropriated funds.
+The CBO staff contact for this estimate is Jeremy Crimm. The
+estimate was reviewed by H. Samuel Papenfuss, Deputy Director
+of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+Committee Estimate of Budgetary Effects
+With respect to the requirements of clause 3(d)(1) of rule XIII of
+the Rules of the House of Representatives, the Committee adopts
+as its own the cost estimate prepared by the Director of the Con-
+gressional Budget Office pursuant to section 402 of the Congres-
+sional Budget Act of 1974.
+Duplication of Federal Programs
+Pursuant to clause 3(c)(5) of House rule XIII, no provision of H.R.
+2240 establishes or reauthorizes a program of the federal govern-
+ment known to be duplicative of another federal program.
+Performance Goals and Objectives
+The Committee states that pursuant to clause 3(c)(4) of House
+rule XIII, H.R. 2240 would fill gaps in the reporting of attacks tar-
+geting law enforcement officers by requiring reporting of violent at-
+tacks on law enforcement officers, the efficacy of current data col-
+lection, and the efficacy of programs intended to provide protective
+equipment and wellness resources.
+Advisory on Earmarks
+In accordance with clause 9 of House rule XXI, H.R. 2240 does
+not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits as defined in clauses 9(d), 9(e), or 9(f) of
+House Rule XXI.
+Federal Mandates Statement
+The Committee adopts as its own the estimate of federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+Advisory Committee Statement
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+11
+Applicability to Legislative Branch
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act (Pub. L. 104–1).
+Section-by-Section Analysis
+Sec. 1. Short Title. The ‘‘Improving Law Enforcement Officer
+Safety and Wellness Through Data Act’’.
+Sec. 2. Findings. Details the continued trend of law enforcement
+attacks and reasserts Congress’s commitment to helping protect
+lives of police officers.
+Sec. 3. Attacks on Law Enforcement Officers Reporting Require-
+ment. Requires the Attorney General to submit a report to Con-
+gress that includes: (1) the number of attacks intentionally tar-
+geting police officers; (2) whether attacks occurred through the ac-
+tions of two or more parties; (3) a description of the federal re-
+sponse on attacks against federal law enforcement officers; (4) a
+survey detailing state and local responses to attacks; (5) rec-
+ommendations for improving responses to attacks; (6) A survey of
+training programs officers receive in preparation for attacks; (7) an
+analysis of the above programs; (8) recommendations on improving
+the above programs; (9) an analysis of the efficacy of distributing
+protective gear and any limitations that exist; (10) an analysis of
+DOJ’s ability to expand data collection to the suspect offender’s
+level of injury; (12) an analysis of any existence of disparities in re-
+porting; and (13) an analysis of any additional legislative tools or
+authorities helpful to deter ambush attacks. It also requires the At-
+torney General and others to consult with relevant stakeholders,
+including law enforcement agencies, nongovernment organizations,
+and others.
+Sec. 4. Aggression Against Law Enforcement Officers Reporting
+Requirement. Requires the Attorney General to submit to Congress
+a report analyzing the ability to implement a new category of re-
+porting in the Uniform Crime Reporting System and the National
+Incident-Based Reporting System, how to engage state and local
+law enforcement agencies in reporting the data, any disparities,
+and additional legislative tools or authorities helpful in deterring
+aggressive actions.
+Sec. 5 Mental Health and Wellness Reporting Requirement. Re-
+quires the Attorney General to report to Congress on the type of
+mental health and stress-responses of law enforcement officers to
+aggressive attacks, the programs available, the use of those pro-
+grams, and any additional tools needed to improve mental health
+and wellness.
+Æ
+VerDate Sep 11 2014 04:56 May 09, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6611 E:\HR\OC\HR079.XXX HR079
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba

@@ -1,0 +1,1388 @@
+Title: VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR026.XXX SR026
+Official Title: VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR026.XXX SR026
+Number of Sections: 13
+Source: documents - S. Rept. 119-26
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+1
+Calendar No. 88
+119THCONGRESS
+" SENATE !
+REPORT
+1st Session 119–26
+TORNADO OBSERVATIONS RESEARCH AND
+NOTIFICATION ASSESSMENT FOR DEVEL-
+OPMENT OF OPERATIONS ACT
+R E P O R T
+OFTHE
+COMMITTEE ON COMMERCE, SCIENCE, AND
+TRANSPORTATION
+ON
+S. 258
+JUNE 2, 2025.—Ordered to be printed
+U.S. GOVERNMENT PUBLISHING OFFICE
+59–010 WASHINGTON : 2025
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD 31#.ssergnoc
+SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION
+ONE HUNDRED NINETEENTH CONGRESS
+FIRST SESSION
+TED CRUZ, Texas, Chairman
+JOHNTHUNE,SouthDakota MARIACANTWELL,Washington
+ROGERF.WICKER,Mississippi AMYKLOBUCHAR,Minnesota
+DEBFISCHER,Nebraska BRIANSCHATZ,Hawaii
+JERRYMORAN,Kansas EDWARDJ.MARKEY,Massachusetts
+DANSULLIVAN,Alaska GARYC.PETERS,Michigan
+MARSHABLACKBURN,Tennessee TAMMYBALDWIN,Wisconsin
+TODDYOUNG,Indiana TAMMYDUCKWORTH,Illinois
+TEDBUDD,NorthCarolina JACKYROSEN,Nevada
+ERICSCHMITT,Missouri BENRAYLUJA´N,NewMexico
+JOHNCURTIS,Utah JOHNW.HICKENLOOPER,Colorado
+BERNIEMORENO,Ohio JOHNFETTERMAN,Pennsylvania
+TIMSHEEHY,Montana ANDYKIM,NewJersey
+SHELLEYMOORECAPITO,WestVirginia LISABLUNTROCHESTER,Delaware
+CYNTHIAM.LUMMIS,Wyoming
+BRAD GRANTZ, Majority Staff Director
+LILA HARPER HELMS, Democratic Staff Director
+(II)
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00002 Fmt 5904 Sfmt 5904 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+Calendar No. 88
+119THCONGRESS REPORT
+1st Session " SENATE ! 119–26
+TORNADO OBSERVATIONS RESEARCH AND NOTIFICATION
+ASSESSMENT FOR DEVELOPMENT OF OPERATIONS ACT
+JUNE2, 2025.—Ordered to be printed
+Mr. CRUZ, from the Committee on Commerce, Science, and
+Transportation, submitted the following
+R E P O R T
+[To accompany S. 258]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Commerce, Science, and Transportation, to
+which was referred the bill (S. 258) to improve forecasting and un-
+derstanding of tornadoes and other hazardous weather, and for
+other purposes, having considered the same, reports favorably
+thereon with amendments and recommends that the bill, as
+amended, do pass.
+PURPOSE OF THE BILL
+The purpose of S. 258, the Tornado Observations Research and
+Notification Assessment for Development of Operations (TOR-
+NADO) Act, is to improve forecasting and understanding of torna-
+does and other hazardous weather, and for other purposes.
+BACKGROUND AND NEEDS
+Tornadoes are the fifth most deadly weather hazard, resulting in
+an average of 48 fatalities per year over the last 10 years.1 Torna-
+does are distinctively deadly events because they can form quickly
+without warning and may be visibly obscured by rain or clouds.
+While a tornado is on the ground, winds can reach up to 300 miles
+per hour. Damage tracks can be more than 1 mile wide and 50
+1‘‘Hazard Statistics,’’ National Weather Service (https://www.weather.gov/media/hazstat/
+80years_2023.pdf).
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+2
+miles long.2 Around 1,200 tornadoes affect the United States year-
+ly, but this is likely an underestimation due to discrepancies in re-
+porting methods.3 While most people believe tornadoes only occur
+in the Midwest’s Tornado Alley, they are present in all 50 States
+and can happen at any time of year.4 Tornadoes are as common in
+the Deep South as in the Great Plains.5 Overall, regions with
+greater population density, urban sprawl, and manufactured homes
+are particularly vulnerable.6
+TORNADO RATING SCALE AND PUBLIC RESPONSE
+The Fujita Scale (F-Scale) was initially developed based on the
+damage intensity of tornadoes. However, this did not account for
+observed wind speed. Since 2007, meteorologists have used the En-
+hanced Fujita Scale (EF Scale) to classify tornadoes based on wind
+speeds and related damage. Both scales are rated from 0 (weak;
+65–85 mph winds) to 5 (violent; 200+ mph winds).7 An issue with
+this rating system is that many tornadoes move across rural areas
+with little infrastructure, meaning their recorded damage may not
+reflect their true strength.
+The public is alerted to tornadoes through a tornado watch or
+warning.8 The National Oceanic and Atmospheric Administration
+(NOAA) issues a watch when the risk of a tornado is high but has
+not yet occurred. A warning is issued when a tornado occurs and
+there is a threat to life or property. Although understanding the
+difference between a tornado watch and a warning is crucial for a
+proper public response, at least a quarter of the individuals sur-
+veyed did not know the difference.9 Most advice from local weather
+stations is about sheltering in place at home, but when people are
+at a public location during a tornado, they are unaware of how to
+act safely. The combination of warning and location uncertainty
+poses a greater risk for inappropriate safety actions by the public.
+RECENT TORNADO IMPACTS
+In 2024, the United States saw 1,473 confirmed tornadoes, the
+second most on record. Major outbreaks in April, May, July, and
+December caused widespread destruction, with several EF–4 torna-
+does hitting the Midwest and Great Plains. May was especially se-
+vere, with 527 tornadoes, nearly double the average. Hurricanes
+Debby, Helene, and Milton fueled additional tornado activity in the
+fall, including one of Florida’s most significant outbreaks in dec-
+ades. The year ended with a December outbreak in the Southeast,
+bringing 86 tornadoes, injuries, and fatalities. Tornadoes through-
+2‘‘Tornado Definition,’’ National Weather Service (https://www.weather.gov/phi/Tornado
+Definition).
+3‘‘Severe Weather 101—Tornadoes: Tornado Basics,’’ NOAA National Severe Storms Labora-
+tory (https://www.nssl.noaa.gov/education/svrwx101/tornadoes/).
+4Supra no. 2.
+5Matthew Cappucci, ‘‘Tornado Alley in the Plains Is an Outdated Concept. The South Is Even
+More Vulnerable, Research Shows,’’ The Washington Post, May 16, 2020 (https://
+www.washingtonpost.com/weather/2020/05/16/tornado-alley-flawed-concept/).
+6Supra no. 3.
+7‘‘The Enhanced Fujita Scale (EF Scale),’’ National Weather Service (https://
+www.weather.gov/oun/efscale).
+8‘‘Understand Tornado Alerts,’’ National Weather Service (https://www.weather.gov/safety/
+tornado-ww).
+9Jason Samenow, ‘‘The Problematic Confusion About Difference Between Tornado Watches
+and Warnings’’, The Washington Post, May 2, 2011 (https://www.washingtonpost.com/blogs/
+capital-weather-gang/post/confusion-about-difference-between-tornado-watch-and-tornado-warn-
+ings-thats-a-problem/2011/05/02/AFW53ZaF_blog.html).
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+3
+out the year caused significant damage to homes, businesses, and
+infrastructure nationwide.10
+On March 31, 2023, 65 tornadoes swept across the Midwest and
+South, killing at least 32 people. There was significant damage and
+loss of life reported in Illinois, Arkansas, Alabama, Tennessee, In-
+diana, Mississippi, and even Delaware.11 In Illinois, a theater roof
+caved in and left 1 person dead with 40 others injured. The severe
+storms also caused significant gas leaks and power outages.12
+IMPORTANCE OF MONITORING AND FORECASTING TORNADOES
+Alerting people before tornadoes cannot happen without moni-
+toring for suitable conditions that lead to formation and funnel
+touch down. In the South, tornadoes are often difficult to see due
+to rain, clouds, and nighttime occurrence.13 Overnight tornadoes
+are 2.5 times more likely to kill than daytime tornadoes.14 Ample
+warning time and effective public communications are critical since
+people may be asleep or unable to see funnel formation. The NOAA
+Storm Prediction Center (SPC) monitors tornado-prone regions and
+issues daily forecasts.15 Local National Weather Service (NWS)
+forecast offices issue tornado warnings that inform area residents.
+Meteorologists at NOAA use multiple computer models at once, re-
+ferred to as ensemble forecasting, to better predict weather.
+However, there have been delays between the time NWS issues
+warnings and when the public can access them. This decreases the
+time people have to act in the event of a tornado. In Iowa, on
+March 5, 2022, 17 tornadoes swept across the State, causing loss
+of life and destruction of property. There was up to a 7-minute
+delay in a tornado warning notification to the public due to soft-
+ware and hardware issues at the national office.16 Advances in tor-
+nado monitoring and forecasting can increase warning time, but
+only if notifications can reach the public on time.
+NOAA’s National Severe Storms Laboratory (NSSL) conducts re-
+search to better understand how tornados form and to improve
+forecasts and warnings.17 The NSSL is involved with the Warn-on-
+Forecast research program that seeks to improve warning lead
+times for severe weather and water events by referencing high-res-
+olution weather prediction models and high-performance com-
+puting.18 NSSL also utilizes unmanned aerial vehicles (UAVs) in
+their Targeted Observation by Radars and UAS of Supercells
+10NOAA National Centers for Environmental Information, Monthly Tornadoes Report for An-
+nual 2024, January 2025 (https://www.ncei.noaa.gov/access/monitoring/monthly-report/torna-
+does/202413).
+11Gwen Moritz et al., ‘‘At Least 32 Killed as Tornadoes Tear Through the Midwest and
+South,’’ The New York Times, updated April 2, 2023 (https://www.nytimes.com/2023/03/31/
+us/midwest-storms-flood-weather.html).
+12Ibid.
+13‘‘Severe Weather 101—Tornadoes: Tornado Forecasting,’’ NOAA National Severe Storms
+Laboratory (https://www.nssl.noaa.gov/education/svrwx101/tornadoes/forecasting/).
+14Matthew Cappucci, ‘‘Weather Service’s Tornado Warnings Were Delayed During Deadly
+Iowa Outbreak,’’ The Washington Post, March 6, 2022 (https://www.washingtonpost.com/weath-
+er/2022/03/06/nws-tornado-warning-dissemination-iowa/).
+15Supra no. 13.
+16Supra no. 14.
+17‘‘NSSL Research: Tornadoes,’’ NOAA National Severe Storms Laboratory (https://
+www.nssl.noaa.gov/research/tornadoes/).
+18‘‘Warn on Forecast,’’ NOAA National Severe Storms Laboratory (https://
+www.nssl.noaa.gov/projects/wof/).
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+4
+(TORUS) project.19 UAVs can safely observe features near the
+ground that may be key in tornado formation. To improve hazard
+communication to the public, NSSL has created the Forecasting a
+Continuum of Environmental Threats (FACETs) framework.20
+FACETs aims to modernize weather forecasting and warnings by
+incorporating evolving technology and developing user-specific,
+clear, and simple communication methods that will better serve the
+public during hazardous weather events.
+THE ROLE OF RESEARCH UNIVERSITIES IN IMPROVING TORNADO
+FORECASTS AND WARNINGS
+Improvements and advances in tornado forecasting and warnings
+would not be possible without the collaboration between Federal
+agencies and research universities. NOAA Cooperative Institutes
+are academic and nonprofit research institutions that conduct re-
+search supporting NOAA’s goals and strategic plans.21 This pro-
+gram includes 80 universities and research institutions in 33
+States, the District of Columbia, and U.S. territories. Additionally,
+NOAA Research Laboratories establish collaborative agreements
+with universities to develop joint research institutes that are hubs
+for leading research on atmospheric and earth sciences.22 At one
+NOAA Research Laboratory, the National Severe Storms Labora-
+tory (NSSL), the TORUS project is led by the University of Ne-
+braska-Lincoln in partnership with NOAA, the University of Okla-
+homa Cooperative Institute for Mesoscale Meteorological Studies,
+Texas Tech, and the University of Colorado Boulder.
+SUMMARY OF PROVISIONS
+S. 258 would do the following:
+• Establish or designate a hazard risk communication office to
+improve the communication of severe weather alerts, more
+clearly inform action, and increase the likelihood that the pub-
+lic takes appropriate action to prevent loss of life or property.
+• Require NOAA to prepare and submit an action plan for the
+national implementation of high-resolution probabilistic guid-
+ance for tornado forecasting and prediction.
+• Encourage NOAA to evaluate the current tornado rating sys-
+tem and make updates.
+• Require NOAA to coordinate with appropriate entities for post-
+storm assessments to optimize data collection, sharing, and in-
+tegration.
+• Require NOAA to provide training, resources, and access to
+professional counseling to support the mental health of employ-
+ees conducting post-storm assessments.
+LEGISLATIVE HISTORY
+S. 258, the TORNADO Act, was introduced on January 27, 2025,
+by Senator Wicker (for himself and Senators Hyde-Smith, Grassley,
+19‘‘TORUS: Targeted Observations by Radars and UAS of Supercells,’’ NOAA National Severe
+Storms Laboratory (https://www.nssl.noaa.gov/projects/torus/).
+20‘‘FACETs,’’ NOAA National Severe Storms Laboratory (https://www.nssl.noaa.gov/projects/
+facets/).
+21‘‘Cooperative Institutes,’’ NOAA (https://ci.noaa.gov/).
+22‘‘NOAA Research Laboratories,’’ NOAA (https://ci.noaa.gov/research-themes/noaa-research-
+laboratories/).
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+5
+Moran, Sheehy, Young, Cruz, Peters, and Warnock) and was re-
+ferred to the Committee on Commerce, Science, and Transportation
+of the Senate. Senator Blackburn is an additional cosponsor. On
+February 5, 2025, the Committee met in open Executive Session
+and, by voice vote, ordered S. 258 to be reported favorably with an
+amendment.
+118th Congress
+S. 1284, the TORNADO Act, was introduced on April 25, 2023,
+by Senator Wicker (for himself and Senators Cruz, Thune, Grass-
+ley, Hyde-Smith, Young, Blackburn, Boozman, and Peters) and was
+referred to the Committee on Commerce, Science, and Transpor-
+tation of the Senate. On May 10, 2023, the Committee met in open
+Executive Session and, by voice vote, ordered S. 1284 to be re-
+ported favorably with an amendment (in the nature of a sub-
+stitute). Senators Moran and Warnock were later added as cospon-
+sors.
+117th Congress
+S. 3817, the TORNADO Act, was introduced on March 10, 2022,
+by Senator Wicker (for himself and Senators Grassley, Hyde-Smith,
+Thune, and Ernst) and was referred to the Committee on Com-
+merce, Science, and Transportation of the Senate. On March 22,
+2022, the Committee met in open Executive Session and, by voice
+vote, ordered S. 3817 to be reported favorably with an amendment
+(in the nature of a substitute). Senators Duckworth, Cruz, and
+Peters were later added as cosponsors.
+ESTIMATED COSTS
+In accordance with paragraph 11(a) of rule XXVI of the Standing
+Rules of the Senate and section 403 of the Congressional Budget
+Act of 1974, the Committee provides the following cost estimate,
+prepared by the Congressional Budget Office:
+S. 258 would direct the National Oceanic and Atmospheric Ad-
+ministration (NOAA) to improve forecasting of and warnings about
+hazardous weather. The bill also would require NOAA to initiate
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 2:
+100.62RS
+ereh
+8 oilof
+tesffo
+tresnI
+6
+a pilot program for communicating tornado hazards. Finally, the
+bill would require the Government Accountability Office (GAO) to
+report on the National Weather Service’s information technology
+infrastructure.
+The costs of the legislation, detailed in Table 1, fall within budg-
+et function 300 (natural resources and environment).
+CBO assumes that S. 258 will be enacted in fiscal year 2025 and
+that the authorized and estimated amounts will be available in
+each year. Based on historical spending patterns, CBO estimates
+that implementing the bill would cost $74 million over the 2025–
+2030 period, as described below.
+VORTEX–USA: The bill would authorize the appropriation of $11
+million annually from 2025 through 2032 for VORTEX–USA
+(Verification of the Origins of Rotation in Tornadoes Experiment)
+to develop accurate and timely tornado forecasts, predictions, and
+warnings. In 2024, NOAA allocated $11 million to the project. CBO
+estimates that implementing this provision would cost $59 million
+over the 2025–2030 period and $28 million after 2030, assuming
+appropriation of the authorized amounts.
+Other Activities: Using information from NOAA, CBO estimates
+that the pilot program would require four full-time employees and
+one cooperative agreement with a research university at a total
+cost of $15 million over the 2025–2030 period. Most of that cost
+would be for the cooperative agreement. CBO also estimates that
+the GAO report would cost less than $500,000. Any related spend-
+ing would be subject to the availability of appropriated funds.
+TABLE 1.—ESTIMATED INCREASES IN SPENDING SUBJECT TO APPROPRIATION UNDER S. 258
+By fiscal year, millions of dollars—
+2025 2026 2027 2028 2029 2030 2 2 0 0 2 3 5 0 –
+VORTEX–USA
+Authorization..................................................................... 11 11 11 11 11 11 66
+Estimated Outlays ............................................................ 3 10 12 12 11 11 59
+Other Activities
+Estimated Authorization ................................................... 1 3 3 3 3 3 16
+Estimated Outlays ............................................................ 1 2 3 3 3 3 15
+Total Changes
+Estimated Authorization ................................................... 12 14 14 14 14 14 82
+Estimated Outlays ............................................................ 4 12 15 15 14 14 74
+The CBO staff contacts for this estimate are Aurora Swanson
+and Johnny Willing. The estimate was reviewed by H. Samuel
+Papenfuss, Deputy Director of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+REGULATORY IMPACT STATEMENT
+Because S. 258 does not create any new programs, the legislation
+will have no additional regulatory impact, and will result in no ad-
+ditional reporting requirements. The legislation will have no fur-
+ther effect on the number or types of individuals and businesses
+regulated, the economic impact of such regulation, the personal pri-
+vacy of affected individuals, or the paperwork required from such
+individuals and businesses.
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+7
+CONGRESSIONALLY DIRECTED SPENDING
+In compliance with paragraph 4(b) of rule XLIV of the Standing
+Rules of the Senate, the Committee provides that no provisions
+contained in the bill, as reported, meet the definition of congres-
+sionally directed spending items under the rule.
+
+Section 3:
+SECTION-BY-SECTION ANALYSIS
+
+Section 4:
+Section 1. Short title.
+This section would provide that the bill may be cited as the ‘‘Tor-
+nado Observations Research and Notification Assessment for De-
+velopment of Operations Act’’ or the ‘‘TORNADO Act’’.
+
+Section 5:
+Section 2. Definitions.
+This section would define the terms ‘‘hazardous weather and
+water events’’, ‘‘historically Black college or university’’, ‘‘Indian
+Tribe’’, ‘‘institution of higher education’’, ‘‘National Laboratory’’,
+and ‘‘Under Secretary’’.
+
+Section 6:
+Section 3. Hazardous weather and water event risk communication.
+This section would require maintaining and improving NOAA’s
+systems for hazardous weather and water event communications to
+prevent loss of life and property. It would create a hazard risk com-
+munication office (Office) to simplify and improve hazard commu-
+nications. The Office would develop a plan to enhance public haz-
+ard communications, create metrics to track their impact on public
+action, and periodically update the plan based on research and
+metrics. The Office would also implement recommendations tai-
+lored to vulnerable populations and based on social, behavioral,
+risk, and communication science, responding to the needs of Fed-
+eral, State, and local partners and various hazard types. To assess
+effectiveness, the Office would collaborate with Federal partners in-
+cluding National Laboratories and Cooperative Institutes, State
+and local governments, Indian Tribes, educational institutions, and
+media partners. Data from the Office would be accessible via a cen-
+tral repository system.
+This section would require NOAA to establish or maintain a haz-
+ard communication research program to modernize the creation of
+hazard information and responses to hazardous weather and water
+events. NOAA would coordinate with States, Indian Tribes, local-
+ities, and emergency managers on research priorities and results
+and establish a tornado hazard communication pilot program to
+evaluate the research.
+This section would require NOAA to maintain a central reposi-
+tory for NOAA data on hazardous weather and water event com-
+munications, including social, behavioral, risk, and economic re-
+search, and develop methods to prevent tampering with online haz-
+ard communications.
+
+Section 7:
+Section 4. Warn-on-forecast strategic plan.
+This section would require the Under Secretary to prepare and
+submit to Congress a plan to develop and implement a high-resolu-
+tion probabilistic forecast and warning system for hazardous
+weather and water events no later than 1 year after enactment.
+The plan would include priorities for vulnerable populations, im-
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+8
+proved forecasting methodologies and modeling, and risk commu-
+nication research.
+
+Section 8:
+Section 5. Tornado rating system.
+This section would require NOAA to evaluate the current rating
+system for tornado severity, determine if updates are needed, and
+implement necessary changes.
+
+Section 9:
+Section 6. Post-storm surveys and assessments.
+This section would require NOAA to perform one or more post-
+storm surveys and assessments following significant hazardous
+weather or water events. Surveys would be coordinated with Fed-
+eral, State, local, and Tribal governments; institutions of higher
+education; and private entities to optimize data collection, sharing,
+and integration. Survey data would be made available to the public
+after storm surveys. NOAA would improve the post-storm survey,
+assessment methods, and data collection. Training, resources, and
+counseling would be available to staff conducting post-storm sur-
+veys and assessments.
+
+Section 10:
+Section 7. VORTEX-USA program.
+This section would require the maintenance of a program for im-
+proving tornado forecasts and warnings. NOAA would be required
+to award research grants that improve risk communication and
+STEM related to tornadoes, prioritizing research completed at mi-
+nority-serving institutions. This section would authorize appropria-
+tions of $11 million for each of fiscal years 2025 through 2032.
+
+Section 11:
+Section 8. Government Accountability Office report on hazardous
+weather and water alert dissemination.
+This section would require the Government Accountability Office
+(GAO) to create a report examining the information technology in-
+frastructure of NWS of NOAA. The report would focus on the struc-
+ture of the hazardous weather and water alert system and assess
+if alerts are disseminated to the public in a timely and efficient
+manner. GAO would be required to submit the report to the Com-
+mittee on Commerce, Science, and Transportation of the Senate
+and the Committee on Science, Space, and Technology of the House
+of Representatives no later than 540 days after enactment.
+
+Section 12:
+Section 9. Elimination of certain report requirements.
+This section would eliminate an outdated report on information
+systems at NWS.
+CHANGES IN EXISTING LAW
+In compliance with paragraph 12 of rule XXVI of the Standing
+Rules of the Senate, changes in existing law made by the bill, as
+reported, are shown as follows (existing law proposed to be omitted
+is enclosed in black brackets, new material is printed in italic, ex-
+isting law in which no change is proposed is shown in roman):
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+9
+WEATHER RESEARCH AND FORE-
+CASTING INNOVATION ACT OF 2017
+* * * * * * *
+[15 U.S.C. 8513]
+SEC. 103. øTORNADO WARNING IMPROVEMENT AND EXTENSION PRO-
+GRAM¿ VORTEX-USA.
+(a) IN GENERAL.—The Under Secretary, in collaboration with the
+United States weather industry and academic partners, shall øes-
+tablish a tornado warning improvement and extension program¿
+maintain a program for rapidly improving tornado forecast and
+warnings.
+(b) * * *
+(c) * * *
+(d) WARNINGS.—The program required by subsection (a) shall—
+(1) continue the research necessary to develop and deploy
+probabilistic weather forecast guidance technology for torna-
+does; and
+(2) incorporate, as appropriate, hazard communication re-
+search.
+(e) RESEARCH.—
+(1) IN GENERAL.—The Under Secretary shall, through the pro-
+gram required by subsection (a), award grants for research that
+focuses on improving—
+(A) the social, behavioral, risk, communication, and eco-
+nomic sciences related to vulnerabilities, risk communica-
+tion, and delivery of information critical for saving lives
+and property related to tornadoes; and
+(B) the physical sciences, engineering, and technology re-
+lated to tornado formation, the interactions of tornadoes
+with the built and natural environment, and the inter-
+action of tornadoes and hurricanes.
+(2) PRIORITY INSTITUTIONS.—
+(A) IN GENERAL.—In awarding grants under paragraph
+(1), the Under Secretary may prioritize awarding grants to
+minority-serving institutions.
+(B) DEFINITION OF MINORITY-SERVING INSTITUTION.—In
+this paragraph, the term ‘‘minority-serving institution’’
+means—
+(i) a part B institution (as defined in section 322 of
+the Higher Education Act of 1965 (20 U.S.C. 1061));
+(ii) a Hispanic-serving institution (as defined in sec-
+tion 502(a) of that Act (20 U.S.C. 1101a(a)));
+(iii) a Tribal College or University (as defined in sec-
+tion 316(b) of that Act (20 U.S.C. 1059c(b)));
+(iv) an Alaska Native-serving institution (as defined
+in section 317(b) of that Act (20 U.S.C. 1059d(b)));
+(v) a Native Hawaiian-serving institution (as defined
+in section 317(b) of that Act (20 U.S.C. 1059d(b)));
+(vi) a Predominantly Black Institution (as defined in
+
+Section 13:
+section 318(b) of that Act (20 U.S.C. 1059e(b)));
+(vii) an Asian American and Native American Pa-
+cific Islander-serving institution (as defined in section
+320(b) of that Act (20 U.S.C. 1059g(b))); or
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00011 Fmt 6659 Sfmt 6603 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+10
+(viii) a Native American-serving, nontribal institu-
+tion (as defined in section 319(b) of that Act (20 U.S.C.
+1059f(b))).
+ø(d)¿(f) PROGRAM PLAN.—Not later than 180 days after the date
+of the enactment of this Act, the Assistant Administrator for Oce-
+anic and Atmospheric Research, in coordination with the Director
+of the National Weather Service, shall develop a program plan that
+details the specific research, development, and technology transfer
+activities, as well as corresponding resources and timelines, nec-
+essary to achieve the program goal.
+ø(e)¿(g) ANNUAL BUDGET FOR PLAN SUBMITTAL.—Following com-
+pletion of the plan, the Under Secretary, acting through the Assist-
+ant Administrator for Oceanic and Atmospheric Research and in
+coordination with the Director of the National Weather Service,
+shall, not less frequently than once each year, submit to Congress
+a proposed budget corresponding with the activities identified in
+the plan.
+(h) AUTHORIZATION OF APPROPRIATIONS.—There is authorized to
+be appropriated to the Under Secretary to carry out this section
+$11,000,000 for each of fiscal years 2025 through 2032, of which not
+less than $2,000,000 each fiscal year shall be used for grants
+awarded under subsection (e).
+* * * * * * *
+[15 U.S.C. 8543]
+SEC. 8543. OFFICE OF OCEANIC AND ATMOSPHERIC RESEARCH AND
+NATIONAL WEATHER SERVICE EXCHANGE PROGRAM.
+(a) IN GENERAL.—The Assistant Administrator for Oceanic and
+Atmospheric Research and the Director of the National Weather
+Service may establish a program to detail Office of Oceanic and At-
+mospheric Research personnel to the National Weather Service and
+National Weather Service personnel to the Office of Oceanic and
+Atmospheric Research.
+(b) * * *
+(c) * * *
+ø(d) ANNUAL REPORT.—Not less frequently than once each year,
+the Under Secretary shall submit to the Committee on Commerce,
+Science, and Transportation of the Senate and the Committee on
+Science, Space, and Technology of the House of Representatives a
+report on participation in such program and shall highlight any in-
+novations that come from this interaction.¿
+* * * * * * *
+NATIONAL OCEANIC AND ATMOS-
+PHERIC ADMINISTRATION AUTHOR-
+IZATION ACT OF 1992
+* * * * * * *
+[15 U.S.C. 1537; Public Law 102–567; 106 Stat. 4274]
+SEC. 106. DATA AND INFORMATION SYSTEMS.
+(a) * * *
+(b) * * *
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+11
+ø(c) NEEDS ASSESSMENT FOR DATA MANAGEMENT, ARCHIVAL, AND
+DISTRIBUTION.—(1) Not later than 12 months after the date of en-
+actment of this Act and at least biennially thereafter, the Secretary
+of Commerce shall complete an assessment of the adequacy of the
+environmental data and information systems of the National Oce-
+anic and Atmospheric Administration. In conducting such an as-
+sessment, the Secretary shall take into consideration the need to—
+ø(A) provide adequate capacity to manage, archive, and dis-
+seminate environmental data and information collected and
+processed, or expected to be collected and processed, by the Na-
+tional Oceanic and Atmospheric Administration and other ap-
+propriate departments and agencies;
+ø(B) establish, develop, and maintain information bases, in-
+cluding necessary management systems, which will promote
+consistent, efficient, and compatible transfer and use of data;
+ø(C) develop effective interfaces among the environmental
+data and information systems of the National Oceanic and At-
+mospheric Administration and other appropriate departments
+and agencies;
+ø(D) develop and use nationally accepted formats and stand-
+ards for data collected by various national and international
+sources; and
+ø(E) integrate and interpret data from different sources to
+produce information that can be used by decisionmakers in de-
+veloping policies that effectively respond to national and global
+environmental concerns.
+ø(2) Not later than 12 months after the date of enactment of this
+Act and biennially thereafter, the Secretary of Commerce shall de-
+velop and submit to the Committee on Commerce, Science, and
+Transportation of the Senate and the Committee on Science, Space,
+and Technology of the House of Representatives a comprehensive
+plan, based on the assessment under paragraph (1), to modernize
+and improve the environmental data and information systems of
+the National Oceanic and Atmospheric Administration. The report
+shall—.
+ø(A) set forth modernization and improvement objectives for
+the 10-year period beginning with the year in which the plan
+is submitted, including facility requirements and critical new
+technological components that would be necessary to meet the
+objectives set forth;
+ø(B) propose specific agency programs and activities for im-
+plementing the plan;
+ø(C) identify the data and information management, archi-
+val, and distribution responsibilities of the National Oceanic
+and Atmospheric Administration with respect to other Federal
+departments and agencies and international organizations, in-
+cluding the role of the National Oceanic and Atmospheric Ad-
+ministration with respect to large data systems like the Earth
+Observing System Data and Information System; and
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+12
+ø(D) provide an implementation schedule and estimate fund-
+ing levels necessary to achieve modernization and improve-
+ment objectives.¿
+* * * * * * *
+Æ
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00014 Fmt 6659 Sfmt 6611 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+
+================================================================================
+
+Raw Text:
+1
+Calendar No. 88
+119THCONGRESS
+" SENATE !
+REPORT
+1st Session 119–26
+TORNADO OBSERVATIONS RESEARCH AND
+NOTIFICATION ASSESSMENT FOR DEVEL-
+OPMENT OF OPERATIONS ACT
+R E P O R T
+OFTHE
+COMMITTEE ON COMMERCE, SCIENCE, AND
+TRANSPORTATION
+ON
+S. 258
+JUNE 2, 2025.—Ordered to be printed
+U.S. GOVERNMENT PUBLISHING OFFICE
+59–010 WASHINGTON : 2025
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD 31#.ssergnoc
+
+SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION
+ONE HUNDRED NINETEENTH CONGRESS
+FIRST SESSION
+TED CRUZ, Texas, Chairman
+JOHNTHUNE,SouthDakota MARIACANTWELL,Washington
+ROGERF.WICKER,Mississippi AMYKLOBUCHAR,Minnesota
+DEBFISCHER,Nebraska BRIANSCHATZ,Hawaii
+JERRYMORAN,Kansas EDWARDJ.MARKEY,Massachusetts
+DANSULLIVAN,Alaska GARYC.PETERS,Michigan
+MARSHABLACKBURN,Tennessee TAMMYBALDWIN,Wisconsin
+TODDYOUNG,Indiana TAMMYDUCKWORTH,Illinois
+TEDBUDD,NorthCarolina JACKYROSEN,Nevada
+ERICSCHMITT,Missouri BENRAYLUJA´N,NewMexico
+JOHNCURTIS,Utah JOHNW.HICKENLOOPER,Colorado
+BERNIEMORENO,Ohio JOHNFETTERMAN,Pennsylvania
+TIMSHEEHY,Montana ANDYKIM,NewJersey
+SHELLEYMOORECAPITO,WestVirginia LISABLUNTROCHESTER,Delaware
+CYNTHIAM.LUMMIS,Wyoming
+BRAD GRANTZ, Majority Staff Director
+LILA HARPER HELMS, Democratic Staff Director
+(II)
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00002 Fmt 5904 Sfmt 5904 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Calendar No. 88
+119THCONGRESS REPORT
+1st Session " SENATE ! 119–26
+TORNADO OBSERVATIONS RESEARCH AND NOTIFICATION
+ASSESSMENT FOR DEVELOPMENT OF OPERATIONS ACT
+JUNE2, 2025.—Ordered to be printed
+Mr. CRUZ, from the Committee on Commerce, Science, and
+Transportation, submitted the following
+R E P O R T
+[To accompany S. 258]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Commerce, Science, and Transportation, to
+which was referred the bill (S. 258) to improve forecasting and un-
+derstanding of tornadoes and other hazardous weather, and for
+other purposes, having considered the same, reports favorably
+thereon with amendments and recommends that the bill, as
+amended, do pass.
+PURPOSE OF THE BILL
+The purpose of S. 258, the Tornado Observations Research and
+Notification Assessment for Development of Operations (TOR-
+NADO) Act, is to improve forecasting and understanding of torna-
+does and other hazardous weather, and for other purposes.
+BACKGROUND AND NEEDS
+Tornadoes are the fifth most deadly weather hazard, resulting in
+an average of 48 fatalities per year over the last 10 years.1 Torna-
+does are distinctively deadly events because they can form quickly
+without warning and may be visibly obscured by rain or clouds.
+While a tornado is on the ground, winds can reach up to 300 miles
+per hour. Damage tracks can be more than 1 mile wide and 50
+1‘‘Hazard Statistics,’’ National Weather Service (https://www.weather.gov/media/hazstat/
+80years_2023.pdf).
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+2
+miles long.2 Around 1,200 tornadoes affect the United States year-
+ly, but this is likely an underestimation due to discrepancies in re-
+porting methods.3 While most people believe tornadoes only occur
+in the Midwest’s Tornado Alley, they are present in all 50 States
+and can happen at any time of year.4 Tornadoes are as common in
+the Deep South as in the Great Plains.5 Overall, regions with
+greater population density, urban sprawl, and manufactured homes
+are particularly vulnerable.6
+TORNADO RATING SCALE AND PUBLIC RESPONSE
+The Fujita Scale (F-Scale) was initially developed based on the
+damage intensity of tornadoes. However, this did not account for
+observed wind speed. Since 2007, meteorologists have used the En-
+hanced Fujita Scale (EF Scale) to classify tornadoes based on wind
+speeds and related damage. Both scales are rated from 0 (weak;
+65–85 mph winds) to 5 (violent; 200+ mph winds).7 An issue with
+this rating system is that many tornadoes move across rural areas
+with little infrastructure, meaning their recorded damage may not
+reflect their true strength.
+The public is alerted to tornadoes through a tornado watch or
+warning.8 The National Oceanic and Atmospheric Administration
+(NOAA) issues a watch when the risk of a tornado is high but has
+not yet occurred. A warning is issued when a tornado occurs and
+there is a threat to life or property. Although understanding the
+difference between a tornado watch and a warning is crucial for a
+proper public response, at least a quarter of the individuals sur-
+veyed did not know the difference.9 Most advice from local weather
+stations is about sheltering in place at home, but when people are
+at a public location during a tornado, they are unaware of how to
+act safely. The combination of warning and location uncertainty
+poses a greater risk for inappropriate safety actions by the public.
+RECENT TORNADO IMPACTS
+In 2024, the United States saw 1,473 confirmed tornadoes, the
+second most on record. Major outbreaks in April, May, July, and
+December caused widespread destruction, with several EF–4 torna-
+does hitting the Midwest and Great Plains. May was especially se-
+vere, with 527 tornadoes, nearly double the average. Hurricanes
+Debby, Helene, and Milton fueled additional tornado activity in the
+fall, including one of Florida’s most significant outbreaks in dec-
+ades. The year ended with a December outbreak in the Southeast,
+bringing 86 tornadoes, injuries, and fatalities. Tornadoes through-
+2‘‘Tornado Definition,’’ National Weather Service (https://www.weather.gov/phi/Tornado
+Definition).
+3‘‘Severe Weather 101—Tornadoes: Tornado Basics,’’ NOAA National Severe Storms Labora-
+tory (https://www.nssl.noaa.gov/education/svrwx101/tornadoes/).
+4Supra no. 2.
+5Matthew Cappucci, ‘‘Tornado Alley in the Plains Is an Outdated Concept. The South Is Even
+More Vulnerable, Research Shows,’’ The Washington Post, May 16, 2020 (https://
+www.washingtonpost.com/weather/2020/05/16/tornado-alley-flawed-concept/).
+6Supra no. 3.
+7‘‘The Enhanced Fujita Scale (EF Scale),’’ National Weather Service (https://
+www.weather.gov/oun/efscale).
+8‘‘Understand Tornado Alerts,’’ National Weather Service (https://www.weather.gov/safety/
+tornado-ww).
+9Jason Samenow, ‘‘The Problematic Confusion About Difference Between Tornado Watches
+and Warnings’’, The Washington Post, May 2, 2011 (https://www.washingtonpost.com/blogs/
+capital-weather-gang/post/confusion-about-difference-between-tornado-watch-and-tornado-warn-
+ings-thats-a-problem/2011/05/02/AFW53ZaF_blog.html).
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+3
+out the year caused significant damage to homes, businesses, and
+infrastructure nationwide.10
+On March 31, 2023, 65 tornadoes swept across the Midwest and
+South, killing at least 32 people. There was significant damage and
+loss of life reported in Illinois, Arkansas, Alabama, Tennessee, In-
+diana, Mississippi, and even Delaware.11 In Illinois, a theater roof
+caved in and left 1 person dead with 40 others injured. The severe
+storms also caused significant gas leaks and power outages.12
+IMPORTANCE OF MONITORING AND FORECASTING TORNADOES
+Alerting people before tornadoes cannot happen without moni-
+toring for suitable conditions that lead to formation and funnel
+touch down. In the South, tornadoes are often difficult to see due
+to rain, clouds, and nighttime occurrence.13 Overnight tornadoes
+are 2.5 times more likely to kill than daytime tornadoes.14 Ample
+warning time and effective public communications are critical since
+people may be asleep or unable to see funnel formation. The NOAA
+Storm Prediction Center (SPC) monitors tornado-prone regions and
+issues daily forecasts.15 Local National Weather Service (NWS)
+forecast offices issue tornado warnings that inform area residents.
+Meteorologists at NOAA use multiple computer models at once, re-
+ferred to as ensemble forecasting, to better predict weather.
+However, there have been delays between the time NWS issues
+warnings and when the public can access them. This decreases the
+time people have to act in the event of a tornado. In Iowa, on
+March 5, 2022, 17 tornadoes swept across the State, causing loss
+of life and destruction of property. There was up to a 7-minute
+delay in a tornado warning notification to the public due to soft-
+ware and hardware issues at the national office.16 Advances in tor-
+nado monitoring and forecasting can increase warning time, but
+only if notifications can reach the public on time.
+NOAA’s National Severe Storms Laboratory (NSSL) conducts re-
+search to better understand how tornados form and to improve
+forecasts and warnings.17 The NSSL is involved with the Warn-on-
+Forecast research program that seeks to improve warning lead
+times for severe weather and water events by referencing high-res-
+olution weather prediction models and high-performance com-
+puting.18 NSSL also utilizes unmanned aerial vehicles (UAVs) in
+their Targeted Observation by Radars and UAS of Supercells
+10NOAA National Centers for Environmental Information, Monthly Tornadoes Report for An-
+nual 2024, January 2025 (https://www.ncei.noaa.gov/access/monitoring/monthly-report/torna-
+does/202413).
+11Gwen Moritz et al., ‘‘At Least 32 Killed as Tornadoes Tear Through the Midwest and
+South,’’ The New York Times, updated April 2, 2023 (https://www.nytimes.com/2023/03/31/
+us/midwest-storms-flood-weather.html).
+12Ibid.
+13‘‘Severe Weather 101—Tornadoes: Tornado Forecasting,’’ NOAA National Severe Storms
+Laboratory (https://www.nssl.noaa.gov/education/svrwx101/tornadoes/forecasting/).
+14Matthew Cappucci, ‘‘Weather Service’s Tornado Warnings Were Delayed During Deadly
+Iowa Outbreak,’’ The Washington Post, March 6, 2022 (https://www.washingtonpost.com/weath-
+er/2022/03/06/nws-tornado-warning-dissemination-iowa/).
+15Supra no. 13.
+16Supra no. 14.
+17‘‘NSSL Research: Tornadoes,’’ NOAA National Severe Storms Laboratory (https://
+www.nssl.noaa.gov/research/tornadoes/).
+18‘‘Warn on Forecast,’’ NOAA National Severe Storms Laboratory (https://
+www.nssl.noaa.gov/projects/wof/).
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+4
+(TORUS) project.19 UAVs can safely observe features near the
+ground that may be key in tornado formation. To improve hazard
+communication to the public, NSSL has created the Forecasting a
+Continuum of Environmental Threats (FACETs) framework.20
+FACETs aims to modernize weather forecasting and warnings by
+incorporating evolving technology and developing user-specific,
+clear, and simple communication methods that will better serve the
+public during hazardous weather events.
+THE ROLE OF RESEARCH UNIVERSITIES IN IMPROVING TORNADO
+FORECASTS AND WARNINGS
+Improvements and advances in tornado forecasting and warnings
+would not be possible without the collaboration between Federal
+agencies and research universities. NOAA Cooperative Institutes
+are academic and nonprofit research institutions that conduct re-
+search supporting NOAA’s goals and strategic plans.21 This pro-
+gram includes 80 universities and research institutions in 33
+States, the District of Columbia, and U.S. territories. Additionally,
+NOAA Research Laboratories establish collaborative agreements
+with universities to develop joint research institutes that are hubs
+for leading research on atmospheric and earth sciences.22 At one
+NOAA Research Laboratory, the National Severe Storms Labora-
+tory (NSSL), the TORUS project is led by the University of Ne-
+braska-Lincoln in partnership with NOAA, the University of Okla-
+homa Cooperative Institute for Mesoscale Meteorological Studies,
+Texas Tech, and the University of Colorado Boulder.
+SUMMARY OF PROVISIONS
+S. 258 would do the following:
+• Establish or designate a hazard risk communication office to
+improve the communication of severe weather alerts, more
+clearly inform action, and increase the likelihood that the pub-
+lic takes appropriate action to prevent loss of life or property.
+• Require NOAA to prepare and submit an action plan for the
+national implementation of high-resolution probabilistic guid-
+ance for tornado forecasting and prediction.
+• Encourage NOAA to evaluate the current tornado rating sys-
+tem and make updates.
+• Require NOAA to coordinate with appropriate entities for post-
+storm assessments to optimize data collection, sharing, and in-
+tegration.
+• Require NOAA to provide training, resources, and access to
+professional counseling to support the mental health of employ-
+ees conducting post-storm assessments.
+LEGISLATIVE HISTORY
+S. 258, the TORNADO Act, was introduced on January 27, 2025,
+by Senator Wicker (for himself and Senators Hyde-Smith, Grassley,
+19‘‘TORUS: Targeted Observations by Radars and UAS of Supercells,’’ NOAA National Severe
+Storms Laboratory (https://www.nssl.noaa.gov/projects/torus/).
+20‘‘FACETs,’’ NOAA National Severe Storms Laboratory (https://www.nssl.noaa.gov/projects/
+facets/).
+21‘‘Cooperative Institutes,’’ NOAA (https://ci.noaa.gov/).
+22‘‘NOAA Research Laboratories,’’ NOAA (https://ci.noaa.gov/research-themes/noaa-research-
+laboratories/).
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+5
+Moran, Sheehy, Young, Cruz, Peters, and Warnock) and was re-
+ferred to the Committee on Commerce, Science, and Transportation
+of the Senate. Senator Blackburn is an additional cosponsor. On
+February 5, 2025, the Committee met in open Executive Session
+and, by voice vote, ordered S. 258 to be reported favorably with an
+amendment.
+118th Congress
+S. 1284, the TORNADO Act, was introduced on April 25, 2023,
+by Senator Wicker (for himself and Senators Cruz, Thune, Grass-
+ley, Hyde-Smith, Young, Blackburn, Boozman, and Peters) and was
+referred to the Committee on Commerce, Science, and Transpor-
+tation of the Senate. On May 10, 2023, the Committee met in open
+Executive Session and, by voice vote, ordered S. 1284 to be re-
+ported favorably with an amendment (in the nature of a sub-
+stitute). Senators Moran and Warnock were later added as cospon-
+sors.
+117th Congress
+S. 3817, the TORNADO Act, was introduced on March 10, 2022,
+by Senator Wicker (for himself and Senators Grassley, Hyde-Smith,
+Thune, and Ernst) and was referred to the Committee on Com-
+merce, Science, and Transportation of the Senate. On March 22,
+2022, the Committee met in open Executive Session and, by voice
+vote, ordered S. 3817 to be reported favorably with an amendment
+(in the nature of a substitute). Senators Duckworth, Cruz, and
+Peters were later added as cosponsors.
+ESTIMATED COSTS
+In accordance with paragraph 11(a) of rule XXVI of the Standing
+Rules of the Senate and section 403 of the Congressional Budget
+Act of 1974, the Committee provides the following cost estimate,
+prepared by the Congressional Budget Office:
+S. 258 would direct the National Oceanic and Atmospheric Ad-
+ministration (NOAA) to improve forecasting of and warnings about
+hazardous weather. The bill also would require NOAA to initiate
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+100.62RS
+ereh
+8 oilof
+tesffo
+tresnI
+
+6
+a pilot program for communicating tornado hazards. Finally, the
+bill would require the Government Accountability Office (GAO) to
+report on the National Weather Service’s information technology
+infrastructure.
+The costs of the legislation, detailed in Table 1, fall within budg-
+et function 300 (natural resources and environment).
+CBO assumes that S. 258 will be enacted in fiscal year 2025 and
+that the authorized and estimated amounts will be available in
+each year. Based on historical spending patterns, CBO estimates
+that implementing the bill would cost $74 million over the 2025–
+2030 period, as described below.
+VORTEX–USA: The bill would authorize the appropriation of $11
+million annually from 2025 through 2032 for VORTEX–USA
+(Verification of the Origins of Rotation in Tornadoes Experiment)
+to develop accurate and timely tornado forecasts, predictions, and
+warnings. In 2024, NOAA allocated $11 million to the project. CBO
+estimates that implementing this provision would cost $59 million
+over the 2025–2030 period and $28 million after 2030, assuming
+appropriation of the authorized amounts.
+Other Activities: Using information from NOAA, CBO estimates
+that the pilot program would require four full-time employees and
+one cooperative agreement with a research university at a total
+cost of $15 million over the 2025–2030 period. Most of that cost
+would be for the cooperative agreement. CBO also estimates that
+the GAO report would cost less than $500,000. Any related spend-
+ing would be subject to the availability of appropriated funds.
+TABLE 1.—ESTIMATED INCREASES IN SPENDING SUBJECT TO APPROPRIATION UNDER S. 258
+By fiscal year, millions of dollars—
+2025 2026 2027 2028 2029 2030 2 2 0 0 2 3 5 0 –
+VORTEX–USA
+Authorization..................................................................... 11 11 11 11 11 11 66
+Estimated Outlays ............................................................ 3 10 12 12 11 11 59
+Other Activities
+Estimated Authorization ................................................... 1 3 3 3 3 3 16
+Estimated Outlays ............................................................ 1 2 3 3 3 3 15
+Total Changes
+Estimated Authorization ................................................... 12 14 14 14 14 14 82
+Estimated Outlays ............................................................ 4 12 15 15 14 14 74
+The CBO staff contacts for this estimate are Aurora Swanson
+and Johnny Willing. The estimate was reviewed by H. Samuel
+Papenfuss, Deputy Director of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+REGULATORY IMPACT STATEMENT
+Because S. 258 does not create any new programs, the legislation
+will have no additional regulatory impact, and will result in no ad-
+ditional reporting requirements. The legislation will have no fur-
+ther effect on the number or types of individuals and businesses
+regulated, the economic impact of such regulation, the personal pri-
+vacy of affected individuals, or the paperwork required from such
+individuals and businesses.
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+7
+CONGRESSIONALLY DIRECTED SPENDING
+In compliance with paragraph 4(b) of rule XLIV of the Standing
+Rules of the Senate, the Committee provides that no provisions
+contained in the bill, as reported, meet the definition of congres-
+sionally directed spending items under the rule.
+SECTION-BY-SECTION ANALYSIS
+Section 1. Short title.
+This section would provide that the bill may be cited as the ‘‘Tor-
+nado Observations Research and Notification Assessment for De-
+velopment of Operations Act’’ or the ‘‘TORNADO Act’’.
+Section 2. Definitions.
+This section would define the terms ‘‘hazardous weather and
+water events’’, ‘‘historically Black college or university’’, ‘‘Indian
+Tribe’’, ‘‘institution of higher education’’, ‘‘National Laboratory’’,
+and ‘‘Under Secretary’’.
+Section 3. Hazardous weather and water event risk communication.
+This section would require maintaining and improving NOAA’s
+systems for hazardous weather and water event communications to
+prevent loss of life and property. It would create a hazard risk com-
+munication office (Office) to simplify and improve hazard commu-
+nications. The Office would develop a plan to enhance public haz-
+ard communications, create metrics to track their impact on public
+action, and periodically update the plan based on research and
+metrics. The Office would also implement recommendations tai-
+lored to vulnerable populations and based on social, behavioral,
+risk, and communication science, responding to the needs of Fed-
+eral, State, and local partners and various hazard types. To assess
+effectiveness, the Office would collaborate with Federal partners in-
+cluding National Laboratories and Cooperative Institutes, State
+and local governments, Indian Tribes, educational institutions, and
+media partners. Data from the Office would be accessible via a cen-
+tral repository system.
+This section would require NOAA to establish or maintain a haz-
+ard communication research program to modernize the creation of
+hazard information and responses to hazardous weather and water
+events. NOAA would coordinate with States, Indian Tribes, local-
+ities, and emergency managers on research priorities and results
+and establish a tornado hazard communication pilot program to
+evaluate the research.
+This section would require NOAA to maintain a central reposi-
+tory for NOAA data on hazardous weather and water event com-
+munications, including social, behavioral, risk, and economic re-
+search, and develop methods to prevent tampering with online haz-
+ard communications.
+Section 4. Warn-on-forecast strategic plan.
+This section would require the Under Secretary to prepare and
+submit to Congress a plan to develop and implement a high-resolu-
+tion probabilistic forecast and warning system for hazardous
+weather and water events no later than 1 year after enactment.
+The plan would include priorities for vulnerable populations, im-
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+8
+proved forecasting methodologies and modeling, and risk commu-
+nication research.
+Section 5. Tornado rating system.
+This section would require NOAA to evaluate the current rating
+system for tornado severity, determine if updates are needed, and
+implement necessary changes.
+Section 6. Post-storm surveys and assessments.
+This section would require NOAA to perform one or more post-
+storm surveys and assessments following significant hazardous
+weather or water events. Surveys would be coordinated with Fed-
+eral, State, local, and Tribal governments; institutions of higher
+education; and private entities to optimize data collection, sharing,
+and integration. Survey data would be made available to the public
+after storm surveys. NOAA would improve the post-storm survey,
+assessment methods, and data collection. Training, resources, and
+counseling would be available to staff conducting post-storm sur-
+veys and assessments.
+Section 7. VORTEX-USA program.
+This section would require the maintenance of a program for im-
+proving tornado forecasts and warnings. NOAA would be required
+to award research grants that improve risk communication and
+STEM related to tornadoes, prioritizing research completed at mi-
+nority-serving institutions. This section would authorize appropria-
+tions of $11 million for each of fiscal years 2025 through 2032.
+Section 8. Government Accountability Office report on hazardous
+weather and water alert dissemination.
+This section would require the Government Accountability Office
+(GAO) to create a report examining the information technology in-
+frastructure of NWS of NOAA. The report would focus on the struc-
+ture of the hazardous weather and water alert system and assess
+if alerts are disseminated to the public in a timely and efficient
+manner. GAO would be required to submit the report to the Com-
+mittee on Commerce, Science, and Transportation of the Senate
+and the Committee on Science, Space, and Technology of the House
+of Representatives no later than 540 days after enactment.
+Section 9. Elimination of certain report requirements.
+This section would eliminate an outdated report on information
+systems at NWS.
+CHANGES IN EXISTING LAW
+In compliance with paragraph 12 of rule XXVI of the Standing
+Rules of the Senate, changes in existing law made by the bill, as
+reported, are shown as follows (existing law proposed to be omitted
+is enclosed in black brackets, new material is printed in italic, ex-
+isting law in which no change is proposed is shown in roman):
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+9
+WEATHER RESEARCH AND FORE-
+CASTING INNOVATION ACT OF 2017
+* * * * * * *
+[15 U.S.C. 8513]
+SEC. 103. øTORNADO WARNING IMPROVEMENT AND EXTENSION PRO-
+GRAM¿ VORTEX-USA.
+(a) IN GENERAL.—The Under Secretary, in collaboration with the
+United States weather industry and academic partners, shall øes-
+tablish a tornado warning improvement and extension program¿
+maintain a program for rapidly improving tornado forecast and
+warnings.
+(b) * * *
+(c) * * *
+(d) WARNINGS.—The program required by subsection (a) shall—
+(1) continue the research necessary to develop and deploy
+probabilistic weather forecast guidance technology for torna-
+does; and
+(2) incorporate, as appropriate, hazard communication re-
+search.
+(e) RESEARCH.—
+(1) IN GENERAL.—The Under Secretary shall, through the pro-
+gram required by subsection (a), award grants for research that
+focuses on improving—
+(A) the social, behavioral, risk, communication, and eco-
+nomic sciences related to vulnerabilities, risk communica-
+tion, and delivery of information critical for saving lives
+and property related to tornadoes; and
+(B) the physical sciences, engineering, and technology re-
+lated to tornado formation, the interactions of tornadoes
+with the built and natural environment, and the inter-
+action of tornadoes and hurricanes.
+(2) PRIORITY INSTITUTIONS.—
+(A) IN GENERAL.—In awarding grants under paragraph
+(1), the Under Secretary may prioritize awarding grants to
+minority-serving institutions.
+(B) DEFINITION OF MINORITY-SERVING INSTITUTION.—In
+this paragraph, the term ‘‘minority-serving institution’’
+means—
+(i) a part B institution (as defined in section 322 of
+the Higher Education Act of 1965 (20 U.S.C. 1061));
+(ii) a Hispanic-serving institution (as defined in sec-
+tion 502(a) of that Act (20 U.S.C. 1101a(a)));
+(iii) a Tribal College or University (as defined in sec-
+tion 316(b) of that Act (20 U.S.C. 1059c(b)));
+(iv) an Alaska Native-serving institution (as defined
+in section 317(b) of that Act (20 U.S.C. 1059d(b)));
+(v) a Native Hawaiian-serving institution (as defined
+in section 317(b) of that Act (20 U.S.C. 1059d(b)));
+(vi) a Predominantly Black Institution (as defined in
+section 318(b) of that Act (20 U.S.C. 1059e(b)));
+(vii) an Asian American and Native American Pa-
+cific Islander-serving institution (as defined in section
+320(b) of that Act (20 U.S.C. 1059g(b))); or
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00011 Fmt 6659 Sfmt 6603 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+10
+(viii) a Native American-serving, nontribal institu-
+tion (as defined in section 319(b) of that Act (20 U.S.C.
+1059f(b))).
+ø(d)¿(f) PROGRAM PLAN.—Not later than 180 days after the date
+of the enactment of this Act, the Assistant Administrator for Oce-
+anic and Atmospheric Research, in coordination with the Director
+of the National Weather Service, shall develop a program plan that
+details the specific research, development, and technology transfer
+activities, as well as corresponding resources and timelines, nec-
+essary to achieve the program goal.
+ø(e)¿(g) ANNUAL BUDGET FOR PLAN SUBMITTAL.—Following com-
+pletion of the plan, the Under Secretary, acting through the Assist-
+ant Administrator for Oceanic and Atmospheric Research and in
+coordination with the Director of the National Weather Service,
+shall, not less frequently than once each year, submit to Congress
+a proposed budget corresponding with the activities identified in
+the plan.
+(h) AUTHORIZATION OF APPROPRIATIONS.—There is authorized to
+be appropriated to the Under Secretary to carry out this section
+$11,000,000 for each of fiscal years 2025 through 2032, of which not
+less than $2,000,000 each fiscal year shall be used for grants
+awarded under subsection (e).
+* * * * * * *
+[15 U.S.C. 8543]
+SEC. 8543. OFFICE OF OCEANIC AND ATMOSPHERIC RESEARCH AND
+NATIONAL WEATHER SERVICE EXCHANGE PROGRAM.
+(a) IN GENERAL.—The Assistant Administrator for Oceanic and
+Atmospheric Research and the Director of the National Weather
+Service may establish a program to detail Office of Oceanic and At-
+mospheric Research personnel to the National Weather Service and
+National Weather Service personnel to the Office of Oceanic and
+Atmospheric Research.
+(b) * * *
+(c) * * *
+ø(d) ANNUAL REPORT.—Not less frequently than once each year,
+the Under Secretary shall submit to the Committee on Commerce,
+Science, and Transportation of the Senate and the Committee on
+Science, Space, and Technology of the House of Representatives a
+report on participation in such program and shall highlight any in-
+novations that come from this interaction.¿
+* * * * * * *
+NATIONAL OCEANIC AND ATMOS-
+PHERIC ADMINISTRATION AUTHOR-
+IZATION ACT OF 1992
+* * * * * * *
+[15 U.S.C. 1537; Public Law 102–567; 106 Stat. 4274]
+SEC. 106. DATA AND INFORMATION SYSTEMS.
+(a) * * *
+(b) * * *
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+11
+ø(c) NEEDS ASSESSMENT FOR DATA MANAGEMENT, ARCHIVAL, AND
+DISTRIBUTION.—(1) Not later than 12 months after the date of en-
+actment of this Act and at least biennially thereafter, the Secretary
+of Commerce shall complete an assessment of the adequacy of the
+environmental data and information systems of the National Oce-
+anic and Atmospheric Administration. In conducting such an as-
+sessment, the Secretary shall take into consideration the need to—
+ø(A) provide adequate capacity to manage, archive, and dis-
+seminate environmental data and information collected and
+processed, or expected to be collected and processed, by the Na-
+tional Oceanic and Atmospheric Administration and other ap-
+propriate departments and agencies;
+ø(B) establish, develop, and maintain information bases, in-
+cluding necessary management systems, which will promote
+consistent, efficient, and compatible transfer and use of data;
+ø(C) develop effective interfaces among the environmental
+data and information systems of the National Oceanic and At-
+mospheric Administration and other appropriate departments
+and agencies;
+ø(D) develop and use nationally accepted formats and stand-
+ards for data collected by various national and international
+sources; and
+ø(E) integrate and interpret data from different sources to
+produce information that can be used by decisionmakers in de-
+veloping policies that effectively respond to national and global
+environmental concerns.
+ø(2) Not later than 12 months after the date of enactment of this
+Act and biennially thereafter, the Secretary of Commerce shall de-
+velop and submit to the Committee on Commerce, Science, and
+Transportation of the Senate and the Committee on Science, Space,
+and Technology of the House of Representatives a comprehensive
+plan, based on the assessment under paragraph (1), to modernize
+and improve the environmental data and information systems of
+the National Oceanic and Atmospheric Administration. The report
+shall—.
+ø(A) set forth modernization and improvement objectives for
+the 10-year period beginning with the year in which the plan
+is submitted, including facility requirements and critical new
+technological components that would be necessary to meet the
+objectives set forth;
+ø(B) propose specific agency programs and activities for im-
+plementing the plan;
+ø(C) identify the data and information management, archi-
+val, and distribution responsibilities of the National Oceanic
+and Atmospheric Administration with respect to other Federal
+departments and agencies and international organizations, in-
+cluding the role of the National Oceanic and Atmospheric Ad-
+ministration with respect to large data systems like the Earth
+Observing System Data and Information System; and
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+12
+ø(D) provide an implementation schedule and estimate fund-
+ing levels necessary to achieve modernization and improve-
+ment objectives.¿
+* * * * * * *
+Æ
+VerDate Sep 11 2014 00:45 Jun 09, 2025 Jkt 059010 PO 00000 Frm 00014 Fmt 6659 Sfmt 6611 E:\HR\OC\SR026.XXX SR026
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD

@@ -1,0 +1,2136 @@
+Title: JUNE5, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JUNE5, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 35
+Source: documents - H. Rept. 119-143
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–143
+VETERANS 2ND AMENDMENT PROTECTION ACT
+the Union and ordered to be printed
+Mr. BOST, from the Committee on Veterans’ Affairs,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 1041]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Veterans’ Affairs, to whom was referred the
+bill (H.R. 1041) to amend title 38, United States Code, to prohibit
+the Secretary of Veterans Affairs from transmitting certain infor-
+mation to the Department of Justice for use by the national instant
+criminal background check system, having considered the same, re-
+ports favorably thereon with amendments and recommends that
+the bill as amended do pass.
+CONTENTS
+Page
+Amendment .............................................................................................................. 2
+Purpose and Summary ............................................................................................ 3
+Background and Need for Legislation .................................................................... 3
+Hearings ................................................................................................................... 7
+Subcommittee Consideration ..................................................................................
+Committee Consideration ........................................................................................ 8
+Committee Votes ...................................................................................................... 9
+Committee Oversight Findings ............................................................................... 21
+Statement of General Performance Goals and Objectives .................................... 21
+Earmarks and Tax and Tariff Benefits .................................................................. 21
+Committee Cost Estimate ....................................................................................... 21
+Budget Authority and Congressional Budget Office Estimate ............................ 21
+Federal Mandates Statement ................................................................................. 22
+Advisory Committee Statement .............................................................................. 22
+Applicability to Legislative Branch ........................................................................ 22
+59–006
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+Statement on Duplication of Federal Programs .................................................... 22
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 23
+Changes in Existing Law Made by the Bill as Reported ...................................... 23
+Minority Views ......................................................................................................... 26
+The amendments are as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Veterans 2nd Amendment Protection Act’’.
+SEC. 2. PROHIBITION ON SECRETARY OF VETERANS AFFAIRS TRANSMITTAL OF CERTAIN IN-
+FORMATION TO THE DEPARTMENT OF JUSTICE FOR USE BY THE NATIONAL IN-
+STANT CRIMINAL BACKGROUND CHECK SYSTEM.
+(a) IN GENERAL.—Chapter 55 of title 38, United States Code, is amended by in-
+serting after section 5501A the following new section:
+‘‘§5501B. Prohibition on transmittal of certain information to the Depart-
+ment of Justice for use by the national instant criminal back-
+ground check system
+‘‘The Secretary may not transmit to any entity in the Department of Justice, for
+use by the national instant criminal background check system established under
+
+Section 4:
+section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901; Public
+Law 103–159; 107 Stat. 1541), personally identifiable information of a beneficiary,
+solely on the basis of a determination by the Secretary to pay benefits to a fiduciary
+for the use and benefit of the beneficiary under section 5502 of this title, without
+the order or finding of a judge, magistrate, or other judicial authority of competent
+jurisdiction that such beneficiary is a danger to themselves or others.’’.
+(b) CLERICAL AMENDMENT.—The table of sections at the beginning of chapter 55
+of such title is amended by inserting after the item relating to section 5501A the
+following new item:
+‘‘5501B. Prohibition on transmittal of certain information to the Department of Justice for use by the national
+instant criminal background check system.’’.
+SEC. 3. NOTIFICATION OF LACK OF BASIS FOR THE SECRETARY OF VETERANS AFFAIRS TO
+HAVE TRANSMITTED CERTAIN INFORMATION TO THE DEPARTMENT OF JUSTICE
+FOR USE BY THE NATIONAL INSTANT CRIMINAL BACKGROUND CHECK SYSTEM.
+(a) IN GENERAL.—Such chapter (as amended by section 2) is further amended by
+inserting after section 5501B the following new section:
+‘‘§5501C. Notification of lack of basis for transmittal of certain information
+to the Department of Justice for use by the national instant crimi-
+nal background check system
+‘‘The Secretary shall, within 30 days of the enactment of the Veterans 2nd
+Amendment Protection Act, and in accordance with section 103(e)(1)(D) of the Brady
+Handgun Violence Prevention Act (34 U.S.C. 40901(e)(1)(D); Public Law 103–159;
+107 Stat. 1541), notify the Attorney General that the basis for the transmittal, on
+or after November 30, 1993, by the Secretary, of personally identifiable information
+of a beneficiary, solely on the basis of a determination by the Secretary to pay bene-
+fits to a fiduciary for the use and benefit of the beneficiary under section 5502 of
+this title, to any entity in the Department of Justice, for use by the national instant
+criminal background check system established under section 103 of the Brady Hand-
+gun Violence Prevention Act (34 U.S.C. 40901; Public Law 103–159; 107 Stat. 1541),
+does not apply, or no longer applies.’’.
+(b) CLERICALAMENDMENT.—The table of sections at the beginning of such chapter
+(as amended by section 2) is further amended by inserting after the item relating
+to section 5501B the following new item:
+‘‘5501C. Notification of lack of basis for transmittal of certain information to the Department of Justice for use
+by the national instant criminal background check system.’’.
+SEC. 4. DETERMINATION BY THE SECRETARY OF VETERANS AFFAIRS THAT A PERSON IS
+MENTALLY INCOMPETENT IS INSUFFICIENT TO TREAT SUCH PERSON AS A MEN-
+TAL DEFECTIVE.
+(a) IN GENERAL.—Such chapter (as amended by sections 2 and 3) is further
+amended by inserting after section 5501C the following new section:
+‘‘§5501D. Determination of mental incompetence is insufficient basis to
+treat a person as a mental defective
+‘‘The Secretary shall not treat a person as having been adjudicated as a mental
+defective solely on the basis that the Secretary has determined that such person—
+VerDate Sep 11 2014 04:08 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+‘‘(1) is mentally incompetent under section 3.353 of title 38, Code of Federal
+Regulations (or successor regulation); or
+‘‘(2) requires a fiduciary under section 5502 of this title.’’.
+(b) CLERICALAMENDMENT.—The table of sections at the beginning of such chapter
+(as amended by sections 2 and 3) is further amended by inserting after the item
+relating to section 5501C the following new item:
+‘‘5501D. Determination of mental incompetence is insufficient basis to treat a person as a mental defective’’.
+Amend the title so as to read:
+A bill to amend title 38, United States Code, to prohibit the Sec-
+retary of Veterans Affairs from transmitting certain information to
+the Department of Justice for use by the national instant criminal
+background check system, and for other purposes.
+PURPOSE AND SUMMARY
+H.R. 1041, the ‘‘Veterans 2nd Amendment Protection Act,’’ was
+introduced by Representative Mike Bost of Illinois on February 6,
+
+Section 5:
+2025. The bill, as amended, would prohibit the Secretary of the De-
+partment of Veterans Affairs (VA) from transmitting the name and
+information of a veteran or a beneficiary of VA benefits to the Na-
+tional Instant Criminal Background Check System (NICS) solely on
+the basis that VA has appointed them a fiduciary to help them
+manage their VA benefits, unless there is an order or a finding of
+a judicial authority that such veteran or beneficiary is a danger to
+themselves or others. It would also require VA to notify the Attor-
+ney General that the basis for all previous reporting of a veteran
+to NICS solely because they were appointed a fiduciary, does not
+apply or no longer applies, thereby activating the F.B.I.’s statutory
+duty to update the NICS list accordingly.
+BACKGROUND AND NEED FOR LEGISLATION
+
+Section 6:
+Section 1: Short Title
+This Act may be cited as the ‘‘Veterans 2nd Amendment Protec-
+tion Act.’’
+
+Section 7:
+Section 2: Prohibition on Secretary of Veterans Affairs Transmittal
+of Certain Information to the Department of Justice for Use by
+the National Instant Criminal Background Check System
+The Gun Control Act of 1968 (Pub. L. 90–617) (Gun Control Act)
+makes it illegal for individuals ‘‘adjudicated as a mental defective’’
+to ship, transport, possess, or receive firearms and ammunition.
+The Brady Handgun Violence Prevention Act (Pub. L. 103–159)
+(Brady Act), enacted on November 30, 1993, established the Na-
+tional Instant Criminal Background Check System (NICS), a com-
+puter database used to store information about individuals who are
+not eligible to transfer, receive, or possess firearms and ammuni-
+tion. The Brady Act requires federally licensed gun dealers to use
+NICS to conduct a background check on any person attempting to
+purchase a firearm. State and federal agencies are required to re-
+port to the Department of Justice (DOJ), the name and information
+of individuals who have been ‘‘adjudicated as a mental defective’’
+for inclusion in NICS.1
+VA appoints fiduciaries for veterans and other beneficiaries of
+VA benefits, who are unable to manage their VA benefits on their
+1NICS Improvement Amendments Act of 2007 (Pub. L. 110–180); 18 U.S.C. § 922.
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+own because of a disability. Fiduciaries receive payments of VA
+funds on behalf of those beneficiaries and disburse those funds for
+the beneficiaries’ care and support. VA will appoint a fiduciary for
+a person who is determined by a VA career employee in the Vet-
+erans Benefits Administration (VBA) to be ‘‘mentally incompetent.’’
+VA defines ‘‘mentally incompetent’’ in its regulation 38 C.F.R.
+
+Section 8:
+§3.353(a) as a person ‘‘who because of injury or disease lacks the
+mental capacity to contract or to manage his or her own affairs, in-
+cluding disbursement of funds without limitation.’’
+Congress did not define the term ‘‘adjudicated as a mental defec-
+tive’’ in the Gun Control Act or the Brady Act. The Bureau of Alco-
+hol, Tobacco, Firearms and Explosives (ATF) promulgated a regula-
+tion, which interprets the term ‘‘adjudicated as a mental defective’’
+to mean ‘‘[a] determination by a court, board, commission, or other
+lawful authority that a person, as a result of marked subnormal in-
+telligence, or mental illness, incompetency, condition, or disease: (1)
+Is a danger to himself or to others; or (2) Lacks the mental capacity
+to contract or manage his own affairs.’’ 27 C.F.R. §478.11. VA and
+ATF have concluded that a person who has been determined by VA
+to be ‘‘mentally incompetent’’ has been ‘‘adjudicated as a mental de-
+fective.2
+As a result, for decades VA has reported the names and informa-
+tion of veterans and other VA beneficiaries whom a VA bureaucrat
+has determined to be ‘‘mentally incompetent’’ without a ruling by
+a judge or magistrate, to the DOJ for inclusion in NICS. The deter-
+mination of whether a veteran is ‘‘mentally incompetent’’ is made
+by a VA bureaucrat based on a statement from a medical profes-
+sional that the veteran is unable to handle their VA compensation
+because of a disability. The Committee understands that these
+statements do not indicate one way or the other whether the per-
+son’s disability causes them to be a danger to themselves or others.
+In other words, for decades VA bureaucrats have stripped over
+250,000 veterans of their Constitutional right to bear arms simply
+because they need assistance from a fiduciary to handle their VA
+financial compensation benefits.3
+Further, before VA sends their name to NICS, a veteran can only
+dispute VA’s proposed determination of mental incompetency under
+38 C.F.R. 3.101 and 3.353 by proving that they are able to handle
+their finances. A veteran receiving VA compensation may or may
+not wish to receive assistance from a VA-appointed fiduciary to
+help them manage their compensation, but that is a separate issue
+from whether they may wish to retain their Constitutional right to
+bear arms. Only after VA has already determined them incom-
+petent to handle their VA financial benefits, does a veteran have
+a separate opportunity to petition VA for relief from inclusion in
+NICS. The burden falls on the veteran to prove to a VA bureaucrat
+that they are not a danger to themselves or others.4 The Com-
+2 ATF, ‘‘Definitions for the Categories of Persons Prohibited from Receiving Firearms,’’ 62
+Federal Register 34,637, 34,637 (June 27, 1997).
+3Active Entries in the NICS Indices as of December 31, 2024, https://www.fbi.gov/file-reposi-
+tory/cjis/download-active-entries-in-the-nics-indices-as-of-december-31-2023.pdf/view ; Active En-
+tries in the NICS Indices as of January 3, 2023, https://www.fbi.gov/file-repository/cjis/active-
+entries-in-the-nics-indices-by-state.pdf/view.
+4Statement of Jordan B. Cohen, Congressional Research Service, (January 23, 2025), https://
+docs.house.gov/meetings/VR/VR09/20250123/117839/HHRG-119-VR09-Wstate-CohenJ-
+
+Section 9:
+20250123.pdf; Congressional Research Service, Gun Control, Veterans’ Benefits, and Mental In-
+competency Determinations (July 14, 2023), https://crsreports.congress.gov/product/pdf/R/R47626.
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+5
+mittee is concerned that a veteran who is appointed a fiduciary is
+not provided the same Constitutional due process rights as a civil-
+ian, who must be found to be a danger to themself or others by a
+judge, in a court of law, before their name is transmitted to NICS.
+The Committee understands that VA’s reporting practice discour-
+ages veterans from seeking mental health care from VA. As Patrick
+Murray, Director, National Legislative Service, Veterans of Foreign
+Wars of the United States (VFW) testified: ‘‘The VFW hears from
+veterans that a negative consequence of VA’s current practice is
+that they are hesitant to seek mental health care because they fear
+their firearms will be taken away. This has created a significant
+stigma surrounding mental health and has created a barrier to
+care for many.’’5
+The Committee understands that VA’s NICS reporting practice
+perpetuates the harmful stigma that disabled veterans are auto-
+matically dangerous. The Committee also understands that no
+study has been conducted on veterans with fiduciaries to determine
+whether they can be presumed to be dangerous to themselves or
+others.6 Therefore, there is no data to support any presumption
+that disabled veterans who need help from a fiduciary to manage
+their finances are at greater risk of firearm suicide or violence. In
+a May 5, 2025, letter to Chairman Bost and Ranking Member
+Takano from Jennifer Mathis, Deputy Director of the Bazelon Cen-
+ter for Mental Health Law, Ms. Mathis stated:
+The Bazelon Center for Mental Health Law supports the
+amended version of H.R. 1041 . . . . [VA’s NICS reporting
+practice] is inconsistent with the statute it purports to im-
+plement, has no evidentiary justification, wrongly perpet-
+uated inaccurate stereotypes of individuals with mental
+disabilities as dangerous, and if continued, would divert al-
+ready scarce VA resources away from efforts to address the
+agency’s critical mission.
+Ms. Mathis further stated:
+‘‘[T]he practice is an ineffective strategy to address gun
+violence, devoid of any evidentiary basis, targeting individ-
+uals with fiduciaries as potential perpetrators of gun vio-
+lence despite the lack of any connection between a person’s
+need for assistance managing V.A. benefits and dangerous-
+ness or propensity to engage in gun violence . . . . [T]he
+practice perpetuates the prevalent false association of
+mental health disabilities with violence and undermines
+important efforts to promote community integration and
+employment of people with disabilities.
+5Statement of Patrick Murray, Veterans of Foreign Wars of the United States (February 25,
+2025), https://docs.house.gov/meetings/VR/VR00/20250225/117899/HHRG-119-VR00-Wstate-
+MurrayP-20250225.pdf.
+6There is only one study that purports to find that veterans with fiduciaries are at higher
+risk of firearm suicide, but this study did not actually study any veterans with fiduciaries. See
+Jeffrey Swanson, et al., Informing Federal Policy on Firearm Restrictions for Veterans with Fidu-
+ciaries: Risk Indicators in the Post-Deployment Mental Health Study, 45 Admin. and Policy in
+Mental Health and Mental Health Services Rsch. 673, 673–83 (2018) (admitting that ‘‘[a] limita-
+tion of the study is that its outcome measures . . . do not directly assess the risk of misusing
+a firearm, which is the ultimate issue for NICS reporting’’; and admitting that ‘‘[t]his study was
+also limited with regard to its sample and indirect measure of fiduciary need’’).
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+6
+To address this issue, this section would prohibit VA from trans-
+mitting information to the DOJ for use by NICS of a person solely
+because VA has determined that a person requires a fiduciary to
+help them manage their VA benefits, without an order or finding
+of a judge, magistrate, or other judicial authority, that the person
+is a danger to themselves or others.
+The Committee believes that this section is critical to protect the
+Constitutional due process rights of veterans. This change would
+also ensure that veterans are not subject to different rules and
+NICS reporting standards compared to civilians simply because
+those veterans require a fiduciary to help them manage their VA
+financial compensation benefits. This change would remove a bar-
+rier to veterans seeking VA mental health care. This section would
+also be a critical step towards removing the erroneous stigma that
+disabled veterans are automatically dangerous.
+
+Section 10:
+Section 3: Notification of Lack of Basis for the Secretary of Veterans
+Affairs to Have Transmitted Certain Information to the Depart-
+ment of Justice for use by the National Instant Criminal Back-
+ground Check System
+As of December 31, 2024, roughly 7.7 million individuals are in
+NICS because they were ‘‘adjudicated as a mental defective’’ by
+state and territorial courts. On the other hand, roughly 206,000 in-
+dividuals are in NICS pursuant to reporting by federal agencies. Of
+that number, roughly 200,000 of those individuals are on NICS
+pursuant to VA reporting. Thus, 97% of all the individuals included
+in NICS due to federal agency reporting are from VA. As discussed
+above, VA erroneously interpreted the statutory term ‘‘adjudicated
+as a mental defective’’ as including persons who satisfy VA’s regu-
+latory definition of ‘‘mentally incompetent’’ under 38 C.F.R.
+
+Section 11:
+§3.353(a).
+To address the hundreds of thousands of VA beneficiaries have
+been already added to NICS solely because they require a fidu-
+ciary, this section would require VA to notify the Attorney General,
+in accordance with the notification requirement in 34 U.S.C.
+
+Section 12:
+§40901(e)(1)(D) that the basis for reporting beneficiaries to NICS
+since November 30, 1993, solely because they have a fiduciary, does
+not apply or no longer applies. This notification would require the
+F.B.I. to update the NICS list accordingly.
+The Committee believes that this section is important because it
+would remedy the past due process and Second Amendment rights
+violations of hundreds of thousands of veterans already in NICS
+solely because they required a fiduciary. Veterans on the NICS list
+solely for this reason would be removed, thereby restoring their
+Constitutional right to purchase and possess firearms to protect
+themselves and their families. Veterans on the NICS list for other
+reasons—i.e., because another federal agency or state or territorial
+court found them to be a danger to themselves or others and ‘‘adju-
+dicated them as a mental defective’’—would not be removed from
+the NICS list under this section.
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+7
+
+Section 13:
+Section 4: Determination by the Secretary of Veterans Affairs that
+a Person is Mentally Incompetent is Insufficient to Treat Such
+Person as a Mental Defective
+As discussed above, VA erroneously interpreted Congress’s intent
+when it interpreted the statutory ‘‘adjudicated as a mental defec-
+tive’’ as including persons who satisfy VA’s regulatory definition of
+‘‘mentally incompetent’’ under 38 C.F.R. §3.353(a) and who there-
+fore require a fiduciary to help them manage their finances.
+To address this issue, this section would prohibit the Secretary
+from treating a person as having been ‘‘adjudicated as a mental de-
+fective’’ solely on the basis such person meets the definition of
+‘‘mentally incompetent’’ under 38 C.F.R. §3.353(a) and requires a
+fiduciary.
+The Committee believes that this section is critical to ensure that
+statutory category of ‘‘adjudicated as a mental defective’’ is never
+again misinterpreted by VA as including VA benefits beneficiaries
+who simply require a fiduciary to help them manage their VA bene-
+fits.
+HEARINGS
+On February 25, 2025, the Committee on Veterans Affairs held
+a legislative hearing on H.R. 1041 and other bills that were pend-
+ing before the committee.
+The following witnesses testified:
+Ms. Beth Murphy, Acting Principal Deputy Undersecretary
+for Benefits, Veterans Benefits Administration, U.S. Depart-
+ment of Veterans Affairs; Ms. Tracey Therit, Chief Human
+Capitol Officer, Office of Human Resources and Administra-
+tion, Operations, Security, and Preparedness, Veterans Health
+Administration, U.S. Department of Veterans Affairs; Dr.
+Sachin Yende, Chief Medical Officer, Integrated Veteran Care,
+Veterans Health Administration, U.S. Department of Veterans
+Affairs; Mr. Jim Whaley, Chief Executive Officer, Mission Roll
+Call; Mr. Patrick Murray, Director, National Legislative Serv-
+ice, Veterans of Foreign Wars of the U.S.; and The Honorable
+Max Rose, Senior Advisor, Vet Voice Foundation.
+The following individuals and organizations submitted state-
+ments for the record: American Federation of Government Em-
+ployees, AFL–CIO (AFGE); Disabled American Veterans
+(DAV); Whistleblowers of America (WA); Veterans Healthcare
+Policy Institute (VHPI); National Association of Gun Rights
+(NAGR); National Association of Veterans’ Research and Edu-
+cation Foundations (NAVREF); Concerned Veterans for Amer-
+ica (CVA); and Paralyzed Veterans of America (PVA).
+Additionally, a Joint-Letter was offered by the following or-
+ganizations: American Federation of Labor and Congress of In-
+dustrial Organizations (AFL–CIO); American Federation of
+Government Employees (AFGE); American Federation of State,
+County, and Municipal Employees (AFSCME); American Fed-
+eration of Teachers (AFT); International Brotherhood of Team-
+sters (IBT); International Association of Firefighters (IAFF);
+Laborers’ International Union of North America (LIUNA); Na-
+tional Association of Government Employees, SEIU (NAGE);
+National Federation of Federal Employees (NFFE); National
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+8
+Nurses United (NNU); National Veterans Affairs Council,
+AFGE (NVAC); and the Service Employees International Union
+(SEIU).
+Ranking Member Takano submitted the following documents
+for the record: A letter to The Honorable Morgan Luttrell and
+The Honorable Morgan McGarvey from Everytown for Gun
+Safety; a letter to The Honorable Mike Bost and The Honor-
+able Mark Takano from the National Fraternal Order of Police.
+COMMITTEE CONSIDERATION
+On May 6, 2025, the full Committee met in an open markup ses-
+sion with a quorum being present, and ordered H.R. 1041, as
+amended, be reported favorably to the House of Representatives by
+a recorded vote of 13 ayes, 11 noes. During consideration of the bill,
+the following amendments were considered:
+An amendment in the nature of a substitute to H.R. 1041 of-
+fered by Chairman Bost to require VA to notify the Attorney
+General that the basis for all previous reporting of veterans to
+NICS, solely because they have a fiduciary, does not apply or
+no longer applies. This would also prohibit the Secretary of
+Veterans Affairs from treating any veteran as ‘‘a person adju-
+dicated as amental defective,’’ solely because that veteran has
+a fiduciary. This amendment in the nature of a substitute was
+agreed to by a recorded vote of 13 ayes, 11 noes.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1041 was offered by Representative Morrison to
+provide the following exceptions to the NICS reporting prohibi-
+tion under the bill: exceptions for a beneficiary who has been
+diagnosed with schizophrenia, a mental illness with psychotic
+features, dementia of any type, Alzheimer’s disease,
+frontotemporal lobar degeneration, Prion disease, advanced
+Parkinson’s disease, and Huntington’s disease. The amend-
+ment was not agreed to by a recorded vote of 11 ayes, 13 noes.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1041 was offered by Ranking Member Takano
+to replace sections two through four of the amendment in the
+nature of a substitute, with provisions that would require VA,
+when determining whether a veteran is mentally competent to
+handle their VA funds, to make an additional determination as
+to whether the veteran is a danger to themselves or others.
+Such determination would be based on opinion(s) from a li-
+censed mental health professional, and if it is determined that
+the veteran is not a danger to themselves or others, VA would
+be prohibited from submitting their name to NICS solely be-
+cause the veteran is unable to manage their VA funds. Fur-
+ther, if it is determined that a beneficiary is not a danger to
+themselves or others, the amendment would allow VA to still
+determine that a beneficiary is not mentally competent to man-
+age their VA benefits. The amendment was not agreed to by
+a recorded vote of 11 ayes, 13 noes.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1041 was offered by Representative McGarvey
+to require the U.S. Court of Appeals for Veterans Claims
+(CAVC) be the judicial body that must issue an order or find-
+ing that the person is a danger to themselves or others. The
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+9
+amendment would also require the CAVC to establish expe-
+dited procedures for making such orders or findings. The
+amendment was not agreed to by a recorded vote of 11 ayes,
+13 noes.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1041 was offered by Representative Morrison to
+prohibit VA from sending names for removal from NICS until
+after the VA Secretary submits to Congress certification in
+writing that the underlying legislation’s implementation will
+not lead to an increase in the rate of death by suicide using
+a firearm among veterans who have VA-assigned fiduciaries.
+The amendment was not agreed to by a recorded vote of 11
+ayes, 13 noes.
+A motion by Representative Bergman to report H.R. 1041, as
+amended, favorably to the House of Representatives was agreed to
+by a recorded vote of 13 ayes, 11 noes.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee to list the recorded votes on the mo-
+tion to report the legislation and amendments thereto.
+An amendment in the nature of a substitute to H.R. 1041 offered
+by Chairman Bost was agreed to by a recorded vote of 13 ayes, 11
+noes. The names of Members voting for and against follow:
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+10
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 14:
+100.341RH
+ereh
+11
+oilof
+tesffo
+tresnI
+11
+An amendment to the amendment in the nature of a substitute
+to H.R. 1041 offered by Representative Morrison was not agreed to
+by a recorded vote of 13 ayes, 11 noes. The names of Members vot-
+ing for and against follow:
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+12
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 15:
+200.341RH
+ereh
+31
+oilof
+tesffo
+tresnI
+13
+An amendment to the amendment in the nature of a substitute
+to H.R. 1041 offered by Ranking Member Takano was not agreed
+to by a recorded vote of 11 ayes, 13 noes. The names of Members
+voting for and against follow:
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+14
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 16:
+300.341RH
+ereh
+51
+oilof
+tesffo
+tresnI
+15
+An amendment to the amendment in the nature of a substitute
+to H.R. 1041 offered by Representative McGarvey was not agreed
+to by a recorded vote of 11 ayes, 13 noes. The names of Members
+voting for and against follow:
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+16
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 17:
+400.341RH
+ereh
+71
+oilof
+tesffo
+tresnI
+17
+A second amendment to the amendment in the nature of a sub-
+stitute to H.R. 1041 offered by Representative Morrison was not
+agreed to by a recorded vote of 11 ayes, 13 noes. The names of
+Members voting for and against follow:
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00017 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+18
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00018 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 18:
+500.341RH
+ereh
+91
+oilof
+tesffo
+tresnI
+19
+Final passage of H.R. 1041, as amended, was agreed to by a re-
+corded vote of 13 ayes, 11 noes. The names of Members voting for
+and against follow:
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00019 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+20
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00020 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 19:
+600.341RH
+ereh
+12
+oilof
+tesffo
+tresnI
+21
+COMMITTEE OVERSIGHT FINDINGS
+In compliance with clause 3(c)(1) of rule XIII and clause (2)(b)(1)
+of rule X of the Rules of the House of Representatives, the Commit-
+tee’s oversight findings and recommendations are reflected in the
+descriptive portions of this report.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+In accordance with clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee’s performance goals and
+objectives of H.R. 1041, as amended, are to ensure that veterans
+and their families can access their VA benefits without any viola-
+tion of their Constitutional rights and that prior violations of their
+Constitutional rights are remedied.
+EARMARKS AND TAX AND TARIFF BENEFITS
+H.R. 1041, as amended, does not contain any Congressional ear-
+marks, limited tax benefits, or limited tariff benefits as defined in
+clause 9 of rule XXI of the Rules of the House of Representatives.
+COMMITTEE COST ESTIMATE
+The Committee adopts as its own the Congressional Budget Of-
+fice cost estimate on this measure.
+BUDGET AUTHORITY AND CONGRESSIONAL BUDGET OFFICE COST
+ESTIMATE
+Pursuant to clause (3)(c)(3) of rule XIII of the Rules of the House
+of Representatives, the following is the cost estimate for H.R. 1041,
+as amended, provided by the Congressional Budget Office (CBO)
+pursuant to section 402 of the Congressional Budget Act of 1974:
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00021 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 20:
+700.341RH
+ereh
+32
+oilof
+tesffo
+tresnI
+22
+H.R. 1041 would prohibit the Department of Veterans Affairs
+(VA) from reporting certain information to the Department of Jus-
+tice (DOJ) for use in the National Instant Criminal Background
+Check System (NICS). That system is used by licensed firearms
+dealers to determine whether a person can legally purchase a fire-
+arm.
+VA appoints fiduciaries to manage benefits for people who have
+been determined unable to manage benefits on their own. Under
+current law, in some cases, VA reports that information to the
+NICS. As a result of that reporting, a person may be deemed ineli-
+gible to purchase a firearm. (The Full-Year Continuing Appropria-
+tions and Extensions Act, 2025, prohibits the department from
+making such reports in the current fiscal year.)
+Under the bill, VA would be prohibited from transmitting infor-
+mation to the NICS about a person solely because a fiduciary man-
+ages their VA benefits. The department could make such a report,
+however, if a judge finds that the person poses a danger to them-
+selves or others. VA must also notify DOJ that any information
+previously transmitted about people who use a fiduciary no longer
+applies. CBO estimates that implementing the bill could reduce ad-
+ministrative costs by decreasing VA’s reporting to the NICS. Con-
+versely, VA could incur additional costs for seeking judicial findings
+that a person poses a danger and should be reported to the NICS.
+CBO estimates that, in either case, the net change in spending
+would not be significant. Any related spending would be subject to
+appropriation.
+The CBO staff contact for this estimate is Logan Smith. The esti-
+mate was reviewed by Christina Hawley Anthony, Deputy Director
+of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+FEDERAL MANDATES STATEMENT
+
+Section 21:
+Section 423 of the Congressional Budget and Impoundment Con-
+trol Act (as amended by Section 101(a)(2) of the Unfunded Mandate
+Reform Act, P.L. 104–4 is inapplicable to H.R. 1041, as amended.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act would be created by H.R. 1041, as
+amended.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that H.R. 1041, as amended, does not relate
+to the terms and conditions of employment or access to public serv-
+ices or accommodations within the meaning of section102(b)(3) of
+the Congressional Accountability Act.
+STATEMENT ON DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee finds that no provision of H.R.
+1041, as amended, would establish or reauthorize a program of the
+Federal Government known to be duplicative of another Federal
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00022 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+23
+program, a program that was included in any report from the Gov-
+ernment Accountability Office to Congress pursuant to section 21
+of Public Law 111–139, or a program related to a program identi-
+fied in the most recent Catalog of Federal Domestic Assistance.
+
+Section 22:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 23:
+Section 1. Short title
+
+Section 24:
+Section 1 would establish the short title of the bill as the ‘‘Vet-
+erans 2nd Amendment Protection Act.’’
+
+Section 25:
+Section 2. Prohibition on Secretary of Veterans Affairs transmittal
+of certain information to the Department of Justice for use by
+the National Instant Criminal Background Check System
+
+Section 26:
+Section 2 would amend Title 38, U.S. Code, Chapter 55, by cre-
+ating a new section 5501B that would prohibit VA from transmit-
+ting to any entity in the DOJ, for use by NICS, the names and per-
+sonally identifiable information of a beneficiary of VA benefits for
+whom VA has assigned a fiduciary to assist with their VA benefits
+under 38 U.S.C. §5502, unless there is an order or finding of a
+judge, magistrate, or other judicial authority, that such beneficiary
+is a danger to themselves or others.
+
+Section 27:
+Section 3. Notification of lack of basis for the Secretary of Veterans
+Affairs to have transmitted certain information to the Depart-
+ment of Justice for use by the National Instance Criminal Back-
+ground Check System
+
+Section 28:
+Section 3 would amend Title 38, U.S. Code, Chapter 55, by cre-
+ating a new section 5501C that would require VA, within 30 days
+of enactment, to notify the Attorney General, in accordance with 34
+U.S.C. §40901(e)(1)(D), that the basis for the transmittal of a bene-
+ficiary’s personal information to the DOJ for use by NICS solely be-
+cause VA has determined that beneficiary requires a fiduciary, does
+not apply, or no longer applies.
+
+Section 29:
+Section 4. Determination by the Secretary of Veterans Affairs that
+a person is mentally incompetent is insufficient to treat such
+person as a mental defective
+
+Section 30:
+Section 4 would amend Title 38, U.S. Code, Chapter 55 by cre-
+ating a new section 5501D that would prohibit VA from treating a
+person as having been adjudicated as a mental defective, solely be-
+cause that person is mentally incompetent under 38 C.F.R. §3.353
+or requires a fiduciary under section 5502 of title 38.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+existing law in which no change is proposed is shown in roman):
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00023 Fmt 6659 Sfmt 6601 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+24
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+TITLE 38, UNITED STATES CODE
+* * * * * * *
+PART IV—GENERAL ADMINISTRATIVE
+PROVISIONS
+* * * * * * *
+CHAPTER 55—MINORS, INCOMPETENTS, AND OTHER
+WARDS
+Sec.
+
+Section 31:
+5501. Commitment actions.
+* * * * * * *
+5501B. Prohibition on transmittal of certain information to the Department of Jus-
+tice for use by the national instant criminal background check system.
+5501C. Notification of lack of basis for transmittal of certain information to the De-
+partment of Justice for use by the national instant criminal background
+check system.
+5501D. Determination of mental incompetence is insufficient basis to treat a person
+as a mental defective.
+* * * * * * *
+
+Section 32:
+§5501B. Prohibition on transmittal of certain information to
+the Department of Justice for use by the national
+instant criminal background check system
+The Secretary may not transmit to any entity in the Department
+of Justice, for use by the national instant criminal background
+check system established under section 103 of the Brady Handgun
+Violence Prevention Act (34 U.S.C. 40901; Public Law 103–159; 107
+Stat. 1541), personally identifiable information of a beneficiary,
+solely on the basis of a determination by the Secretary to pay bene-
+fits to a fiduciary for the use and benefit of the beneficiary under
+
+Section 33:
+section 5502 of this title, without the order or finding of a judge,
+magistrate, or other judicial authority of competent jurisdiction that
+such beneficiary is a danger to themselves or others.
+
+Section 34:
+§5501C. Notification of lack of basis for transmittal of cer-
+tain information to the Department of Justice for
+use by the national instant criminal background
+check system
+The Secretary shall, within 30 days of the enactment of the Vet-
+erans 2nd Amendment Protection Act, and in accordance with sec-
+tion 103(e)(1)(D) of the Brady Handgun Violence Prevention Act (34
+U.S.C. 40901(e)(1)(D); Public Law 103–159; 107 Stat. 1541), notify
+the Attorney General that the basis for the transmittal, on or after
+November 30, 1993, by the Secretary, of personally identifiable in-
+formation of a beneficiary, solely on the basis of a determination by
+the Secretary to pay benefits to a fiduciary for the use and benefit
+of the beneficiary under section 5502 of this title, to any entity in
+the Department of Justice, for use by the national instant criminal
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00024 Fmt 6659 Sfmt 6603 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+25
+background check system established under section 103 of the Brady
+Handgun Violence Prevention Act (34 U.S.C. 40901; Public Law
+103–159; 107 Stat. 1541), does not apply, or no longer applies.
+
+Section 35:
+§5501D. Determination of mental incompetence is insuffi-
+cient basis to treat a person as a mental defective
+The Secretary shall not treat a person as having been adjudicated
+as a mental defective solely on the basis that the Secretary has de-
+termined that such person—
+(1) is mentally incompetent under section 3.353 of title 38,
+Code of Federal Regulations (or successor regulation); or
+(2) requires a fiduciary under section 5502 of this title.
+* * * * * * *
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00025 Fmt 6659 Sfmt 6601 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+MINORITY VIEWS
+On May 6, 2025, the full House Committee on Veterans’ Affairs
+met in open markup and considered H.R. 1041, the Veterans 2nd
+Amendment Protection Act, introduced by Chairman Mike Bost.
+The measure was ordered favorably reported to the full House,
+with an Amendment in the Nature of a Substitute, on a straight
+party line vote, with Committee Democrats united in opposition.
+Sadly, this legislation not only carries forward the Majority’s
+flawed and dangerous language from H.R. 7051 in the previous
+Congress, but H.R. 1041 as reported expands that language to in-
+clude new provisions which exacerbate the increased risk of harm
+inherent in the underlying legislation. Accordingly, Committee
+Democrats have, and must continue to, reject this legislation.
+As with previous versions of this bill, H.R. 1041 would prevent
+the Department of Veterans Affairs (VA) from reporting informa-
+tion on a beneficiary in its Fiduciary Program to the National In-
+stant Criminal Background Check System (NICS) without a deter-
+mination from a judicial body that the beneficiary poses a potential
+danger to themselves or others. This provision is based on several
+false premises: (1) that VA’s Fiduciary Program bases its decisions
+on financial acumen, (2) that there is insufficient due process in
+VA’s system to protect the constitutional rights of beneficiaries,
+and (3) that only judicial review is sufficient to satisfy due process.
+Regarding the first premise: according to VA’s testimony in this
+and previous years, as well as program guidelines, decisions on
+whether to appoint a fiduciary for a beneficiary are based on the
+medical evidence on record, not a math test. It is that medical evi-
+dence, which often includes a mental health diagnosis such as
+schizophrenia, dementia, Alzheimer’s disease, Parkinson’s disease
+and others, which leads VA to adjudicate that a beneficiary is un-
+able to manage their own finances.
+On the second: regarding the due process protections already
+built into VA’s system in compliance with the Administrative Pro-
+cedures Act (APA) and the NICS Improvement Amendments Act
+(NIAA)2, veterans and other beneficiaries currently have signifi-
+cant avenues for redress. VA notifies beneficiaries of the con-
+sequences of their proposed determination, including NICS report-
+ing requirements as required by the APA and the NIAA. They may
+then appeal both the determination to appoint a fiduciary, and the
+subsequent reporting to NICS, independently of one another and at
+several points in the process. Moreover, decisions regarding VA
+benefits determinations are already able to be appealed to judicial
+authorities such as the Court of Appeals for Veterans’ Claims and
+the U.S. Court of Appeals for the Federal Circuit.
+1For Minority Views on H.R. 705 from the 118th Congress, see, H. Rep. 118–677 (118th Cong).
+2Pub. L. No. 110–180 (110th Cong., 2008).
+(26)
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00026 Fmt 6604 Sfmt 6604 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+27
+And with respect to the third premise: in Welch v. US (1985), the
+First Circuit stated, ‘‘All due process requires is that a statutory
+prohibition be . . . set out in terms that the ordinary person exer-
+cising ordinary common sense can sufficiently understand and com-
+ply with, without sacrifice to the public interest.’’3 NIAA requires
+VA to give multiple notices, both oral and written, that mention
+what the term ‘‘adjudicated as a mental defective’’ means and how
+it applies to beneficiaries, what penalties there are for violating it,
+and what relief from such disability with respect to firearms is
+available under federal law, even before any proceedings to adju-
+dicate a person as a ‘‘mental defective’’ begins.
+VA is also required to follow the 21st Century Cures Act,4 which
+codified existing procedural due process policies and regulations of
+the VA, which is in line with the Fifth Amendment Due Process
+Clause’s notice and fair warning requirements. VA has to provide
+a notice of the proposed determination and all supporting evidence,
+and an opportunity for the beneficiary to request a hearing, be rep-
+resented by counsel and present evidence, including from a medical
+professional. NIAA also requires the VA to notify beneficiaries as-
+signed a fiduciary of the ramifications of metal incompetency deter-
+minations and the possible loss of their gun rights due to their
+name being placed in NICS. So, VA’s administrative processes
+clearly satisfy constitutional muster with respect to due process.
+As mentioned previously, the reported language of H.R. 1041
+goes beyond the addition of a layer of judicial review on an already
+lengthy and rigorous process. This bill also contains a provision to
+make it effective retroactively. This would mean all beneficiaries
+currently on the NICS list because of VA reporting would be re-
+moved upon enactment, without any consideration of whether or
+not that person warrants removal or poses a danger to themselves
+or others. This is contrary to the Majority’s stated desire for these
+determinations of ‘‘dangerousness’’ for new transmittals and rep-
+resents a dangerous level of uncertainty.
+Additionally, this bill clumsily attempts to sever the link between
+VA’s mental competency determinations, and the definition of ‘‘ad-
+judicated as mental defective’’ under the Brady Handgun Violence
+Prevention Act and the Gun Control Act.5 According to VA’s testi-
+mony before the Committee, the language in the bill is insufficient
+to accomplish the goal. The Minority concurs with this interpreta-
+tion and would add that the language in the bill would only serve
+to put beneficiaries at risk of unwittingly committing a felony. By
+no longer being on the NICS list, while still being considered ineli-
+gible to purchase and own a firearm, beneficiaries may attempt
+and even succeed in purchasing a firearm. Therefore violating the
+law and making them subject to prosecution.
+Lastly, there is one aspect of the Majority’s arguments about this
+bill that the Minority does agree with. The stigma around seeking
+mental health help for fear of losing Second Amendment rights is
+real and deserves to be addressed in a meaningful way. However,
+it is part of the broader issue of misinformation and disinformation
+propagated online and elsewhere. It is a perception issue that the
+3750 F.2d 1101 (1st Cir. 1985).
+4Pub. L. No. 114–225 (114th Cong., 2016).
+5Pub. L. No. 103–159 (103rd Cong., 1993).
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00027 Fmt 6604 Sfmt 6604 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+28
+Majority and, unfortunately, many Veterans Service Organizations
+are perpetuating, both through this bill and in their failure to de-
+nounce the rumors as untrue. In fact, there are documented great-
+er hurdles to seeking care including convenience and cost. And the
+Minority will note that the Veterans Health Administration, where
+veterans would be receiving mental healthcare, plays absolutely no
+role in the Fiduciary Process and does not ever report patients to
+NICS. Moreover, according to recent Federal Bureau of Investiga-
+tion data,6 beneficiaries reported to NICS by VA make up only
+199,455 or 0.6 percent of a total 33,025,815 of entries in the data-
+base.
+During full Committee markup on this measure, Committee
+Democrats offered several amendments in an attempt to improve
+the legislation. Those amendments included, among others, an
+amendment that would strike the underlying bill and replace it
+with language stating that VA cannot report beneficiaries to NICS
+until obtaining a secondary mental health determination, and an
+amendment to exempt those with the most serious mental health
+conditions from the underlying bill’s prohibition on NICS reporting.
+Committee Democrats felt both those amendments would have sig-
+nificantly improved the underlying bill and struck a fair balance
+between the Majority’s desire to expand firearms ownership and
+Committee Democrats’ desire to protect beneficiaries and those
+around them from the potential for harm. As in the past, both
+amendments were voted down on a party-line roll call vote, along
+with many other amendments that would have marked a much-
+needed shift away from the Majority’s wrongheaded policy choice.
+For these reasons and more, Committee Democrats continue to
+oppose this legislation. We will recommend the broader House re-
+ject the measure should it come to the floor of the full House for
+consideration.
+MARK TAKANO,
+Ranking Member.
+Æ
+6Department of Justice, Federal Bureau of Investigation, Criminal Justice Information Serv-
+ices Division, Active Entries in the NICS Indices as of December 31, 2024. https://www.fbi.gov/
+file-repository/cjis/download-active-entries-in-the-nics-indices-as-of-december-31-2023.pdf.
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00028 Fmt 6604 Sfmt 6611 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–143
+VETERANS 2ND AMENDMENT PROTECTION ACT
+JUNE5, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. BOST, from the Committee on Veterans’ Affairs,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 1041]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Veterans’ Affairs, to whom was referred the
+bill (H.R. 1041) to amend title 38, United States Code, to prohibit
+the Secretary of Veterans Affairs from transmitting certain infor-
+mation to the Department of Justice for use by the national instant
+criminal background check system, having considered the same, re-
+ports favorably thereon with amendments and recommends that
+the bill as amended do pass.
+CONTENTS
+Page
+Amendment .............................................................................................................. 2
+Purpose and Summary ............................................................................................ 3
+Background and Need for Legislation .................................................................... 3
+Hearings ................................................................................................................... 7
+Subcommittee Consideration ..................................................................................
+Committee Consideration ........................................................................................ 8
+Committee Votes ...................................................................................................... 9
+Committee Oversight Findings ............................................................................... 21
+Statement of General Performance Goals and Objectives .................................... 21
+Earmarks and Tax and Tariff Benefits .................................................................. 21
+Committee Cost Estimate ....................................................................................... 21
+Budget Authority and Congressional Budget Office Estimate ............................ 21
+Federal Mandates Statement ................................................................................. 22
+Advisory Committee Statement .............................................................................. 22
+Applicability to Legislative Branch ........................................................................ 22
+59–006
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+Statement on Duplication of Federal Programs .................................................... 22
+Section-by-Section Analysis of the Legislation ...................................................... 23
+Changes in Existing Law Made by the Bill as Reported ...................................... 23
+Minority Views ......................................................................................................... 26
+The amendments are as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Veterans 2nd Amendment Protection Act’’.
+SEC. 2. PROHIBITION ON SECRETARY OF VETERANS AFFAIRS TRANSMITTAL OF CERTAIN IN-
+FORMATION TO THE DEPARTMENT OF JUSTICE FOR USE BY THE NATIONAL IN-
+STANT CRIMINAL BACKGROUND CHECK SYSTEM.
+(a) IN GENERAL.—Chapter 55 of title 38, United States Code, is amended by in-
+serting after section 5501A the following new section:
+‘‘§5501B. Prohibition on transmittal of certain information to the Depart-
+ment of Justice for use by the national instant criminal back-
+ground check system
+‘‘The Secretary may not transmit to any entity in the Department of Justice, for
+use by the national instant criminal background check system established under
+section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901; Public
+Law 103–159; 107 Stat. 1541), personally identifiable information of a beneficiary,
+solely on the basis of a determination by the Secretary to pay benefits to a fiduciary
+for the use and benefit of the beneficiary under section 5502 of this title, without
+the order or finding of a judge, magistrate, or other judicial authority of competent
+jurisdiction that such beneficiary is a danger to themselves or others.’’.
+(b) CLERICAL AMENDMENT.—The table of sections at the beginning of chapter 55
+of such title is amended by inserting after the item relating to section 5501A the
+following new item:
+‘‘5501B. Prohibition on transmittal of certain information to the Department of Justice for use by the national
+instant criminal background check system.’’.
+SEC. 3. NOTIFICATION OF LACK OF BASIS FOR THE SECRETARY OF VETERANS AFFAIRS TO
+HAVE TRANSMITTED CERTAIN INFORMATION TO THE DEPARTMENT OF JUSTICE
+FOR USE BY THE NATIONAL INSTANT CRIMINAL BACKGROUND CHECK SYSTEM.
+(a) IN GENERAL.—Such chapter (as amended by section 2) is further amended by
+inserting after section 5501B the following new section:
+‘‘§5501C. Notification of lack of basis for transmittal of certain information
+to the Department of Justice for use by the national instant crimi-
+nal background check system
+‘‘The Secretary shall, within 30 days of the enactment of the Veterans 2nd
+Amendment Protection Act, and in accordance with section 103(e)(1)(D) of the Brady
+Handgun Violence Prevention Act (34 U.S.C. 40901(e)(1)(D); Public Law 103–159;
+107 Stat. 1541), notify the Attorney General that the basis for the transmittal, on
+or after November 30, 1993, by the Secretary, of personally identifiable information
+of a beneficiary, solely on the basis of a determination by the Secretary to pay bene-
+fits to a fiduciary for the use and benefit of the beneficiary under section 5502 of
+this title, to any entity in the Department of Justice, for use by the national instant
+criminal background check system established under section 103 of the Brady Hand-
+gun Violence Prevention Act (34 U.S.C. 40901; Public Law 103–159; 107 Stat. 1541),
+does not apply, or no longer applies.’’.
+(b) CLERICALAMENDMENT.—The table of sections at the beginning of such chapter
+(as amended by section 2) is further amended by inserting after the item relating
+to section 5501B the following new item:
+‘‘5501C. Notification of lack of basis for transmittal of certain information to the Department of Justice for use
+by the national instant criminal background check system.’’.
+SEC. 4. DETERMINATION BY THE SECRETARY OF VETERANS AFFAIRS THAT A PERSON IS
+MENTALLY INCOMPETENT IS INSUFFICIENT TO TREAT SUCH PERSON AS A MEN-
+TAL DEFECTIVE.
+(a) IN GENERAL.—Such chapter (as amended by sections 2 and 3) is further
+amended by inserting after section 5501C the following new section:
+‘‘§5501D. Determination of mental incompetence is insufficient basis to
+treat a person as a mental defective
+‘‘The Secretary shall not treat a person as having been adjudicated as a mental
+defective solely on the basis that the Secretary has determined that such person—
+VerDate Sep 11 2014 04:08 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+‘‘(1) is mentally incompetent under section 3.353 of title 38, Code of Federal
+Regulations (or successor regulation); or
+‘‘(2) requires a fiduciary under section 5502 of this title.’’.
+(b) CLERICALAMENDMENT.—The table of sections at the beginning of such chapter
+(as amended by sections 2 and 3) is further amended by inserting after the item
+relating to section 5501C the following new item:
+‘‘5501D. Determination of mental incompetence is insufficient basis to treat a person as a mental defective’’.
+Amend the title so as to read:
+A bill to amend title 38, United States Code, to prohibit the Sec-
+retary of Veterans Affairs from transmitting certain information to
+the Department of Justice for use by the national instant criminal
+background check system, and for other purposes.
+PURPOSE AND SUMMARY
+H.R. 1041, the ‘‘Veterans 2nd Amendment Protection Act,’’ was
+introduced by Representative Mike Bost of Illinois on February 6,
+2025. The bill, as amended, would prohibit the Secretary of the De-
+partment of Veterans Affairs (VA) from transmitting the name and
+information of a veteran or a beneficiary of VA benefits to the Na-
+tional Instant Criminal Background Check System (NICS) solely on
+the basis that VA has appointed them a fiduciary to help them
+manage their VA benefits, unless there is an order or a finding of
+a judicial authority that such veteran or beneficiary is a danger to
+themselves or others. It would also require VA to notify the Attor-
+ney General that the basis for all previous reporting of a veteran
+to NICS solely because they were appointed a fiduciary, does not
+apply or no longer applies, thereby activating the F.B.I.’s statutory
+duty to update the NICS list accordingly.
+BACKGROUND AND NEED FOR LEGISLATION
+Section 1: Short Title
+This Act may be cited as the ‘‘Veterans 2nd Amendment Protec-
+tion Act.’’
+Section 2: Prohibition on Secretary of Veterans Affairs Transmittal
+of Certain Information to the Department of Justice for Use by
+the National Instant Criminal Background Check System
+The Gun Control Act of 1968 (Pub. L. 90–617) (Gun Control Act)
+makes it illegal for individuals ‘‘adjudicated as a mental defective’’
+to ship, transport, possess, or receive firearms and ammunition.
+The Brady Handgun Violence Prevention Act (Pub. L. 103–159)
+(Brady Act), enacted on November 30, 1993, established the Na-
+tional Instant Criminal Background Check System (NICS), a com-
+puter database used to store information about individuals who are
+not eligible to transfer, receive, or possess firearms and ammuni-
+tion. The Brady Act requires federally licensed gun dealers to use
+NICS to conduct a background check on any person attempting to
+purchase a firearm. State and federal agencies are required to re-
+port to the Department of Justice (DOJ), the name and information
+of individuals who have been ‘‘adjudicated as a mental defective’’
+for inclusion in NICS.1
+VA appoints fiduciaries for veterans and other beneficiaries of
+VA benefits, who are unable to manage their VA benefits on their
+1NICS Improvement Amendments Act of 2007 (Pub. L. 110–180); 18 U.S.C. § 922.
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+own because of a disability. Fiduciaries receive payments of VA
+funds on behalf of those beneficiaries and disburse those funds for
+the beneficiaries’ care and support. VA will appoint a fiduciary for
+a person who is determined by a VA career employee in the Vet-
+erans Benefits Administration (VBA) to be ‘‘mentally incompetent.’’
+VA defines ‘‘mentally incompetent’’ in its regulation 38 C.F.R.
+§3.353(a) as a person ‘‘who because of injury or disease lacks the
+mental capacity to contract or to manage his or her own affairs, in-
+cluding disbursement of funds without limitation.’’
+Congress did not define the term ‘‘adjudicated as a mental defec-
+tive’’ in the Gun Control Act or the Brady Act. The Bureau of Alco-
+hol, Tobacco, Firearms and Explosives (ATF) promulgated a regula-
+tion, which interprets the term ‘‘adjudicated as a mental defective’’
+to mean ‘‘[a] determination by a court, board, commission, or other
+lawful authority that a person, as a result of marked subnormal in-
+telligence, or mental illness, incompetency, condition, or disease: (1)
+Is a danger to himself or to others; or (2) Lacks the mental capacity
+to contract or manage his own affairs.’’ 27 C.F.R. §478.11. VA and
+ATF have concluded that a person who has been determined by VA
+to be ‘‘mentally incompetent’’ has been ‘‘adjudicated as a mental de-
+fective.2
+As a result, for decades VA has reported the names and informa-
+tion of veterans and other VA beneficiaries whom a VA bureaucrat
+has determined to be ‘‘mentally incompetent’’ without a ruling by
+a judge or magistrate, to the DOJ for inclusion in NICS. The deter-
+mination of whether a veteran is ‘‘mentally incompetent’’ is made
+by a VA bureaucrat based on a statement from a medical profes-
+sional that the veteran is unable to handle their VA compensation
+because of a disability. The Committee understands that these
+statements do not indicate one way or the other whether the per-
+son’s disability causes them to be a danger to themselves or others.
+In other words, for decades VA bureaucrats have stripped over
+250,000 veterans of their Constitutional right to bear arms simply
+because they need assistance from a fiduciary to handle their VA
+financial compensation benefits.3
+Further, before VA sends their name to NICS, a veteran can only
+dispute VA’s proposed determination of mental incompetency under
+38 C.F.R. 3.101 and 3.353 by proving that they are able to handle
+their finances. A veteran receiving VA compensation may or may
+not wish to receive assistance from a VA-appointed fiduciary to
+help them manage their compensation, but that is a separate issue
+from whether they may wish to retain their Constitutional right to
+bear arms. Only after VA has already determined them incom-
+petent to handle their VA financial benefits, does a veteran have
+a separate opportunity to petition VA for relief from inclusion in
+NICS. The burden falls on the veteran to prove to a VA bureaucrat
+that they are not a danger to themselves or others.4 The Com-
+2 ATF, ‘‘Definitions for the Categories of Persons Prohibited from Receiving Firearms,’’ 62
+Federal Register 34,637, 34,637 (June 27, 1997).
+3Active Entries in the NICS Indices as of December 31, 2024, https://www.fbi.gov/file-reposi-
+tory/cjis/download-active-entries-in-the-nics-indices-as-of-december-31-2023.pdf/view ; Active En-
+tries in the NICS Indices as of January 3, 2023, https://www.fbi.gov/file-repository/cjis/active-
+entries-in-the-nics-indices-by-state.pdf/view.
+4Statement of Jordan B. Cohen, Congressional Research Service, (January 23, 2025), https://
+docs.house.gov/meetings/VR/VR09/20250123/117839/HHRG-119-VR09-Wstate-CohenJ-
+20250123.pdf; Congressional Research Service, Gun Control, Veterans’ Benefits, and Mental In-
+competency Determinations (July 14, 2023), https://crsreports.congress.gov/product/pdf/R/R47626.
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+5
+mittee is concerned that a veteran who is appointed a fiduciary is
+not provided the same Constitutional due process rights as a civil-
+ian, who must be found to be a danger to themself or others by a
+judge, in a court of law, before their name is transmitted to NICS.
+The Committee understands that VA’s reporting practice discour-
+ages veterans from seeking mental health care from VA. As Patrick
+Murray, Director, National Legislative Service, Veterans of Foreign
+Wars of the United States (VFW) testified: ‘‘The VFW hears from
+veterans that a negative consequence of VA’s current practice is
+that they are hesitant to seek mental health care because they fear
+their firearms will be taken away. This has created a significant
+stigma surrounding mental health and has created a barrier to
+care for many.’’5
+The Committee understands that VA’s NICS reporting practice
+perpetuates the harmful stigma that disabled veterans are auto-
+matically dangerous. The Committee also understands that no
+study has been conducted on veterans with fiduciaries to determine
+whether they can be presumed to be dangerous to themselves or
+others.6 Therefore, there is no data to support any presumption
+that disabled veterans who need help from a fiduciary to manage
+their finances are at greater risk of firearm suicide or violence. In
+a May 5, 2025, letter to Chairman Bost and Ranking Member
+Takano from Jennifer Mathis, Deputy Director of the Bazelon Cen-
+ter for Mental Health Law, Ms. Mathis stated:
+The Bazelon Center for Mental Health Law supports the
+amended version of H.R. 1041 . . . . [VA’s NICS reporting
+practice] is inconsistent with the statute it purports to im-
+plement, has no evidentiary justification, wrongly perpet-
+uated inaccurate stereotypes of individuals with mental
+disabilities as dangerous, and if continued, would divert al-
+ready scarce VA resources away from efforts to address the
+agency’s critical mission.
+Ms. Mathis further stated:
+‘‘[T]he practice is an ineffective strategy to address gun
+violence, devoid of any evidentiary basis, targeting individ-
+uals with fiduciaries as potential perpetrators of gun vio-
+lence despite the lack of any connection between a person’s
+need for assistance managing V.A. benefits and dangerous-
+ness or propensity to engage in gun violence . . . . [T]he
+practice perpetuates the prevalent false association of
+mental health disabilities with violence and undermines
+important efforts to promote community integration and
+employment of people with disabilities.
+5Statement of Patrick Murray, Veterans of Foreign Wars of the United States (February 25,
+2025), https://docs.house.gov/meetings/VR/VR00/20250225/117899/HHRG-119-VR00-Wstate-
+MurrayP-20250225.pdf.
+6There is only one study that purports to find that veterans with fiduciaries are at higher
+risk of firearm suicide, but this study did not actually study any veterans with fiduciaries. See
+Jeffrey Swanson, et al., Informing Federal Policy on Firearm Restrictions for Veterans with Fidu-
+ciaries: Risk Indicators in the Post-Deployment Mental Health Study, 45 Admin. and Policy in
+Mental Health and Mental Health Services Rsch. 673, 673–83 (2018) (admitting that ‘‘[a] limita-
+tion of the study is that its outcome measures . . . do not directly assess the risk of misusing
+a firearm, which is the ultimate issue for NICS reporting’’; and admitting that ‘‘[t]his study was
+also limited with regard to its sample and indirect measure of fiduciary need’’).
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+6
+To address this issue, this section would prohibit VA from trans-
+mitting information to the DOJ for use by NICS of a person solely
+because VA has determined that a person requires a fiduciary to
+help them manage their VA benefits, without an order or finding
+of a judge, magistrate, or other judicial authority, that the person
+is a danger to themselves or others.
+The Committee believes that this section is critical to protect the
+Constitutional due process rights of veterans. This change would
+also ensure that veterans are not subject to different rules and
+NICS reporting standards compared to civilians simply because
+those veterans require a fiduciary to help them manage their VA
+financial compensation benefits. This change would remove a bar-
+rier to veterans seeking VA mental health care. This section would
+also be a critical step towards removing the erroneous stigma that
+disabled veterans are automatically dangerous.
+Section 3: Notification of Lack of Basis for the Secretary of Veterans
+Affairs to Have Transmitted Certain Information to the Depart-
+ment of Justice for use by the National Instant Criminal Back-
+ground Check System
+As of December 31, 2024, roughly 7.7 million individuals are in
+NICS because they were ‘‘adjudicated as a mental defective’’ by
+state and territorial courts. On the other hand, roughly 206,000 in-
+dividuals are in NICS pursuant to reporting by federal agencies. Of
+that number, roughly 200,000 of those individuals are on NICS
+pursuant to VA reporting. Thus, 97% of all the individuals included
+in NICS due to federal agency reporting are from VA. As discussed
+above, VA erroneously interpreted the statutory term ‘‘adjudicated
+as a mental defective’’ as including persons who satisfy VA’s regu-
+latory definition of ‘‘mentally incompetent’’ under 38 C.F.R.
+§3.353(a).
+To address the hundreds of thousands of VA beneficiaries have
+been already added to NICS solely because they require a fidu-
+ciary, this section would require VA to notify the Attorney General,
+in accordance with the notification requirement in 34 U.S.C.
+§40901(e)(1)(D) that the basis for reporting beneficiaries to NICS
+since November 30, 1993, solely because they have a fiduciary, does
+not apply or no longer applies. This notification would require the
+F.B.I. to update the NICS list accordingly.
+The Committee believes that this section is important because it
+would remedy the past due process and Second Amendment rights
+violations of hundreds of thousands of veterans already in NICS
+solely because they required a fiduciary. Veterans on the NICS list
+solely for this reason would be removed, thereby restoring their
+Constitutional right to purchase and possess firearms to protect
+themselves and their families. Veterans on the NICS list for other
+reasons—i.e., because another federal agency or state or territorial
+court found them to be a danger to themselves or others and ‘‘adju-
+dicated them as a mental defective’’—would not be removed from
+the NICS list under this section.
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+7
+Section 4: Determination by the Secretary of Veterans Affairs that
+a Person is Mentally Incompetent is Insufficient to Treat Such
+Person as a Mental Defective
+As discussed above, VA erroneously interpreted Congress’s intent
+when it interpreted the statutory ‘‘adjudicated as a mental defec-
+tive’’ as including persons who satisfy VA’s regulatory definition of
+‘‘mentally incompetent’’ under 38 C.F.R. §3.353(a) and who there-
+fore require a fiduciary to help them manage their finances.
+To address this issue, this section would prohibit the Secretary
+from treating a person as having been ‘‘adjudicated as a mental de-
+fective’’ solely on the basis such person meets the definition of
+‘‘mentally incompetent’’ under 38 C.F.R. §3.353(a) and requires a
+fiduciary.
+The Committee believes that this section is critical to ensure that
+statutory category of ‘‘adjudicated as a mental defective’’ is never
+again misinterpreted by VA as including VA benefits beneficiaries
+who simply require a fiduciary to help them manage their VA bene-
+fits.
+HEARINGS
+On February 25, 2025, the Committee on Veterans Affairs held
+a legislative hearing on H.R. 1041 and other bills that were pend-
+ing before the committee.
+The following witnesses testified:
+Ms. Beth Murphy, Acting Principal Deputy Undersecretary
+for Benefits, Veterans Benefits Administration, U.S. Depart-
+ment of Veterans Affairs; Ms. Tracey Therit, Chief Human
+Capitol Officer, Office of Human Resources and Administra-
+tion, Operations, Security, and Preparedness, Veterans Health
+Administration, U.S. Department of Veterans Affairs; Dr.
+Sachin Yende, Chief Medical Officer, Integrated Veteran Care,
+Veterans Health Administration, U.S. Department of Veterans
+Affairs; Mr. Jim Whaley, Chief Executive Officer, Mission Roll
+Call; Mr. Patrick Murray, Director, National Legislative Serv-
+ice, Veterans of Foreign Wars of the U.S.; and The Honorable
+Max Rose, Senior Advisor, Vet Voice Foundation.
+The following individuals and organizations submitted state-
+ments for the record: American Federation of Government Em-
+ployees, AFL–CIO (AFGE); Disabled American Veterans
+(DAV); Whistleblowers of America (WA); Veterans Healthcare
+Policy Institute (VHPI); National Association of Gun Rights
+(NAGR); National Association of Veterans’ Research and Edu-
+cation Foundations (NAVREF); Concerned Veterans for Amer-
+ica (CVA); and Paralyzed Veterans of America (PVA).
+Additionally, a Joint-Letter was offered by the following or-
+ganizations: American Federation of Labor and Congress of In-
+dustrial Organizations (AFL–CIO); American Federation of
+Government Employees (AFGE); American Federation of State,
+County, and Municipal Employees (AFSCME); American Fed-
+eration of Teachers (AFT); International Brotherhood of Team-
+sters (IBT); International Association of Firefighters (IAFF);
+Laborers’ International Union of North America (LIUNA); Na-
+tional Association of Government Employees, SEIU (NAGE);
+National Federation of Federal Employees (NFFE); National
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+8
+Nurses United (NNU); National Veterans Affairs Council,
+AFGE (NVAC); and the Service Employees International Union
+(SEIU).
+Ranking Member Takano submitted the following documents
+for the record: A letter to The Honorable Morgan Luttrell and
+The Honorable Morgan McGarvey from Everytown for Gun
+Safety; a letter to The Honorable Mike Bost and The Honor-
+able Mark Takano from the National Fraternal Order of Police.
+COMMITTEE CONSIDERATION
+On May 6, 2025, the full Committee met in an open markup ses-
+sion with a quorum being present, and ordered H.R. 1041, as
+amended, be reported favorably to the House of Representatives by
+a recorded vote of 13 ayes, 11 noes. During consideration of the bill,
+the following amendments were considered:
+An amendment in the nature of a substitute to H.R. 1041 of-
+fered by Chairman Bost to require VA to notify the Attorney
+General that the basis for all previous reporting of veterans to
+NICS, solely because they have a fiduciary, does not apply or
+no longer applies. This would also prohibit the Secretary of
+Veterans Affairs from treating any veteran as ‘‘a person adju-
+dicated as amental defective,’’ solely because that veteran has
+a fiduciary. This amendment in the nature of a substitute was
+agreed to by a recorded vote of 13 ayes, 11 noes.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1041 was offered by Representative Morrison to
+provide the following exceptions to the NICS reporting prohibi-
+tion under the bill: exceptions for a beneficiary who has been
+diagnosed with schizophrenia, a mental illness with psychotic
+features, dementia of any type, Alzheimer’s disease,
+frontotemporal lobar degeneration, Prion disease, advanced
+Parkinson’s disease, and Huntington’s disease. The amend-
+ment was not agreed to by a recorded vote of 11 ayes, 13 noes.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1041 was offered by Ranking Member Takano
+to replace sections two through four of the amendment in the
+nature of a substitute, with provisions that would require VA,
+when determining whether a veteran is mentally competent to
+handle their VA funds, to make an additional determination as
+to whether the veteran is a danger to themselves or others.
+Such determination would be based on opinion(s) from a li-
+censed mental health professional, and if it is determined that
+the veteran is not a danger to themselves or others, VA would
+be prohibited from submitting their name to NICS solely be-
+cause the veteran is unable to manage their VA funds. Fur-
+ther, if it is determined that a beneficiary is not a danger to
+themselves or others, the amendment would allow VA to still
+determine that a beneficiary is not mentally competent to man-
+age their VA benefits. The amendment was not agreed to by
+a recorded vote of 11 ayes, 13 noes.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1041 was offered by Representative McGarvey
+to require the U.S. Court of Appeals for Veterans Claims
+(CAVC) be the judicial body that must issue an order or find-
+ing that the person is a danger to themselves or others. The
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+9
+amendment would also require the CAVC to establish expe-
+dited procedures for making such orders or findings. The
+amendment was not agreed to by a recorded vote of 11 ayes,
+13 noes.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1041 was offered by Representative Morrison to
+prohibit VA from sending names for removal from NICS until
+after the VA Secretary submits to Congress certification in
+writing that the underlying legislation’s implementation will
+not lead to an increase in the rate of death by suicide using
+a firearm among veterans who have VA-assigned fiduciaries.
+The amendment was not agreed to by a recorded vote of 11
+ayes, 13 noes.
+A motion by Representative Bergman to report H.R. 1041, as
+amended, favorably to the House of Representatives was agreed to
+by a recorded vote of 13 ayes, 11 noes.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee to list the recorded votes on the mo-
+tion to report the legislation and amendments thereto.
+An amendment in the nature of a substitute to H.R. 1041 offered
+by Chairman Bost was agreed to by a recorded vote of 13 ayes, 11
+noes. The names of Members voting for and against follow:
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+10
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.341RH
+ereh
+11
+oilof
+tesffo
+tresnI
+
+11
+An amendment to the amendment in the nature of a substitute
+to H.R. 1041 offered by Representative Morrison was not agreed to
+by a recorded vote of 13 ayes, 11 noes. The names of Members vot-
+ing for and against follow:
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+12
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+200.341RH
+ereh
+31
+oilof
+tesffo
+tresnI
+
+13
+An amendment to the amendment in the nature of a substitute
+to H.R. 1041 offered by Ranking Member Takano was not agreed
+to by a recorded vote of 11 ayes, 13 noes. The names of Members
+voting for and against follow:
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+14
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+300.341RH
+ereh
+51
+oilof
+tesffo
+tresnI
+
+15
+An amendment to the amendment in the nature of a substitute
+to H.R. 1041 offered by Representative McGarvey was not agreed
+to by a recorded vote of 11 ayes, 13 noes. The names of Members
+voting for and against follow:
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+16
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+400.341RH
+ereh
+71
+oilof
+tesffo
+tresnI
+
+17
+A second amendment to the amendment in the nature of a sub-
+stitute to H.R. 1041 offered by Representative Morrison was not
+agreed to by a recorded vote of 11 ayes, 13 noes. The names of
+Members voting for and against follow:
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00017 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+18
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00018 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+500.341RH
+ereh
+91
+oilof
+tesffo
+tresnI
+
+19
+Final passage of H.R. 1041, as amended, was agreed to by a re-
+corded vote of 13 ayes, 11 noes. The names of Members voting for
+and against follow:
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00019 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+20
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00020 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+600.341RH
+ereh
+12
+oilof
+tesffo
+tresnI
+
+21
+COMMITTEE OVERSIGHT FINDINGS
+In compliance with clause 3(c)(1) of rule XIII and clause (2)(b)(1)
+of rule X of the Rules of the House of Representatives, the Commit-
+tee’s oversight findings and recommendations are reflected in the
+descriptive portions of this report.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+In accordance with clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee’s performance goals and
+objectives of H.R. 1041, as amended, are to ensure that veterans
+and their families can access their VA benefits without any viola-
+tion of their Constitutional rights and that prior violations of their
+Constitutional rights are remedied.
+EARMARKS AND TAX AND TARIFF BENEFITS
+H.R. 1041, as amended, does not contain any Congressional ear-
+marks, limited tax benefits, or limited tariff benefits as defined in
+clause 9 of rule XXI of the Rules of the House of Representatives.
+COMMITTEE COST ESTIMATE
+The Committee adopts as its own the Congressional Budget Of-
+fice cost estimate on this measure.
+BUDGET AUTHORITY AND CONGRESSIONAL BUDGET OFFICE COST
+ESTIMATE
+Pursuant to clause (3)(c)(3) of rule XIII of the Rules of the House
+of Representatives, the following is the cost estimate for H.R. 1041,
+as amended, provided by the Congressional Budget Office (CBO)
+pursuant to section 402 of the Congressional Budget Act of 1974:
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00021 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+700.341RH
+ereh
+32
+oilof
+tesffo
+tresnI
+
+22
+H.R. 1041 would prohibit the Department of Veterans Affairs
+(VA) from reporting certain information to the Department of Jus-
+tice (DOJ) for use in the National Instant Criminal Background
+Check System (NICS). That system is used by licensed firearms
+dealers to determine whether a person can legally purchase a fire-
+arm.
+VA appoints fiduciaries to manage benefits for people who have
+been determined unable to manage benefits on their own. Under
+current law, in some cases, VA reports that information to the
+NICS. As a result of that reporting, a person may be deemed ineli-
+gible to purchase a firearm. (The Full-Year Continuing Appropria-
+tions and Extensions Act, 2025, prohibits the department from
+making such reports in the current fiscal year.)
+Under the bill, VA would be prohibited from transmitting infor-
+mation to the NICS about a person solely because a fiduciary man-
+ages their VA benefits. The department could make such a report,
+however, if a judge finds that the person poses a danger to them-
+selves or others. VA must also notify DOJ that any information
+previously transmitted about people who use a fiduciary no longer
+applies. CBO estimates that implementing the bill could reduce ad-
+ministrative costs by decreasing VA’s reporting to the NICS. Con-
+versely, VA could incur additional costs for seeking judicial findings
+that a person poses a danger and should be reported to the NICS.
+CBO estimates that, in either case, the net change in spending
+would not be significant. Any related spending would be subject to
+appropriation.
+The CBO staff contact for this estimate is Logan Smith. The esti-
+mate was reviewed by Christina Hawley Anthony, Deputy Director
+of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+FEDERAL MANDATES STATEMENT
+Section 423 of the Congressional Budget and Impoundment Con-
+trol Act (as amended by Section 101(a)(2) of the Unfunded Mandate
+Reform Act, P.L. 104–4 is inapplicable to H.R. 1041, as amended.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act would be created by H.R. 1041, as
+amended.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that H.R. 1041, as amended, does not relate
+to the terms and conditions of employment or access to public serv-
+ices or accommodations within the meaning of section102(b)(3) of
+the Congressional Accountability Act.
+STATEMENT ON DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee finds that no provision of H.R.
+1041, as amended, would establish or reauthorize a program of the
+Federal Government known to be duplicative of another Federal
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00022 Fmt 6659 Sfmt 6602 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+23
+program, a program that was included in any report from the Gov-
+ernment Accountability Office to Congress pursuant to section 21
+of Public Law 111–139, or a program related to a program identi-
+fied in the most recent Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+Section 1 would establish the short title of the bill as the ‘‘Vet-
+erans 2nd Amendment Protection Act.’’
+Section 2. Prohibition on Secretary of Veterans Affairs transmittal
+of certain information to the Department of Justice for use by
+the National Instant Criminal Background Check System
+Section 2 would amend Title 38, U.S. Code, Chapter 55, by cre-
+ating a new section 5501B that would prohibit VA from transmit-
+ting to any entity in the DOJ, for use by NICS, the names and per-
+sonally identifiable information of a beneficiary of VA benefits for
+whom VA has assigned a fiduciary to assist with their VA benefits
+under 38 U.S.C. §5502, unless there is an order or finding of a
+judge, magistrate, or other judicial authority, that such beneficiary
+is a danger to themselves or others.
+Section 3. Notification of lack of basis for the Secretary of Veterans
+Affairs to have transmitted certain information to the Depart-
+ment of Justice for use by the National Instance Criminal Back-
+ground Check System
+Section 3 would amend Title 38, U.S. Code, Chapter 55, by cre-
+ating a new section 5501C that would require VA, within 30 days
+of enactment, to notify the Attorney General, in accordance with 34
+U.S.C. §40901(e)(1)(D), that the basis for the transmittal of a bene-
+ficiary’s personal information to the DOJ for use by NICS solely be-
+cause VA has determined that beneficiary requires a fiduciary, does
+not apply, or no longer applies.
+Section 4. Determination by the Secretary of Veterans Affairs that
+a person is mentally incompetent is insufficient to treat such
+person as a mental defective
+Section 4 would amend Title 38, U.S. Code, Chapter 55 by cre-
+ating a new section 5501D that would prohibit VA from treating a
+person as having been adjudicated as a mental defective, solely be-
+cause that person is mentally incompetent under 38 C.F.R. §3.353
+or requires a fiduciary under section 5502 of title 38.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+existing law in which no change is proposed is shown in roman):
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00023 Fmt 6659 Sfmt 6601 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+24
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+TITLE 38, UNITED STATES CODE
+* * * * * * *
+PART IV—GENERAL ADMINISTRATIVE
+PROVISIONS
+* * * * * * *
+CHAPTER 55—MINORS, INCOMPETENTS, AND OTHER
+WARDS
+Sec.
+5501. Commitment actions.
+* * * * * * *
+5501B. Prohibition on transmittal of certain information to the Department of Jus-
+tice for use by the national instant criminal background check system.
+5501C. Notification of lack of basis for transmittal of certain information to the De-
+partment of Justice for use by the national instant criminal background
+check system.
+5501D. Determination of mental incompetence is insufficient basis to treat a person
+as a mental defective.
+* * * * * * *
+§5501B. Prohibition on transmittal of certain information to
+the Department of Justice for use by the national
+instant criminal background check system
+The Secretary may not transmit to any entity in the Department
+of Justice, for use by the national instant criminal background
+check system established under section 103 of the Brady Handgun
+Violence Prevention Act (34 U.S.C. 40901; Public Law 103–159; 107
+Stat. 1541), personally identifiable information of a beneficiary,
+solely on the basis of a determination by the Secretary to pay bene-
+fits to a fiduciary for the use and benefit of the beneficiary under
+section 5502 of this title, without the order or finding of a judge,
+magistrate, or other judicial authority of competent jurisdiction that
+such beneficiary is a danger to themselves or others.
+§5501C. Notification of lack of basis for transmittal of cer-
+tain information to the Department of Justice for
+use by the national instant criminal background
+check system
+The Secretary shall, within 30 days of the enactment of the Vet-
+erans 2nd Amendment Protection Act, and in accordance with sec-
+tion 103(e)(1)(D) of the Brady Handgun Violence Prevention Act (34
+U.S.C. 40901(e)(1)(D); Public Law 103–159; 107 Stat. 1541), notify
+the Attorney General that the basis for the transmittal, on or after
+November 30, 1993, by the Secretary, of personally identifiable in-
+formation of a beneficiary, solely on the basis of a determination by
+the Secretary to pay benefits to a fiduciary for the use and benefit
+of the beneficiary under section 5502 of this title, to any entity in
+the Department of Justice, for use by the national instant criminal
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00024 Fmt 6659 Sfmt 6603 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+25
+background check system established under section 103 of the Brady
+Handgun Violence Prevention Act (34 U.S.C. 40901; Public Law
+103–159; 107 Stat. 1541), does not apply, or no longer applies.
+§5501D. Determination of mental incompetence is insuffi-
+cient basis to treat a person as a mental defective
+The Secretary shall not treat a person as having been adjudicated
+as a mental defective solely on the basis that the Secretary has de-
+termined that such person—
+(1) is mentally incompetent under section 3.353 of title 38,
+Code of Federal Regulations (or successor regulation); or
+(2) requires a fiduciary under section 5502 of this title.
+* * * * * * *
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00025 Fmt 6659 Sfmt 6601 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+MINORITY VIEWS
+On May 6, 2025, the full House Committee on Veterans’ Affairs
+met in open markup and considered H.R. 1041, the Veterans 2nd
+Amendment Protection Act, introduced by Chairman Mike Bost.
+The measure was ordered favorably reported to the full House,
+with an Amendment in the Nature of a Substitute, on a straight
+party line vote, with Committee Democrats united in opposition.
+Sadly, this legislation not only carries forward the Majority’s
+flawed and dangerous language from H.R. 7051 in the previous
+Congress, but H.R. 1041 as reported expands that language to in-
+clude new provisions which exacerbate the increased risk of harm
+inherent in the underlying legislation. Accordingly, Committee
+Democrats have, and must continue to, reject this legislation.
+As with previous versions of this bill, H.R. 1041 would prevent
+the Department of Veterans Affairs (VA) from reporting informa-
+tion on a beneficiary in its Fiduciary Program to the National In-
+stant Criminal Background Check System (NICS) without a deter-
+mination from a judicial body that the beneficiary poses a potential
+danger to themselves or others. This provision is based on several
+false premises: (1) that VA’s Fiduciary Program bases its decisions
+on financial acumen, (2) that there is insufficient due process in
+VA’s system to protect the constitutional rights of beneficiaries,
+and (3) that only judicial review is sufficient to satisfy due process.
+Regarding the first premise: according to VA’s testimony in this
+and previous years, as well as program guidelines, decisions on
+whether to appoint a fiduciary for a beneficiary are based on the
+medical evidence on record, not a math test. It is that medical evi-
+dence, which often includes a mental health diagnosis such as
+schizophrenia, dementia, Alzheimer’s disease, Parkinson’s disease
+and others, which leads VA to adjudicate that a beneficiary is un-
+able to manage their own finances.
+On the second: regarding the due process protections already
+built into VA’s system in compliance with the Administrative Pro-
+cedures Act (APA) and the NICS Improvement Amendments Act
+(NIAA)2, veterans and other beneficiaries currently have signifi-
+cant avenues for redress. VA notifies beneficiaries of the con-
+sequences of their proposed determination, including NICS report-
+ing requirements as required by the APA and the NIAA. They may
+then appeal both the determination to appoint a fiduciary, and the
+subsequent reporting to NICS, independently of one another and at
+several points in the process. Moreover, decisions regarding VA
+benefits determinations are already able to be appealed to judicial
+authorities such as the Court of Appeals for Veterans’ Claims and
+the U.S. Court of Appeals for the Federal Circuit.
+1For Minority Views on H.R. 705 from the 118th Congress, see, H. Rep. 118–677 (118th Cong).
+2Pub. L. No. 110–180 (110th Cong., 2008).
+(26)
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00026 Fmt 6604 Sfmt 6604 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+27
+And with respect to the third premise: in Welch v. US (1985), the
+First Circuit stated, ‘‘All due process requires is that a statutory
+prohibition be . . . set out in terms that the ordinary person exer-
+cising ordinary common sense can sufficiently understand and com-
+ply with, without sacrifice to the public interest.’’3 NIAA requires
+VA to give multiple notices, both oral and written, that mention
+what the term ‘‘adjudicated as a mental defective’’ means and how
+it applies to beneficiaries, what penalties there are for violating it,
+and what relief from such disability with respect to firearms is
+available under federal law, even before any proceedings to adju-
+dicate a person as a ‘‘mental defective’’ begins.
+VA is also required to follow the 21st Century Cures Act,4 which
+codified existing procedural due process policies and regulations of
+the VA, which is in line with the Fifth Amendment Due Process
+Clause’s notice and fair warning requirements. VA has to provide
+a notice of the proposed determination and all supporting evidence,
+and an opportunity for the beneficiary to request a hearing, be rep-
+resented by counsel and present evidence, including from a medical
+professional. NIAA also requires the VA to notify beneficiaries as-
+signed a fiduciary of the ramifications of metal incompetency deter-
+minations and the possible loss of their gun rights due to their
+name being placed in NICS. So, VA’s administrative processes
+clearly satisfy constitutional muster with respect to due process.
+As mentioned previously, the reported language of H.R. 1041
+goes beyond the addition of a layer of judicial review on an already
+lengthy and rigorous process. This bill also contains a provision to
+make it effective retroactively. This would mean all beneficiaries
+currently on the NICS list because of VA reporting would be re-
+moved upon enactment, without any consideration of whether or
+not that person warrants removal or poses a danger to themselves
+or others. This is contrary to the Majority’s stated desire for these
+determinations of ‘‘dangerousness’’ for new transmittals and rep-
+resents a dangerous level of uncertainty.
+Additionally, this bill clumsily attempts to sever the link between
+VA’s mental competency determinations, and the definition of ‘‘ad-
+judicated as mental defective’’ under the Brady Handgun Violence
+Prevention Act and the Gun Control Act.5 According to VA’s testi-
+mony before the Committee, the language in the bill is insufficient
+to accomplish the goal. The Minority concurs with this interpreta-
+tion and would add that the language in the bill would only serve
+to put beneficiaries at risk of unwittingly committing a felony. By
+no longer being on the NICS list, while still being considered ineli-
+gible to purchase and own a firearm, beneficiaries may attempt
+and even succeed in purchasing a firearm. Therefore violating the
+law and making them subject to prosecution.
+Lastly, there is one aspect of the Majority’s arguments about this
+bill that the Minority does agree with. The stigma around seeking
+mental health help for fear of losing Second Amendment rights is
+real and deserves to be addressed in a meaningful way. However,
+it is part of the broader issue of misinformation and disinformation
+propagated online and elsewhere. It is a perception issue that the
+3750 F.2d 1101 (1st Cir. 1985).
+4Pub. L. No. 114–225 (114th Cong., 2016).
+5Pub. L. No. 103–159 (103rd Cong., 1993).
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00027 Fmt 6604 Sfmt 6604 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+28
+Majority and, unfortunately, many Veterans Service Organizations
+are perpetuating, both through this bill and in their failure to de-
+nounce the rumors as untrue. In fact, there are documented great-
+er hurdles to seeking care including convenience and cost. And the
+Minority will note that the Veterans Health Administration, where
+veterans would be receiving mental healthcare, plays absolutely no
+role in the Fiduciary Process and does not ever report patients to
+NICS. Moreover, according to recent Federal Bureau of Investiga-
+tion data,6 beneficiaries reported to NICS by VA make up only
+199,455 or 0.6 percent of a total 33,025,815 of entries in the data-
+base.
+During full Committee markup on this measure, Committee
+Democrats offered several amendments in an attempt to improve
+the legislation. Those amendments included, among others, an
+amendment that would strike the underlying bill and replace it
+with language stating that VA cannot report beneficiaries to NICS
+until obtaining a secondary mental health determination, and an
+amendment to exempt those with the most serious mental health
+conditions from the underlying bill’s prohibition on NICS reporting.
+Committee Democrats felt both those amendments would have sig-
+nificantly improved the underlying bill and struck a fair balance
+between the Majority’s desire to expand firearms ownership and
+Committee Democrats’ desire to protect beneficiaries and those
+around them from the potential for harm. As in the past, both
+amendments were voted down on a party-line roll call vote, along
+with many other amendments that would have marked a much-
+needed shift away from the Majority’s wrongheaded policy choice.
+For these reasons and more, Committee Democrats continue to
+oppose this legislation. We will recommend the broader House re-
+ject the measure should it come to the floor of the full House for
+consideration.
+MARK TAKANO,
+Ranking Member.
+Æ
+6Department of Justice, Federal Bureau of Investigation, Criminal Justice Information Serv-
+ices Division, Active Entries in the NICS Indices as of December 31, 2024. https://www.fbi.gov/
+file-repository/cjis/download-active-entries-in-the-nics-indices-as-of-december-31-2023.pdf.
+VerDate Sep 11 2014 03:59 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00028 Fmt 6604 Sfmt 6611 E:\HR\OC\HR143.XXX HR143
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

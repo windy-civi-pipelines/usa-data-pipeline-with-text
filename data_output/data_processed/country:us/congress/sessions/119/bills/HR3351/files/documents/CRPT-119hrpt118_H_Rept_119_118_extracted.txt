@@ -1,0 +1,1793 @@
+Title: JUNE3, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JUNE3, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 14
+Source: documents - H. Rept. 119-118
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPT. 119–118
+1st Session " HOUSE OF REPRESENTATIVES ! Part 1
+IMPROVING ACCESS TO SMALL BUSINESS INFORMATION
+ACT
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+[To accompany H.R. 3351]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 3351) to amend the Securities Exchange Act of 1934 to
+specify that actions of the Advocate for Small Business Capital For-
+mation are not a collection of information under the Paperwork Re-
+duction Act, having considered the same, reports favorably thereon
+with an amendment and recommends that the bill as amended do
+pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Consideration ........................................................................................ 3
+Related Hearings ..................................................................................................... 3
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings ............................................................................... 6
+Performance Goals and Objectives ......................................................................... 6
+Committee Cost Estimate ....................................................................................... 6
+New Budget Authority and CBO Cost Estimate ................................................... 6
+Unfunded Mandates Statement .............................................................................. 6
+Earmark Statement ................................................................................................. 6
+Federal Advisory Committee Act Statement ......................................................... 6
+Applicability to the Legislative Branch ................................................................. 7
+Duplication of Federal Programs ............................................................................ 7
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 7
+Changes in Existing Law Made by the Bill, as Reported ..................................... 7
+Committee Letters ................................................................................................... 17
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+2
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Improving Access to Small Business Information
+Act’’.
+SEC. 2. EXCLUSION FROM THE PAPERWORK REDUCTION ACT.
+
+Section 4:
+Section 4(j) of the Securities Exchange Act of 1934 (15 U.S.C. 78d(j)) is amended
+by adding at the end the following:
+‘‘(10) EXCLUSIONFROMTHEPAPERWORKREDUCTIONACT.—
+‘‘(A) IN GENERAL.—Actions taken by the Advocate for Small Business
+Capital Formation under this subsection shall not be a ‘collection of infor-
+mation’ for purposes of subchapter I of chapter 35 of title 44, United States
+Code (commonly known as the ‘Paperwork Reduction Act’).
+‘‘(B) EXCEPTIONS.—Notwithstanding subparagraph (A), the requirements
+under subsections (c)(1), (c)(4), and (i) of section 3506 of title 44, United
+States Code, and section 3507(a)(1)(A) of such title shall apply to actions
+taken by the Advocate for Small Business Capital Formation under this
+subsection, except that the Commission shall not be required—
+‘‘(i) to submit a collection of information by the Advocate to the Direc-
+tor of the Office of Management and Budget, as referenced under sec-
+tion 3506(c)(1)(A) of such title;
+‘‘(ii) to display a control number on a collection of information by the
+Advocate, as described under section 3506(c)(1)(B)(i) of such title (or to
+inform a person receiving a collection of information from the Advocate
+that the collection of information needs to display a control number, as
+described under section 3506(c)(1)(B)(iii)(V) of such title); or
+‘‘(iii) to indicate a collection of information by the Advocate is in ac-
+cordance with the clearance requirements of section 3507 of such title,
+as described under section 3506(c)(1)(B)(ii) of such title.’’.
+PURPOSE AND SUMMARY
+H.R. 3351, the Improving Access to Small Business Information
+Act, was introduced on May 13, 2025, by Representative Young
+Kim (CA–40). The bill amends the Securities Exchange Act of 1934
+to specify that actions of the Advocate for Small Business Capital
+Formation are not a collection of information under the Paperwork
+Reduction Act.
+BACKGROUND AND NEED FOR LEGISLATION
+The Securities and Exchange Commission’s (SEC) Advocate for
+Small Business Capital Formation (‘‘the Advocate’’) is an important
+independent voice at the SEC for American entrepreneurs, small
+businesses, and capital formation more broadly. Each year, the Ad-
+vocate and its staff host events around the country to support
+emerging, privately held companies up to small public companies
+and better understand their most pressing capital raising issues.
+Such interactions help the Advocate analyze the potential impact
+of policy changes likely to significantly affect small businesses and
+their investors.
+Under current law, the Advocate may not collect information—
+such as through surveys or studies—from small businesses and en-
+trepreneurs without triggering the Paperwork Reduction Act. This
+in turn introduces a host of regulatory hurdles. By clarifying that
+such actions of the Advocate are not a collection of information
+under the Paperwork Reduction Act, H.R. 3351 will enable the Ad-
+vocate to engage with American small businesses more easily
+around the country to better understand the capital formation chal-
+lenges they face, especially as they relate to policymaking in Wash-
+ington. This simple fix will allow the Advocate to be a more effec-
+tive voice in support of American entrepreneurs and capital forma-
+tion.
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+3
+COMMITTEE CONSIDERATION
+118TH CONGRESS
+On March 10, 2023, Representative Young Kim (R–CA) intro-
+duced H.R. 1548, the Improving Access to Small Business Informa-
+tion Act, with Representative Josh Gottheimer (D–NJ) as original
+cosponsor. This bill is the original iteration of H.R. 3351. The bill
+was referred to the Committee on Financial Services and the Com-
+mittee on Oversight and Accountability. The Subcommittee on Cap-
+ital Markets of the Committee on Financial Services held a hearing
+on April 19, 2023, titled ‘‘A Roadmap for Growth: Reforms to En-
+courage Capital Formation and Investment Opportunities for All
+Americans.’’ On April 26, 2023, the Committee on Financial Serv-
+ices ordered H.R. 2796 to be reported favorably to the House of
+Representatives by a vote of 41–0. On July 11, 2023, the House
+suspended the rules and passed the bill by a recorded vote of 398–
+
+Section 5:
+11. It was received in the Senate and referred to the Committee
+on Banking, Housing, and Urban Affairs.
+119TH CONGRESS
+On May 13, 2025, Representative Kim introduced H.R. 3351, the
+Improving Access to Small Business Information Act, with Rep-
+resentative Gottheimer as an original cosponsor. Representative
+Pete Sessions (R–TX) was added subsequently as a cosponsor. The
+bill was referred to the Committee on Financial Services and addi-
+tionally to the Committee on Oversight and Government Reform.
+The bill was attached to the February 26, 2025, hearing titled ‘‘The
+Future of American Capital: Strengthening Public and Private
+Markets by Increasing Investor Access and Facilitating Capital
+Formation’’ and the March 25, 2025, hearing titled, ‘‘Beyond Silicon
+Valley: Expanding Access to Capital Across America.’’
+On May 20, 2025, the Committee met in open session to consider,
+among others, H.R. 3351. The Committee ordered H.R. 3351, as
+amended, to be reported favorably to the House of Representatives.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearings were used to develop
+H.R. 3351:
+The Capital Markets Subcommittee of the Committee on Finan-
+cial Services held a February 26, 2025, hearing titled ‘‘The Future
+of American Capital: Strengthening Public and Private Markets by
+Increasing Investor Access and Facilitating Capital Formation’’ and
+the Full Committee held a March 25, 2025, hearing titled, ‘‘Beyond
+Silicon Valley: Expanding Access to Capital Across America.’’ A dis-
+cussion draft version of the bill was attached to both hearings. The
+following witnesses testified at the February 26, 2025, hearing: Mr.
+Andrew Barnell, CEO and Co-Founder, Geneoscopy; Mr. McKeever
+Conwell, Founder and Managing Partner, RareBreed Ventures; Ms.
+Rebecca Kacaba, CEO and Co-Founder, DealMaker; Ms. Anna
+Pinedo, Partner, Mayer Brown; and Ms. Alexandra Thornton, Sen-
+ior Director, Financial Regulation, Center for American Progress.
+The following witnesses testified at the March 25, 2025, hearing:
+Mr. Steve Case, Chairman and CEO, Revolution LLC; Mr. Bill
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+4
+Newell, Senior Business Advisor & Former CEO, Sutro Biopharma;
+Ms. Candice Matthews Brackeen, General Partner, Lightship Cap-
+ital; Mr. Joel Trotter, Partner, Latham & Watkins LLP; and Ms.
+Amanda Senn, Director of the Alabama Securities Commission.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On May 20, 2025, the Committee ordered H.R. 3351, as amend-
+ed, to be reported favorably to the House by a recorded vote of 50
+yeas and 0 nays, a quorum being present. (Record Vote No. FC–
+104).
+Before the question to report was called, the Committee adopted
+an amendment in the nature of a substitute, designated
+KIMCA_033, which made minor edits and technical changes, of-
+fered by Representative Kim. The amendment was adopted by
+voice vote, a quorum being present.
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+5
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 6:
+100.811RH
+8
+oilof
+cihparg
+tresnI
+6
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 3351 is to ensure that the ac-
+tions of the Advocate for Small Business Capital Formation are not
+a collection of information under the Paperwork Reduction Act.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 3351. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of rule XIII, the Committee will adopt as its own the cost
+estimate by the Director of the Congressional Budget Office once
+it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+7
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+
+Section 7:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 8:
+Section 1. Short title
+This section cites H.R. 3351 as the ‘‘Improving Access to Small
+Business Information Act.’’
+
+Section 9:
+Section 2. Definition of accredited investor
+This section amends the Securities Exchange Act of 1934 to speci-
+fy that actions taken by the SEC’s Advocate for Small Business
+Capital Formation are not a ‘‘collection of information’’ under the
+Paperwork Reduction Act and exempts such actions from the most
+burdensome requirements of the Paperwork Reduction Act.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+SECURITIES EXCHANGE ACT OF 1934
+TITLE I—REGULATION OF SECURITIES EXCHANGES
+* * * * * * *
+SECURITIES AND EXCHANGE COMMISSION
+SEC. 4. (a) There is hereby established a Securities and Exchange
+Commission (hereinafter referred to as the ‘‘Commission’’) to be
+composed of five commissioners to be appointed by the President by
+and with the advice and consent of the Senate. Not more than
+three of such commissioners shall be members of the same political
+party, and in making appointments members of different political
+parties shall be appointed alternately as nearly as may be prac-
+ticable. No commissioner shall engage in any other business, voca-
+tion, or employment than that of serving as commissioner, nor
+shall any commissioner participate, directly or indirectly, in any
+stock-market operations or transactions of a character subject to
+regulation by the Commission pursuant to this title. Each commis-
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+8
+sioner shall hold office for a term of five years and until his suc-
+cessor is appointed and has qualified, except that he shall not so
+continue to serve beyond the expiration of the next session of Con-
+gress subsequent to the expiration of said fixed term of office, and
+except (1) any commissioner appointed to fill a vacancy occurring
+prior to the expiration of the term for which his predecessor was
+appointed shall be appointed for the remainder of such term, and
+(2) the terms of office of the commissioners first taking office after
+the enactment of this title shall expire as designated by the Presi-
+dent at the time of nomination, one at the end of one year, one at
+the end of two years, one at the end of three years, one at the end
+of four years, and one at the end of five years, after the date of the
+enactment of this title.
+(b) APPOINTMENT AND COMPENSATION OF STAFF AND LEASING AU-
+THORITY.—
+(1) APPOINTMENT AND COMPENSATION.—The Commission
+shall appoint and compensate officers, attorneys, economists,
+examiners, and other employees in accordance with section
+4802 of title 5, United States Code.
+(2) REPORTING OF INFORMATION.—In establishing and adjust-
+ing schedules of compensation and benefits for officers, attor-
+neys, economists, examiners, and other employees of the Com-
+mission under applicable provisions of law, the Commission
+shall inform the heads of the agencies referred to under section
+1206 of the Financial Institutions Reform, Recovery, and En-
+forcement Act of 1989 (12 U.S.C. 1833b) and Congress of such
+compensation and benefits and shall seek to maintain com-
+parability with such agencies regarding compensation and ben-
+efits.
+(3) LEASING AUTHORITY.—Nothwithstanding any other provi-
+sion of law, the Commission is authorized to enter directly into
+leases for real property for office, meeting, storage, and such
+other space as is necessary to carry out its functions, and shall
+be exempt from any General Services Administration space
+management regulations or directives.
+(c) Notwithstanding any other provision of law, in accordance
+with regulations which the Commission shall prescribe to prevent
+conflicts of interest, the Commission may accept payment and re-
+imbursement, in cash or in kind, from non-Federal agencies, orga-
+nizations, and individuals for travel, subsistence, and other nec-
+essary expenses incurred by Commission members and employees
+in attending meetings and conferences concerning the functions or
+activities of the Commission. Any payment or reimbursement ac-
+cepted shall be credited to the appropriated funds of the Commis-
+sion. The amount of travel, subsistence, and other necessary ex-
+penses for members and employees paid or reimbursed under this
+subsection may exceed per diem amounts established in official
+travel regulations, but the Commission may include in its regula-
+tions under this subsection a limitation on such amounts.
+(d) Notwithstanding any other provision of law, former employers
+of participants in the Commission’s professional fellows programs
+may pay such participants their actual expenses for relocation to
+Washington, District of Columbia, to facilitate their participation in
+such programs, and program participants may accept such pay-
+ments.
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+9
+(e) Notwithstanding any other provision of law, whenever any fee
+is required to be paid to the Commission pursuant to any provision
+of the securities laws or any other law, the Commission may pro-
+vide by rule that such fee shall be paid in a manner other than in
+cash and the Commission may also specify the time that such fee
+shall be determined and paid relative to the filing of any statement
+or document with the Commission.
+(f) REIMBURSEMENT OF EXPENSES FOR ASSISTING FOREIGN SECU-
+RITIES AUTHORITIES.—Notwithstanding any other provision of law,
+the Commission may accept payment and reimbursement, in cash
+or in kind, from a foreign securities authority, or made on behalf
+of such authority, for necessary expenses incurred by the Commis-
+sion, its members, and employees in carrying out any investigation
+pursuant to section 21(a)(2) of this title or in providing any other
+assistance to a foreign securities authority. Any payment or reim-
+bursement accepted shall be considered a reimbursement to the ap-
+propriated funds of the Commission.
+(g) OFFICE OF THE INVESTOR ADVOCATE.—
+(1) OFFICE ESTABLISHED.—There is established within the
+Commission the Office of the Investor Advocate (in this sub-
+
+Section 10:
+section referred to as the ‘‘Office’’).
+(2) INVESTOR ADVOCATE.—
+(A) IN GENERAL.—The head of the Office shall be the In-
+vestor Advocate, who shall—
+(i) report directly to the Chairman; and
+(ii) be appointed by the Chairman, in consultation
+with the Commission, from among individuals having
+experience in advocating for the interests of investors
+in securities and investor protection issues, from the
+perspective of investors.
+(B) COMPENSATION.—The annual rate of pay for the In-
+vestor Advocate shall be equal to the highest rate of an-
+nual pay for other senior executives who report to the
+Chairman of the Commission.
+(C) LIMITATION ON SERVICE.—An individual who serves
+as the Investor Advocate may not be employed by the
+Commission—
+(i) during the 2-year period ending on the date of ap-
+pointment as Investor Advocate; or
+(ii) during the 5-year period beginning on the date
+on which the person ceases to serve as the Investor
+Advocate.
+(3) STAFF OF OFFICE.—The Investor Advocate, after consulta-
+tion with the Chairman of the Commission, may retain or em-
+ploy independent counsel, research staff, and service staff, as
+the Investor Advocate deems necessary to carry out the func-
+tions, powers, and duties of the Office.
+(4) FUNCTIONS OF THE INVESTOR ADVOCATE.—The Investor
+Advocate shall—
+(A) assist retail investors in resolving significant prob-
+lems such investors may have with the Commission or
+with self-regulatory organizations;
+(B) identify areas in which investors would benefit from
+changes in the regulations of the Commission or the rules
+of self-regulatory organizations;
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+10
+(C) identify problems that investors have with financial
+service providers and investment products;
+(D) analyze the potential impact on investors of—
+(i) proposed regulations of the Commission; and
+(ii) proposed rules of self-regulatory organizations
+registered under this title; and
+(E) to the extent practicable, propose to the Commission
+changes in the regulations or orders of the Commission
+and to Congress any legislative, administrative, or per-
+sonnel changes that may be appropriate to mitigate prob-
+lems identified under this paragraph and to promote the
+interests of investors.
+(5) ACCESS TO DOCUMENTS.—The Commission shall ensure
+that the Investor Advocate has full access to the documents of
+the Commission and any self-regulatory organization, as nec-
+essary to carry out the functions of the Office.
+(6) ANNUAL REPORTS.—
+(A) REPORT ON OBJECTIVES.—
+(i) IN GENERAL.—Not later than June 30 of each
+year after 2010, the Investor Advocate shall submit to
+the Committee on Banking, Housing, and Urban Af-
+fairs of the Senate and the Committee on Financial
+Services of the House of Representatives a report on
+the objectives of the Investor Advocate for the fol-
+lowing fiscal year.
+(ii) CONTENTS.—Each report required under clause
+(i) shall contain full and substantive analysis and ex-
+planation.
+(B) REPORT ON ACTIVITIES.—
+(i) IN GENERAL.—Not later than December 31 of
+each year after 2010, the Investor Advocate shall sub-
+mit to the Committee on Banking, Housing, and
+Urban Affairs of the Senate and the Committee on Fi-
+nancial Services of the House of Representatives a re-
+port on the activities of the Investor Advocate during
+the immediately preceding fiscal year.
+(ii) CONTENTS.—Each report required under clause
+(i) shall include—
+(I) appropriate statistical information and full
+and substantive analysis;
+(II) information on steps that the Investor Advo-
+cate has taken during the reporting period to im-
+prove investor services and the responsiveness of
+the Commission and self-regulatory organizations
+to investor concerns;
+(III) a summary of the most serious problems
+encountered by investors during the reporting pe-
+riod;
+(IV) an inventory of the items described in sub-
+clause (III) that includes—
+(aa) identification of any action taken by
+the Commission or the self-regulatory organi-
+zation and the result of such action;
+(bb) the length of time that each item has
+remained on such inventory; and
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+11
+(cc) for items on which no action has been
+taken, the reasons for inaction, and an identi-
+fication of any official who is responsible for
+such action;
+(V) recommendations for such administrative
+and legislative actions as may be appropriate to
+resolve problems encountered by investors; and
+(VI) any other information, as determined ap-
+propriate by the Investor Advocate.
+(iii) INDEPENDENCE.—Each report required under
+this paragraph shall be provided directly to the Com-
+mittees listed in clause (i) without any prior review or
+comment from the Commission, any commissioner,
+any other officer or employee of the Commission, or
+the Office of Management and Budget.
+(iv) CONFIDENTIALITY.—No report required under
+clause (i) may contain confidential information.
+(7) REGULATIONS.—The Commission shall, by regulation, es-
+tablish procedures requiring a formal response to all rec-
+ommendations submitted to the Commission by the Investor
+Advocate, not later than 3 months after the date of such sub-
+mission.
+(8) OMBUDSMAN.—
+(A) APPOINTMENT.—Not later than 180 days after the
+date on which the first Investor Advocate is appointed
+under paragraph (2)(A)(i), the Investor Advocate shall ap-
+point an Ombudsman, who shall report directly to the In-
+vestor Advocate.
+(B) DUTIES.—The Ombudsman appointed under sub-
+paragraph (A) shall—
+(i) act as a liaison between the Commission and any
+retail investor in resolving problems that retail inves-
+tors may have with the Commission or with self-regu-
+latory organizations;
+(ii) review and make recommendations regarding
+policies and procedures to encourage persons to
+present questions to the Investor Advocate regarding
+compliance with the securities laws; and
+(iii) establish safeguards to maintain the confiden-
+tiality of communications between the persons de-
+scribed in clause (ii) and the Ombudsman.
+(C) LIMITATION.—In carrying out the duties of the Om-
+budsman under subparagraph (B), the Ombudsman shall
+utilize personnel of the Commission to the extent prac-
+ticable. Nothing in this paragraph shall be construed as
+replacing, altering, or diminishing the activities of any om-
+budsman or similar office of any other agency.
+(D) REPORT.—The Ombudsman shall submit a semi-
+annual report to the Investor Advocate that describes the
+activities and evaluates the effectiveness of the Ombuds-
+man during the preceding year. The Investor Advocate
+shall include the reports required under this section in the
+reports required to be submitted by the Inspector Advocate
+under paragraph (6).
+(h) EXAMINERS.—
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+12
+(1) DIVISION OF TRADING AND MARKETS.—The Division of
+Trading and Markets of the Commission, or any successor or-
+ganizational unit, shall have a staff of examiners who shall—
+(A) perform compliance inspections and examinations of
+entities under the jurisdiction of that Division; and
+(B) report to the Director of that Division.
+(2) DIVISION OF INVESTMENT MANAGEMENT.—The Division of
+Investment Management of the Commission, or any successor
+organizational unit, shall have a staff of examiners who shall—
+(A) perform compliance inspections and examinations of
+entities under the jurisdiction of that Division; and
+(B) report to the Director of that Division.
+(i) SECURITIES AND EXCHANGE COMMISSION RESERVE FUND.—
+(1) RESERVE FUND ESTABLISHED.—There is established in the
+Treasury of the United States a separate fund, to be known as
+the ‘‘Securities and Exchange Commission Reserve Fund’’ (re-
+ferred to in this subsection as the ‘‘Reserve Fund’’).
+(2) RESERVE FUND AMOUNTS.—
+(A) IN GENERAL.—Except as provided in subparagraph
+(B), any registration fees collected by the Commission
+under section 6(b) of the Securities Act of 1933 (15 U.S.C.
+77f(b)) or section 24(f) of the Investment Company Act of
+1940 (15 U.S.C. 80a-24(f)) shall be deposited into the Re-
+serve Fund.
+(B) LIMITATIONS.—For any 1 fiscal year—
+(i) the amount deposited in the Fund may not ex-
+ceed $50,000,000; and
+(ii) the balance in the Fund may not exceed
+$100,000,000.
+(C) EXCESS FEES.—Any amounts in excess of the limita-
+tions described in subparagraph (B) that the Commission
+collects from registration fees under section 6(b) of the Se-
+curities Act of 1933 (15 U.S.C. 77f(b)) or section 24(f) of the
+Investment Company Act of 1940 (15 U.S.C. 80a-24(f))
+shall be deposited in the General Fund of the Treasury of
+the United States and shall not be available for obligation
+by the Commission.
+(3) USE OF AMOUNTS IN RESERVE FUND.—The Commission
+may obligate amounts in the Reserve Fund, not to exceed a
+total of $100,000,000 in any 1 fiscal year, as the Commission
+determines is necessary to carry out the functions of the Com-
+mission. Any amounts in the reserve fund shall remain avail-
+able until expended. Not later than 10 days after the date on
+which the Commission obligates amounts under this para-
+graph, the Commission shall notify Congress of the date,
+amount, and purpose of the obligation.
+(4) RULE OF CONSTRUCTION.—Amounts collected and depos-
+ited in the Reserve Fund shall not be construed to be Govern-
+ment funds or appropriated monies and shall not be subject to
+apportionment for the purpose of chapter 15 of title 31, United
+States Code, or under any other authority.
+(j) OFFICE OF THE ADVOCATE FOR SMALL BUSINESS CAPITAL FOR-
+MATION.—
+(1) OFFICE ESTABLISHED.—There is established within the
+Commission the Office of the Advocate for Small Business Cap-
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+13
+ital Formation (hereafter in this subsection referred to as the
+‘‘Office’’).
+(2) ADVOCATE FOR SMALL BUSINESS CAPITAL FORMATION.—
+(A) IN GENERAL.—The head of the Office shall be the Ad-
+vocate for Small Business Capital Formation, who shall—
+(i) report directly to the Commission; and
+(ii) be appointed by the Commission, from among in-
+dividuals having experience in advocating for the in-
+terests of small businesses and encouraging small
+business capital formation.
+(B) COMPENSATION.—The annual rate of pay for the Ad-
+vocate for Small Business Capital Formation shall be
+equal to the highest rate of annual pay for other senior ex-
+ecutives who report directly to the Commission.
+(C) NO CURRENT EMPLOYEE OF THE COMMISSION.—An in-
+dividual may not be appointed as the Advocate for Small
+Business Capital Formation if the individual is currently
+employed by the Commission.
+(3) STAFF OF OFFICE.—The Advocate for Small Business Cap-
+ital Formation, after consultation with the Commission, may
+retain or employ independent counsel, research staff, and serv-
+ice staff, as the Advocate for Small Business Capital Formation
+determines to be necessary to carry out the functions of the Of-
+fice.
+(4) FUNCTIONS OF THE ADVOCATE FOR SMALL BUSINESS CAP-
+ITAL FORMATION.—The Advocate for Small Business Capital
+Formation shall—
+(A) assist small businesses and small business investors
+in resolving significant problems such businesses and in-
+vestors may have with the Commission or with self-regu-
+latory organizations;
+(B) identify areas in which small businesses and small
+business investors would benefit from changes in the regu-
+lations of the Commission or the rules of self-regulatory or-
+ganizations;
+(C) identify problems that small businesses have with
+securing access to capital, including any unique challenges
+to minority-owned small businesses, women-owned small
+businesses, and small businesses affected by hurricanes or
+other natural disasters;
+(D) analyze the potential impact on small businesses and
+small business investors of—
+(i) proposed regulations of the Commission that are
+likely to have a significant economic impact on small
+businesses and small business capital formation; and
+(ii) proposed rules that are likely to have a signifi-
+cant economic impact on small businesses and small
+business capital formation of self-regulatory organiza-
+tions registered under this title;
+(E) conduct outreach to small businesses and small busi-
+ness investors, including through regional roundtables, in
+order to solicit views on relevant capital formation issues;
+(F) to the extent practicable, propose to the Commission
+changes in the regulations or orders of the Commission
+and to Congress any legislative, administrative, or per-
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+14
+sonnel changes that may be appropriate to mitigate prob-
+lems identified under this paragraph and to promote the
+interests of small businesses and small business investors;
+(G) consult with the Investor Advocate on proposed rec-
+ommendations made under subparagraph (F); and
+(H) advise the Investor Advocate on issues related to
+small businesses and small business investors.
+(5) ACCESS TO DOCUMENTS.—The Commission shall ensure
+that the Advocate for Small Business Capital Formation has
+full access to the documents and information of the Commis-
+sion and any self-regulatory organization, as necessary to carry
+out the functions of the Office.
+(6) ANNUAL REPORT ON ACTIVITIES.—
+(A) IN GENERAL.—Not later than December 31 of each
+year after 2015, the Advocate for Small Business Capital
+Formation shall submit to the Committee on Banking,
+Housing, and Urban Affairs of the Senate and the Com-
+mittee on Financial Services of the House of Representa-
+tives a report on the activities of the Advocate for Small
+Business Capital Formation during the immediately pre-
+ceding fiscal year.
+(B) CONTENTS.—Each report required under subpara-
+graph (A) shall include—
+(i) appropriate statistical information and full and
+substantive analysis;
+(ii) information on steps that the Advocate for Small
+Business Capital Formation has taken during the re-
+porting period to improve small business services and
+the responsiveness of the Commission and self-regu-
+latory organizations to small business and small busi-
+ness investor concerns;
+(iii) a summary of the most serious issues encoun-
+tered by small businesses and small business inves-
+tors, including any unique issues encountered by mi-
+nority-owned small businesses, women-owned small
+businesses, and small businesses affected by hurri-
+canes or other natural disasters and their investors,
+during the reporting period;
+(iv) an inventory of the items summarized under
+clause (iii) (including items summarized under such
+clause for any prior reporting period on which no ac-
+tion has been taken or that have not been resolved to
+the satisfaction of the Advocate for Small Business
+Capital Formation as of the beginning of the reporting
+period covered by the report) that includes—
+(I) identification of any action taken by the
+Commission or the self-regulatory organization
+and the result of such action;
+(II) the length of time that each item has re-
+mained on such inventory; and
+(III) for items on which no action has been
+taken, the reasons for inaction, and an identifica-
+tion of any official who is responsible for such ac-
+tion;
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+15
+(v) recommendations for such changes to the regula-
+tions, guidance and orders of the Commission and
+such legislative actions as may be appropriate to re-
+solve problems with the Commission and self-regu-
+latory organizations encountered by small businesses
+and small business investors and to encourage small
+business capital formation; and
+(vi) any other information, as determined appro-
+priate by the Advocate for Small Business Capital For-
+mation.
+(C) CONFIDENTIALITY.—No report required by subpara-
+graph (A) may contain confidential information.
+(D) INDEPENDENCE.—Each report required under sub-
+paragraph (A) shall be provided directly to the committees
+of Congress listed in such subparagraph without any prior
+review or comment from the Commission, any commis-
+sioner, any other officer or employee of the Commission, or
+the Office of Management and Budget.
+(7) REGULATIONS.—The Commission shall establish proce-
+dures requiring a formal response to all recommendations sub-
+mitted to the Commission by the Advocate for Small Business
+Capital Formation, not later than 3 months after the date of
+such submission.
+(8) GOVERNMENT-BUSINESS FORUM ON SMALL BUSINESS CAP-
+ITAL FORMATION.—The Advocate for Small Business Capital
+Formation shall be responsible for planning, organizing, and
+executing the annual Government-Business Forum on Small
+Business Capital Formation described in section 503 of the
+Small Business Investment Incentive Act of 1980 (15 U.S.C.
+80c–1).
+(9) RULE OF CONSTRUCTION.—Nothing in this subsection may
+be construed as replacing or reducing the responsibilities of the
+Investor Advocate with respect to small business investors.
+(10) EXCLUSION FROM THE PAPERWORK REDUCTION ACT.—
+(A) IN GENERAL.—Actions taken by the Advocate for
+Small Business Capital Formation under this subsection
+shall not be a ‘‘collection of information’’ for purposes of
+subchapter I of chapter 35 of title 44, United States Code
+(commonly known as the ‘‘Paperwork Reduction Act’’).
+(B) EXCEPTIONS.—Notwithstanding subparagraph (A),
+the requirements under subsections (c)(1), (c)(4), and (i) of
+
+Section 11:
+section 3506 of title 44, United States Code, and section
+3507(a)(1)(A) of such title shall apply to actions taken by
+the Advocate for Small Business Capital Formation under
+this subsection, except that the Commission shall not be re-
+quired—
+(i) to submit a collection of information by the Advo-
+cate to the Director of the Office of Management and
+Budget, as referenced under section 3506(c)(1)(A) of
+such title;
+(ii) to display a control number on a collection of in-
+formation by the Advocate, as described under section
+3506(c)(1)(B)(i) of such title (or to inform a person re-
+ceiving a collection of information from the Advocate
+that the collection of information needs to display a
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6659 Sfmt 6603 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+16
+control number, as described under section
+3506(c)(1)(B)(iii)(V) of such title); or
+(iii) to indicate a collection of information by the Ad-
+vocate is in accordance with the clearance requirements
+of section 3507 of such title, as described under section
+3506(c)(1)(B)(ii) of such title.
+(k) OPEN DATA PUBLICATION.—All public data assets published
+by the Commission under the securities laws and the Dodd-Frank
+Wall Street Reform and Consumer Protection Act (Public Law 111–
+203; 124 Stat. 1376) shall be—
+(1) made available as an open Government data asset (as de-
+fined in section 3502 of title 44, United States Code);
+(2) freely available for download;
+(3) rendered in a human-readable format; and
+(4) accessible via application programming interface where
+appropriate.
+* * * * * * *
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+17
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00017 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 12:
+200.811RH
+ereh
+32
+oilof
+tesffo
+tresnI
+18
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00018 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 13:
+300.811RH
+ereh
+42
+oilof
+tesffo
+tresnI
+19
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00019 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 14:
+400.811RH
+ereh
+52
+oilof
+tesffo
+tresnI
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPT. 119–118
+1st Session " HOUSE OF REPRESENTATIVES ! Part 1
+IMPROVING ACCESS TO SMALL BUSINESS INFORMATION
+ACT
+JUNE3, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+[To accompany H.R. 3351]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 3351) to amend the Securities Exchange Act of 1934 to
+specify that actions of the Advocate for Small Business Capital For-
+mation are not a collection of information under the Paperwork Re-
+duction Act, having considered the same, reports favorably thereon
+with an amendment and recommends that the bill as amended do
+pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Consideration ........................................................................................ 3
+Related Hearings ..................................................................................................... 3
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings ............................................................................... 6
+Performance Goals and Objectives ......................................................................... 6
+Committee Cost Estimate ....................................................................................... 6
+New Budget Authority and CBO Cost Estimate ................................................... 6
+Unfunded Mandates Statement .............................................................................. 6
+Earmark Statement ................................................................................................. 6
+Federal Advisory Committee Act Statement ......................................................... 6
+Applicability to the Legislative Branch ................................................................. 7
+Duplication of Federal Programs ............................................................................ 7
+Section-by-Section Analysis of the Legislation ...................................................... 7
+Changes in Existing Law Made by the Bill, as Reported ..................................... 7
+Committee Letters ................................................................................................... 17
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+2
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Improving Access to Small Business Information
+Act’’.
+SEC. 2. EXCLUSION FROM THE PAPERWORK REDUCTION ACT.
+Section 4(j) of the Securities Exchange Act of 1934 (15 U.S.C. 78d(j)) is amended
+by adding at the end the following:
+‘‘(10) EXCLUSIONFROMTHEPAPERWORKREDUCTIONACT.—
+‘‘(A) IN GENERAL.—Actions taken by the Advocate for Small Business
+Capital Formation under this subsection shall not be a ‘collection of infor-
+mation’ for purposes of subchapter I of chapter 35 of title 44, United States
+Code (commonly known as the ‘Paperwork Reduction Act’).
+‘‘(B) EXCEPTIONS.—Notwithstanding subparagraph (A), the requirements
+under subsections (c)(1), (c)(4), and (i) of section 3506 of title 44, United
+States Code, and section 3507(a)(1)(A) of such title shall apply to actions
+taken by the Advocate for Small Business Capital Formation under this
+subsection, except that the Commission shall not be required—
+‘‘(i) to submit a collection of information by the Advocate to the Direc-
+tor of the Office of Management and Budget, as referenced under sec-
+tion 3506(c)(1)(A) of such title;
+‘‘(ii) to display a control number on a collection of information by the
+Advocate, as described under section 3506(c)(1)(B)(i) of such title (or to
+inform a person receiving a collection of information from the Advocate
+that the collection of information needs to display a control number, as
+described under section 3506(c)(1)(B)(iii)(V) of such title); or
+‘‘(iii) to indicate a collection of information by the Advocate is in ac-
+cordance with the clearance requirements of section 3507 of such title,
+as described under section 3506(c)(1)(B)(ii) of such title.’’.
+PURPOSE AND SUMMARY
+H.R. 3351, the Improving Access to Small Business Information
+Act, was introduced on May 13, 2025, by Representative Young
+Kim (CA–40). The bill amends the Securities Exchange Act of 1934
+to specify that actions of the Advocate for Small Business Capital
+Formation are not a collection of information under the Paperwork
+Reduction Act.
+BACKGROUND AND NEED FOR LEGISLATION
+The Securities and Exchange Commission’s (SEC) Advocate for
+Small Business Capital Formation (‘‘the Advocate’’) is an important
+independent voice at the SEC for American entrepreneurs, small
+businesses, and capital formation more broadly. Each year, the Ad-
+vocate and its staff host events around the country to support
+emerging, privately held companies up to small public companies
+and better understand their most pressing capital raising issues.
+Such interactions help the Advocate analyze the potential impact
+of policy changes likely to significantly affect small businesses and
+their investors.
+Under current law, the Advocate may not collect information—
+such as through surveys or studies—from small businesses and en-
+trepreneurs without triggering the Paperwork Reduction Act. This
+in turn introduces a host of regulatory hurdles. By clarifying that
+such actions of the Advocate are not a collection of information
+under the Paperwork Reduction Act, H.R. 3351 will enable the Ad-
+vocate to engage with American small businesses more easily
+around the country to better understand the capital formation chal-
+lenges they face, especially as they relate to policymaking in Wash-
+ington. This simple fix will allow the Advocate to be a more effec-
+tive voice in support of American entrepreneurs and capital forma-
+tion.
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+3
+COMMITTEE CONSIDERATION
+118TH CONGRESS
+On March 10, 2023, Representative Young Kim (R–CA) intro-
+duced H.R. 1548, the Improving Access to Small Business Informa-
+tion Act, with Representative Josh Gottheimer (D–NJ) as original
+cosponsor. This bill is the original iteration of H.R. 3351. The bill
+was referred to the Committee on Financial Services and the Com-
+mittee on Oversight and Accountability. The Subcommittee on Cap-
+ital Markets of the Committee on Financial Services held a hearing
+on April 19, 2023, titled ‘‘A Roadmap for Growth: Reforms to En-
+courage Capital Formation and Investment Opportunities for All
+Americans.’’ On April 26, 2023, the Committee on Financial Serv-
+ices ordered H.R. 2796 to be reported favorably to the House of
+Representatives by a vote of 41–0. On July 11, 2023, the House
+suspended the rules and passed the bill by a recorded vote of 398–
+11. It was received in the Senate and referred to the Committee
+on Banking, Housing, and Urban Affairs.
+119TH CONGRESS
+On May 13, 2025, Representative Kim introduced H.R. 3351, the
+Improving Access to Small Business Information Act, with Rep-
+resentative Gottheimer as an original cosponsor. Representative
+Pete Sessions (R–TX) was added subsequently as a cosponsor. The
+bill was referred to the Committee on Financial Services and addi-
+tionally to the Committee on Oversight and Government Reform.
+The bill was attached to the February 26, 2025, hearing titled ‘‘The
+Future of American Capital: Strengthening Public and Private
+Markets by Increasing Investor Access and Facilitating Capital
+Formation’’ and the March 25, 2025, hearing titled, ‘‘Beyond Silicon
+Valley: Expanding Access to Capital Across America.’’
+On May 20, 2025, the Committee met in open session to consider,
+among others, H.R. 3351. The Committee ordered H.R. 3351, as
+amended, to be reported favorably to the House of Representatives.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearings were used to develop
+H.R. 3351:
+The Capital Markets Subcommittee of the Committee on Finan-
+cial Services held a February 26, 2025, hearing titled ‘‘The Future
+of American Capital: Strengthening Public and Private Markets by
+Increasing Investor Access and Facilitating Capital Formation’’ and
+the Full Committee held a March 25, 2025, hearing titled, ‘‘Beyond
+Silicon Valley: Expanding Access to Capital Across America.’’ A dis-
+cussion draft version of the bill was attached to both hearings. The
+following witnesses testified at the February 26, 2025, hearing: Mr.
+Andrew Barnell, CEO and Co-Founder, Geneoscopy; Mr. McKeever
+Conwell, Founder and Managing Partner, RareBreed Ventures; Ms.
+Rebecca Kacaba, CEO and Co-Founder, DealMaker; Ms. Anna
+Pinedo, Partner, Mayer Brown; and Ms. Alexandra Thornton, Sen-
+ior Director, Financial Regulation, Center for American Progress.
+The following witnesses testified at the March 25, 2025, hearing:
+Mr. Steve Case, Chairman and CEO, Revolution LLC; Mr. Bill
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+4
+Newell, Senior Business Advisor & Former CEO, Sutro Biopharma;
+Ms. Candice Matthews Brackeen, General Partner, Lightship Cap-
+ital; Mr. Joel Trotter, Partner, Latham & Watkins LLP; and Ms.
+Amanda Senn, Director of the Alabama Securities Commission.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On May 20, 2025, the Committee ordered H.R. 3351, as amend-
+ed, to be reported favorably to the House by a recorded vote of 50
+yeas and 0 nays, a quorum being present. (Record Vote No. FC–
+104).
+Before the question to report was called, the Committee adopted
+an amendment in the nature of a substitute, designated
+KIMCA_033, which made minor edits and technical changes, of-
+fered by Representative Kim. The amendment was adopted by
+voice vote, a quorum being present.
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+5
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+100.811RH
+8
+oilof
+cihparg
+tresnI
+
+6
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 3351 is to ensure that the ac-
+tions of the Advocate for Small Business Capital Formation are not
+a collection of information under the Paperwork Reduction Act.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 3351. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of rule XIII, the Committee will adopt as its own the cost
+estimate by the Director of the Congressional Budget Office once
+it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+7
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+This section cites H.R. 3351 as the ‘‘Improving Access to Small
+Business Information Act.’’
+Section 2. Definition of accredited investor
+This section amends the Securities Exchange Act of 1934 to speci-
+fy that actions taken by the SEC’s Advocate for Small Business
+Capital Formation are not a ‘‘collection of information’’ under the
+Paperwork Reduction Act and exempts such actions from the most
+burdensome requirements of the Paperwork Reduction Act.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+SECURITIES EXCHANGE ACT OF 1934
+TITLE I—REGULATION OF SECURITIES EXCHANGES
+* * * * * * *
+SECURITIES AND EXCHANGE COMMISSION
+SEC. 4. (a) There is hereby established a Securities and Exchange
+Commission (hereinafter referred to as the ‘‘Commission’’) to be
+composed of five commissioners to be appointed by the President by
+and with the advice and consent of the Senate. Not more than
+three of such commissioners shall be members of the same political
+party, and in making appointments members of different political
+parties shall be appointed alternately as nearly as may be prac-
+ticable. No commissioner shall engage in any other business, voca-
+tion, or employment than that of serving as commissioner, nor
+shall any commissioner participate, directly or indirectly, in any
+stock-market operations or transactions of a character subject to
+regulation by the Commission pursuant to this title. Each commis-
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+8
+sioner shall hold office for a term of five years and until his suc-
+cessor is appointed and has qualified, except that he shall not so
+continue to serve beyond the expiration of the next session of Con-
+gress subsequent to the expiration of said fixed term of office, and
+except (1) any commissioner appointed to fill a vacancy occurring
+prior to the expiration of the term for which his predecessor was
+appointed shall be appointed for the remainder of such term, and
+(2) the terms of office of the commissioners first taking office after
+the enactment of this title shall expire as designated by the Presi-
+dent at the time of nomination, one at the end of one year, one at
+the end of two years, one at the end of three years, one at the end
+of four years, and one at the end of five years, after the date of the
+enactment of this title.
+(b) APPOINTMENT AND COMPENSATION OF STAFF AND LEASING AU-
+THORITY.—
+(1) APPOINTMENT AND COMPENSATION.—The Commission
+shall appoint and compensate officers, attorneys, economists,
+examiners, and other employees in accordance with section
+4802 of title 5, United States Code.
+(2) REPORTING OF INFORMATION.—In establishing and adjust-
+ing schedules of compensation and benefits for officers, attor-
+neys, economists, examiners, and other employees of the Com-
+mission under applicable provisions of law, the Commission
+shall inform the heads of the agencies referred to under section
+1206 of the Financial Institutions Reform, Recovery, and En-
+forcement Act of 1989 (12 U.S.C. 1833b) and Congress of such
+compensation and benefits and shall seek to maintain com-
+parability with such agencies regarding compensation and ben-
+efits.
+(3) LEASING AUTHORITY.—Nothwithstanding any other provi-
+sion of law, the Commission is authorized to enter directly into
+leases for real property for office, meeting, storage, and such
+other space as is necessary to carry out its functions, and shall
+be exempt from any General Services Administration space
+management regulations or directives.
+(c) Notwithstanding any other provision of law, in accordance
+with regulations which the Commission shall prescribe to prevent
+conflicts of interest, the Commission may accept payment and re-
+imbursement, in cash or in kind, from non-Federal agencies, orga-
+nizations, and individuals for travel, subsistence, and other nec-
+essary expenses incurred by Commission members and employees
+in attending meetings and conferences concerning the functions or
+activities of the Commission. Any payment or reimbursement ac-
+cepted shall be credited to the appropriated funds of the Commis-
+sion. The amount of travel, subsistence, and other necessary ex-
+penses for members and employees paid or reimbursed under this
+subsection may exceed per diem amounts established in official
+travel regulations, but the Commission may include in its regula-
+tions under this subsection a limitation on such amounts.
+(d) Notwithstanding any other provision of law, former employers
+of participants in the Commission’s professional fellows programs
+may pay such participants their actual expenses for relocation to
+Washington, District of Columbia, to facilitate their participation in
+such programs, and program participants may accept such pay-
+ments.
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+9
+(e) Notwithstanding any other provision of law, whenever any fee
+is required to be paid to the Commission pursuant to any provision
+of the securities laws or any other law, the Commission may pro-
+vide by rule that such fee shall be paid in a manner other than in
+cash and the Commission may also specify the time that such fee
+shall be determined and paid relative to the filing of any statement
+or document with the Commission.
+(f) REIMBURSEMENT OF EXPENSES FOR ASSISTING FOREIGN SECU-
+RITIES AUTHORITIES.—Notwithstanding any other provision of law,
+the Commission may accept payment and reimbursement, in cash
+or in kind, from a foreign securities authority, or made on behalf
+of such authority, for necessary expenses incurred by the Commis-
+sion, its members, and employees in carrying out any investigation
+pursuant to section 21(a)(2) of this title or in providing any other
+assistance to a foreign securities authority. Any payment or reim-
+bursement accepted shall be considered a reimbursement to the ap-
+propriated funds of the Commission.
+(g) OFFICE OF THE INVESTOR ADVOCATE.—
+(1) OFFICE ESTABLISHED.—There is established within the
+Commission the Office of the Investor Advocate (in this sub-
+section referred to as the ‘‘Office’’).
+(2) INVESTOR ADVOCATE.—
+(A) IN GENERAL.—The head of the Office shall be the In-
+vestor Advocate, who shall—
+(i) report directly to the Chairman; and
+(ii) be appointed by the Chairman, in consultation
+with the Commission, from among individuals having
+experience in advocating for the interests of investors
+in securities and investor protection issues, from the
+perspective of investors.
+(B) COMPENSATION.—The annual rate of pay for the In-
+vestor Advocate shall be equal to the highest rate of an-
+nual pay for other senior executives who report to the
+Chairman of the Commission.
+(C) LIMITATION ON SERVICE.—An individual who serves
+as the Investor Advocate may not be employed by the
+Commission—
+(i) during the 2-year period ending on the date of ap-
+pointment as Investor Advocate; or
+(ii) during the 5-year period beginning on the date
+on which the person ceases to serve as the Investor
+Advocate.
+(3) STAFF OF OFFICE.—The Investor Advocate, after consulta-
+tion with the Chairman of the Commission, may retain or em-
+ploy independent counsel, research staff, and service staff, as
+the Investor Advocate deems necessary to carry out the func-
+tions, powers, and duties of the Office.
+(4) FUNCTIONS OF THE INVESTOR ADVOCATE.—The Investor
+Advocate shall—
+(A) assist retail investors in resolving significant prob-
+lems such investors may have with the Commission or
+with self-regulatory organizations;
+(B) identify areas in which investors would benefit from
+changes in the regulations of the Commission or the rules
+of self-regulatory organizations;
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+10
+(C) identify problems that investors have with financial
+service providers and investment products;
+(D) analyze the potential impact on investors of—
+(i) proposed regulations of the Commission; and
+(ii) proposed rules of self-regulatory organizations
+registered under this title; and
+(E) to the extent practicable, propose to the Commission
+changes in the regulations or orders of the Commission
+and to Congress any legislative, administrative, or per-
+sonnel changes that may be appropriate to mitigate prob-
+lems identified under this paragraph and to promote the
+interests of investors.
+(5) ACCESS TO DOCUMENTS.—The Commission shall ensure
+that the Investor Advocate has full access to the documents of
+the Commission and any self-regulatory organization, as nec-
+essary to carry out the functions of the Office.
+(6) ANNUAL REPORTS.—
+(A) REPORT ON OBJECTIVES.—
+(i) IN GENERAL.—Not later than June 30 of each
+year after 2010, the Investor Advocate shall submit to
+the Committee on Banking, Housing, and Urban Af-
+fairs of the Senate and the Committee on Financial
+Services of the House of Representatives a report on
+the objectives of the Investor Advocate for the fol-
+lowing fiscal year.
+(ii) CONTENTS.—Each report required under clause
+(i) shall contain full and substantive analysis and ex-
+planation.
+(B) REPORT ON ACTIVITIES.—
+(i) IN GENERAL.—Not later than December 31 of
+each year after 2010, the Investor Advocate shall sub-
+mit to the Committee on Banking, Housing, and
+Urban Affairs of the Senate and the Committee on Fi-
+nancial Services of the House of Representatives a re-
+port on the activities of the Investor Advocate during
+the immediately preceding fiscal year.
+(ii) CONTENTS.—Each report required under clause
+(i) shall include—
+(I) appropriate statistical information and full
+and substantive analysis;
+(II) information on steps that the Investor Advo-
+cate has taken during the reporting period to im-
+prove investor services and the responsiveness of
+the Commission and self-regulatory organizations
+to investor concerns;
+(III) a summary of the most serious problems
+encountered by investors during the reporting pe-
+riod;
+(IV) an inventory of the items described in sub-
+clause (III) that includes—
+(aa) identification of any action taken by
+the Commission or the self-regulatory organi-
+zation and the result of such action;
+(bb) the length of time that each item has
+remained on such inventory; and
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+11
+(cc) for items on which no action has been
+taken, the reasons for inaction, and an identi-
+fication of any official who is responsible for
+such action;
+(V) recommendations for such administrative
+and legislative actions as may be appropriate to
+resolve problems encountered by investors; and
+(VI) any other information, as determined ap-
+propriate by the Investor Advocate.
+(iii) INDEPENDENCE.—Each report required under
+this paragraph shall be provided directly to the Com-
+mittees listed in clause (i) without any prior review or
+comment from the Commission, any commissioner,
+any other officer or employee of the Commission, or
+the Office of Management and Budget.
+(iv) CONFIDENTIALITY.—No report required under
+clause (i) may contain confidential information.
+(7) REGULATIONS.—The Commission shall, by regulation, es-
+tablish procedures requiring a formal response to all rec-
+ommendations submitted to the Commission by the Investor
+Advocate, not later than 3 months after the date of such sub-
+mission.
+(8) OMBUDSMAN.—
+(A) APPOINTMENT.—Not later than 180 days after the
+date on which the first Investor Advocate is appointed
+under paragraph (2)(A)(i), the Investor Advocate shall ap-
+point an Ombudsman, who shall report directly to the In-
+vestor Advocate.
+(B) DUTIES.—The Ombudsman appointed under sub-
+paragraph (A) shall—
+(i) act as a liaison between the Commission and any
+retail investor in resolving problems that retail inves-
+tors may have with the Commission or with self-regu-
+latory organizations;
+(ii) review and make recommendations regarding
+policies and procedures to encourage persons to
+present questions to the Investor Advocate regarding
+compliance with the securities laws; and
+(iii) establish safeguards to maintain the confiden-
+tiality of communications between the persons de-
+scribed in clause (ii) and the Ombudsman.
+(C) LIMITATION.—In carrying out the duties of the Om-
+budsman under subparagraph (B), the Ombudsman shall
+utilize personnel of the Commission to the extent prac-
+ticable. Nothing in this paragraph shall be construed as
+replacing, altering, or diminishing the activities of any om-
+budsman or similar office of any other agency.
+(D) REPORT.—The Ombudsman shall submit a semi-
+annual report to the Investor Advocate that describes the
+activities and evaluates the effectiveness of the Ombuds-
+man during the preceding year. The Investor Advocate
+shall include the reports required under this section in the
+reports required to be submitted by the Inspector Advocate
+under paragraph (6).
+(h) EXAMINERS.—
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+12
+(1) DIVISION OF TRADING AND MARKETS.—The Division of
+Trading and Markets of the Commission, or any successor or-
+ganizational unit, shall have a staff of examiners who shall—
+(A) perform compliance inspections and examinations of
+entities under the jurisdiction of that Division; and
+(B) report to the Director of that Division.
+(2) DIVISION OF INVESTMENT MANAGEMENT.—The Division of
+Investment Management of the Commission, or any successor
+organizational unit, shall have a staff of examiners who shall—
+(A) perform compliance inspections and examinations of
+entities under the jurisdiction of that Division; and
+(B) report to the Director of that Division.
+(i) SECURITIES AND EXCHANGE COMMISSION RESERVE FUND.—
+(1) RESERVE FUND ESTABLISHED.—There is established in the
+Treasury of the United States a separate fund, to be known as
+the ‘‘Securities and Exchange Commission Reserve Fund’’ (re-
+ferred to in this subsection as the ‘‘Reserve Fund’’).
+(2) RESERVE FUND AMOUNTS.—
+(A) IN GENERAL.—Except as provided in subparagraph
+(B), any registration fees collected by the Commission
+under section 6(b) of the Securities Act of 1933 (15 U.S.C.
+77f(b)) or section 24(f) of the Investment Company Act of
+1940 (15 U.S.C. 80a-24(f)) shall be deposited into the Re-
+serve Fund.
+(B) LIMITATIONS.—For any 1 fiscal year—
+(i) the amount deposited in the Fund may not ex-
+ceed $50,000,000; and
+(ii) the balance in the Fund may not exceed
+$100,000,000.
+(C) EXCESS FEES.—Any amounts in excess of the limita-
+tions described in subparagraph (B) that the Commission
+collects from registration fees under section 6(b) of the Se-
+curities Act of 1933 (15 U.S.C. 77f(b)) or section 24(f) of the
+Investment Company Act of 1940 (15 U.S.C. 80a-24(f))
+shall be deposited in the General Fund of the Treasury of
+the United States and shall not be available for obligation
+by the Commission.
+(3) USE OF AMOUNTS IN RESERVE FUND.—The Commission
+may obligate amounts in the Reserve Fund, not to exceed a
+total of $100,000,000 in any 1 fiscal year, as the Commission
+determines is necessary to carry out the functions of the Com-
+mission. Any amounts in the reserve fund shall remain avail-
+able until expended. Not later than 10 days after the date on
+which the Commission obligates amounts under this para-
+graph, the Commission shall notify Congress of the date,
+amount, and purpose of the obligation.
+(4) RULE OF CONSTRUCTION.—Amounts collected and depos-
+ited in the Reserve Fund shall not be construed to be Govern-
+ment funds or appropriated monies and shall not be subject to
+apportionment for the purpose of chapter 15 of title 31, United
+States Code, or under any other authority.
+(j) OFFICE OF THE ADVOCATE FOR SMALL BUSINESS CAPITAL FOR-
+MATION.—
+(1) OFFICE ESTABLISHED.—There is established within the
+Commission the Office of the Advocate for Small Business Cap-
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+13
+ital Formation (hereafter in this subsection referred to as the
+‘‘Office’’).
+(2) ADVOCATE FOR SMALL BUSINESS CAPITAL FORMATION.—
+(A) IN GENERAL.—The head of the Office shall be the Ad-
+vocate for Small Business Capital Formation, who shall—
+(i) report directly to the Commission; and
+(ii) be appointed by the Commission, from among in-
+dividuals having experience in advocating for the in-
+terests of small businesses and encouraging small
+business capital formation.
+(B) COMPENSATION.—The annual rate of pay for the Ad-
+vocate for Small Business Capital Formation shall be
+equal to the highest rate of annual pay for other senior ex-
+ecutives who report directly to the Commission.
+(C) NO CURRENT EMPLOYEE OF THE COMMISSION.—An in-
+dividual may not be appointed as the Advocate for Small
+Business Capital Formation if the individual is currently
+employed by the Commission.
+(3) STAFF OF OFFICE.—The Advocate for Small Business Cap-
+ital Formation, after consultation with the Commission, may
+retain or employ independent counsel, research staff, and serv-
+ice staff, as the Advocate for Small Business Capital Formation
+determines to be necessary to carry out the functions of the Of-
+fice.
+(4) FUNCTIONS OF THE ADVOCATE FOR SMALL BUSINESS CAP-
+ITAL FORMATION.—The Advocate for Small Business Capital
+Formation shall—
+(A) assist small businesses and small business investors
+in resolving significant problems such businesses and in-
+vestors may have with the Commission or with self-regu-
+latory organizations;
+(B) identify areas in which small businesses and small
+business investors would benefit from changes in the regu-
+lations of the Commission or the rules of self-regulatory or-
+ganizations;
+(C) identify problems that small businesses have with
+securing access to capital, including any unique challenges
+to minority-owned small businesses, women-owned small
+businesses, and small businesses affected by hurricanes or
+other natural disasters;
+(D) analyze the potential impact on small businesses and
+small business investors of—
+(i) proposed regulations of the Commission that are
+likely to have a significant economic impact on small
+businesses and small business capital formation; and
+(ii) proposed rules that are likely to have a signifi-
+cant economic impact on small businesses and small
+business capital formation of self-regulatory organiza-
+tions registered under this title;
+(E) conduct outreach to small businesses and small busi-
+ness investors, including through regional roundtables, in
+order to solicit views on relevant capital formation issues;
+(F) to the extent practicable, propose to the Commission
+changes in the regulations or orders of the Commission
+and to Congress any legislative, administrative, or per-
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+14
+sonnel changes that may be appropriate to mitigate prob-
+lems identified under this paragraph and to promote the
+interests of small businesses and small business investors;
+(G) consult with the Investor Advocate on proposed rec-
+ommendations made under subparagraph (F); and
+(H) advise the Investor Advocate on issues related to
+small businesses and small business investors.
+(5) ACCESS TO DOCUMENTS.—The Commission shall ensure
+that the Advocate for Small Business Capital Formation has
+full access to the documents and information of the Commis-
+sion and any self-regulatory organization, as necessary to carry
+out the functions of the Office.
+(6) ANNUAL REPORT ON ACTIVITIES.—
+(A) IN GENERAL.—Not later than December 31 of each
+year after 2015, the Advocate for Small Business Capital
+Formation shall submit to the Committee on Banking,
+Housing, and Urban Affairs of the Senate and the Com-
+mittee on Financial Services of the House of Representa-
+tives a report on the activities of the Advocate for Small
+Business Capital Formation during the immediately pre-
+ceding fiscal year.
+(B) CONTENTS.—Each report required under subpara-
+graph (A) shall include—
+(i) appropriate statistical information and full and
+substantive analysis;
+(ii) information on steps that the Advocate for Small
+Business Capital Formation has taken during the re-
+porting period to improve small business services and
+the responsiveness of the Commission and self-regu-
+latory organizations to small business and small busi-
+ness investor concerns;
+(iii) a summary of the most serious issues encoun-
+tered by small businesses and small business inves-
+tors, including any unique issues encountered by mi-
+nority-owned small businesses, women-owned small
+businesses, and small businesses affected by hurri-
+canes or other natural disasters and their investors,
+during the reporting period;
+(iv) an inventory of the items summarized under
+clause (iii) (including items summarized under such
+clause for any prior reporting period on which no ac-
+tion has been taken or that have not been resolved to
+the satisfaction of the Advocate for Small Business
+Capital Formation as of the beginning of the reporting
+period covered by the report) that includes—
+(I) identification of any action taken by the
+Commission or the self-regulatory organization
+and the result of such action;
+(II) the length of time that each item has re-
+mained on such inventory; and
+(III) for items on which no action has been
+taken, the reasons for inaction, and an identifica-
+tion of any official who is responsible for such ac-
+tion;
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+15
+(v) recommendations for such changes to the regula-
+tions, guidance and orders of the Commission and
+such legislative actions as may be appropriate to re-
+solve problems with the Commission and self-regu-
+latory organizations encountered by small businesses
+and small business investors and to encourage small
+business capital formation; and
+(vi) any other information, as determined appro-
+priate by the Advocate for Small Business Capital For-
+mation.
+(C) CONFIDENTIALITY.—No report required by subpara-
+graph (A) may contain confidential information.
+(D) INDEPENDENCE.—Each report required under sub-
+paragraph (A) shall be provided directly to the committees
+of Congress listed in such subparagraph without any prior
+review or comment from the Commission, any commis-
+sioner, any other officer or employee of the Commission, or
+the Office of Management and Budget.
+(7) REGULATIONS.—The Commission shall establish proce-
+dures requiring a formal response to all recommendations sub-
+mitted to the Commission by the Advocate for Small Business
+Capital Formation, not later than 3 months after the date of
+such submission.
+(8) GOVERNMENT-BUSINESS FORUM ON SMALL BUSINESS CAP-
+ITAL FORMATION.—The Advocate for Small Business Capital
+Formation shall be responsible for planning, organizing, and
+executing the annual Government-Business Forum on Small
+Business Capital Formation described in section 503 of the
+Small Business Investment Incentive Act of 1980 (15 U.S.C.
+80c–1).
+(9) RULE OF CONSTRUCTION.—Nothing in this subsection may
+be construed as replacing or reducing the responsibilities of the
+Investor Advocate with respect to small business investors.
+(10) EXCLUSION FROM THE PAPERWORK REDUCTION ACT.—
+(A) IN GENERAL.—Actions taken by the Advocate for
+Small Business Capital Formation under this subsection
+shall not be a ‘‘collection of information’’ for purposes of
+subchapter I of chapter 35 of title 44, United States Code
+(commonly known as the ‘‘Paperwork Reduction Act’’).
+(B) EXCEPTIONS.—Notwithstanding subparagraph (A),
+the requirements under subsections (c)(1), (c)(4), and (i) of
+section 3506 of title 44, United States Code, and section
+3507(a)(1)(A) of such title shall apply to actions taken by
+the Advocate for Small Business Capital Formation under
+this subsection, except that the Commission shall not be re-
+quired—
+(i) to submit a collection of information by the Advo-
+cate to the Director of the Office of Management and
+Budget, as referenced under section 3506(c)(1)(A) of
+such title;
+(ii) to display a control number on a collection of in-
+formation by the Advocate, as described under section
+3506(c)(1)(B)(i) of such title (or to inform a person re-
+ceiving a collection of information from the Advocate
+that the collection of information needs to display a
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6659 Sfmt 6603 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+16
+control number, as described under section
+3506(c)(1)(B)(iii)(V) of such title); or
+(iii) to indicate a collection of information by the Ad-
+vocate is in accordance with the clearance requirements
+of section 3507 of such title, as described under section
+3506(c)(1)(B)(ii) of such title.
+(k) OPEN DATA PUBLICATION.—All public data assets published
+by the Commission under the securities laws and the Dodd-Frank
+Wall Street Reform and Consumer Protection Act (Public Law 111–
+203; 124 Stat. 1376) shall be—
+(1) made available as an open Government data asset (as de-
+fined in section 3502 of title 44, United States Code);
+(2) freely available for download;
+(3) rendered in a human-readable format; and
+(4) accessible via application programming interface where
+appropriate.
+* * * * * * *
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+17
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00017 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+200.811RH
+ereh
+32
+oilof
+tesffo
+tresnI
+
+18
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00018 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+300.811RH
+ereh
+42
+oilof
+tesffo
+tresnI
+
+19
+VerDate Sep 11 2014 04:52 Jun 09, 2025 Jkt 059006 PO 00000 Frm 00019 Fmt 6659 Sfmt 6601 E:\HR\OC\HR118P1.XXX HR118P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+400.811RH
+ereh
+52
+oilof
+tesffo
+tresnI

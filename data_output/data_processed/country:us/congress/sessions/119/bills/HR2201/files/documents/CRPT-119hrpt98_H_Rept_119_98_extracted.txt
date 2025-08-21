@@ -1,0 +1,1509 @@
+Title: MAY17, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: MAY17, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 18
+Source: documents - H. Rept. 119-98
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–98
+IMPROVING VA TRAINING FOR MILITARY
+SEXUAL TRAUMA CLAIMS ACT
+the Union and ordered to be printed
+Mr. BOST, from the Committee on Veterans’ Affairs,
+submitted the following
+R E P O R T
+[To accompany H.R. 2201]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Veterans’ Affairs, to whom was referred the
+bill (H.R. 2201) to amend title 38, United States Code, to improve
+claims, made under laws administered by the Secretary of Veterans
+Affairs, regarding military sexual trauma, and for other purposes,
+having considered the same, reports favorably thereon with an
+amendment and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Amendment .............................................................................................................. 2
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 3
+Hearings ................................................................................................................... 5
+Subcommittee Consideration .................................................................................. 6
+Committee Consideration ........................................................................................ 6
+Committee Votes ...................................................................................................... 6
+Committee Oversight Findings ............................................................................... 7
+Statement of General Performance Goals and Objectives .................................... 7
+Earmarks and Tax and Tariff Benefits .................................................................. 7
+Committee Cost Estimate ....................................................................................... 7
+Budget Authority and Congressional Budget Office Estimate ............................ 7
+Federal Mandates Statement ................................................................................. 8
+Advisory Committee Statement .............................................................................. 8
+Applicability to Legislative Branch ........................................................................ 8
+Statement on Duplication of Federal Programs .................................................... 8
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 9
+59–006
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Improving VA Training for Military Sexual Trauma
+Claims Act’’.
+SEC. 2. IMPROVEMENT OF CLAIMS BASED ON MILITARY SEXUAL TRAUMA UNDER LAWS AD-
+MINISTERED BY THE SECRETARY OF VETERANS AFFAIRS.
+(a) TRAININGFOREMPLOYEESWHOPROCESSSUCHCLAIMS.—
+(1) IN GENERAL.—Subsection (c) of section 1166 of title 38, United States
+Code, is amended—
+(A) in paragraph (1), by striking ‘‘members of teams established under
+subsection (a) are trained’’ and inserting ‘‘each employee of the Department
+who processes such a claim, communicates with a claimant regarding evi-
+dence supporting such a claim, or decides such a claim, receives annual sen-
+sitivity training and training’’; and
+(B) by adding at the end the following new paragraphs:
+‘‘(4) The Secretary shall ensure that training received by an employee under this
+subsection is appropriate for how much experience the employee has with such
+claims.
+‘‘(5) The Secretary shall update training under this subsection not less than once
+annually.’’.
+(2) REPORT.—Not later than 90 days after the date of the enactment of this
+Act, the Secretary of Veterans Affairs shall submit to the Committees on Vet-
+erans’ Affairs of the Senate and House of Representatives a report regarding—
+(A) training provided under such subsection before such date; and
+(B) plans of the Secretary to carry out the amendments made by para-
+graph (1).
+(b) EXPANSION OF DUTY TO ASSIST IN OBTAINING RECORDS FOR A COMPENSATION
+CLAIM.—Section 5103A(c) of title 38, United States Code, is amended—
+(1) by redesignating paragraph (2) as paragraph (3); and
+(2) by inserting, after paragraph (1), the following new paragraph (2):
+‘‘(2) In the case of a claim under section 1166 of this title, the assistance provided
+by the Secretary under this section shall include obtaining—
+‘‘(A) the service personnel record of the claimant; and
+‘‘(B) the service medical record of the claimant.’’.
+(c) SENSITIVITY TRAINING FOR CERTAIN CONTRACTED HEALTH CARE PROFES-
+SIONALS: REPORT; IMPROVEMENTS.—Not later than 90 days after the date of the en-
+actment of this Act, the Secretary of Veterans Affairs shall submit to the Commit-
+tees on Veterans’ Affairs of the Senate and House of Representatives a report on—
+(1) sensitivity training required for health care professionals and individuals
+who communicate with veterans to schedule examinations, contracted under
+
+Section 4:
+section 504 of the Veterans’ Benefits Improvements Act of 1996 (Public Law
+104–275; 38 U.S.C. 5101 note), to perform examinations of veterans who make
+claims under section 1166 of title 38, United States Code; and
+(2) the plan of the Secretary to—
+(A) improve such sensitivity training; and
+(B) ensure that a veteran who makes such a claim is not retraumatized
+during such an examination by such a contracted health care professional.
+PURPOSE AND SUMMARY
+H.R. 2201, the ‘‘Improving VA Training for Military Sexual Trau-
+ma Claims Act,’’ was introduced by Rep. Young Kim of California
+on March 18, 2025. The bill, as amended, would ensure Depart-
+ment of Veterans Affairs (VA) employees who process claims for
+disability compensation based on military sexual trauma (MST),
+and the VA claims processors who communicate with claimants
+about such MST claims, undergo annual sensitivity training and
+annual training on how to identify the evidence needed to support
+MST claims. The bill, as amended, would also require VA to auto-
+matically obtain all service personnel and service medical records
+of a veteran who filed an MST claim. Finally, the bill would require
+VA to submit a plan to Congress on how VA will improve sensi-
+tivity training required for contracted vendors who schedule and
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+perform disability compensation examinations for veterans who file
+MST claims.
+BACKGROUND AND NEED FOR LEGISLATION
+
+Section 5:
+Section 1: Short Title
+This Act may be cited as the ‘‘Improving VA Training for Mili-
+tary Sexual Trauma Claims Act.’’
+
+Section 6:
+Section 2: Improvement of Claims Based on Military Sexual Trau-
+ma Under Laws Administered by the Secretary of Veterans Af-
+fairs
+When a veteran files a disability benefits claim, under 38 U.S.C.
+
+Section 7:
+§ 5103A, VA has a ‘‘duty to assist’’ the veteran with obtaining fed-
+eral records, including service treatment records and service per-
+sonnel records, relevant to their claim. Claims for service connec-
+tion for a disability, such as post-traumatic stress, based on an in-
+service military sexual trauma (MST) are often difficult to prove
+because a veteran’s service records rarely directly corroborate that
+MST occurred, due primarily to military culture that discourages
+reporting MST. Current law (e.g., 38 C.F.R. § 3.304(f)(5)), there-
+fore, allows VA to consider evidence in a veteran’s service medical
+and service personnel records that could corroborate the veteran’s
+account of experiencing an MST—so-called ‘‘markers’’.
+Service personnel records can include markers of MST, such as
+a request for a transfer to another military duty assignment, or de-
+terioration in military duty performance. A claims processor may
+place a request with the appropriate service records storage facility
+to provide a complete copy of both a veteran’s service medical
+records and service personnel records (e.g., a single
+PersonnelInformation Exchange System (PIES) request for both
+types of records).1 Yet, VA claims processors do not always obtain
+the service personnel records, and the VA Board of Veterans’ Ap-
+peals (Board) continues to find that the Veterans Benefits Adminis-
+tration (VBA) claims processors failed under VA’s duty to assist to
+obtain a veteran’s service medical records and service personnel
+records in MST claims.2
+VA is required by law to provide claims processors with training
+to identify those ‘‘markers,’’ but there is no requirement under the
+law for annual training to refresh their knowledge of complex MST
+claims. Also, inadequate sensitivity training has resulted in insen-
+sitive VA communications to MST victims that can retraumatize
+those veterans. Although VA is reportedly amending the language
+used in VA claims decisions to ensure they are more sensitive,
+those claims decisions are just one of many different types of com-
+munications that VBA claims processors have with MST survivors.3
+VA requires a one-time sensitivity training for claims processors
+1See M21–1 VBA Adjudication Procedures Manual, Part III, Subpart ii, Chapter 2, Section
+A—General Information on Service Records (updated March 19, 2025), https://
+www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/
+portal/554400000001018/topic/554400000004049/M21-1-Adjudication-Procedures-Manual.
+2See e.g., Board of Veterans’ Appeals Docket No. 240323–427068 (remanded March 26, 2025).
+3Congressionally Mandated Report—Claims for Disabilities Incurred or Aggravated by Mili-
+tary Sexual Trauma (May 2025).
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+who communicate with veterans who experienced an MST,4 but
+there is no requirement under the law to provide those claims proc-
+essors with annual sensitivity training refreshers and to keep up
+with new best practices in trauma-informed communication.
+In fiscal year 2024, 10.6 percent of all denied MST claims were
+denied because the veteran did not appear for their scheduled dis-
+ability compensation examination. Roughly 95% of these exams are
+conducted by contracted exam vendors. The Committee has learned
+from veterans’ advocates and exam vendors that MST survivors
+often miss their exams because retelling their MST experience is
+triggering for them, and the exam schedulers and the examiners
+are often insensitive or not trauma-informed. Although VA recently
+provided contracted examination vendors with a ‘‘guide’’ for trau-
+ma-informed communication with veterans,5 contracted schedulers
+and examiners are not required by VA to regularly complete com-
+prehensive sensitivity training. The Committee has learned from
+vendors about how there are inconsistent policies from vendor to
+vendor concerning how they interact with MST survivors.
+At a March 26, 2025, Subcommittee on Disability Assistance and
+Memorial Affairs legislative hearing,6 the Committee heard from
+veterans’ advocates that improvements should be made to ensure
+that MST survivors receive accurate and timely decisions on their
+claims, and that communications from VA claims processors and
+contracted examination vendors to MST survivors are trauma-in-
+formed to prevent re-traumatization.
+In a statement for the record for the March 26, 2025, legislative
+hearing, Ms. Nancy Springer, Associate Director, National Legisla-
+tive Service, Veterans of Foreign Wars of the United States, stated:
+‘‘Some MST survivors are hesitant to report their incidents
+for a variety of reasons, one of which is a fear of retrauma-
+tization during the claims process. A claims processor asking
+probing questions or a claimant having to repeatedly recount
+assault details could be a trigger. To help prevent these situa-
+tions, the VFW fully supports mandating this sensitivity train-
+ing to teach claims processors how to elicit vital information
+for claims adjudication without retraumatizing . . .’’
+‘‘Though their records may not contain traditional evi-
+dentiary support such as a medical examination directly attrib-
+utable to a trauma, an investigation report, or a police report,
+they may include ‘‘markers’’ that could substantiate a claim or
+provide cause for further medical examination or opinion. For
+example, personnel records could include abrupt or non-
+standard transfer requests or performance evaluations that in-
+dicate an inexplicable drop in performance. VA automatically
+obtaining these records for claims related to MST and mental
+health would standardize and therefore streamline procedures
+for these typically complicated and nuanced claims.’’7
+4Congressionally Mandated Report—Claims for Disabilities Incurred or Aggravated by Mili-
+tary Sexual Trauma (May 2025).
+5Ms. Kenesha Britton, Testimony of VA (March 26, 2025), HHRG-119-VR09-Wstate-BrittonK-
+
+Section 8:
+20250326.pdf.
+6Subcommittee on Disability Assistance and Memorial Affairs Legislative Hearing | House
+Committee on Veterans Affairs.
+7Nancy Springer, Statement for the Record of Veterans of Foreign Wars of the United States
+(March 26, 2025), HHRG-119-VR09-20250326-SD005.pdf.
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+5
+In a statement for the record for the March 26, 2025, legislative
+hearing, Mr. Marquis D. Barefield, Assistant National Legislative
+Director, Disabled American Veterans, stated:
+‘‘Markers of MST are often difficult to verify in medical
+records. This bill highlights the need, especially for claims re-
+lated to MST to require VA to obtain personnel records and
+service treatment records and review them for these markers
+if there is no other supporting evidence of record. This change
+will increase the veteran’s ability to validate their claim and
+obtain the benefits they earned. By requiring those who proc-
+ess MST claims to attend annual sensitivity training and train-
+ing tailored to MST, they are better equipped to handle these
+unique cases with care and professionalism and not retrauma-
+tizing veterans in the process.’’8
+In her written testimony for the March 26, 2025, legislative hear-
+ing, Ms. Diane Boyd Rauber, Executive Director, National Organi-
+zation of Veterans’ Advocates, Inc., stated that ‘‘VA should always
+be obtaining the service personnel record and service medical
+record of every veteran seeking benefits as part of its regular duty
+to assist.’’9
+To address these issues, this section would require VA employees
+who process MST based claims and those who communicate with
+claimants about such claims undergo annual training, commensu-
+rate with their experience level, on how to identify ‘‘markers’’ in
+evidence that could support a grant of an MST claim. This section
+would also require annual sensitivity training for VA claims proc-
+essors and require VA to update such training annually. It would
+also require VA to report to Congress on the training required by
+this section. Additionally, this section would require VA to auto-
+matically obtain all service personnel and service medical records
+of a veteran who filed an MST claim. Finally, this section would
+require VA to submit a plan to Congress on how VA will improve
+sensitivity training required for contracted disability compensation
+examiners, as well as for those who schedule contracted examina-
+tions.
+The Committee believes that this section is critical to ensure that
+veterans who have endured a military sexual trauma are not re-
+traumatized by the VA disability compensation process, including
+when receiving VA communications and undergoing VA-contracted
+disability compensation examinations. The Committee also believes
+that this section is important to ensure that veterans pursuing dis-
+ability compensation based on a military sexual trauma receive
+timely and accurate decisions on their claims.
+HEARINGS
+On March 26, 2025, the Subcommittee on Disability Assistance
+and Memorial Affairs held a legislative hearing on H.R. 2201 and
+other bills that were pending before the subcommittee.
+The following witnesses testified:
+The Honorable Keith Self, U.S. House of Representatives;
+The Honorable Young Kim, U.S. House of Representatives; The
+8Marquis D. Barefield, Statement for the Record of Disabled American Veterans (March 26,
+2025), HHRG-119-VR09-20250326-SD002.pdf.
+9Diane Boyd Rauber, Testimony of National Organization of Veterans’ Advocates, Inc. (March
+26, 2025), HHRG-119-VR09-Wstate-BoydRauberD-20250326.pdf (House.gov).
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+6
+Honorable August Pfluger, U.S. House of Representatives; The
+Honorable Rudy Yakym III, U.S. House of Representatives;
+The Honorable Tom Barrett, U.S. House of Representatives;
+The Honorable Robert P. Bresnahan, U.S. House of Represent-
+atives; Mrs. Patricia Krisfalusy-Maxon, Sister of Master Ser-
+geant Dennis Krisfalusy, U.S. Air Force (Retired); Colonel An-
+drew Shurtleff, U.S. Air Force (Retired); Ms. Diane Boyd
+Rauber, Executive Director, National Organization of Veterans’
+Advocates; Ms. Lesley Witter, Senior Vice President, Advocacy,
+National Funeral Directors Association; Ms. Kenesha Britton,
+Assistant Deputy Undersecretary, Field Operations, Veterans
+Benefits Administration, U.S. Department of Veterans Affairs;
+Ms. Jocelyn Moses, Senior Principal Advisor, Compensation
+Service, Veterans Benefits Administration, U.S. Department of
+Veterans Affairs; Ms. Lisa Pozzebon, Executive Director, Ceme-
+tery Operations, National Cemetery Administration, U.S. De-
+partment of Veterans Affairs; and Mr. Evan Deichert, Acting
+Deputy Vice Chairman, Board of Veterans’ Appeals, U.S. De-
+partment of Veterans Affairs.
+The following individuals and organizations submitted state-
+ments for the record:
+Disabled American Veterans; Paralyzed Veterans of America;
+Tragedy Assistance Program for Survivors; Veterans of Foreign
+Wars of the United States; and the American Federation of
+Government Employees, AFL–CIO.
+SUBCOMMITTEE CONSIDERATION
+On April 9, 2025, the Subcommittee on Disability Assistance and
+Memorial Affairs met in an open markup session to consider H.R.
+
+Section 9:
+2201. During consideration of the bill, the following amendments
+were considered:
+An amendment in the nature of a substitute to H.R. 2201
+was offered by Representative Luttrell to require VA to auto-
+matically obtain all service personnel records when requesting
+a claimant’s service medical records. The amendment in the
+nature of a substitute was approved by voice vote.
+A motion by Representative McGarvey to favorably forward H.R.
+2201, as amended, to the Full Committee, was agreed to by voice
+vote.
+COMMITTEE CONSIDERATION
+On May 6, 2025, the Full Committee met in open markup session
+with a quorum being present, to consider H.R. 2201, as amended.
+A motion by Ranking Member Takano to report H.R. 2201, as
+amended, favorably to the House of Representatives, was agreed to
+by voice vote.
+COMMITTEE VOTES
+In compliance with clause 3(b) of rule XIII of the Rules of the
+House of Representatives, no recorded votes were taken on amend-
+ments or in connection with ordering H.R. 2201, as amended, re-
+ported to the House.
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+7
+COMMITTEE OVERSIGHT FINDINGS
+In compliance with clause 3(c)(1) of rule XIII and clause (2)(b)(1)
+of rule X of the Rules of the House of Representatives, the Commit-
+tee’s oversight findings and recommendations are reflected in the
+descriptive portions of this report.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+In accordance with clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee’s performance goals and
+objectives of H.R. 2201, as amended, are to ensure that veterans
+who have endured a military sexual trauma are not retraumatized
+by the VA disability compensation process and ensure veterans
+have access to their earned VA disability compensation benefits.
+EARMARKS AND TAX AND TARIFF BENEFITS
+H.R. 2201, as amended, does not contain any Congressional ear-
+marks, limited tax benefits, or limited tariff benefits as defined in
+clause 9 of rule XXI of the Rules of the House of Representatives.
+COMMITTEE COST ESTIMATE
+The Committee adopts as its own the Congressional Budget Of-
+fice cost estimate on this measure.
+BUDGET AUTHORITY AND CONGRESSIONAL BUDGET OFFICE
+COST ESTIMATE
+Pursuant to clause (3)(c)(3) of rule XIII of the Rules of the House
+of Representatives, the following is the cost estimate for H.R. 1969,
+as amended, provided by the Congressional Budget Office (CBO)
+pursuant to section 402 of the Congressional Budget Act of 1974:
+H.R. 2201 would require the Department of Veterans Affairs
+(VA) to provide annual sensitivity training for employees who proc-
+ess or decide claims for VA benefits that result from military sex-
+ual trauma (MST). The bill also would require VA to obtain a vet-
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 10:
+100.89RH
+ereh
+01
+oilof
+tesffo
+tresnI
+8
+eran’s service personnel and service medical records when proc-
+essing those claims. The department already provides annual sensi-
+tivity training to employees who handle MST-related claims. Fur-
+ther, VA is already required to assist veterans in obtaining nec-
+essary evidence to substantiate benefits claims under current law.
+Such evidence may include the veteran’s service personnel and
+service medical records, as well as other evidence. Because VA is
+already providing employees with annual sensitivity training and
+is required to obtain all necessary evidence when processing bene-
+fits claims, those requirements would not affect the federal budget.
+The bill would also require VA to submit two reports to the Con-
+gress on the sensitivity training it provides to department employ-
+ees and to contracted medical professionals who process, decide, or
+evaluate claims for VA benefits concerning MST. Using information
+on the cost of similar reports, CBO estimates the reporting require-
+ments would increase spending subject to appropriation by less
+than $500,000.
+The CBO staff contact for this estimate is Logan Smith. The esti-
+mate was reviewed by Christina Hawley Anthony, Deputy Director
+of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+FEDERAL MANDATES STATEMENT
+
+Section 11:
+Section 423 of the Congressional Budget and Impoundment Con-
+trol Act (as amended by Section 101(a)(2) of the Unfunded Mandate
+Reform Act, P.L. 104–4 is inapplicable to H.R. 2201, as amended.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act would be created by H.R. 2201, as
+amended.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that H.R. 2201, as amended, does not relate
+to the terms and conditions of employment or access to public serv-
+ices or accommodations within the meaning of section 102(b)(3) of
+the Congressional Accountability Act.
+STATEMENT ON DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee finds that no provision of H.R.
+2201, as amended, would establish or reauthorize a program of the
+Federal Government known to be duplicative of another Federal
+program, a program that was included in any report from the Gov-
+ernment Accountability Office to Congress pursuant to section 21
+of Public Law 111–139, or a program related to a program identi-
+fied in the most recent Catalog of Federal Domestic Assistance.
+
+Section 12:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 13:
+Section 1. Short title
+
+Section 14:
+Section 1 would establish the short title of the bill as the ‘‘Im-
+proving VA Training for Military Sexual Trauma Claims Act.’’
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+9
+
+Section 15:
+Section 2: Improvement of claims based on Military Sexual Trauma
+under laws administered by the Secretary of Veterans Affairs
+
+Section 16:
+Section 2 would amend 38 U.S.C. §1166(c), to require VA em-
+ployees who process claims based on MST and who communicate
+with claimants about such MST claims to undergo annual training,
+appropriate for their experience level, on how to identify ‘‘markers’’
+of MST, as well as annual sensitivity training. This section would
+require VA to update such training annually, and, not later than
+90 days after the enactment of the Act, to report to the Committees
+on Veterans’ Affairs of the House of Representatives and the Sen-
+ate on VA’s implementation of the training required by this section.
+Second 2 would also amend 38 U.S.C. §5103A(c) to specify that
+in an MST claim under 38 U.S.C. §1166, VA’s duty to assist shall
+include obtaining the claimant’s service personnel records and serv-
+ice medical records.
+Finally, Section 2 would require VA, not later than 90 days after
+the date of enactment of this Act, to submit to Committees on Vet-
+erans’ Affairs of the Senate and House a report on (1) how VA will
+improve sensitivity training required for contracted disability com-
+pensation examiners, as well as for those who schedule contracted
+examinations; and (2) VA’s plan to ensure that a veteran pursuing
+an MST claim is not retraumatized during contracted disability
+compensation examinations.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+existing law in which no change is proposed is shown in roman):
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+TITLE 38, UNITED STATES CODE
+* * * * * * *
+PART II—GENERAL BENEFITS
+* * * * * * *
+CHAPTER 11—COMPENSATION FOR SERVICE-
+CONNECTED DISABILITY OR DEATH
+* * * * * * *
+SUBCHAPTER VI—GENERAL COMPENSATION PROVISIONS
+* * * * * * *
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+10
+
+Section 17:
+§1166. Claims involving military sexual trauma
+(a) PROCESSING.—(1) The Secretary shall establish specialized
+teams to process claims for compensation for a covered mental
+health condition based on military sexual trauma experienced by a
+veteran during active military, naval, air, or space service.
+(2) A peer support specialist of the Department—
+(A) shall not be responsible for providing any assistance to
+a veteran regarding a claim described in paragraph (1), other
+than counseling services, guidance, and support, pursuant to
+duties determined by the Under Secretary for Health; and
+(B) shall not participate in the adjudication of such a claim.
+(b) REFERRALS TO MST COORDINATORS.—The Secretary shall in-
+clude, in forms for claims described in subsection (a), an option for
+a veteran to elect to be referred to a military sexual trauma coordi-
+nator of the Veterans Health Administration at the facility of the
+Department nearest to the residence of such veteran.
+(c) TRAINING.—(1) The Secretary shall ensure that ømembers of
+teams established under subsection (a) are trained¿ each employee
+of the Department who processes such a claim, communicates with
+a claimant regarding evidence supporting such a claim, or decides
+such a claim, receives annual sensitivity training and training to
+identify markers indicating military sexual trauma.
+(2) The Secretary shall ensure that peer support specialists of the
+Department receive annual training on how to provide peer support
+regarding military sexual trauma.
+(3) The Secretary shall provide annual training, regarding the
+processing of claims described in subsection (a), to the following in-
+dividuals:
+(A) Military sexual trauma coordinators of the Veterans
+Health Administration.
+(B) Peer support specialists of the Department.
+(4) The Secretary shall ensure that training received by an em-
+ployee under this subsection is appropriate for how much experience
+the employee has with such claims.
+(5) The Secretary shall update training under this subsection not
+less than once annually.
+(d) DEFINITIONS.—In this section:
+(1) The term ‘‘covered mental health condition’’ means post-
+traumatic stress disorder, anxiety, depression, or other mental
+health diagnosis described in the current version of the Diag-
+nostic and Statistical Manual of Mental Disorders published by
+the American Psychiatric Association that the Secretary deter-
+mines to be related to military sexual trauma.
+(2) The term ‘‘military sexual trauma’’ means, with respect
+to a veteran, a physical assault of a sexual nature, battery of
+a sexual nature, or sexual harassment during active military,
+naval, air, or space service.
+* * * * * * *
+PART IV—GENERAL ADMINISTRATIVE
+PROVISIONS
+* * * * * * *
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+11
+CHAPTER 51—CLAIMS, EFFECTIVE DATES, AND
+PAYMENTS
+SUBCHAPTER I—CLAIMS
+* * * * * * *
+
+Section 18:
+§5103A. Duty to assist claimants
+(a) DUTY TO ASSIST.—(1) The Secretary shall make reasonable ef-
+forts to assist a claimant in obtaining evidence necessary to sub-
+stantiate the claimant’s claim for a benefit under a law adminis-
+tered by the Secretary.
+(2) The Secretary is not required to provide assistance to a claim-
+ant under this section if no reasonable possibility exists that such
+assistance would aid in substantiating the claim.
+(3) The Secretary may defer providing assistance under this sec-
+tion pending the submission by the claimant of essential informa-
+tion missing from the claimant’s application.
+(b) ASSISTANCE IN OBTAINING PRIVATE RECORDS.—(1) As part of
+the assistance provided under subsection (a), the Secretary shall
+make reasonable efforts to obtain relevant private records that the
+claimant adequately identifies to the Secretary.
+(2)(A) Whenever the Secretary, after making such reasonable ef-
+forts, is unable to obtain all of the relevant records sought, the Sec-
+retary shall notify the claimant that the Secretary is unable to ob-
+tain records with respect to the claim. Such a notification shall—
+(i) identify the records the Secretary is unable to obtain;
+(ii) briefly explain the efforts that the Secretary made to ob-
+tain such records; and
+(iii) explain that the Secretary will decide the claim based on
+the evidence of record but that this section does not prohibit
+the submission of records at a later date if such submission is
+otherwise allowed.
+(B) The Secretary shall make not less than two requests to a cus-
+todian of a private record in order for an effort to obtain relevant
+private records to be treated as reasonable under this section, un-
+less it is made evident by the first request that a second request
+would be futile in obtaining such records.
+(3)(A) This section shall not apply if the evidence of record allows
+for the Secretary to award the maximum benefit in accordance with
+this title based on the evidence of record.
+(B) For purposes of this paragraph, the term ‘‘maximum benefit’’
+means the highest evaluation assignable in accordance with the
+evidence of record, as long as such evidence is adequate for rating
+purposes and sufficient to grant the earliest possible effective date
+in accordance with section 5110 of this title.
+(4) Under regulations prescribed by the Secretary, the Sec-
+retary—
+(A) shall encourage claimants to submit relevant private
+medical records of the claimant to the Secretary if such sub-
+mission does not burden the claimant; and
+(B) in obtaining relevant private records under paragraph
+(1), may require the claimant to authorize the Secretary to ob-
+tain such records if such authorization is required to comply
+with Federal, State, or local law.
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+12
+(c) OBTAINING RECORDS FOR COMPENSATION CLAIMS.—(1) In the
+case of a claim for disability compensation, the assistance provided
+by the Secretary under this section shall include obtaining the fol-
+lowing records if relevant to the claim:
+(A) The claimant’s service medical records and, if the claim-
+ant has furnished the Secretary information sufficient to locate
+such records, other relevant records pertaining to the claim-
+ant’s active military, naval, air, or space service that are held
+or maintained by a governmental entity.
+(B) Records of relevant medical treatment or examination of
+the claimant at Department health-care facilities or at the ex-
+pense of the Department, if the claimant furnishes information
+sufficient to locate those records.
+(C) Any other relevant records held by any Federal depart-
+ment or agency that the claimant adequately identifies and au-
+thorizes the Secretary to obtain.
+(2) In the case of a claim under section 1166 of this title, the as-
+sistance provided by the Secretary under this section shall include
+obtaining—
+(A) the service personnel record of the claimant; and
+(B) the service medical record of the claimant.
+ø(2)¿ (3) Whenever the Secretary attempts to obtain records from
+a Federal department or agency under this subsection, the efforts
+to obtain those records shall continue until the records are obtained
+unless it is reasonably certain that such records do not exist or
+that further efforts to obtain those records would be futile.
+(d) MEDICAL EXAMINATIONS FOR COMPENSATION CLAIMS.—(1) In
+the case of a claim for disability compensation, the assistance pro-
+vided by the Secretary under subsection (a) shall include providing
+a medical examination or obtaining a medical opinion when such
+an examination or opinion is necessary to make a decision on the
+claim.
+(2) The Secretary shall treat an examination or opinion as being
+necessary to make a decision on a claim for purposes of paragraph
+(1) if the evidence of record before the Secretary, taking into con-
+sideration all information and lay or medical evidence (including
+statements of the claimant)—
+(A) contains competent evidence that the claimant has a cur-
+rent disability, or persistent or recurrent symptoms of dis-
+ability; and
+(B) indicates that the disability or symptoms may be associ-
+ated with the claimant’s active military, naval, air, or space
+service; but
+(C) does not contain sufficient medical evidence for the Sec-
+retary to make a decision on the claim.
+(e) APPLICABILITY OF DUTY TO ASSIST.—(1) The Secretary’s duty
+to assist under this section shall apply only to a claim, or supple-
+mental claim, for a benefit under a law administered by the Sec-
+retary until the time that a claimant is provided notice of the agen-
+cy of original jurisdiction’s decision with respect to such claim, or
+supplemental claim, under section 5104 of this title.
+(2) The Secretary’s duty to assist under this section shall not
+apply to higher-level review by the agency of original jurisdiction,
+pursuant to section 5104B of this title, or to review on appeal by
+the Board of Veterans’ Appeals.
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+13
+(f) CORRECTION OF DUTY TO ASSIST ERRORS.—(1) If, during re-
+view of the agency of original jurisdiction decision under section
+5104B of this title, the higher-level adjudicator identifies or learns
+of an error on the part of the agency of original jurisdiction to sat-
+isfy its duties under this section, and that error occurred prior to
+the agency of original jurisdiction decision being reviewed, unless
+the Secretary may award the maximum benefit in accordance with
+this title based on the evidence of record, the higher-level adjudi-
+cator shall return the claim for correction of such error and readju-
+dication.
+(2)(A) If the Board of Veterans’ Appeals, during review on appeal
+of an agency of original jurisdiction decision, identifies or learns of
+an error on the part of the agency of original jurisdiction to satisfy
+its duties under this section, and that error occurred prior to the
+agency of original jurisdiction decision on appeal, unless the Sec-
+retary may award the maximum benefit in accordance with this
+title based on the evidence of record, the Board shall remand the
+claim to the agency of original jurisdiction for correction of such
+error and readjudication.
+(B) Remand for correction of such error may include directing the
+agency of original jurisdiction to obtain an advisory medical opinion
+under section 5109 of this title.
+(3) Nothing in this subsection shall be construed to imply that
+the Secretary, during the consideration of a claim, does not have
+a duty to correct an error described in paragraph (1) or (2) that was
+erroneously not identified during higher-level review or during re-
+view on appeal with respect to the claim.
+(g) REGULATIONS.—The Secretary shall prescribe regulations to
+carry out this section.
+(h) RULE WITH RESPECT TO DISALLOWED CLAIMS.—Nothing in
+this section shall be construed to require the Secretary to readjudi-
+cate a claim that has been disallowed except when new and rel-
+evant evidence is presented or secured, as described in section 5108
+of this title.
+(i) OTHER ASSISTANCE NOT PRECLUDED.—Nothing in this section
+shall be construed as precluding the Secretary from providing such
+other assistance under subsection (a) to a claimant in substan-
+tiating a claim as the Secretary considers appropriate.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6611 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–98
+IMPROVING VA TRAINING FOR MILITARY
+SEXUAL TRAUMA CLAIMS ACT
+MAY17, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. BOST, from the Committee on Veterans’ Affairs,
+submitted the following
+R E P O R T
+[To accompany H.R. 2201]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Veterans’ Affairs, to whom was referred the
+bill (H.R. 2201) to amend title 38, United States Code, to improve
+claims, made under laws administered by the Secretary of Veterans
+Affairs, regarding military sexual trauma, and for other purposes,
+having considered the same, reports favorably thereon with an
+amendment and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Amendment .............................................................................................................. 2
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 3
+Hearings ................................................................................................................... 5
+Subcommittee Consideration .................................................................................. 6
+Committee Consideration ........................................................................................ 6
+Committee Votes ...................................................................................................... 6
+Committee Oversight Findings ............................................................................... 7
+Statement of General Performance Goals and Objectives .................................... 7
+Earmarks and Tax and Tariff Benefits .................................................................. 7
+Committee Cost Estimate ....................................................................................... 7
+Budget Authority and Congressional Budget Office Estimate ............................ 7
+Federal Mandates Statement ................................................................................. 8
+Advisory Committee Statement .............................................................................. 8
+Applicability to Legislative Branch ........................................................................ 8
+Statement on Duplication of Federal Programs .................................................... 8
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 9
+59–006
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Improving VA Training for Military Sexual Trauma
+Claims Act’’.
+SEC. 2. IMPROVEMENT OF CLAIMS BASED ON MILITARY SEXUAL TRAUMA UNDER LAWS AD-
+MINISTERED BY THE SECRETARY OF VETERANS AFFAIRS.
+(a) TRAININGFOREMPLOYEESWHOPROCESSSUCHCLAIMS.—
+(1) IN GENERAL.—Subsection (c) of section 1166 of title 38, United States
+Code, is amended—
+(A) in paragraph (1), by striking ‘‘members of teams established under
+subsection (a) are trained’’ and inserting ‘‘each employee of the Department
+who processes such a claim, communicates with a claimant regarding evi-
+dence supporting such a claim, or decides such a claim, receives annual sen-
+sitivity training and training’’; and
+(B) by adding at the end the following new paragraphs:
+‘‘(4) The Secretary shall ensure that training received by an employee under this
+subsection is appropriate for how much experience the employee has with such
+claims.
+‘‘(5) The Secretary shall update training under this subsection not less than once
+annually.’’.
+(2) REPORT.—Not later than 90 days after the date of the enactment of this
+Act, the Secretary of Veterans Affairs shall submit to the Committees on Vet-
+erans’ Affairs of the Senate and House of Representatives a report regarding—
+(A) training provided under such subsection before such date; and
+(B) plans of the Secretary to carry out the amendments made by para-
+graph (1).
+(b) EXPANSION OF DUTY TO ASSIST IN OBTAINING RECORDS FOR A COMPENSATION
+CLAIM.—Section 5103A(c) of title 38, United States Code, is amended—
+(1) by redesignating paragraph (2) as paragraph (3); and
+(2) by inserting, after paragraph (1), the following new paragraph (2):
+‘‘(2) In the case of a claim under section 1166 of this title, the assistance provided
+by the Secretary under this section shall include obtaining—
+‘‘(A) the service personnel record of the claimant; and
+‘‘(B) the service medical record of the claimant.’’.
+(c) SENSITIVITY TRAINING FOR CERTAIN CONTRACTED HEALTH CARE PROFES-
+SIONALS: REPORT; IMPROVEMENTS.—Not later than 90 days after the date of the en-
+actment of this Act, the Secretary of Veterans Affairs shall submit to the Commit-
+tees on Veterans’ Affairs of the Senate and House of Representatives a report on—
+(1) sensitivity training required for health care professionals and individuals
+who communicate with veterans to schedule examinations, contracted under
+section 504 of the Veterans’ Benefits Improvements Act of 1996 (Public Law
+104–275; 38 U.S.C. 5101 note), to perform examinations of veterans who make
+claims under section 1166 of title 38, United States Code; and
+(2) the plan of the Secretary to—
+(A) improve such sensitivity training; and
+(B) ensure that a veteran who makes such a claim is not retraumatized
+during such an examination by such a contracted health care professional.
+PURPOSE AND SUMMARY
+H.R. 2201, the ‘‘Improving VA Training for Military Sexual Trau-
+ma Claims Act,’’ was introduced by Rep. Young Kim of California
+on March 18, 2025. The bill, as amended, would ensure Depart-
+ment of Veterans Affairs (VA) employees who process claims for
+disability compensation based on military sexual trauma (MST),
+and the VA claims processors who communicate with claimants
+about such MST claims, undergo annual sensitivity training and
+annual training on how to identify the evidence needed to support
+MST claims. The bill, as amended, would also require VA to auto-
+matically obtain all service personnel and service medical records
+of a veteran who filed an MST claim. Finally, the bill would require
+VA to submit a plan to Congress on how VA will improve sensi-
+tivity training required for contracted vendors who schedule and
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+perform disability compensation examinations for veterans who file
+MST claims.
+BACKGROUND AND NEED FOR LEGISLATION
+Section 1: Short Title
+This Act may be cited as the ‘‘Improving VA Training for Mili-
+tary Sexual Trauma Claims Act.’’
+Section 2: Improvement of Claims Based on Military Sexual Trau-
+ma Under Laws Administered by the Secretary of Veterans Af-
+fairs
+When a veteran files a disability benefits claim, under 38 U.S.C.
+§ 5103A, VA has a ‘‘duty to assist’’ the veteran with obtaining fed-
+eral records, including service treatment records and service per-
+sonnel records, relevant to their claim. Claims for service connec-
+tion for a disability, such as post-traumatic stress, based on an in-
+service military sexual trauma (MST) are often difficult to prove
+because a veteran’s service records rarely directly corroborate that
+MST occurred, due primarily to military culture that discourages
+reporting MST. Current law (e.g., 38 C.F.R. § 3.304(f)(5)), there-
+fore, allows VA to consider evidence in a veteran’s service medical
+and service personnel records that could corroborate the veteran’s
+account of experiencing an MST—so-called ‘‘markers’’.
+Service personnel records can include markers of MST, such as
+a request for a transfer to another military duty assignment, or de-
+terioration in military duty performance. A claims processor may
+place a request with the appropriate service records storage facility
+to provide a complete copy of both a veteran’s service medical
+records and service personnel records (e.g., a single
+PersonnelInformation Exchange System (PIES) request for both
+types of records).1 Yet, VA claims processors do not always obtain
+the service personnel records, and the VA Board of Veterans’ Ap-
+peals (Board) continues to find that the Veterans Benefits Adminis-
+tration (VBA) claims processors failed under VA’s duty to assist to
+obtain a veteran’s service medical records and service personnel
+records in MST claims.2
+VA is required by law to provide claims processors with training
+to identify those ‘‘markers,’’ but there is no requirement under the
+law for annual training to refresh their knowledge of complex MST
+claims. Also, inadequate sensitivity training has resulted in insen-
+sitive VA communications to MST victims that can retraumatize
+those veterans. Although VA is reportedly amending the language
+used in VA claims decisions to ensure they are more sensitive,
+those claims decisions are just one of many different types of com-
+munications that VBA claims processors have with MST survivors.3
+VA requires a one-time sensitivity training for claims processors
+1See M21–1 VBA Adjudication Procedures Manual, Part III, Subpart ii, Chapter 2, Section
+A—General Information on Service Records (updated March 19, 2025), https://
+www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/
+portal/554400000001018/topic/554400000004049/M21-1-Adjudication-Procedures-Manual.
+2See e.g., Board of Veterans’ Appeals Docket No. 240323–427068 (remanded March 26, 2025).
+3Congressionally Mandated Report—Claims for Disabilities Incurred or Aggravated by Mili-
+tary Sexual Trauma (May 2025).
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+who communicate with veterans who experienced an MST,4 but
+there is no requirement under the law to provide those claims proc-
+essors with annual sensitivity training refreshers and to keep up
+with new best practices in trauma-informed communication.
+In fiscal year 2024, 10.6 percent of all denied MST claims were
+denied because the veteran did not appear for their scheduled dis-
+ability compensation examination. Roughly 95% of these exams are
+conducted by contracted exam vendors. The Committee has learned
+from veterans’ advocates and exam vendors that MST survivors
+often miss their exams because retelling their MST experience is
+triggering for them, and the exam schedulers and the examiners
+are often insensitive or not trauma-informed. Although VA recently
+provided contracted examination vendors with a ‘‘guide’’ for trau-
+ma-informed communication with veterans,5 contracted schedulers
+and examiners are not required by VA to regularly complete com-
+prehensive sensitivity training. The Committee has learned from
+vendors about how there are inconsistent policies from vendor to
+vendor concerning how they interact with MST survivors.
+At a March 26, 2025, Subcommittee on Disability Assistance and
+Memorial Affairs legislative hearing,6 the Committee heard from
+veterans’ advocates that improvements should be made to ensure
+that MST survivors receive accurate and timely decisions on their
+claims, and that communications from VA claims processors and
+contracted examination vendors to MST survivors are trauma-in-
+formed to prevent re-traumatization.
+In a statement for the record for the March 26, 2025, legislative
+hearing, Ms. Nancy Springer, Associate Director, National Legisla-
+tive Service, Veterans of Foreign Wars of the United States, stated:
+‘‘Some MST survivors are hesitant to report their incidents
+for a variety of reasons, one of which is a fear of retrauma-
+tization during the claims process. A claims processor asking
+probing questions or a claimant having to repeatedly recount
+assault details could be a trigger. To help prevent these situa-
+tions, the VFW fully supports mandating this sensitivity train-
+ing to teach claims processors how to elicit vital information
+for claims adjudication without retraumatizing . . .’’
+‘‘Though their records may not contain traditional evi-
+dentiary support such as a medical examination directly attrib-
+utable to a trauma, an investigation report, or a police report,
+they may include ‘‘markers’’ that could substantiate a claim or
+provide cause for further medical examination or opinion. For
+example, personnel records could include abrupt or non-
+standard transfer requests or performance evaluations that in-
+dicate an inexplicable drop in performance. VA automatically
+obtaining these records for claims related to MST and mental
+health would standardize and therefore streamline procedures
+for these typically complicated and nuanced claims.’’7
+4Congressionally Mandated Report—Claims for Disabilities Incurred or Aggravated by Mili-
+tary Sexual Trauma (May 2025).
+5Ms. Kenesha Britton, Testimony of VA (March 26, 2025), HHRG-119-VR09-Wstate-BrittonK-
+20250326.pdf.
+6Subcommittee on Disability Assistance and Memorial Affairs Legislative Hearing | House
+Committee on Veterans Affairs.
+7Nancy Springer, Statement for the Record of Veterans of Foreign Wars of the United States
+(March 26, 2025), HHRG-119-VR09-20250326-SD005.pdf.
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+5
+In a statement for the record for the March 26, 2025, legislative
+hearing, Mr. Marquis D. Barefield, Assistant National Legislative
+Director, Disabled American Veterans, stated:
+‘‘Markers of MST are often difficult to verify in medical
+records. This bill highlights the need, especially for claims re-
+lated to MST to require VA to obtain personnel records and
+service treatment records and review them for these markers
+if there is no other supporting evidence of record. This change
+will increase the veteran’s ability to validate their claim and
+obtain the benefits they earned. By requiring those who proc-
+ess MST claims to attend annual sensitivity training and train-
+ing tailored to MST, they are better equipped to handle these
+unique cases with care and professionalism and not retrauma-
+tizing veterans in the process.’’8
+In her written testimony for the March 26, 2025, legislative hear-
+ing, Ms. Diane Boyd Rauber, Executive Director, National Organi-
+zation of Veterans’ Advocates, Inc., stated that ‘‘VA should always
+be obtaining the service personnel record and service medical
+record of every veteran seeking benefits as part of its regular duty
+to assist.’’9
+To address these issues, this section would require VA employees
+who process MST based claims and those who communicate with
+claimants about such claims undergo annual training, commensu-
+rate with their experience level, on how to identify ‘‘markers’’ in
+evidence that could support a grant of an MST claim. This section
+would also require annual sensitivity training for VA claims proc-
+essors and require VA to update such training annually. It would
+also require VA to report to Congress on the training required by
+this section. Additionally, this section would require VA to auto-
+matically obtain all service personnel and service medical records
+of a veteran who filed an MST claim. Finally, this section would
+require VA to submit a plan to Congress on how VA will improve
+sensitivity training required for contracted disability compensation
+examiners, as well as for those who schedule contracted examina-
+tions.
+The Committee believes that this section is critical to ensure that
+veterans who have endured a military sexual trauma are not re-
+traumatized by the VA disability compensation process, including
+when receiving VA communications and undergoing VA-contracted
+disability compensation examinations. The Committee also believes
+that this section is important to ensure that veterans pursuing dis-
+ability compensation based on a military sexual trauma receive
+timely and accurate decisions on their claims.
+HEARINGS
+On March 26, 2025, the Subcommittee on Disability Assistance
+and Memorial Affairs held a legislative hearing on H.R. 2201 and
+other bills that were pending before the subcommittee.
+The following witnesses testified:
+The Honorable Keith Self, U.S. House of Representatives;
+The Honorable Young Kim, U.S. House of Representatives; The
+8Marquis D. Barefield, Statement for the Record of Disabled American Veterans (March 26,
+2025), HHRG-119-VR09-20250326-SD002.pdf.
+9Diane Boyd Rauber, Testimony of National Organization of Veterans’ Advocates, Inc. (March
+26, 2025), HHRG-119-VR09-Wstate-BoydRauberD-20250326.pdf (House.gov).
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+6
+Honorable August Pfluger, U.S. House of Representatives; The
+Honorable Rudy Yakym III, U.S. House of Representatives;
+The Honorable Tom Barrett, U.S. House of Representatives;
+The Honorable Robert P. Bresnahan, U.S. House of Represent-
+atives; Mrs. Patricia Krisfalusy-Maxon, Sister of Master Ser-
+geant Dennis Krisfalusy, U.S. Air Force (Retired); Colonel An-
+drew Shurtleff, U.S. Air Force (Retired); Ms. Diane Boyd
+Rauber, Executive Director, National Organization of Veterans’
+Advocates; Ms. Lesley Witter, Senior Vice President, Advocacy,
+National Funeral Directors Association; Ms. Kenesha Britton,
+Assistant Deputy Undersecretary, Field Operations, Veterans
+Benefits Administration, U.S. Department of Veterans Affairs;
+Ms. Jocelyn Moses, Senior Principal Advisor, Compensation
+Service, Veterans Benefits Administration, U.S. Department of
+Veterans Affairs; Ms. Lisa Pozzebon, Executive Director, Ceme-
+tery Operations, National Cemetery Administration, U.S. De-
+partment of Veterans Affairs; and Mr. Evan Deichert, Acting
+Deputy Vice Chairman, Board of Veterans’ Appeals, U.S. De-
+partment of Veterans Affairs.
+The following individuals and organizations submitted state-
+ments for the record:
+Disabled American Veterans; Paralyzed Veterans of America;
+Tragedy Assistance Program for Survivors; Veterans of Foreign
+Wars of the United States; and the American Federation of
+Government Employees, AFL–CIO.
+SUBCOMMITTEE CONSIDERATION
+On April 9, 2025, the Subcommittee on Disability Assistance and
+Memorial Affairs met in an open markup session to consider H.R.
+2201. During consideration of the bill, the following amendments
+were considered:
+An amendment in the nature of a substitute to H.R. 2201
+was offered by Representative Luttrell to require VA to auto-
+matically obtain all service personnel records when requesting
+a claimant’s service medical records. The amendment in the
+nature of a substitute was approved by voice vote.
+A motion by Representative McGarvey to favorably forward H.R.
+2201, as amended, to the Full Committee, was agreed to by voice
+vote.
+COMMITTEE CONSIDERATION
+On May 6, 2025, the Full Committee met in open markup session
+with a quorum being present, to consider H.R. 2201, as amended.
+A motion by Ranking Member Takano to report H.R. 2201, as
+amended, favorably to the House of Representatives, was agreed to
+by voice vote.
+COMMITTEE VOTES
+In compliance with clause 3(b) of rule XIII of the Rules of the
+House of Representatives, no recorded votes were taken on amend-
+ments or in connection with ordering H.R. 2201, as amended, re-
+ported to the House.
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+7
+COMMITTEE OVERSIGHT FINDINGS
+In compliance with clause 3(c)(1) of rule XIII and clause (2)(b)(1)
+of rule X of the Rules of the House of Representatives, the Commit-
+tee’s oversight findings and recommendations are reflected in the
+descriptive portions of this report.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+In accordance with clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee’s performance goals and
+objectives of H.R. 2201, as amended, are to ensure that veterans
+who have endured a military sexual trauma are not retraumatized
+by the VA disability compensation process and ensure veterans
+have access to their earned VA disability compensation benefits.
+EARMARKS AND TAX AND TARIFF BENEFITS
+H.R. 2201, as amended, does not contain any Congressional ear-
+marks, limited tax benefits, or limited tariff benefits as defined in
+clause 9 of rule XXI of the Rules of the House of Representatives.
+COMMITTEE COST ESTIMATE
+The Committee adopts as its own the Congressional Budget Of-
+fice cost estimate on this measure.
+BUDGET AUTHORITY AND CONGRESSIONAL BUDGET OFFICE
+COST ESTIMATE
+Pursuant to clause (3)(c)(3) of rule XIII of the Rules of the House
+of Representatives, the following is the cost estimate for H.R. 1969,
+as amended, provided by the Congressional Budget Office (CBO)
+pursuant to section 402 of the Congressional Budget Act of 1974:
+H.R. 2201 would require the Department of Veterans Affairs
+(VA) to provide annual sensitivity training for employees who proc-
+ess or decide claims for VA benefits that result from military sex-
+ual trauma (MST). The bill also would require VA to obtain a vet-
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.89RH
+ereh
+01
+oilof
+tesffo
+tresnI
+
+8
+eran’s service personnel and service medical records when proc-
+essing those claims. The department already provides annual sensi-
+tivity training to employees who handle MST-related claims. Fur-
+ther, VA is already required to assist veterans in obtaining nec-
+essary evidence to substantiate benefits claims under current law.
+Such evidence may include the veteran’s service personnel and
+service medical records, as well as other evidence. Because VA is
+already providing employees with annual sensitivity training and
+is required to obtain all necessary evidence when processing bene-
+fits claims, those requirements would not affect the federal budget.
+The bill would also require VA to submit two reports to the Con-
+gress on the sensitivity training it provides to department employ-
+ees and to contracted medical professionals who process, decide, or
+evaluate claims for VA benefits concerning MST. Using information
+on the cost of similar reports, CBO estimates the reporting require-
+ments would increase spending subject to appropriation by less
+than $500,000.
+The CBO staff contact for this estimate is Logan Smith. The esti-
+mate was reviewed by Christina Hawley Anthony, Deputy Director
+of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+FEDERAL MANDATES STATEMENT
+Section 423 of the Congressional Budget and Impoundment Con-
+trol Act (as amended by Section 101(a)(2) of the Unfunded Mandate
+Reform Act, P.L. 104–4 is inapplicable to H.R. 2201, as amended.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act would be created by H.R. 2201, as
+amended.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that H.R. 2201, as amended, does not relate
+to the terms and conditions of employment or access to public serv-
+ices or accommodations within the meaning of section 102(b)(3) of
+the Congressional Accountability Act.
+STATEMENT ON DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee finds that no provision of H.R.
+2201, as amended, would establish or reauthorize a program of the
+Federal Government known to be duplicative of another Federal
+program, a program that was included in any report from the Gov-
+ernment Accountability Office to Congress pursuant to section 21
+of Public Law 111–139, or a program related to a program identi-
+fied in the most recent Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+Section 1 would establish the short title of the bill as the ‘‘Im-
+proving VA Training for Military Sexual Trauma Claims Act.’’
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+9
+Section 2: Improvement of claims based on Military Sexual Trauma
+under laws administered by the Secretary of Veterans Affairs
+Section 2 would amend 38 U.S.C. §1166(c), to require VA em-
+ployees who process claims based on MST and who communicate
+with claimants about such MST claims to undergo annual training,
+appropriate for their experience level, on how to identify ‘‘markers’’
+of MST, as well as annual sensitivity training. This section would
+require VA to update such training annually, and, not later than
+90 days after the enactment of the Act, to report to the Committees
+on Veterans’ Affairs of the House of Representatives and the Sen-
+ate on VA’s implementation of the training required by this section.
+Second 2 would also amend 38 U.S.C. §5103A(c) to specify that
+in an MST claim under 38 U.S.C. §1166, VA’s duty to assist shall
+include obtaining the claimant’s service personnel records and serv-
+ice medical records.
+Finally, Section 2 would require VA, not later than 90 days after
+the date of enactment of this Act, to submit to Committees on Vet-
+erans’ Affairs of the Senate and House a report on (1) how VA will
+improve sensitivity training required for contracted disability com-
+pensation examiners, as well as for those who schedule contracted
+examinations; and (2) VA’s plan to ensure that a veteran pursuing
+an MST claim is not retraumatized during contracted disability
+compensation examinations.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+existing law in which no change is proposed is shown in roman):
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+TITLE 38, UNITED STATES CODE
+* * * * * * *
+PART II—GENERAL BENEFITS
+* * * * * * *
+CHAPTER 11—COMPENSATION FOR SERVICE-
+CONNECTED DISABILITY OR DEATH
+* * * * * * *
+SUBCHAPTER VI—GENERAL COMPENSATION PROVISIONS
+* * * * * * *
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+10
+§1166. Claims involving military sexual trauma
+(a) PROCESSING.—(1) The Secretary shall establish specialized
+teams to process claims for compensation for a covered mental
+health condition based on military sexual trauma experienced by a
+veteran during active military, naval, air, or space service.
+(2) A peer support specialist of the Department—
+(A) shall not be responsible for providing any assistance to
+a veteran regarding a claim described in paragraph (1), other
+than counseling services, guidance, and support, pursuant to
+duties determined by the Under Secretary for Health; and
+(B) shall not participate in the adjudication of such a claim.
+(b) REFERRALS TO MST COORDINATORS.—The Secretary shall in-
+clude, in forms for claims described in subsection (a), an option for
+a veteran to elect to be referred to a military sexual trauma coordi-
+nator of the Veterans Health Administration at the facility of the
+Department nearest to the residence of such veteran.
+(c) TRAINING.—(1) The Secretary shall ensure that ømembers of
+teams established under subsection (a) are trained¿ each employee
+of the Department who processes such a claim, communicates with
+a claimant regarding evidence supporting such a claim, or decides
+such a claim, receives annual sensitivity training and training to
+identify markers indicating military sexual trauma.
+(2) The Secretary shall ensure that peer support specialists of the
+Department receive annual training on how to provide peer support
+regarding military sexual trauma.
+(3) The Secretary shall provide annual training, regarding the
+processing of claims described in subsection (a), to the following in-
+dividuals:
+(A) Military sexual trauma coordinators of the Veterans
+Health Administration.
+(B) Peer support specialists of the Department.
+(4) The Secretary shall ensure that training received by an em-
+ployee under this subsection is appropriate for how much experience
+the employee has with such claims.
+(5) The Secretary shall update training under this subsection not
+less than once annually.
+(d) DEFINITIONS.—In this section:
+(1) The term ‘‘covered mental health condition’’ means post-
+traumatic stress disorder, anxiety, depression, or other mental
+health diagnosis described in the current version of the Diag-
+nostic and Statistical Manual of Mental Disorders published by
+the American Psychiatric Association that the Secretary deter-
+mines to be related to military sexual trauma.
+(2) The term ‘‘military sexual trauma’’ means, with respect
+to a veteran, a physical assault of a sexual nature, battery of
+a sexual nature, or sexual harassment during active military,
+naval, air, or space service.
+* * * * * * *
+PART IV—GENERAL ADMINISTRATIVE
+PROVISIONS
+* * * * * * *
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+11
+CHAPTER 51—CLAIMS, EFFECTIVE DATES, AND
+PAYMENTS
+SUBCHAPTER I—CLAIMS
+* * * * * * *
+§5103A. Duty to assist claimants
+(a) DUTY TO ASSIST.—(1) The Secretary shall make reasonable ef-
+forts to assist a claimant in obtaining evidence necessary to sub-
+stantiate the claimant’s claim for a benefit under a law adminis-
+tered by the Secretary.
+(2) The Secretary is not required to provide assistance to a claim-
+ant under this section if no reasonable possibility exists that such
+assistance would aid in substantiating the claim.
+(3) The Secretary may defer providing assistance under this sec-
+tion pending the submission by the claimant of essential informa-
+tion missing from the claimant’s application.
+(b) ASSISTANCE IN OBTAINING PRIVATE RECORDS.—(1) As part of
+the assistance provided under subsection (a), the Secretary shall
+make reasonable efforts to obtain relevant private records that the
+claimant adequately identifies to the Secretary.
+(2)(A) Whenever the Secretary, after making such reasonable ef-
+forts, is unable to obtain all of the relevant records sought, the Sec-
+retary shall notify the claimant that the Secretary is unable to ob-
+tain records with respect to the claim. Such a notification shall—
+(i) identify the records the Secretary is unable to obtain;
+(ii) briefly explain the efforts that the Secretary made to ob-
+tain such records; and
+(iii) explain that the Secretary will decide the claim based on
+the evidence of record but that this section does not prohibit
+the submission of records at a later date if such submission is
+otherwise allowed.
+(B) The Secretary shall make not less than two requests to a cus-
+todian of a private record in order for an effort to obtain relevant
+private records to be treated as reasonable under this section, un-
+less it is made evident by the first request that a second request
+would be futile in obtaining such records.
+(3)(A) This section shall not apply if the evidence of record allows
+for the Secretary to award the maximum benefit in accordance with
+this title based on the evidence of record.
+(B) For purposes of this paragraph, the term ‘‘maximum benefit’’
+means the highest evaluation assignable in accordance with the
+evidence of record, as long as such evidence is adequate for rating
+purposes and sufficient to grant the earliest possible effective date
+in accordance with section 5110 of this title.
+(4) Under regulations prescribed by the Secretary, the Sec-
+retary—
+(A) shall encourage claimants to submit relevant private
+medical records of the claimant to the Secretary if such sub-
+mission does not burden the claimant; and
+(B) in obtaining relevant private records under paragraph
+(1), may require the claimant to authorize the Secretary to ob-
+tain such records if such authorization is required to comply
+with Federal, State, or local law.
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+12
+(c) OBTAINING RECORDS FOR COMPENSATION CLAIMS.—(1) In the
+case of a claim for disability compensation, the assistance provided
+by the Secretary under this section shall include obtaining the fol-
+lowing records if relevant to the claim:
+(A) The claimant’s service medical records and, if the claim-
+ant has furnished the Secretary information sufficient to locate
+such records, other relevant records pertaining to the claim-
+ant’s active military, naval, air, or space service that are held
+or maintained by a governmental entity.
+(B) Records of relevant medical treatment or examination of
+the claimant at Department health-care facilities or at the ex-
+pense of the Department, if the claimant furnishes information
+sufficient to locate those records.
+(C) Any other relevant records held by any Federal depart-
+ment or agency that the claimant adequately identifies and au-
+thorizes the Secretary to obtain.
+(2) In the case of a claim under section 1166 of this title, the as-
+sistance provided by the Secretary under this section shall include
+obtaining—
+(A) the service personnel record of the claimant; and
+(B) the service medical record of the claimant.
+ø(2)¿ (3) Whenever the Secretary attempts to obtain records from
+a Federal department or agency under this subsection, the efforts
+to obtain those records shall continue until the records are obtained
+unless it is reasonably certain that such records do not exist or
+that further efforts to obtain those records would be futile.
+(d) MEDICAL EXAMINATIONS FOR COMPENSATION CLAIMS.—(1) In
+the case of a claim for disability compensation, the assistance pro-
+vided by the Secretary under subsection (a) shall include providing
+a medical examination or obtaining a medical opinion when such
+an examination or opinion is necessary to make a decision on the
+claim.
+(2) The Secretary shall treat an examination or opinion as being
+necessary to make a decision on a claim for purposes of paragraph
+(1) if the evidence of record before the Secretary, taking into con-
+sideration all information and lay or medical evidence (including
+statements of the claimant)—
+(A) contains competent evidence that the claimant has a cur-
+rent disability, or persistent or recurrent symptoms of dis-
+ability; and
+(B) indicates that the disability or symptoms may be associ-
+ated with the claimant’s active military, naval, air, or space
+service; but
+(C) does not contain sufficient medical evidence for the Sec-
+retary to make a decision on the claim.
+(e) APPLICABILITY OF DUTY TO ASSIST.—(1) The Secretary’s duty
+to assist under this section shall apply only to a claim, or supple-
+mental claim, for a benefit under a law administered by the Sec-
+retary until the time that a claimant is provided notice of the agen-
+cy of original jurisdiction’s decision with respect to such claim, or
+supplemental claim, under section 5104 of this title.
+(2) The Secretary’s duty to assist under this section shall not
+apply to higher-level review by the agency of original jurisdiction,
+pursuant to section 5104B of this title, or to review on appeal by
+the Board of Veterans’ Appeals.
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+13
+(f) CORRECTION OF DUTY TO ASSIST ERRORS.—(1) If, during re-
+view of the agency of original jurisdiction decision under section
+5104B of this title, the higher-level adjudicator identifies or learns
+of an error on the part of the agency of original jurisdiction to sat-
+isfy its duties under this section, and that error occurred prior to
+the agency of original jurisdiction decision being reviewed, unless
+the Secretary may award the maximum benefit in accordance with
+this title based on the evidence of record, the higher-level adjudi-
+cator shall return the claim for correction of such error and readju-
+dication.
+(2)(A) If the Board of Veterans’ Appeals, during review on appeal
+of an agency of original jurisdiction decision, identifies or learns of
+an error on the part of the agency of original jurisdiction to satisfy
+its duties under this section, and that error occurred prior to the
+agency of original jurisdiction decision on appeal, unless the Sec-
+retary may award the maximum benefit in accordance with this
+title based on the evidence of record, the Board shall remand the
+claim to the agency of original jurisdiction for correction of such
+error and readjudication.
+(B) Remand for correction of such error may include directing the
+agency of original jurisdiction to obtain an advisory medical opinion
+under section 5109 of this title.
+(3) Nothing in this subsection shall be construed to imply that
+the Secretary, during the consideration of a claim, does not have
+a duty to correct an error described in paragraph (1) or (2) that was
+erroneously not identified during higher-level review or during re-
+view on appeal with respect to the claim.
+(g) REGULATIONS.—The Secretary shall prescribe regulations to
+carry out this section.
+(h) RULE WITH RESPECT TO DISALLOWED CLAIMS.—Nothing in
+this section shall be construed to require the Secretary to readjudi-
+cate a claim that has been disallowed except when new and rel-
+evant evidence is presented or secured, as described in section 5108
+of this title.
+(i) OTHER ASSISTANCE NOT PRECLUDED.—Nothing in this section
+shall be construed as precluding the Secretary from providing such
+other assistance under subsection (a) to a claimant in substan-
+tiating a claim as the Secretary considers appropriate.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 04:52 May 18, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6611 E:\HR\OC\HR098.XXX HR098
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

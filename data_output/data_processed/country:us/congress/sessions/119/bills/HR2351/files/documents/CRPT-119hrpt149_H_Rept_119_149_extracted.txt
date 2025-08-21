@@ -1,0 +1,739 @@
+Title: TO DIRECT THE COMMANDANT OF THE COAST GUARD TO UPDATE THE
+Official Title: TO DIRECT THE COMMANDANT OF THE COAST GUARD TO UPDATE THE
+Number of Sections: 8
+Source: documents - H. Rept. 119-149
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–149
+POLICY OF THE COAST GUARD REGARDING THE USE OF MEDICATION
+TO TREAT DRUG OVERDOSE, AND FOR OTHER PURPOSES
+JUNE6, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. GRAVES, from the Committee on Transportation and
+Infrastructure, submitted the following
+R E P O R T
+[To accompany H.R. 2351]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Transportation and Infrastructure, to whom
+was referred the bill (H.R. 2351) to direct the Commandant of the
+Coast Guard to update the policy of the Coast Guard regarding the
+use of medication to treat drug overdose, and for other purposes,
+having considered the same, reports favorably thereon without
+amendment and recommends that the bill do pass.
+CONTENTS
+Page
+Purpose of Legislation ............................................................................................. 2
+Background and Need for Legislation .................................................................... 2
+Hearings ................................................................................................................... 3
+Legislative History and Consideration .................................................................. 3
+Committee Votes ...................................................................................................... 3
+Committee Oversight Findings and Recommendations ........................................ 3
+New Budget Authority and Tax Expenditures ...................................................... 3
+Congressional Budget Office Cost Estimate .......................................................... 4
+Performance Goals and Objectives ......................................................................... 5
+Duplication of Federal Programs ............................................................................ 5
+Congressional Earmarks, Limited Tax Benefits, and Limited Tariff Benefits ... 5
+Federal Mandates Statement ................................................................................. 5
+Preemption Clarification ......................................................................................... 5
+Advisory Committee Statement .............................................................................. 5
+Applicability to Legislative Branch ........................................................................ 5
+
+Section 2:
+Section-by-Section Analysis of The Legislation ..................................................... 6
+Changes in Existing Law Made by the Bill, as Reported ..................................... 6
+59–006
+VerDate Sep 11 2014 06:19 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR149.XXX HR149
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+PURPOSE OF LEGISLATION
+The purpose of H.R. 2351 is to direct the Commandant of the
+Coast Guard to update the policy of the Coast Guard regarding the
+use of medication to treat drug overdose, and for other purposes.
+BACKGROUND AND NEED FOR LEGISLATION
+The Coast Guard is uniquely positioned as the only armed serv-
+ice capable of performing maritime law enforcement operations.1
+Under its authorities, the Coast Guard is actively engaged in mis-
+sions pertaining to drug interdiction.2 The Coast Guard performs
+its counter drug mission within the territorial waters and exclusive
+economic zone of the United States, on the high seas, and in for-
+eign territorial waters when operating under agreements with al-
+lies and partner nations.3
+From fiscal year (FY) 2019 to FY 2024, the Coast Guard inter-
+cepted and seized 873.5 metric tons of cocaine, worth approxi-
+mately $23.6 billion.4 More recently, the Coast Guard seized 45,600
+pounds of cocaine valued at $517.5 million in March 2025.5
+Illicit maritime drug shipments are carried by noncommercial
+means, such as small ‘‘go-fast’’ vessels with multiple outboard en-
+gines, semisubmersible vessels, fishing vessels, and sailing vessels,
+as well as by commercial vessels, such as container ships.6 The ma-
+jority of known maritime drug flow is conveyed via noncommercial
+means through the Western Hemisphere Transit Zone—the waters
+off the coasts of Central and South America and the Caribbean
+Sea.7 The Coast Guard uses cutters, small boats, aircraft, and un-
+manned monitoring systems in a layered approach to combat drug
+cartels as they transport illicit drugs in the maritime domain.8
+As autonomous maritime technology develops, it is expected that
+drug smugglers will use unmanned systems to move their illicit
+shipments.9 H.R. 2351 amends the Maritime Drug Law Enforce-
+ment Act to remove ambiguity to prosecute cases involving un-
+manned or autonomous vessels, as well as instances where drugs
+have been hidden onboard a vessel without the crew’s knowledge.10
+The legislation also ensures the Service will be better prepared to
+respond to opioid overdoses by requiring an update to Coast Guard
+policy to ensure the availability of Naloxone on Coast Guard bases
+114 U.S.C. §522.
+2Id.
+3U.S. COASTGUARD, Force Laydown, available at https://www.uscg.mil/About/Force-Laydown/
+#:∼:text=The%20Coast%20Guard%20also%20has,assets%2C%20and%20deployable%20
+specialized%20forces.
+4Interdicting Illicit Drug Trafficking: A View from the Front Lines before the S. Comm. On
+Commerce, Science, and Transportation, 119th Cong. (Feb. 26, 2025) (testimony of Rear Admiral
+Adam A. Chamie, United States Coast Guard).
+5Press Release, USCG DISTRICT7PUBLICAFFAIRS, Coast Guard offloads over $517.5 million
+in illicit drugs interdicted in Eastern Pacific Ocean (Mar. 20,2025), available at https://
+www.news.uscg.mil/Press-Releases/Article/4130261/coast-guard-offloads-over-5175-million-in-
+illicit-drugs-interdicted-in-eastern/.
+6UNITED STATES COAST GUARD REPORT TO CONGRESS: COUNTER-DRUG OPERATIONS, (2020),
+https://www.dhs.gov/sites/default/files/publications/uscg_-_counter-drug_operations.pdf [herein-
+after Counter-Drug Operations].
+7Id.
+8Id.
+9Lt. Jasper Campbell and Lt. James Martin, U.S.C.G., The War on Drugs on Autopilot, PRO-
+CEEDINGS (Jan. 2021), available at https://www.usni.org/magazines/proceedings/2021/january/
+war-drugs-autopilot.
+1046 U.S.C. §70503.
+VerDate Sep 11 2014 06:19 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR149.XXX HR149
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+and in Coast Guard operational environments to treat opioid
+overdoses, including those related to Fentanyl.
+HEARINGS
+For the purposes of rule XIII, clause 3(c)(6)(A) of the 119th Con-
+gress—
+The following hearing was used to develop or consider H.R. 2351:
+The Subcommittee on Coast Guard and Maritime Transportation
+held a hearing on March 5, 2025, entitled ‘‘America Builds: Coast
+Guard Acquisitions and Infrastructure’’, to examine the Coast
+Guard recapitalization efforts, including major surface assets in-
+cluding the Offshore Patrol Cutters (OPC) and Polar Security Cut-
+ters (PSC), rotary wing aircraft, shoreside infrastructure, and In-
+formation Technology (IT). The Subcommittee received testimony
+from VADM Thomas G. Allan Jr., Acting Deputy Commandant for
+Operations, USCG, Department of Homeland Security; and Heath-
+er MacLeod, Director, Homeland Security and Justice Programs,
+United States Government Accountability Office (GAO).
+LEGISLATIVE HISTORY AND CONSIDERATION
+H.R. 2351, a bill to direct the Commandant of the Coast Guard
+to update the policy of the Coast Guard regarding the use of medi-
+cation to treat drug overdoses, and for other purposes, was intro-
+duced in the United States House of Representatives on March 26,
+2025, by Representative Addison McDowell and cosponsored by
+Representative Craig Goldman and Representative Laura Gillen.
+The bill was referred to the Committee on Transportation and In-
+frastructure. Within the Committee on Transportation and Infra-
+structure, H.R. 2351 was referred to the Subcommittee on Coast
+Guard and Maritime Transportation. The Subcommittee on Coast
+Guard and Maritime Transportation was discharged from further
+consideration of H.R. 2351 on April 2, 2025.
+The Committee considered H.R. 2351 on April 2, 2025, and or-
+dered the measure to be reported to the House with a favorable
+recommendation, without amendment, by voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires each committee report to include the total number of
+votes cast for and against on each record vote on a motion to report
+and on any amendment offered to the measure or matter, and the
+names of those members voting for and against.
+No recorded votes were requested for H.R. 2351.
+COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+With respect to the requirements of clause 3(c)(1) of rule XIII of
+the Rules of the House of Representatives, the Committee’s over-
+sight findings and recommendations are reflected in this report.
+NEW BUDGET AUTHORITY AND TAX EXPENDITURES
+Clause 3(c)(2) of rule XIII of the Rules of the House of Represent-
+atives does not apply where a cost estimate and comparison pre-
+pared by the Director of the Congressional Budget Office under sec-
+VerDate Sep 11 2014 06:19 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR149.XXX HR149
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+tion 402 of the Congressional Budget Act of 1974 has been timely
+submitted prior to the filing of the report and is included in the re-
+port. Such a cost estimate is included in this report.
+CONGRESSIONAL BUDGET OFFICE COST ESTIMATE
+With respect to the requirement of clause 3(c)(3) of rule XIII of
+the Rules of the House of Representatives and section 402 of the
+Congressional Budget Act of 1974, the Committee has received the
+enclosed cost estimate for H.R. 2351 from the Director of the Con-
+gressional Budget Office:
+H.R. 2351 would direct the Coast Guard (USCG) to carry
+naloxone and similar overdose medications at all of its facilities,
+implement a system to track their distribution, and report on those
+efforts to the Congress. The bill also would codify existing policies
+prohibiting the manufacture or distribution of controlled sub-
+stances aboard vessels.
+Under current law, the USCG is not required to carry naloxone;
+however, all designated law enforcement units are currently
+equipped with it. Using information from the Coast Guard, CBO
+estimates that it would cost less than $500,000 over the 2025–2030
+period for the agency to supply naloxone to additional facilities.
+CBO estimates that maintaining the tracking system and other re-
+porting requirements would cost less than $500,000 over the 2025–
+2030 period. In total, CBO estimates that implementing H.R. 2351
+would cost $1 million over the 2025–2030 period. Any related
+spending would be subject to the availability of appropriated funds.
+The CBO staff contacts for this estimate are Kelly Durand and
+Aaron Krupkin. The estimate was reviewed by H. Samuel
+Papenfuss, Deputy Director of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+VerDate Sep 11 2014 06:19 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR149.XXX HR149
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 3:
+100.941RH
+ereh
+5
+oilof
+tesffo
+tresnI
+5
+PERFORMANCE GOALS AND OBJECTIVES
+With respect to the requirement of clause 3(c)(4) of rule XIII of
+the Rules of the House of Representatives, the performance goal
+and objective of this legislation is to provide the Coast Guard nec-
+essary authorities to conduct its missions.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee finds that no provision of H.R.
+2351 establishes or reauthorizes a program of the Federal govern-
+ment known to be duplicative of another Federal program, a pro-
+gram that was included in any report from the Government Ac-
+countability Office to Congress pursuant to section 21 of Public
+Law 111–139, or a program related to a program identified in the
+most recent Catalog of Federal Domestic Assistance.
+CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS,
+AND LIMITED TARIFF BENEFITS
+In compliance with clause 9 of rule XXI of the Rules of the House
+of Representatives, this bill, as reported, contains no congressional
+earmarks, limited tax benefits, or limited tariff benefits as defined
+in clause 9(e), 9(f), or 9(g) of the rule XXI.
+FEDERAL MANDATES STATEMENT
+An estimate of Federal mandates prepared by the Director of the
+Congressional Budget Office pursuant to section 423 of the Un-
+funded Mandates Reform Act was not made available to the Com-
+mittee in time for the filing of this report. The Chairman of the
+Committee shall cause such estimate to be printed in the Congres-
+sional Record upon its receipt by the Committee.
+PREEMPTION CLARIFICATION
+
+Section 4:
+Section 423 of the Congressional Budget Act of 1974 requires the
+report of any Committee on a bill or joint resolution to include a
+statement on the extent to which the bill or joint resolution is in-
+tended to preempt state, local, or tribal law. The Committee finds
+that H.R. 2351 does not preempt any state, local, or tribal law.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the definition of Section 5(b) of
+Public Law 92–463 (5 U.S.C. 1004(b)), United States Code, are cre-
+ated by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act (Public Law 104–1).
+VerDate Sep 11 2014 06:19 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR149.XXX HR149
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+6
+
+Section 5:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 6:
+Section 1. Controlled substance onboard vessels
+This section amends the Maritime Drug Law Enforcement Act
+(Section 70503 of title 46, United Stated Code) to remove ambiguity
+to prosecute cases involving unmanned or autonomous vessels, as
+well as instances where drugs have been hidden onboard a vessel
+without the crew’s knowledge.
+
+Section 7:
+Section 2. Policy and briefing on availability of naloxone to treat
+opioid overdoses
+This section requires an update to Coast Guard policy to ensure
+the availability of Naloxone on Coast Guard bases and in Coast
+Guard operational environments to treat opioid overdoses, includ-
+ing those related to Fentanyl.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italic,
+existing law in which no change is proposed is shown in roman):
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+TITLE 46, UNITED STATES CODE
+* * * * * * *
+SUBTITLE VII—SECURITY AND DRUG
+ENFORCEMENT
+* * * * * * *
+CHAPTER 705—MARITIME DRUG LAW ENFORCEMENT
+* * * * * * *
+
+Section 8:
+§70503. Prohibited acts
+(a) PROHIBITIONS.— øWhile on board a covered vessel, an¿ An in-
+dividual may not knowingly or intentionally—
+ø(1) manufacture or distribute, or possess with intent to
+manufacture or distribute, a controlled substance;¿
+(1) manufacture or distribute, possess with intent to manufac-
+ture or distribute, or place or cause to be placed with intent to
+manufacture or distribute a controlled substance on board a
+covered vessel;
+(2) destroy (including jettisoning any item or scuttling, burn-
+ing, or hastily cleaning a vessel), or attempt or conspire to de-
+VerDate Sep 11 2014 06:19 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6601 E:\HR\OC\HR149.XXX HR149
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+7
+stroy, property that is subject to forfeiture under section 511(a)
+of the Comprehensive Drug Abuse Prevention and Control Act
+of 1970 (21 U.S.C. 881(a)) on board a covered vessel ; or
+(3) conceal, or attempt or conspire to conceal, more than
+$100,000 in currency or other monetary instruments on the
+person of such individual while on board a covered vessel or in
+any conveyance, article of luggage, merchandise, or other con-
+tainer, or compartment of or aboard the covered vessel if that
+vessel is outfitted for smuggling.
+(b) EXTENSION BEYOND TERRITORIAL JURISDICTION.—Subsection
+(a) applies even though the act is committed outside the territorial
+jurisdiction of the United States.
+(c) NONAPPLICATION.—
+(1) IN GENERAL.—Subject to paragraph (2), subsection (a)
+does not apply to—
+(A) a common or contract carrier or an employee of the
+carrier who possesses or distributes a controlled substance
+in the lawful and usual course of the carrier’s business; or
+(B) a public vessel of the United States or an individual
+on board the vessel who possesses or distributes a con-
+trolled substance in the lawful course of the individual’s
+duties.
+(2) ENTERED IN MANIFEST.—Paragraph (1) applies only if the
+controlled substance is part of the cargo entered in the vessel’s
+manifest and is intended to be imported lawfully into the coun-
+try of destination for scientific, medical, or other lawful pur-
+poses.
+(d) BURDEN OF PROOF.—The United States Government is not re-
+quired to negative a defense provided by subsection (c) in a com-
+plaint, information, indictment, or other pleading or in a trial or
+other proceeding. The burden of going forward with the evidence
+supporting the defense is on the person claiming its benefit.
+(e) COVERED VESSEL DEFINED.—In this section the term ‘‘covered
+vessel’’ means—
+(1) a vessel of the United States or a vessel subject to the
+jurisdiction of the United States; or
+(2) any other vessel if the individual is a citizen of the
+United States or a resident alien of the United States.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 06:19 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6611 E:\HR\OC\HR149.XXX HR149
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–149
+TO DIRECT THE COMMANDANT OF THE COAST GUARD TO UPDATE THE
+POLICY OF THE COAST GUARD REGARDING THE USE OF MEDICATION
+TO TREAT DRUG OVERDOSE, AND FOR OTHER PURPOSES
+JUNE6, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. GRAVES, from the Committee on Transportation and
+Infrastructure, submitted the following
+R E P O R T
+[To accompany H.R. 2351]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Transportation and Infrastructure, to whom
+was referred the bill (H.R. 2351) to direct the Commandant of the
+Coast Guard to update the policy of the Coast Guard regarding the
+use of medication to treat drug overdose, and for other purposes,
+having considered the same, reports favorably thereon without
+amendment and recommends that the bill do pass.
+CONTENTS
+Page
+Purpose of Legislation ............................................................................................. 2
+Background and Need for Legislation .................................................................... 2
+Hearings ................................................................................................................... 3
+Legislative History and Consideration .................................................................. 3
+Committee Votes ...................................................................................................... 3
+Committee Oversight Findings and Recommendations ........................................ 3
+New Budget Authority and Tax Expenditures ...................................................... 3
+Congressional Budget Office Cost Estimate .......................................................... 4
+Performance Goals and Objectives ......................................................................... 5
+Duplication of Federal Programs ............................................................................ 5
+Congressional Earmarks, Limited Tax Benefits, and Limited Tariff Benefits ... 5
+Federal Mandates Statement ................................................................................. 5
+Preemption Clarification ......................................................................................... 5
+Advisory Committee Statement .............................................................................. 5
+Applicability to Legislative Branch ........................................................................ 5
+Section-by-Section Analysis of The Legislation ..................................................... 6
+Changes in Existing Law Made by the Bill, as Reported ..................................... 6
+59–006
+VerDate Sep 11 2014 06:19 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR149.XXX HR149
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+PURPOSE OF LEGISLATION
+The purpose of H.R. 2351 is to direct the Commandant of the
+Coast Guard to update the policy of the Coast Guard regarding the
+use of medication to treat drug overdose, and for other purposes.
+BACKGROUND AND NEED FOR LEGISLATION
+The Coast Guard is uniquely positioned as the only armed serv-
+ice capable of performing maritime law enforcement operations.1
+Under its authorities, the Coast Guard is actively engaged in mis-
+sions pertaining to drug interdiction.2 The Coast Guard performs
+its counter drug mission within the territorial waters and exclusive
+economic zone of the United States, on the high seas, and in for-
+eign territorial waters when operating under agreements with al-
+lies and partner nations.3
+From fiscal year (FY) 2019 to FY 2024, the Coast Guard inter-
+cepted and seized 873.5 metric tons of cocaine, worth approxi-
+mately $23.6 billion.4 More recently, the Coast Guard seized 45,600
+pounds of cocaine valued at $517.5 million in March 2025.5
+Illicit maritime drug shipments are carried by noncommercial
+means, such as small ‘‘go-fast’’ vessels with multiple outboard en-
+gines, semisubmersible vessels, fishing vessels, and sailing vessels,
+as well as by commercial vessels, such as container ships.6 The ma-
+jority of known maritime drug flow is conveyed via noncommercial
+means through the Western Hemisphere Transit Zone—the waters
+off the coasts of Central and South America and the Caribbean
+Sea.7 The Coast Guard uses cutters, small boats, aircraft, and un-
+manned monitoring systems in a layered approach to combat drug
+cartels as they transport illicit drugs in the maritime domain.8
+As autonomous maritime technology develops, it is expected that
+drug smugglers will use unmanned systems to move their illicit
+shipments.9 H.R. 2351 amends the Maritime Drug Law Enforce-
+ment Act to remove ambiguity to prosecute cases involving un-
+manned or autonomous vessels, as well as instances where drugs
+have been hidden onboard a vessel without the crew’s knowledge.10
+The legislation also ensures the Service will be better prepared to
+respond to opioid overdoses by requiring an update to Coast Guard
+policy to ensure the availability of Naloxone on Coast Guard bases
+114 U.S.C. §522.
+2Id.
+3U.S. COASTGUARD, Force Laydown, available at https://www.uscg.mil/About/Force-Laydown/
+#:∼:text=The%20Coast%20Guard%20also%20has,assets%2C%20and%20deployable%20
+specialized%20forces.
+4Interdicting Illicit Drug Trafficking: A View from the Front Lines before the S. Comm. On
+Commerce, Science, and Transportation, 119th Cong. (Feb. 26, 2025) (testimony of Rear Admiral
+Adam A. Chamie, United States Coast Guard).
+5Press Release, USCG DISTRICT7PUBLICAFFAIRS, Coast Guard offloads over $517.5 million
+in illicit drugs interdicted in Eastern Pacific Ocean (Mar. 20,2025), available at https://
+www.news.uscg.mil/Press-Releases/Article/4130261/coast-guard-offloads-over-5175-million-in-
+illicit-drugs-interdicted-in-eastern/.
+6UNITED STATES COAST GUARD REPORT TO CONGRESS: COUNTER-DRUG OPERATIONS, (2020),
+https://www.dhs.gov/sites/default/files/publications/uscg_-_counter-drug_operations.pdf [herein-
+after Counter-Drug Operations].
+7Id.
+8Id.
+9Lt. Jasper Campbell and Lt. James Martin, U.S.C.G., The War on Drugs on Autopilot, PRO-
+CEEDINGS (Jan. 2021), available at https://www.usni.org/magazines/proceedings/2021/january/
+war-drugs-autopilot.
+1046 U.S.C. §70503.
+VerDate Sep 11 2014 06:19 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR149.XXX HR149
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+and in Coast Guard operational environments to treat opioid
+overdoses, including those related to Fentanyl.
+HEARINGS
+For the purposes of rule XIII, clause 3(c)(6)(A) of the 119th Con-
+gress—
+The following hearing was used to develop or consider H.R. 2351:
+The Subcommittee on Coast Guard and Maritime Transportation
+held a hearing on March 5, 2025, entitled ‘‘America Builds: Coast
+Guard Acquisitions and Infrastructure’’, to examine the Coast
+Guard recapitalization efforts, including major surface assets in-
+cluding the Offshore Patrol Cutters (OPC) and Polar Security Cut-
+ters (PSC), rotary wing aircraft, shoreside infrastructure, and In-
+formation Technology (IT). The Subcommittee received testimony
+from VADM Thomas G. Allan Jr., Acting Deputy Commandant for
+Operations, USCG, Department of Homeland Security; and Heath-
+er MacLeod, Director, Homeland Security and Justice Programs,
+United States Government Accountability Office (GAO).
+LEGISLATIVE HISTORY AND CONSIDERATION
+H.R. 2351, a bill to direct the Commandant of the Coast Guard
+to update the policy of the Coast Guard regarding the use of medi-
+cation to treat drug overdoses, and for other purposes, was intro-
+duced in the United States House of Representatives on March 26,
+2025, by Representative Addison McDowell and cosponsored by
+Representative Craig Goldman and Representative Laura Gillen.
+The bill was referred to the Committee on Transportation and In-
+frastructure. Within the Committee on Transportation and Infra-
+structure, H.R. 2351 was referred to the Subcommittee on Coast
+Guard and Maritime Transportation. The Subcommittee on Coast
+Guard and Maritime Transportation was discharged from further
+consideration of H.R. 2351 on April 2, 2025.
+The Committee considered H.R. 2351 on April 2, 2025, and or-
+dered the measure to be reported to the House with a favorable
+recommendation, without amendment, by voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires each committee report to include the total number of
+votes cast for and against on each record vote on a motion to report
+and on any amendment offered to the measure or matter, and the
+names of those members voting for and against.
+No recorded votes were requested for H.R. 2351.
+COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+With respect to the requirements of clause 3(c)(1) of rule XIII of
+the Rules of the House of Representatives, the Committee’s over-
+sight findings and recommendations are reflected in this report.
+NEW BUDGET AUTHORITY AND TAX EXPENDITURES
+Clause 3(c)(2) of rule XIII of the Rules of the House of Represent-
+atives does not apply where a cost estimate and comparison pre-
+pared by the Director of the Congressional Budget Office under sec-
+VerDate Sep 11 2014 06:19 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR149.XXX HR149
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+tion 402 of the Congressional Budget Act of 1974 has been timely
+submitted prior to the filing of the report and is included in the re-
+port. Such a cost estimate is included in this report.
+CONGRESSIONAL BUDGET OFFICE COST ESTIMATE
+With respect to the requirement of clause 3(c)(3) of rule XIII of
+the Rules of the House of Representatives and section 402 of the
+Congressional Budget Act of 1974, the Committee has received the
+enclosed cost estimate for H.R. 2351 from the Director of the Con-
+gressional Budget Office:
+H.R. 2351 would direct the Coast Guard (USCG) to carry
+naloxone and similar overdose medications at all of its facilities,
+implement a system to track their distribution, and report on those
+efforts to the Congress. The bill also would codify existing policies
+prohibiting the manufacture or distribution of controlled sub-
+stances aboard vessels.
+Under current law, the USCG is not required to carry naloxone;
+however, all designated law enforcement units are currently
+equipped with it. Using information from the Coast Guard, CBO
+estimates that it would cost less than $500,000 over the 2025–2030
+period for the agency to supply naloxone to additional facilities.
+CBO estimates that maintaining the tracking system and other re-
+porting requirements would cost less than $500,000 over the 2025–
+2030 period. In total, CBO estimates that implementing H.R. 2351
+would cost $1 million over the 2025–2030 period. Any related
+spending would be subject to the availability of appropriated funds.
+The CBO staff contacts for this estimate are Kelly Durand and
+Aaron Krupkin. The estimate was reviewed by H. Samuel
+Papenfuss, Deputy Director of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+VerDate Sep 11 2014 06:19 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR149.XXX HR149
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.941RH
+ereh
+5
+oilof
+tesffo
+tresnI
+
+5
+PERFORMANCE GOALS AND OBJECTIVES
+With respect to the requirement of clause 3(c)(4) of rule XIII of
+the Rules of the House of Representatives, the performance goal
+and objective of this legislation is to provide the Coast Guard nec-
+essary authorities to conduct its missions.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee finds that no provision of H.R.
+2351 establishes or reauthorizes a program of the Federal govern-
+ment known to be duplicative of another Federal program, a pro-
+gram that was included in any report from the Government Ac-
+countability Office to Congress pursuant to section 21 of Public
+Law 111–139, or a program related to a program identified in the
+most recent Catalog of Federal Domestic Assistance.
+CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS,
+AND LIMITED TARIFF BENEFITS
+In compliance with clause 9 of rule XXI of the Rules of the House
+of Representatives, this bill, as reported, contains no congressional
+earmarks, limited tax benefits, or limited tariff benefits as defined
+in clause 9(e), 9(f), or 9(g) of the rule XXI.
+FEDERAL MANDATES STATEMENT
+An estimate of Federal mandates prepared by the Director of the
+Congressional Budget Office pursuant to section 423 of the Un-
+funded Mandates Reform Act was not made available to the Com-
+mittee in time for the filing of this report. The Chairman of the
+Committee shall cause such estimate to be printed in the Congres-
+sional Record upon its receipt by the Committee.
+PREEMPTION CLARIFICATION
+Section 423 of the Congressional Budget Act of 1974 requires the
+report of any Committee on a bill or joint resolution to include a
+statement on the extent to which the bill or joint resolution is in-
+tended to preempt state, local, or tribal law. The Committee finds
+that H.R. 2351 does not preempt any state, local, or tribal law.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the definition of Section 5(b) of
+Public Law 92–463 (5 U.S.C. 1004(b)), United States Code, are cre-
+ated by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act (Public Law 104–1).
+VerDate Sep 11 2014 06:19 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR149.XXX HR149
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+6
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Controlled substance onboard vessels
+This section amends the Maritime Drug Law Enforcement Act
+(Section 70503 of title 46, United Stated Code) to remove ambiguity
+to prosecute cases involving unmanned or autonomous vessels, as
+well as instances where drugs have been hidden onboard a vessel
+without the crew’s knowledge.
+Section 2. Policy and briefing on availability of naloxone to treat
+opioid overdoses
+This section requires an update to Coast Guard policy to ensure
+the availability of Naloxone on Coast Guard bases and in Coast
+Guard operational environments to treat opioid overdoses, includ-
+ing those related to Fentanyl.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italic,
+existing law in which no change is proposed is shown in roman):
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+TITLE 46, UNITED STATES CODE
+* * * * * * *
+SUBTITLE VII—SECURITY AND DRUG
+ENFORCEMENT
+* * * * * * *
+CHAPTER 705—MARITIME DRUG LAW ENFORCEMENT
+* * * * * * *
+§70503. Prohibited acts
+(a) PROHIBITIONS.— øWhile on board a covered vessel, an¿ An in-
+dividual may not knowingly or intentionally—
+ø(1) manufacture or distribute, or possess with intent to
+manufacture or distribute, a controlled substance;¿
+(1) manufacture or distribute, possess with intent to manufac-
+ture or distribute, or place or cause to be placed with intent to
+manufacture or distribute a controlled substance on board a
+covered vessel;
+(2) destroy (including jettisoning any item or scuttling, burn-
+ing, or hastily cleaning a vessel), or attempt or conspire to de-
+VerDate Sep 11 2014 06:19 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6601 E:\HR\OC\HR149.XXX HR149
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+7
+stroy, property that is subject to forfeiture under section 511(a)
+of the Comprehensive Drug Abuse Prevention and Control Act
+of 1970 (21 U.S.C. 881(a)) on board a covered vessel ; or
+(3) conceal, or attempt or conspire to conceal, more than
+$100,000 in currency or other monetary instruments on the
+person of such individual while on board a covered vessel or in
+any conveyance, article of luggage, merchandise, or other con-
+tainer, or compartment of or aboard the covered vessel if that
+vessel is outfitted for smuggling.
+(b) EXTENSION BEYOND TERRITORIAL JURISDICTION.—Subsection
+(a) applies even though the act is committed outside the territorial
+jurisdiction of the United States.
+(c) NONAPPLICATION.—
+(1) IN GENERAL.—Subject to paragraph (2), subsection (a)
+does not apply to—
+(A) a common or contract carrier or an employee of the
+carrier who possesses or distributes a controlled substance
+in the lawful and usual course of the carrier’s business; or
+(B) a public vessel of the United States or an individual
+on board the vessel who possesses or distributes a con-
+trolled substance in the lawful course of the individual’s
+duties.
+(2) ENTERED IN MANIFEST.—Paragraph (1) applies only if the
+controlled substance is part of the cargo entered in the vessel’s
+manifest and is intended to be imported lawfully into the coun-
+try of destination for scientific, medical, or other lawful pur-
+poses.
+(d) BURDEN OF PROOF.—The United States Government is not re-
+quired to negative a defense provided by subsection (c) in a com-
+plaint, information, indictment, or other pleading or in a trial or
+other proceeding. The burden of going forward with the evidence
+supporting the defense is on the person claiming its benefit.
+(e) COVERED VESSEL DEFINED.—In this section the term ‘‘covered
+vessel’’ means—
+(1) a vessel of the United States or a vessel subject to the
+jurisdiction of the United States; or
+(2) any other vessel if the individual is a citizen of the
+United States or a resident alien of the United States.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 06:19 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6611 E:\HR\OC\HR149.XXX HR149
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

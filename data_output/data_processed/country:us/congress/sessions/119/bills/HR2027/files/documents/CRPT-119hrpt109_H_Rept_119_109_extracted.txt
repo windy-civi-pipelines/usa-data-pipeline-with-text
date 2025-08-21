@@ -1,0 +1,1505 @@
+Title: MAY21, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: MAY21, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 18
+Source: documents - H. Rept. 119-109
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–109
+RETURNING SBA TO MAIN STREET ACT OF 2025
+the Union and ordered to be printed
+Mr. WILLIAMS of Texas, from the Committee on Small Business,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 2027]
+The Committee on Small Business, to whom was referred the bill
+(H.R. 2027) to require the Administrator of the Small Business Ad-
+ministration to relocate 30 percent of the employees assigned to
+headquarters to duty stations outside the Washington metropolitan
+area, and for other purposes, having considered the same, reports
+favorably thereon with an amendment and recommends that the
+bill as amended do pass.
+CONTENTS
+Page
+I. Purpose and Bill Summary ........................................................................ 4
+II. Need for Legislation .................................................................................... 4
+III. Hearings....................................................................................................... 5
+IV. Committee Consideration ........................................................................... 5
+V. Committee Votes ......................................................................................... 5
+VI. Section-by-Section of H.R. 2027 ................................................................. 11
+VII. Congressional Budget Office Cost Estimate ............................................. 12
+VIII. New Budget Authority, Entitlement Authority, and Tax Expenditures 12
+IX. Oversight Findings & Recommendations .................................................. 12
+X. Performance Goals and Objectives ............................................................ 12
+XI. Statement of Duplication of Federal Programs ........................................ 12
+XII. Congressional Earmarks, Limited Tax Benefits, and Limited Tariff
+Benefits..................................................................................................... 13
+XIII. Federal Mandates Statement ..................................................................... 13
+XIV. Federal Advisory Committee Statement ................................................... 13
+XV. Applicability to Legislative Branch ........................................................... 13
+XVI. Statement of Constitutional Authority...................................................... 13
+XVII. Minority Views ............................................................................................ 14
+59–006
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+2
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 2:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Returning SBA to Main Street Act of 2025’’.
+SEC. 2. DEFINITIONS.
+In this Act:
+(1) ADMINISTRATION; ADMINISTRATOR.—The terms ‘‘Administration’’ and ‘‘Ad-
+ministrator’’ mean the Small Business Administration and the Administrator
+thereof, respectively.
+(2) BUDGET JUSTIFICATION MATERIALS.—The term ‘‘budget justification mate-
+rials’’ has the meaning given that term in section 3(b)(2)(A) of the Federal
+Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).
+(3) EMPLOYEE.—The term ‘‘employee’’ has the meaning given that term in sec-
+tion 2105 of title 5, United States Code.
+(4) HEADQUARTERS EMPLOYEE OF THE ADMINISTRATION.—The term ‘‘head-
+quarters employee of the Administration’’ means—
+(A) an employee of the Administration whose permanent duty station is
+at the headquarters of the Administration; or
+(B) an employee of the Administration—
+(i) who teleworks on a full-time basis; and
+(ii) whose rate of pay is calculated based on the Washington metro-
+politan area rate of pay.
+(5) HEADQUARTERS OF THE ADMINISTRATION.—The term ‘‘headquarters of the
+Administration’’ means the building serving as the principal managerial and ad-
+ministrative center of the Administration in accordance with section 4(a) of the
+Small Business Act (15 U.S.C. 633(a)).
+(6) PAY LOCALITY.—The term ‘‘pay locality’’ has the meaning given that term
+in section 5302 of title 5, United States Code.
+(7) RURAL.—The term ‘‘rural’’ means any area that is not designated as an
+urban area, based on the most recent data available from the Bureau of the
+Census.
+(8) TELEWORK.—The term ‘‘telework’’ has the meaning given that term in sec-
+tion 6501 of title 5, United States Code.
+(9) TELEWORK ON A FULL-TIME BASIS.—The term ‘‘telework on a full-time
+basis’’ means that an employee is authorized to telework for 100 percent of the
+work days of the employee per pay period.
+(10) WASHINGTON METROPOLITAN AREA.—The term ‘‘Washington metropolitan
+area’’ means the geographic area to which the Washington metropolitan area
+rate of pay applies.
+(11) WASHINGTON METROPOLITAN AREA RATE OF PAY.—The term ‘‘Washington
+metropolitan area rate of pay’’ means the rate of pay in effect for the pay local-
+ity designated as ‘‘Washington-Baltimore-Arlington, DC-MD-VA-WV-PA’’.
+SEC. 3. RELOCATION OF EMPLOYEE.
+(a) INGENERAL.—Notwithstanding any other provisions of law, and not later than
+1 year after the date of enactment of this Act, if the Administrator determines that
+implementing the requirements under paragraphs (1) and (2) of this subsection will
+reduce the cost to the Federal Government (which determination the Administrator
+shall explain in detail in the report required under subsection (d) of this section)
+the Administrator shall—
+(1) change the permanent duty station of not less than 30 percent of the head-
+quarters employees of the Administration as of the date of enactment of this
+Act, to be at an office of the Administration at a location outside the Wash-
+ington metropolitan area, which shall be at locations throughout the regions of
+the Administration; and
+(2) for each employee of the Administration whose permanent duty station is
+changed under paragraph (1), ensure that—
+(A) the rate of pay of the employee is calculated based on the pay locality
+for the permanent duty station of the employee; and
+(B) the employee is not authorized to telework on a full-time basis.
+(b) DETERMINATIONOFNEWDUTYSTATIONS.—In determining the permanent duty
+stations of headquarters employees of the Administration under subsection (a)(1),
+the Administrator shall—
+(1) promote geographic diversity, including consideration of rural markets;
+and
+(2) ensure adequate staffing throughout the regions of the Administration, to
+promote in-person customer service.
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+3
+(c) DETERMINATION OF EMPLOYEES ELIGIBLE FOR A CHANGE IN DUTY STATION.—
+(1) IN GENERAL.—Except as provided in paragraph (2), the Administrator
+shall include each headquarters employee of the Administration as eligible for
+a change in permanent duty station under subsection (a).
+(2) EXCEPTION.—A headquarters employee of the Administration who is a
+qualified individual who receives an accommodation to telework on a full-time
+basis as a reasonable accommodation under title I of the Americans with Dis-
+abilities Act of 1990 (42 U.S.C. 12111 et seq.)—
+(A) shall not be determined to be eligible for a change in permanent duty
+station under subsection (a); and
+(B) shall be counted as a headquarters employee of the Administration
+for purposes of complying with subsection (a)(1).
+(3) NOTICE OF DETERMINATION OF ELIGIBILITY.—Not later than the day before
+the date on which the Administrator submits the report required under sub-
+
+Section 3:
+section (d), the Administrator shall notify each headquarters employee of the
+Administration who the Administrator determines is eligible for a change in
+permanent duty station under subsection (a) of that determination.
+(d) REPORT.—Not later than 180 days after the date of enactment of this Act, the
+Administrator shall submit to the Committee on Small Business and Entrepreneur-
+ship of the Senate and the Committee on Small Business of the House of Represent-
+atives a report that provides—
+(1) the number of headquarters employees of the Administration, as of the
+date of enactment of this Act;
+(2) the number of headquarters employees of the Administration identified as
+eligible for a change in permanent duty station, in accordance with subsection
+(c);
+(3) the number of headquarters employees of the Administration whose per-
+manent duty station will be changed to be at an office of the Administration
+at a location outside the Washington metropolitan area under subsection (a);
+(4) the number of headquarters employees of the Administration subject to an
+exception under subsection (c)(2); and
+(5) the plan of the Administrator to implement subsection (a).
+(e) IMPLEMENTATION.—
+(1) IN GENERAL.—Not earlier than 60 days and not later than 90 days after
+the date on which the Administrator submits the report required under sub-
+
+Section 4:
+section (d), the Administrator shall notify each headquarters employee of the
+Administration whose permanent duty station will be changed to be at an office
+of the Administration located outside the Washington metropolitan area under
+subsection (a)—
+(A) that, effective 90 days after the date of the notification—
+(i) the permanent duty station of the employee shall be changed;
+(ii) the rate of pay of the employee shall be calculated based on the
+pay locality for such permanent duty station; and
+(iii) the employee shall not be authorized to telework on a full-time
+basis; and
+(B) of the location of such permanent duty station.
+(2) FULL-TIME TELEWORKERS REMAINING IN THE WASHINGTON METROPOLITAN
+AREA.—
+(A) IN GENERAL.—For any employee described in subparagraph (B), effec-
+tive on the date that is 180 days after the date on which the Administrator
+submits the report required under subsection (d), the employee shall not be
+authorized to telework on a full-time basis.
+(B) EMPLOYEES COVERED.—An employee described in this subparagraph
+is a headquarters employee of the Administration—
+(i) who teleworks on a full-time basis, as of the date of enactment of
+this Act;
+(ii) who is not subject to an exception under subsection (c)(2); and
+(iii) whose permanent duty station is not changed to be an office of
+the Administration at a location outside the Washington metropolitan
+area under subsection (a).
+(3) NORELOCATIONINCENTIVES.—If, pursuant to this Act, the official worksite
+(as defined in section 531.602 of title 5, Code of Federal Regulations, or any suc-
+cessor regulation) of an employee changes from the residence of the employee
+to the headquarters of the Administration, notwithstanding any other provision
+of law, the employee shall not be paid any relocation incentive.
+SEC. 4. REDUCTION IN HEADQUARTERS OFFICE SPACE.
+(a) IN GENERAL.—The Administrator shall reduce the amount of office space for
+the headquarters of the Administration by not less than 30 percent.
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6621 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+4
+(b) IMPLEMENTATION.—The Administrator shall—
+(1) begin reducing office space under subsection (a) not later than 180 days
+after the date of enactment of this Act; and
+(2) complete the reduction of office space required under subsection (a) not
+later than 2 years after the date of enactment of this Act.
+SEC. 5. INFORMATION INCLUDED IN BUDGET JUSTIFICATION MATERIALS PROVIDED TO CON-
+GRESS.
+The Administrator shall include in the first budget justification materials of the
+Administration submitted after the date of enactment of this Act, and the budget
+justification materials of the Administration for each fiscal year thereafter—
+(1) the number of headquarters employees of the Administration;
+(2) the number of employees of the Administration assigned to a permanent
+duty station in—
+(A) a field office of the Administration;
+(B) a district office of the Administration; or
+(C) a regional office of the Administration;
+(3) the number of employees of the Administration who telework on a full-
+time basis; and
+(4) the number of employees of the Administration who are a qualified indi-
+vidual who receives an accommodation to telework on a full-time basis as a rea-
+sonable accommodation under title I of the Americans with Disabilities Act of
+1990 (42 U.S.C. 12111 et seq.).
+SEC. 6. SEVERABILITY.
+If any provision of this Act or the application of such provision to any person or
+circumstance is held to be unconstitutional, the remainder of this Act and the appli-
+cation of the provision to any other person or circumstance shall not be affected
+thereby.
+SEC. 7. SUPERSESSION.
+This Act shall supersede any other provision of law and any provision of a collec-
+tive bargaining agreement or master labor agreement.
+SEC. 8. NO PRIVATE CAUSE OF ACTION.
+Nothing in this Act shall be construed to establish a private cause of action, equi-
+table or otherwise, to challenge any selection, change, or decision made, or action
+taken, under this Act.
+I. PURPOSE AND BILL SUMMARY
+On March 11, 2025, Rep. Alford, introduced H.R. 2027, the Re-
+turning SBA to Main Street Act. H.R. 2027 decentralizes the Small
+Business Administration (SBA) by relocating 30 percent of the
+SBA’s workforce in the Washington, D.C. headquarters to areas
+outside of the Washington metropolitan area and eliminates certain
+telework policies.
+II. NEED FOR LEGISLATION
+A 2023 Government Accountability Office (GAO) report found
+that the SBA headquarters operated at just 10 percent capacity
+under the Biden-Harris Administration. This is not only a wasteful
+use of government spending but reflects poor stewardship of tax-
+payer dollars, leaving small businesses with a lack of trust in the
+SBA.
+H.R. 2027 codifies implementation of President Trump’s Execu-
+tive Order 14210 ‘‘Department of Government Efficiency Workforce
+Optimization Initiative’’ by the SBA.1 On March 21, 2025, the SBA
+announced an agency reorganization to ensure that 30 percent of
+SBA personnel would be located in field offices, among other out-
+comes.2 Bringing government employees back to the small busi-
+1Exec. Order No. 14,210, 90 Fed. Reg. 9669 (2025).
+2News Release, U.S. Small Bus. Admin., Small Business Administration Announces Agency-
+Wide Reorganization (Mar. 21, 2025), https://www.sba.gov/article/2025/03/21/small-business-
+administration-announces-agency-wide-reorganization.
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+5
+nesses the agency serves would prioritize geographic dispersion and
+small businesses in rural areas.
+The Returning SBA to Main Street Act is essential to establish
+guidelines that complement Administrator Loeffler’s priorities. This
+bill is necessary to restore accountability, improve agency effi-
+ciency, and ensure the SBA is present and responsive to the needs
+of Main Street America across the country.
+III. HEARINGS
+On March 11, 2025, the Subcommittee on Oversight, Investiga-
+tions, and Regulations of the Committee on Small Business held a
+hearing examining matters related to H.R. 2027 titled ‘‘Restoring
+the SBA: Putting Main Street America First.’’
+IV. COMMITTEE CONSIDERATION
+The Committee on Small Business met in open session, with a
+quorum being present, on April 30, 2025, and ordered H.R. 2027,
+as amended, to be reported favorably to the House of Representa-
+tives by a roll call vote of 15 ayes to 11 nos. During the markup,
+five amendments were offered.
+V. COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee to list the recorded votes on the mo-
+tion to report legislation and amendments thereto. The Committee
+voted to favorably report H.R. 2027, as amended, to the House of
+Representatives at 6:13 PM.
+The Committee considered the following amendments to H.R.
+2027:
+• Representative Alford offered an amendment in the nature
+of a substitute. This amendment was adopted by voice vote.
+• Representative Conaway offered an amendment to the
+amendment in the nature of a substitute. The vote on the
+amendment failed 11 ayes to 15 nos.
+• Representative McIver offered amendment #1 to the
+amendment in the nature of a substitute. The vote on the
+amendment failed 11 ayes to 15 nos.
+• Representative Morrison offered an amendment to the
+amendment in the nature of a substitute. The vote on the
+amendment failed 11 ayes to 15 nos.
+• Representative McIver offered amendment #2 to the
+amendment in the nature of a substitute. The vote on the
+amendment failed 11 ayes to 15 nos.
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+6
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 5:
+100.901RH
+ereh
+8 oilof
+tesffo
+tresnI
+7
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 6:
+200.901RH
+ereh
+9 oilof
+tesffo
+tresnI
+8
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 7:
+300.901RH
+ereh
+01
+oilof
+tesffo
+tresnI
+9
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 8:
+400.901RH
+ereh
+11
+oilof
+tesffo
+tresnI
+10
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 9:
+500.901RH
+ereh
+21
+oilof
+tesffo
+tresnI
+11
+VI. SECTION-BY-SECTION OF H.R. 2027
+
+Section 10:
+Section 1—Short title
+This act may be cited as the ‘‘Returning SBA to Main Street
+Act.’’
+
+Section 11:
+Section 2—Definitions
+‘‘Headquarters employee of the Administration’’ is defined as an
+employee whose permanent duty station is at the headquarters of
+the Administration, teleworks full-time, or whose pay rate is cal-
+culated based on the Washington, D.C. rate of pay.
+The terms ‘‘employee,’’ ‘‘telework,’’ and ‘‘pay locality’’ are defined
+as they are defined elsewhere in statute.
+
+Section 12:
+Section 3—Relocation of employee
+If cost savings can be made within one year, the Administrator
+must reassign 30 percent of SBA headquarters employees to re-
+gional offices outside of Washington, D.C. and ensure that the reas-
+signed employees are paid based on their new locality and are not
+allowed to telework full-time.
+When selecting duty stations, the Administrator must ensure fair
+geographical dispersion, including in rural markets, and adequate
+regional staffing to support in-person services. All headquarter em-
+ployees are eligible unless they have a disability-related telework
+accommodation. These exempt employees still count toward the 30
+percent total requirement.
+Within 180 days, the Administrator must submit a report to Con-
+gress on: (1) the number of employees at the Administration, (2)
+the number of headquarter employees of the Administration that
+are eligible for a change in duty station, (3) the number of head-
+quarter employees that will be reassigned, (4) the number of head-
+quarter employees that have a disability exemption, and (5) the im-
+plementation plan of those being relocated.
+Within 60 to 90 days of the report, employees selected for reas-
+signment will be notified, and after 90 days of the notification,
+these employees will be reassigned.
+Any remaining full-time teleworkers in the D.C. area who are not
+reassigned and are not exempt must stop full-time telework within
+180 days after the date on which the Administrator releases the re-
+port. No relocation bonuses will be provided for employees required
+to report to a new duty station.
+
+Section 13:
+Section 4—Reduction in Headquarters office space
+The Administrator must reduce SBA Headquarters’ office space
+by at least 30 percent, which will begin within 180 days of enact-
+ment and be completed within two years of enactment.
+
+Section 14:
+Section 5—Information included in budget justification materials
+provided to Congress
+The Administrator’s budget justifications to Congress must in-
+clude the total number of headquarter employees, headquarter em-
+ployees assigned to field offices, district offices, and regional offices.
+The submission will also include the number of employees who
+telework full-time and those who telework under a disability ac-
+commodation.
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+12
+
+Section 15:
+Section 6—Severability
+If any part of this Act is unconstitutional, the rest of the Act re-
+mains valid and enforceable.
+
+Section 16:
+Section 7—Supersession
+The Act overrides any conflicting laws or provisions in collective
+bargaining or master labor agreements.
+
+Section 17:
+Section 8—No private cause of action
+The Act does not create a private legal right to challenge any de-
+cision or action taken under its authority.
+VII. CONGRESSIONAL BUDGET OFFICE COST ESTIMATE
+Pursuant to 3(c)(3) of rule XIII of the Rules of the House of Rep-
+resentatives, the Committee adopts as its own the cost estimate
+prepared by the Director of the Congressional Budget Office pursu-
+ant to section 402 of the Congressional Budget Act of 1974. The
+Committee has requested but not received from the Director of the
+Congressional Budget Office a cost estimate for the Committee’s
+provisions.
+VIII. NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY,
+AND TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII of the Rules of the House
+of Representatives and section 308(a)(I) of the Congressional Budg-
+et Act of 1974, the Committee provides the following opinion and
+estimate with respect to new budget authority, entitlement author-
+ity, and tax expenditures. While the Committee has not received an
+estimate of new budget authority contained in the cost estimate
+prepared by the Director of the Congressional Budget Office pursu-
+ant to Sec. 402 of the Congressional Budget Act of 1974, the Com-
+mittee does not believe that there will be any additional costs at-
+tributable to this legislation. H.R. 2027 does not direct new spend-
+ing, but instead reallocates funding independently authorized and
+appropriated.
+IX. OVERSIGHT FINDINGS & RECOMMENDATIONS
+In accordance with clause 3(c)(1) of rule XIII and clause 2(b)(1)
+of rule X of the Rules of the House of Representatives, the over-
+sight findings and recommendations of the Committee on Small
+Business with respect to the subject matter contained in the H.R.
+2027 are incorporated into the descriptive portions of this report.
+X. PERFORMANCE GOALS AND OBJECTIVES
+With respect to the requirements of clause 3(c)(4) of rule XIII of
+the Rules of the House of Representatives, the performance goals
+and objectives of H.R. 2027 are to require the SBA to provide infor-
+mation on employees in headquarters, district, field, and regional
+offices, and the number of employees who receive a telework accom-
+modation in its annual budget justification to Congress.
+XI. STATEMENT OF DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, no provision of H.R. 2027 is known to be dupli-
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+13
+cative of another Federal program, including any program that was
+included in a report to Congress pursuant to section 21 of Public
+Law 111–139 or the most recent Catalog of Federal Domestic As-
+sistance.
+XII. CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS,
+AND LIMITED TARIFF BENEFITS
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee finds that the bill does not con-
+tain any congressional earmarks, limited tax benefits, or limited
+tariff benefits as defined in clause 9(e), 9(f), or 9(g) of rule XXI of
+the Rules of the House of Representatives.
+XIII. FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+XIV. FEDERAL ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+XV. APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+XVI. STATEMENT OF CONSTITUTIONAL AUTHORITY
+Pursuant to clause 7 of rule XII of the Rules of the House, the
+Committee finds that the authority for this legislation in Art. I, §8,
+cl.1 of the Constitution of the United States.
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+XVII. MINORITY VIEWS
+On March 21, 2025, Small Business Administration (SBA) Ad-
+ministrator Kelly Loeffler announced an agency wide reorganiza-
+tion, which among other things, includes a 43% workforce reduc-
+tion.1 This announcement came on the heels of the February 12
+firings of thousands of probationary employees throughout the gov-
+ernment, including SBA.2 James Bredar, a federal district court
+judge, in Maryland ordered the Trump administration to rehire the
+previously terminated employees at 18 federal agencies in 19
+states,3 with some being placed on administrative leave. On April
+9, an appeals court overruled Judge Breder’s decision and cleared
+the way for the firings.4 Employees at the COVID–19 Economic In-
+jury Disaster Loan Servicing Center, which is comprised of 1,200
+individuals, received an email on April 18 that they would be laid
+off effective May 16 or May 2.5
+H.R. 2027, the Returning SBA to Main Street Act, which would
+relocate 30 percent of SBA employees from headquarters to other
+parts of the country, is a Republican messaging bill that is just an-
+other assault on federal employees and harms our nation’s 34 mil-
+lion small businesses.
+The bill isn’t necessary because the majority of the workforce is
+currently in the field. SBA has more than 800 employees in the
+headquarters in Washington, D.C. and approximately 8,500 em-
+ployees, in total, including in the 68 district offices across the coun-
+try.6 SBA employees are distributed throughout the country with
+large staffing presences at SBA loan and processing centers in
+Herndon, Virginia; Sacramento, California; Birmingham, Alabama;
+and Fort Worth, Texas. SBA also operates 68 district offices and 10
+regional offices serving all 50 states and territories.
+A major restructuring is already underway within the adminis-
+tration, and a 30 percent relocation on top of the terminations will
+result in a more sizable reduction. According to the March 21, 2025
+press release, the agency plans to reduce its workforce to pre-pan-
+demic levels by eliminating about 2,700 active positions out of a
+total active workforce of 6,500 (for a reduction of 43%). According
+to the agency, the reductions include voluntary resignations, the
+1U.S. SMALL BUS. ADMIN., Small Business Administration Announces Agency-Wide Reorga-
+nization (Mar. 21, 2025), https://www.sba.gov/article/2025/03/21/small-business-administration-
+announces-agency-wide-reorganization.
+2Chaos and Corruption Weekly Digest: Week 4, AFGE (Oct. 26, 2018), https://www.afge.org/
+article/chaos-and-corruption-weekly-digest-week-4/.
+3Madison Alder, Appeals Court Halts Remaining District Order That Reinstated Fired Proba-
+tionary Workers, FEDSCOOP (Apr. 9, 2025), https://fedscoop.com/appeals-court-halts-remaining-
+district-order-that-reinstated-fired-probationary-workers.
+4Id.
+5Frank Konkel, SBA Hit with More Layoffs, GOVEXEC (Apr. 18, 2025), https://
+www.govexec.com/workforce/2025/04/sba-hit-more-layoffs/404682.
+6Letter from Daniel Horowitz, Acting Legislative Dir., Am. Fed’n of Gov’t Emps. to Members
+of Congress (Apr. 30, 2025) (on file with H. COMM. ON SMALL BUS.). WHITE HOUSE OFF. OF
+PERS. MGMT., FedScope, https://www.fedscope.opm.gov (last visited Apr. 16, 2025).
+(14)
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6604 Sfmt 6604 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+15
+expiration of pandemic-era term appointments, and reductions in
+force.7
+The Committee should be inviting the Administrator to testify be-
+fore our committee, instead of holding a partisan mark-up on a
+messaging bill. Committee Democrats sent five letters to SBA
+about the reorganization, staff terminations, Department of Gov-
+ernment Efficiency (DOGE) access, and the federal funding freeze.
+SBA has not responded, and an SBA briefing was abruptly can-
+celed and never rescheduled.
+If Republicans want more employees in the field, they should in-
+crease resources for its district offices to conduct outreach, engage-
+ment, and customer service and as well as conduct oversight of the
+administration. SBA already has an Office of Field Operations, and
+those employees are trained to work with the public, and to go out
+into the field. Employees at SBA headquarters work at the pro-
+grammatic level, which includes administering grants, providing
+reimbursements, and management of enterprise-wide information
+technology systems. It is unclear how the roles and duties would
+be modified to ‘‘promote in-person customer service,’’ as required
+under the legislation. Moreover, a significant portion of the field
+operations staff have either been terminated or resigned, according
+to reports. If Republicans want more people in the field, they
+should increase resources for the field, and conduct oversight of the
+administration to ensure that the Administrator retains the em-
+ployees in the field, who are specifically trained in customer service
+and engagement, rather than holding a partisan mark-up to relo-
+cate employees without any data.
+The terminations and resignations are happening haphazardly.
+SBA offered a Deferred Resignation Program (DRP) to employees
+who are eligible for a deferred annuity under the Federal Employ-
+ees Retirement System, and approximately 1,500 employees have
+accepted. SBA originally told employees they could leave April 19,
+2025, but reportedly delayed the date to May.8 SBA has not in-
+formed Committee Democrats as to the number of employees who
+have accepted the deferred resignations or the offices in which they
+work. Reports have surfaced that entire offices have been hallowed
+out, raising concerns that SBA may no longer have the capacity to
+carry out its services.
+The bill is costly and would do nothing to control government
+spending. SBA signed a 20-year lease beginning on November 24,
+2022, and the cost of breaking the lease and repaying the tenant
+improvements would run into the millions. The bill’s proponents
+significantly overestimate the costs of keeping the agencies in the
+D.C. area. ‘‘In addition to the direct cost of relocation, the resulting
+brain drain from this massive loss of talent will severely damage
+SBA, and it will take years to rebuild the highly specialized work-
+force. SBA could be forced to outsource work to entities outside the
+7U.S. SMALL BUS. ADMIN., Small Business Administration Announces Agency-Wide Reorga-
+nization (Mar. 21, 2025), https://www.sba.gov/article/2025/03/21/small-business-administration-
+announces-agency-wide-reorganization.
+8Eric Katz, Employees Swarm to Second ‘Deferred Resignation’ Offer, Though Some Are Re-
+ceiving Unexpected Responses, GOVEXEC (Apr. 11, 2025), https://www.govexec.com/workforce/
+2025/04/employees-swarm-second-deferred-resignation-offer-though-some-are-receiving-unex-
+pected-responses/404504/?oref=ge-mini-feed.
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6604 Sfmt 6604 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+16
+federal government and acquire additional space placing significant
+financial strain to the Agency and American public.9
+SBA could lose years of expertise, as well as the ability to recruit
+younger talent. SBA employees, located in headquarters, and may
+not be inclined to uproot families to relocate to other parts of the
+country. As employees retire either willingly or through force, the
+agency will lose years of experience and institutional knowledge.
+Moreover, the mass firings of probationary workers, who are typi-
+cally younger, hinder the ability of the agency to recruit younger
+talent.
+
+Section 18:
+Sections 7 and 8 seek to limit an employee’s ability to participate
+in union activities, including limiting protections under a collective
+bargaining agreement or other master labor agreement and banning
+a private right of action for wrongful termination. The AFGE is
+leading the fight in the courts to defeat President Trump’s assault
+on federal collective bargaining, but it will be weeks if not months
+before the final outcome is known. According to the AFGE, for al-
+most 150 years, under both Democratic and Republican administra-
+tions, Title 5 of the U.S. Code has mandated that federal worker—
+including those represented by unions like AFGE—faithfully carry
+out the laws of Congress and serve all Americans. President’s
+Trump’s Executive Order and this legislation open the door to
+abuse and retaliation. If left unchallenged, it will be American tax-
+payers who suffer the most when the services they depend on dete-
+riorate.10
+Committee Democrats offered four amendments during the
+mark-up. Rep. Herbert C. Conaway, Jr. (D–NJ) offered a strike and
+replace amendment, requiring GAO to conduct an analysis of the
+Administrator’s reorganization plan. Only 12 percent of the work-
+force is located at headquarters and arbitrarily moving employees
+with no coordination or plan doesn’t make sense. This amendment
+would require a much-needed analysis of the impact the ill-con-
+ceived plan would have on the lending, disaster, contracting, and
+entrepreneurial development programs millions of small businesses
+rely on. Republicans defeated the amendment calling for an anal-
+ysis on the grounds that it would slow the process down.
+Rep. LaMonica McIver (D–NJ) offered an amendment requiring
+the Administrator to testify before the House Small Business Com-
+mittee before the bill could go into effect. Rep. McIver called atten-
+tion to the spree of firings, relocations of SBA offices, and handling
+of the SBA portfolio. Given the disruptive changes to the SBA, and
+the lack of information from the Administrator, Rep. McIver offered
+an amendment to require the Administrator to testify before this
+Committee before any provision of the bill is implemented. Com-
+mittee Democrats pointed out that five letters to the Administrator
+have gone unanswered by the current Administrator. Disputing Re-
+publicans claims. Committee Democrats pointed out that Adminis-
+trator Guzman not only testified before the Small Business Com-
+mittee twice a year but also visited the districts of our colleagues—
+both Republican and Democrat. Republicans defeated the measure
+on the grounds that the amendment would delay the process.
+9Supra note 6.
+10Letter from Daniel Horowitz to Members of Congress (Apr. 21, 2025) (on file with the H.
+COMM. ONSMALLBUS.).
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6604 Sfmt 6604 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+17
+Rep. Kelly Morrison (D–MN) offered an amendment to exempt
+SBA employees who are veterans from being relocated. Forcing
+SBA employees who are veterans to abruptly relocate would be an-
+other cruel decision that breaks our pledge to take care of those
+who served. Committee Republicans defeated the amendment.
+Rep. McIver offered a second amendment that would prohibit the
+bill from taking effect until the Administrator publishes a deter-
+mination that the cost of carrying out the bill is not more than
+zero. Ms. McIver reiterated that the administration was actively
+cutting nearly half of its workforce and engaging in other struc-
+tural changes, without a clear strategy or communicating the
+changes to Committee members. Prohibiting the implementation of
+the bill until the Administrator determines that it would not in-
+crease costs to the American taxpayer is not unreasonable. In fact,
+it is a prudent policy. Republicans rejected this commonsense
+amendment on the grounds that it would impose a ‘‘roadblock.’’
+Committee Democrats opposed the legislation because it is a
+messaging bill that is just another assault on federal employees
+and harms our nation’s 34 million small businesses.
+NYDIA M. VELA ´ ZQUEZ,
+Ranking Member.
+Æ
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00017 Fmt 6604 Sfmt 6611 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–109
+RETURNING SBA TO MAIN STREET ACT OF 2025
+MAY21, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. WILLIAMS of Texas, from the Committee on Small Business,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 2027]
+The Committee on Small Business, to whom was referred the bill
+(H.R. 2027) to require the Administrator of the Small Business Ad-
+ministration to relocate 30 percent of the employees assigned to
+headquarters to duty stations outside the Washington metropolitan
+area, and for other purposes, having considered the same, reports
+favorably thereon with an amendment and recommends that the
+bill as amended do pass.
+CONTENTS
+Page
+I. Purpose and Bill Summary ........................................................................ 4
+II. Need for Legislation .................................................................................... 4
+III. Hearings....................................................................................................... 5
+IV. Committee Consideration ........................................................................... 5
+V. Committee Votes ......................................................................................... 5
+VI. Section-by-Section of H.R. 2027 ................................................................. 11
+VII. Congressional Budget Office Cost Estimate ............................................. 12
+VIII. New Budget Authority, Entitlement Authority, and Tax Expenditures 12
+IX. Oversight Findings & Recommendations .................................................. 12
+X. Performance Goals and Objectives ............................................................ 12
+XI. Statement of Duplication of Federal Programs ........................................ 12
+XII. Congressional Earmarks, Limited Tax Benefits, and Limited Tariff
+Benefits..................................................................................................... 13
+XIII. Federal Mandates Statement ..................................................................... 13
+XIV. Federal Advisory Committee Statement ................................................... 13
+XV. Applicability to Legislative Branch ........................................................... 13
+XVI. Statement of Constitutional Authority...................................................... 13
+XVII. Minority Views ............................................................................................ 14
+59–006
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+2
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Returning SBA to Main Street Act of 2025’’.
+SEC. 2. DEFINITIONS.
+In this Act:
+(1) ADMINISTRATION; ADMINISTRATOR.—The terms ‘‘Administration’’ and ‘‘Ad-
+ministrator’’ mean the Small Business Administration and the Administrator
+thereof, respectively.
+(2) BUDGET JUSTIFICATION MATERIALS.—The term ‘‘budget justification mate-
+rials’’ has the meaning given that term in section 3(b)(2)(A) of the Federal
+Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).
+(3) EMPLOYEE.—The term ‘‘employee’’ has the meaning given that term in sec-
+tion 2105 of title 5, United States Code.
+(4) HEADQUARTERS EMPLOYEE OF THE ADMINISTRATION.—The term ‘‘head-
+quarters employee of the Administration’’ means—
+(A) an employee of the Administration whose permanent duty station is
+at the headquarters of the Administration; or
+(B) an employee of the Administration—
+(i) who teleworks on a full-time basis; and
+(ii) whose rate of pay is calculated based on the Washington metro-
+politan area rate of pay.
+(5) HEADQUARTERS OF THE ADMINISTRATION.—The term ‘‘headquarters of the
+Administration’’ means the building serving as the principal managerial and ad-
+ministrative center of the Administration in accordance with section 4(a) of the
+Small Business Act (15 U.S.C. 633(a)).
+(6) PAY LOCALITY.—The term ‘‘pay locality’’ has the meaning given that term
+in section 5302 of title 5, United States Code.
+(7) RURAL.—The term ‘‘rural’’ means any area that is not designated as an
+urban area, based on the most recent data available from the Bureau of the
+Census.
+(8) TELEWORK.—The term ‘‘telework’’ has the meaning given that term in sec-
+tion 6501 of title 5, United States Code.
+(9) TELEWORK ON A FULL-TIME BASIS.—The term ‘‘telework on a full-time
+basis’’ means that an employee is authorized to telework for 100 percent of the
+work days of the employee per pay period.
+(10) WASHINGTON METROPOLITAN AREA.—The term ‘‘Washington metropolitan
+area’’ means the geographic area to which the Washington metropolitan area
+rate of pay applies.
+(11) WASHINGTON METROPOLITAN AREA RATE OF PAY.—The term ‘‘Washington
+metropolitan area rate of pay’’ means the rate of pay in effect for the pay local-
+ity designated as ‘‘Washington-Baltimore-Arlington, DC-MD-VA-WV-PA’’.
+SEC. 3. RELOCATION OF EMPLOYEE.
+(a) INGENERAL.—Notwithstanding any other provisions of law, and not later than
+1 year after the date of enactment of this Act, if the Administrator determines that
+implementing the requirements under paragraphs (1) and (2) of this subsection will
+reduce the cost to the Federal Government (which determination the Administrator
+shall explain in detail in the report required under subsection (d) of this section)
+the Administrator shall—
+(1) change the permanent duty station of not less than 30 percent of the head-
+quarters employees of the Administration as of the date of enactment of this
+Act, to be at an office of the Administration at a location outside the Wash-
+ington metropolitan area, which shall be at locations throughout the regions of
+the Administration; and
+(2) for each employee of the Administration whose permanent duty station is
+changed under paragraph (1), ensure that—
+(A) the rate of pay of the employee is calculated based on the pay locality
+for the permanent duty station of the employee; and
+(B) the employee is not authorized to telework on a full-time basis.
+(b) DETERMINATIONOFNEWDUTYSTATIONS.—In determining the permanent duty
+stations of headquarters employees of the Administration under subsection (a)(1),
+the Administrator shall—
+(1) promote geographic diversity, including consideration of rural markets;
+and
+(2) ensure adequate staffing throughout the regions of the Administration, to
+promote in-person customer service.
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+3
+(c) DETERMINATION OF EMPLOYEES ELIGIBLE FOR A CHANGE IN DUTY STATION.—
+(1) IN GENERAL.—Except as provided in paragraph (2), the Administrator
+shall include each headquarters employee of the Administration as eligible for
+a change in permanent duty station under subsection (a).
+(2) EXCEPTION.—A headquarters employee of the Administration who is a
+qualified individual who receives an accommodation to telework on a full-time
+basis as a reasonable accommodation under title I of the Americans with Dis-
+abilities Act of 1990 (42 U.S.C. 12111 et seq.)—
+(A) shall not be determined to be eligible for a change in permanent duty
+station under subsection (a); and
+(B) shall be counted as a headquarters employee of the Administration
+for purposes of complying with subsection (a)(1).
+(3) NOTICE OF DETERMINATION OF ELIGIBILITY.—Not later than the day before
+the date on which the Administrator submits the report required under sub-
+section (d), the Administrator shall notify each headquarters employee of the
+Administration who the Administrator determines is eligible for a change in
+permanent duty station under subsection (a) of that determination.
+(d) REPORT.—Not later than 180 days after the date of enactment of this Act, the
+Administrator shall submit to the Committee on Small Business and Entrepreneur-
+ship of the Senate and the Committee on Small Business of the House of Represent-
+atives a report that provides—
+(1) the number of headquarters employees of the Administration, as of the
+date of enactment of this Act;
+(2) the number of headquarters employees of the Administration identified as
+eligible for a change in permanent duty station, in accordance with subsection
+(c);
+(3) the number of headquarters employees of the Administration whose per-
+manent duty station will be changed to be at an office of the Administration
+at a location outside the Washington metropolitan area under subsection (a);
+(4) the number of headquarters employees of the Administration subject to an
+exception under subsection (c)(2); and
+(5) the plan of the Administrator to implement subsection (a).
+(e) IMPLEMENTATION.—
+(1) IN GENERAL.—Not earlier than 60 days and not later than 90 days after
+the date on which the Administrator submits the report required under sub-
+section (d), the Administrator shall notify each headquarters employee of the
+Administration whose permanent duty station will be changed to be at an office
+of the Administration located outside the Washington metropolitan area under
+subsection (a)—
+(A) that, effective 90 days after the date of the notification—
+(i) the permanent duty station of the employee shall be changed;
+(ii) the rate of pay of the employee shall be calculated based on the
+pay locality for such permanent duty station; and
+(iii) the employee shall not be authorized to telework on a full-time
+basis; and
+(B) of the location of such permanent duty station.
+(2) FULL-TIME TELEWORKERS REMAINING IN THE WASHINGTON METROPOLITAN
+AREA.—
+(A) IN GENERAL.—For any employee described in subparagraph (B), effec-
+tive on the date that is 180 days after the date on which the Administrator
+submits the report required under subsection (d), the employee shall not be
+authorized to telework on a full-time basis.
+(B) EMPLOYEES COVERED.—An employee described in this subparagraph
+is a headquarters employee of the Administration—
+(i) who teleworks on a full-time basis, as of the date of enactment of
+this Act;
+(ii) who is not subject to an exception under subsection (c)(2); and
+(iii) whose permanent duty station is not changed to be an office of
+the Administration at a location outside the Washington metropolitan
+area under subsection (a).
+(3) NORELOCATIONINCENTIVES.—If, pursuant to this Act, the official worksite
+(as defined in section 531.602 of title 5, Code of Federal Regulations, or any suc-
+cessor regulation) of an employee changes from the residence of the employee
+to the headquarters of the Administration, notwithstanding any other provision
+of law, the employee shall not be paid any relocation incentive.
+SEC. 4. REDUCTION IN HEADQUARTERS OFFICE SPACE.
+(a) IN GENERAL.—The Administrator shall reduce the amount of office space for
+the headquarters of the Administration by not less than 30 percent.
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6621 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+4
+(b) IMPLEMENTATION.—The Administrator shall—
+(1) begin reducing office space under subsection (a) not later than 180 days
+after the date of enactment of this Act; and
+(2) complete the reduction of office space required under subsection (a) not
+later than 2 years after the date of enactment of this Act.
+SEC. 5. INFORMATION INCLUDED IN BUDGET JUSTIFICATION MATERIALS PROVIDED TO CON-
+GRESS.
+The Administrator shall include in the first budget justification materials of the
+Administration submitted after the date of enactment of this Act, and the budget
+justification materials of the Administration for each fiscal year thereafter—
+(1) the number of headquarters employees of the Administration;
+(2) the number of employees of the Administration assigned to a permanent
+duty station in—
+(A) a field office of the Administration;
+(B) a district office of the Administration; or
+(C) a regional office of the Administration;
+(3) the number of employees of the Administration who telework on a full-
+time basis; and
+(4) the number of employees of the Administration who are a qualified indi-
+vidual who receives an accommodation to telework on a full-time basis as a rea-
+sonable accommodation under title I of the Americans with Disabilities Act of
+1990 (42 U.S.C. 12111 et seq.).
+SEC. 6. SEVERABILITY.
+If any provision of this Act or the application of such provision to any person or
+circumstance is held to be unconstitutional, the remainder of this Act and the appli-
+cation of the provision to any other person or circumstance shall not be affected
+thereby.
+SEC. 7. SUPERSESSION.
+This Act shall supersede any other provision of law and any provision of a collec-
+tive bargaining agreement or master labor agreement.
+SEC. 8. NO PRIVATE CAUSE OF ACTION.
+Nothing in this Act shall be construed to establish a private cause of action, equi-
+table or otherwise, to challenge any selection, change, or decision made, or action
+taken, under this Act.
+I. PURPOSE AND BILL SUMMARY
+On March 11, 2025, Rep. Alford, introduced H.R. 2027, the Re-
+turning SBA to Main Street Act. H.R. 2027 decentralizes the Small
+Business Administration (SBA) by relocating 30 percent of the
+SBA’s workforce in the Washington, D.C. headquarters to areas
+outside of the Washington metropolitan area and eliminates certain
+telework policies.
+II. NEED FOR LEGISLATION
+A 2023 Government Accountability Office (GAO) report found
+that the SBA headquarters operated at just 10 percent capacity
+under the Biden-Harris Administration. This is not only a wasteful
+use of government spending but reflects poor stewardship of tax-
+payer dollars, leaving small businesses with a lack of trust in the
+SBA.
+H.R. 2027 codifies implementation of President Trump’s Execu-
+tive Order 14210 ‘‘Department of Government Efficiency Workforce
+Optimization Initiative’’ by the SBA.1 On March 21, 2025, the SBA
+announced an agency reorganization to ensure that 30 percent of
+SBA personnel would be located in field offices, among other out-
+comes.2 Bringing government employees back to the small busi-
+1Exec. Order No. 14,210, 90 Fed. Reg. 9669 (2025).
+2News Release, U.S. Small Bus. Admin., Small Business Administration Announces Agency-
+Wide Reorganization (Mar. 21, 2025), https://www.sba.gov/article/2025/03/21/small-business-
+administration-announces-agency-wide-reorganization.
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+5
+nesses the agency serves would prioritize geographic dispersion and
+small businesses in rural areas.
+The Returning SBA to Main Street Act is essential to establish
+guidelines that complement Administrator Loeffler’s priorities. This
+bill is necessary to restore accountability, improve agency effi-
+ciency, and ensure the SBA is present and responsive to the needs
+of Main Street America across the country.
+III. HEARINGS
+On March 11, 2025, the Subcommittee on Oversight, Investiga-
+tions, and Regulations of the Committee on Small Business held a
+hearing examining matters related to H.R. 2027 titled ‘‘Restoring
+the SBA: Putting Main Street America First.’’
+IV. COMMITTEE CONSIDERATION
+The Committee on Small Business met in open session, with a
+quorum being present, on April 30, 2025, and ordered H.R. 2027,
+as amended, to be reported favorably to the House of Representa-
+tives by a roll call vote of 15 ayes to 11 nos. During the markup,
+five amendments were offered.
+V. COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee to list the recorded votes on the mo-
+tion to report legislation and amendments thereto. The Committee
+voted to favorably report H.R. 2027, as amended, to the House of
+Representatives at 6:13 PM.
+The Committee considered the following amendments to H.R.
+2027:
+• Representative Alford offered an amendment in the nature
+of a substitute. This amendment was adopted by voice vote.
+• Representative Conaway offered an amendment to the
+amendment in the nature of a substitute. The vote on the
+amendment failed 11 ayes to 15 nos.
+• Representative McIver offered amendment #1 to the
+amendment in the nature of a substitute. The vote on the
+amendment failed 11 ayes to 15 nos.
+• Representative Morrison offered an amendment to the
+amendment in the nature of a substitute. The vote on the
+amendment failed 11 ayes to 15 nos.
+• Representative McIver offered amendment #2 to the
+amendment in the nature of a substitute. The vote on the
+amendment failed 11 ayes to 15 nos.
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+6
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+100.901RH
+ereh
+8 oilof
+tesffo
+tresnI
+
+7
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+200.901RH
+ereh
+9 oilof
+tesffo
+tresnI
+
+8
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+300.901RH
+ereh
+01
+oilof
+tesffo
+tresnI
+
+9
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+400.901RH
+ereh
+11
+oilof
+tesffo
+tresnI
+
+10
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+500.901RH
+ereh
+21
+oilof
+tesffo
+tresnI
+
+11
+VI. SECTION-BY-SECTION OF H.R. 2027
+Section 1—Short title
+This act may be cited as the ‘‘Returning SBA to Main Street
+Act.’’
+Section 2—Definitions
+‘‘Headquarters employee of the Administration’’ is defined as an
+employee whose permanent duty station is at the headquarters of
+the Administration, teleworks full-time, or whose pay rate is cal-
+culated based on the Washington, D.C. rate of pay.
+The terms ‘‘employee,’’ ‘‘telework,’’ and ‘‘pay locality’’ are defined
+as they are defined elsewhere in statute.
+Section 3—Relocation of employee
+If cost savings can be made within one year, the Administrator
+must reassign 30 percent of SBA headquarters employees to re-
+gional offices outside of Washington, D.C. and ensure that the reas-
+signed employees are paid based on their new locality and are not
+allowed to telework full-time.
+When selecting duty stations, the Administrator must ensure fair
+geographical dispersion, including in rural markets, and adequate
+regional staffing to support in-person services. All headquarter em-
+ployees are eligible unless they have a disability-related telework
+accommodation. These exempt employees still count toward the 30
+percent total requirement.
+Within 180 days, the Administrator must submit a report to Con-
+gress on: (1) the number of employees at the Administration, (2)
+the number of headquarter employees of the Administration that
+are eligible for a change in duty station, (3) the number of head-
+quarter employees that will be reassigned, (4) the number of head-
+quarter employees that have a disability exemption, and (5) the im-
+plementation plan of those being relocated.
+Within 60 to 90 days of the report, employees selected for reas-
+signment will be notified, and after 90 days of the notification,
+these employees will be reassigned.
+Any remaining full-time teleworkers in the D.C. area who are not
+reassigned and are not exempt must stop full-time telework within
+180 days after the date on which the Administrator releases the re-
+port. No relocation bonuses will be provided for employees required
+to report to a new duty station.
+Section 4—Reduction in Headquarters office space
+The Administrator must reduce SBA Headquarters’ office space
+by at least 30 percent, which will begin within 180 days of enact-
+ment and be completed within two years of enactment.
+Section 5—Information included in budget justification materials
+provided to Congress
+The Administrator’s budget justifications to Congress must in-
+clude the total number of headquarter employees, headquarter em-
+ployees assigned to field offices, district offices, and regional offices.
+The submission will also include the number of employees who
+telework full-time and those who telework under a disability ac-
+commodation.
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+12
+Section 6—Severability
+If any part of this Act is unconstitutional, the rest of the Act re-
+mains valid and enforceable.
+Section 7—Supersession
+The Act overrides any conflicting laws or provisions in collective
+bargaining or master labor agreements.
+Section 8—No private cause of action
+The Act does not create a private legal right to challenge any de-
+cision or action taken under its authority.
+VII. CONGRESSIONAL BUDGET OFFICE COST ESTIMATE
+Pursuant to 3(c)(3) of rule XIII of the Rules of the House of Rep-
+resentatives, the Committee adopts as its own the cost estimate
+prepared by the Director of the Congressional Budget Office pursu-
+ant to section 402 of the Congressional Budget Act of 1974. The
+Committee has requested but not received from the Director of the
+Congressional Budget Office a cost estimate for the Committee’s
+provisions.
+VIII. NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY,
+AND TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII of the Rules of the House
+of Representatives and section 308(a)(I) of the Congressional Budg-
+et Act of 1974, the Committee provides the following opinion and
+estimate with respect to new budget authority, entitlement author-
+ity, and tax expenditures. While the Committee has not received an
+estimate of new budget authority contained in the cost estimate
+prepared by the Director of the Congressional Budget Office pursu-
+ant to Sec. 402 of the Congressional Budget Act of 1974, the Com-
+mittee does not believe that there will be any additional costs at-
+tributable to this legislation. H.R. 2027 does not direct new spend-
+ing, but instead reallocates funding independently authorized and
+appropriated.
+IX. OVERSIGHT FINDINGS & RECOMMENDATIONS
+In accordance with clause 3(c)(1) of rule XIII and clause 2(b)(1)
+of rule X of the Rules of the House of Representatives, the over-
+sight findings and recommendations of the Committee on Small
+Business with respect to the subject matter contained in the H.R.
+2027 are incorporated into the descriptive portions of this report.
+X. PERFORMANCE GOALS AND OBJECTIVES
+With respect to the requirements of clause 3(c)(4) of rule XIII of
+the Rules of the House of Representatives, the performance goals
+and objectives of H.R. 2027 are to require the SBA to provide infor-
+mation on employees in headquarters, district, field, and regional
+offices, and the number of employees who receive a telework accom-
+modation in its annual budget justification to Congress.
+XI. STATEMENT OF DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, no provision of H.R. 2027 is known to be dupli-
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+13
+cative of another Federal program, including any program that was
+included in a report to Congress pursuant to section 21 of Public
+Law 111–139 or the most recent Catalog of Federal Domestic As-
+sistance.
+XII. CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS,
+AND LIMITED TARIFF BENEFITS
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee finds that the bill does not con-
+tain any congressional earmarks, limited tax benefits, or limited
+tariff benefits as defined in clause 9(e), 9(f), or 9(g) of rule XXI of
+the Rules of the House of Representatives.
+XIII. FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+XIV. FEDERAL ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+XV. APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+XVI. STATEMENT OF CONSTITUTIONAL AUTHORITY
+Pursuant to clause 7 of rule XII of the Rules of the House, the
+Committee finds that the authority for this legislation in Art. I, §8,
+cl.1 of the Constitution of the United States.
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+XVII. MINORITY VIEWS
+On March 21, 2025, Small Business Administration (SBA) Ad-
+ministrator Kelly Loeffler announced an agency wide reorganiza-
+tion, which among other things, includes a 43% workforce reduc-
+tion.1 This announcement came on the heels of the February 12
+firings of thousands of probationary employees throughout the gov-
+ernment, including SBA.2 James Bredar, a federal district court
+judge, in Maryland ordered the Trump administration to rehire the
+previously terminated employees at 18 federal agencies in 19
+states,3 with some being placed on administrative leave. On April
+9, an appeals court overruled Judge Breder’s decision and cleared
+the way for the firings.4 Employees at the COVID–19 Economic In-
+jury Disaster Loan Servicing Center, which is comprised of 1,200
+individuals, received an email on April 18 that they would be laid
+off effective May 16 or May 2.5
+H.R. 2027, the Returning SBA to Main Street Act, which would
+relocate 30 percent of SBA employees from headquarters to other
+parts of the country, is a Republican messaging bill that is just an-
+other assault on federal employees and harms our nation’s 34 mil-
+lion small businesses.
+The bill isn’t necessary because the majority of the workforce is
+currently in the field. SBA has more than 800 employees in the
+headquarters in Washington, D.C. and approximately 8,500 em-
+ployees, in total, including in the 68 district offices across the coun-
+try.6 SBA employees are distributed throughout the country with
+large staffing presences at SBA loan and processing centers in
+Herndon, Virginia; Sacramento, California; Birmingham, Alabama;
+and Fort Worth, Texas. SBA also operates 68 district offices and 10
+regional offices serving all 50 states and territories.
+A major restructuring is already underway within the adminis-
+tration, and a 30 percent relocation on top of the terminations will
+result in a more sizable reduction. According to the March 21, 2025
+press release, the agency plans to reduce its workforce to pre-pan-
+demic levels by eliminating about 2,700 active positions out of a
+total active workforce of 6,500 (for a reduction of 43%). According
+to the agency, the reductions include voluntary resignations, the
+1U.S. SMALL BUS. ADMIN., Small Business Administration Announces Agency-Wide Reorga-
+nization (Mar. 21, 2025), https://www.sba.gov/article/2025/03/21/small-business-administration-
+announces-agency-wide-reorganization.
+2Chaos and Corruption Weekly Digest: Week 4, AFGE (Oct. 26, 2018), https://www.afge.org/
+article/chaos-and-corruption-weekly-digest-week-4/.
+3Madison Alder, Appeals Court Halts Remaining District Order That Reinstated Fired Proba-
+tionary Workers, FEDSCOOP (Apr. 9, 2025), https://fedscoop.com/appeals-court-halts-remaining-
+district-order-that-reinstated-fired-probationary-workers.
+4Id.
+5Frank Konkel, SBA Hit with More Layoffs, GOVEXEC (Apr. 18, 2025), https://
+www.govexec.com/workforce/2025/04/sba-hit-more-layoffs/404682.
+6Letter from Daniel Horowitz, Acting Legislative Dir., Am. Fed’n of Gov’t Emps. to Members
+of Congress (Apr. 30, 2025) (on file with H. COMM. ON SMALL BUS.). WHITE HOUSE OFF. OF
+PERS. MGMT., FedScope, https://www.fedscope.opm.gov (last visited Apr. 16, 2025).
+(14)
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6604 Sfmt 6604 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+15
+expiration of pandemic-era term appointments, and reductions in
+force.7
+The Committee should be inviting the Administrator to testify be-
+fore our committee, instead of holding a partisan mark-up on a
+messaging bill. Committee Democrats sent five letters to SBA
+about the reorganization, staff terminations, Department of Gov-
+ernment Efficiency (DOGE) access, and the federal funding freeze.
+SBA has not responded, and an SBA briefing was abruptly can-
+celed and never rescheduled.
+If Republicans want more employees in the field, they should in-
+crease resources for its district offices to conduct outreach, engage-
+ment, and customer service and as well as conduct oversight of the
+administration. SBA already has an Office of Field Operations, and
+those employees are trained to work with the public, and to go out
+into the field. Employees at SBA headquarters work at the pro-
+grammatic level, which includes administering grants, providing
+reimbursements, and management of enterprise-wide information
+technology systems. It is unclear how the roles and duties would
+be modified to ‘‘promote in-person customer service,’’ as required
+under the legislation. Moreover, a significant portion of the field
+operations staff have either been terminated or resigned, according
+to reports. If Republicans want more people in the field, they
+should increase resources for the field, and conduct oversight of the
+administration to ensure that the Administrator retains the em-
+ployees in the field, who are specifically trained in customer service
+and engagement, rather than holding a partisan mark-up to relo-
+cate employees without any data.
+The terminations and resignations are happening haphazardly.
+SBA offered a Deferred Resignation Program (DRP) to employees
+who are eligible for a deferred annuity under the Federal Employ-
+ees Retirement System, and approximately 1,500 employees have
+accepted. SBA originally told employees they could leave April 19,
+2025, but reportedly delayed the date to May.8 SBA has not in-
+formed Committee Democrats as to the number of employees who
+have accepted the deferred resignations or the offices in which they
+work. Reports have surfaced that entire offices have been hallowed
+out, raising concerns that SBA may no longer have the capacity to
+carry out its services.
+The bill is costly and would do nothing to control government
+spending. SBA signed a 20-year lease beginning on November 24,
+2022, and the cost of breaking the lease and repaying the tenant
+improvements would run into the millions. The bill’s proponents
+significantly overestimate the costs of keeping the agencies in the
+D.C. area. ‘‘In addition to the direct cost of relocation, the resulting
+brain drain from this massive loss of talent will severely damage
+SBA, and it will take years to rebuild the highly specialized work-
+force. SBA could be forced to outsource work to entities outside the
+7U.S. SMALL BUS. ADMIN., Small Business Administration Announces Agency-Wide Reorga-
+nization (Mar. 21, 2025), https://www.sba.gov/article/2025/03/21/small-business-administration-
+announces-agency-wide-reorganization.
+8Eric Katz, Employees Swarm to Second ‘Deferred Resignation’ Offer, Though Some Are Re-
+ceiving Unexpected Responses, GOVEXEC (Apr. 11, 2025), https://www.govexec.com/workforce/
+2025/04/employees-swarm-second-deferred-resignation-offer-though-some-are-receiving-unex-
+pected-responses/404504/?oref=ge-mini-feed.
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6604 Sfmt 6604 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+16
+federal government and acquire additional space placing significant
+financial strain to the Agency and American public.9
+SBA could lose years of expertise, as well as the ability to recruit
+younger talent. SBA employees, located in headquarters, and may
+not be inclined to uproot families to relocate to other parts of the
+country. As employees retire either willingly or through force, the
+agency will lose years of experience and institutional knowledge.
+Moreover, the mass firings of probationary workers, who are typi-
+cally younger, hinder the ability of the agency to recruit younger
+talent.
+Sections 7 and 8 seek to limit an employee’s ability to participate
+in union activities, including limiting protections under a collective
+bargaining agreement or other master labor agreement and banning
+a private right of action for wrongful termination. The AFGE is
+leading the fight in the courts to defeat President Trump’s assault
+on federal collective bargaining, but it will be weeks if not months
+before the final outcome is known. According to the AFGE, for al-
+most 150 years, under both Democratic and Republican administra-
+tions, Title 5 of the U.S. Code has mandated that federal worker—
+including those represented by unions like AFGE—faithfully carry
+out the laws of Congress and serve all Americans. President’s
+Trump’s Executive Order and this legislation open the door to
+abuse and retaliation. If left unchallenged, it will be American tax-
+payers who suffer the most when the services they depend on dete-
+riorate.10
+Committee Democrats offered four amendments during the
+mark-up. Rep. Herbert C. Conaway, Jr. (D–NJ) offered a strike and
+replace amendment, requiring GAO to conduct an analysis of the
+Administrator’s reorganization plan. Only 12 percent of the work-
+force is located at headquarters and arbitrarily moving employees
+with no coordination or plan doesn’t make sense. This amendment
+would require a much-needed analysis of the impact the ill-con-
+ceived plan would have on the lending, disaster, contracting, and
+entrepreneurial development programs millions of small businesses
+rely on. Republicans defeated the amendment calling for an anal-
+ysis on the grounds that it would slow the process down.
+Rep. LaMonica McIver (D–NJ) offered an amendment requiring
+the Administrator to testify before the House Small Business Com-
+mittee before the bill could go into effect. Rep. McIver called atten-
+tion to the spree of firings, relocations of SBA offices, and handling
+of the SBA portfolio. Given the disruptive changes to the SBA, and
+the lack of information from the Administrator, Rep. McIver offered
+an amendment to require the Administrator to testify before this
+Committee before any provision of the bill is implemented. Com-
+mittee Democrats pointed out that five letters to the Administrator
+have gone unanswered by the current Administrator. Disputing Re-
+publicans claims. Committee Democrats pointed out that Adminis-
+trator Guzman not only testified before the Small Business Com-
+mittee twice a year but also visited the districts of our colleagues—
+both Republican and Democrat. Republicans defeated the measure
+on the grounds that the amendment would delay the process.
+9Supra note 6.
+10Letter from Daniel Horowitz to Members of Congress (Apr. 21, 2025) (on file with the H.
+COMM. ONSMALLBUS.).
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6604 Sfmt 6604 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+17
+Rep. Kelly Morrison (D–MN) offered an amendment to exempt
+SBA employees who are veterans from being relocated. Forcing
+SBA employees who are veterans to abruptly relocate would be an-
+other cruel decision that breaks our pledge to take care of those
+who served. Committee Republicans defeated the amendment.
+Rep. McIver offered a second amendment that would prohibit the
+bill from taking effect until the Administrator publishes a deter-
+mination that the cost of carrying out the bill is not more than
+zero. Ms. McIver reiterated that the administration was actively
+cutting nearly half of its workforce and engaging in other struc-
+tural changes, without a clear strategy or communicating the
+changes to Committee members. Prohibiting the implementation of
+the bill until the Administrator determines that it would not in-
+crease costs to the American taxpayer is not unreasonable. In fact,
+it is a prudent policy. Republicans rejected this commonsense
+amendment on the grounds that it would impose a ‘‘roadblock.’’
+Committee Democrats opposed the legislation because it is a
+messaging bill that is just another assault on federal employees
+and harms our nation’s 34 million small businesses.
+NYDIA M. VELA ´ ZQUEZ,
+Ranking Member.
+Æ
+VerDate Sep 11 2014 00:39 May 31, 2025 Jkt 059006 PO 00000 Frm 00017 Fmt 6604 Sfmt 6611 E:\HR\OC\HR109.XXX HR109
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD

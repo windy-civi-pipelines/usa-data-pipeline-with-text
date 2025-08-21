@@ -1,0 +1,1167 @@
+Title: MARCH27, 2025.—Committed to the Committee of the Whole House on the State
+Official Title: MARCH27, 2025.—Committed to the Committee of the Whole House on the State
+Number of Sections: 3
+Source: documents - H. Rept. 119-45
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–45
+ELECTRONIC FILING AND PAYMENT FAIRNESS ACT
+of the Union and ordered to be printed
+Mr. SMITH of Missouri, from the Committee on Ways and Means,
+submitted the following
+R E P O R T
+[To accompany H.R. 1152]
+The Committee on Ways and Means, to whom was referred the
+bill (H.R. 1152) to amend the Internal Revenue Code of 1986 to
+provide for the application of the mailbox rule to documents and
+payments electronically submitted to the Internal Revenue Service,
+having considered the same, reports favorably thereon with an
+amendment and recommends that the bill as amended do pass.
+CONTENTS
+Page
+I. SUMMARY AND BACKGROUND ............................................................... 2
+A. Purpose and Summary ..................................................................... 2
+B. Background and Need for Legislation ............................................. 2
+C. Legislative History ............................................................................ 3
+D. Designated Hearing .......................................................................... 3
+II. EXPLANATION OF THE BILL ................................................................... 3
+III. VOTE OF THE COMMITTEE5 .................................................................... 5
+IV. BUDGET EFFECTS OF THE BILL ............................................................ 6
+A. Committee Estimate of Budgetary Effects ...................................... 6
+B. Statement Regarding New Budget Authority and Tax Expendi-
+tures Budget Authority .................................................................. 6
+C. Cost Estimate Prepared by the Congressional Budget Office ....... 6
+V. OTHER MATTERS TO BE DISCUSSED UNDER THE RULES OF
+THE HOUSE .............................................................................................. 6
+A. Committee Oversight Findings and Recommendations ................. 6
+B. Statement of General Performance Goals and Objectives ............. 6
+C. Applicability of House Rule XXI, Clause 5(b) ................................. 6
+D. Information Relating to Unfunded Mandates ................................ 7
+E. Congressional Earmarks, Limited Tax Benefits, and Limited
+Tariff Benefits ................................................................................. 7
+F. Duplication of Federal Programs ..................................................... 7
+G. Tax Complexity Analysis .................................................................. 7
+VI. CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED 8
+The amendment is as follows:
+59–006
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+2
+Strike all after the enacting clause and insert the following:
+
+Section 2:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Electronic Filing and Payment Fairness Act’’.
+SEC. 2. APPLICATION OF MAILBOX RULE TO DOCUMENTS AND PAYMENTS ELECTRONICALLY
+SUBMITTED TO THE INTERNAL REVENUE SERVICE.
+(a) INGENERAL.—Section 7502(c) of the Internal Revenue Code of 1986 is amend-
+ed—
+(1) in the heading, by inserting ‘‘ANDPAYMENT’’ after ‘‘FILING’’,
+(2) in paragraph (2)—
+(A) in the heading, by striking ‘‘; ELECTRONICFILING’’, and
+(B) by striking ‘‘and electronic filing’’, and
+(3) by adding at the end the following new paragraph:
+‘‘(3) ELECTRONICFILINGANDPAYMENT.—
+‘‘(A) IN GENERAL.—If any return, claim, statement, or other document re-
+quired to be filed, or any payment required to be made, within a prescribed
+period or on or before a prescribed date under authority of any provision
+of the internal revenue laws is sent electronically by any person to the
+agency, officer, or office with which such return, claim, statement, or other
+document is required to be filed, or to which such payment is required to
+be made, the date on which such return, claim, statement, or other docu-
+ment, or payment, is sent electronically by such person shall be deemed to
+be the date of delivery or the date of payment, as the case may be, regard-
+less of the date on which the applicable agency, officer, or office receives
+or reviews such return, claim, statement, document, or payment.
+‘‘(B) REGULATIONS.—Not later than December 31, 2025, the Secretary
+shall issue such regulations or other guidance as the Secretary determines
+necessary to carry out the purposes of this paragraph.’’.
+(b) EFFECTIVE DATE.—The amendments made by this section shall apply to any
+document or payment sent after December 31, 2025.
+I. SUMMARY AND BACKGROUND
+A. PURPOSE AND SUMMARY
+The bill, H.R. 1152, the ‘‘Electronic Filing and Payment Fairness
+Act,’’ as ordered reported by the Committee on Ways and Means
+on February 12, 2025.
+The provision defines when a return, claim, statement, or other
+document, or payment sent electronically is considered timely. The
+document or payment is considered timely if the date on which it
+is sent is on or before the due date of the filing or payment, regard-
+less of the date on which the applicable agency, officer, or office re-
+ceives the document or payment. The provision requires the Sec-
+retary to promulgate rules necessary to apply the mailbox rule to
+electronic filing and payments by December 31, 2025.
+B. BACKGROUND AND NEED FOR LEGISLATION
+Currently, if a taxpayer mails a payment to the IRS that is post-
+marked by midnight on the due date, the payment or tax return
+is considered timely even if it is received a week later.1 However,
+if a taxpayer submits the same payment or return electronically on
+the due date, it may be considered late if the IRS receives it and
+processes it on the next day.2 In Fiscal Year 2023, more than 213
+million returns and other forms were filed electronically.3
+1Legislative Recommendation #3—Treat Electronically Submitted Tax Payments and Docu-
+ments as Timely If Submitted on or Before the Applicable Deadline, National Taxpayer Advo-
+cate 2025 Purple Book (Dec. 31, 2024), https://www.taxpayeradvocate.irs.gov/reports/2024-an-
+nual-report-to-congress/national-taxpayer-advocate-2025-purple-book/.
+2Id.
+3Id.
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+3
+This dichotomy between mail payments and electronic payments
+harms taxpayers who make timely electronic submissions and fa-
+vors paper transmission over electronic transmission—the opposite
+incentive IRS rules should provide. Electronic payments are re-
+ceived more quickly, are cheaper to process, and eliminate the risk
+that a mailed check will be lost or misplaced.
+The Committee on Ways and Means is committed to making fil-
+ing taxpayer-friendly and fair for all taxpayers regardless of how
+they choose to file or make payments. This bill will ensure that tax
+returns and payments filed digitally will now receive the same
+treatment as those sent through the mail instead of being treated
+worse than paper filings.
+C. LEGISLATIVE HISTORY
+Background
+H.R. 1152 was introduced on February 10, 2025, and was re-
+ferred to the Committee on Ways and Means.
+Committee Hearings
+On February 11, 2025, the Committee on Ways and Means held
+a hearing titled, ‘‘IRS Return on Investment and the Need for Mod-
+ernization’’.
+Committee Action
+The Committee on Ways and Means marked up H.R. 1152, the
+‘‘Electronic Filing and Payment Fairness Act’’ on February 12,
+2025, and ordered the bill, as amended, favorably reported (with a
+quorum being present).
+D. DESIGNATED HEARING
+Pursuant to clause 3(c)(6) of rule XIII, the following hearings was
+used to develop and consider H.R. 1152:
+‘‘IRS Return on Investment and the Need for Modernization’’
+on February 11, 2025.
+II. EXPLANATION OF THE BILL
+A. APPLICATION OF MAILBOX RULE TO DOCUMENTS AND PAYMENTS
+ELECTRONICALLY SUBMITTED TO THE INTERNAL REVENUE SERVICE
+(SEC. 2 OF THE BILL AND SEC. 7502(c) OF THE CODE)
+PRESENT LAW
+In general
+Present law defines when a return, claim, statement, or other
+document, or payment sent pursuant to the Internal Revenue Code
+(‘‘Code’’) is considered timely.4 A document generally is considered
+timely filed and payment is considered timely made when the filing
+or payment is received by the Internal Revenue Service (‘‘IRS’’) on
+or before the due date of the return. As discussed in further detail
+below, if the requirements of the Code are met, timely mailing is
+4Sec. 7502(a), Treas. Reg. sec. 301.7502–1(a).
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+4
+treated as timely filing and timely paying, colloquially known as
+the ‘‘mailbox rule.’’5
+If a document or payment is delivered by the United States Post-
+al Service (‘‘USPS’’), the document or payment is considered timely
+if the postmark date falls on or before the prescribed due date, re-
+gardless of when it is deposited in the mail,6 and if it is properly
+packaged and addressed with prepaid postage.7 If the postmark is
+made other than by the USPS, the document or payment is timely
+if the postmark is legible and the agency receives it no later than
+it would normally receive mail of the same class sent through the
+USPS that is postmarked on the prescribed due date.8 If a docu-
+ment or payment is sent by registered mail, the dated registration
+statement is prima facie evidence of delivery and the date of reg-
+istration is deemed the postmark date.9 If a document or payment
+is sent by certified mail, the postmark date is the date stamped on
+the receipt by the postal employee.10 If a document or payment is
+sent by a private delivery service, the Secretary of the Treasury
+(the ‘‘Secretary’’) may deem the delivery service as equivalent to
+the USPS for purposes of the mailbox rule, but only if the service
+is available to the general public, is as timely and reliable as
+USPS, records the date it receives mail for delivery, and meets
+other criteria prescribed by the Secretary.11
+Electronic filings and payments
+The mailbox rule, as set forth in the Code and regulations, does
+not cover electronic payments or electronic filings made other than
+through an electronic return transmitter. Instead, the mailbox rule
+applies only to mail delivered by the USPS, unless otherwise au-
+thorized by the Secretary. For electronic delivery, the Code author-
+izes the Secretary to define the postmark date and evidence of de-
+livery regarding electronic filings, without mention of electronic
+payments.12 Acting under such authorization, the Secretary has
+promulgated rules in the specific case of electronic return transmit-
+ters, deeming the electronic postmark date the date that an author-
+ized electronic return transmitter receives the transmission of a
+taxpayer’s electronically filed document on its host system, regard-
+less of when it is received by the IRS.13
+REASONS FOR CHANGE
+Present law applies the taxpayer-favorable mailbox rule broadly
+to filings and payments sent by U.S. mail, but only to electronic fil-
+ings sent using an electronic return transmitter. This approach cre-
+ates a discrepancy depending on how the item is sent: a mailed fil-
+ing, mailed payment, or electronic return sent through electronic
+return transmitter is deemed to be on time if it is postmarked on
+5Sec. 7502.
+6Sec. 7502(a), Treas. Reg. sec. 301.7502–1(c)(1)(2).
+7Sec. 7502(a)(2)(B), Treas. Reg. sec. 301.7502–1(c)(1)(2).
+8Treas. Reg. sec. 301.7502–1(c)(1)(iii)(B).
+9Sec. 7502(c)(1).
+10Treas. Reg. sec. 301.7502–1(c)(2).
+11Sec. 7502(f), Treas. Reg. sec. 301.7502–1(c)(3). Additionally, special rules apply to deposits
+required to be made to a financial institution. Sec. 7502(e).
+12Sec. 7502(c)(2).
+13Treas. Reg. sec. 301.7502–1(d)(1), (3)(ii). The Commissioner may authorize specific electronic
+return transmitters to provide taxpayers with electronic postmarks to acknowledge the date and
+time that the electronic return transmitter received the electronically-filed document. Treas.
+Reg. sec. 301.7502–1(d)(2).
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+5
+or before the due date, but an electronic payment or electronic fil-
+ing sent other than via electronic return transmitter is timely only
+if received by the IRS on or before the due date. The Committee
+believes that, in order to resolve this discrepancy, the mailbox rule
+should apply broadly to both electronic payments and filings. Addi-
+tionally, while the statute currently authorizes the Secretary to
+apply the mailbox rule to electronic filings, the Committee believes
+this authorization should be extended to electronic payments.
+EXPLANATION OF PROVISION
+The provision defines when a return, claim, statement, or other
+document, or payment sent electronically is considered timely. The
+document or payment is considered timely if the date on which it
+is sent is on or before the due date of the filing or payment, regard-
+less of the date on which the applicable agency, officer, or office re-
+ceives the document or payment. The provision requires the Sec-
+retary to promulgate rules necessary to apply the mailbox rule to
+electronic filing and payments by December 31, 2025.
+EFFECTIVE DATE
+The provision applies to any document or payment sent after De-
+cember 31, 2025.
+III. VOTE OF THE COMMITTEE
+Pursuant to clause 3(b) of rule XIII of the Rules of the House of
+Representatives, the following statement is made concerning the
+vote of the Committee on Ways and Means in its consideration of
+H.R. 1152, the ‘‘Electronic Filing and Payment Fairness Act,’’ on
+February 12, 2025.
+The bill, H.R. 1152 was ordered favorably reported to the House
+of Representatives as amended by a roll call vote of 41 yeas to 0
+nays (with a quorum being present). The vote was as follows:
+Representative Yea Nay Present Representative Yea Nay Present
+Mr. Smith (MO)............................. X ....... ............. Mr. Neal........................................ X ....... .............
+Mr. Buchanan ............................... X ....... ............. Mr. Doggett .................................. X ....... .............
+Mr. Smith (NE) ............................. X ....... ............. Mr. Thompson............................... X ....... .............
+Mr. Kelly........................................ ....... ....... ............. Mr. Larson .................................... X ....... .............
+Mr. Schweikert .............................. X ....... ............. Mr. Davis...................................... X ....... .............
+Mr. LaHood ................................... X ....... ............. Ms. Sa´nchez ................................. X ....... .............
+Mr. Arrington ................................ ....... ....... ............. Ms. Sewell .................................... X ....... .............
+Mr. Estes ...................................... X ....... ............. Ms. DelBene ................................. X ....... .............
+Mr. Smucker ................................. X ....... ............. Ms. Chu........................................ X ....... .............
+Mr. Hern........................................ X ....... ............. Ms. Moore (WI) ............................. X ....... .............
+Mrs. Miller (WV)............................ X ....... ............. Mr. Boyle ...................................... X ....... .............
+Dr. Murphy .................................... X ....... ............. Mr. Beyer ...................................... X ....... .............
+Mr. Kustoff.................................... X ....... ............. Mr. Evans ..................................... X ....... .............
+Mr. Fitzpatrick .............................. X ....... ............. Mr. Schneider ............................... X ....... .............
+Mr. Steube .................................... X ....... ............. Mr. Panetta .................................. X ....... .............
+Ms. Tenney.................................... X ....... ............. Mr. Gomez .................................... ....... ....... .............
+Mrs. Fischbach ............................. X ....... ............. Mr. Horsford ................................. X ....... .............
+Mr. Moore (UT).............................. X ....... ............. Ms. Plaskett ................................. X ....... .............
+Ms. Van Duyne ............................. X ....... ............. Mr. Suozzi..................................... X ....... .............
+Mr. Feenstra ................................. X
+Ms. Malliotakis ............................. X
+Mr. Carey ...................................... X
+Mr. Yakym..................................... X
+Mr. Miller (OH).............................. X
+Mr. Bean ....................................... X
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+6
+Representative Yea Nay Present Representative Yea Nay Present
+Mr. Moran ..................................... X
+IV. BUDGET EFFECTS OF THE BILL
+A. COMMITTEE ESTIMATE OF BUDGETARY EFFECTS
+In compliance with clause 3(d) of rule XIII of the Rules of the
+House of Representatives, the following statement is made con-
+cerning the effects on the budget of the bill, H.R. 1152 as reported.
+The estimate prepared by the Congressional Budget Office (CBO)
+is included below.
+The bill is estimated to have a negligible effect on Federal fiscal
+year budget receipts for the period 2025 through 2034.
+B. STATEMENT REGARDING NEW BUDGET AUTHORITY AND TAX
+EXPENDITURES BUDGET AUTHORITY
+In compliance with clause 3(c)(2) of rule XIII of the Rules of the
+House of Representatives, the Committee states that the bill in-
+volves no new or increased budget authority.
+C. COST ESTIMATE PREPARED BY THE CONGRESSIONAL BUDGET
+OFFICE
+The Congressional Budget Act of 1974, as amended stipulates
+that revenue estimates provided by the staff of the Joint Com-
+mittee on Taxation (‘‘JCT’’) will be the official estimates for all tax
+legislation considered by Congress. As such CBO incorporates these
+estimates into its cos estimates of the effects of the legislation. The
+estimates for the revenue provisions of H.R. 1152 were provided by
+JCT.
+V. OTHER MATTERS TO BE DISCUSSED UNDER THE
+RULES OF THE HOUSE
+A. COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+With respect to clause 3(c)(1) of rule XIII of the Rules of the
+House of Representatives, the Committee made findings and rec-
+ommendations that are reflected in this report.
+B. STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+With respect to clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee advises that the bill does
+not authorize funding, so no statement of general performance
+goals and objectives is required.
+C. APPLICABILITY OF HOUSE RULE XXI, CLAUSE 5(b)
+Rule XXI 5(b) of the Rules of the House of Representatives pro-
+vides, in part, that ‘‘A bill or joint resolution, amendment, or con-
+ference report carrying a Federal income tax rate increase may not
+be considered as passed or agreed to unless so determined by a
+vote of not less than three-fifths of the Members voting, a quorum
+being present.’’ The Committee has carefully reviewed the bill, and
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+7
+states that the bill does not provide such a Federal income tax rate
+increase.
+D. INFORMATION RELATING TO UNFUNDED MANDATES
+This information is provided in accordance with section 423 of
+the Unfunded Mandates Reform Act of 1995 (Pub. L. No. 104–4).
+The Committee has determined that the bill does not contain
+Federal mandates on the private sector. The Committee has deter-
+mined that the bill does not impose a Federal intergovernmental
+mandate on State, local, or tribal governments.
+E. CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND
+LIMITED TARIFF BENEFITS
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the bill, and states that the provisions of the bill do not
+contain any congressional earmarks, limited tax benefits, or limited
+tariff benefits within the meaning of the rule.
+F. DUPLICATION OF FEDERAL PROGRAMS
+In compliance with clause 3(c)(5) of rule XIII of the Rules of the
+House of Representatives, the Committee states that no provision
+of the bill establishes or reauthorizes: (1) a program of the Federal
+Government known to be duplicative of another Federal program;
+(2) a program included in any report from the Government Ac-
+countability Office to Congress pursuant to section 21 of Public
+Law 111–139; or (3) a program related to a program identified in
+the most recent Catalog of Federal Domestic Assistance, published
+pursuant to the Federal Program Information Act (Pub. L. No. 95–
+220, as amended by Pub. L. No. 98–169).
+G. TAX COMPLEXITY ANALYSIS
+
+Section 3:
+Section 4022(b) of the Internal Revenue Service Reform and Re-
+structuring Act of 1998 (the ‘‘IRS Reform Act’’) requires the staff
+of the Joint Committee on Taxation (in consultation with the Inter-
+nal Revenue Service and the Treasury Department) to provide a
+tax complexity analysis. The complexity analysis is required for all
+legislation reported by the Senate Committee on Finance, the
+House Committee on Ways and Means, or any committee of con-
+ference if the legislation includes a provision that directly or indi-
+rectly amends the Internal Revenue Code and has widespread ap-
+plicability to individuals or small businesses.
+The staff of the Joint Committee on Taxation has determined
+that there are no provisions that are of widespread applicability to
+individuals or small businesses.
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+8
+VI. CHANGES IN EXISTING LAW MADE BY THE BILL, AS
+REPORTED
+A. TEXT OF EXISTING LAW AMENDED OR REPEALED BY THE BILL, AS
+REPORTED
+Pursuant to clause 3(e) of rule XIII of the Rules of the House of
+Representatives, the text of each section proposed to be repealed by
+the bill is shown below:
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+INTERNAL REVENUE CODE OF 1986
+* * * * * * *
+Subtitle F—Procedure and Administration
+* * * * * * *
+CHAPTER 77—MISCELLANEOUS PROVISIONS
+* * * * * * *
+SEC. 7502. TIMELY MAILING TREATED AS TIMELY FILING AND PAYING.
+(a) GENERAL RULE.—
+(1) DATE OF DELIVERY.—If any return, claim, statement, or
+other document required to be filed, or any payment required
+to be made, within a prescribed period or on or before a pre-
+scribed date under authority of any provision of the internal
+revenue laws is, after such period or such date, delivered by
+United States mail to the agency, officer, or office with which
+such return, claim, statement, or other document is required to
+be filed, or to which such payment is required to be made, the
+date of the United States postmark stamped on the cover in
+which such return, claim, statement, or other document, or
+payment, is mailed shall be deemed to be the date of delivery
+or the date of payment, as the case may be.
+(2) MAILING REQUIREMENTS.—This subsection shall apply
+only if—
+(A) the postmark date falls within the prescribed period
+or on or before the prescribed date—
+(i) for the filing (including any extension granted for
+such filing) of the return, claim, statement, or other
+document, or
+(ii) for making the payment (including any extension
+granted for making such payment), and
+(B) the return, claim, statement, or other document, or
+payment was, within the time prescribed in subparagraph
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+9
+(A), deposited in the mail in the United States in an enve-
+lope or other appropriate wrapper, postage prepaid, prop-
+erly addressed to the agency, officer, or office with which
+the return, claim, statement, or other document is re-
+quired to be filed, or to which such payment is required to
+be made.
+(b) POSTMARKS.—This section shall apply in the case of post-
+marks not made by the United States Postal Service only if and to
+the extent provided by regulations prescribed by the Secretary.
+(c) REGISTERED AND CERTIFIED MAILING; ELECTRONIC FILING AND
+PAYMENT.—
+(1) REGISTERED MAIL.—For purposes of this section, if any re-
+turn, claim, statement, or other document, or payment, is sent
+by United States registered mail—
+(A) such registration shall be prima facie evidence that
+the return, claim, statement, or other document was deliv-
+ered to the agency, officer, or office to which addressed;
+and
+(B) the date of registration shall be deemed the post-
+mark date.
+(2) CERTIFIED MAIL ø; ELECTRONIC FILING ¿.—The Secretary is
+authorized to provide by regulations the extent to which the
+provisions of paragraph (1) with respect to prima facie evidence
+of delivery and the postmark date shall apply to certified mail
+øand electronic filing¿.
+(3) ELECTRONIC FILING AND PAYMENT.—
+(A) IN GENERAL.—If any return, claim, statement, or
+other document required to be filed, or any payment re-
+quired to be made, within a prescribed period or on or be-
+fore a prescribed date under authority of any provision of
+the internal revenue laws is sent electronically by any per-
+son to the agency, officer, or office with which such return,
+claim, statement, or other document is required to be filed,
+or to which such payment is required to be made, the date
+on which such return, claim, statement, or other document,
+or payment, is sent electronically by such person shall be
+deemed to be the date of delivery or the date of payment,
+as the case may be, regardless of the date on which the ap-
+plicable agency, officer, or office receives or reviews such re-
+turn, claim, statement, document, or payment.
+(B) REGULATIONS.—Not later than December 31, 2025,
+the Secretary shall issue such regulations or other guidance
+as the Secretary determines necessary to carry out the pur-
+poses of this paragraph.
+(d) EXCEPTIONS.—This section shall not apply with respect to—
+(1) the filing of a document in, or the making of a payment
+to, any court other than the Tax Court,
+(2) currency or other medium of payment unless actually re-
+ceived and accounted for, or
+(3) returns, claims, statements, or other documents, or pay-
+ments, which are required under any provision of the internal
+revenue laws or the regulations thereunder to be delivered by
+any method other than by mailing.
+(e) MAILING OF DEPOSITS.—
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+10
+(1) DATE OF DEPOSIT.—If any deposit required to be made
+(pursuant to regulations prescribed by the Secretary under sec-
+tion 6302(c)) on or before a prescribed date is, after such date,
+delivered by the United States mail to the bank, trust com-
+pany, domestic building and loan association, or credit union
+authorized to receive such deposit, such deposit shall be
+deemed received by such bank, trust company, domestic build-
+ing and loan association, or credit union on the date the de-
+posit was mailed.
+(2) MAILING REQUIREMENTS.—Paragraph (1) shall apply only
+if the person required to make the deposit establishes that—
+(A) the date of mailing falls on or before the second day
+before the prescribed date for making the deposit (includ-
+ing any extension of time granted for making such de-
+posit), and
+(B) the deposit was, on or before such second day, mailed
+in the United States in an envelope or other appropriate
+wrapper, postage prepaid, properly addressed to the bank,
+trust company, domestic building and loan association, or
+credit union authorized to receive such deposit.
+In applying subsection (c) for purposes of this subsection, the
+term ‘‘payment’’ includes ‘‘deposit’’, and the reference to the
+postmark date refers to the date of mailing.
+(3) NO APPLICATION TO CERTAIN DEPOSITS.—Paragraph (1)
+shall not apply with respect to any deposit of $20,000 or more
+by any person who is required to deposit any tax more than
+once a month.
+(f) TREATMENT OF PRIVATE DELIVERY SERVICES.—
+(1) IN GENERAL.—Any reference in this section to the United
+States mail shall be treated as including a reference to any
+designated delivery service, and any reference in this section
+to a postmark by the United States Postal Service shall be
+treated as including a reference to any date recorded or
+marked as described in paragraph (2)(C) by any designated de-
+livery service.
+(2) DESIGNATED DELIVERY SERVICE.—For purposes of this
+subsection, the term ‘‘designated delivery service’’ means any
+delivery service provided by a trade or business if such service
+is designated by the Secretary for purposes of this section. The
+Secretary may designate a delivery service under the preceding
+sentence only if the Secretary determines that such service—
+(A) is available to the general public,
+(B) is at least as timely and reliable on a regular basis
+as the United States mail,
+(C) records electronically to its data base, kept in the
+regular course of its business, or marks on the cover in
+which any item referred to in this section is to be deliv-
+ered, the date on which such item was given to such trade
+or business for delivery, and
+(D) meets such other criteria as the Secretary may pre-
+scribe.
+(3) EQUIVALENTS OF REGISTERED AND CERTIFIED MAIL.—The
+Secretary may provide a rule similar to the rule of paragraph
+(1) with respect to any service provided by a designated deliv-
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+11
+ery service which is substantially equivalent to United States
+registered or certified mail.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6611 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–45
+ELECTRONIC FILING AND PAYMENT FAIRNESS ACT
+MARCH27, 2025.—Committed to the Committee of the Whole House on the State
+of the Union and ordered to be printed
+Mr. SMITH of Missouri, from the Committee on Ways and Means,
+submitted the following
+R E P O R T
+[To accompany H.R. 1152]
+The Committee on Ways and Means, to whom was referred the
+bill (H.R. 1152) to amend the Internal Revenue Code of 1986 to
+provide for the application of the mailbox rule to documents and
+payments electronically submitted to the Internal Revenue Service,
+having considered the same, reports favorably thereon with an
+amendment and recommends that the bill as amended do pass.
+CONTENTS
+Page
+I. SUMMARY AND BACKGROUND ............................................................... 2
+A. Purpose and Summary ..................................................................... 2
+B. Background and Need for Legislation ............................................. 2
+C. Legislative History ............................................................................ 3
+D. Designated Hearing .......................................................................... 3
+II. EXPLANATION OF THE BILL ................................................................... 3
+III. VOTE OF THE COMMITTEE5 .................................................................... 5
+IV. BUDGET EFFECTS OF THE BILL ............................................................ 6
+A. Committee Estimate of Budgetary Effects ...................................... 6
+B. Statement Regarding New Budget Authority and Tax Expendi-
+tures Budget Authority .................................................................. 6
+C. Cost Estimate Prepared by the Congressional Budget Office ....... 6
+V. OTHER MATTERS TO BE DISCUSSED UNDER THE RULES OF
+THE HOUSE .............................................................................................. 6
+A. Committee Oversight Findings and Recommendations ................. 6
+B. Statement of General Performance Goals and Objectives ............. 6
+C. Applicability of House Rule XXI, Clause 5(b) ................................. 6
+D. Information Relating to Unfunded Mandates ................................ 7
+E. Congressional Earmarks, Limited Tax Benefits, and Limited
+Tariff Benefits ................................................................................. 7
+F. Duplication of Federal Programs ..................................................... 7
+G. Tax Complexity Analysis .................................................................. 7
+VI. CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED 8
+The amendment is as follows:
+59–006
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+2
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Electronic Filing and Payment Fairness Act’’.
+SEC. 2. APPLICATION OF MAILBOX RULE TO DOCUMENTS AND PAYMENTS ELECTRONICALLY
+SUBMITTED TO THE INTERNAL REVENUE SERVICE.
+(a) INGENERAL.—Section 7502(c) of the Internal Revenue Code of 1986 is amend-
+ed—
+(1) in the heading, by inserting ‘‘ANDPAYMENT’’ after ‘‘FILING’’,
+(2) in paragraph (2)—
+(A) in the heading, by striking ‘‘; ELECTRONICFILING’’, and
+(B) by striking ‘‘and electronic filing’’, and
+(3) by adding at the end the following new paragraph:
+‘‘(3) ELECTRONICFILINGANDPAYMENT.—
+‘‘(A) IN GENERAL.—If any return, claim, statement, or other document re-
+quired to be filed, or any payment required to be made, within a prescribed
+period or on or before a prescribed date under authority of any provision
+of the internal revenue laws is sent electronically by any person to the
+agency, officer, or office with which such return, claim, statement, or other
+document is required to be filed, or to which such payment is required to
+be made, the date on which such return, claim, statement, or other docu-
+ment, or payment, is sent electronically by such person shall be deemed to
+be the date of delivery or the date of payment, as the case may be, regard-
+less of the date on which the applicable agency, officer, or office receives
+or reviews such return, claim, statement, document, or payment.
+‘‘(B) REGULATIONS.—Not later than December 31, 2025, the Secretary
+shall issue such regulations or other guidance as the Secretary determines
+necessary to carry out the purposes of this paragraph.’’.
+(b) EFFECTIVE DATE.—The amendments made by this section shall apply to any
+document or payment sent after December 31, 2025.
+I. SUMMARY AND BACKGROUND
+A. PURPOSE AND SUMMARY
+The bill, H.R. 1152, the ‘‘Electronic Filing and Payment Fairness
+Act,’’ as ordered reported by the Committee on Ways and Means
+on February 12, 2025.
+The provision defines when a return, claim, statement, or other
+document, or payment sent electronically is considered timely. The
+document or payment is considered timely if the date on which it
+is sent is on or before the due date of the filing or payment, regard-
+less of the date on which the applicable agency, officer, or office re-
+ceives the document or payment. The provision requires the Sec-
+retary to promulgate rules necessary to apply the mailbox rule to
+electronic filing and payments by December 31, 2025.
+B. BACKGROUND AND NEED FOR LEGISLATION
+Currently, if a taxpayer mails a payment to the IRS that is post-
+marked by midnight on the due date, the payment or tax return
+is considered timely even if it is received a week later.1 However,
+if a taxpayer submits the same payment or return electronically on
+the due date, it may be considered late if the IRS receives it and
+processes it on the next day.2 In Fiscal Year 2023, more than 213
+million returns and other forms were filed electronically.3
+1Legislative Recommendation #3—Treat Electronically Submitted Tax Payments and Docu-
+ments as Timely If Submitted on or Before the Applicable Deadline, National Taxpayer Advo-
+cate 2025 Purple Book (Dec. 31, 2024), https://www.taxpayeradvocate.irs.gov/reports/2024-an-
+nual-report-to-congress/national-taxpayer-advocate-2025-purple-book/.
+2Id.
+3Id.
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+3
+This dichotomy between mail payments and electronic payments
+harms taxpayers who make timely electronic submissions and fa-
+vors paper transmission over electronic transmission—the opposite
+incentive IRS rules should provide. Electronic payments are re-
+ceived more quickly, are cheaper to process, and eliminate the risk
+that a mailed check will be lost or misplaced.
+The Committee on Ways and Means is committed to making fil-
+ing taxpayer-friendly and fair for all taxpayers regardless of how
+they choose to file or make payments. This bill will ensure that tax
+returns and payments filed digitally will now receive the same
+treatment as those sent through the mail instead of being treated
+worse than paper filings.
+C. LEGISLATIVE HISTORY
+Background
+H.R. 1152 was introduced on February 10, 2025, and was re-
+ferred to the Committee on Ways and Means.
+Committee Hearings
+On February 11, 2025, the Committee on Ways and Means held
+a hearing titled, ‘‘IRS Return on Investment and the Need for Mod-
+ernization’’.
+Committee Action
+The Committee on Ways and Means marked up H.R. 1152, the
+‘‘Electronic Filing and Payment Fairness Act’’ on February 12,
+2025, and ordered the bill, as amended, favorably reported (with a
+quorum being present).
+D. DESIGNATED HEARING
+Pursuant to clause 3(c)(6) of rule XIII, the following hearings was
+used to develop and consider H.R. 1152:
+‘‘IRS Return on Investment and the Need for Modernization’’
+on February 11, 2025.
+II. EXPLANATION OF THE BILL
+A. APPLICATION OF MAILBOX RULE TO DOCUMENTS AND PAYMENTS
+ELECTRONICALLY SUBMITTED TO THE INTERNAL REVENUE SERVICE
+(SEC. 2 OF THE BILL AND SEC. 7502(c) OF THE CODE)
+PRESENT LAW
+In general
+Present law defines when a return, claim, statement, or other
+document, or payment sent pursuant to the Internal Revenue Code
+(‘‘Code’’) is considered timely.4 A document generally is considered
+timely filed and payment is considered timely made when the filing
+or payment is received by the Internal Revenue Service (‘‘IRS’’) on
+or before the due date of the return. As discussed in further detail
+below, if the requirements of the Code are met, timely mailing is
+4Sec. 7502(a), Treas. Reg. sec. 301.7502–1(a).
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+4
+treated as timely filing and timely paying, colloquially known as
+the ‘‘mailbox rule.’’5
+If a document or payment is delivered by the United States Post-
+al Service (‘‘USPS’’), the document or payment is considered timely
+if the postmark date falls on or before the prescribed due date, re-
+gardless of when it is deposited in the mail,6 and if it is properly
+packaged and addressed with prepaid postage.7 If the postmark is
+made other than by the USPS, the document or payment is timely
+if the postmark is legible and the agency receives it no later than
+it would normally receive mail of the same class sent through the
+USPS that is postmarked on the prescribed due date.8 If a docu-
+ment or payment is sent by registered mail, the dated registration
+statement is prima facie evidence of delivery and the date of reg-
+istration is deemed the postmark date.9 If a document or payment
+is sent by certified mail, the postmark date is the date stamped on
+the receipt by the postal employee.10 If a document or payment is
+sent by a private delivery service, the Secretary of the Treasury
+(the ‘‘Secretary’’) may deem the delivery service as equivalent to
+the USPS for purposes of the mailbox rule, but only if the service
+is available to the general public, is as timely and reliable as
+USPS, records the date it receives mail for delivery, and meets
+other criteria prescribed by the Secretary.11
+Electronic filings and payments
+The mailbox rule, as set forth in the Code and regulations, does
+not cover electronic payments or electronic filings made other than
+through an electronic return transmitter. Instead, the mailbox rule
+applies only to mail delivered by the USPS, unless otherwise au-
+thorized by the Secretary. For electronic delivery, the Code author-
+izes the Secretary to define the postmark date and evidence of de-
+livery regarding electronic filings, without mention of electronic
+payments.12 Acting under such authorization, the Secretary has
+promulgated rules in the specific case of electronic return transmit-
+ters, deeming the electronic postmark date the date that an author-
+ized electronic return transmitter receives the transmission of a
+taxpayer’s electronically filed document on its host system, regard-
+less of when it is received by the IRS.13
+REASONS FOR CHANGE
+Present law applies the taxpayer-favorable mailbox rule broadly
+to filings and payments sent by U.S. mail, but only to electronic fil-
+ings sent using an electronic return transmitter. This approach cre-
+ates a discrepancy depending on how the item is sent: a mailed fil-
+ing, mailed payment, or electronic return sent through electronic
+return transmitter is deemed to be on time if it is postmarked on
+5Sec. 7502.
+6Sec. 7502(a), Treas. Reg. sec. 301.7502–1(c)(1)(2).
+7Sec. 7502(a)(2)(B), Treas. Reg. sec. 301.7502–1(c)(1)(2).
+8Treas. Reg. sec. 301.7502–1(c)(1)(iii)(B).
+9Sec. 7502(c)(1).
+10Treas. Reg. sec. 301.7502–1(c)(2).
+11Sec. 7502(f), Treas. Reg. sec. 301.7502–1(c)(3). Additionally, special rules apply to deposits
+required to be made to a financial institution. Sec. 7502(e).
+12Sec. 7502(c)(2).
+13Treas. Reg. sec. 301.7502–1(d)(1), (3)(ii). The Commissioner may authorize specific electronic
+return transmitters to provide taxpayers with electronic postmarks to acknowledge the date and
+time that the electronic return transmitter received the electronically-filed document. Treas.
+Reg. sec. 301.7502–1(d)(2).
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+5
+or before the due date, but an electronic payment or electronic fil-
+ing sent other than via electronic return transmitter is timely only
+if received by the IRS on or before the due date. The Committee
+believes that, in order to resolve this discrepancy, the mailbox rule
+should apply broadly to both electronic payments and filings. Addi-
+tionally, while the statute currently authorizes the Secretary to
+apply the mailbox rule to electronic filings, the Committee believes
+this authorization should be extended to electronic payments.
+EXPLANATION OF PROVISION
+The provision defines when a return, claim, statement, or other
+document, or payment sent electronically is considered timely. The
+document or payment is considered timely if the date on which it
+is sent is on or before the due date of the filing or payment, regard-
+less of the date on which the applicable agency, officer, or office re-
+ceives the document or payment. The provision requires the Sec-
+retary to promulgate rules necessary to apply the mailbox rule to
+electronic filing and payments by December 31, 2025.
+EFFECTIVE DATE
+The provision applies to any document or payment sent after De-
+cember 31, 2025.
+III. VOTE OF THE COMMITTEE
+Pursuant to clause 3(b) of rule XIII of the Rules of the House of
+Representatives, the following statement is made concerning the
+vote of the Committee on Ways and Means in its consideration of
+H.R. 1152, the ‘‘Electronic Filing and Payment Fairness Act,’’ on
+February 12, 2025.
+The bill, H.R. 1152 was ordered favorably reported to the House
+of Representatives as amended by a roll call vote of 41 yeas to 0
+nays (with a quorum being present). The vote was as follows:
+Representative Yea Nay Present Representative Yea Nay Present
+Mr. Smith (MO)............................. X ....... ............. Mr. Neal........................................ X ....... .............
+Mr. Buchanan ............................... X ....... ............. Mr. Doggett .................................. X ....... .............
+Mr. Smith (NE) ............................. X ....... ............. Mr. Thompson............................... X ....... .............
+Mr. Kelly........................................ ....... ....... ............. Mr. Larson .................................... X ....... .............
+Mr. Schweikert .............................. X ....... ............. Mr. Davis...................................... X ....... .............
+Mr. LaHood ................................... X ....... ............. Ms. Sa´nchez ................................. X ....... .............
+Mr. Arrington ................................ ....... ....... ............. Ms. Sewell .................................... X ....... .............
+Mr. Estes ...................................... X ....... ............. Ms. DelBene ................................. X ....... .............
+Mr. Smucker ................................. X ....... ............. Ms. Chu........................................ X ....... .............
+Mr. Hern........................................ X ....... ............. Ms. Moore (WI) ............................. X ....... .............
+Mrs. Miller (WV)............................ X ....... ............. Mr. Boyle ...................................... X ....... .............
+Dr. Murphy .................................... X ....... ............. Mr. Beyer ...................................... X ....... .............
+Mr. Kustoff.................................... X ....... ............. Mr. Evans ..................................... X ....... .............
+Mr. Fitzpatrick .............................. X ....... ............. Mr. Schneider ............................... X ....... .............
+Mr. Steube .................................... X ....... ............. Mr. Panetta .................................. X ....... .............
+Ms. Tenney.................................... X ....... ............. Mr. Gomez .................................... ....... ....... .............
+Mrs. Fischbach ............................. X ....... ............. Mr. Horsford ................................. X ....... .............
+Mr. Moore (UT).............................. X ....... ............. Ms. Plaskett ................................. X ....... .............
+Ms. Van Duyne ............................. X ....... ............. Mr. Suozzi..................................... X ....... .............
+Mr. Feenstra ................................. X
+Ms. Malliotakis ............................. X
+Mr. Carey ...................................... X
+Mr. Yakym..................................... X
+Mr. Miller (OH).............................. X
+Mr. Bean ....................................... X
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+6
+Representative Yea Nay Present Representative Yea Nay Present
+Mr. Moran ..................................... X
+IV. BUDGET EFFECTS OF THE BILL
+A. COMMITTEE ESTIMATE OF BUDGETARY EFFECTS
+In compliance with clause 3(d) of rule XIII of the Rules of the
+House of Representatives, the following statement is made con-
+cerning the effects on the budget of the bill, H.R. 1152 as reported.
+The estimate prepared by the Congressional Budget Office (CBO)
+is included below.
+The bill is estimated to have a negligible effect on Federal fiscal
+year budget receipts for the period 2025 through 2034.
+B. STATEMENT REGARDING NEW BUDGET AUTHORITY AND TAX
+EXPENDITURES BUDGET AUTHORITY
+In compliance with clause 3(c)(2) of rule XIII of the Rules of the
+House of Representatives, the Committee states that the bill in-
+volves no new or increased budget authority.
+C. COST ESTIMATE PREPARED BY THE CONGRESSIONAL BUDGET
+OFFICE
+The Congressional Budget Act of 1974, as amended stipulates
+that revenue estimates provided by the staff of the Joint Com-
+mittee on Taxation (‘‘JCT’’) will be the official estimates for all tax
+legislation considered by Congress. As such CBO incorporates these
+estimates into its cos estimates of the effects of the legislation. The
+estimates for the revenue provisions of H.R. 1152 were provided by
+JCT.
+V. OTHER MATTERS TO BE DISCUSSED UNDER THE
+RULES OF THE HOUSE
+A. COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+With respect to clause 3(c)(1) of rule XIII of the Rules of the
+House of Representatives, the Committee made findings and rec-
+ommendations that are reflected in this report.
+B. STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+With respect to clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee advises that the bill does
+not authorize funding, so no statement of general performance
+goals and objectives is required.
+C. APPLICABILITY OF HOUSE RULE XXI, CLAUSE 5(b)
+Rule XXI 5(b) of the Rules of the House of Representatives pro-
+vides, in part, that ‘‘A bill or joint resolution, amendment, or con-
+ference report carrying a Federal income tax rate increase may not
+be considered as passed or agreed to unless so determined by a
+vote of not less than three-fifths of the Members voting, a quorum
+being present.’’ The Committee has carefully reviewed the bill, and
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+7
+states that the bill does not provide such a Federal income tax rate
+increase.
+D. INFORMATION RELATING TO UNFUNDED MANDATES
+This information is provided in accordance with section 423 of
+the Unfunded Mandates Reform Act of 1995 (Pub. L. No. 104–4).
+The Committee has determined that the bill does not contain
+Federal mandates on the private sector. The Committee has deter-
+mined that the bill does not impose a Federal intergovernmental
+mandate on State, local, or tribal governments.
+E. CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND
+LIMITED TARIFF BENEFITS
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the bill, and states that the provisions of the bill do not
+contain any congressional earmarks, limited tax benefits, or limited
+tariff benefits within the meaning of the rule.
+F. DUPLICATION OF FEDERAL PROGRAMS
+In compliance with clause 3(c)(5) of rule XIII of the Rules of the
+House of Representatives, the Committee states that no provision
+of the bill establishes or reauthorizes: (1) a program of the Federal
+Government known to be duplicative of another Federal program;
+(2) a program included in any report from the Government Ac-
+countability Office to Congress pursuant to section 21 of Public
+Law 111–139; or (3) a program related to a program identified in
+the most recent Catalog of Federal Domestic Assistance, published
+pursuant to the Federal Program Information Act (Pub. L. No. 95–
+220, as amended by Pub. L. No. 98–169).
+G. TAX COMPLEXITY ANALYSIS
+Section 4022(b) of the Internal Revenue Service Reform and Re-
+structuring Act of 1998 (the ‘‘IRS Reform Act’’) requires the staff
+of the Joint Committee on Taxation (in consultation with the Inter-
+nal Revenue Service and the Treasury Department) to provide a
+tax complexity analysis. The complexity analysis is required for all
+legislation reported by the Senate Committee on Finance, the
+House Committee on Ways and Means, or any committee of con-
+ference if the legislation includes a provision that directly or indi-
+rectly amends the Internal Revenue Code and has widespread ap-
+plicability to individuals or small businesses.
+The staff of the Joint Committee on Taxation has determined
+that there are no provisions that are of widespread applicability to
+individuals or small businesses.
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+8
+VI. CHANGES IN EXISTING LAW MADE BY THE BILL, AS
+REPORTED
+A. TEXT OF EXISTING LAW AMENDED OR REPEALED BY THE BILL, AS
+REPORTED
+Pursuant to clause 3(e) of rule XIII of the Rules of the House of
+Representatives, the text of each section proposed to be repealed by
+the bill is shown below:
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+INTERNAL REVENUE CODE OF 1986
+* * * * * * *
+Subtitle F—Procedure and Administration
+* * * * * * *
+CHAPTER 77—MISCELLANEOUS PROVISIONS
+* * * * * * *
+SEC. 7502. TIMELY MAILING TREATED AS TIMELY FILING AND PAYING.
+(a) GENERAL RULE.—
+(1) DATE OF DELIVERY.—If any return, claim, statement, or
+other document required to be filed, or any payment required
+to be made, within a prescribed period or on or before a pre-
+scribed date under authority of any provision of the internal
+revenue laws is, after such period or such date, delivered by
+United States mail to the agency, officer, or office with which
+such return, claim, statement, or other document is required to
+be filed, or to which such payment is required to be made, the
+date of the United States postmark stamped on the cover in
+which such return, claim, statement, or other document, or
+payment, is mailed shall be deemed to be the date of delivery
+or the date of payment, as the case may be.
+(2) MAILING REQUIREMENTS.—This subsection shall apply
+only if—
+(A) the postmark date falls within the prescribed period
+or on or before the prescribed date—
+(i) for the filing (including any extension granted for
+such filing) of the return, claim, statement, or other
+document, or
+(ii) for making the payment (including any extension
+granted for making such payment), and
+(B) the return, claim, statement, or other document, or
+payment was, within the time prescribed in subparagraph
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+9
+(A), deposited in the mail in the United States in an enve-
+lope or other appropriate wrapper, postage prepaid, prop-
+erly addressed to the agency, officer, or office with which
+the return, claim, statement, or other document is re-
+quired to be filed, or to which such payment is required to
+be made.
+(b) POSTMARKS.—This section shall apply in the case of post-
+marks not made by the United States Postal Service only if and to
+the extent provided by regulations prescribed by the Secretary.
+(c) REGISTERED AND CERTIFIED MAILING; ELECTRONIC FILING AND
+PAYMENT.—
+(1) REGISTERED MAIL.—For purposes of this section, if any re-
+turn, claim, statement, or other document, or payment, is sent
+by United States registered mail—
+(A) such registration shall be prima facie evidence that
+the return, claim, statement, or other document was deliv-
+ered to the agency, officer, or office to which addressed;
+and
+(B) the date of registration shall be deemed the post-
+mark date.
+(2) CERTIFIED MAIL ø; ELECTRONIC FILING ¿.—The Secretary is
+authorized to provide by regulations the extent to which the
+provisions of paragraph (1) with respect to prima facie evidence
+of delivery and the postmark date shall apply to certified mail
+øand electronic filing¿.
+(3) ELECTRONIC FILING AND PAYMENT.—
+(A) IN GENERAL.—If any return, claim, statement, or
+other document required to be filed, or any payment re-
+quired to be made, within a prescribed period or on or be-
+fore a prescribed date under authority of any provision of
+the internal revenue laws is sent electronically by any per-
+son to the agency, officer, or office with which such return,
+claim, statement, or other document is required to be filed,
+or to which such payment is required to be made, the date
+on which such return, claim, statement, or other document,
+or payment, is sent electronically by such person shall be
+deemed to be the date of delivery or the date of payment,
+as the case may be, regardless of the date on which the ap-
+plicable agency, officer, or office receives or reviews such re-
+turn, claim, statement, document, or payment.
+(B) REGULATIONS.—Not later than December 31, 2025,
+the Secretary shall issue such regulations or other guidance
+as the Secretary determines necessary to carry out the pur-
+poses of this paragraph.
+(d) EXCEPTIONS.—This section shall not apply with respect to—
+(1) the filing of a document in, or the making of a payment
+to, any court other than the Tax Court,
+(2) currency or other medium of payment unless actually re-
+ceived and accounted for, or
+(3) returns, claims, statements, or other documents, or pay-
+ments, which are required under any provision of the internal
+revenue laws or the regulations thereunder to be delivered by
+any method other than by mailing.
+(e) MAILING OF DEPOSITS.—
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+10
+(1) DATE OF DEPOSIT.—If any deposit required to be made
+(pursuant to regulations prescribed by the Secretary under sec-
+tion 6302(c)) on or before a prescribed date is, after such date,
+delivered by the United States mail to the bank, trust com-
+pany, domestic building and loan association, or credit union
+authorized to receive such deposit, such deposit shall be
+deemed received by such bank, trust company, domestic build-
+ing and loan association, or credit union on the date the de-
+posit was mailed.
+(2) MAILING REQUIREMENTS.—Paragraph (1) shall apply only
+if the person required to make the deposit establishes that—
+(A) the date of mailing falls on or before the second day
+before the prescribed date for making the deposit (includ-
+ing any extension of time granted for making such de-
+posit), and
+(B) the deposit was, on or before such second day, mailed
+in the United States in an envelope or other appropriate
+wrapper, postage prepaid, properly addressed to the bank,
+trust company, domestic building and loan association, or
+credit union authorized to receive such deposit.
+In applying subsection (c) for purposes of this subsection, the
+term ‘‘payment’’ includes ‘‘deposit’’, and the reference to the
+postmark date refers to the date of mailing.
+(3) NO APPLICATION TO CERTAIN DEPOSITS.—Paragraph (1)
+shall not apply with respect to any deposit of $20,000 or more
+by any person who is required to deposit any tax more than
+once a month.
+(f) TREATMENT OF PRIVATE DELIVERY SERVICES.—
+(1) IN GENERAL.—Any reference in this section to the United
+States mail shall be treated as including a reference to any
+designated delivery service, and any reference in this section
+to a postmark by the United States Postal Service shall be
+treated as including a reference to any date recorded or
+marked as described in paragraph (2)(C) by any designated de-
+livery service.
+(2) DESIGNATED DELIVERY SERVICE.—For purposes of this
+subsection, the term ‘‘designated delivery service’’ means any
+delivery service provided by a trade or business if such service
+is designated by the Secretary for purposes of this section. The
+Secretary may designate a delivery service under the preceding
+sentence only if the Secretary determines that such service—
+(A) is available to the general public,
+(B) is at least as timely and reliable on a regular basis
+as the United States mail,
+(C) records electronically to its data base, kept in the
+regular course of its business, or marks on the cover in
+which any item referred to in this section is to be deliv-
+ered, the date on which such item was given to such trade
+or business for delivery, and
+(D) meets such other criteria as the Secretary may pre-
+scribe.
+(3) EQUIVALENTS OF REGISTERED AND CERTIFIED MAIL.—The
+Secretary may provide a rule similar to the rule of paragraph
+(1) with respect to any service provided by a designated deliv-
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+11
+ery service which is substantially equivalent to United States
+registered or certified mail.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 02:34 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6611 E:\HR\OC\HR045.XXX HR045
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd

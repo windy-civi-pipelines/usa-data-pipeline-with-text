@@ -1,0 +1,3509 @@
+Title: Ms. MURKOWSKI, from the Committee on Indian Affairs,
+Official Title: Ms. MURKOWSKI, from the Committee on Indian Affairs,
+Number of Sections: 59
+Source: documents - S. Rept. 119-54
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+Calendar No. 139
+119THCONGRESS REPORT
+1st Session " SENATE ! 119–54
+TRUTH AND HEALING COMMISSION ON INDIAN
+BOARDING SCHOOL POLICIES ACT OF 2025
+JULY31, 2025.—Ordered to be printed
+submitted the following
+R E P O R T
+[To accompany S. 761]
+The Committee on Indian Affairs, to which was referred the bill
+(S. 761) to establish the Truth and Healing Commission on Indian
+Boarding School Policies in the United States, and for other pur-
+poses, having considered the same, reports favorably thereon with-
+out amendment and recommends that the bill do pass.
+PURPOSE
+To establish a Truth and Healing Commission on Indian Board-
+ing School Policies (Commission) in the United States within the
+legislative branch to formally investigate, document, and report on
+the impacts and ongoing effects of Indian Boarding Schools Policies
+on Native peoples; to develop recommendations for federal action
+based on the findings of the Commission; and to promote healing
+for the survivors, descendants, and communities affected by Indian
+Boarding Schools.
+BACKGROUND
+Before European contact, Native peoples maintained unique edu-
+cational systems rooted in community and designed to meet the
+needs of their environments and cultures.1 The arrival of Euro-
+peans to North America and the Pacific Islands ushered in an era
+of attempted assimilation of Native peoples into European-Amer-
+1K. Tsianina Lomawaima & Teresa McCarty, To Remain an Indian: Lessons in Democracy
+from a Century of Native American Education (2006).
+59–010
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+2
+ican ways of life.2 Systemic attempts to eliminate Native lan-
+guages, beliefs, and cultures, and end resistance to colonization,
+began as early as the 17th and 18th centuries, with the founding
+of some of the country’s oldest educational institutions.34
+Assimilationist practices and policies through compelled edu-
+cation were not limited to formal institutions. For example, in the
+1780s, Russian fur trading companies in Alaska took Native boys
+hostage, sent them to training schools, and forced them into ser-
+vitude as navigators, interpreters, and seamen.5 In other cases,
+training schools were founded by religious institutions and later
+funded by the federal government. In 1878, Presbyterian mission-
+aries established a day school in Sitka, Alaska, at a former military
+barracks. The Sheldon Jackson School, so called after its founder,
+sought to ‘‘house and educate . . . ‘with the intent to encourage
+Native Americans to adopt Euro-American culture.’’’6 Jackson was
+later named as the Department of the Interior’s first General Agent
+of Education in Alaska in 1885, and in this position, created ‘‘con-
+tract schools’’ in which the federal government contracted with reli-
+gious missionary associations to establish schools in remote villages
+across Alaska.7 Whether carried out in formal educational settings
+or in day, industrial, training, contract, or other schools, the forced
+‘‘education’’ of Native children has a long history in the United
+States that implicates a number of institutions, including the fed-
+eral government, all with the same mission: ‘‘kill the Indian in him,
+and save the man.’’8
+FEDERAL SUPPORT FOR FORCED ASSIMILATION THROUGH EDUCATION
+OF NATIVE CHILDREN
+By the early 1800s, the United States began a campaign of forced
+assimilation under the guise of educating Native youth, formalizing
+the practice after the War of 1812. In 1819, Congress passed the
+Indian Civilization Fund Act to provide for federal oversight of the
+education of Native peoples and to establish an annual ‘‘civilization
+2See generally COHEN’S HANDBOOK OF FEDERAL INDIAN LAW, 22.03[1][a] (2012 ed. & 2019
+Supp.).
+3Indian Education: A National Tragedy, A National Challenge, S. Comm. on Labor and Public
+Welfare, Special Subcomm. on Indian Educ., S. REP. NO. 91–501 (1969) (highlighting examples
+such as King James IV of Scotland (James I of England) calling for Anglican clergy to fund the
+education of the ‘‘children of these Barbarians in Virginia’’ in 1617). See also Harvard University
+Charter of 1650 (1650), https://guides.library.harvard.edu/c.php?g=880222&p=6323072 (‘‘[for pur-
+poses of, among other things] the education of the English and Indian youth of this country,
+in knowledge and godliness’’); Royal Charter establishing the College of William & Mary in Vir-
+ginia (1693), https://scrc-kb.libraries.wm.edu/royal-charter#Transcription+of+the+Royal+Charter
+(establishing the college so that, among other things, ‘‘the Christian faith may be propagated
+amongst the Western Indians’’).
+4Dartmouth College Charter (1769), https://www.library.dartmouth.edu/digital/digital-
+collections/dartmouth-college-charter/read (establishing the ‘‘design of spreading Christian
+knowledge among the savages of our American wilderness’’ by means of ‘‘education and instruc-
+tion of youth of the Indian tribes . . . which shall appear necessary and expedient for civilizing
+and christianizing children of pagans’’); see Colin Calloway, The Indian History of an American
+Institution: Native Americans at Dartmouth (2010); see also Stephen W. Haycox, Alaska: An
+American Colony 146 (2002).
+5Svetlana G. Fedorova, The Russian Population in Alaska and California Late 18th Century—
+1867 242–243 (Richard A. Pierce et al., ed. & trans., 1973). Following admission to statehood,
+some former Russian schools in Alaska continued to operate through church parishes. Id. at 266.
+6NAT’LPARKSERV. NATIONALHISTORICLANDMARKNOMINATION, SHELDONJACKSONSCHOOL
+(2001) at 5.
+7Stephen W. Haycox, Sheldon Jackson in Historical Perspective: Alaska Native Schools and
+Mission Contracts, 1885–1894, 28 THEPAC. HIST. 1, 18–28 (1984).
+8See Captain R.H. Pratt, The Advantages of Mingling Indians with Whites, in AMERICANIZING
+THE AMERICAN INDIANS: WRITINGS BY THE ‘‘FRIENDS OF THE INDIAN,’’ 1880–1900 (Francis Paul
+Prucha ed., 1973).
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+3
+fund’’ of $10,000 per year for the purposes of converting them to
+European ways of living, speaking, and acting.9 Most of these
+funds were provided to churches and their mission schools;10 in
+Hawai‘i, missionaries from the United States established day
+schools and boarding schools primarily aimed at ‘‘civilizing’’ and
+converting Native Hawaiians to Christianity.11 Over time, the fed-
+eral government centralized administration of Indian educational
+efforts under the Commission of Indian Affairs within the Depart-
+ment of the Interior (DOI), the successor in jurisdiction to the De-
+partment of War.12 By 1838, the federal government operated 16
+manual training schools with approximately 800 Native students,
+and 87 boarding schools with approximately 2,900 Native stu-
+dents.13 The policies of these schools were rooted in a belief that
+Native peoples were ‘‘barbarous and heathen . . . [and] ‘wedded to
+savage habits, customs, and prejudices’’’ which could be ‘‘cured’’
+through manual training and labor.14
+Accordingly, in 1879, the federal government opened one of the
+first off-reservation Indian boarding schools, the Carlisle Indian In-
+dustrial School (Carlisle School), in an abandoned U.S. Army bar-
+racks in Carlisle, Pennsylvania.15 General Richard Henry Pratt, an
+Army officer and founder of the Carlisle School, established a
+‘‘rapid coercive assimilation’’ approach that became the model for
+the federal Indian boarding school system, and required ‘‘severe
+[military] discipline . . . to separate a child from his reservation
+and family, strip him of tribal lore and mores, force the complete
+abandonment of his native language, and prepare him in such a
+way that he would never return to his people.’’16 General Pratt’s
+approach at the Carlisle School was rooted in his experience with
+American Indians held as prisoners of war at the Hampton Normal
+and Agricultural Institute (Hampton School),17 which is regarded
+as the nation’s first residential experiment in educating American
+Indians as a means of preparing them for citizenship.18 The Hamp-
+ton School’s founder, General Samuel C. Armstrong, was influenced
+by his parents and other missionaries in Hawai‘i who were in-
+volved in the education of Native Hawaiian children. Believing that
+9Act of March 3, 1819, ch. 85, 3 Stat. 516 (codified at 25 U.S.C. §271). Annual appropriations
+to fund Indian education continued under the Indian Civilization Fund Act until repealed in
+1873 by the Act of Feb. 14, 1873, Ch. 138, 17 Stat. 437, 461. See generally COHEN’SHANDBOOK
+OFFEDERALINDIANLAW, 22.03[1][a] at 1329–30 & n.6.
+10See S. REP. NO. 91–501 at 11, 143 (1969).
+11See U.S. DEP’TOFTHEINTERIOR, FEDERALINDIANBOARDINGSCHOOLINITIATIVEINVESTIGA-
+TIVE REPORT (2022) (‘‘In 1836 . . . missionaries formed the Hilo Boarding School . . . [t]he
+Charter of the Hilo Boarding School . . . required schooling of Native Hawaiian male children
+in . . . Christian living . . . coupled with manual labor to promote good citizenship training.’’).
+12See Letter from John C. Calhoun, U.S. Sec’y of War, to Thomas L. McKenney (Mar. 11,
+1824), in H.R. DOC. NO. 19–146, at 6 (1826); 25 U.S.C. §1; Act of July 9, 1832, Ch. 174, 4 Stat.
+
+Section 2:
+564.
+13S. REP. NO. 91–501, at 11 (1969).
+14Id. at 8.
+15Id. at 147.
+16Id. at 148.
+17Jon L. Brudvig, ‘‘Make Haste Slowly:’’ The Experiences of American Indian Women at Hamp-
+ton Institute, 1878–1923 1 (2005), https://www.se.edu/native-american/wp-content/uploads/sites/
+49/2019/09/Proceedings-2005-Brudvig.pdf (‘‘Hampton . . . was established in 1868 to serve the
+. . . needs of recently emancipated slaves . . . American Indian students [formerly prisoners
+of war] came to Hampton . . . [and] their presence . . . spawned the development of off-reserva-
+tion [Indian] boarding schools’’).
+18Id.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+4
+‘‘the Polynesian, like the Negro, suffered from a ‘deficiency of char-
+acter,’’’19
+General Armstrong modeled the Hampton School after the Hilo
+Boys’ Boarding School in Hawai‘i, a missionary-run boarding school
+established to primarily convert Native Hawaiians to Christianity
+and, ultimately, ‘‘civilize’’ them through manual labor and train-
+ing.20 The Hampton School continued as a boarding school for
+American Indians, Alaska Natives, and Native Hawaiians until
+
+Section 3:
+1923.21
+As mission-run boarding schools expanded their reach through-
+out the country and to the Hawai‘i territory, in 1891 Congress au-
+thorized the Commissioner of Indian Affairs to promulgate regula-
+tions ‘‘to secure the attendance’’ of Indian children at such
+schools.22 These regulations applied to all Indian children between
+the ages of eight and eighteen (whether living on or off-reserva-
+tion), permitted the use of law enforcement to compel attendance,
+and authorized the withholding of clothes, rations, and other annu-
+ities from non-compliant parents or guardians.23 Some Indians,
+such as the Hopis in Arizona, opposed the forced education of their
+children to the point that they were labeled ‘‘hostiles,’’ arrested,
+and jailed at Alcatraz Island in California for nearly a year.24 The
+overarching federal goal of compelled schooling was to reduce the
+cost of fighting with Indian Tribes and, ultimately, dispossess them
+of their homelands through the complete elimination of their lan-
+guages, cultures, religions, and social bonds.25
+Once at the schools, Native children were subject to systematic
+violence, including corporal and psychological punishment such as
+shaving heads to remove traditional hairstyles; confinement; flog-
+ging and whipping for speaking a Native language or engaging in
+other prohibited conduct; handcuffing; having older children punish
+younger ones; sexual abuse; neglect; and malnourishment.26 In
+some cases, children would be ‘‘lent’’ to nearby communities or ad-
+jacent states to work as servants and farm laborers, in what were
+commonly known as ‘‘outing programs.’’27 Placement at these
+schools led to disease, death, and the fraying of Native languages,
+19Ralph Canevali, Hilo Boarding School: Hawai‘i’s Experiment in Vocational Education 92
+(1977), https://core.ac.uk/download/pdf/5014889.pdf.
+20C. Kalani Beyer, The Connection of Samuel Chapman Armstrong as Both Borrower and Ar-
+chitect of Education in Hawai‘i (2007), https://www.cambridge.org/core/journals/history-of-
+education-quarterly/article/abs/connection-of-samuel-chapman-armstrong-as-both-borrower-and-
+architect-of-education-in-hawaii/15E99DC33C913D9485CE7773D158C046.
+21See generally Ralph Canevali, Hilo Boarding School: Hawai‘i’s Experiment in Vocational
+Education (1977), https://core.ac.uk/download/pdf/5014889.pdf.
+22Act of March 3, 1891, ch. 543, 26 Stat. 989, 1014.
+23Act of March 3, 1891, Ch. 543, 26 Stat. 989, 1035. See S. REP. NO. 91–501 at 151 (1969):
+U.S. CONG. SERIALSET, VOL. 2934, at 158–159 (1891); 25 U.S.C. §283.
+24National Park Service, Hopi Prisoners on the Rock, https://www.nps.gov/articles/hopi-pris-
+oners-on-the-rock.htm (last visited Mar. 31, 2025); National Park Service, The Army and Amer-
+ican Indian Prisoners, https://www.nps.gov/articles/the-army-and-american-indian-prisoners.htm
+(last visited Mar. 31, 2025).
+25Legislative Hearing on H.R. 5444, Truth and Healing Commission on Indian Boarding
+Schools Policies Act Before the Subcomm. on Indigenous Peoples of the H. Comm. on Nat. Res.,
+117th Cong. (2022) (statement of Deborah Parker, Nat’l Native Boarding School Healing Coali-
+tion).
+26U.S. DEP’TOFTHEINTERIOR, FEDERALINDIANBOARDINGSCHOOLINITIATIVEINVESTIGATIVE
+REPORTVOL. I, 7–8 (2022).
+27See, e.g., Kevin Whalen, Beyond School Walls: Race, Labor, and Indian Education in South-
+ern California, 1902–1940 (2014) (Ph.D. dissertation, University of California Riverside); Kevin
+Whalen, NATIVESTUDENTSATWORK: AMERICANINDIANLABORANDSHERMANINSTITUTE’SOUT-
+INGPROGRAM, 1900–1945 (University of Washington Press 2018).
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+5
+cultural and religious practices, and social life;28 the physical and
+psychological effects of these experiences created lasting intergen-
+erational trauma for survivors and their families.29
+Compounding such cruelty, official school policies (or in some
+cases, simple geography) kept children and their parents and fami-
+lies apart. In an 1886 report to the Secretary of the Interior, Indian
+School Superintendent John B. Riley wrote, ‘‘[i]f it be admitted that
+education affords the true solution to the Indian problem, then it
+must be admitted that the boarding school is the very key to the
+situation.’’30 Riley went on to say, ‘‘[o]nly by complete isolation of
+the Indian child from his savage antecedents can he be satisfac-
+torily educated . . . .’’31 Such techniques were also used by mis-
+sion-run schools. For example, in 1887, an Alaska Native mother
+sought a writ of habeas corpus to free her child from a government-
+funded Presbyterian Boarding School in Sitka, Alaska. While the
+judge allowed limited visitation, he required the child to stay at the
+school, writing, ‘‘It is the experience of those who have been en-
+gaged in these Indian schools that, to make them effectual as dis-
+seminators of civilization, Indian children should, at a tender and
+impressionable age, be entirely withdrawn from the camp, and
+placed under the control of these schools. [Allowing parents to take
+their children home] would render all efforts of both the govern-
+ment and missions to civilize them abortive.’’32
+According to DOI’s Federal Indian Boarding School Initiative Re-
+port Volume II, as of July 2024, the federal government supported
+or operated at least 41733 Indian boarding schools between 1819
+and 1969, across 37 states or then-territories.34 The total number
+of Native children who attended these schools is unknown, but
+many did not survive and their remains never returned home. The
+Department of the Interior concluded that, based on available
+records, 973 Indian child deaths were documented across the fed-
+eral Indian boarding school system between 1819–1969, but ac-
+knowledged that that number is much greater due to incomplete
+28See supra notes 7 & 26; see also, Juliet Larking-Gilmore, Homesick: Disease and Distance
+in American Indian Boarding Schools, REMEDIA (Nov. 18, 2016), https://
+remedianetwork.wordpress.com/2016/11/18/homesick-disease-and-distance-in-american-indian-
+boarding-schools/; Legislative Hearing on H.R. 5444, Truth and Healing Commission on Indian
+Boarding Schools Policies Act Before the Subcomm. on Indigenous Peoples of the H. Comm. on
+Nat. Res., 117th Cong. (2022) (statement of James LaBelle Sr., National Native Boarding School
+Healing Coalition); Legislative Hearing on H.R. 5444, Truth and Healing Commission on Indian
+Boarding Schools Policies Act Before the Subcomm. on Indigenous Peoples of the H. Comm. on
+Nat. Res., 117th Cong. (2022) (statement of Matthew War Bonnet, boarding school survivor).
+29See e.g., Legislative Hearing on H.R. 5444, Truth and Healing Commission on Indian Board-
+ing Schools Policies Act Before the Subcomm. on Indigenous Peoples of the H. Comm. on Nat.
+Res., 117th Cong. (2022) (statement of James LaBelle Sr., National Native Boarding School
+Healing Coalition); Legislative Hearing on H.R. 5444, Truth and Healing Commission on Indian
+Boarding Schools Policies Act Before the Subcomm. on Indigenous Peoples of the H. Comm. on
+Nat. Res., 117th Cong. (2022) (statement of Matthew War Bonnet, boarding school survivor);
+Amy Bombay et al., The Intergenerational Effects of Indian Residential Schools: Implications for
+the Concept of Historical Trauma, 51 Transcultural Psychiatry 3 (2014); Hope MacDonald Lone-
+tree, Healing from the Trauma of Federal Residential Indian Boarding Schools, ADMINISTRATION
+FOR CHILDREN AND FAMILIES (Nov. 24, 2021), https://www.acf.hhs.gov/blog/2021/11/healing-
+trauma-federal-residential-indian-boarding-schools.
+30Annual Report of the Indian School Superintendent to the Secretary of the Interior 137
+(1886).
+31Id.
+32In re Can-ah-couqua, 29 F. 687, 690 (D. Alaska 1887).
+33U.S. DEP’TOFTHEINTERIOR, FEDERALINDIANBOARDINGSCHOOLINITIATIVEINVESTIGATIVE
+REPORTVOL. II (2024).
+34Id., 92 (reporting 22 schools in Alaska, 7 in Hawai‘i, 12 in Kansas, 21 in Minnesota, 16
+in Montana, 3 in Nevada, 43 in New Mexico, 12 in North Dakota, 76 in Oklahoma, 30 in South
+Dakota, and 15 in Washington).
+VerDate Sep 11 2014 01:28 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+6
+information.35 Recent reports estimate that more than 3100 Native
+students died while attending an Indian boarding school between
+1828 and 1970.36
+FEDERAL INVESTIGATIONS INTO INDIAN EDUCATION37
+The Problem of Indian Administration (Meriam Report)—1928
+On June 12, 1926, Secretary of the Interior Huber Work commis-
+sioned the Institute for Government Research, later renamed the
+Brookings Institute, to conduct a comprehensive survey of Indian
+affairs in the United States.38 The survey, named the ‘‘Meriam Re-
+port’’ after its author, focused on a number of areas, including in-
+dustrial, social, and medical activities, property rights, economic
+conditions, and education of Indian peoples. The Meriam Report
+compared these activities as carried out within the DOI’s Office of
+Indian Services to similar programs implemented by other federal
+agencies.
+Generally, the Meriam Report exposed Interior’s ineffective and
+inadequate oversight of Indian affairs, finding that ‘‘an over-
+whelming majority of the Indians are poor, even extremely poor
+. . .’’ and suffer from a ‘‘vicious circle of poverty. . . .’’39 On Indian
+education, and boarding schools specifically, the Meriam Report
+concluded that ‘‘the provisions for the care of the Indian children
+in boarding schools are grossly inadequate,’’ and that ‘‘even at the
+best schools these sources do not fully meet the requirements for
+the health and development of the children. At the worst schools,
+the situation is serious in the extreme.’’40 It specified four general
+deficiencies in Indian education at the time: inappropriate peda-
+gogy;41 lack of funds;42 lack of personnel;43 and lack of qualified
+personnel.44 These findings provided a foundation for the passage
+of the Johnson O’Malley Act45 and the Indian Self Determination
+and Education Assistance Act of 1975, which expressed Congres-
+sional intent to return Tribal control of, and expand self-determina-
+tion in, the education of Native children with federal funds.46
+Indian Education: A National Tragedy—A National Challenge
+(Kennedy Report)—1969
+In 1967, the United States Senate established the Special Sub-
+committee on Indian Education within the Committee on Labor
+and Public Welfare, and specifically authorized it to examine, in-
+vestigate, and make a complete study of all matters pertaining to
+35Id., 15–16.
+36Dana Hedgpeth et al., More Than 3,100 Students Died at Schools Built to Crush Native
+American Cultures, Wash. Post (Dec. 22, 2024), https://www.washingtonpost.com/investigations/
+interactive/2024/native-american-deaths-burial-sites-boarding-schools/.
+37See Indian Education: A National Tragedy, A National Challenge, S. Comm. on Labor and
+Public Welfare, Special Subcomm. on Indian Educ., S. REP. NO. 91–501 (1969). Although not
+explicitly focused on Indian Boarding Schools, in 1928 and again in 1969, DOI and the U.S. Sen-
+ate, respectively, conducted investigations into the state of Indian education in the United
+States.
+38Lewis Meriam, Institute for Government Research, The Problem of Indian Administration
+(1928) [hereinafter Meriam Report].
+39Id. at 11.
+40Meriam Report at 12.
+41Id. at 346.
+42Id. at 347.
+43Id.
+44Id.
+4525 U.S.C. §5342 et seq. (1934).
+4625 U.S.C. §5301 et seq. (1975).
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+7
+the education of Indian children and related issues.47 For over two
+years, the Subcommittee held hearings, conducted document-based
+research, and traveled throughout Indian Country. Its final report,
+known as the Kennedy Report, contained 60 recommendations and
+concluded that Indian education was a failure and a ‘‘national trag-
+edy.’’ The Kennedy Report led to enactment of the Indian Edu-
+cation Act of 1972, landmark legislation that established the U.S.
+Department of Education’s Office of Indian Education and the Na-
+tional Advisory Council on Indian Education.48
+EXECUTIVE ACTIONS REGARDING INDIAN BOARDING SCHOOLS
+Department of the Interior Federal Indian Boarding School Initia-
+tive
+On June 22, 2021, Secretary of the Interior Deb Haaland di-
+rected DOI, under the supervision of the Assistant Secretary—In-
+dian Affairs, to investigate and prepare a report detailing the im-
+pacts of the federal Indian Boarding School Policies that operated
+between 1819 and 1969.49 The first volume of the investigative re-
+port, released on May 11, 2022, documents and affirms that the
+United States targeted American Indian, Alaska Native, and Na-
+tive Hawaiian children as part of its assimilation and territorial
+dispossession efforts.50 It presents evidence that the Federal Indian
+Boarding School system engaged in systematic, militarized, and
+identity-altering practices51 to culturally assimilate American In-
+dian, Alaska Native, and Native Hawaiian children as a ‘‘cost sav-
+ing’’ method to decrease the likelihood of war with Native nations
+and ultimately dispossess them of their lands.52 In light of such
+evidence, the Assistant Secretary—Indian Affairs recommended
+inter alia that the DOI ‘‘renounce forced assimilation of Indian
+Tribes, Alaska Native Villages, and the Native Hawaiian Commu-
+nity as a legitimate policy objective,’’ as well as produce a second
+report, with additional investigation that includes a full accounting
+of federal support for the federal Indian Boarding School system.53
+In 2023, Secretary Haaland and Assistant Secretary Newland con-
+ducted a 12-stop ‘‘Road to Healing’’ listening tour in ten states to
+acknowledge and address the historical trauma caused by federal
+Indian Boarding Schools. Throughout the tour, survivors and de-
+scendants shared personal accounts and testimonies of abuse, ne-
+glect and cultural suppression. The U.S. Department of the Interior
+released the second and final volume of its Federal Indian Board-
+ing School Investigative Report on July 17, 2024. This final report
+updated the number of federal Indian Boarding Schools to 417 in-
+stitutions across 37 states or then-territories; documented at least
+47S. Res. 165, 90th Cong. (1967).
+48Indian Education: A National Tragedy, A National Challenge, S. Comm. on Labor and Pub-
+lic Welfare, Special Subcomm. on Indian Educ., S. REP. NO. 91–510, at 105–136 (1969).
+49Memorandum from the Sec’y of the Interior to Assistant Sec’ys, Principal Deputy Assistant
+Sec’ys, Heads of Bureaus, and Offices (Jun. 22, 2021) (on file with the U.S. Dep’t of the Interior),
+https://doi.gov/sites/doi.gov/files/secint-memo-esb46-01914-federal-indian-boarding-school-truth-
+initiative-2021-06-22-final508-1.pdf.
+50U.S. DEP’TOFTHEINTERIOR, FEDERALINDIANBOARDINGSCHOOLINITIATIVEINVESTIGATIVE
+REPORT, VOL. I 5 (2022).
+51Id. at 7 (Such practices included renaming children in English, cutting their hair, discour-
+aging or preventing the use of Native languages and religious and cultural practices, organizing
+children into units to perform military-style drills, and employing various forms of corporal and
+psychological punishment).
+52Id. at 37, 38.
+53Id. at 95, 97.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+8
+973 Native children died while attending federally operated or sup-
+ported Indian boarding schools; confirmed the existence of at least
+74 marked and unmarked burial sites at 65 different school loca-
+tions, and found the U.S. government appropriated over $23.3 bil-
+lion (in 2023 inflation-adjusted dollars) between 1871 and 1969 for
+the operation of federal Indian Boarding School system and related
+federal assimilation policies.54 The final report also provided rec-
+ommendations to the federal government, which included calling
+for an official apology.55 On October 25, 2024, President Biden
+issued a formal apology for the U.S. government’s role in operating
+Indian boarding schools, acknowledging the profound harm in-
+flicted on Native communities over a 150-year period that stripped
+Native children of their languages and cultures.56
+TRUTH AND RECONCILIATION ACTIVITIES IN NORTH AMERICA
+UNITED STATES
+National Native American Boarding School Healing Coalition
+The National Native American Boarding School Healing Coali-
+tion (NABS) was formed in 2011 to develop a national strategy to
+raise public awareness of federal Indian Boarding School policies
+and support healing for survivors, their families, and commu-
+nities.57 Comprised of over 1,200 Native and non-Native members
+and organizations, NABS conducts historic and contemporary re-
+search and engages in public education and advocacy.
+Notably, NABS maintains a first of its kind ‘‘National Indian
+Boarding School Digital Archive’’ platform of digitized records and
+collections documenting information related to Indian Boarding
+Schools, as well as an interactive map showing the locations of
+each of the 526 Indian Boarding Schools identified to date.58 NABS
+also collaborates with organizations, including Canada’s National
+Centre for Truth and Reconciliation and the National Indian Edu-
+cation Association, to develop culturally-based curriculum for edu-
+cators, and works with the American Indian College Fund to pro-
+vide scholarships to descendants of former Indian Boarding School
+students. And, through a grant from the DOI, NABS is building a
+record of survivor testimony through an oral history project to doc-
+ument the experiences of boarding school survivors and promote
+healing.59
+As the leading advocacy organization dedicated to understanding
+and addressing the legacy of federal Indian Boarding School poli-
+54U.S. DEP’TOFTHEINTERIOR, FEDERALINDIANBOARDINGSCHOOLINITIATIVEINVESTIGATIVE
+REPORTVOL. II (2024).
+55Id. at 22.
+56Dana Hedgpeth, Sara Horwitz and Toluse Olorunnipa, ‘I formally apologize’: Biden con-
+demns U.S. Indian Boarding Schools, WASH POST (October 25, 2024), https://
+www.washingtonpost.com/investigations/2024/10/25/biden-apology-indian-boarding-schools/
+?utm_source=chatgpt.com.
+57See THE NATIONAL NATIVE AMERICAN BOARDING SCHOOL HEALING COALITION, https://
+boardingschoolhealing.org/ (last visited Mar. 31, 2025).
+58Interactive Digital Map of Indian Boarding Schools, THE NATIONAL NATIVE AMERICAN
+BOARDING SCHOOL HEALING COALITION, https://boardingschoolhealing.org/digitalmap/ (last vis-
+ited Mar. 31, 2025).
+59Press Release, U.S. Department of the Interior, Interior Department Launches Effort to
+Preserve Federal Indian Boarding School Oral History (Sept. 6, 2023) https://www.doi.gov/
+pressreleases/interior-department-launches-effort-preserve-federal-indian-boarding-school-oral.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+9
+cies,60 NABS has provided extensive testimony and subject matter
+expertise to Congress about the need for legislation to create a fed-
+eral commission to fully investigate, document, and acknowledge
+these policies, and to promote healing for survivors, families, and
+communities that were affected.61
+Maine-Wabanaki Truth and Reconciliation Commission
+In 2012, the Wabanaki Confederacy62 and Maine Governor Paul
+LePage signed a mandate establishing the first Tribal-State Truth
+and Reconciliation Commission: the Maine-Wabanaki Truth and
+Reconciliation Commission (MWTRC).63 The MWTRC’s purpose
+was to address the high rates at which Indian children were being
+removed from Indian homes and placed in foster care following en-
+actment of the Indian Child Welfare Act of 1978.64 Between Feb-
+ruary 2013 and June 2015, the MWTRC engaged in a truth-seeking
+process by interviewing over 150 people and traveling to numerous
+villages and communities to receive testimony. In June 2015, the
+MWTRC published its final report, which included sixteen findings
+and fourteen recommendations for future action.65
+Alaska Native Heritage Center: Lach’qu Sukdu Research Program
+In 2021, the Alaska Native Heritage Center (ANHC) created an
+Indigenous-led research program, Lach’qu Sukdu (‘‘True Story’’ in
+the Dena’ina language), to investigate the Alaska’s Indian boarding
+schools and institutions, among other goals. Such research includes
+identifying the scope of the system, location of schools and children
+buried on these sites, and identification of children who were part
+of the system. To date, Lach’qu Sukdu has identified over 100 sites
+of former Indian boarding schools or institutions in Alaska.
+ANHC’s Lach’qu Sukdu provides a place for Alaska Native peo-
+ple to share information concerning assimilative boarding schools
+in Alaska, increases access to information and education, supports
+Alaska Native culture and heritage, and promotes healing through
+the recognition of the history and impacts of assimilative boarding
+schools. Lach’qu Sukdu is partnering with ecclesial institutions,
+providing access to Alaska Native community members, and
+leveraging research and curatorial staff to catalogue primary
+60See, THE NATIONAL NATIVE AMERICAN BOARDING SCHOOL HEALING COALITION, 2023 AN-
+NUAL REPORT 5 (2023), https://boardingschoolhealing.org/wp-content/uploads/2024/04/Annual-
+Report-NABS-2023_V2.pdf.
+61See, e.g., Legislative Hearing on H.R. 5444, Truth and Healing Commission on Indian
+Boarding Schools Policies Act Before the Subcomm. on Indigenous Peoples of the H. Comm. on
+Nat. Res., 117th Cong. (2022); Oversight Hearing on ‘‘Volume 1 of the Department of the Inte-
+rior’s Federal Indian Boarding School Initiative Investigative Report’’ and Legislative Hearing
+on S. 2907 Before the S. Comm. on Indian Affs., 117th Cong. (2022).
+62FOUR DIRECTIONS, https://fourdirectionsmaine.org/about-four-directions/wabanaki-tribes/
+(last visited Mar. 31, 2025) (the Wabanaki Confederacy is a confederation of Eastern Algonquin
+Nations and includes the Aroostook Band of Micmacs, the Houlton Band of Maliseet Indians,
+the Passamaquoddy Tribe at Motahkmikuk (Indian Township), the Passamaquoddy Tribe at
+Sipayik (Pleasant Point), and the Penobscot Indian Nation).
+63MAINE WABANAKI-STATE CHILD WELFARE TRUTH AND RECONCILIATION COMMISSION MAN-
+DATE(June 29, 2012) (on file with the Senate Committee on Indian Affairs) [hereinafter MAINE
+TRC].
+64Id. Because of the terms of the Maine Indian Claims Settlement Act (P.L. 96–420), the ap-
+plication of the Indian Child Welfare Act to Tribes in Maine varies among the Maine Tribes.
+See Remote Legislative Hearing, House Natural Resources Subcommittee for Indigenous Peoples
+of the United States, 117th Cong. (2022).
+65Maine Wabanaki-State Child Welfare Truth and Reconciliation Commission, Report, BE-
+YOND THE MANDATE: CONTINUING THE CONVERSATION (2015), https://
+d3n8a8pro7vhmx.cloudfront.net/mainewabanakireach/pages/17/attachments/original/1468974047/
+TRC-Report-Expanded_July2015.pdf?1468974047.
+VerDate Sep 11 2014 01:28 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+10
+source material, conduct interviews, and map school locations.
+Through these inputs and activities, Lach’qu Sukdu will promote
+accurate representations of the Alaska Native experience of Fed-
+eral Indian Boarding Schools, create new models to facilitate heal-
+ing from historical trauma, and over the long-term improve lin-
+guistic and cultural revitalization and promote reconciliation be-
+tween Alaska Native communities and assimilative institutions.66
+First Alaskans Institute—Alaska Truth, Racial Healing and Trans-
+formation Movement
+Starting in 2017, the First Alaskans Institute, in partnership
+with Truth, Racial Healing and Transformation: Alaska, developed
+a relational platform for transformation, including a network of ac-
+countability partners to support efforts related to Indigenous lan-
+guage education, transformation of public education, and the ad-
+vancement of policies that center Alaska Native stewardship and
+protect Alaska Native ways of being.67
+The Truth, Racial Healing and Transformation: Alaska move-
+ment incorporates the knowledge and vision of Alaska Native heal-
+ers to foster healing and connectedness for thriving communities.68
+In connection with this movement, the First Alaskans Institute
+trained media outlets on racial equity, invited them to be account-
+ability partners, and developed a ‘‘How We Heal Toolkit’’ to guide
+healing and reconciliation processes.69 The toolkit is based on ad-
+vice from traditional healers about how to prepare for truth telling
+gatherings, including preparation of the gathering place, resources,
+and participants; how to support participants as they go through
+the truth telling process; and how to incorporate ancestral wisdom,
+cultures, and traditions.
+California Truth & Healing Council
+In 2019, the State of California established the California Truth
+& Healing Council to witness, record, and examine existing docu-
+mentation of, and receive California Native American narratives
+on, the historical relationship between California Native Americans
+and the State, and to clarify the historical record of that relation-
+ship in the spirit of truth and healing.70 The Council is led and
+convened by the Governor’s Tribal Affairs Secretary—a position
+currently held by an enrolled member of a California Tribe71—and
+is governed by a Council of Tribal leaders representing Central,
+Eastern, Northern, and Southern California.72
+By 2025, the Council will submit a final written report of find-
+ings that will reflect a holistic understanding of the historical rela-
+tionship between California Native Americans and the State, may
+66ALASKA NATIVE HERITAGE CENTER, Cultural Programming, https://www.alaskanative.net/
+learn/cultural-programming/ (last visited Mar. 31. 2025) (on file with on file with the Senate
+Committee on Indian Affairs).
+67W.K KELLOGG FOUNDATION, Truth, Racial Healing & Transformation, https://
+healourcommunities.org/ (last visited Apr. 1, 2025).
+68First Alaskans Institute, How We Heal Toolkit: Communities and Collective (2019), https://
+boardingschoolhealing.org/wp-content/uploads/2019/05/First-Alaskans-THRT-Toolkit.pdf.
+69Id.
+70Cal. Exec. Order No. N–15–19 (June 18, 2019), https://www.gov.ca.gov/wp-content/uploads/
+2019/06/6.18.19-Executive-Order.pdf.
+71See GOVERNOR’S OFFICE OF TRIBAL AFFAIRS, Tribal Affairs Secretary, https://
+tribalaffairs.ca.gov/tribal-affairs-secretary/ (last visited Mar. 8, 2024).
+72California Truth & Healing Council, Charter of the California Truth & Healing Council
+(2020), Ch. II, Art. 3, https://cthcupdates.files.wordpress.com/2021/05/cthc-charter_final.pdf.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+11
+include recommendations aimed at reparation and restoration, and
+may consider how to prevent similar depredations and policies in
+the future.73
+Federal Reconciliation Efforts with the Native Hawaiian Commu-
+nity
+In 1993, on the 100th anniversary of the overthrow of the King-
+dom of Hawai‘i, the United States formally apologized and com-
+mitted to a process of reconciliation with Native Hawaiians by ac-
+knowledging its actions to usurp their sovereignty over land and
+natural resources and their right to self-determination through the
+overthrow and eventual annexation by the United States.74 A Joint
+Resolution of Congress75 recognized that the overthrow resulted in
+the suppression of Native Hawaiians’ ‘‘inherent sovereignty’’ and
+deprived them of their ‘‘rights to self-determination’’ and that
+‘‘long-range economic and social changes in Hawai‘i over the nine-
+teenth and early twentieth centuries have been devastating to the
+population and to the health and well-being of the Hawaiian peo-
+ple.’’76 It further recognized that ‘‘the Native Hawaiian people are
+determined to preserve, develop, and transmit to future genera-
+tions their ancestral territory and their cultural identity in accord-
+ance with their own spiritual and traditional beliefs, customs, prac-
+tices, language, and social institutions.’’77 In light of these findings,
+Congress ‘‘express[ed] its commitment to acknowledge the ramifica-
+tions of the overthrow of the Kingdom of Hawai‘i, in order to pro-
+vide a proper foundation for reconciliation between the United
+States and the Native Hawaiian people.’’78
+Accordingly, following a series of hearings and meetings with the
+Native Hawaiian community in 1999, the DOI and Department of
+Justice issued ‘‘From Mauka to Makai: The River of Justice Must
+Flow Freely,’’ a report on the reconciliation process between the
+federal government and Native Hawaiians. The report concluded
+that ‘‘the past history of the United States-Native Hawaiian rela-
+tions reveals many instances in which the United States actions
+were less than honorable. Native Hawaiians continue to suffer the
+effects of these actions, for which our Nation continues to have
+moral responsibility,’’ and recommended that, ‘‘[f]or justice to be
+served, past wrongs suffered by the Native Hawaiian people should
+be addressed . . . through . . . efforts to promote the welfare of
+the Native Hawaiian people, respect their rights, and address the
+wrongs that their community has suffered . . . to ensure true rec-
+onciliation.’’79
+73GOVERNOR’S OFFICE OF TRIBAL AFFAIRS, About the California Truth & Healing Council,
+https://tribalaffairs.ca.gov/cthc/about/ (last visited May 29, 2025). (As of May 29, 2025, no final
+report has been submitted).
+74See generally COHEN’SHANDBOOKOFFEDERALINDIANLAW, 4.07[4][a]–[c] (2012 ed. & 2023
+Supp.) (providing overview and historical background of Kingdom of Hawai‘i and federal rela-
+tionship with Native Hawaiians as a result of the overthrow).
+75The Apology Resolution of 1993, Pub. L. No. 103–150, 107 Stat. 1510 (1993).
+76Id. at 1512–13.
+77Id.
+78Id.
+79U.S. DEP’T OF THE INTERIOR & DEP’T OF JUSTICE, FROM MAUKA TO MAKAI: THE RIVER OF
+JUSTICE MUST FLOW FREELY 4 (2000), https://www.doi.gov/sites/doi.gov/files/uploads/mauka-to-
+makai-report-2.pdf.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+12
+CANADA
+Indian Residential Schools Truth and Reconciliation Commission of
+Canada
+Like the United States, Canada has a centuries-long history of
+boarding or ‘‘residential’’ schools that were established as part of a
+larger policy of termination and assimilation of Native or First Na-
+tions peoples.8081 Between at least the 1830s and the late 1990s,
+Canadian residential schools directly affected approximately
+150,000 children.
+Following a series of class action lawsuits filed by residential
+school survivors against the Canadian federal government, the Ca-
+nadian federal government agreed to negotiate a settlement.82 The
+Indian Residential Schools Settlement Agreement included a man-
+date to create the Canadian Truth and Reconciliation Commission
+(TRC), which had several goals to advance reconciliation through
+community education, hearings, and policy actions.83
+Between 2008 to 2015, the TRC received testimony from more
+than 6,500 witnesses, including many survivors of residential
+schools, hosted seven large national events to engage the Canadian
+public in a process of education, conducted 238 days of local hear-
+ings in 77 communities, and produced a six-volume report pro-
+viding a historical overview of Canadian residential schools and
+their legacy, as well as recommending a path to reconciliation with
+94 action items.84
+NEED FOR LEGISLATION
+Indian Boarding Schools were part of a federally-sanctioned pol-
+icy of forced assimilation, focused on erasing Native cultures, reli-
+gions, languages and identities in the United States. The traumatic
+effects of Indian Boarding School policies and practices on Native
+communities are still felt by survivors, their descendants, and their
+communities to the present day.85 While the Native American Lan-
+guages Act of 1991 found that the United States initiated ‘‘acts of
+suppression and extermination of Native American languages and
+cultures,’’86 Congress has not fully acknowledged the U.S. govern-
+ment’s role and responsibility for these past policies or formally es-
+80Truth and Reconciliation Commission of Canada, Honouring the Truth, Reconciling for the
+Future: Summary of the Final Report of the Truth and Reconciliation Commission of Canada,
+(2015), https://irsi.ubc.ca/sites/default/files/inline-files/Executive_Summary_English_Web.pdf
+[hereinafter TRC Canada Summary].
+81TRC Canada Summary at 54 (speaking to Canada’s overarching policy towards First Na-
+tions in 1920, Deputy Minister of Indian Affairs Duncan Campbell stated, ‘‘our object is to con-
+tinue until there is not a single Indian in Canada that has not been absorbed into the body
+politic’’).
+82TRC Canada Summary at 129–134.
+83Acknowledge residential school experiences, impacts, and consequences; provide a holistic,
+culturally appropriate, and safe setting for survivors and their families to provide testimony to
+the TRC; witness, support, and promote national and community-level reconciliation events; pro-
+mote public awareness and education about residential schools and their impacts; create as com-
+plete a historical record as possible; submit a final report describing the history, purpose, oper-
+ation, effect, and consequences of residential schools; and support commemoration of former resi-
+dential school students and their families. INDIAN RESIDENTIAL SCHOOLS SETTLEMENT AGREE-
+MENT, SCHEDULEN, at 1–2 (2006).
+84NATIONALCENTERFORTRUTHANDRECONCILIATION, Reports, https://nctr.ca/records/reports/
+(last visited Mar. 31, 2025).
+85Legislative Hearing on H.R. 5444, Truth and Healing Commission on Indian Boarding
+Schools Policies Act Before the Subcomm. on Indigenous Peoples of the H. Comm. on Nat. Res.,
+117th Cong. (2022).
+86Native American Languages Act, Pub. L. No. 101–477, § 102, 101 Stat. 1153, 1154 (1990).
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+13
+tablished a structured Native-led process for Native and non-Na-
+tive communities to examine and heal from such policies.87
+Further, while some non-profit organizations,88 religious institu-
+tions,89 and the DOI have conducted investigations into the im-
+pacts of Indian Boarding School policies, and some religious institu-
+tions are beginning to acknowledge their role in carrying out these
+policies and offering actions they can take to address those
+harms,90 the federal government has yet to take comprehensive,
+concerted action commensurate with the harms inflicted by its own
+policies. Current public and private efforts to address this issue
+cannot, by themselves, fully address the history or consequences of
+federal Indian Boarding School policies without Congressional ac-
+knowledgment and support.91 S. 761 provides for a thorough, na-
+tionwide process warranted by the breadth and severity of the fed-
+eral Indian Boarding School legacy.
+SUMMARY
+S. 761 reflects extensive bipartisan review, analysis, and debate
+in three key areas related to the Commission and its advisory bod-
+ies: (1) structure, (2) establishment, and (3) operation.
+Structure and Timeline
+S. 761 establishes a five-member Truth and Healing Commission
+on Indian Boarding School Policies in the United States, a 19-mem-
+ber Native American Truth and Healing Advisory Committee, a 20-
+member Federal and Religious Truth and Healing Advisory Com-
+mittee, and a 15-member Survivors Truth and Healing Sub-
+committee, with certain members of the Commission and Survivors
+Subcommittee cross-appointed to leadership positions on the dif-
+ferent advisory bodies (See Figure 1).
+87See Apology to Native Peoples of the United States, H.R. 3326, 111th Cong. § 8113 (2009).
+88See e.g. THENATIONALNATIVEAMERICANBOARDINGSCHOOLHEALINGCOALITION, at https://
+boardingschoolhealing.org/ (last visited Apr. 1, 2025).
+89The Episcopal Church, A127—Resolution for Telling the Truth about the Episcopal Church’s
+History with Indigenous Boarding Schools (2022), https://www.episcopalarchives.org/sites/
+default/files/gc_resolutions/2022-A127.pdf.
+90See e.g. United States Conference of Catholic Bishops, Keeping Christ’s Sacred Promise: A
+Pastoral Framework for Indigenous Ministry (2024), www.usccb.org/resources/
+Indigenous%20Pastoral%20Framework%20-June%202024-Final%20Text.pdf.
+91U.S. DEP’TOFTHEINTERIOR, FEDERALINDIANBOARDINGSCHOOLINITIATIVEINVESTIGATIVE
+REPORT6 (2022) (noting the limitation of the scope of its investigation).
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+14
+S. 761 limits the Commission’s investigation authority to six (6)
+years and requires it to complete and publish a Final Report before
+the end of that period. The bill also establishes a timeline for key
+milestones for the work of the Commission and its various advisory
+bodies. (See Figure 2).
+This structure and timeline of key milestones was created in re-
+sponse to testimony from Tribal leaders regarding their experiences
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00014 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 4:
+200.45RS
+ereh
+51
+oilof
+tesffo
+tresnI
+
+Section 5:
+100.45RS
+ereh
+41
+oilof
+tesffo
+tresnI
+15
+working with existing Tribal advisory committees, as well as advo-
+cates, religious institutions, and federal agencies regarding the
+range of offices, entities, and individuals that would be necessary
+for the Commission to efficiently and successfully exercise its du-
+ties and responsibilities.92
+Establishment
+S. 761 requires candidates for all positions on the Commission,
+the Survivors Truth and Healing Subcommittee, and the Native
+American Truth and Healing Advisory Committee, to be nominated
+by Native entities and peoples, and establishes a bipartisan and bi-
+cameral Congressional process for appointing Commissioners.
+Nominees to serve on the Commission shall represent significant
+expertise in: (1) research; (2) Indigenous human rights; (3) Tribal
+courts, restorative justice, and federal agencies; (4); trauma in-
+formed care; or (5) cultural knowledge. The bill also establishes
+deadlines for nominations and appointments, as well as publication
+of an interim and final report to include related agency responses.
+Membership and appointment to the Federal and Religious Truth
+and Healing Advisory Committee shall be made pursuant to section
+211(b) of S. 761.
+Operation
+S. 761 addresses the operation of the Commission and its advi-
+sory bodies in four key areas—coordination, costs, investigation,
+and healing.
+Coordination
+The Commission must coordinate with and consider the needs of
+various stakeholders, including boarding school survivors and de-
+scendants, Native communities, relevant organizations, and federal
+agencies. The legislation facilitates such coordination through the
+appointment of non-voting designees from the Advisory Committees
+and Subcommittee to the Commission, and cross-appointment of
+certain Commissioners and members of the Survivors Sub-
+committee to leadership positions in various advisory committees
+(See Figure 1).
+In addition, the Commission may coordinate with federal entities
+by requesting detailees, contracting with public agencies, utilizing
+the Government Services Administration, exercising Buy Indian
+Act authority, and engaging with various federal archiving and cu-
+ratorial facilities. It may also utilize resources provided by Native
+communities, individuals, churches, and other private organiza-
+tions; and it may accept voluntary services from a range of sources,
+including universities and law schools.
+Costs
+S. 761 authorizes appropriations of $15,000,000 per fiscal year,
+to remain available until expended, for the Commission to carry
+out its work for six years, and permits the Commission to supple-
+92U.S. DEP’TOFTHEINTERIOR, FEDERALINDIANBOARDINGSCHOOLINITIATIVEINVESTIGATIVE
+REPORTVOL. 1 14–15 (2022) (emphasizing that the Indian boarding school system was complex
+and its records expansive). DOI reported finding almost 40,000 boxes and almost 100,000 sheets
+of paper in the American Indian Records Repository (AIRR) related to federal Indian boarding
+schools.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00015 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+16
+ment its funding through fundraising and donations from the pri-
+vate and charitable sectors. The Committee developed this funding
+framework through careful consideration of the costs associated
+with past and contemporary examples of similar commissions, such
+as the Canadian Truth and Reconciliation Commission, the DOI’s
+Federal Indian Boarding School Initiative, and the California Truth
+& Healing Council in California, among others. The Committee
+also considered the broad scope of the Commission’s anticipated du-
+ties, including public and private meetings with potentially tens of
+thousands of individuals from all 50 states,93 directing research ac-
+tivities involving over one hundred million pages of documents,94
+and providing trauma-informed care to participants at convening.
+Investigation
+Obtaining information is core to the Commission’s investigatory
+function and its duty to deliver written findings and recommenda-
+tions to Congress. The Committee learned through extensive feed-
+back from Tribal stakeholders and religious organizations that for
+the Commission to accomplish the purposes of this Act and make
+accurate recommendations, it must have tools and qualified staff to
+properly collect, organize, and preserve information and items ob-
+tained from witnesses, federal agencies, religious institutions, or
+through other means while following federal law and regulations.95
+To that end, the Commission is authorized to carry out domestic
+and international archival research and may enter into contracts or
+agreements with public agencies, private organizations, or individ-
+uals as well as accept voluntary services from a range of sources,
+including universities and law schools to locate, review, and ana-
+lyze information related to Indian Boarding School policies. Al-
+though S. 761 does not provide the Commission with subpoena au-
+thority, it will have the assistance of the Federal and Religious
+Truth and Healing Advisory Committee to help it obtain ‘‘all rel-
+evant information’’ to the investigation the Commission is charged
+with conducting.
+Healing
+The Commission fulfills its responsibility to promote healing in
+three primary ways. First, the commission, itself, is a formal ac-
+knowledgement of the widespread and long-term harm caused by
+federal Indian Boarding School policies which is a foundational
+step in healing for survivors, their descendants and Native commu-
+93Legislative Hearing on H.R. 5444, Truth and Healing Commission on Indian Boarding
+Schools Policies Act Before the Subcomm. on Indigenous Peoples of the H. Comm. on Nat. Res.,
+supra note 26. The Canadian Truth and Reconciliation Commission received over 1,000 hours
+of testimony from over 6,000 individuals to address 139 boarding schools. Given the 526 known
+boarding schools in the United States, the Commission is expected to receive approximately four
+times the amount of testimony.s
+94U.S. DEP’TOFTHEINTERIOR, FEDERALINDIANBOARDINGSCHOOLINITIATIVEINVESTIGATIVE
+REPORT, VOL. I (2022). DOI’s report cites a total of 98.4 million pages at the American Indian
+Records Repository alone, not accounting for the additional eight million pages believed to be
+within the current and former boarding schools’ possession, custody, or control.
+95For example, delayed information resulted in the Canadian Truth and Reconciliation Com-
+mission’s final report inaccurately citing a total of 6,000 child deaths at Canadian Residential
+Schools, when, almost 10 years later, and because of untimely obtained information, the number
+is better understood to be between 10,000 and 25,000. Additionally, the discovery of 215 children
+buried in a mass grave in Kamloops, Canada was made after the conclusion of the Canadian
+Commission’s work. See e.g., Oversight Hearing on ‘‘Volume 1 of the Department of the Interior’s
+Federal Indian Boarding School Initiative Investigative Report’’ and Legislative Hearing on S.
+2907 Before the S. Comm. on Indian Affs., 117th Cong. (2022) (statement of Sandra White
+Hawk, Nat’l Native Boarding School Healing Coalition).
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00016 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+17
+nities. Second, the Commission provides a national forum with
+processes for survivors and their descendants to share their experi-
+ences, receive validation, and access trauma-informed care. Third,
+the Commission will bring transparency and truth to the investiga-
+tion and will approach research about—and possible repatriation
+of—students’ human remains with diligence and care, docu-
+menting, preserving, and appropriately sharing information regard-
+ing the discovery of burials with affected parties in accordance with
+the Native American Graves Protection and Repatriation Act and
+its applicable uniform repatriation processes.
+LEGISLATIVE HISTORY
+S. 761 was introduced by Senators Murkowski and Warren along
+with Senator Schatz and 12 other original cosponsors on February
+26, 2025. To date, there are 23 cosponsors to S. 761.
+In the 118th Congress, a similar bill, S. 1723 was introduced by
+Senators Warren and Murkowski along with Senator Schatz and 24
+other original cosponsors, on May 18, 2023. The Committee held a
+business meeting to consider S. 1723 on June 7, 2023, and ordered
+the bill to be reported with an amendment in the nature of a sub-
+stitute favorably.96 On December 20, 2024, the Committee with-
+drew its substitute to S. 1723 and by unanimous consent the full
+Senate adopted S. Amdt. 3351 to S. 1723, an amendment in the na-
+ture of a substitute proposed by Senator Schatz. S. Amdt. 3351
+struck the Commission’s subpoena authority, renamed the Federal
+Truth and Healing Advisory Committee to be the Federal and Reli-
+gious Truth and Healing Advisory Committee, struck the Native
+American preference for nominee’s to serve as a Commissioner,
+added three representatives to the renamed Federal and Religious
+Truth and Healing Advisory Committee that are employed by or
+acting as representatives of religious institutions appointed by the
+White House Office of Faith-Based and Neighborhood Partnerships
+(renamed White House Office of Faith in 2025), and authorized ap-
+propriation of $90,000,000 to fund the Commission over its six-year
+term. S. 1723 passed the Senate as amended by voice vote on De-
+cember 20, 2024.97
+A companion bill, H.R. 7227, was introduced by Representatives
+Davids (D–KS) and Cole (R–OK) in the House of Representatives
+on February 5, 2024. At the end of the 118th Congress, H.R. 7227
+had 80 cosponsors. The bill was referred to the Committees on
+Education and Workforce, Natural Resources, and Energy and
+Commerce. At a business meeting held on June 13, 2024, the Com-
+mittee on Education and Workforce considered H.R. 7227. Rep-
+resentative Kiley (R–CA) offered an amendment in the nature of a
+substitute. No other amendments were offered. The Committee or-
+dered H.R. 7227 reported, as amended, by a vote of 34–4.98 On No-
+vember 22, 2024, the Committees on Natural Resources and En-
+ergy and Commerce discharged the bill and H.R. 7227 was placed
+on the Union Calendar.
+In the 117th Congress, Senator Warren, along with Senator
+Schatz and 12 other original co-sponsors, introduced S. 2907, simi-
+96S. Rept. No. 118–187 (2024).
+97Truth and Healing Commission on Indian Boarding Schools Policies Act; Congressional
+Record Vol. 170, No. 190 (Daily Ed Dec. 20. 2024) Pages S7254–S7267.
+98H. Rept. No. 118–760 (2024).
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00017 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+18
+lar legislation on September 30, 2021. Senator Murkowski and 12
+other senators later joined as cosponsors. On June 22, 2022, the
+Committee held a Legislative Hearing on S. 2907.99
+On September 30, 2021, Representatives Davids (D–KS) and Cole
+(R–OK), introduced H.R. 5444, companion legislation to S. 2907.
+Representatives Davids (D–KS) and Cole (R–OK) were joined by 86
+cosponsors. H.R. 5444 was referred to the Committees on Edu-
+cation and Labor and Natural Resources. On October 3, 2021, the
+Committee on Natural Resources referred H.R. 5444 to the Sub-
+committee for Indigenous Peoples of the United States. On May 12,
+2022, the Subcommittee held a hearing on the bill. On June 15,
+2022, the Committee considered H.R. 5444 at a markup meeting.
+Representative Grijalva (D–AZ) offered an amendment in the na-
+ture of a substitute, which was treated as the base text for amend-
+ment purposes.100 The Committee on Natural Resources ordered
+H.R. 5444, as amended, reported favorably by voice vote.101102
+In the 116th Congress, Senators Warren (D–MA), Merkley (D–
+OR), and Smith (D–MN) introduced similar legislation, S. 4752, on
+September 29, 2020. The Senate took no action on the legislation
+in the 116th Congress.
+On September 29, 2020, Representative Haaland (D–NM), intro-
+duced companion legislation, H.R. 8420, an identical bill to S. 4752.
+Representative Haaland (D–NM) was joined by 17 co-sponsors.
+H.R. 8420 was referred to the Committees on Education and Labor
+and Natural Resources. The House of Representatives took no ac-
+tion on the legislation in the 116th Congress.
+COMMITTEE RECOMMENDATION
+The Senate Committee on Indian Affairs, in open business meet-
+ing on March 5, 2025, by a majority voice vote of a quorum present,
+recommends that the Senate pass S. 761.
+
+Section 6:
+SECTION-BY-SECTION ANALYSIS OF S. 761
+
+Section 7:
+Section 1—Short title; Table of Contents
+This section sets forth the short title of the bill as the ‘‘Truth and
+Healing Commission on Indian Boarding School Policies Act of
+2025’’ and provides a table of contents.
+
+Section 8:
+Section 2—Purposes
+This section establishes four purposes of the bill:
+• To establish a Truth and Healing Commission on Indian
+Boarding School Policies in the United States, including nec-
+essary advisory committees and subcommittees;
+99S. Hrg. 117–534: Oversight Hearing on Volume 1 of the Department of the Interior’s Fed-
+eral Indian Boarding School Initiative Investigative Report and Legislative Hearing on S. 2907
+Before the S. Comm. on Indian Affs., 117th Cong. (2022), https://www.congress.gov/117/chrg/
+CHRG-117shrg50193/CHRG-117shrg50193.pdf.
+100Representative Bruce Westerman (R–AR) offered two amendments, Representatives Jay
+Obernolte (R–CA) and Lauren Boebert (R–CO) each offered an amendment. One of Representa-
+tive Westerman’s (R–AR) amendments was agreed to by unanimous consent. Representatives
+Obernolte (R–CA) and Boebert’s (R–CO) amendments were not agreed to by roll call votes.
+101U.S. House of Representatives, Committee Repository, Markup of H.R. 263, H.R. 5444,
+H.R. 6063, H.R. 6181, H.R. 6337, H.R. 6427, H.R. 6707, H.R. 6734, H.R. 7002, H.R. 7025, H.R.
+7075, and S. 789, https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=114898.
+102H. Rept. No. 117–595 Part I (2022).
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00018 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+19
+• To formally investigate, document, and report on the his-
+tories of Indian Boarding School Policies and their systematic
+and long-term impacts on Native American peoples;
+• To develop recommendations for federal action based on
+the findings of the Commission; and
+• To promote healing for survivors of Indian Boarding
+Schools, their descendants, and their communities.
+
+Section 9:
+Section 3—Definitions
+This section provides definitions for various terms used through-
+out the bill.
+TITLE I—COMMISSION AND SUBCOMMITTEES
+Subtitle A—Truth and Healing Commission on Indian Boarding
+School Policies in the United States
+
+Section 10:
+Section 101(a) establishes a commission to be known as the
+‘‘Truth and Healing Commission on Indian Boarding School Poli-
+cies in the United States.’’
+
+Section 11:
+Section 101(b) sets forth criteria and process for the five mem-
+bers of the Commission and requirements for nominations, appoint-
+ments, vacancies, removals, termination, and limitations of these
+members.
+
+Section 12:
+Section 101(c) establishes procedures for the initial business
+meeting of the Commission and a basic framework for subsequent
+business meetings, including format, rules, quorum, and inclusion
+of Advisory Committee and Subcommittee designees.
+
+Section 13:
+Section 101(d) establishes that a simple majority of Commission
+members constitutes a quorum for a business meeting.
+
+Section 14:
+Section 101(e) authorizes the Commission to establish rules for
+conducting Commission business.
+
+Section 15:
+Section 101(f) establishes the rates for Commissioner compensa-
+tion and travel expenses, and authorizes federal employees to be
+detailed to the Commission upon request.
+
+Section 16:
+Section 101(g) establishes the powers of the Commission includ-
+ing:
+• Holding convenings and receiving testimony and evidence;
+• Conducting or requesting research and securing relevant
+information to meet the purposes of the bill;
+• Overseeing, directing, and collaborating with the Advisory
+Committees and Subcommittee;
+• Coordinating with federal and non-federal agencies to
+carry out preservation and archival activities;
+• Securing additional personnel and services through con-
+tracting, volunteers, and the General Services Administration;
+• Using the U.S. Postal Service in the same manner as fed-
+eral agencies;
+• Accepting gifts, engaging in fundraising, disbursing funds,
+issuing tax-deductions for gifts; and
+• Coordinating with the Library of Congress and the Smith-
+sonian Institution to archive and preserve relevant gifts and
+donations.
+
+Section 17:
+Section 101(h) sets forth the framework for the Commission to
+create rules and protocols for public convenings, establishes dead-
+lines for announcing convenings, sets the minimum number of
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00019 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+20
+convenings, and clarifies that testimony shall be permitted at the
+convenings subject to the discretion of the Commission’s Chair-
+person.
+
+Section 18:
+Section 101(i) clarifies that the Federal Advisory Committee Act
+shall not apply to the Commission.
+
+Section 19:
+Section 101(j) applies the Congressional Accountability Act of
+1995 to any Commissioner or individual who is an employee of the
+Commission.
+
+Section 20:
+Section 101(k) directs the Committee to meaningfully consult or
+engage, as appropriate, with relevant individuals, Tribes, and Na-
+tive organizations.
+
+Section 21:
+Section 101(l) authorizes appropriations of $90 million from sec-
+tion 105 of the Indian Land Consolidation Act Amendments of 2000
+and section 403 of the Indian Financing Act of 1974, to carry out
+the bill.
+Subtitle B—Duties of the Commission
+
+Section 22:
+Section 111(a) establishes the investigatory duties of the Com-
+mission, including:
+• Conducting a comprehensive interdisciplinary investiga-
+tion into Indian Boarding School Policies and their effects on
+the social, cultural, economic, emotional, and physical health of
+Native communities, Indian Tribes, survivors of Indian Board-
+ing Schools, and families and descendants of survivors;
+• Conducting a comprehensive review of historical and archi-
+val materials;
+• Collaborating with the Federal and Religious Truth and
+Healing Advisory Committee to obtain relevant information
+from federal agencies and other relevant institutions, as well
+as relevant information from Native entities and institutions;
+• Conducting a comprehensive review of the impacts of In-
+dian Boarding School Policies on Native cultures, traditions,
+and languages; and
+• Authorizing the Commission to enter into a contract or
+agreement to acquire, hold, curate, or maintain objects, arti-
+facts, or other property from private individuals and entities,
+provided that federal funds are not used to purchase such
+items.
+
+Section 23:
+Section 111(b) establishes Commission duties regarding meetings
+and convenings, including:
+• Holding safe, trauma-informed, and culturally appropriate
+public or private meetings or convenings to receive testimony;
+and
+• Providing access to adequate trauma-informed care serv-
+ices during and following such meetings and convenings.
+
+Section 24:
+Section 111(c) establishes Commission duties regarding rec-
+ommendations to Congress, including:
+• Considering and evaluating, in light of Tribal, Native Ha-
+waiian, and Tribal customary law, how the federal government
+can meaningfully acknowledge the federal government’s role in
+supporting Indian Boarding School Policies;
+• Determining how modification of existing laws, procedures,
+regulations, policies, budgets, and practices will address the
+findings of the Commission and the ongoing effects of Indian
+Boarding School Policies;
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00020 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+21
+• Considering how the federal government can promote pub-
+lic awareness and education of Indian Boarding School Policies
+and their impacts and;
+• Views of religious institutions.
+
+Section 25:
+Section 111(d) establishes Commission duties regarding burial
+sites, including:
+• Coordinating, as appropriate, with relevant parties to lo-
+cate and identify, in a culturally appropriate manner, marked
+and unmarked burial sites of students who attended an Indian
+Boarding School;
+• Locating, documenting, analyzing, and coordinating the
+preservation or continued preservation of records and informa-
+tion relating to the interment of students; and
+• Sharing with relevant parties, to the extent practicable,
+the burial locations and identities of children who attended In-
+dian Boarding Schools.
+
+Section 26:
+Section 111(e) establishes Commission duties regarding report-
+ing, including:
+• Delivering annual progress reports to Congress;
+• Publishing the initial report of the Commission’s findings
+four (4) years after appointment of a majority of the Commis-
+sioners;
+• Publishing the final report of the Commission’s findings
+before Commission termination with approval by majority of
+the Commission and 3/5 of the Native American Truth and
+Healing Advisory Committee and Survivors Truth and Healing
+Subcommittee;
+• Providing the final report to the listed recipients and mak-
+ing the report publicly available within 180 days of submission
+on the Commission’s website, along with the Departments of
+the Interior, Education, Justice, Defense, and Health and
+Human Services, which are also required to make the report
+available on their websites;
+• Conducting public education and outreach regarding the
+initial and final reports; and
+• Monitoring responses from the Secretaries of the Interior,
+Education, Defense, Health and Human Services, who are re-
+quired to publish a written response to the final report within
+120 days after receipt, and to transmit their response to the
+President, the Senate Committee on Indian Affairs, the House
+Committee on Natural Resources, and the Comptroller General
+of the United States.
+Subtitle C—Survivors Truth and Healing Subcommittee
+
+Section 27:
+Section 121(a) establishes a subcommittee to be known as the
+‘‘Survivors Truth and Healing Subcommittee.’’
+
+Section 28:
+Section 121(b) sets forth criteria for the 15 members of the Sub-
+committee and requirements for nominations, appointments, vacan-
+cies, removals, termination, and limitations.
+
+Section 29:
+Section 121(c) establishes procedures for the initial meeting of
+the Subcommittee and a basic framework for subsequent meetings,
+including format and quorum requirements.
+
+Section 30:
+Section 121(d) establishes that a simple majority of Sub-
+committee members constitutes a quorum for a business meeting.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00021 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+22
+
+Section 31:
+Section 121(e) authorizes the Subcommittee to establish, by ma-
+jority vote, rules for the conduct of its business.
+
+Section 32:
+Section 121(f) establishes the duties of the Subcommittee, includ-
+ing: providing advice to the Commission on criteria and protocols
+for convenings, providing advice and evaluating Committee rec-
+ommendations relating to commemoration and public education,
+and providing such other advice as may be required by the Com-
+mission.
+
+Section 33:
+Section 121(g) directs the Subcommittee to meaningfully consult
+or engage, as appropriate, with relevant individuals, Tribes, and
+Native organizations.
+
+Section 34:
+Section 121(h) clarifies that the Federal Advisory Committee Act
+shall not apply to the Subcommittee.
+
+Section 35:
+Section 121(i) applies the Congressional Accountability Act of
+1995 to any member of the Subcommittee.
+
+Section 36:
+Section 121(j) establishes the compensation and travel expense
+rates for Subcommittee members.
+TITLE II—ADVISORY COMMITTEES
+Subtitle A—Native American Truth and Healing Advisory Com-
+mittee
+
+Section 37:
+Section 201(a) establishes an advisory committee to be known as
+the ‘‘Native American Truth and Healing Advisory Committee’’
+(Native Advisory Committee).
+
+Section 38:
+Section 201(b) sets forth criteria for the 19 members of the Na-
+tive Advisory Committee and requirements for nominations, ap-
+pointments, term lengths, vacancies, termination, and limitations.
+
+Section 39:
+Section 201(c) establishes that a simple majority of Native Advi-
+sory Committee members constitutes a quorum.
+
+Section 40:
+Section 201(d) permits a quorum of the Native Advisory Com-
+mittee to remove a member for neglect of duty or malfeasance.
+
+Section 41:
+Section 201(e) establishes procedures for the initial business
+meeting of the Native Advisory Committee and a basic framework
+for subsequent meetings, including format and quorum require-
+ments.
+
+Section 42:
+Section 201(f) authorizes the Native Advisory Committee to es-
+tablish, by majority vote, rules for the conduct of its business.
+
+Section 43:
+Section 201(g) establishes the duties of the Native Advisory Com-
+mittee, including:
+• Serving as an advisory body to the Commission;
+• Assisting the Commission in organizing and carrying out
+culturally appropriate convenings;
+• Assisting the Commission in determining what documenta-
+tion from Federal and religious organizations and institutions
+may be necessary;
+• Assisting the Commission in the production of the initial
+and final report;
+• Coordinating with the Federal and Religious Truth and
+Healing Advisory Committee and the Survivors Subcommittee;
+and
+• Providing advice or services as the Commission may re-
+quire.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00022 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+23
+
+Section 44:
+Section 201(h) directs the Native Advisory Committee to mean-
+ingfully consult or engage, as appropriate, with relevant individ-
+uals, Tribes, and Native organizations.
+
+Section 45:
+Section 201(i) clarifies that the Federal Advisory Committee Act
+shall not apply to the Advisory Committee.
+
+Section 46:
+Section 201(j) applies the Congressional Accountability Act of
+1995 to any member of the Native Advisory Committee.
+
+Section 47:
+Section 201(k) establishes the compensation and travel expense
+rates for members of the Native Advisory Committee.
+Subtitle B—Federal and Religious Truth and Healing Advisory
+Committee
+
+Section 48:
+Section 211(a) establishes an advisory committee within the De-
+partment of the Interior to be known as the ‘‘Federal and Religious
+Truth and Healing Advisory Committee’’ (Federal and Religious
+Advisory Committee).
+
+Section 49:
+Section 211(b) sets forth criteria for the 20 members of the Fed-
+eral and Religious Advisory Committee and requirements for ap-
+pointments, term lengths, vacancies, removals, and termination.
+
+Section 50:
+Section 211(c) establishes procedures for the initial business
+meeting of the Federal and Religious Advisory Committee, and a
+basic framework for subsequent meetings, including format and
+quorum requirements.
+
+Section 51:
+Section 201(d) establishes that a simple majority of Federal and
+Religious Advisory Committee members constitutes a quorum.
+
+Section 52:
+Section 201(e) authorizes the Federal and Religious Advisory
+Committee to establish, by majority vote, rules for the conduct of
+its business.
+
+Section 53:
+Section 211(f) establishes the duties of the Federal and Religious
+Advisory Committee, including:
+• Ensuring effective and timely coordination between Fed-
+eral agencies and religious institutions;
+• Assisting the Commission and the Native American Truth
+and Healing Advisory Committee in coordinating meetings and
+convenings, and the collection, organization, and preservation
+of information from witnesses, federal agencies, and religious
+institutions;
+• Ensuring the timely submission of relevant evidence to the
+Commission and;
+• Coordinate with the Commission to carry out the purposes
+of the Act.
+
+Section 54:
+Section 211(g) directs the Federal and Religious Advisory Com-
+mittee to meaningfully consult or engage, as appropriate, with rel-
+evant individuals, Tribes, and Native organizations.
+
+Section 55:
+Section 211(h) clarifies that the Privacy Act of 1974, the Freedom
+of Information Act, and the Federal Advisory Committee Act shall
+not apply to the Federal and Religious Advisory Committee.
+TITLE III—GENERAL PROVISIONS
+
+Section 56:
+Section 301 clarifies that the Native American Graves Protection
+and Repatriation Act (NAGPRA) applies to cultural items, human
+remains and funerary objects relating to an Indian Boarding School
+that are located on federal lands, located on lands managed by a
+federal agency, or curated by a federal agency.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00023 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+24
+
+Section 57:
+Section 302 authorizes federal agencies to rebury remains and
+other cultural items relating to Indian Boarding Schools pursuant
+to NAGPRA on other federal lands, consistent with Tribal practices
+and subject to the agreement of the relevant parties.
+
+Section 58:
+Section 303 authorizes federal agencies to enter into co-steward-
+ship agreements for the management of a cemetery or Indian
+Boarding School.
+
+Section 59:
+Section 304 clarifies that nothing in the Act creates a private
+right of action to seek administrative or judicial relief.
+COST AND BUDGETARY CONSIDERATIONS
+The Committee has requested, but has not yet received, the Con-
+gressional Budget Office’s estimate of the cost of S. 761 as ordered
+reported. When the Congressional Budget Office completes its cost
+estimate, it will be posted on the Internet at www.cbo.gov, and
+printed in the Congressional Record.
+EXECUTIVE TESTIMONY AND COMMUNICATIONS
+Testimony provided by the Department of the Interior at the
+June 22, 2022, hearing on S. 2907, similar legislation introduced in
+the 117th Congress follows:
+STATEMENT OF DEB HAALAND
+SECRETARY OF THE UNITED STATES DEPARTMENT OF THE IN-
+TERIOR BEFORE THE SENATE COMMITTEE ON INDIAN AF-
+FAIRS
+Hello and good afternoon, Chairman Schatz, Vice Chair-
+man Murkowski, and members of the Committee. My
+name is Deb Haaland, and I serve as the Secretary of the
+Interior. It is an honor and privilege for me to be here with
+you today to represent the Department of the Interior (De-
+partment) and our tens of thousands of dedicated profes-
+sionals. It is deeply meaningful for me to speak to you
+from the ancestral homelands of the Anacostan and
+Piscataway people. Thank you for the opportunity to
+present the Department’s testimony at this important
+oversight hearing on the Federal Indian Boarding School
+Initiative and S. 2907, a bill to establish the Truth and
+Healing Commission on Indian Boarding School Policies in
+the United States.
+The Biden-Harris administration is determined to make
+a lasting positive difference in response to the trauma that
+these policies have caused, not just in the past but for cur-
+rent generations. I would also like to thank Senator War-
+ren and the Co-chairs of the Congressional Native Amer-
+ican Caucus, Representatives Sharice Davids and Tom
+Cole, for prioritizing legislation to address the federal In-
+dian boarding school policies for the first time in United
+States history and find solutions to further shed light on
+its ongoing impacts on Native American and Native Ha-
+waiian people.
+Starting in 1819, and lasting for over a century and a
+half, the federal government, including the Department of
+the Interior, forcibly removed and assimilated tens of thou-
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00024 Fmt 6659 Sfmt 6969 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+25
+sands of American Indian, Alaska Native, and Native Ha-
+waiian children from tribal communities across the United
+States. Many children who entered the boarding schools
+were involuntarily removed from their communities and
+never returned home. This intentional targeting and re-
+moval of American Indian, Alaska Native, and Native Ha-
+waiian children to achieve the goal of forced assimilation
+of Native people was both traumatic and violent.
+The consequences of federal Indian boarding school poli-
+cies—including the intergenerational trauma caused by
+forced family separation and cultural eradication—were in-
+flicted on generations of children as young as 4 years old
+and are heartbreaking and undeniable. As the head of the
+Department of the Interior and as the first Native Amer-
+ican cabinet secretary, I am in a unique position to ad-
+dress the lasting impacts of these policies. I now have di-
+rect oversight over the very Department that operated and
+oversaw the implementation of the federal Indian boarding
+school system.
+Like all Native people, I am a product of these horrific
+assimilation era policies, as my grandparents were re-
+moved from their families to federal Indian boarding
+schools when they were only 8 years old and forced to live
+away from their parents, culture, and Pueblos until they
+were 13 years old. My family’s story is similar to many In-
+digenous families’ stories in this country which is why, on
+June 22, 2021, I announced the Federal Indian Boarding
+School Initiative, a comprehensive effort to address the
+troubled legacy of federal Indian boarding school policies.
+On that same date, through a memorandum, I directed the
+Assistant Secretary —Indian Affairs to lead the first-ever
+departmental investigation into the federal Indian board-
+ing school system.
+I am incredibly proud of the work that Assistant Sec-
+retary Newland and his entire team did on the first vol-
+ume of this report. I particularly want to acknowledge the
+staff at the Bureau of Trust Funds Administration, which
+is managing the document collection, review, and records
+management of this Initiative. The vast majority of the
+work being released today was done by Indigenous staff in
+this department who worked through their own trauma
+and pain.
+The Department released Volume 1 of the investigative
+report on May 11, 2022. This report lays the groundwork
+for the continued efforts of the Department to address the
+intergenerational trauma created by historical federal pol-
+icy. It marks the first time in over two hundred years,
+since the Indian boarding school policies were imple-
+mented, that the United States has formally reviewed or
+acknowledged the extensive scope and breadth of these
+policies. The Department welcomes Congress’ and this
+Committee’s engagement in this important and continuing
+effort.
+The Department’s investigation focuses on the historical
+Indian boarding school system, which was implemented to
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00025 Fmt 6659 Sfmt 6969 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+26
+further cultural assimilation and removal policies. The De-
+partment fully recognizes that unlike the federal Indian
+boarding school system we are investigating, contemporary
+Native residential schools are vital to advancing modern,
+culturally sensitive education.
+Some key highlights of Volume 1 of the Department’s in-
+vestigation of our federal records include evidence that the
+United States targeted American Indian, Alaska Native,
+and Native Hawaiian children through forced removal to
+Indian boarding schools in furtherance of territorial dis-
+possession of Indigenous lands in the United States. The
+initial investigation shows that, between 1819 and 1969,
+the federal Indian boarding school system consisted of 408
+federal Indian boarding schools across 37 states or then-
+territories, including 21 schools in Alaska and 7 schools in
+Hawai‘i.103
+Additionally, the Department’s initial investigation re-
+sults show that approximately 50 percent of federal Indian
+boarding schools may have received support or involve-
+ment from a religious institution or organization, including
+funding,104 infrastructure, and personnel. Further, the fed-
+eral government at times paid religious institutions and
+organizations for Native children to enter federal Indian
+boarding schools that these institutions and organizations
+operated.
+Another important finding published in Volume 1 identi-
+fies approximately 53 different schools that contain
+marked or unmarked burial sites. While this report lays
+the groundwork for the efforts of the Department to ad-
+dress the full scope of the federal Indian boarding school
+policies and the intergenerational trauma endured by In-
+digenous peoples in this country, the Department is mov-
+ing forward to develop Volume 2 to further expand on
+these preliminary report findings. As the investigation con-
+tinues, we expect the number of identified burial sites to
+increase, along with the potential expansion or more defi-
+nite numbers of identified Indian boarding school sites,
+children, and operating dates of facilities.
+As we add to the list of burial sites, the Department,
+working with relevant sister federal agencies, will expand
+our collaborative work, including increasing Tribal commu-
+nities’ access to mental health resources. These healing ac-
+tions will help strengthen Native communities in a man-
+ner that I hope will be pursuant to each of the various tra-
+ditional and religious protocols and beliefs. This effort may
+include disinterment, repatriation, documentation, and me-
+morial efforts, where appropriate, in consultation with In-
+dian Tribes, Alaska Native Villages, and the Native Ha-
+waiian Community.
+103Some individual federal Indian boarding schools accounted for multiple sites. The 408 fed-
+eral Indian boarding schools includes 431 separate sites.
+104As the U.S. Senate has recognized, funds from the 1819 Civilization Fund ‘‘were appor-
+tioned among those societies and individuals—usually missionary organizations—that had been
+prominent in the effort to ‘civilize’ the Indians.’’
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00026 Fmt 6659 Sfmt 6969 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+27
+The Federal Indian Boarding School Initiative con-
+stitutes the first time the federal government has reviewed
+the scope of these policies. This is an important step for in-
+tergenerational healing from the ongoing effects these poli-
+cies caused, and we will take an all-of-government ap-
+proach. I believe that our obligations to Native commu-
+nities mean that federal policies should fully support and
+revitalize Native health care, education, Native languages,
+and cultural practices that prior federal Indian policies,
+like those supporting Indian boarding schools, sought to
+destroy. We can heal from the harm and violence caused
+by Indian assimilation by effecting government wide poli-
+cies of revitalization for the Indigenous people of our coun-
+try.
+I recently announced that we will embark on the ‘‘Road
+to Healing,’’ a tour throughout the nation to hear directly
+from survivors of federal Indian boarding schools and their
+descendants about their experiences. A necessary part of
+this journey will be to connect survivors and their families
+with mental health support, and to create a permanent
+collection of oral histories. We know this won’t be easy, but
+it is a history that we must learn from if we are to heal
+from this tragic era in our country.
+As part of the Federal Indian Boarding School Initiative,
+I look forward to continuing our work alongside sister fed-
+eral agencies that administer the sites of former Indian
+boarding schools or possess or control records pertaining to
+the federal Indian boarding school system and those that
+currently provide medical and mental health services for
+Native communities. I am confident that, together, we can
+support the individuals and communities that have been
+shaped by detrimental federal Indian boarding school poli-
+cies.
+I am proud of the work the Department is accomplishing
+to confront its role in these assimilation policies through
+education and am deeply grateful to Congress for its sup-
+port as well. In particular, the Department appreciates the
+$7 million in funding provided for this work in Fiscal Year
+2022, and we look forward to working with Congress on
+our Fiscal Year 2023 request of an additional $7 million.
+These funds are crucial in order for this work to be thor-
+ough and effective, in particular the labor-intensive work
+of gathering and examining records and identifying and
+characterizing various sites.
+This funding will enable the Department to help expand
+existing school profiles following Volume 1 of the report,
+including detailing the number of children that attended
+federal Indian boarding schools; identifying marked and
+unmarked burial sites; identifying interred children, where
+possible; and detailing the amount of federal support for
+the system including support to non-federal entities.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00027 Fmt 6659 Sfmt 6969 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+28
+S. 2907—A Bill to Establish the Truth and Healing Com-
+mission on Indian Boarding School Policies in the
+United States
+I am grateful for the Committee’s leadership in also con-
+sidering S. 2907 as part of this hearing. This legislation,
+which I led with my colleagues when I served in the U.S.
+House of Representatives, would establish a Truth and
+Healing Commission on Indian Boarding School Policies in
+the United States. The Commission would be required to
+investigate the impacts and ongoing effects of the Indian
+Boarding School Policies where Native children were forc-
+ibly removed from their homes. The Commission would be
+directed to develop recommendations on: (1) how to protect
+unmarked graves and accompanying land protections; (2)
+support repatriation and identify the Tribal Nations from
+which children were taken; and (3) to prevent the contin-
+ued removal of American Indian, Alaska Native, and Na-
+tive Hawaiian children from their families and Native
+communities under modern-day assimilation practices car-
+ried out by State social service departments, foster care
+agencies, and adoption services.
+The Administration strongly supports this legislation,
+especially the development of national survivor resources
+to address intergenerational trauma, and the inclusion of
+the Commission’s formal investigation and documentation
+practices. In addition to our support, we would welcome an
+opportunity to work with the Committee, especially on ac-
+cess to records pertaining to the federal Indian boarding
+school system under the control of non-federal entities as
+set forth in the legislation to supplement the Department’s
+Initiative.
+Conclusion
+Some of the most influential decisions by the Depart-
+ment on the lives of American Indian, Alaska Native, and
+Native Hawaiian children involve those related to federal
+Indian boarding schools. That is part of America’s story
+that we must tell. While we cannot change that history, I
+believe that our nation will benefit from a full under-
+standing of the truth of what took place and a focus on
+healing the wounds of the past. I am grateful for your
+work to help address the atrocities that Indian boarding
+school survivors and families have endured for decades.
+Thank you again for your focus on the Federal Indian
+Boarding School Initiative and consideration of S. 2907. I
+am confident that, together, we can start to help Tribal
+communities to heal and strengthen Indian Country and
+the Native Hawaiian Community now and for future gen-
+erations.
+REGULATORY AND PAPERWORK IMPACT STATEMENT
+Paragraph 11(b) of rule XXVI of the Standing Rules of the Sen-
+ate requires each report accompanying a bill to evaluate the regu-
+latory and paperwork impact that would be incurred in carrying
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00028 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+29
+out the bill. The Committee believes that S. 761, as reported, will
+have minimal impact on regulatory or paperwork requirements.
+CHANGES IN EXISTING LAW
+In the opinion of the Committee, it is necessary to dispense with
+the requirements of subsection 12 of rule XXVI of the Standing
+Rules of the Senate to expedite the business of the Senate.
+Æ
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00029 Fmt 6659 Sfmt 6611 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+
+================================================================================
+
+Raw Text:
+Calendar No. 139
+119THCONGRESS REPORT
+1st Session " SENATE ! 119–54
+TRUTH AND HEALING COMMISSION ON INDIAN
+BOARDING SCHOOL POLICIES ACT OF 2025
+JULY31, 2025.—Ordered to be printed
+Ms. MURKOWSKI, from the Committee on Indian Affairs,
+submitted the following
+R E P O R T
+[To accompany S. 761]
+The Committee on Indian Affairs, to which was referred the bill
+(S. 761) to establish the Truth and Healing Commission on Indian
+Boarding School Policies in the United States, and for other pur-
+poses, having considered the same, reports favorably thereon with-
+out amendment and recommends that the bill do pass.
+PURPOSE
+To establish a Truth and Healing Commission on Indian Board-
+ing School Policies (Commission) in the United States within the
+legislative branch to formally investigate, document, and report on
+the impacts and ongoing effects of Indian Boarding Schools Policies
+on Native peoples; to develop recommendations for federal action
+based on the findings of the Commission; and to promote healing
+for the survivors, descendants, and communities affected by Indian
+Boarding Schools.
+BACKGROUND
+Before European contact, Native peoples maintained unique edu-
+cational systems rooted in community and designed to meet the
+needs of their environments and cultures.1 The arrival of Euro-
+peans to North America and the Pacific Islands ushered in an era
+of attempted assimilation of Native peoples into European-Amer-
+1K. Tsianina Lomawaima & Teresa McCarty, To Remain an Indian: Lessons in Democracy
+from a Century of Native American Education (2006).
+59–010
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+2
+ican ways of life.2 Systemic attempts to eliminate Native lan-
+guages, beliefs, and cultures, and end resistance to colonization,
+began as early as the 17th and 18th centuries, with the founding
+of some of the country’s oldest educational institutions.34
+Assimilationist practices and policies through compelled edu-
+cation were not limited to formal institutions. For example, in the
+1780s, Russian fur trading companies in Alaska took Native boys
+hostage, sent them to training schools, and forced them into ser-
+vitude as navigators, interpreters, and seamen.5 In other cases,
+training schools were founded by religious institutions and later
+funded by the federal government. In 1878, Presbyterian mission-
+aries established a day school in Sitka, Alaska, at a former military
+barracks. The Sheldon Jackson School, so called after its founder,
+sought to ‘‘house and educate . . . ‘with the intent to encourage
+Native Americans to adopt Euro-American culture.’’’6 Jackson was
+later named as the Department of the Interior’s first General Agent
+of Education in Alaska in 1885, and in this position, created ‘‘con-
+tract schools’’ in which the federal government contracted with reli-
+gious missionary associations to establish schools in remote villages
+across Alaska.7 Whether carried out in formal educational settings
+or in day, industrial, training, contract, or other schools, the forced
+‘‘education’’ of Native children has a long history in the United
+States that implicates a number of institutions, including the fed-
+eral government, all with the same mission: ‘‘kill the Indian in him,
+and save the man.’’8
+FEDERAL SUPPORT FOR FORCED ASSIMILATION THROUGH EDUCATION
+OF NATIVE CHILDREN
+By the early 1800s, the United States began a campaign of forced
+assimilation under the guise of educating Native youth, formalizing
+the practice after the War of 1812. In 1819, Congress passed the
+Indian Civilization Fund Act to provide for federal oversight of the
+education of Native peoples and to establish an annual ‘‘civilization
+2See generally COHEN’S HANDBOOK OF FEDERAL INDIAN LAW, 22.03[1][a] (2012 ed. & 2019
+Supp.).
+3Indian Education: A National Tragedy, A National Challenge, S. Comm. on Labor and Public
+Welfare, Special Subcomm. on Indian Educ., S. REP. NO. 91–501 (1969) (highlighting examples
+such as King James IV of Scotland (James I of England) calling for Anglican clergy to fund the
+education of the ‘‘children of these Barbarians in Virginia’’ in 1617). See also Harvard University
+Charter of 1650 (1650), https://guides.library.harvard.edu/c.php?g=880222&p=6323072 (‘‘[for pur-
+poses of, among other things] the education of the English and Indian youth of this country,
+in knowledge and godliness’’); Royal Charter establishing the College of William & Mary in Vir-
+ginia (1693), https://scrc-kb.libraries.wm.edu/royal-charter#Transcription+of+the+Royal+Charter
+(establishing the college so that, among other things, ‘‘the Christian faith may be propagated
+amongst the Western Indians’’).
+4Dartmouth College Charter (1769), https://www.library.dartmouth.edu/digital/digital-
+collections/dartmouth-college-charter/read (establishing the ‘‘design of spreading Christian
+knowledge among the savages of our American wilderness’’ by means of ‘‘education and instruc-
+tion of youth of the Indian tribes . . . which shall appear necessary and expedient for civilizing
+and christianizing children of pagans’’); see Colin Calloway, The Indian History of an American
+Institution: Native Americans at Dartmouth (2010); see also Stephen W. Haycox, Alaska: An
+American Colony 146 (2002).
+5Svetlana G. Fedorova, The Russian Population in Alaska and California Late 18th Century—
+1867 242–243 (Richard A. Pierce et al., ed. & trans., 1973). Following admission to statehood,
+some former Russian schools in Alaska continued to operate through church parishes. Id. at 266.
+6NAT’LPARKSERV. NATIONALHISTORICLANDMARKNOMINATION, SHELDONJACKSONSCHOOL
+(2001) at 5.
+7Stephen W. Haycox, Sheldon Jackson in Historical Perspective: Alaska Native Schools and
+Mission Contracts, 1885–1894, 28 THEPAC. HIST. 1, 18–28 (1984).
+8See Captain R.H. Pratt, The Advantages of Mingling Indians with Whites, in AMERICANIZING
+THE AMERICAN INDIANS: WRITINGS BY THE ‘‘FRIENDS OF THE INDIAN,’’ 1880–1900 (Francis Paul
+Prucha ed., 1973).
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+3
+fund’’ of $10,000 per year for the purposes of converting them to
+European ways of living, speaking, and acting.9 Most of these
+funds were provided to churches and their mission schools;10 in
+Hawai‘i, missionaries from the United States established day
+schools and boarding schools primarily aimed at ‘‘civilizing’’ and
+converting Native Hawaiians to Christianity.11 Over time, the fed-
+eral government centralized administration of Indian educational
+efforts under the Commission of Indian Affairs within the Depart-
+ment of the Interior (DOI), the successor in jurisdiction to the De-
+partment of War.12 By 1838, the federal government operated 16
+manual training schools with approximately 800 Native students,
+and 87 boarding schools with approximately 2,900 Native stu-
+dents.13 The policies of these schools were rooted in a belief that
+Native peoples were ‘‘barbarous and heathen . . . [and] ‘wedded to
+savage habits, customs, and prejudices’’’ which could be ‘‘cured’’
+through manual training and labor.14
+Accordingly, in 1879, the federal government opened one of the
+first off-reservation Indian boarding schools, the Carlisle Indian In-
+dustrial School (Carlisle School), in an abandoned U.S. Army bar-
+racks in Carlisle, Pennsylvania.15 General Richard Henry Pratt, an
+Army officer and founder of the Carlisle School, established a
+‘‘rapid coercive assimilation’’ approach that became the model for
+the federal Indian boarding school system, and required ‘‘severe
+[military] discipline . . . to separate a child from his reservation
+and family, strip him of tribal lore and mores, force the complete
+abandonment of his native language, and prepare him in such a
+way that he would never return to his people.’’16 General Pratt’s
+approach at the Carlisle School was rooted in his experience with
+American Indians held as prisoners of war at the Hampton Normal
+and Agricultural Institute (Hampton School),17 which is regarded
+as the nation’s first residential experiment in educating American
+Indians as a means of preparing them for citizenship.18 The Hamp-
+ton School’s founder, General Samuel C. Armstrong, was influenced
+by his parents and other missionaries in Hawai‘i who were in-
+volved in the education of Native Hawaiian children. Believing that
+9Act of March 3, 1819, ch. 85, 3 Stat. 516 (codified at 25 U.S.C. §271). Annual appropriations
+to fund Indian education continued under the Indian Civilization Fund Act until repealed in
+1873 by the Act of Feb. 14, 1873, Ch. 138, 17 Stat. 437, 461. See generally COHEN’SHANDBOOK
+OFFEDERALINDIANLAW, 22.03[1][a] at 1329–30 & n.6.
+10See S. REP. NO. 91–501 at 11, 143 (1969).
+11See U.S. DEP’TOFTHEINTERIOR, FEDERALINDIANBOARDINGSCHOOLINITIATIVEINVESTIGA-
+TIVE REPORT (2022) (‘‘In 1836 . . . missionaries formed the Hilo Boarding School . . . [t]he
+Charter of the Hilo Boarding School . . . required schooling of Native Hawaiian male children
+in . . . Christian living . . . coupled with manual labor to promote good citizenship training.’’).
+12See Letter from John C. Calhoun, U.S. Sec’y of War, to Thomas L. McKenney (Mar. 11,
+1824), in H.R. DOC. NO. 19–146, at 6 (1826); 25 U.S.C. §1; Act of July 9, 1832, Ch. 174, 4 Stat.
+564.
+13S. REP. NO. 91–501, at 11 (1969).
+14Id. at 8.
+15Id. at 147.
+16Id. at 148.
+17Jon L. Brudvig, ‘‘Make Haste Slowly:’’ The Experiences of American Indian Women at Hamp-
+ton Institute, 1878–1923 1 (2005), https://www.se.edu/native-american/wp-content/uploads/sites/
+49/2019/09/Proceedings-2005-Brudvig.pdf (‘‘Hampton . . . was established in 1868 to serve the
+. . . needs of recently emancipated slaves . . . American Indian students [formerly prisoners
+of war] came to Hampton . . . [and] their presence . . . spawned the development of off-reserva-
+tion [Indian] boarding schools’’).
+18Id.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+4
+‘‘the Polynesian, like the Negro, suffered from a ‘deficiency of char-
+acter,’’’19
+General Armstrong modeled the Hampton School after the Hilo
+Boys’ Boarding School in Hawai‘i, a missionary-run boarding school
+established to primarily convert Native Hawaiians to Christianity
+and, ultimately, ‘‘civilize’’ them through manual labor and train-
+ing.20 The Hampton School continued as a boarding school for
+American Indians, Alaska Natives, and Native Hawaiians until
+1923.21
+As mission-run boarding schools expanded their reach through-
+out the country and to the Hawai‘i territory, in 1891 Congress au-
+thorized the Commissioner of Indian Affairs to promulgate regula-
+tions ‘‘to secure the attendance’’ of Indian children at such
+schools.22 These regulations applied to all Indian children between
+the ages of eight and eighteen (whether living on or off-reserva-
+tion), permitted the use of law enforcement to compel attendance,
+and authorized the withholding of clothes, rations, and other annu-
+ities from non-compliant parents or guardians.23 Some Indians,
+such as the Hopis in Arizona, opposed the forced education of their
+children to the point that they were labeled ‘‘hostiles,’’ arrested,
+and jailed at Alcatraz Island in California for nearly a year.24 The
+overarching federal goal of compelled schooling was to reduce the
+cost of fighting with Indian Tribes and, ultimately, dispossess them
+of their homelands through the complete elimination of their lan-
+guages, cultures, religions, and social bonds.25
+Once at the schools, Native children were subject to systematic
+violence, including corporal and psychological punishment such as
+shaving heads to remove traditional hairstyles; confinement; flog-
+ging and whipping for speaking a Native language or engaging in
+other prohibited conduct; handcuffing; having older children punish
+younger ones; sexual abuse; neglect; and malnourishment.26 In
+some cases, children would be ‘‘lent’’ to nearby communities or ad-
+jacent states to work as servants and farm laborers, in what were
+commonly known as ‘‘outing programs.’’27 Placement at these
+schools led to disease, death, and the fraying of Native languages,
+19Ralph Canevali, Hilo Boarding School: Hawai‘i’s Experiment in Vocational Education 92
+(1977), https://core.ac.uk/download/pdf/5014889.pdf.
+20C. Kalani Beyer, The Connection of Samuel Chapman Armstrong as Both Borrower and Ar-
+chitect of Education in Hawai‘i (2007), https://www.cambridge.org/core/journals/history-of-
+education-quarterly/article/abs/connection-of-samuel-chapman-armstrong-as-both-borrower-and-
+architect-of-education-in-hawaii/15E99DC33C913D9485CE7773D158C046.
+21See generally Ralph Canevali, Hilo Boarding School: Hawai‘i’s Experiment in Vocational
+Education (1977), https://core.ac.uk/download/pdf/5014889.pdf.
+22Act of March 3, 1891, ch. 543, 26 Stat. 989, 1014.
+23Act of March 3, 1891, Ch. 543, 26 Stat. 989, 1035. See S. REP. NO. 91–501 at 151 (1969):
+U.S. CONG. SERIALSET, VOL. 2934, at 158–159 (1891); 25 U.S.C. §283.
+24National Park Service, Hopi Prisoners on the Rock, https://www.nps.gov/articles/hopi-pris-
+oners-on-the-rock.htm (last visited Mar. 31, 2025); National Park Service, The Army and Amer-
+ican Indian Prisoners, https://www.nps.gov/articles/the-army-and-american-indian-prisoners.htm
+(last visited Mar. 31, 2025).
+25Legislative Hearing on H.R. 5444, Truth and Healing Commission on Indian Boarding
+Schools Policies Act Before the Subcomm. on Indigenous Peoples of the H. Comm. on Nat. Res.,
+117th Cong. (2022) (statement of Deborah Parker, Nat’l Native Boarding School Healing Coali-
+tion).
+26U.S. DEP’TOFTHEINTERIOR, FEDERALINDIANBOARDINGSCHOOLINITIATIVEINVESTIGATIVE
+REPORTVOL. I, 7–8 (2022).
+27See, e.g., Kevin Whalen, Beyond School Walls: Race, Labor, and Indian Education in South-
+ern California, 1902–1940 (2014) (Ph.D. dissertation, University of California Riverside); Kevin
+Whalen, NATIVESTUDENTSATWORK: AMERICANINDIANLABORANDSHERMANINSTITUTE’SOUT-
+INGPROGRAM, 1900–1945 (University of Washington Press 2018).
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+5
+cultural and religious practices, and social life;28 the physical and
+psychological effects of these experiences created lasting intergen-
+erational trauma for survivors and their families.29
+Compounding such cruelty, official school policies (or in some
+cases, simple geography) kept children and their parents and fami-
+lies apart. In an 1886 report to the Secretary of the Interior, Indian
+School Superintendent John B. Riley wrote, ‘‘[i]f it be admitted that
+education affords the true solution to the Indian problem, then it
+must be admitted that the boarding school is the very key to the
+situation.’’30 Riley went on to say, ‘‘[o]nly by complete isolation of
+the Indian child from his savage antecedents can he be satisfac-
+torily educated . . . .’’31 Such techniques were also used by mis-
+sion-run schools. For example, in 1887, an Alaska Native mother
+sought a writ of habeas corpus to free her child from a government-
+funded Presbyterian Boarding School in Sitka, Alaska. While the
+judge allowed limited visitation, he required the child to stay at the
+school, writing, ‘‘It is the experience of those who have been en-
+gaged in these Indian schools that, to make them effectual as dis-
+seminators of civilization, Indian children should, at a tender and
+impressionable age, be entirely withdrawn from the camp, and
+placed under the control of these schools. [Allowing parents to take
+their children home] would render all efforts of both the govern-
+ment and missions to civilize them abortive.’’32
+According to DOI’s Federal Indian Boarding School Initiative Re-
+port Volume II, as of July 2024, the federal government supported
+or operated at least 41733 Indian boarding schools between 1819
+and 1969, across 37 states or then-territories.34 The total number
+of Native children who attended these schools is unknown, but
+many did not survive and their remains never returned home. The
+Department of the Interior concluded that, based on available
+records, 973 Indian child deaths were documented across the fed-
+eral Indian boarding school system between 1819–1969, but ac-
+knowledged that that number is much greater due to incomplete
+28See supra notes 7 & 26; see also, Juliet Larking-Gilmore, Homesick: Disease and Distance
+in American Indian Boarding Schools, REMEDIA (Nov. 18, 2016), https://
+remedianetwork.wordpress.com/2016/11/18/homesick-disease-and-distance-in-american-indian-
+boarding-schools/; Legislative Hearing on H.R. 5444, Truth and Healing Commission on Indian
+Boarding Schools Policies Act Before the Subcomm. on Indigenous Peoples of the H. Comm. on
+Nat. Res., 117th Cong. (2022) (statement of James LaBelle Sr., National Native Boarding School
+Healing Coalition); Legislative Hearing on H.R. 5444, Truth and Healing Commission on Indian
+Boarding Schools Policies Act Before the Subcomm. on Indigenous Peoples of the H. Comm. on
+Nat. Res., 117th Cong. (2022) (statement of Matthew War Bonnet, boarding school survivor).
+29See e.g., Legislative Hearing on H.R. 5444, Truth and Healing Commission on Indian Board-
+ing Schools Policies Act Before the Subcomm. on Indigenous Peoples of the H. Comm. on Nat.
+Res., 117th Cong. (2022) (statement of James LaBelle Sr., National Native Boarding School
+Healing Coalition); Legislative Hearing on H.R. 5444, Truth and Healing Commission on Indian
+Boarding Schools Policies Act Before the Subcomm. on Indigenous Peoples of the H. Comm. on
+Nat. Res., 117th Cong. (2022) (statement of Matthew War Bonnet, boarding school survivor);
+Amy Bombay et al., The Intergenerational Effects of Indian Residential Schools: Implications for
+the Concept of Historical Trauma, 51 Transcultural Psychiatry 3 (2014); Hope MacDonald Lone-
+tree, Healing from the Trauma of Federal Residential Indian Boarding Schools, ADMINISTRATION
+FOR CHILDREN AND FAMILIES (Nov. 24, 2021), https://www.acf.hhs.gov/blog/2021/11/healing-
+trauma-federal-residential-indian-boarding-schools.
+30Annual Report of the Indian School Superintendent to the Secretary of the Interior 137
+(1886).
+31Id.
+32In re Can-ah-couqua, 29 F. 687, 690 (D. Alaska 1887).
+33U.S. DEP’TOFTHEINTERIOR, FEDERALINDIANBOARDINGSCHOOLINITIATIVEINVESTIGATIVE
+REPORTVOL. II (2024).
+34Id., 92 (reporting 22 schools in Alaska, 7 in Hawai‘i, 12 in Kansas, 21 in Minnesota, 16
+in Montana, 3 in Nevada, 43 in New Mexico, 12 in North Dakota, 76 in Oklahoma, 30 in South
+Dakota, and 15 in Washington).
+VerDate Sep 11 2014 01:28 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+6
+information.35 Recent reports estimate that more than 3100 Native
+students died while attending an Indian boarding school between
+1828 and 1970.36
+FEDERAL INVESTIGATIONS INTO INDIAN EDUCATION37
+The Problem of Indian Administration (Meriam Report)—1928
+On June 12, 1926, Secretary of the Interior Huber Work commis-
+sioned the Institute for Government Research, later renamed the
+Brookings Institute, to conduct a comprehensive survey of Indian
+affairs in the United States.38 The survey, named the ‘‘Meriam Re-
+port’’ after its author, focused on a number of areas, including in-
+dustrial, social, and medical activities, property rights, economic
+conditions, and education of Indian peoples. The Meriam Report
+compared these activities as carried out within the DOI’s Office of
+Indian Services to similar programs implemented by other federal
+agencies.
+Generally, the Meriam Report exposed Interior’s ineffective and
+inadequate oversight of Indian affairs, finding that ‘‘an over-
+whelming majority of the Indians are poor, even extremely poor
+. . .’’ and suffer from a ‘‘vicious circle of poverty. . . .’’39 On Indian
+education, and boarding schools specifically, the Meriam Report
+concluded that ‘‘the provisions for the care of the Indian children
+in boarding schools are grossly inadequate,’’ and that ‘‘even at the
+best schools these sources do not fully meet the requirements for
+the health and development of the children. At the worst schools,
+the situation is serious in the extreme.’’40 It specified four general
+deficiencies in Indian education at the time: inappropriate peda-
+gogy;41 lack of funds;42 lack of personnel;43 and lack of qualified
+personnel.44 These findings provided a foundation for the passage
+of the Johnson O’Malley Act45 and the Indian Self Determination
+and Education Assistance Act of 1975, which expressed Congres-
+sional intent to return Tribal control of, and expand self-determina-
+tion in, the education of Native children with federal funds.46
+Indian Education: A National Tragedy—A National Challenge
+(Kennedy Report)—1969
+In 1967, the United States Senate established the Special Sub-
+committee on Indian Education within the Committee on Labor
+and Public Welfare, and specifically authorized it to examine, in-
+vestigate, and make a complete study of all matters pertaining to
+35Id., 15–16.
+36Dana Hedgpeth et al., More Than 3,100 Students Died at Schools Built to Crush Native
+American Cultures, Wash. Post (Dec. 22, 2024), https://www.washingtonpost.com/investigations/
+interactive/2024/native-american-deaths-burial-sites-boarding-schools/.
+37See Indian Education: A National Tragedy, A National Challenge, S. Comm. on Labor and
+Public Welfare, Special Subcomm. on Indian Educ., S. REP. NO. 91–501 (1969). Although not
+explicitly focused on Indian Boarding Schools, in 1928 and again in 1969, DOI and the U.S. Sen-
+ate, respectively, conducted investigations into the state of Indian education in the United
+States.
+38Lewis Meriam, Institute for Government Research, The Problem of Indian Administration
+(1928) [hereinafter Meriam Report].
+39Id. at 11.
+40Meriam Report at 12.
+41Id. at 346.
+42Id. at 347.
+43Id.
+44Id.
+4525 U.S.C. §5342 et seq. (1934).
+4625 U.S.C. §5301 et seq. (1975).
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+7
+the education of Indian children and related issues.47 For over two
+years, the Subcommittee held hearings, conducted document-based
+research, and traveled throughout Indian Country. Its final report,
+known as the Kennedy Report, contained 60 recommendations and
+concluded that Indian education was a failure and a ‘‘national trag-
+edy.’’ The Kennedy Report led to enactment of the Indian Edu-
+cation Act of 1972, landmark legislation that established the U.S.
+Department of Education’s Office of Indian Education and the Na-
+tional Advisory Council on Indian Education.48
+EXECUTIVE ACTIONS REGARDING INDIAN BOARDING SCHOOLS
+Department of the Interior Federal Indian Boarding School Initia-
+tive
+On June 22, 2021, Secretary of the Interior Deb Haaland di-
+rected DOI, under the supervision of the Assistant Secretary—In-
+dian Affairs, to investigate and prepare a report detailing the im-
+pacts of the federal Indian Boarding School Policies that operated
+between 1819 and 1969.49 The first volume of the investigative re-
+port, released on May 11, 2022, documents and affirms that the
+United States targeted American Indian, Alaska Native, and Na-
+tive Hawaiian children as part of its assimilation and territorial
+dispossession efforts.50 It presents evidence that the Federal Indian
+Boarding School system engaged in systematic, militarized, and
+identity-altering practices51 to culturally assimilate American In-
+dian, Alaska Native, and Native Hawaiian children as a ‘‘cost sav-
+ing’’ method to decrease the likelihood of war with Native nations
+and ultimately dispossess them of their lands.52 In light of such
+evidence, the Assistant Secretary—Indian Affairs recommended
+inter alia that the DOI ‘‘renounce forced assimilation of Indian
+Tribes, Alaska Native Villages, and the Native Hawaiian Commu-
+nity as a legitimate policy objective,’’ as well as produce a second
+report, with additional investigation that includes a full accounting
+of federal support for the federal Indian Boarding School system.53
+In 2023, Secretary Haaland and Assistant Secretary Newland con-
+ducted a 12-stop ‘‘Road to Healing’’ listening tour in ten states to
+acknowledge and address the historical trauma caused by federal
+Indian Boarding Schools. Throughout the tour, survivors and de-
+scendants shared personal accounts and testimonies of abuse, ne-
+glect and cultural suppression. The U.S. Department of the Interior
+released the second and final volume of its Federal Indian Board-
+ing School Investigative Report on July 17, 2024. This final report
+updated the number of federal Indian Boarding Schools to 417 in-
+stitutions across 37 states or then-territories; documented at least
+47S. Res. 165, 90th Cong. (1967).
+48Indian Education: A National Tragedy, A National Challenge, S. Comm. on Labor and Pub-
+lic Welfare, Special Subcomm. on Indian Educ., S. REP. NO. 91–510, at 105–136 (1969).
+49Memorandum from the Sec’y of the Interior to Assistant Sec’ys, Principal Deputy Assistant
+Sec’ys, Heads of Bureaus, and Offices (Jun. 22, 2021) (on file with the U.S. Dep’t of the Interior),
+https://doi.gov/sites/doi.gov/files/secint-memo-esb46-01914-federal-indian-boarding-school-truth-
+initiative-2021-06-22-final508-1.pdf.
+50U.S. DEP’TOFTHEINTERIOR, FEDERALINDIANBOARDINGSCHOOLINITIATIVEINVESTIGATIVE
+REPORT, VOL. I 5 (2022).
+51Id. at 7 (Such practices included renaming children in English, cutting their hair, discour-
+aging or preventing the use of Native languages and religious and cultural practices, organizing
+children into units to perform military-style drills, and employing various forms of corporal and
+psychological punishment).
+52Id. at 37, 38.
+53Id. at 95, 97.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+8
+973 Native children died while attending federally operated or sup-
+ported Indian boarding schools; confirmed the existence of at least
+74 marked and unmarked burial sites at 65 different school loca-
+tions, and found the U.S. government appropriated over $23.3 bil-
+lion (in 2023 inflation-adjusted dollars) between 1871 and 1969 for
+the operation of federal Indian Boarding School system and related
+federal assimilation policies.54 The final report also provided rec-
+ommendations to the federal government, which included calling
+for an official apology.55 On October 25, 2024, President Biden
+issued a formal apology for the U.S. government’s role in operating
+Indian boarding schools, acknowledging the profound harm in-
+flicted on Native communities over a 150-year period that stripped
+Native children of their languages and cultures.56
+TRUTH AND RECONCILIATION ACTIVITIES IN NORTH AMERICA
+UNITED STATES
+National Native American Boarding School Healing Coalition
+The National Native American Boarding School Healing Coali-
+tion (NABS) was formed in 2011 to develop a national strategy to
+raise public awareness of federal Indian Boarding School policies
+and support healing for survivors, their families, and commu-
+nities.57 Comprised of over 1,200 Native and non-Native members
+and organizations, NABS conducts historic and contemporary re-
+search and engages in public education and advocacy.
+Notably, NABS maintains a first of its kind ‘‘National Indian
+Boarding School Digital Archive’’ platform of digitized records and
+collections documenting information related to Indian Boarding
+Schools, as well as an interactive map showing the locations of
+each of the 526 Indian Boarding Schools identified to date.58 NABS
+also collaborates with organizations, including Canada’s National
+Centre for Truth and Reconciliation and the National Indian Edu-
+cation Association, to develop culturally-based curriculum for edu-
+cators, and works with the American Indian College Fund to pro-
+vide scholarships to descendants of former Indian Boarding School
+students. And, through a grant from the DOI, NABS is building a
+record of survivor testimony through an oral history project to doc-
+ument the experiences of boarding school survivors and promote
+healing.59
+As the leading advocacy organization dedicated to understanding
+and addressing the legacy of federal Indian Boarding School poli-
+54U.S. DEP’TOFTHEINTERIOR, FEDERALINDIANBOARDINGSCHOOLINITIATIVEINVESTIGATIVE
+REPORTVOL. II (2024).
+55Id. at 22.
+56Dana Hedgpeth, Sara Horwitz and Toluse Olorunnipa, ‘I formally apologize’: Biden con-
+demns U.S. Indian Boarding Schools, WASH POST (October 25, 2024), https://
+www.washingtonpost.com/investigations/2024/10/25/biden-apology-indian-boarding-schools/
+?utm_source=chatgpt.com.
+57See THE NATIONAL NATIVE AMERICAN BOARDING SCHOOL HEALING COALITION, https://
+boardingschoolhealing.org/ (last visited Mar. 31, 2025).
+58Interactive Digital Map of Indian Boarding Schools, THE NATIONAL NATIVE AMERICAN
+BOARDING SCHOOL HEALING COALITION, https://boardingschoolhealing.org/digitalmap/ (last vis-
+ited Mar. 31, 2025).
+59Press Release, U.S. Department of the Interior, Interior Department Launches Effort to
+Preserve Federal Indian Boarding School Oral History (Sept. 6, 2023) https://www.doi.gov/
+pressreleases/interior-department-launches-effort-preserve-federal-indian-boarding-school-oral.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+9
+cies,60 NABS has provided extensive testimony and subject matter
+expertise to Congress about the need for legislation to create a fed-
+eral commission to fully investigate, document, and acknowledge
+these policies, and to promote healing for survivors, families, and
+communities that were affected.61
+Maine-Wabanaki Truth and Reconciliation Commission
+In 2012, the Wabanaki Confederacy62 and Maine Governor Paul
+LePage signed a mandate establishing the first Tribal-State Truth
+and Reconciliation Commission: the Maine-Wabanaki Truth and
+Reconciliation Commission (MWTRC).63 The MWTRC’s purpose
+was to address the high rates at which Indian children were being
+removed from Indian homes and placed in foster care following en-
+actment of the Indian Child Welfare Act of 1978.64 Between Feb-
+ruary 2013 and June 2015, the MWTRC engaged in a truth-seeking
+process by interviewing over 150 people and traveling to numerous
+villages and communities to receive testimony. In June 2015, the
+MWTRC published its final report, which included sixteen findings
+and fourteen recommendations for future action.65
+Alaska Native Heritage Center: Lach’qu Sukdu Research Program
+In 2021, the Alaska Native Heritage Center (ANHC) created an
+Indigenous-led research program, Lach’qu Sukdu (‘‘True Story’’ in
+the Dena’ina language), to investigate the Alaska’s Indian boarding
+schools and institutions, among other goals. Such research includes
+identifying the scope of the system, location of schools and children
+buried on these sites, and identification of children who were part
+of the system. To date, Lach’qu Sukdu has identified over 100 sites
+of former Indian boarding schools or institutions in Alaska.
+ANHC’s Lach’qu Sukdu provides a place for Alaska Native peo-
+ple to share information concerning assimilative boarding schools
+in Alaska, increases access to information and education, supports
+Alaska Native culture and heritage, and promotes healing through
+the recognition of the history and impacts of assimilative boarding
+schools. Lach’qu Sukdu is partnering with ecclesial institutions,
+providing access to Alaska Native community members, and
+leveraging research and curatorial staff to catalogue primary
+60See, THE NATIONAL NATIVE AMERICAN BOARDING SCHOOL HEALING COALITION, 2023 AN-
+NUAL REPORT 5 (2023), https://boardingschoolhealing.org/wp-content/uploads/2024/04/Annual-
+Report-NABS-2023_V2.pdf.
+61See, e.g., Legislative Hearing on H.R. 5444, Truth and Healing Commission on Indian
+Boarding Schools Policies Act Before the Subcomm. on Indigenous Peoples of the H. Comm. on
+Nat. Res., 117th Cong. (2022); Oversight Hearing on ‘‘Volume 1 of the Department of the Inte-
+rior’s Federal Indian Boarding School Initiative Investigative Report’’ and Legislative Hearing
+on S. 2907 Before the S. Comm. on Indian Affs., 117th Cong. (2022).
+62FOUR DIRECTIONS, https://fourdirectionsmaine.org/about-four-directions/wabanaki-tribes/
+(last visited Mar. 31, 2025) (the Wabanaki Confederacy is a confederation of Eastern Algonquin
+Nations and includes the Aroostook Band of Micmacs, the Houlton Band of Maliseet Indians,
+the Passamaquoddy Tribe at Motahkmikuk (Indian Township), the Passamaquoddy Tribe at
+Sipayik (Pleasant Point), and the Penobscot Indian Nation).
+63MAINE WABANAKI-STATE CHILD WELFARE TRUTH AND RECONCILIATION COMMISSION MAN-
+DATE(June 29, 2012) (on file with the Senate Committee on Indian Affairs) [hereinafter MAINE
+TRC].
+64Id. Because of the terms of the Maine Indian Claims Settlement Act (P.L. 96–420), the ap-
+plication of the Indian Child Welfare Act to Tribes in Maine varies among the Maine Tribes.
+See Remote Legislative Hearing, House Natural Resources Subcommittee for Indigenous Peoples
+of the United States, 117th Cong. (2022).
+65Maine Wabanaki-State Child Welfare Truth and Reconciliation Commission, Report, BE-
+YOND THE MANDATE: CONTINUING THE CONVERSATION (2015), https://
+d3n8a8pro7vhmx.cloudfront.net/mainewabanakireach/pages/17/attachments/original/1468974047/
+TRC-Report-Expanded_July2015.pdf?1468974047.
+VerDate Sep 11 2014 01:28 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+10
+source material, conduct interviews, and map school locations.
+Through these inputs and activities, Lach’qu Sukdu will promote
+accurate representations of the Alaska Native experience of Fed-
+eral Indian Boarding Schools, create new models to facilitate heal-
+ing from historical trauma, and over the long-term improve lin-
+guistic and cultural revitalization and promote reconciliation be-
+tween Alaska Native communities and assimilative institutions.66
+First Alaskans Institute—Alaska Truth, Racial Healing and Trans-
+formation Movement
+Starting in 2017, the First Alaskans Institute, in partnership
+with Truth, Racial Healing and Transformation: Alaska, developed
+a relational platform for transformation, including a network of ac-
+countability partners to support efforts related to Indigenous lan-
+guage education, transformation of public education, and the ad-
+vancement of policies that center Alaska Native stewardship and
+protect Alaska Native ways of being.67
+The Truth, Racial Healing and Transformation: Alaska move-
+ment incorporates the knowledge and vision of Alaska Native heal-
+ers to foster healing and connectedness for thriving communities.68
+In connection with this movement, the First Alaskans Institute
+trained media outlets on racial equity, invited them to be account-
+ability partners, and developed a ‘‘How We Heal Toolkit’’ to guide
+healing and reconciliation processes.69 The toolkit is based on ad-
+vice from traditional healers about how to prepare for truth telling
+gatherings, including preparation of the gathering place, resources,
+and participants; how to support participants as they go through
+the truth telling process; and how to incorporate ancestral wisdom,
+cultures, and traditions.
+California Truth & Healing Council
+In 2019, the State of California established the California Truth
+& Healing Council to witness, record, and examine existing docu-
+mentation of, and receive California Native American narratives
+on, the historical relationship between California Native Americans
+and the State, and to clarify the historical record of that relation-
+ship in the spirit of truth and healing.70 The Council is led and
+convened by the Governor’s Tribal Affairs Secretary—a position
+currently held by an enrolled member of a California Tribe71—and
+is governed by a Council of Tribal leaders representing Central,
+Eastern, Northern, and Southern California.72
+By 2025, the Council will submit a final written report of find-
+ings that will reflect a holistic understanding of the historical rela-
+tionship between California Native Americans and the State, may
+66ALASKA NATIVE HERITAGE CENTER, Cultural Programming, https://www.alaskanative.net/
+learn/cultural-programming/ (last visited Mar. 31. 2025) (on file with on file with the Senate
+Committee on Indian Affairs).
+67W.K KELLOGG FOUNDATION, Truth, Racial Healing & Transformation, https://
+healourcommunities.org/ (last visited Apr. 1, 2025).
+68First Alaskans Institute, How We Heal Toolkit: Communities and Collective (2019), https://
+boardingschoolhealing.org/wp-content/uploads/2019/05/First-Alaskans-THRT-Toolkit.pdf.
+69Id.
+70Cal. Exec. Order No. N–15–19 (June 18, 2019), https://www.gov.ca.gov/wp-content/uploads/
+2019/06/6.18.19-Executive-Order.pdf.
+71See GOVERNOR’S OFFICE OF TRIBAL AFFAIRS, Tribal Affairs Secretary, https://
+tribalaffairs.ca.gov/tribal-affairs-secretary/ (last visited Mar. 8, 2024).
+72California Truth & Healing Council, Charter of the California Truth & Healing Council
+(2020), Ch. II, Art. 3, https://cthcupdates.files.wordpress.com/2021/05/cthc-charter_final.pdf.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+11
+include recommendations aimed at reparation and restoration, and
+may consider how to prevent similar depredations and policies in
+the future.73
+Federal Reconciliation Efforts with the Native Hawaiian Commu-
+nity
+In 1993, on the 100th anniversary of the overthrow of the King-
+dom of Hawai‘i, the United States formally apologized and com-
+mitted to a process of reconciliation with Native Hawaiians by ac-
+knowledging its actions to usurp their sovereignty over land and
+natural resources and their right to self-determination through the
+overthrow and eventual annexation by the United States.74 A Joint
+Resolution of Congress75 recognized that the overthrow resulted in
+the suppression of Native Hawaiians’ ‘‘inherent sovereignty’’ and
+deprived them of their ‘‘rights to self-determination’’ and that
+‘‘long-range economic and social changes in Hawai‘i over the nine-
+teenth and early twentieth centuries have been devastating to the
+population and to the health and well-being of the Hawaiian peo-
+ple.’’76 It further recognized that ‘‘the Native Hawaiian people are
+determined to preserve, develop, and transmit to future genera-
+tions their ancestral territory and their cultural identity in accord-
+ance with their own spiritual and traditional beliefs, customs, prac-
+tices, language, and social institutions.’’77 In light of these findings,
+Congress ‘‘express[ed] its commitment to acknowledge the ramifica-
+tions of the overthrow of the Kingdom of Hawai‘i, in order to pro-
+vide a proper foundation for reconciliation between the United
+States and the Native Hawaiian people.’’78
+Accordingly, following a series of hearings and meetings with the
+Native Hawaiian community in 1999, the DOI and Department of
+Justice issued ‘‘From Mauka to Makai: The River of Justice Must
+Flow Freely,’’ a report on the reconciliation process between the
+federal government and Native Hawaiians. The report concluded
+that ‘‘the past history of the United States-Native Hawaiian rela-
+tions reveals many instances in which the United States actions
+were less than honorable. Native Hawaiians continue to suffer the
+effects of these actions, for which our Nation continues to have
+moral responsibility,’’ and recommended that, ‘‘[f]or justice to be
+served, past wrongs suffered by the Native Hawaiian people should
+be addressed . . . through . . . efforts to promote the welfare of
+the Native Hawaiian people, respect their rights, and address the
+wrongs that their community has suffered . . . to ensure true rec-
+onciliation.’’79
+73GOVERNOR’S OFFICE OF TRIBAL AFFAIRS, About the California Truth & Healing Council,
+https://tribalaffairs.ca.gov/cthc/about/ (last visited May 29, 2025). (As of May 29, 2025, no final
+report has been submitted).
+74See generally COHEN’SHANDBOOKOFFEDERALINDIANLAW, 4.07[4][a]–[c] (2012 ed. & 2023
+Supp.) (providing overview and historical background of Kingdom of Hawai‘i and federal rela-
+tionship with Native Hawaiians as a result of the overthrow).
+75The Apology Resolution of 1993, Pub. L. No. 103–150, 107 Stat. 1510 (1993).
+76Id. at 1512–13.
+77Id.
+78Id.
+79U.S. DEP’T OF THE INTERIOR & DEP’T OF JUSTICE, FROM MAUKA TO MAKAI: THE RIVER OF
+JUSTICE MUST FLOW FREELY 4 (2000), https://www.doi.gov/sites/doi.gov/files/uploads/mauka-to-
+makai-report-2.pdf.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+12
+CANADA
+Indian Residential Schools Truth and Reconciliation Commission of
+Canada
+Like the United States, Canada has a centuries-long history of
+boarding or ‘‘residential’’ schools that were established as part of a
+larger policy of termination and assimilation of Native or First Na-
+tions peoples.8081 Between at least the 1830s and the late 1990s,
+Canadian residential schools directly affected approximately
+150,000 children.
+Following a series of class action lawsuits filed by residential
+school survivors against the Canadian federal government, the Ca-
+nadian federal government agreed to negotiate a settlement.82 The
+Indian Residential Schools Settlement Agreement included a man-
+date to create the Canadian Truth and Reconciliation Commission
+(TRC), which had several goals to advance reconciliation through
+community education, hearings, and policy actions.83
+Between 2008 to 2015, the TRC received testimony from more
+than 6,500 witnesses, including many survivors of residential
+schools, hosted seven large national events to engage the Canadian
+public in a process of education, conducted 238 days of local hear-
+ings in 77 communities, and produced a six-volume report pro-
+viding a historical overview of Canadian residential schools and
+their legacy, as well as recommending a path to reconciliation with
+94 action items.84
+NEED FOR LEGISLATION
+Indian Boarding Schools were part of a federally-sanctioned pol-
+icy of forced assimilation, focused on erasing Native cultures, reli-
+gions, languages and identities in the United States. The traumatic
+effects of Indian Boarding School policies and practices on Native
+communities are still felt by survivors, their descendants, and their
+communities to the present day.85 While the Native American Lan-
+guages Act of 1991 found that the United States initiated ‘‘acts of
+suppression and extermination of Native American languages and
+cultures,’’86 Congress has not fully acknowledged the U.S. govern-
+ment’s role and responsibility for these past policies or formally es-
+80Truth and Reconciliation Commission of Canada, Honouring the Truth, Reconciling for the
+Future: Summary of the Final Report of the Truth and Reconciliation Commission of Canada,
+(2015), https://irsi.ubc.ca/sites/default/files/inline-files/Executive_Summary_English_Web.pdf
+[hereinafter TRC Canada Summary].
+81TRC Canada Summary at 54 (speaking to Canada’s overarching policy towards First Na-
+tions in 1920, Deputy Minister of Indian Affairs Duncan Campbell stated, ‘‘our object is to con-
+tinue until there is not a single Indian in Canada that has not been absorbed into the body
+politic’’).
+82TRC Canada Summary at 129–134.
+83Acknowledge residential school experiences, impacts, and consequences; provide a holistic,
+culturally appropriate, and safe setting for survivors and their families to provide testimony to
+the TRC; witness, support, and promote national and community-level reconciliation events; pro-
+mote public awareness and education about residential schools and their impacts; create as com-
+plete a historical record as possible; submit a final report describing the history, purpose, oper-
+ation, effect, and consequences of residential schools; and support commemoration of former resi-
+dential school students and their families. INDIAN RESIDENTIAL SCHOOLS SETTLEMENT AGREE-
+MENT, SCHEDULEN, at 1–2 (2006).
+84NATIONALCENTERFORTRUTHANDRECONCILIATION, Reports, https://nctr.ca/records/reports/
+(last visited Mar. 31, 2025).
+85Legislative Hearing on H.R. 5444, Truth and Healing Commission on Indian Boarding
+Schools Policies Act Before the Subcomm. on Indigenous Peoples of the H. Comm. on Nat. Res.,
+117th Cong. (2022).
+86Native American Languages Act, Pub. L. No. 101–477, § 102, 101 Stat. 1153, 1154 (1990).
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+13
+tablished a structured Native-led process for Native and non-Na-
+tive communities to examine and heal from such policies.87
+Further, while some non-profit organizations,88 religious institu-
+tions,89 and the DOI have conducted investigations into the im-
+pacts of Indian Boarding School policies, and some religious institu-
+tions are beginning to acknowledge their role in carrying out these
+policies and offering actions they can take to address those
+harms,90 the federal government has yet to take comprehensive,
+concerted action commensurate with the harms inflicted by its own
+policies. Current public and private efforts to address this issue
+cannot, by themselves, fully address the history or consequences of
+federal Indian Boarding School policies without Congressional ac-
+knowledgment and support.91 S. 761 provides for a thorough, na-
+tionwide process warranted by the breadth and severity of the fed-
+eral Indian Boarding School legacy.
+SUMMARY
+S. 761 reflects extensive bipartisan review, analysis, and debate
+in three key areas related to the Commission and its advisory bod-
+ies: (1) structure, (2) establishment, and (3) operation.
+Structure and Timeline
+S. 761 establishes a five-member Truth and Healing Commission
+on Indian Boarding School Policies in the United States, a 19-mem-
+ber Native American Truth and Healing Advisory Committee, a 20-
+member Federal and Religious Truth and Healing Advisory Com-
+mittee, and a 15-member Survivors Truth and Healing Sub-
+committee, with certain members of the Commission and Survivors
+Subcommittee cross-appointed to leadership positions on the dif-
+ferent advisory bodies (See Figure 1).
+87See Apology to Native Peoples of the United States, H.R. 3326, 111th Cong. § 8113 (2009).
+88See e.g. THENATIONALNATIVEAMERICANBOARDINGSCHOOLHEALINGCOALITION, at https://
+boardingschoolhealing.org/ (last visited Apr. 1, 2025).
+89The Episcopal Church, A127—Resolution for Telling the Truth about the Episcopal Church’s
+History with Indigenous Boarding Schools (2022), https://www.episcopalarchives.org/sites/
+default/files/gc_resolutions/2022-A127.pdf.
+90See e.g. United States Conference of Catholic Bishops, Keeping Christ’s Sacred Promise: A
+Pastoral Framework for Indigenous Ministry (2024), www.usccb.org/resources/
+Indigenous%20Pastoral%20Framework%20-June%202024-Final%20Text.pdf.
+91U.S. DEP’TOFTHEINTERIOR, FEDERALINDIANBOARDINGSCHOOLINITIATIVEINVESTIGATIVE
+REPORT6 (2022) (noting the limitation of the scope of its investigation).
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+14
+S. 761 limits the Commission’s investigation authority to six (6)
+years and requires it to complete and publish a Final Report before
+the end of that period. The bill also establishes a timeline for key
+milestones for the work of the Commission and its various advisory
+bodies. (See Figure 2).
+This structure and timeline of key milestones was created in re-
+sponse to testimony from Tribal leaders regarding their experiences
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00014 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+200.45RS
+ereh
+51
+oilof
+tesffo
+tresnI
+100.45RS
+ereh
+41
+oilof
+tesffo
+tresnI
+
+15
+working with existing Tribal advisory committees, as well as advo-
+cates, religious institutions, and federal agencies regarding the
+range of offices, entities, and individuals that would be necessary
+for the Commission to efficiently and successfully exercise its du-
+ties and responsibilities.92
+Establishment
+S. 761 requires candidates for all positions on the Commission,
+the Survivors Truth and Healing Subcommittee, and the Native
+American Truth and Healing Advisory Committee, to be nominated
+by Native entities and peoples, and establishes a bipartisan and bi-
+cameral Congressional process for appointing Commissioners.
+Nominees to serve on the Commission shall represent significant
+expertise in: (1) research; (2) Indigenous human rights; (3) Tribal
+courts, restorative justice, and federal agencies; (4); trauma in-
+formed care; or (5) cultural knowledge. The bill also establishes
+deadlines for nominations and appointments, as well as publication
+of an interim and final report to include related agency responses.
+Membership and appointment to the Federal and Religious Truth
+and Healing Advisory Committee shall be made pursuant to section
+211(b) of S. 761.
+Operation
+S. 761 addresses the operation of the Commission and its advi-
+sory bodies in four key areas—coordination, costs, investigation,
+and healing.
+Coordination
+The Commission must coordinate with and consider the needs of
+various stakeholders, including boarding school survivors and de-
+scendants, Native communities, relevant organizations, and federal
+agencies. The legislation facilitates such coordination through the
+appointment of non-voting designees from the Advisory Committees
+and Subcommittee to the Commission, and cross-appointment of
+certain Commissioners and members of the Survivors Sub-
+committee to leadership positions in various advisory committees
+(See Figure 1).
+In addition, the Commission may coordinate with federal entities
+by requesting detailees, contracting with public agencies, utilizing
+the Government Services Administration, exercising Buy Indian
+Act authority, and engaging with various federal archiving and cu-
+ratorial facilities. It may also utilize resources provided by Native
+communities, individuals, churches, and other private organiza-
+tions; and it may accept voluntary services from a range of sources,
+including universities and law schools.
+Costs
+S. 761 authorizes appropriations of $15,000,000 per fiscal year,
+to remain available until expended, for the Commission to carry
+out its work for six years, and permits the Commission to supple-
+92U.S. DEP’TOFTHEINTERIOR, FEDERALINDIANBOARDINGSCHOOLINITIATIVEINVESTIGATIVE
+REPORTVOL. 1 14–15 (2022) (emphasizing that the Indian boarding school system was complex
+and its records expansive). DOI reported finding almost 40,000 boxes and almost 100,000 sheets
+of paper in the American Indian Records Repository (AIRR) related to federal Indian boarding
+schools.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00015 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+16
+ment its funding through fundraising and donations from the pri-
+vate and charitable sectors. The Committee developed this funding
+framework through careful consideration of the costs associated
+with past and contemporary examples of similar commissions, such
+as the Canadian Truth and Reconciliation Commission, the DOI’s
+Federal Indian Boarding School Initiative, and the California Truth
+& Healing Council in California, among others. The Committee
+also considered the broad scope of the Commission’s anticipated du-
+ties, including public and private meetings with potentially tens of
+thousands of individuals from all 50 states,93 directing research ac-
+tivities involving over one hundred million pages of documents,94
+and providing trauma-informed care to participants at convening.
+Investigation
+Obtaining information is core to the Commission’s investigatory
+function and its duty to deliver written findings and recommenda-
+tions to Congress. The Committee learned through extensive feed-
+back from Tribal stakeholders and religious organizations that for
+the Commission to accomplish the purposes of this Act and make
+accurate recommendations, it must have tools and qualified staff to
+properly collect, organize, and preserve information and items ob-
+tained from witnesses, federal agencies, religious institutions, or
+through other means while following federal law and regulations.95
+To that end, the Commission is authorized to carry out domestic
+and international archival research and may enter into contracts or
+agreements with public agencies, private organizations, or individ-
+uals as well as accept voluntary services from a range of sources,
+including universities and law schools to locate, review, and ana-
+lyze information related to Indian Boarding School policies. Al-
+though S. 761 does not provide the Commission with subpoena au-
+thority, it will have the assistance of the Federal and Religious
+Truth and Healing Advisory Committee to help it obtain ‘‘all rel-
+evant information’’ to the investigation the Commission is charged
+with conducting.
+Healing
+The Commission fulfills its responsibility to promote healing in
+three primary ways. First, the commission, itself, is a formal ac-
+knowledgement of the widespread and long-term harm caused by
+federal Indian Boarding School policies which is a foundational
+step in healing for survivors, their descendants and Native commu-
+93Legislative Hearing on H.R. 5444, Truth and Healing Commission on Indian Boarding
+Schools Policies Act Before the Subcomm. on Indigenous Peoples of the H. Comm. on Nat. Res.,
+supra note 26. The Canadian Truth and Reconciliation Commission received over 1,000 hours
+of testimony from over 6,000 individuals to address 139 boarding schools. Given the 526 known
+boarding schools in the United States, the Commission is expected to receive approximately four
+times the amount of testimony.s
+94U.S. DEP’TOFTHEINTERIOR, FEDERALINDIANBOARDINGSCHOOLINITIATIVEINVESTIGATIVE
+REPORT, VOL. I (2022). DOI’s report cites a total of 98.4 million pages at the American Indian
+Records Repository alone, not accounting for the additional eight million pages believed to be
+within the current and former boarding schools’ possession, custody, or control.
+95For example, delayed information resulted in the Canadian Truth and Reconciliation Com-
+mission’s final report inaccurately citing a total of 6,000 child deaths at Canadian Residential
+Schools, when, almost 10 years later, and because of untimely obtained information, the number
+is better understood to be between 10,000 and 25,000. Additionally, the discovery of 215 children
+buried in a mass grave in Kamloops, Canada was made after the conclusion of the Canadian
+Commission’s work. See e.g., Oversight Hearing on ‘‘Volume 1 of the Department of the Interior’s
+Federal Indian Boarding School Initiative Investigative Report’’ and Legislative Hearing on S.
+2907 Before the S. Comm. on Indian Affs., 117th Cong. (2022) (statement of Sandra White
+Hawk, Nat’l Native Boarding School Healing Coalition).
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00016 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+17
+nities. Second, the Commission provides a national forum with
+processes for survivors and their descendants to share their experi-
+ences, receive validation, and access trauma-informed care. Third,
+the Commission will bring transparency and truth to the investiga-
+tion and will approach research about—and possible repatriation
+of—students’ human remains with diligence and care, docu-
+menting, preserving, and appropriately sharing information regard-
+ing the discovery of burials with affected parties in accordance with
+the Native American Graves Protection and Repatriation Act and
+its applicable uniform repatriation processes.
+LEGISLATIVE HISTORY
+S. 761 was introduced by Senators Murkowski and Warren along
+with Senator Schatz and 12 other original cosponsors on February
+26, 2025. To date, there are 23 cosponsors to S. 761.
+In the 118th Congress, a similar bill, S. 1723 was introduced by
+Senators Warren and Murkowski along with Senator Schatz and 24
+other original cosponsors, on May 18, 2023. The Committee held a
+business meeting to consider S. 1723 on June 7, 2023, and ordered
+the bill to be reported with an amendment in the nature of a sub-
+stitute favorably.96 On December 20, 2024, the Committee with-
+drew its substitute to S. 1723 and by unanimous consent the full
+Senate adopted S. Amdt. 3351 to S. 1723, an amendment in the na-
+ture of a substitute proposed by Senator Schatz. S. Amdt. 3351
+struck the Commission’s subpoena authority, renamed the Federal
+Truth and Healing Advisory Committee to be the Federal and Reli-
+gious Truth and Healing Advisory Committee, struck the Native
+American preference for nominee’s to serve as a Commissioner,
+added three representatives to the renamed Federal and Religious
+Truth and Healing Advisory Committee that are employed by or
+acting as representatives of religious institutions appointed by the
+White House Office of Faith-Based and Neighborhood Partnerships
+(renamed White House Office of Faith in 2025), and authorized ap-
+propriation of $90,000,000 to fund the Commission over its six-year
+term. S. 1723 passed the Senate as amended by voice vote on De-
+cember 20, 2024.97
+A companion bill, H.R. 7227, was introduced by Representatives
+Davids (D–KS) and Cole (R–OK) in the House of Representatives
+on February 5, 2024. At the end of the 118th Congress, H.R. 7227
+had 80 cosponsors. The bill was referred to the Committees on
+Education and Workforce, Natural Resources, and Energy and
+Commerce. At a business meeting held on June 13, 2024, the Com-
+mittee on Education and Workforce considered H.R. 7227. Rep-
+resentative Kiley (R–CA) offered an amendment in the nature of a
+substitute. No other amendments were offered. The Committee or-
+dered H.R. 7227 reported, as amended, by a vote of 34–4.98 On No-
+vember 22, 2024, the Committees on Natural Resources and En-
+ergy and Commerce discharged the bill and H.R. 7227 was placed
+on the Union Calendar.
+In the 117th Congress, Senator Warren, along with Senator
+Schatz and 12 other original co-sponsors, introduced S. 2907, simi-
+96S. Rept. No. 118–187 (2024).
+97Truth and Healing Commission on Indian Boarding Schools Policies Act; Congressional
+Record Vol. 170, No. 190 (Daily Ed Dec. 20. 2024) Pages S7254–S7267.
+98H. Rept. No. 118–760 (2024).
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00017 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+18
+lar legislation on September 30, 2021. Senator Murkowski and 12
+other senators later joined as cosponsors. On June 22, 2022, the
+Committee held a Legislative Hearing on S. 2907.99
+On September 30, 2021, Representatives Davids (D–KS) and Cole
+(R–OK), introduced H.R. 5444, companion legislation to S. 2907.
+Representatives Davids (D–KS) and Cole (R–OK) were joined by 86
+cosponsors. H.R. 5444 was referred to the Committees on Edu-
+cation and Labor and Natural Resources. On October 3, 2021, the
+Committee on Natural Resources referred H.R. 5444 to the Sub-
+committee for Indigenous Peoples of the United States. On May 12,
+2022, the Subcommittee held a hearing on the bill. On June 15,
+2022, the Committee considered H.R. 5444 at a markup meeting.
+Representative Grijalva (D–AZ) offered an amendment in the na-
+ture of a substitute, which was treated as the base text for amend-
+ment purposes.100 The Committee on Natural Resources ordered
+H.R. 5444, as amended, reported favorably by voice vote.101102
+In the 116th Congress, Senators Warren (D–MA), Merkley (D–
+OR), and Smith (D–MN) introduced similar legislation, S. 4752, on
+September 29, 2020. The Senate took no action on the legislation
+in the 116th Congress.
+On September 29, 2020, Representative Haaland (D–NM), intro-
+duced companion legislation, H.R. 8420, an identical bill to S. 4752.
+Representative Haaland (D–NM) was joined by 17 co-sponsors.
+H.R. 8420 was referred to the Committees on Education and Labor
+and Natural Resources. The House of Representatives took no ac-
+tion on the legislation in the 116th Congress.
+COMMITTEE RECOMMENDATION
+The Senate Committee on Indian Affairs, in open business meet-
+ing on March 5, 2025, by a majority voice vote of a quorum present,
+recommends that the Senate pass S. 761.
+SECTION-BY-SECTION ANALYSIS OF S. 761
+Section 1—Short title; Table of Contents
+This section sets forth the short title of the bill as the ‘‘Truth and
+Healing Commission on Indian Boarding School Policies Act of
+2025’’ and provides a table of contents.
+Section 2—Purposes
+This section establishes four purposes of the bill:
+• To establish a Truth and Healing Commission on Indian
+Boarding School Policies in the United States, including nec-
+essary advisory committees and subcommittees;
+99S. Hrg. 117–534: Oversight Hearing on Volume 1 of the Department of the Interior’s Fed-
+eral Indian Boarding School Initiative Investigative Report and Legislative Hearing on S. 2907
+Before the S. Comm. on Indian Affs., 117th Cong. (2022), https://www.congress.gov/117/chrg/
+CHRG-117shrg50193/CHRG-117shrg50193.pdf.
+100Representative Bruce Westerman (R–AR) offered two amendments, Representatives Jay
+Obernolte (R–CA) and Lauren Boebert (R–CO) each offered an amendment. One of Representa-
+tive Westerman’s (R–AR) amendments was agreed to by unanimous consent. Representatives
+Obernolte (R–CA) and Boebert’s (R–CO) amendments were not agreed to by roll call votes.
+101U.S. House of Representatives, Committee Repository, Markup of H.R. 263, H.R. 5444,
+H.R. 6063, H.R. 6181, H.R. 6337, H.R. 6427, H.R. 6707, H.R. 6734, H.R. 7002, H.R. 7025, H.R.
+7075, and S. 789, https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=114898.
+102H. Rept. No. 117–595 Part I (2022).
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00018 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+19
+• To formally investigate, document, and report on the his-
+tories of Indian Boarding School Policies and their systematic
+and long-term impacts on Native American peoples;
+• To develop recommendations for federal action based on
+the findings of the Commission; and
+• To promote healing for survivors of Indian Boarding
+Schools, their descendants, and their communities.
+Section 3—Definitions
+This section provides definitions for various terms used through-
+out the bill.
+TITLE I—COMMISSION AND SUBCOMMITTEES
+Subtitle A—Truth and Healing Commission on Indian Boarding
+School Policies in the United States
+Section 101(a) establishes a commission to be known as the
+‘‘Truth and Healing Commission on Indian Boarding School Poli-
+cies in the United States.’’
+Section 101(b) sets forth criteria and process for the five mem-
+bers of the Commission and requirements for nominations, appoint-
+ments, vacancies, removals, termination, and limitations of these
+members.
+Section 101(c) establishes procedures for the initial business
+meeting of the Commission and a basic framework for subsequent
+business meetings, including format, rules, quorum, and inclusion
+of Advisory Committee and Subcommittee designees.
+Section 101(d) establishes that a simple majority of Commission
+members constitutes a quorum for a business meeting.
+Section 101(e) authorizes the Commission to establish rules for
+conducting Commission business.
+Section 101(f) establishes the rates for Commissioner compensa-
+tion and travel expenses, and authorizes federal employees to be
+detailed to the Commission upon request.
+Section 101(g) establishes the powers of the Commission includ-
+ing:
+• Holding convenings and receiving testimony and evidence;
+• Conducting or requesting research and securing relevant
+information to meet the purposes of the bill;
+• Overseeing, directing, and collaborating with the Advisory
+Committees and Subcommittee;
+• Coordinating with federal and non-federal agencies to
+carry out preservation and archival activities;
+• Securing additional personnel and services through con-
+tracting, volunteers, and the General Services Administration;
+• Using the U.S. Postal Service in the same manner as fed-
+eral agencies;
+• Accepting gifts, engaging in fundraising, disbursing funds,
+issuing tax-deductions for gifts; and
+• Coordinating with the Library of Congress and the Smith-
+sonian Institution to archive and preserve relevant gifts and
+donations.
+Section 101(h) sets forth the framework for the Commission to
+create rules and protocols for public convenings, establishes dead-
+lines for announcing convenings, sets the minimum number of
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00019 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+20
+convenings, and clarifies that testimony shall be permitted at the
+convenings subject to the discretion of the Commission’s Chair-
+person.
+Section 101(i) clarifies that the Federal Advisory Committee Act
+shall not apply to the Commission.
+Section 101(j) applies the Congressional Accountability Act of
+1995 to any Commissioner or individual who is an employee of the
+Commission.
+Section 101(k) directs the Committee to meaningfully consult or
+engage, as appropriate, with relevant individuals, Tribes, and Na-
+tive organizations.
+Section 101(l) authorizes appropriations of $90 million from sec-
+tion 105 of the Indian Land Consolidation Act Amendments of 2000
+and section 403 of the Indian Financing Act of 1974, to carry out
+the bill.
+Subtitle B—Duties of the Commission
+Section 111(a) establishes the investigatory duties of the Com-
+mission, including:
+• Conducting a comprehensive interdisciplinary investiga-
+tion into Indian Boarding School Policies and their effects on
+the social, cultural, economic, emotional, and physical health of
+Native communities, Indian Tribes, survivors of Indian Board-
+ing Schools, and families and descendants of survivors;
+• Conducting a comprehensive review of historical and archi-
+val materials;
+• Collaborating with the Federal and Religious Truth and
+Healing Advisory Committee to obtain relevant information
+from federal agencies and other relevant institutions, as well
+as relevant information from Native entities and institutions;
+• Conducting a comprehensive review of the impacts of In-
+dian Boarding School Policies on Native cultures, traditions,
+and languages; and
+• Authorizing the Commission to enter into a contract or
+agreement to acquire, hold, curate, or maintain objects, arti-
+facts, or other property from private individuals and entities,
+provided that federal funds are not used to purchase such
+items.
+Section 111(b) establishes Commission duties regarding meetings
+and convenings, including:
+• Holding safe, trauma-informed, and culturally appropriate
+public or private meetings or convenings to receive testimony;
+and
+• Providing access to adequate trauma-informed care serv-
+ices during and following such meetings and convenings.
+Section 111(c) establishes Commission duties regarding rec-
+ommendations to Congress, including:
+• Considering and evaluating, in light of Tribal, Native Ha-
+waiian, and Tribal customary law, how the federal government
+can meaningfully acknowledge the federal government’s role in
+supporting Indian Boarding School Policies;
+• Determining how modification of existing laws, procedures,
+regulations, policies, budgets, and practices will address the
+findings of the Commission and the ongoing effects of Indian
+Boarding School Policies;
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00020 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+21
+• Considering how the federal government can promote pub-
+lic awareness and education of Indian Boarding School Policies
+and their impacts and;
+• Views of religious institutions.
+Section 111(d) establishes Commission duties regarding burial
+sites, including:
+• Coordinating, as appropriate, with relevant parties to lo-
+cate and identify, in a culturally appropriate manner, marked
+and unmarked burial sites of students who attended an Indian
+Boarding School;
+• Locating, documenting, analyzing, and coordinating the
+preservation or continued preservation of records and informa-
+tion relating to the interment of students; and
+• Sharing with relevant parties, to the extent practicable,
+the burial locations and identities of children who attended In-
+dian Boarding Schools.
+Section 111(e) establishes Commission duties regarding report-
+ing, including:
+• Delivering annual progress reports to Congress;
+• Publishing the initial report of the Commission’s findings
+four (4) years after appointment of a majority of the Commis-
+sioners;
+• Publishing the final report of the Commission’s findings
+before Commission termination with approval by majority of
+the Commission and 3/5 of the Native American Truth and
+Healing Advisory Committee and Survivors Truth and Healing
+Subcommittee;
+• Providing the final report to the listed recipients and mak-
+ing the report publicly available within 180 days of submission
+on the Commission’s website, along with the Departments of
+the Interior, Education, Justice, Defense, and Health and
+Human Services, which are also required to make the report
+available on their websites;
+• Conducting public education and outreach regarding the
+initial and final reports; and
+• Monitoring responses from the Secretaries of the Interior,
+Education, Defense, Health and Human Services, who are re-
+quired to publish a written response to the final report within
+120 days after receipt, and to transmit their response to the
+President, the Senate Committee on Indian Affairs, the House
+Committee on Natural Resources, and the Comptroller General
+of the United States.
+Subtitle C—Survivors Truth and Healing Subcommittee
+Section 121(a) establishes a subcommittee to be known as the
+‘‘Survivors Truth and Healing Subcommittee.’’
+Section 121(b) sets forth criteria for the 15 members of the Sub-
+committee and requirements for nominations, appointments, vacan-
+cies, removals, termination, and limitations.
+Section 121(c) establishes procedures for the initial meeting of
+the Subcommittee and a basic framework for subsequent meetings,
+including format and quorum requirements.
+Section 121(d) establishes that a simple majority of Sub-
+committee members constitutes a quorum for a business meeting.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00021 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+22
+Section 121(e) authorizes the Subcommittee to establish, by ma-
+jority vote, rules for the conduct of its business.
+Section 121(f) establishes the duties of the Subcommittee, includ-
+ing: providing advice to the Commission on criteria and protocols
+for convenings, providing advice and evaluating Committee rec-
+ommendations relating to commemoration and public education,
+and providing such other advice as may be required by the Com-
+mission.
+Section 121(g) directs the Subcommittee to meaningfully consult
+or engage, as appropriate, with relevant individuals, Tribes, and
+Native organizations.
+Section 121(h) clarifies that the Federal Advisory Committee Act
+shall not apply to the Subcommittee.
+Section 121(i) applies the Congressional Accountability Act of
+1995 to any member of the Subcommittee.
+Section 121(j) establishes the compensation and travel expense
+rates for Subcommittee members.
+TITLE II—ADVISORY COMMITTEES
+Subtitle A—Native American Truth and Healing Advisory Com-
+mittee
+Section 201(a) establishes an advisory committee to be known as
+the ‘‘Native American Truth and Healing Advisory Committee’’
+(Native Advisory Committee).
+Section 201(b) sets forth criteria for the 19 members of the Na-
+tive Advisory Committee and requirements for nominations, ap-
+pointments, term lengths, vacancies, termination, and limitations.
+Section 201(c) establishes that a simple majority of Native Advi-
+sory Committee members constitutes a quorum.
+Section 201(d) permits a quorum of the Native Advisory Com-
+mittee to remove a member for neglect of duty or malfeasance.
+Section 201(e) establishes procedures for the initial business
+meeting of the Native Advisory Committee and a basic framework
+for subsequent meetings, including format and quorum require-
+ments.
+Section 201(f) authorizes the Native Advisory Committee to es-
+tablish, by majority vote, rules for the conduct of its business.
+Section 201(g) establishes the duties of the Native Advisory Com-
+mittee, including:
+• Serving as an advisory body to the Commission;
+• Assisting the Commission in organizing and carrying out
+culturally appropriate convenings;
+• Assisting the Commission in determining what documenta-
+tion from Federal and religious organizations and institutions
+may be necessary;
+• Assisting the Commission in the production of the initial
+and final report;
+• Coordinating with the Federal and Religious Truth and
+Healing Advisory Committee and the Survivors Subcommittee;
+and
+• Providing advice or services as the Commission may re-
+quire.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00022 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+23
+Section 201(h) directs the Native Advisory Committee to mean-
+ingfully consult or engage, as appropriate, with relevant individ-
+uals, Tribes, and Native organizations.
+Section 201(i) clarifies that the Federal Advisory Committee Act
+shall not apply to the Advisory Committee.
+Section 201(j) applies the Congressional Accountability Act of
+1995 to any member of the Native Advisory Committee.
+Section 201(k) establishes the compensation and travel expense
+rates for members of the Native Advisory Committee.
+Subtitle B—Federal and Religious Truth and Healing Advisory
+Committee
+Section 211(a) establishes an advisory committee within the De-
+partment of the Interior to be known as the ‘‘Federal and Religious
+Truth and Healing Advisory Committee’’ (Federal and Religious
+Advisory Committee).
+Section 211(b) sets forth criteria for the 20 members of the Fed-
+eral and Religious Advisory Committee and requirements for ap-
+pointments, term lengths, vacancies, removals, and termination.
+Section 211(c) establishes procedures for the initial business
+meeting of the Federal and Religious Advisory Committee, and a
+basic framework for subsequent meetings, including format and
+quorum requirements.
+Section 201(d) establishes that a simple majority of Federal and
+Religious Advisory Committee members constitutes a quorum.
+Section 201(e) authorizes the Federal and Religious Advisory
+Committee to establish, by majority vote, rules for the conduct of
+its business.
+Section 211(f) establishes the duties of the Federal and Religious
+Advisory Committee, including:
+• Ensuring effective and timely coordination between Fed-
+eral agencies and religious institutions;
+• Assisting the Commission and the Native American Truth
+and Healing Advisory Committee in coordinating meetings and
+convenings, and the collection, organization, and preservation
+of information from witnesses, federal agencies, and religious
+institutions;
+• Ensuring the timely submission of relevant evidence to the
+Commission and;
+• Coordinate with the Commission to carry out the purposes
+of the Act.
+Section 211(g) directs the Federal and Religious Advisory Com-
+mittee to meaningfully consult or engage, as appropriate, with rel-
+evant individuals, Tribes, and Native organizations.
+Section 211(h) clarifies that the Privacy Act of 1974, the Freedom
+of Information Act, and the Federal Advisory Committee Act shall
+not apply to the Federal and Religious Advisory Committee.
+TITLE III—GENERAL PROVISIONS
+Section 301 clarifies that the Native American Graves Protection
+and Repatriation Act (NAGPRA) applies to cultural items, human
+remains and funerary objects relating to an Indian Boarding School
+that are located on federal lands, located on lands managed by a
+federal agency, or curated by a federal agency.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00023 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+24
+Section 302 authorizes federal agencies to rebury remains and
+other cultural items relating to Indian Boarding Schools pursuant
+to NAGPRA on other federal lands, consistent with Tribal practices
+and subject to the agreement of the relevant parties.
+Section 303 authorizes federal agencies to enter into co-steward-
+ship agreements for the management of a cemetery or Indian
+Boarding School.
+Section 304 clarifies that nothing in the Act creates a private
+right of action to seek administrative or judicial relief.
+COST AND BUDGETARY CONSIDERATIONS
+The Committee has requested, but has not yet received, the Con-
+gressional Budget Office’s estimate of the cost of S. 761 as ordered
+reported. When the Congressional Budget Office completes its cost
+estimate, it will be posted on the Internet at www.cbo.gov, and
+printed in the Congressional Record.
+EXECUTIVE TESTIMONY AND COMMUNICATIONS
+Testimony provided by the Department of the Interior at the
+June 22, 2022, hearing on S. 2907, similar legislation introduced in
+the 117th Congress follows:
+STATEMENT OF DEB HAALAND
+SECRETARY OF THE UNITED STATES DEPARTMENT OF THE IN-
+TERIOR BEFORE THE SENATE COMMITTEE ON INDIAN AF-
+FAIRS
+Hello and good afternoon, Chairman Schatz, Vice Chair-
+man Murkowski, and members of the Committee. My
+name is Deb Haaland, and I serve as the Secretary of the
+Interior. It is an honor and privilege for me to be here with
+you today to represent the Department of the Interior (De-
+partment) and our tens of thousands of dedicated profes-
+sionals. It is deeply meaningful for me to speak to you
+from the ancestral homelands of the Anacostan and
+Piscataway people. Thank you for the opportunity to
+present the Department’s testimony at this important
+oversight hearing on the Federal Indian Boarding School
+Initiative and S. 2907, a bill to establish the Truth and
+Healing Commission on Indian Boarding School Policies in
+the United States.
+The Biden-Harris administration is determined to make
+a lasting positive difference in response to the trauma that
+these policies have caused, not just in the past but for cur-
+rent generations. I would also like to thank Senator War-
+ren and the Co-chairs of the Congressional Native Amer-
+ican Caucus, Representatives Sharice Davids and Tom
+Cole, for prioritizing legislation to address the federal In-
+dian boarding school policies for the first time in United
+States history and find solutions to further shed light on
+its ongoing impacts on Native American and Native Ha-
+waiian people.
+Starting in 1819, and lasting for over a century and a
+half, the federal government, including the Department of
+the Interior, forcibly removed and assimilated tens of thou-
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00024 Fmt 6659 Sfmt 6969 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+25
+sands of American Indian, Alaska Native, and Native Ha-
+waiian children from tribal communities across the United
+States. Many children who entered the boarding schools
+were involuntarily removed from their communities and
+never returned home. This intentional targeting and re-
+moval of American Indian, Alaska Native, and Native Ha-
+waiian children to achieve the goal of forced assimilation
+of Native people was both traumatic and violent.
+The consequences of federal Indian boarding school poli-
+cies—including the intergenerational trauma caused by
+forced family separation and cultural eradication—were in-
+flicted on generations of children as young as 4 years old
+and are heartbreaking and undeniable. As the head of the
+Department of the Interior and as the first Native Amer-
+ican cabinet secretary, I am in a unique position to ad-
+dress the lasting impacts of these policies. I now have di-
+rect oversight over the very Department that operated and
+oversaw the implementation of the federal Indian boarding
+school system.
+Like all Native people, I am a product of these horrific
+assimilation era policies, as my grandparents were re-
+moved from their families to federal Indian boarding
+schools when they were only 8 years old and forced to live
+away from their parents, culture, and Pueblos until they
+were 13 years old. My family’s story is similar to many In-
+digenous families’ stories in this country which is why, on
+June 22, 2021, I announced the Federal Indian Boarding
+School Initiative, a comprehensive effort to address the
+troubled legacy of federal Indian boarding school policies.
+On that same date, through a memorandum, I directed the
+Assistant Secretary —Indian Affairs to lead the first-ever
+departmental investigation into the federal Indian board-
+ing school system.
+I am incredibly proud of the work that Assistant Sec-
+retary Newland and his entire team did on the first vol-
+ume of this report. I particularly want to acknowledge the
+staff at the Bureau of Trust Funds Administration, which
+is managing the document collection, review, and records
+management of this Initiative. The vast majority of the
+work being released today was done by Indigenous staff in
+this department who worked through their own trauma
+and pain.
+The Department released Volume 1 of the investigative
+report on May 11, 2022. This report lays the groundwork
+for the continued efforts of the Department to address the
+intergenerational trauma created by historical federal pol-
+icy. It marks the first time in over two hundred years,
+since the Indian boarding school policies were imple-
+mented, that the United States has formally reviewed or
+acknowledged the extensive scope and breadth of these
+policies. The Department welcomes Congress’ and this
+Committee’s engagement in this important and continuing
+effort.
+The Department’s investigation focuses on the historical
+Indian boarding school system, which was implemented to
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00025 Fmt 6659 Sfmt 6969 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+26
+further cultural assimilation and removal policies. The De-
+partment fully recognizes that unlike the federal Indian
+boarding school system we are investigating, contemporary
+Native residential schools are vital to advancing modern,
+culturally sensitive education.
+Some key highlights of Volume 1 of the Department’s in-
+vestigation of our federal records include evidence that the
+United States targeted American Indian, Alaska Native,
+and Native Hawaiian children through forced removal to
+Indian boarding schools in furtherance of territorial dis-
+possession of Indigenous lands in the United States. The
+initial investigation shows that, between 1819 and 1969,
+the federal Indian boarding school system consisted of 408
+federal Indian boarding schools across 37 states or then-
+territories, including 21 schools in Alaska and 7 schools in
+Hawai‘i.103
+Additionally, the Department’s initial investigation re-
+sults show that approximately 50 percent of federal Indian
+boarding schools may have received support or involve-
+ment from a religious institution or organization, including
+funding,104 infrastructure, and personnel. Further, the fed-
+eral government at times paid religious institutions and
+organizations for Native children to enter federal Indian
+boarding schools that these institutions and organizations
+operated.
+Another important finding published in Volume 1 identi-
+fies approximately 53 different schools that contain
+marked or unmarked burial sites. While this report lays
+the groundwork for the efforts of the Department to ad-
+dress the full scope of the federal Indian boarding school
+policies and the intergenerational trauma endured by In-
+digenous peoples in this country, the Department is mov-
+ing forward to develop Volume 2 to further expand on
+these preliminary report findings. As the investigation con-
+tinues, we expect the number of identified burial sites to
+increase, along with the potential expansion or more defi-
+nite numbers of identified Indian boarding school sites,
+children, and operating dates of facilities.
+As we add to the list of burial sites, the Department,
+working with relevant sister federal agencies, will expand
+our collaborative work, including increasing Tribal commu-
+nities’ access to mental health resources. These healing ac-
+tions will help strengthen Native communities in a man-
+ner that I hope will be pursuant to each of the various tra-
+ditional and religious protocols and beliefs. This effort may
+include disinterment, repatriation, documentation, and me-
+morial efforts, where appropriate, in consultation with In-
+dian Tribes, Alaska Native Villages, and the Native Ha-
+waiian Community.
+103Some individual federal Indian boarding schools accounted for multiple sites. The 408 fed-
+eral Indian boarding schools includes 431 separate sites.
+104As the U.S. Senate has recognized, funds from the 1819 Civilization Fund ‘‘were appor-
+tioned among those societies and individuals—usually missionary organizations—that had been
+prominent in the effort to ‘civilize’ the Indians.’’
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00026 Fmt 6659 Sfmt 6969 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+27
+The Federal Indian Boarding School Initiative con-
+stitutes the first time the federal government has reviewed
+the scope of these policies. This is an important step for in-
+tergenerational healing from the ongoing effects these poli-
+cies caused, and we will take an all-of-government ap-
+proach. I believe that our obligations to Native commu-
+nities mean that federal policies should fully support and
+revitalize Native health care, education, Native languages,
+and cultural practices that prior federal Indian policies,
+like those supporting Indian boarding schools, sought to
+destroy. We can heal from the harm and violence caused
+by Indian assimilation by effecting government wide poli-
+cies of revitalization for the Indigenous people of our coun-
+try.
+I recently announced that we will embark on the ‘‘Road
+to Healing,’’ a tour throughout the nation to hear directly
+from survivors of federal Indian boarding schools and their
+descendants about their experiences. A necessary part of
+this journey will be to connect survivors and their families
+with mental health support, and to create a permanent
+collection of oral histories. We know this won’t be easy, but
+it is a history that we must learn from if we are to heal
+from this tragic era in our country.
+As part of the Federal Indian Boarding School Initiative,
+I look forward to continuing our work alongside sister fed-
+eral agencies that administer the sites of former Indian
+boarding schools or possess or control records pertaining to
+the federal Indian boarding school system and those that
+currently provide medical and mental health services for
+Native communities. I am confident that, together, we can
+support the individuals and communities that have been
+shaped by detrimental federal Indian boarding school poli-
+cies.
+I am proud of the work the Department is accomplishing
+to confront its role in these assimilation policies through
+education and am deeply grateful to Congress for its sup-
+port as well. In particular, the Department appreciates the
+$7 million in funding provided for this work in Fiscal Year
+2022, and we look forward to working with Congress on
+our Fiscal Year 2023 request of an additional $7 million.
+These funds are crucial in order for this work to be thor-
+ough and effective, in particular the labor-intensive work
+of gathering and examining records and identifying and
+characterizing various sites.
+This funding will enable the Department to help expand
+existing school profiles following Volume 1 of the report,
+including detailing the number of children that attended
+federal Indian boarding schools; identifying marked and
+unmarked burial sites; identifying interred children, where
+possible; and detailing the amount of federal support for
+the system including support to non-federal entities.
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00027 Fmt 6659 Sfmt 6969 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+28
+S. 2907—A Bill to Establish the Truth and Healing Com-
+mission on Indian Boarding School Policies in the
+United States
+I am grateful for the Committee’s leadership in also con-
+sidering S. 2907 as part of this hearing. This legislation,
+which I led with my colleagues when I served in the U.S.
+House of Representatives, would establish a Truth and
+Healing Commission on Indian Boarding School Policies in
+the United States. The Commission would be required to
+investigate the impacts and ongoing effects of the Indian
+Boarding School Policies where Native children were forc-
+ibly removed from their homes. The Commission would be
+directed to develop recommendations on: (1) how to protect
+unmarked graves and accompanying land protections; (2)
+support repatriation and identify the Tribal Nations from
+which children were taken; and (3) to prevent the contin-
+ued removal of American Indian, Alaska Native, and Na-
+tive Hawaiian children from their families and Native
+communities under modern-day assimilation practices car-
+ried out by State social service departments, foster care
+agencies, and adoption services.
+The Administration strongly supports this legislation,
+especially the development of national survivor resources
+to address intergenerational trauma, and the inclusion of
+the Commission’s formal investigation and documentation
+practices. In addition to our support, we would welcome an
+opportunity to work with the Committee, especially on ac-
+cess to records pertaining to the federal Indian boarding
+school system under the control of non-federal entities as
+set forth in the legislation to supplement the Department’s
+Initiative.
+Conclusion
+Some of the most influential decisions by the Depart-
+ment on the lives of American Indian, Alaska Native, and
+Native Hawaiian children involve those related to federal
+Indian boarding schools. That is part of America’s story
+that we must tell. While we cannot change that history, I
+believe that our nation will benefit from a full under-
+standing of the truth of what took place and a focus on
+healing the wounds of the past. I am grateful for your
+work to help address the atrocities that Indian boarding
+school survivors and families have endured for decades.
+Thank you again for your focus on the Federal Indian
+Boarding School Initiative and consideration of S. 2907. I
+am confident that, together, we can start to help Tribal
+communities to heal and strengthen Indian Country and
+the Native Hawaiian Community now and for future gen-
+erations.
+REGULATORY AND PAPERWORK IMPACT STATEMENT
+Paragraph 11(b) of rule XXVI of the Standing Rules of the Sen-
+ate requires each report accompanying a bill to evaluate the regu-
+latory and paperwork impact that would be incurred in carrying
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00028 Fmt 6659 Sfmt 6602 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+29
+out the bill. The Committee believes that S. 761, as reported, will
+have minimal impact on regulatory or paperwork requirements.
+CHANGES IN EXISTING LAW
+In the opinion of the Committee, it is necessary to dispense with
+the requirements of subsection 12 of rule XXVI of the Standing
+Rules of the Senate to expedite the business of the Senate.
+Æ
+VerDate Sep 11 2014 00:13 Aug 12, 2025 Jkt 059010 PO 00000 Frm 00029 Fmt 6659 Sfmt 6611 E:\HR\OC\SR054.XXX SR054
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD

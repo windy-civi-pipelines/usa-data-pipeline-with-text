@@ -1,0 +1,1771 @@
+Title: JUNE6, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JUNE6, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 13
+Source: documents - H. Rept. 119-144
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–144
+AMTRAK TRANSPARENCY AND ACCOUNTABILITY FOR
+PASSENGERS AND TAXPAYERS ACT
+the Union and ordered to be printed
+Mr. GRAVES, from the Committee on Transportation and
+Infrastructure, submitted the following
+R E P O R T
+[To accompany H.R. 188]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Transportation and Infrastructure, to whom
+was referred the bill (H.R. 188) to require that the Amtrak Board
+of Directors comply with the open meetings requirements of section
+552b of title 5, United States Code, and for other purposes, having
+considered the same, reports favorably thereon with an amendment
+and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose of Legislation ............................................................................................. 2
+Background and Need for Legislation .................................................................... 2
+Legislative History and Consideration .................................................................. 3
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings and Recommendations ........................................ 4
+New Budget Authority and Tax Expenditures ...................................................... 4
+Congressional Budget Office Cost Estimate .......................................................... 5
+Performance Goals and Objectives ......................................................................... 8
+Duplication of Federal Programs ............................................................................ 8
+Congressional Earmarks, Limited Tax Benefits, and Limited Tariff Benefits ... 8
+Federal Mandates Statement ................................................................................. 8
+Preemption Clarification ......................................................................................... 8
+Advisory Committee Statement .............................................................................. 8
+Applicability to Legislative Branch ........................................................................ 8
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 9
+Changes in Existing Law Made by the Bill, as Reported ..................................... 9
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+2
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Amtrak Transparency and Accountability for Pas-
+sengers and Taxpayers Act’’.
+SEC. 2. OPEN MEETINGS.
+
+Section 4:
+Section 24301(e) of title 49, United States Code, is amended—
+(1) by striking ‘‘Section 552 of title 5, this part’’ and inserting the following:
+‘‘(1) IN GENERAL.—Except as provided in paragraph (3), section 552 of title 5
+and the open meetings requirements of section 552b of such title, this part’’;
+(2) in the second sentence by striking ‘‘Section 552 of title 5, United States
+Code, applies’’ and inserting the following:
+‘‘(2) TIMING OF APPLICATION.—Except as provided in paragraph (3), sections
+552 and 552b of title 5 apply’’; and
+(3) by adding at the end the following:
+‘‘(3) SCOPEOFAPPLICATION.—
+‘‘(A) INFORMATION.—The requirements of the second sentence of section
+552b(b) of title 5 shall not apply to any portion of an Amtrak meeting and
+subsections (d) and (e) of section 552b of title 5 shall not apply to any infor-
+mation pertaining to any portion of an Amtrak meeting otherwise required
+by section 552b of title 5 to be disclosed to the public in any case in which
+Amtrak properly determines that such portion or portions of the meeting
+or the disclosure of such information is likely to involve—
+‘‘(i) contract negotiations, including negotiations for procurements
+and agreements that may result in a contract, the disclosure of which
+would imperil or compromise the competitive position of Amtrak;
+‘‘(ii) collective bargaining agreements or any terms and conditions
+that are proposed for inclusion in any collective bargaining agreement,
+including the negotiation of terms and conditions with employees or
+representatives of employees of Amtrak;
+‘‘(iii) with respect to any individual who is a prospective officer, em-
+ployee, or contractor or an officer, employee, or contractor employed or
+appointed by Amtrak, matters involving the employment, appointment,
+termination of employment, terms and conditions of employment, eval-
+uation of the performance of, promotion or disciplining of any such indi-
+vidual, unless all such individuals whose rights could be adversely af-
+fected request in writing that the matter or matters be discussed at a
+public meeting; or
+‘‘(iv) confidential commercial information.
+‘‘(B) ADDITIONAL APPLICATION.—In addition to the information described
+in subparagraph (B), the information described in section 552b(c) shall
+apply to Amtrak meetings.
+‘‘(4) RULE OF CONSTRUCTION.—Nothing in this subsection shall be construed
+to—
+‘‘(A) require Amtrak to disclose information that could put the safety of
+Amtrak customers or employees at risk; or
+‘‘(B) prevent Amtrak from taking any action otherwise necessary to—
+‘‘(i) comply with law;
+‘‘(ii) honor existing contracts or legally binding agreements; or
+‘‘(iii) carry out normal business activities consistent with the statu-
+tory mission and goals of Amtrak.’’.
+PURPOSE OF LEGISLATION
+The purpose of H.R. 188, as amended, is to require that the Am-
+trak Board of Directors comply with the open meetings require-
+ments of section 552b of title 5, United States Code, and for other
+purposes.
+BACKGROUND AND NEED FOR LEGISLATION
+The Government in the Sunshine Act [hereinafter ‘‘Sunshine Act’’]
+was enacted to build on previous initiatives to open the govern-
+ment’s decision-making process to the public.1 The goal of the Sun-
+shine Act is to address public feelings that decision making and de-
+1The Gov’t in the Sunshine Act, Pub. L. 94–409, 90 Stat. 1241 at §2. Codified at 5 U.S.C.
+
+Section 5:
+§552b.
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+3
+cision makers are often incompetent, corrupt, inefficient, or other-
+wise not in the public’s interest.2 In providing greater trans-
+parency, the public would have the opportunity to judge the integ-
+rity, competence, and dedication of agency officials.3 It could also
+increase the quality of agency work.4
+Under the Sunshine Act, meetings of certain Federal agencies or
+Federally controlled entities shall be open to public observation.
+There are ten enumerated exemptions to open meeting require-
+ments. Should members of the agency ‘‘properly determine’’ that
+the meetings or portions of the meetings fall under one of the ex-
+emptions, they may vote to close the meeting, but shall provide a
+transcription, recording of minutes of the closed meeting except for
+those portions dealing with the exemptions.5
+Generally, the Sunshine Act defines a covered ‘‘agency’’ to include
+executive departments, Government corporations, Government con-
+trolled corporations, and independent regulatory agency, among
+others.6 The law applies open meetings requirements to agencies
+headed by a collegial body, a majority of whom are appointed by
+the President with the advice and consent of the Senate.7
+While the law establishing Amtrak structured it as a private
+company and states it ‘‘will not be an agency or establishment of
+the United States Government,’’8 today all voting members of its
+Board of Directors are nominated by the President and confirmed
+by the Senate.9 In addition, Congress has applied the Freedom of
+Information Act to Amtrak.10
+As the recipient of significant Federal funding, there has been
+growing Congressional and public interest in Amtrak decision mak-
+ing. H.R. 188 applies the open meetings requirements of the Sun-
+shine Act to meetings of Amtrak’s Board of Directors with certain
+clarifying language that Amtrak may hold closed meetings to dis-
+cuss contract negotiations that the disclosure of which may imperil
+or compromise the competitive position of Amtrak, matters related
+to collective bargaining, individual employment status, and con-
+fidential business information. The bill also protects the disclosure
+of information that may imperil the safety of Amtrak employees
+and passengers or require Amtrak to take any action that may pre-
+vent it from complying with the law, honoring existing contracts or
+legally binding agreements, or carrying out normal business activi-
+ties consistent with the statutory mission and goals of Amtrak.
+H.R. 188 would improve public transparency of Amtrak Board of
+Directors decision making.
+LEGISLATIVE HISTORY AND CONSIDERATION
+H.R. 188, the Amtrak Transparency and Accountability for Pas-
+sengers and Taxpayers Act, was introduced in the United States
+House of Representatives on January 3, 2025, by Mr. Nehls of
+2The Gov’t in the Sunshine Act, Report No. 94–354 at 4.
+3Id.
+4Id. at 5.
+5Administrative Conference of the United States, Information Interagency Bulletin No. 017,
+available at https://www.acus.gov/sites/default/files/documents/17%20Government%20in%20the
+%20Sunshine%20Act%20Basics.pdf.
+65 U.S.C. §552(f)(1).
+75 U.S.C. §522b(a)(1).
+8Rail Passenger Service Act of 1970, Pub. L. 91–518, 84 Stat. 1330 at §301.
+949 U.S.C. §24302(a)(1)(c).
+10Pub. L. No. 92–316, 86 Stat. 228.
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+4
+Texas, with Mr. Graves of Missouri as an original cosponsor, and
+was referred to the Committee on Transportation and Infrastruc-
+ture. Within the Committee on Transportation and Infrastructure,
+H.R. 188 was referred to the Subcommittee on Railroads, Pipelines,
+and Hazardous Materials. The Subcommittee on Railroads, Pipe-
+lines, and Hazardous Materials was discharged from further con-
+sideration of H.R. 188 on April 2, 2025.
+The Committee considered H.R. 188 on April 2, 2025, and or-
+dered the measure to be reported to the House with a favorable
+recommendation, with amendment, by voice vote.
+An Amendment to H.R. 188, offered by Ms. Titus of Nevada
+(Titus 007): Page 2, line 4, strike ‘‘sections 552 and 552b of title
+5’’ and insert ‘‘section 552 of title 5 and the open meetings require-
+ments of section 552b of such title.’’ Page 3, beginning on line 2,
+strike ‘‘negotiations for contract procurements and agreements’’
+and insert ‘‘negotiations for procurements and agreements that
+may result in a contract.’’ Page 3, line 12, strike ‘‘and.’’ Page 3, line
+25, strike the period and insert ‘‘; or.’’ Page 3, after line 25, insert
+the following: ‘‘(iv) confidential commercial information.’’ Page 4,
+line 4, strike the closing quotation marks and the second period.
+Page 4, after line 4, insert the following: ‘‘(4) RULE OF CON-
+STRUCTION.’’—Nothing in this subsection shall be construed to—
+(A) require Amtrak to disclose information that could put the safe-
+ty of Amtrak customers or employees at risk; or (B) prevent Am-
+trak from taking any action otherwise necessary to—(i) comply
+with law; (ii) honor existing contracts or legally binding agree-
+ments; or (iii) carry out normal business activities consistent with
+the statutory mission and goals of Amtrak.’’; was AGREED TO by
+voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires each committee report to include the total number of
+votes cast for and against on each record vote on a motion to report
+and on any amendment offered to the measure or matter, and the
+names of those members voting for and against.
+No recorded votes were requested for H.R. 188.
+COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+With respect to the requirements of clause 3(c)(1) of rule XIII of
+the Rules of the House of Representatives, the Committee’s over-
+sight findings and recommendations are reflected in this report.
+NEW BUDGET AUTHORITY AND TAX EXPENDITURES
+Clause 3(c)(2) of rule XIII of the Rules of the House of Represent-
+atives does not apply where a cost estimate and comparison pre-
+pared by the Director of the Congressional Budget Office under sec-
+tion 402 of the Congressional Budget Act of 1974 has been timely
+submitted prior to the filing of the report and is included in the re-
+port. Such a cost estimate is included in this report.
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+5
+CONGRESSIONAL BUDGET OFFICE COST ESTIMATE
+With respect to the requirement of clause 3(c)(3) of rule XIII of
+the Rules of the House of Representatives and section 402 of the
+Congressional Budget Act of 1974, the Committee has received the
+enclosed cost estimate for H.R. 188, as amended, from the Director
+of the Congressional Budget Office:
+Legislation Considered Under Suspension of the Rules
+The Majority Leader of the House of Representatives announces
+bills that will be considered under suspension of the rules in that
+chamber. Under suspension, floor debate is limited, all floor
+amendments are prohibited, points of order against the bill are
+waived, and final passage requires a two-thirds majority vote.
+At the request of the Majority Leader and the House Committee
+on the Budget, CBO estimates the effects of those bills on direct
+spending and revenues. CBO has limited time to review the legisla-
+tion before consideration. Although it is possible in most cases to
+determine whether the legislation would affect direct spending or
+revenues, time may be insufficient to estimate the magnitude of
+those effects. If CBO has prepared estimates for similar or identical
+legislation, a more detailed assessment of budgetary effects, includ-
+ing effects on spending subject to appropriation, may be included.
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+6
+sevitatneserpeR
+fo
+esuoH
+eht
+ni
+seluR
+eht
+fo
+noisnepsuS
+rednU
+deredisnoC
+noitalsigeL
+fo
+seuneveR
+dna
+gnidnepS
+tceriD no stceffE
+5202
+,9
+enuJ
+fo
+keeW
+-rofni lanoitiddA
+vog.esuoh.scod
+ta
+txet
+llib
+noisnepsuS
+setamitse
+dehsilbup
+ot
+kniL
+- v tc e e r r i d d n a no
+g n n i o d it n a e m ps
+seunever
+no
+tceffE
+gnidneps
+tcerid
+no
+tceffE
+eltiT
+rebmun
+lliB
+stceffe
+eune
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+..........................
+.................
+enoN
+............................................enoN
+-cA
+dna ycnerapsnarT
+kartmA
+..............881
+.R.H
+fdp.lmx_hr_881h/90605202
+.13016
+sregnessaP
+rof ytilibatnuoc sa ,tcA sreyapxaT
+dna
+.dednema
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+..........................
+.................
+enoN
+............................................enoN
+.... tcA
+draoB no gnignahC
+ybaB
+..............842
+.R.H
+fdp.lmx_hr_842h/90605202
+.26416
+/keewsihtsllib/vog.esuoh.scod//:sptth
+.....................................................
+..........................
+.................
+enoN
+............................................enoN
+sa ,tcA stroP ruO
+eruceS
+..............252
+.R.H
+fdp.lmx_hr_252h/90605202
+.dednema
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+..........................
+.................
+enoN
+............................................enoN
+ytefaS
+rednilyC saG desserpmoC
+............2811
+.R.H
+fdp.lmx_HR_2811H/90605202
+.57216
+stnemevorpmI
+thgisrevO
+dna
+.5202 fo
+tcA
+/keewsihtsllib/vog.esuoh.scod//:sptth
+.....................................................
+..........................
+.................
+enoN
+............................................enoN
+ytirohtuA yellaV eessenneT
+............3731
+.R.H
+fdp.lmx_HR_3731H/90605202
+sa ,5202
+fo tcA ycnerapsnarT .dednema
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+..........................
+.................
+enoN
+......K005$
+nahT
+sseL
+yb
+ecudeR
+lanoitanretnI
+eht ezirohtua
+oT
+............8491
+.R.H
+fdp.lmx_hr_8491h/90605202
+.85316
+-simmoC
+retaW dna yradnuoB
+-ca
+rof sdnuf tpecca ot
+nois
+retawetsaw
+ot gnitaler seitivit
+lortnoc
+doolf dna tnemtaert
+.sesoprup
+rehto rof dna ,skrow
+/keewsihtsllib/vog.esuoh.scod//:sptth
+.....................................................
+..........................
+.................
+enoN
+....K005$
+nahT
+sseL
+yb
+esaercnI
+naciremA
+rof ograC naciremA
+............5302
+.R.H
+fdp.lmx_HR_5302H/90605202
+.tcA spihS
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+..........................
+.................
+enoN
+............................................enoN
+fo
+tnadnammoC eht tcerid
+oT
+............1532
+.R.H
+fdp.]1[lmx_hr_1532h/90605202
+.64416
+etadpu
+ot drauG tsaoC
+eht
+drauG
+tsaoC eht fo ycilop
+eht
+-acidem
+fo esu eht gnidrager
+,esodrevo
+gurd taert ot
+noit
+.sesoprup rehto rof
+dna
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+..........................
+.................
+enoN
+............................................enoN
+ytiruceS
+niahC ylppuS emitiraM
+............0932
+.R.H
+fdp.lmx_hr_0932h/90605202
+.73416
+.tcA
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+7
+/keewsihtsllib/vog.esuoh.scod//:sptth
+.....................................................
+..........................
+.................
+enoN
+............................................enoN
+sserP esuoH
+eht gnitangiseD
+.........731
+.seR
+.H
+fdp.lmx_HR_731RH/90605202
+–H ,513–H
+smooR( yrellaG
+–H
+dna ,813–H
+,713–H ,613
+setatS
+detinU
+eht fo 913
+kcirederF‘‘
+eht sa )lotipaC
+sa
+,’’yrellaG
+sserP ssalguoD .dednema
+/keewsihtsllib/vog.esuoh.scod//:sptth
+.....................................................
+..........................
+.................
+enoN
+............................................enoN
+-ret
+citimesitna
+eht gnicnuoneD
+............._
+.seR
+.H
+fdp.)snavE(02%_02%seR02%H/90605202
+-oloC
+,redluoB
+ni kcatta tsiror .odar
+/keewsihtsllib/vog.esuoh.scod//:sptth
+.....................................................
+..........................
+.................
+enoN
+............................................enoN
+-igoloedi
+ni
+esir
+eht gninmednoC
+............._
+.seR
+.H
+02%_02%seR02%H/90605202
+no skcatta
+detavitom yllac
+fdp.)werD02%naV(
+eht ni
+slaudividni
+hsiweJ
+eht
+gnidulcni
+,setatS detinU
+ni tluassa
+tneloiv tnecer
+-er dna
+,odaroloC
+,redluoB
+-peR
+fo esuoH
+eht gnimriffa
+ot
+tnemtimmoc
+sevitatneser
+dna
+msitimesitna
+gnitabmoc
+.ecneloiv
+detavitom
+yllacitilop eciffO tegduB
+lanoissergnoC
+:ecruoS
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+8
+PERFORMANCE GOALS AND OBJECTIVES
+With respect to the requirement of clause 3(c)(4) of rule XIII of
+the Rules of the House of Representatives, the performance goals
+and objectives of this legislation is to apply the Sunshine Act to
+meetings of Amtrak’s Board of Directors to better ensure that deci-
+sions involving passengers and the expenditure of billions of dollars
+in taxpayer funds are being made in the public interest.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee finds that no provision of H.R.
+188 establishes or reauthorizes a program of the Federal govern-
+ment known to be duplicative of another Federal program, a pro-
+gram that was included in any report from the Government Ac-
+countability Office to Congress pursuant to section 21 of Public
+Law 111–139, or a program related to a program identified in the
+most recent Catalog of Federal Domestic Assistance.
+CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND LIMITED
+TARIFF BENEFITS
+In compliance with clause 9 of rule XXI of the Rules of the House
+of Representatives, this bill, as reported, contains no congressional
+earmarks, limited tax benefits, or limited tariff benefits as defined
+in clause 9(e), 9(f), or 9(g) of the rule XXI.
+FEDERAL MANDATES STATEMENT
+An estimate of Federal mandates prepared by the Director of the
+Congressional Budget Office pursuant to section 423 of the Un-
+funded Mandates Reform Act was not made available to the Com-
+mittee in time for the filing of this report. The Chairman of the
+Committee shall cause such estimate to be printed in the Congres-
+sional Record upon its receipt by the Committee.
+PREEMPTION CLARIFICATION
+
+Section 6:
+Section 423 of the Congressional Budget Act of 1974 requires the
+report of any Committee on a bill or joint resolution to include a
+statement on the extent to which the bill or joint resolution is in-
+tended to preempt state, local, or tribal law. The Committee finds
+that H.R. 188, as amended, does not preempt any state, local, or
+tribal law.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of
+Public Law 92–463 (5 U.S.C. 1004(b)), the Federal Advisory Com-
+mittee Act were created by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act (Public Law 104–1).
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+9
+
+Section 7:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 8:
+Section 1. Short title
+This section states that this Act may be cited as the ‘‘Amtrak
+Transparency and Accountability for Passengers and Taxpayers
+Act’’.
+
+Section 9:
+Section 2. Open meetings
+This section applies the Government in Sunshine Act open meet-
+ings requirements [5 U.S.C. 552b] with a public virtual observation
+option to meetings of Amtrak’s Board of Directors and includes
+clarifying language that Amtrak may hold closed meetings to dis-
+cuss certain sensitive business matters the disclosure of which may
+imperil or compromise the competitive position of Amtrak, matters
+related to collective bargaining and personal privacy, and confiden-
+tial business information. The bill also protects the disclosure of in-
+formation that may imperil the safety of Amtrak employees and
+passengers or require Amtrak to take any action that may prevent
+it from complying with the law, honoring existing contracts or le-
+gally binding agreements, or carrying out normal business activi-
+ties consistent with the statutory mission and goals of Amtrak.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italic,
+existing law in which no change is proposed is shown in roman):
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+TITLE 49, UNITED STATES CODE
+* * * * * * *
+SUBTITLE V—RAIL PROGRAMS
+* * * * * * *
+PART C—PASSENGER TRANSPORTATION
+* * * * * * *
+CHAPTER 243—AMTRAK
+* * * * * * *
+
+Section 10:
+§24301. Status and applicable laws
+(a) STATUS.—Amtrak—
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+10
+(1) is a railroad carrier under section 20102(2) and chapters
+261 and 281 of this title;
+(2) shall be operated and managed as a for-profit corporation;
+and
+(3) is not a department, agency, or instrumentality of the
+United States Government, and shall not be subject to title 31.
+(b) PRINCIPAL OFFICE AND PLACE OF BUSINESS.—The principal of-
+fice and place of business of Amtrak are in the District of Colum-
+bia. Amtrak is qualified to do business in each State in which Am-
+trak carries out an activity authorized under this part. Amtrak
+shall accept service of process by certified mail addressed to the
+secretary of Amtrak at its principal office and place of business.
+Amtrak is a citizen only of the District of Columbia when deciding
+original jurisdiction of the district courts of the United States in a
+civil action.
+(c) APPLICATION OF SUBTITLE IV.—Subtitle IV of this title shall
+not apply to Amtrak, except for sections 11123, 11301, 11322(a),
+11502, and 11706. Notwithstanding the preceding sentence, Am-
+trak shall continue to be considered an employer under the Rail-
+road Retirement Act of 1974, the Railroad Unemployment Insur-
+ance Act, and the Railroad Retirement Tax Act.
+(d) APPLICATION OF SAFETY AND EMPLOYEE RELATIONS LAWS AND
+REGULATIONS.—Laws and regulations governing safety, employee
+representation for collective bargaining purposes, the handling of
+disputes between carriers and employees, employee retirement, an-
+nuity, and unemployment systems, and other dealings with em-
+ployees that apply to a rail carrier subject to part A of subtitle IV
+of this title apply to Amtrak.
+(e) APPLICATION OF CERTAIN ADDITIONAL LAWS.— øSection 552 of
+title 5, this part¿
+(1) IN GENERAL.—Except as provided in paragraph (3), sec-
+tion 552 of title 5 and the open meetings requirements of section
+552b of such title, this part, and, to the extent consistent with
+this part, the District of Columbia Business Corporation Act
+(D.C. Code § 29–301 et seq.) apply to Amtrak. øSection 552 of
+title 5, United States Code, applies¿
+(2) TIMING OF APPLICATION.—Except as provided in para-
+graph (3), sections 552 and 552b of title 5 apply to Amtrak for
+any fiscal year in which Amtrak receives a Federal subsidy.
+(3) SCOPE OF APPLICATION.—
+(A) INFORMATION.—The requirements of the second sen-
+tence of section 552b(b) of title 5 shall not apply to any por-
+tion of an Amtrak meeting and subsections (d) and (e) of
+
+Section 11:
+section 552b of title 5 shall not apply to any information
+pertaining to any portion of an Amtrak meeting otherwise
+required by section 552b of title 5 to be disclosed to the
+public in any case in which Amtrak properly determines
+that such portion or portions of the meeting or the disclo-
+sure of such information is likely to involve—
+(i) contract negotiations, including negotiations for
+procurements and agreements that may result in a con-
+tract, the disclosure of which would imperil or com-
+promise the competitive position of Amtrak;
+(ii) collective bargaining agreements or any terms
+and conditions that are proposed for inclusion in any
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6603 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+11
+collective bargaining agreement, including the negotia-
+tion of terms and conditions with employees or rep-
+resentatives of employees of Amtrak;
+(iii) with respect to any individual who is a prospec-
+tive officer, employee, or contractor or an officer, em-
+ployee, or contractor employed or appointed by Amtrak,
+matters involving the employment, appointment, termi-
+nation of employment, terms and conditions of employ-
+ment, evaluation of the performance of, promotion or
+disciplining of any such individual, unless all such in-
+dividuals whose rights could be adversely affected re-
+quest in writing that the matter or matters be dis-
+cussed at a public meeting; or
+(iv) confidential commercial information.
+(B) ADDITIONAL APPLICATION.—In addition to the infor-
+mation described in subparagraph (B), the information de-
+scribed in section 552b(c) shall apply to Amtrak meetings.
+(4) RULE OF CONSTRUCTION.—Nothing in this subsection
+shall be construed to—
+(A) require Amtrak to disclose information that could put
+the safety of Amtrak customers or employees at risk; or
+(B) prevent Amtrak from taking any action otherwise nec-
+essary to—
+(i) comply with law;
+(ii) honor existing contracts or legally binding agree-
+ments; or
+(iii) carry out normal business activities consistent
+with the statutory mission and goals of Amtrak.
+(f) TAX EXEMPTION FOR CERTAIN COMMUTER AUTHORITIES.—A
+commuter authority that was eligible to make a contract with Am-
+trak Commuter to provide commuter rail passenger transportation
+but which decided to provide its own rail passenger transportation
+beginning January 1, 1983, is exempt, effective October 1, 1981,
+from paying a tax or fee to the same extent Amtrak is exempt.
+(g) NONAPPLICATION OF RATE, ROUTE, AND SERVICE LAWS.—A
+State or other law related to rates, routes, or service does not apply
+to Amtrak in connection with rail passenger transportation.
+(h) NONAPPLICATION OF PAY PERIOD LAWS.—A State or local law
+related to pay periods or days for payment of employees does not
+apply to Amtrak. Except when otherwise provided under a collec-
+tive bargaining agreement, an employee of Amtrak shall be paid at
+least as frequently as the employee was paid on October 1, 1979.
+(i) PREEMPTION RELATED TO EMPLOYEE WORK REQUIREMENTS.—
+A State may not adopt or continue in force a law, rule, regulation,
+order, or standard requiring Amtrak to employ a specified number
+of individuals to perform a particular task, function, or operation.
+(j) NONAPPLICATION OF LAWS ON JOINT USE OR OPERATION OF
+FACILITIES AND EQUIPMENT.—Prohibitions of law applicable to an
+agreement for the joint use or operation of facilities and equipment
+necessary to provide quick and efficient rail passenger transpor-
+tation do not apply to a person making an agreement with Amtrak
+to the extent necessary to allow the person to make and carry out
+obligations under the agreement.
+(k) EXEMPTION FROM ADDITIONAL TAXES.—(1) In this sub-
+
+Section 12:
+section—
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+12
+(A) ‘‘additional tax’’ means a tax or fee—
+(i) on the acquisition, improvement, ownership, or oper-
+ation of personal property by Amtrak; and
+(ii) on real property, except a tax or fee on the acquisi-
+tion of real property or on the value of real property not
+attributable to improvements made, or the operation of
+those improvements, by Amtrak.
+(B) ‘‘Amtrak’’ includes a rail carrier subsidiary of Amtrak
+and a lessor or lessee of Amtrak or one of its rail carrier sub-
+sidiaries.
+(2) Amtrak is not required to pay an additional tax because of
+an expenditure to acquire or improve real property, equipment, a
+facility, or right-of-way material or structures used in providing
+rail passenger transportation, even if that use is indirect.
+(l) EXEMPTION FROM TAXES LEVIED AFTER SEPTEMBER 30,
+
+Section 13:
+1981.—(1) IN GENERAL.—Amtrak, a rail carrier subsidiary of Am-
+trak, and any passenger or other customer of Amtrak or such sub-
+sidiary, are exempt from a tax, fee, head charge, or other charge,
+imposed or levied by a State, political subdivision, or local taxing
+authority on Amtrak, a rail carrier subsidiary of Amtrak, or on per-
+sons traveling in intercity rail passenger transportation or on mail
+or express transportation provided by Amtrak or such a subsidiary,
+or on the carriage of such persons, mail, or express, or on the sale
+of any such transportation, or on the gross receipts derived there-
+from after September 30, 1981. In the case of a tax or fee that Am-
+trak was required to pay as of September 10, 1982, Amtrak is not
+exempt from such tax or fee if it was assessed before April 1, 1997.
+(2) The district courts of the United States have original jurisdic-
+tion over a civil action Amtrak brings to enforce this subsection
+and may grant equitable or declaratory relief requested by Amtrak.
+(m) WASTE DISPOSAL.—(1) An intercity rail passenger car manu-
+factured after October 14, 1990, shall be built to provide for the
+discharge of human waste only at a servicing facility. Amtrak shall
+retrofit each of its intercity rail passenger cars that was manufac-
+tured after May 1, 1971, and before October 15, 1990, with a
+human waste disposal system that provides for the discharge of
+human waste only at a servicing facility. Subject to appropria-
+tions—
+(A) the retrofit program shall be completed not later than
+October 15, 2001; and
+(B) a car that does not provide for the discharge of human
+waste only at a servicing facility shall be removed from service
+after that date.
+(2) Section 361 of the Public Health Service Act (42 U.S.C. 264)
+and other laws of the United States, States, and local governments
+do not apply to waste disposal from rail carrier vehicles operated
+in intercity rail passenger transportation. The district courts of the
+United States have original jurisdiction over a civil action Amtrak
+brings to enforce this paragraph and may grant equitable or declar-
+atory relief requested by Amtrak.
+(n) RAIL TRANSPORTATION TREATED EQUALLY.—When authorizing
+transportation in the continental United States for an officer, em-
+ployee, or member of the uniformed services of a department, agen-
+cy, or instrumentality of the Government, the head of that depart-
+ment, agency, or instrumentality shall consider rail transportation
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+13
+(including transportation by extra-fare trains) the same as trans-
+portation by another authorized mode. The Administrator of Gen-
+eral Services shall include Amtrak in the contract air program of
+the Administrator in markets in which transportation provided by
+Amtrak is competitive with other carriers on fares and total trip
+times.
+(o) APPLICABILITY OF DISTRICT OF COLUMBIA LAW.—Any lease or
+contract entered into between Amtrak and the State of Maryland,
+or any department or agency of the State of Maryland, after the
+date of the enactment of this subsection shall be governed by the
+laws of the District of Columbia.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6611 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–144
+AMTRAK TRANSPARENCY AND ACCOUNTABILITY FOR
+PASSENGERS AND TAXPAYERS ACT
+JUNE6, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. GRAVES, from the Committee on Transportation and
+Infrastructure, submitted the following
+R E P O R T
+[To accompany H.R. 188]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Transportation and Infrastructure, to whom
+was referred the bill (H.R. 188) to require that the Amtrak Board
+of Directors comply with the open meetings requirements of section
+552b of title 5, United States Code, and for other purposes, having
+considered the same, reports favorably thereon with an amendment
+and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose of Legislation ............................................................................................. 2
+Background and Need for Legislation .................................................................... 2
+Legislative History and Consideration .................................................................. 3
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings and Recommendations ........................................ 4
+New Budget Authority and Tax Expenditures ...................................................... 4
+Congressional Budget Office Cost Estimate .......................................................... 5
+Performance Goals and Objectives ......................................................................... 8
+Duplication of Federal Programs ............................................................................ 8
+Congressional Earmarks, Limited Tax Benefits, and Limited Tariff Benefits ... 8
+Federal Mandates Statement ................................................................................. 8
+Preemption Clarification ......................................................................................... 8
+Advisory Committee Statement .............................................................................. 8
+Applicability to Legislative Branch ........................................................................ 8
+Section-by-Section Analysis of the Legislation ...................................................... 9
+Changes in Existing Law Made by the Bill, as Reported ..................................... 9
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+2
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Amtrak Transparency and Accountability for Pas-
+sengers and Taxpayers Act’’.
+SEC. 2. OPEN MEETINGS.
+Section 24301(e) of title 49, United States Code, is amended—
+(1) by striking ‘‘Section 552 of title 5, this part’’ and inserting the following:
+‘‘(1) IN GENERAL.—Except as provided in paragraph (3), section 552 of title 5
+and the open meetings requirements of section 552b of such title, this part’’;
+(2) in the second sentence by striking ‘‘Section 552 of title 5, United States
+Code, applies’’ and inserting the following:
+‘‘(2) TIMING OF APPLICATION.—Except as provided in paragraph (3), sections
+552 and 552b of title 5 apply’’; and
+(3) by adding at the end the following:
+‘‘(3) SCOPEOFAPPLICATION.—
+‘‘(A) INFORMATION.—The requirements of the second sentence of section
+552b(b) of title 5 shall not apply to any portion of an Amtrak meeting and
+subsections (d) and (e) of section 552b of title 5 shall not apply to any infor-
+mation pertaining to any portion of an Amtrak meeting otherwise required
+by section 552b of title 5 to be disclosed to the public in any case in which
+Amtrak properly determines that such portion or portions of the meeting
+or the disclosure of such information is likely to involve—
+‘‘(i) contract negotiations, including negotiations for procurements
+and agreements that may result in a contract, the disclosure of which
+would imperil or compromise the competitive position of Amtrak;
+‘‘(ii) collective bargaining agreements or any terms and conditions
+that are proposed for inclusion in any collective bargaining agreement,
+including the negotiation of terms and conditions with employees or
+representatives of employees of Amtrak;
+‘‘(iii) with respect to any individual who is a prospective officer, em-
+ployee, or contractor or an officer, employee, or contractor employed or
+appointed by Amtrak, matters involving the employment, appointment,
+termination of employment, terms and conditions of employment, eval-
+uation of the performance of, promotion or disciplining of any such indi-
+vidual, unless all such individuals whose rights could be adversely af-
+fected request in writing that the matter or matters be discussed at a
+public meeting; or
+‘‘(iv) confidential commercial information.
+‘‘(B) ADDITIONAL APPLICATION.—In addition to the information described
+in subparagraph (B), the information described in section 552b(c) shall
+apply to Amtrak meetings.
+‘‘(4) RULE OF CONSTRUCTION.—Nothing in this subsection shall be construed
+to—
+‘‘(A) require Amtrak to disclose information that could put the safety of
+Amtrak customers or employees at risk; or
+‘‘(B) prevent Amtrak from taking any action otherwise necessary to—
+‘‘(i) comply with law;
+‘‘(ii) honor existing contracts or legally binding agreements; or
+‘‘(iii) carry out normal business activities consistent with the statu-
+tory mission and goals of Amtrak.’’.
+PURPOSE OF LEGISLATION
+The purpose of H.R. 188, as amended, is to require that the Am-
+trak Board of Directors comply with the open meetings require-
+ments of section 552b of title 5, United States Code, and for other
+purposes.
+BACKGROUND AND NEED FOR LEGISLATION
+The Government in the Sunshine Act [hereinafter ‘‘Sunshine Act’’]
+was enacted to build on previous initiatives to open the govern-
+ment’s decision-making process to the public.1 The goal of the Sun-
+shine Act is to address public feelings that decision making and de-
+1The Gov’t in the Sunshine Act, Pub. L. 94–409, 90 Stat. 1241 at §2. Codified at 5 U.S.C.
+§552b.
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+3
+cision makers are often incompetent, corrupt, inefficient, or other-
+wise not in the public’s interest.2 In providing greater trans-
+parency, the public would have the opportunity to judge the integ-
+rity, competence, and dedication of agency officials.3 It could also
+increase the quality of agency work.4
+Under the Sunshine Act, meetings of certain Federal agencies or
+Federally controlled entities shall be open to public observation.
+There are ten enumerated exemptions to open meeting require-
+ments. Should members of the agency ‘‘properly determine’’ that
+the meetings or portions of the meetings fall under one of the ex-
+emptions, they may vote to close the meeting, but shall provide a
+transcription, recording of minutes of the closed meeting except for
+those portions dealing with the exemptions.5
+Generally, the Sunshine Act defines a covered ‘‘agency’’ to include
+executive departments, Government corporations, Government con-
+trolled corporations, and independent regulatory agency, among
+others.6 The law applies open meetings requirements to agencies
+headed by a collegial body, a majority of whom are appointed by
+the President with the advice and consent of the Senate.7
+While the law establishing Amtrak structured it as a private
+company and states it ‘‘will not be an agency or establishment of
+the United States Government,’’8 today all voting members of its
+Board of Directors are nominated by the President and confirmed
+by the Senate.9 In addition, Congress has applied the Freedom of
+Information Act to Amtrak.10
+As the recipient of significant Federal funding, there has been
+growing Congressional and public interest in Amtrak decision mak-
+ing. H.R. 188 applies the open meetings requirements of the Sun-
+shine Act to meetings of Amtrak’s Board of Directors with certain
+clarifying language that Amtrak may hold closed meetings to dis-
+cuss contract negotiations that the disclosure of which may imperil
+or compromise the competitive position of Amtrak, matters related
+to collective bargaining, individual employment status, and con-
+fidential business information. The bill also protects the disclosure
+of information that may imperil the safety of Amtrak employees
+and passengers or require Amtrak to take any action that may pre-
+vent it from complying with the law, honoring existing contracts or
+legally binding agreements, or carrying out normal business activi-
+ties consistent with the statutory mission and goals of Amtrak.
+H.R. 188 would improve public transparency of Amtrak Board of
+Directors decision making.
+LEGISLATIVE HISTORY AND CONSIDERATION
+H.R. 188, the Amtrak Transparency and Accountability for Pas-
+sengers and Taxpayers Act, was introduced in the United States
+House of Representatives on January 3, 2025, by Mr. Nehls of
+2The Gov’t in the Sunshine Act, Report No. 94–354 at 4.
+3Id.
+4Id. at 5.
+5Administrative Conference of the United States, Information Interagency Bulletin No. 017,
+available at https://www.acus.gov/sites/default/files/documents/17%20Government%20in%20the
+%20Sunshine%20Act%20Basics.pdf.
+65 U.S.C. §552(f)(1).
+75 U.S.C. §522b(a)(1).
+8Rail Passenger Service Act of 1970, Pub. L. 91–518, 84 Stat. 1330 at §301.
+949 U.S.C. §24302(a)(1)(c).
+10Pub. L. No. 92–316, 86 Stat. 228.
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+4
+Texas, with Mr. Graves of Missouri as an original cosponsor, and
+was referred to the Committee on Transportation and Infrastruc-
+ture. Within the Committee on Transportation and Infrastructure,
+H.R. 188 was referred to the Subcommittee on Railroads, Pipelines,
+and Hazardous Materials. The Subcommittee on Railroads, Pipe-
+lines, and Hazardous Materials was discharged from further con-
+sideration of H.R. 188 on April 2, 2025.
+The Committee considered H.R. 188 on April 2, 2025, and or-
+dered the measure to be reported to the House with a favorable
+recommendation, with amendment, by voice vote.
+An Amendment to H.R. 188, offered by Ms. Titus of Nevada
+(Titus 007): Page 2, line 4, strike ‘‘sections 552 and 552b of title
+5’’ and insert ‘‘section 552 of title 5 and the open meetings require-
+ments of section 552b of such title.’’ Page 3, beginning on line 2,
+strike ‘‘negotiations for contract procurements and agreements’’
+and insert ‘‘negotiations for procurements and agreements that
+may result in a contract.’’ Page 3, line 12, strike ‘‘and.’’ Page 3, line
+25, strike the period and insert ‘‘; or.’’ Page 3, after line 25, insert
+the following: ‘‘(iv) confidential commercial information.’’ Page 4,
+line 4, strike the closing quotation marks and the second period.
+Page 4, after line 4, insert the following: ‘‘(4) RULE OF CON-
+STRUCTION.’’—Nothing in this subsection shall be construed to—
+(A) require Amtrak to disclose information that could put the safe-
+ty of Amtrak customers or employees at risk; or (B) prevent Am-
+trak from taking any action otherwise necessary to—(i) comply
+with law; (ii) honor existing contracts or legally binding agree-
+ments; or (iii) carry out normal business activities consistent with
+the statutory mission and goals of Amtrak.’’; was AGREED TO by
+voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires each committee report to include the total number of
+votes cast for and against on each record vote on a motion to report
+and on any amendment offered to the measure or matter, and the
+names of those members voting for and against.
+No recorded votes were requested for H.R. 188.
+COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+With respect to the requirements of clause 3(c)(1) of rule XIII of
+the Rules of the House of Representatives, the Committee’s over-
+sight findings and recommendations are reflected in this report.
+NEW BUDGET AUTHORITY AND TAX EXPENDITURES
+Clause 3(c)(2) of rule XIII of the Rules of the House of Represent-
+atives does not apply where a cost estimate and comparison pre-
+pared by the Director of the Congressional Budget Office under sec-
+tion 402 of the Congressional Budget Act of 1974 has been timely
+submitted prior to the filing of the report and is included in the re-
+port. Such a cost estimate is included in this report.
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+5
+CONGRESSIONAL BUDGET OFFICE COST ESTIMATE
+With respect to the requirement of clause 3(c)(3) of rule XIII of
+the Rules of the House of Representatives and section 402 of the
+Congressional Budget Act of 1974, the Committee has received the
+enclosed cost estimate for H.R. 188, as amended, from the Director
+of the Congressional Budget Office:
+Legislation Considered Under Suspension of the Rules
+The Majority Leader of the House of Representatives announces
+bills that will be considered under suspension of the rules in that
+chamber. Under suspension, floor debate is limited, all floor
+amendments are prohibited, points of order against the bill are
+waived, and final passage requires a two-thirds majority vote.
+At the request of the Majority Leader and the House Committee
+on the Budget, CBO estimates the effects of those bills on direct
+spending and revenues. CBO has limited time to review the legisla-
+tion before consideration. Although it is possible in most cases to
+determine whether the legislation would affect direct spending or
+revenues, time may be insufficient to estimate the magnitude of
+those effects. If CBO has prepared estimates for similar or identical
+legislation, a more detailed assessment of budgetary effects, includ-
+ing effects on spending subject to appropriation, may be included.
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+6
+sevitatneserpeR
+fo
+esuoH
+eht
+ni
+seluR
+eht
+fo
+noisnepsuS
+rednU
+deredisnoC
+noitalsigeL
+fo
+seuneveR
+dna
+gnidnepS
+tceriD no stceffE
+5202
+,9
+enuJ
+fo
+keeW
+-rofni lanoitiddA
+vog.esuoh.scod
+ta
+txet
+llib
+noisnepsuS
+setamitse
+dehsilbup
+ot
+kniL
+- v tc e e r r i d d n a no
+g n n i o d it n a e m ps
+seunever
+no
+tceffE
+gnidneps
+tcerid
+no
+tceffE
+eltiT
+rebmun
+lliB
+stceffe
+eune
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+..........................
+.................
+enoN
+............................................enoN
+-cA
+dna ycnerapsnarT
+kartmA
+..............881
+.R.H
+fdp.lmx_hr_881h/90605202
+.13016
+sregnessaP
+rof ytilibatnuoc sa ,tcA sreyapxaT
+dna
+.dednema
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+..........................
+.................
+enoN
+............................................enoN
+.... tcA
+draoB no gnignahC
+ybaB
+..............842
+.R.H
+fdp.lmx_hr_842h/90605202
+.26416
+/keewsihtsllib/vog.esuoh.scod//:sptth
+.....................................................
+..........................
+.................
+enoN
+............................................enoN
+sa ,tcA stroP ruO
+eruceS
+..............252
+.R.H
+fdp.lmx_hr_252h/90605202
+.dednema
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+..........................
+.................
+enoN
+............................................enoN
+ytefaS
+rednilyC saG desserpmoC
+............2811
+.R.H
+fdp.lmx_HR_2811H/90605202
+.57216
+stnemevorpmI
+thgisrevO
+dna
+.5202 fo
+tcA
+/keewsihtsllib/vog.esuoh.scod//:sptth
+.....................................................
+..........................
+.................
+enoN
+............................................enoN
+ytirohtuA yellaV eessenneT
+............3731
+.R.H
+fdp.lmx_HR_3731H/90605202
+sa ,5202
+fo tcA ycnerapsnarT .dednema
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+..........................
+.................
+enoN
+......K005$
+nahT
+sseL
+yb
+ecudeR
+lanoitanretnI
+eht ezirohtua
+oT
+............8491
+.R.H
+fdp.lmx_hr_8491h/90605202
+.85316
+-simmoC
+retaW dna yradnuoB
+-ca
+rof sdnuf tpecca ot
+nois
+retawetsaw
+ot gnitaler seitivit
+lortnoc
+doolf dna tnemtaert
+.sesoprup
+rehto rof dna ,skrow
+/keewsihtsllib/vog.esuoh.scod//:sptth
+.....................................................
+..........................
+.................
+enoN
+....K005$
+nahT
+sseL
+yb
+esaercnI
+naciremA
+rof ograC naciremA
+............5302
+.R.H
+fdp.lmx_HR_5302H/90605202
+.tcA spihS
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+..........................
+.................
+enoN
+............................................enoN
+fo
+tnadnammoC eht tcerid
+oT
+............1532
+.R.H
+fdp.]1[lmx_hr_1532h/90605202
+.64416
+etadpu
+ot drauG tsaoC
+eht
+drauG
+tsaoC eht fo ycilop
+eht
+-acidem
+fo esu eht gnidrager
+,esodrevo
+gurd taert ot
+noit
+.sesoprup rehto rof
+dna
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+..........................
+.................
+enoN
+............................................enoN
+ytiruceS
+niahC ylppuS emitiraM
+............0932
+.R.H
+fdp.lmx_hr_0932h/90605202
+.73416
+.tcA
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+7
+/keewsihtsllib/vog.esuoh.scod//:sptth
+.....................................................
+..........................
+.................
+enoN
+............................................enoN
+sserP esuoH
+eht gnitangiseD
+.........731
+.seR
+.H
+fdp.lmx_HR_731RH/90605202
+–H ,513–H
+smooR( yrellaG
+–H
+dna ,813–H
+,713–H ,613
+setatS
+detinU
+eht fo 913
+kcirederF‘‘
+eht sa )lotipaC
+sa
+,’’yrellaG
+sserP ssalguoD .dednema
+/keewsihtsllib/vog.esuoh.scod//:sptth
+.....................................................
+..........................
+.................
+enoN
+............................................enoN
+-ret
+citimesitna
+eht gnicnuoneD
+............._
+.seR
+.H
+fdp.)snavE(02%_02%seR02%H/90605202
+-oloC
+,redluoB
+ni kcatta tsiror .odar
+/keewsihtsllib/vog.esuoh.scod//:sptth
+.....................................................
+..........................
+.................
+enoN
+............................................enoN
+-igoloedi
+ni
+esir
+eht gninmednoC
+............._
+.seR
+.H
+02%_02%seR02%H/90605202
+no skcatta
+detavitom yllac
+fdp.)werD02%naV(
+eht ni
+slaudividni
+hsiweJ
+eht
+gnidulcni
+,setatS detinU
+ni tluassa
+tneloiv tnecer
+-er dna
+,odaroloC
+,redluoB
+-peR
+fo esuoH
+eht gnimriffa
+ot
+tnemtimmoc
+sevitatneser
+dna
+msitimesitna
+gnitabmoc
+.ecneloiv
+detavitom
+yllacitilop eciffO tegduB
+lanoissergnoC
+:ecruoS
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+8
+PERFORMANCE GOALS AND OBJECTIVES
+With respect to the requirement of clause 3(c)(4) of rule XIII of
+the Rules of the House of Representatives, the performance goals
+and objectives of this legislation is to apply the Sunshine Act to
+meetings of Amtrak’s Board of Directors to better ensure that deci-
+sions involving passengers and the expenditure of billions of dollars
+in taxpayer funds are being made in the public interest.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee finds that no provision of H.R.
+188 establishes or reauthorizes a program of the Federal govern-
+ment known to be duplicative of another Federal program, a pro-
+gram that was included in any report from the Government Ac-
+countability Office to Congress pursuant to section 21 of Public
+Law 111–139, or a program related to a program identified in the
+most recent Catalog of Federal Domestic Assistance.
+CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND LIMITED
+TARIFF BENEFITS
+In compliance with clause 9 of rule XXI of the Rules of the House
+of Representatives, this bill, as reported, contains no congressional
+earmarks, limited tax benefits, or limited tariff benefits as defined
+in clause 9(e), 9(f), or 9(g) of the rule XXI.
+FEDERAL MANDATES STATEMENT
+An estimate of Federal mandates prepared by the Director of the
+Congressional Budget Office pursuant to section 423 of the Un-
+funded Mandates Reform Act was not made available to the Com-
+mittee in time for the filing of this report. The Chairman of the
+Committee shall cause such estimate to be printed in the Congres-
+sional Record upon its receipt by the Committee.
+PREEMPTION CLARIFICATION
+Section 423 of the Congressional Budget Act of 1974 requires the
+report of any Committee on a bill or joint resolution to include a
+statement on the extent to which the bill or joint resolution is in-
+tended to preempt state, local, or tribal law. The Committee finds
+that H.R. 188, as amended, does not preempt any state, local, or
+tribal law.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of
+Public Law 92–463 (5 U.S.C. 1004(b)), the Federal Advisory Com-
+mittee Act were created by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act (Public Law 104–1).
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+9
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+This section states that this Act may be cited as the ‘‘Amtrak
+Transparency and Accountability for Passengers and Taxpayers
+Act’’.
+Section 2. Open meetings
+This section applies the Government in Sunshine Act open meet-
+ings requirements [5 U.S.C. 552b] with a public virtual observation
+option to meetings of Amtrak’s Board of Directors and includes
+clarifying language that Amtrak may hold closed meetings to dis-
+cuss certain sensitive business matters the disclosure of which may
+imperil or compromise the competitive position of Amtrak, matters
+related to collective bargaining and personal privacy, and confiden-
+tial business information. The bill also protects the disclosure of in-
+formation that may imperil the safety of Amtrak employees and
+passengers or require Amtrak to take any action that may prevent
+it from complying with the law, honoring existing contracts or le-
+gally binding agreements, or carrying out normal business activi-
+ties consistent with the statutory mission and goals of Amtrak.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italic,
+existing law in which no change is proposed is shown in roman):
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+TITLE 49, UNITED STATES CODE
+* * * * * * *
+SUBTITLE V—RAIL PROGRAMS
+* * * * * * *
+PART C—PASSENGER TRANSPORTATION
+* * * * * * *
+CHAPTER 243—AMTRAK
+* * * * * * *
+§24301. Status and applicable laws
+(a) STATUS.—Amtrak—
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+10
+(1) is a railroad carrier under section 20102(2) and chapters
+261 and 281 of this title;
+(2) shall be operated and managed as a for-profit corporation;
+and
+(3) is not a department, agency, or instrumentality of the
+United States Government, and shall not be subject to title 31.
+(b) PRINCIPAL OFFICE AND PLACE OF BUSINESS.—The principal of-
+fice and place of business of Amtrak are in the District of Colum-
+bia. Amtrak is qualified to do business in each State in which Am-
+trak carries out an activity authorized under this part. Amtrak
+shall accept service of process by certified mail addressed to the
+secretary of Amtrak at its principal office and place of business.
+Amtrak is a citizen only of the District of Columbia when deciding
+original jurisdiction of the district courts of the United States in a
+civil action.
+(c) APPLICATION OF SUBTITLE IV.—Subtitle IV of this title shall
+not apply to Amtrak, except for sections 11123, 11301, 11322(a),
+11502, and 11706. Notwithstanding the preceding sentence, Am-
+trak shall continue to be considered an employer under the Rail-
+road Retirement Act of 1974, the Railroad Unemployment Insur-
+ance Act, and the Railroad Retirement Tax Act.
+(d) APPLICATION OF SAFETY AND EMPLOYEE RELATIONS LAWS AND
+REGULATIONS.—Laws and regulations governing safety, employee
+representation for collective bargaining purposes, the handling of
+disputes between carriers and employees, employee retirement, an-
+nuity, and unemployment systems, and other dealings with em-
+ployees that apply to a rail carrier subject to part A of subtitle IV
+of this title apply to Amtrak.
+(e) APPLICATION OF CERTAIN ADDITIONAL LAWS.— øSection 552 of
+title 5, this part¿
+(1) IN GENERAL.—Except as provided in paragraph (3), sec-
+tion 552 of title 5 and the open meetings requirements of section
+552b of such title, this part, and, to the extent consistent with
+this part, the District of Columbia Business Corporation Act
+(D.C. Code § 29–301 et seq.) apply to Amtrak. øSection 552 of
+title 5, United States Code, applies¿
+(2) TIMING OF APPLICATION.—Except as provided in para-
+graph (3), sections 552 and 552b of title 5 apply to Amtrak for
+any fiscal year in which Amtrak receives a Federal subsidy.
+(3) SCOPE OF APPLICATION.—
+(A) INFORMATION.—The requirements of the second sen-
+tence of section 552b(b) of title 5 shall not apply to any por-
+tion of an Amtrak meeting and subsections (d) and (e) of
+section 552b of title 5 shall not apply to any information
+pertaining to any portion of an Amtrak meeting otherwise
+required by section 552b of title 5 to be disclosed to the
+public in any case in which Amtrak properly determines
+that such portion or portions of the meeting or the disclo-
+sure of such information is likely to involve—
+(i) contract negotiations, including negotiations for
+procurements and agreements that may result in a con-
+tract, the disclosure of which would imperil or com-
+promise the competitive position of Amtrak;
+(ii) collective bargaining agreements or any terms
+and conditions that are proposed for inclusion in any
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6603 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+11
+collective bargaining agreement, including the negotia-
+tion of terms and conditions with employees or rep-
+resentatives of employees of Amtrak;
+(iii) with respect to any individual who is a prospec-
+tive officer, employee, or contractor or an officer, em-
+ployee, or contractor employed or appointed by Amtrak,
+matters involving the employment, appointment, termi-
+nation of employment, terms and conditions of employ-
+ment, evaluation of the performance of, promotion or
+disciplining of any such individual, unless all such in-
+dividuals whose rights could be adversely affected re-
+quest in writing that the matter or matters be dis-
+cussed at a public meeting; or
+(iv) confidential commercial information.
+(B) ADDITIONAL APPLICATION.—In addition to the infor-
+mation described in subparagraph (B), the information de-
+scribed in section 552b(c) shall apply to Amtrak meetings.
+(4) RULE OF CONSTRUCTION.—Nothing in this subsection
+shall be construed to—
+(A) require Amtrak to disclose information that could put
+the safety of Amtrak customers or employees at risk; or
+(B) prevent Amtrak from taking any action otherwise nec-
+essary to—
+(i) comply with law;
+(ii) honor existing contracts or legally binding agree-
+ments; or
+(iii) carry out normal business activities consistent
+with the statutory mission and goals of Amtrak.
+(f) TAX EXEMPTION FOR CERTAIN COMMUTER AUTHORITIES.—A
+commuter authority that was eligible to make a contract with Am-
+trak Commuter to provide commuter rail passenger transportation
+but which decided to provide its own rail passenger transportation
+beginning January 1, 1983, is exempt, effective October 1, 1981,
+from paying a tax or fee to the same extent Amtrak is exempt.
+(g) NONAPPLICATION OF RATE, ROUTE, AND SERVICE LAWS.—A
+State or other law related to rates, routes, or service does not apply
+to Amtrak in connection with rail passenger transportation.
+(h) NONAPPLICATION OF PAY PERIOD LAWS.—A State or local law
+related to pay periods or days for payment of employees does not
+apply to Amtrak. Except when otherwise provided under a collec-
+tive bargaining agreement, an employee of Amtrak shall be paid at
+least as frequently as the employee was paid on October 1, 1979.
+(i) PREEMPTION RELATED TO EMPLOYEE WORK REQUIREMENTS.—
+A State may not adopt or continue in force a law, rule, regulation,
+order, or standard requiring Amtrak to employ a specified number
+of individuals to perform a particular task, function, or operation.
+(j) NONAPPLICATION OF LAWS ON JOINT USE OR OPERATION OF
+FACILITIES AND EQUIPMENT.—Prohibitions of law applicable to an
+agreement for the joint use or operation of facilities and equipment
+necessary to provide quick and efficient rail passenger transpor-
+tation do not apply to a person making an agreement with Amtrak
+to the extent necessary to allow the person to make and carry out
+obligations under the agreement.
+(k) EXEMPTION FROM ADDITIONAL TAXES.—(1) In this sub-
+section—
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+12
+(A) ‘‘additional tax’’ means a tax or fee—
+(i) on the acquisition, improvement, ownership, or oper-
+ation of personal property by Amtrak; and
+(ii) on real property, except a tax or fee on the acquisi-
+tion of real property or on the value of real property not
+attributable to improvements made, or the operation of
+those improvements, by Amtrak.
+(B) ‘‘Amtrak’’ includes a rail carrier subsidiary of Amtrak
+and a lessor or lessee of Amtrak or one of its rail carrier sub-
+sidiaries.
+(2) Amtrak is not required to pay an additional tax because of
+an expenditure to acquire or improve real property, equipment, a
+facility, or right-of-way material or structures used in providing
+rail passenger transportation, even if that use is indirect.
+(l) EXEMPTION FROM TAXES LEVIED AFTER SEPTEMBER 30,
+1981.—(1) IN GENERAL.—Amtrak, a rail carrier subsidiary of Am-
+trak, and any passenger or other customer of Amtrak or such sub-
+sidiary, are exempt from a tax, fee, head charge, or other charge,
+imposed or levied by a State, political subdivision, or local taxing
+authority on Amtrak, a rail carrier subsidiary of Amtrak, or on per-
+sons traveling in intercity rail passenger transportation or on mail
+or express transportation provided by Amtrak or such a subsidiary,
+or on the carriage of such persons, mail, or express, or on the sale
+of any such transportation, or on the gross receipts derived there-
+from after September 30, 1981. In the case of a tax or fee that Am-
+trak was required to pay as of September 10, 1982, Amtrak is not
+exempt from such tax or fee if it was assessed before April 1, 1997.
+(2) The district courts of the United States have original jurisdic-
+tion over a civil action Amtrak brings to enforce this subsection
+and may grant equitable or declaratory relief requested by Amtrak.
+(m) WASTE DISPOSAL.—(1) An intercity rail passenger car manu-
+factured after October 14, 1990, shall be built to provide for the
+discharge of human waste only at a servicing facility. Amtrak shall
+retrofit each of its intercity rail passenger cars that was manufac-
+tured after May 1, 1971, and before October 15, 1990, with a
+human waste disposal system that provides for the discharge of
+human waste only at a servicing facility. Subject to appropria-
+tions—
+(A) the retrofit program shall be completed not later than
+October 15, 2001; and
+(B) a car that does not provide for the discharge of human
+waste only at a servicing facility shall be removed from service
+after that date.
+(2) Section 361 of the Public Health Service Act (42 U.S.C. 264)
+and other laws of the United States, States, and local governments
+do not apply to waste disposal from rail carrier vehicles operated
+in intercity rail passenger transportation. The district courts of the
+United States have original jurisdiction over a civil action Amtrak
+brings to enforce this paragraph and may grant equitable or declar-
+atory relief requested by Amtrak.
+(n) RAIL TRANSPORTATION TREATED EQUALLY.—When authorizing
+transportation in the continental United States for an officer, em-
+ployee, or member of the uniformed services of a department, agen-
+cy, or instrumentality of the Government, the head of that depart-
+ment, agency, or instrumentality shall consider rail transportation
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+13
+(including transportation by extra-fare trains) the same as trans-
+portation by another authorized mode. The Administrator of Gen-
+eral Services shall include Amtrak in the contract air program of
+the Administrator in markets in which transportation provided by
+Amtrak is competitive with other carriers on fares and total trip
+times.
+(o) APPLICABILITY OF DISTRICT OF COLUMBIA LAW.—Any lease or
+contract entered into between Amtrak and the State of Maryland,
+or any department or agency of the State of Maryland, after the
+date of the enactment of this subsection shall be governed by the
+laws of the District of Columbia.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 03:19 Jun 21, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6611 E:\HR\OC\HR144.XXX HR144
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd

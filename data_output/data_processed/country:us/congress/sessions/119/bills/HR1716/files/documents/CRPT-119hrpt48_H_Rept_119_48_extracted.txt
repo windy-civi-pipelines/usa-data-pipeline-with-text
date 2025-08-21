@@ -1,0 +1,977 @@
+Title: MARCH27, 2025.—Committed to the Committee of the Whole House on the State
+Official Title: MARCH27, 2025.—Committed to the Committee of the Whole House on the State
+Number of Sections: 16
+Source: documents - H. Rept. 119-48
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPT. 119–48
+1st Session " HOUSE OF REPRESENTATIVES ! Part 1
+TAIWAN CONFLICT DETERRENCE ACT OF 2025
+of the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+[To accompany H.R. 1716]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 1716) to deter Chinese aggression towards Taiwan by re-
+quiring the Secretary of the Treasury to publish a report on finan-
+cial institutions and accounts connected to senior officials of the
+People’s Republic of China, to restrict financial services for certain
+immediate family of such officials, and for other purposes, having
+considered the same, reports favorably thereon with an amendment
+and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 4
+Background and Need for Legislation .................................................................... 4
+Committee Consideration ........................................................................................ 4
+Related Hearings ..................................................................................................... 5
+Committee Votes ...................................................................................................... 5
+Committee Oversight Findings ............................................................................... 8
+Performance Goals and Objectives ......................................................................... 8
+Committee Cost Estimate ....................................................................................... 8
+New Budget Authority and CBO Cost Estimate ................................................... 8
+Unfunded Mandates Statement .............................................................................. 8
+Earmark Statement ................................................................................................. 8
+Federal Advisory Committee Act Statement ......................................................... 9
+Applicability to the Legislative Branch ................................................................. 9
+Duplication of Federal Programs ............................................................................ 9
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 9
+Changes in Existing Law Made by the Bill, as Reported ..................................... 9
+Committee Letters ................................................................................................... 10
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+2
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Taiwan Conflict Deterrence Act of 2025’’.
+SEC. 2. REPORT ON FINANCIAL INSTITUTIONS AND ACCOUNTS CONNECTED TO CERTAIN CHI-
+NESE GOVERNMENT OFFICIALS.
+(a) FINANCIALINSTITUTIONSREPORT.—
+(1) IN GENERAL.—Not later than 90 days after the date that the President,
+pursuant to section 3(c) of the Taiwan Relations Act (22 U.S.C. 3302(c)), informs
+the Congress of a threat resulting from actions of the People’s Republic of China
+and any danger to the interests of the United States arising therefrom, and an-
+nually thereafter for 3 years, the Secretary of the Treasury shall submit a re-
+port to the appropriate Members of Congress containing the following:
+(A) With respect to each of at least 10 natural persons described under
+subsection (b), at least 1 of whom is a natural person listed under para-
+graph (1) of such subsection (b) and at least 1 of whom is a natural person
+listed under paragraph (2) of such subsection (b), the estimated total funds
+that are held in financial institutions and are under direct or indirect con-
+trol by such natural person and a description of such funds.
+(B) A list of any financial institutions that—
+(i) maintain an account in connection with significant funds described
+in subparagraph (A); or
+(ii) otherwise provide significant financial services to a natural per-
+son covered by the report.
+(2) BRIEFINGREQUIRED.—Not later than 30 days after submitting a report de-
+scribed under paragraph (1), the Secretary of the Treasury, or a designee of the
+Secretary, shall provide to the appropriate Members of Congress an unclassified
+or classified briefing (as determined appropriate by the Secretary) on the funds
+covered by the report, including a description of how the funds were acquired,
+and any illicit or corrupt means employed to acquire or use the funds.
+(3) EXEMPTIONS.—The requirements described under paragraph (1) may not
+be applied with respect to a natural person or a financial institution, as the case
+may be, if the President determines:
+(A) The funds described under paragraph (1)(A) were primarily acquired
+through legal and noncorrupt means.
+(B) The natural person has agreed to provide significant cooperation to
+the United States for an important national security purpose with respect
+to China.
+(C) A financial institution has agreed to—
+(i) no longer maintain an account described under paragraph
+(1)(B)(i);
+(ii) no longer provide significant financial services to a natural person
+covered by the report; or
+(iii) provide significant cooperation to the United States for an impor-
+tant national security purpose with respect to China.
+(4) WAIVER.—The President may waive any requirement described under
+paragraph (1) with respect to a natural person or a financial institution upon
+reporting to the appropriate Members of Congress that—
+(A) the waiver would substantially promote the objective of ending the
+threat described under paragraph (1);
+(B) the threat described under paragraph (1) is no longer present; or
+(C) the waiver is essential to the national security interests of the United
+States.
+(b) NATURAL PERSONS DESCRIBED.—The natural persons described in this sub-
+
+Section 4:
+section are persons who, at the time of a report, are the following:
+(1) A member of the Politburo Standing Committee of the Chinese Communist
+Party.
+(2) A member of the Politburo of the Chinese Communist Party that is not
+described under paragraph (1).
+(3) A member of the Central Committee of the Chinese Communist Party
+that—
+(A) is none of the foregoing; and
+(B) performs any official duty that directly or indirectly affects Taiwan.
+(c) FORMOFREPORTS; PUBLICAVAILABILITY.—
+(1) FORM OF REPORTS.—The reports required under paragraphs (1) and (4) of
+subsection (a) shall be submitted in unclassified form but may contain a classi-
+fied annex.
+(2) PUBLIC AVAILABILITY.—The Secretary of the Treasury shall make the un-
+classified portion of the report required under subsection (a)(1) available to the
+public on the website and social media accounts of the Department of the Treas-
+ury—
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+3
+(A) in English, Chinese, and any other language that the Secretary finds
+appropriate; and
+(B) in precompressed, easily downloadable versions that are made avail-
+able in all appropriate formats.
+SEC. 3. PROHIBITION ON FINANCIAL SERVICES FOR CERTAIN IMMEDIATE FAMILY.
+(a) INGENERAL.—The Secretary of the Treasury shall prohibit a United States fi-
+nancial institution, and any person owned or controlled by a United States financial
+institution, from engaging in a significant transaction with—
+(1) a natural person covered by a report made under section 2(a); and
+(2) the immediate family of a person described under paragraph (1), if the
+Secretary finds that such immediate family benefits from funds described in the
+report.
+(b) EXCEPTIONS.—
+(1) EXCEPTION FOR INTELLIGENCE, LAW ENFORCEMENT, AND NATIONAL SECU-
+RITYACTIVITIES.—Subsection (a) shall not apply with respect to any intelligence,
+law enforcement, or national security activity of the United States.
+(2) WAIVER.—The President may waive the application of subsection (a) with
+respect to a person upon reporting to the appropriate Members of Congress
+that—
+(A) the waiver would substantially promote the objective of ending the
+threat described under section 2(a)(1);
+(B) the threat described under section 2(a)(1) is no longer present; or
+(C) the waiver is essential to the national security interests of the United
+States.
+(3) FORM OF REPORTS.—The reports required under paragraph (2) shall be
+submitted in unclassified form but may contain a classified annex.
+(4) RULEOFCONSTRUCTION.—
+(A) IN GENERAL.—Nothing in this section shall be construed as author-
+izing or requiring any sanction with respect to the importation of any good.
+(B) GOOD DEFINED.—In this paragraph, the term ‘‘good’’ means any arti-
+cle, natural or manmade substance, material, supply or manufactured prod-
+uct, including inspection and test equipment, and excluding technical data.
+(c) IMPLEMENTATION; PENALTIES.—
+(1) IMPLEMENTATION.—The President may exercise all authorities provided to
+the President under sections 203 and 205 of the International Emergency Eco-
+nomic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section. Not later
+than 60 days after issuing a license pursuant to this section, the President shall
+submit a copy of the license to the appropriate Members of Congress.
+(2) PENALTIES.—A person that violates, attempts to violate, conspires to vio-
+late, or causes a violation of this section or any regulation, license, or order
+issued to carry out this section shall be subject to the penalties set forth in sub-
+
+Section 5:
+sections (b) and (c) of section 206 of the International Emergency Economic
+Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an
+unlawful act described in subsection (a) of that section 206.
+(d) TERMINATION.—This section shall have no force or effect on the earlier of—
+(1) the date that is 30 days after the date that the President reports to the
+appropriate Members of Congress that the threat described under section
+2(a)(1) is no longer present; or
+(2) the date that is 25 years after the date that the Secretary of the Treasury
+submits the final report required under section 2(a)(1).
+SEC. 4. DEFINITIONS.
+For purposes of this Act:
+(1) APPROPRIATE MEMBERS OF CONGRESS.—The term ‘‘appropriate Members of
+Congress’’ means the Speaker and minority leader of the House of Representa-
+tives, the majority leader and minority leader of the Senate, the Chairman and
+Ranking Member of the Committee on Financial Services of the House of Rep-
+resentatives, and the Chairman and Ranking Member of the Committee on
+Banking, Housing, and Urban Affairs of the Senate.
+(2) FINANCIAL INSTITUTION.—The term ‘‘financial institution’’ means a United
+States financial institution or a foreign financial institution.
+(3) FOREIGN FINANCIAL INSTITUTION.—The term ‘‘foreign financial institution’’
+has the meaning given that term in section 561.308 of title 31, Code of Federal
+Regulations.
+(4) FUNDS.—The term ‘‘funds’’ has the meaning given to such term by the Sec-
+retary of the Treasury.
+(5) IMMEDIATE FAMILY.—The term ‘‘immediate family’’ of any natural person
+means the following (whether by the full or half blood or by adoption):
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6621 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+4
+(A) Such person’s spouse, father, mother, children, brothers, sisters, and
+grandchildren.
+(B) The father, mother, brothers, and sisters of such person’s spouse.
+(C) The spouse of a child, brother, or sister of such person.
+(6) UNITED STATES FINANCIAL INSTITUTION.—The term ‘‘United States finan-
+cial institution’’ has the meaning given the term ‘‘U.S. financial institution’’
+under section 561.309 of title 31, Code of Federal Regulations.
+PURPOSE AND SUMMARY
+Introduced on February 27, 2025, by Representative Lisa
+McClain, H.R. 1716, the Taiwan Conflict Deterrence Act of 2025, di-
+rects the Secretary of the Department of the Treasury, after deliv-
+ery of a congressional notification pursuant to the Taiwan Rela-
+tions Act, to submit to Congress a report estimating the illicit funds
+of senior Chinese government officials and identifying the financial
+institutions providing them with services. The bill would direct the
+Secretary to make the report public with a Chinese translation. In
+addition, the Secretary would be required to prohibit financial in-
+stitutions from providing services to Chinese officials named in the
+report, as well as their immediate family members.
+BACKGROUND AND NEED FOR LEGISLATION
+Under the Taiwan Relations Act, the President is directed to
+promptly inform Congress of ‘‘any threat to the security or the so-
+cial or economic system of the people of Taiwan and any danger to
+the interests of the United States arising therefrom.’’ China’s bel-
+ligerence toward Taiwan has been on the rise. For example, in
+2022, there were 1,737 aircraft of the People’s Liberation Army
+tracked in violation of Taiwan’s Air Defense Identification Zone,
+more than the previous three years combined. Taiwanese officials
+have also noted frequent Chinese surveillance balloon missions
+over the island. William Burns, former Director of the Central In-
+telligence Agency, has testified to Congress that Chinese Com-
+munist Party Chairman Xi Jinping has ordered the military to be
+prepared for an invasion of Taiwan by 2027. Representative
+McClain’s legislation seeks to deter China from hostilities by set-
+ting forth clear consequences for senior officials in the event of an
+attack.
+COMMITTEE CONSIDERATION
+118TH CONGRESS
+On January 26, 2023, Representative French Hill (R–AR) intro-
+duced H.R. 554, the Taiwan Conflict Deterrence Act of 2023, with
+Representative Brad Sherman (D–CA) is an original cosponsor.
+Representatives Michael Lawler (R–NY), Susie Lee (D–NV), Pat-
+rick Ryan (D–NY), Chris Pappas (D–NH), Young Kim (R–CA),
+Monica De La Cruz (R–TX), and Ann Wagner (R–MO) were subse-
+quently added as cosponsors.
+The Committee considered H.R. 554 on February 7, 2023, in a
+hearing titled ‘‘Combatting the Economic Threat from China’’. On
+February 28, 2023, the Committee ordered H.R. 554 (as amended)
+reported favorably to the House by a recorded vote of 41 yeas to
+0 nays, a quorum being present. (Record Vote No. FC–14). Before
+the question to report was called, the Committee adopted an
+amendment in the nature of a substitute offered by Mr. Hill by
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+5
+voice vote. H. Rept. 118–292 accompanying the bill was filed on De-
+cember 1, 2023. H.R. 554 was passed by the House on September
+9, 2024, under suspension of the rules by voice vote. On September
+10, 2024, H.R. 554 was received in the Senate and referred to the
+Committee on Banking, Housing, and Urban Affairs.
+119TH CONGRESS
+On February 27, 2025, Representative Lisa McClain (R–MI) in-
+troduced H.R. 1716, the Taiwan Conflict Deterrence Act of 2025,
+with Representative Brad Sherman (D–CA) as an original cospon-
+sor.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+
+Section 6:
+1716.
+The Full Committee held a hearing on February 25, 2025, enti-
+tled ‘‘Examining Policies to Counter China.’’ A discussion draft
+version of the bill was considered in this hearing. The following
+witnesses testified: John Miller, Senior Vice President of Policy,
+Trust, Data, and Technology, and General Counsel, Information
+Technology Industry Council; Nicholas McMurray, Managing Direc-
+tor of International and Nuclear Policy, ClearPath; John Cassara,
+retired United States Treasury Department Special Agent; Martin
+Muhleisen, Nonresident Senior Fellow at the GAO Economic Cen-
+ter at the Atlantic Council; and Dr. Rush Doshi, C.V. Starr Senior
+Fellow for Asian Studies, and Director of the China Strategy Initia-
+tive at the Council on Foreign Relations, and an assistant professor
+at Georgetown University. Consequences for senior Chinese offi-
+cials in the event China moves against Taiwan were discussed in
+this hearing.
+The Committee on Financial Services met in open session on
+March 5, 2025 to consider, among others, H.R. 1716.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On March 5, 2025, the Committee ordered H.R. 1716, as amend-
+ed, to be reported favorably to the House by a recorded vote of 48
+yeas to 0 nays, a quorum being present. (Record Vote No. FC–013).
+Before the question to report was called, the Committee adopted
+an amendment in the nature of a substitute offered by Mrs.
+McClain making technical changes by a recorded vote of 48 yeas
+to 0 nays, a quorum being present. (Record Vote No. FC–012).
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+6
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+Section 7:
+100.1P84RH
+ereh
+8
+oilof
+tesffo
+tresnI
+7
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+Section 8:
+200.1P84RH
+ereh
+9
+oilof
+tesffo
+tresnI
+8
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 1716 is to deter Chinese ag-
+gression toward Taiwan by requiring the Secretary of the Treasury
+to publish a report on financial institutions and accounts connected
+to senior officials of the People’s Republic of China, to restrict fi-
+nancial services for certain immediate family of such officials.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 1716.
+The Committee has requested but not received a cost estimate
+from the Director of the Congressional Budget Office. However,
+pursuant to clause 3(d)(1) of rule XIII of the House of Representa-
+tives, the Committee will adopt as its own the cost estimate by the
+Director of the Congressional Budget Office once it has been pre-
+pared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of H.R. 1716 and states that the provisions of the bill do
+not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+9
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+
+Section 9:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+The following is a section-by-section analysis of H.R. 1716, the
+Taiwan Conflict Deterrence Act of 2025:
+
+Section 10:
+Section 1. Short title
+
+Section 11:
+Section provides that the short title is ‘‘Taiwan Conflict Deter-
+rence Act of 2025’’.
+
+Section 12:
+Section. 2. Report on financial institutions and accounts connected
+to certain Chinese government officials
+Under this section, the Secretary of the Department of the Treas-
+ury, after delivery of a congressional notification pursuant to the
+Taiwan Relations Act, would submit to Congress a report identi-
+fying the financial institutions providing services to senior Chinese
+government officials. The bill would direct the Secretary to make
+the report public with a Chinese translation.
+
+Section 13:
+Section 3. Prohibition on financial services for certain immediate
+family
+Under this section, the Secretary would be authorized to prohibit
+financial institutions from providing services to Chinese officials
+named in the report, as well as their immediate family members.
+
+Section 14:
+Section 4. Definitions
+This section codifies terms for (i) Appropriate Members of Con-
+gress, (ii) Financial Institution, (iii) Foreign Financial Institution,
+(iv) Funds, (v) Immediate Family, and (vi) United States Financial
+Institution.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+H.R. 1716 does not repeal or amend any section of a statute.
+Therefore, the Office of Legislative Counsel did not prepare the re-
+port required under clause 3(e) of rule XIII of the House of Rep-
+resentatives.
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+10
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+Section 15:
+300.1P84RH
+ereh
+41
+oilof
+tesffo
+tresnI
+11
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+Section 16:
+400.1P84RH
+ereh
+51
+oilof
+tesffo
+tresnI
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPT. 119–48
+1st Session " HOUSE OF REPRESENTATIVES ! Part 1
+TAIWAN CONFLICT DETERRENCE ACT OF 2025
+MARCH27, 2025.—Committed to the Committee of the Whole House on the State
+of the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+[To accompany H.R. 1716]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 1716) to deter Chinese aggression towards Taiwan by re-
+quiring the Secretary of the Treasury to publish a report on finan-
+cial institutions and accounts connected to senior officials of the
+People’s Republic of China, to restrict financial services for certain
+immediate family of such officials, and for other purposes, having
+considered the same, reports favorably thereon with an amendment
+and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 4
+Background and Need for Legislation .................................................................... 4
+Committee Consideration ........................................................................................ 4
+Related Hearings ..................................................................................................... 5
+Committee Votes ...................................................................................................... 5
+Committee Oversight Findings ............................................................................... 8
+Performance Goals and Objectives ......................................................................... 8
+Committee Cost Estimate ....................................................................................... 8
+New Budget Authority and CBO Cost Estimate ................................................... 8
+Unfunded Mandates Statement .............................................................................. 8
+Earmark Statement ................................................................................................. 8
+Federal Advisory Committee Act Statement ......................................................... 9
+Applicability to the Legislative Branch ................................................................. 9
+Duplication of Federal Programs ............................................................................ 9
+Section-by-Section Analysis of the Legislation ...................................................... 9
+Changes in Existing Law Made by the Bill, as Reported ..................................... 9
+Committee Letters ................................................................................................... 10
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+2
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Taiwan Conflict Deterrence Act of 2025’’.
+SEC. 2. REPORT ON FINANCIAL INSTITUTIONS AND ACCOUNTS CONNECTED TO CERTAIN CHI-
+NESE GOVERNMENT OFFICIALS.
+(a) FINANCIALINSTITUTIONSREPORT.—
+(1) IN GENERAL.—Not later than 90 days after the date that the President,
+pursuant to section 3(c) of the Taiwan Relations Act (22 U.S.C. 3302(c)), informs
+the Congress of a threat resulting from actions of the People’s Republic of China
+and any danger to the interests of the United States arising therefrom, and an-
+nually thereafter for 3 years, the Secretary of the Treasury shall submit a re-
+port to the appropriate Members of Congress containing the following:
+(A) With respect to each of at least 10 natural persons described under
+subsection (b), at least 1 of whom is a natural person listed under para-
+graph (1) of such subsection (b) and at least 1 of whom is a natural person
+listed under paragraph (2) of such subsection (b), the estimated total funds
+that are held in financial institutions and are under direct or indirect con-
+trol by such natural person and a description of such funds.
+(B) A list of any financial institutions that—
+(i) maintain an account in connection with significant funds described
+in subparagraph (A); or
+(ii) otherwise provide significant financial services to a natural per-
+son covered by the report.
+(2) BRIEFINGREQUIRED.—Not later than 30 days after submitting a report de-
+scribed under paragraph (1), the Secretary of the Treasury, or a designee of the
+Secretary, shall provide to the appropriate Members of Congress an unclassified
+or classified briefing (as determined appropriate by the Secretary) on the funds
+covered by the report, including a description of how the funds were acquired,
+and any illicit or corrupt means employed to acquire or use the funds.
+(3) EXEMPTIONS.—The requirements described under paragraph (1) may not
+be applied with respect to a natural person or a financial institution, as the case
+may be, if the President determines:
+(A) The funds described under paragraph (1)(A) were primarily acquired
+through legal and noncorrupt means.
+(B) The natural person has agreed to provide significant cooperation to
+the United States for an important national security purpose with respect
+to China.
+(C) A financial institution has agreed to—
+(i) no longer maintain an account described under paragraph
+(1)(B)(i);
+(ii) no longer provide significant financial services to a natural person
+covered by the report; or
+(iii) provide significant cooperation to the United States for an impor-
+tant national security purpose with respect to China.
+(4) WAIVER.—The President may waive any requirement described under
+paragraph (1) with respect to a natural person or a financial institution upon
+reporting to the appropriate Members of Congress that—
+(A) the waiver would substantially promote the objective of ending the
+threat described under paragraph (1);
+(B) the threat described under paragraph (1) is no longer present; or
+(C) the waiver is essential to the national security interests of the United
+States.
+(b) NATURAL PERSONS DESCRIBED.—The natural persons described in this sub-
+section are persons who, at the time of a report, are the following:
+(1) A member of the Politburo Standing Committee of the Chinese Communist
+Party.
+(2) A member of the Politburo of the Chinese Communist Party that is not
+described under paragraph (1).
+(3) A member of the Central Committee of the Chinese Communist Party
+that—
+(A) is none of the foregoing; and
+(B) performs any official duty that directly or indirectly affects Taiwan.
+(c) FORMOFREPORTS; PUBLICAVAILABILITY.—
+(1) FORM OF REPORTS.—The reports required under paragraphs (1) and (4) of
+subsection (a) shall be submitted in unclassified form but may contain a classi-
+fied annex.
+(2) PUBLIC AVAILABILITY.—The Secretary of the Treasury shall make the un-
+classified portion of the report required under subsection (a)(1) available to the
+public on the website and social media accounts of the Department of the Treas-
+ury—
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+3
+(A) in English, Chinese, and any other language that the Secretary finds
+appropriate; and
+(B) in precompressed, easily downloadable versions that are made avail-
+able in all appropriate formats.
+SEC. 3. PROHIBITION ON FINANCIAL SERVICES FOR CERTAIN IMMEDIATE FAMILY.
+(a) INGENERAL.—The Secretary of the Treasury shall prohibit a United States fi-
+nancial institution, and any person owned or controlled by a United States financial
+institution, from engaging in a significant transaction with—
+(1) a natural person covered by a report made under section 2(a); and
+(2) the immediate family of a person described under paragraph (1), if the
+Secretary finds that such immediate family benefits from funds described in the
+report.
+(b) EXCEPTIONS.—
+(1) EXCEPTION FOR INTELLIGENCE, LAW ENFORCEMENT, AND NATIONAL SECU-
+RITYACTIVITIES.—Subsection (a) shall not apply with respect to any intelligence,
+law enforcement, or national security activity of the United States.
+(2) WAIVER.—The President may waive the application of subsection (a) with
+respect to a person upon reporting to the appropriate Members of Congress
+that—
+(A) the waiver would substantially promote the objective of ending the
+threat described under section 2(a)(1);
+(B) the threat described under section 2(a)(1) is no longer present; or
+(C) the waiver is essential to the national security interests of the United
+States.
+(3) FORM OF REPORTS.—The reports required under paragraph (2) shall be
+submitted in unclassified form but may contain a classified annex.
+(4) RULEOFCONSTRUCTION.—
+(A) IN GENERAL.—Nothing in this section shall be construed as author-
+izing or requiring any sanction with respect to the importation of any good.
+(B) GOOD DEFINED.—In this paragraph, the term ‘‘good’’ means any arti-
+cle, natural or manmade substance, material, supply or manufactured prod-
+uct, including inspection and test equipment, and excluding technical data.
+(c) IMPLEMENTATION; PENALTIES.—
+(1) IMPLEMENTATION.—The President may exercise all authorities provided to
+the President under sections 203 and 205 of the International Emergency Eco-
+nomic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section. Not later
+than 60 days after issuing a license pursuant to this section, the President shall
+submit a copy of the license to the appropriate Members of Congress.
+(2) PENALTIES.—A person that violates, attempts to violate, conspires to vio-
+late, or causes a violation of this section or any regulation, license, or order
+issued to carry out this section shall be subject to the penalties set forth in sub-
+sections (b) and (c) of section 206 of the International Emergency Economic
+Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an
+unlawful act described in subsection (a) of that section 206.
+(d) TERMINATION.—This section shall have no force or effect on the earlier of—
+(1) the date that is 30 days after the date that the President reports to the
+appropriate Members of Congress that the threat described under section
+2(a)(1) is no longer present; or
+(2) the date that is 25 years after the date that the Secretary of the Treasury
+submits the final report required under section 2(a)(1).
+SEC. 4. DEFINITIONS.
+For purposes of this Act:
+(1) APPROPRIATE MEMBERS OF CONGRESS.—The term ‘‘appropriate Members of
+Congress’’ means the Speaker and minority leader of the House of Representa-
+tives, the majority leader and minority leader of the Senate, the Chairman and
+Ranking Member of the Committee on Financial Services of the House of Rep-
+resentatives, and the Chairman and Ranking Member of the Committee on
+Banking, Housing, and Urban Affairs of the Senate.
+(2) FINANCIAL INSTITUTION.—The term ‘‘financial institution’’ means a United
+States financial institution or a foreign financial institution.
+(3) FOREIGN FINANCIAL INSTITUTION.—The term ‘‘foreign financial institution’’
+has the meaning given that term in section 561.308 of title 31, Code of Federal
+Regulations.
+(4) FUNDS.—The term ‘‘funds’’ has the meaning given to such term by the Sec-
+retary of the Treasury.
+(5) IMMEDIATE FAMILY.—The term ‘‘immediate family’’ of any natural person
+means the following (whether by the full or half blood or by adoption):
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6621 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+4
+(A) Such person’s spouse, father, mother, children, brothers, sisters, and
+grandchildren.
+(B) The father, mother, brothers, and sisters of such person’s spouse.
+(C) The spouse of a child, brother, or sister of such person.
+(6) UNITED STATES FINANCIAL INSTITUTION.—The term ‘‘United States finan-
+cial institution’’ has the meaning given the term ‘‘U.S. financial institution’’
+under section 561.309 of title 31, Code of Federal Regulations.
+PURPOSE AND SUMMARY
+Introduced on February 27, 2025, by Representative Lisa
+McClain, H.R. 1716, the Taiwan Conflict Deterrence Act of 2025, di-
+rects the Secretary of the Department of the Treasury, after deliv-
+ery of a congressional notification pursuant to the Taiwan Rela-
+tions Act, to submit to Congress a report estimating the illicit funds
+of senior Chinese government officials and identifying the financial
+institutions providing them with services. The bill would direct the
+Secretary to make the report public with a Chinese translation. In
+addition, the Secretary would be required to prohibit financial in-
+stitutions from providing services to Chinese officials named in the
+report, as well as their immediate family members.
+BACKGROUND AND NEED FOR LEGISLATION
+Under the Taiwan Relations Act, the President is directed to
+promptly inform Congress of ‘‘any threat to the security or the so-
+cial or economic system of the people of Taiwan and any danger to
+the interests of the United States arising therefrom.’’ China’s bel-
+ligerence toward Taiwan has been on the rise. For example, in
+2022, there were 1,737 aircraft of the People’s Liberation Army
+tracked in violation of Taiwan’s Air Defense Identification Zone,
+more than the previous three years combined. Taiwanese officials
+have also noted frequent Chinese surveillance balloon missions
+over the island. William Burns, former Director of the Central In-
+telligence Agency, has testified to Congress that Chinese Com-
+munist Party Chairman Xi Jinping has ordered the military to be
+prepared for an invasion of Taiwan by 2027. Representative
+McClain’s legislation seeks to deter China from hostilities by set-
+ting forth clear consequences for senior officials in the event of an
+attack.
+COMMITTEE CONSIDERATION
+118TH CONGRESS
+On January 26, 2023, Representative French Hill (R–AR) intro-
+duced H.R. 554, the Taiwan Conflict Deterrence Act of 2023, with
+Representative Brad Sherman (D–CA) is an original cosponsor.
+Representatives Michael Lawler (R–NY), Susie Lee (D–NV), Pat-
+rick Ryan (D–NY), Chris Pappas (D–NH), Young Kim (R–CA),
+Monica De La Cruz (R–TX), and Ann Wagner (R–MO) were subse-
+quently added as cosponsors.
+The Committee considered H.R. 554 on February 7, 2023, in a
+hearing titled ‘‘Combatting the Economic Threat from China’’. On
+February 28, 2023, the Committee ordered H.R. 554 (as amended)
+reported favorably to the House by a recorded vote of 41 yeas to
+0 nays, a quorum being present. (Record Vote No. FC–14). Before
+the question to report was called, the Committee adopted an
+amendment in the nature of a substitute offered by Mr. Hill by
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+5
+voice vote. H. Rept. 118–292 accompanying the bill was filed on De-
+cember 1, 2023. H.R. 554 was passed by the House on September
+9, 2024, under suspension of the rules by voice vote. On September
+10, 2024, H.R. 554 was received in the Senate and referred to the
+Committee on Banking, Housing, and Urban Affairs.
+119TH CONGRESS
+On February 27, 2025, Representative Lisa McClain (R–MI) in-
+troduced H.R. 1716, the Taiwan Conflict Deterrence Act of 2025,
+with Representative Brad Sherman (D–CA) as an original cospon-
+sor.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+1716.
+The Full Committee held a hearing on February 25, 2025, enti-
+tled ‘‘Examining Policies to Counter China.’’ A discussion draft
+version of the bill was considered in this hearing. The following
+witnesses testified: John Miller, Senior Vice President of Policy,
+Trust, Data, and Technology, and General Counsel, Information
+Technology Industry Council; Nicholas McMurray, Managing Direc-
+tor of International and Nuclear Policy, ClearPath; John Cassara,
+retired United States Treasury Department Special Agent; Martin
+Muhleisen, Nonresident Senior Fellow at the GAO Economic Cen-
+ter at the Atlantic Council; and Dr. Rush Doshi, C.V. Starr Senior
+Fellow for Asian Studies, and Director of the China Strategy Initia-
+tive at the Council on Foreign Relations, and an assistant professor
+at Georgetown University. Consequences for senior Chinese offi-
+cials in the event China moves against Taiwan were discussed in
+this hearing.
+The Committee on Financial Services met in open session on
+March 5, 2025 to consider, among others, H.R. 1716.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On March 5, 2025, the Committee ordered H.R. 1716, as amend-
+ed, to be reported favorably to the House by a recorded vote of 48
+yeas to 0 nays, a quorum being present. (Record Vote No. FC–013).
+Before the question to report was called, the Committee adopted
+an amendment in the nature of a substitute offered by Mrs.
+McClain making technical changes by a recorded vote of 48 yeas
+to 0 nays, a quorum being present. (Record Vote No. FC–012).
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+6
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+100.1P84RH
+ereh
+8
+oilof
+tesffo
+tresnI
+
+7
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+200.1P84RH
+ereh
+9
+oilof
+tesffo
+tresnI
+
+8
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 1716 is to deter Chinese ag-
+gression toward Taiwan by requiring the Secretary of the Treasury
+to publish a report on financial institutions and accounts connected
+to senior officials of the People’s Republic of China, to restrict fi-
+nancial services for certain immediate family of such officials.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 1716.
+The Committee has requested but not received a cost estimate
+from the Director of the Congressional Budget Office. However,
+pursuant to clause 3(d)(1) of rule XIII of the House of Representa-
+tives, the Committee will adopt as its own the cost estimate by the
+Director of the Congressional Budget Office once it has been pre-
+pared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of H.R. 1716 and states that the provisions of the bill do
+not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+9
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+The following is a section-by-section analysis of H.R. 1716, the
+Taiwan Conflict Deterrence Act of 2025:
+Section 1. Short title
+Section provides that the short title is ‘‘Taiwan Conflict Deter-
+rence Act of 2025’’.
+Section. 2. Report on financial institutions and accounts connected
+to certain Chinese government officials
+Under this section, the Secretary of the Department of the Treas-
+ury, after delivery of a congressional notification pursuant to the
+Taiwan Relations Act, would submit to Congress a report identi-
+fying the financial institutions providing services to senior Chinese
+government officials. The bill would direct the Secretary to make
+the report public with a Chinese translation.
+Section 3. Prohibition on financial services for certain immediate
+family
+Under this section, the Secretary would be authorized to prohibit
+financial institutions from providing services to Chinese officials
+named in the report, as well as their immediate family members.
+Section 4. Definitions
+This section codifies terms for (i) Appropriate Members of Con-
+gress, (ii) Financial Institution, (iii) Foreign Financial Institution,
+(iv) Funds, (v) Immediate Family, and (vi) United States Financial
+Institution.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+H.R. 1716 does not repeal or amend any section of a statute.
+Therefore, the Office of Legislative Counsel did not prepare the re-
+port required under clause 3(e) of rule XIII of the House of Rep-
+resentatives.
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+10
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+300.1P84RH
+ereh
+41
+oilof
+tesffo
+tresnI
+
+11
+VerDate Sep 11 2014 05:27 Apr 10, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR048P1.XXX HR048P1
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+400.1P84RH
+ereh
+51
+oilof
+tesffo
+tresnI

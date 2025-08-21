@@ -1,0 +1,1065 @@
+Title: JULY2, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JULY2, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 11
+Source: documents - H. Rept. 119-181
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–181
+UNDERSEA CABLE PROTECTION ACT OF 2025
+the Union and ordered to be printed
+Mr. WESTERMAN, from the Committee on Natural Resources,
+submitted the following
+R E P O R T
+together with
+DISSENTING VIEWS
+[To accompany H.R. 261]
+The Committee on Natural Resources, to whom was referred the
+bill (H.R. 261) to amend the National Marine Sanctuaries Act to
+prohibit requiring an authorization for the installation, continued
+presence, operation, maintenance, repair, or recovery of undersea
+fiber optic cables in a national marine sanctuary if such activities
+have previously been authorized by a Federal or State agency, hav-
+ing considered the same, reports favorably thereon with amend-
+ments and recommends that the bill as amended do pass.
+The amendments are as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 2:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Undersea Cable Protection Act of 2025’’.
+SEC. 2. PROHIBITION ON PROHIBITING, OR REQUIRING PERMITS OR OTHER AUTHORIZA-
+TIONS FOR, UNDERSEA FIBER OPTIC CABLES AUTHORIZED BY A FEDERAL OR
+STATE AGENCY.
+The National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.) is amended by in-
+serting after section 310 the following:
+‘‘SEC. 310A. PROHIBITION ON PROHIBITING, OR REQUIRING PERMITS OR OTHER AUTHORIZA-
+TIONS FOR, UNDERSEA FIBER OPTIC CABLES AUTHORIZED BY A FEDERAL OR
+STATE AGENCY.
+‘‘(a) IN GENERAL.—Notwithstanding any other provision of this Act, the Secretary
+may not prohibit, or require any permit, including any special use permit, or other
+authorization for, the installation, continued presence, operation, maintenance, re-
+pair, or recovery of undersea fiber optic cables in a national marine sanctuary if a
+license, lease, or permit has been issued by a Federal or State agency, and is in ef-
+fect, authorizing such installation, continued presence, operation, maintenance, re-
+pair, or recovery.
+59–006
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6621 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+‘‘(b) INTERAGENCYCOOPERATION.—Nothing in this section shall be construed as al-
+tering existing requirements regarding interagency cooperation under section 304(d)
+in any Federal agency action described in that section and involving the installation,
+continued presence, operation, maintenance, repair, or recovery of undersea fiber
+optic cables in a national marine sanctuary.’’.
+SEC. 3. REMOVING RESTRICTIONS ON ACTIVITIES COVERED BY SANCTUARY SPECIAL USE
+PERMITS.
+
+Section 3:
+Section 310(c) of National Marine Sanctuaries Act (16 U.S.C. 1441(c)) is amend-
+ed—
+(1) in paragraph (1), by adding ‘‘and’’ at the end;
+(2) by striking paragraphs (2) and (3); and
+(3) by redesignating paragraph (4) as paragraph (2).
+Amend the title so as to read:
+A bill to amend the National Marine Sanctuaries Act to prohibit
+the Secretary of Commerce from prohibiting, or requiring any per-
+mit or other authorization for, the installation, continued presence,
+operation, maintenance, repair, or recovery of undersea fiber optic
+cables in a national marine sanctuary if such activities have been
+authorized by a Federal or State agency.
+PURPOSE OF THE LEGISLATION
+The purpose of H.R. 261, as ordered reported, is to amend the
+National Marine Sanctuaries Act to prohibit the Secretary of Com-
+merce from prohibiting, or requiring any permit or other authoriza-
+tion for, the installation, continued presence, operation, mainte-
+nance, repair, or recovery of undersea fiber optic cables in a na-
+tional marine sanctuary if such activities have been authorized by
+a Federal or State agency.
+BACKGROUND AND NEED FOR LEGISLATION
+Undersea cables have been used for more than 170 years1 and
+are largely responsible for the growth of international tele-
+communications systems in recent decades. The current undersea
+cable network connects every continent except Antarctica and ‘‘car-
+ries about 95% of intercontinental global internet traffic, and 99%
+of transoceanic digital communications . . . including trillions in
+international financial transactions daily.’’2 The Federal Commu-
+nications Commission (FCC) grants cable landing licenses for 25
+years. However, like many other types of projects, the process to
+site, install, and approve these cables typically involves numerous
+agencies at the federal, state, and local levels. Under the National
+Marine Sanctuary Act (NMSA), the National Oceanic and Atmos-
+pheric Administration has the authority to issue Special Use Per-
+mits (SUPs) for certain categories of activities within a national
+marine sanctuary, if it is determined that the activity is needed to
+establish access to its resources or ‘‘promote public use and under-
+standing of a sanctuary resource.’’ SUPs can often take years to ac-
+quire and can come with additional burdens and costs. Addition-
+ally, it has been noted that over the last 20 years, no new cables
+1Congressional Research Service. Undersea Telecommunication Cables: Technology Overview
+and Issues for Congress. September 13, 2022. https://crsreports.congress.gov/product/pdf/R/
+R47237.
+2Id.
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+have been constructed within national marine sanctuaries due to
+regulatory burdens, including the SUP process.3
+H.R. 261, as amended, addresses this issue by prohibiting the
+Secretary of Commerce from requiring any additional permit or au-
+thorization for an undersea cable in a sanctuary, including a SUP.
+Additionally, the bill removes the five-year timeline for SUPs in
+order to allow for broader activities within national marine sanc-
+tuaries.
+COMMITTEE ACTION
+H.R. 261 was introduced on January 9, 2025, by Rep. Earl L.
+‘‘Buddy’’ Carter (R–GA). The bill was referred to the Committee on
+Natural Resources, and within the Committee to the Subcommittee
+on Water, Wildlife and Fisheries. On January 23, 2025, the Sub-
+committee on Water, Wildlife and Fisheries held a hearing on the
+bill. On June 25, 2025, the Committee on Natural Resources met
+to consider the bill. The Subcommittee on Water, Wildlife and Fish-
+eries was discharged from further consideration of H.R. 261 by
+unanimous consent. Chairman Bruce Westerman (R–AR) offered an
+Amendment in the Nature of a Substitute designated
+Westerman_022 ANS. The Amendment in the Nature of a Sub-
+stitute was agreed to by voice vote. Ranking Member Jared
+Huffman (D–CA) offered an amendment to the Amendment in the
+Nature of a Substitute designated Huffman #1. The amendment
+was not agreed to by a roll call vote of 18 yeas to 25 nays, as fol-
+lows:
+3Comments of the North American Submarine Cable Association. National Oceanic and At-
+mospheric Administration. Notice of Modification to the Special Use Permit (SUP) Category for
+the Continued Presence of Commercial Submarine Cables within the National Marine Sanctuary
+System. October 1, 2024. https://www.regulations.gov/comment/NOAA-NOS-2024-0089-0007.
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 4:
+100.181RH
+ereh
+5
+oilof
+tesffo
+tresnI
+5
+The bill, as amended, was ordered favorably reported to the
+House of Representatives by a roll call vote of 25 yeas to 18 nays,
+as follows:
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+6
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 5:
+200.181RH
+ereh
+7
+oilof
+tesffo
+tresnI
+7
+HEARINGS
+For the purposes of clause 3(c)(6) of House rule XIII, the fol-
+lowing hearing was used to develop or consider this measure: hear-
+ing by the Subcommittee on Water, Wildlife and Fisheries held on
+January 23, 2025.
+
+Section 6:
+SECTION-BY-SECTION ANALYSIS
+
+Section 7:
+Section 1. Short title
+This Act may be cited as the ‘‘Undersea Cable Protection Act of
+
+Section 8:
+2025.’’
+
+Section 9:
+Section 2. Prohibition on prohibiting, or requiring permits or other
+authorizations for, undersea fiber optic cables authorized by a
+Federal or State agency.
+Prohibits the Secretary of Commerce from prohibiting, or requir-
+ing an additional permit (including a special use permit) for, ‘‘the
+installation, continued presence, operation, maintenance, repair, or
+recovery of undersea fiber optic cables in a national marine sanc-
+tuary’’ if the project has been issued a license, lease, or permit by
+a Federal or State agency and is also in effect. This Section also
+ensures that interagency cooperation under the NMSA continues.
+
+Section 10:
+Section 3. Removing restrictions on activities covered by sanctuary
+special use permits.
+Removes the five-year timeframe for SUPs for other activities
+within national marine sanctuaries.
+COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Regarding clause 2(b)(1) of rule X and clause 3(c)(1) of rule XIII
+of the Rules of the House of Representatives, the Committee on
+Natural Resources’ oversight findings and recommendations are re-
+flected in the body of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+As required by clause 3(c)(4) of rule XIII, the general perform-
+ance goal or objective of this bill, as ordered reported, is to amend
+the National Marine Sanctuaries Act to prohibit the Secretary of
+Commerce from prohibiting, or requiring any permit or other au-
+thorization for, the installation, continued presence, operation,
+maintenance, repair, or recovery of undersea fiber optic cables in
+a national marine sanctuary if such activities have been authorized
+by a Federal or State agency.
+NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY, AND TAX
+EXPENDITURES
+In compliance with clause 3(c)(2) of rule XIII of the Rules of the
+House of Representatives, the Committee adopts as its own the es-
+timate of new budget authority, entitlement authority, or tax ex-
+penditures or revenues contained in the cost estimate prepared by
+the Director of the Congressional Budget Office pursuant to section
+402 of the Congressional Budget Act of 1974.
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+8
+CONGRESSIONAL BUDGET OFFICE ESTIMATES
+Pursuant to clause 3(d)(1) of House rule XIII, the Committee
+adopts as its own the cost estimate prepared by the Director of the
+Congressional Budget Office pursuant to the Congressional Budget
+Act of 1974.
+EARMARK STATEMENT
+This bill does not contain any Congressional earmarks, limited
+tax benefits, or limited tariff benefits as defined under clause 9(e),
+9(f), and 9(g) of rule XXI of the Rules of the House of Representa-
+tives.
+UNFUNDED MANDATES REFORM ACT STATEMENT
+The Committee adopts as its own the estimate of the Federal
+mandates prepared by the Director of the Congressional Budget Of-
+fice pursuant to section 423 of the Unfunded Mandates Reform Act.
+EXISTING PROGRAMS
+Directed Rule Making. This bill does not contain any directed
+rule makings.
+Duplication of Existing Programs. This bill does not establish or
+reauthorize a program of the federal government known to be du-
+plicative of another program. Such program was not included in
+any report from the Government Accountability Office to Congress
+pursuant to section 21 of Public Law 111–139 or identified in the
+most recent Catalog of Federal Domestic Assistance published pur-
+suant to the Federal Program Information Act (Public Law 95–220,
+as amended by Public Law 98–169) as relating to other programs.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+PREEMPTION OF STATE, LOCAL OR TRIBAL LAW
+Any preemptive effect of this bill over state, local, or tribal law
+is intended to be consistent with the bill’s purposes and text and
+the Supremacy Clause of Article VI of the U.S. Constitution.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+9
+NATIONAL MARINE SANCTUARIES ACT
+TITLE III—NATIONAL MARINE SANCTUARIES
+* * * * * * *
+SEC. 310. SPECIAL USE PERMITS.
+(a) ISSUANCE OF PERMITS.—The Secretary may issue special use
+permits which authorize the conduct of specific activities in a na-
+tional marine sanctuary if the Secretary determines such author-
+ization is necessary—
+(1) to establish conditions of access to and use of any sanc-
+tuary resource; or
+(2) to promote public use and understanding of a sanctuary
+resource.
+(b) PUBLIC NOTICE REQUIRED.—The Secretary shall provide ap-
+propriate public notice before identifying any category of activity
+subject to a special use permit under subsection (a).
+(c) PERMIT TERMS.—A permit issued under this section—
+(1) shall authorize the conduct of an activity only if that ac-
+tivity is compatible with the purposes for which the sanctuary
+is designated and with protection of sanctuary resources; and
+ø(2) shall not authorize the conduct of any activity for a pe-
+riod of more than 5 years unless renewed by the Secretary;
+ø(3) shall require that activities carried out under the permit
+be conducted in a manner that does not destroy, cause the loss
+of, or injure sanctuary resources; and¿
+ø(4)¿ (2) shall require the permittee to purchase and main-
+tain comprehensive general liability insurance, or post an
+equivalent bond, against claims arising out of activities con-
+ducted under the permit and to agree to hold the United States
+harmless against such claims.
+(d) FEES.—
+(1) ASSESSMENT AND COLLECTION.—The Secretary may as-
+sess and collect fees for the conduct of any activity under a
+permit issued under this section.
+(2) AMOUNT.—The amount of a fee under this subsection
+shall be equal to the sum of—
+(A) costs incurred, or expected to be incurred, by the Sec-
+retary in issuing the permit;
+(B) costs incurred, or expected to be incurred, by the Sec-
+retary as a direct result of the conduct of the activity for
+which the permit is issued, including costs of monitoring
+the conduct of the activity; and
+(C) an amount which represents the fair market value of
+the use of the sanctuary resource.
+(3) USE OF FEES.—Amounts collected by the Secretary in the
+form of fees under this section may be used by the Secretary—
+(A) for issuing and administering permits under this sec-
+tion; and
+(B) for expenses of managing national marine sanc-
+tuaries.
+(4) WAIVER OR REDUCTION OF FEES.—The Secretary may ac-
+cept in-kind contributions in lieu of a fee under paragraph
+(2)(C), or waive or reduce any fee assessed under this sub-
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+10
+
+Section 11:
+section for any activity that does not derive profit from the ac-
+cess to or use of sanctuary resources.
+(e) VIOLATIONS.—Upon violation of a term or condition of a per-
+mit issued under this section, the Secretary may—
+(1) suspend or revoke the permit without compensation to
+the permittee and without liability to the United States;
+(2) assess a civil penalty in accordance with section 307; or
+(3) both.
+(f) REPORTS.—Each person issued a permit under this section
+shall submit an annual report to the Secretary not later than De-
+cember 31 of each year which describes activities conducted under
+that permit and revenues derived from such activities during the
+year.
+(g) FISHING.—Nothing in this section shall be considered to re-
+quire a person to obtain a permit under this section for the conduct
+of any fishing activities in a national marine sanctuary.
+SEC. 310A. PROHIBITION ON PROHIBITING, OR REQUIRING PERMITS
+OR OTHER AUTHORIZATIONS FOR, UNDERSEA FIBER
+OPTIC CABLES AUTHORIZED BY A FEDERAL OR STATE
+AGENCY.
+(a) IN GENERAL.—Notwithstanding any other provision of this
+Act, the Secretary may not prohibit, or require any permit, includ-
+ing any special use permit, or other authorization for, the installa-
+tion, continued presence, operation, maintenance, repair, or recovery
+of undersea fiber optic cables in a national marine sanctuary if a
+license, lease, or permit has been issued by a Federal or State agen-
+cy, and is in effect, authorizing such installation, continued pres-
+ence, operation, maintenance, repair, or recovery.
+(b) INTERAGENCY COOPERATION.—Nothing in this section shall be
+construed as altering existing requirements regarding interagency
+cooperation under section 304(d) in any Federal agency action de-
+scribed in that section and involving the installation, continued
+presence, operation, maintenance, repair, or recovery of undersea
+fiber optic cables in a national marine sanctuary.
+* * * * * * *
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+DISSENTING VIEWS
+H.R. 261 would prohibit the National Oceanic and Atmospheric
+Administration (NOAA) from requiring any authorization for the
+installation, continued presence, operation, maintenance, repair, or
+recovery of undersea fiber optic cables in a National Marine Sanc-
+tuary (NMS) if those activities have been previously approved by
+other Federal or State agencies. The bill would remove NOAA’s au-
+thority under the National Marine Sanctuaries Act (NMSA) to con-
+duct environmental review and charge fair market fees for major
+infrastructure projects in federally protected marine areas.
+The National Marine Sanctuary System is a network of 17 na-
+tional marine sanctuaries and two marine monuments covering
+over 629,000 square miles of marine and Great Lakes waters.1
+Congress established the system to safeguard America’s natural
+and cultural marine resources while supporting their sustainable
+use. Recreational users frequent sanctuaries for activities such as
+boating, kayaking, wildlife viewing, and recreational fishing that’s
+permitted within approximately 98% of the sanctuary system.2 The
+sanctuary system generates $8 billion in annual revenue and plays
+a critical role in preserving coastal ecosystems.3
+Under section 310 of the National Marine Sanctuaries Act,
+NOAA may issue special use permits (SUPs) for activities within
+sanctuaries that are compatible with sanctuary purposes and do
+not destroy sanctuary resources. One such activity is the installa-
+tion of submarine fiber optic cables, which facilitates internet ac-
+cess and telecommunications. NOAA conducts environmental re-
+view, assesses applicants’ readiness, examines installation meth-
+ods, and confirms no alternative location exists outside the sanc-
+tuary. NOAA also considers environmental impacts and consults
+with partner agencies and affected tribes. While ecosystems in
+some sanctuaries can recover from cable installation within months
+or years, cables can potentially cause long-term impacts that dis-
+rupt essential sanctuary features such as benthic habitat, water
+quality, and ocean noise levels.4
+To obtain a permit for cable installation and maintenance, the
+Office of National Marine Sanctuaries (ONMS) conducts an envi-
+ronmental review and consults with partner agencies. The permit
+review includes an assessment of applicants’ professional and fi-
+nancial readiness, examination of proposed installation methods,
+and confirmation that there is no alternative location for the cable
+1NOAA. National Marine Sanctuary System. https://sanctuaries.noaa.gov/. Last visited on
+June 20, 2025.
+2National Marine Sanctuary Foundation. Go Fish: Recreational Fishing around the National
+Marine Sanctuary System. https://marinesanctuary.org/blog/go-fish-recreational-fishing-around-
+the-national-marine-sanctuary-system/.
+3NOAA. Sanctuaries: A Destination for Recreation. https://sanctuaries.noaa.gov/magazine/1/
+america-and-ocean-recreation/.
+4NOAA. Guidelines on Best Environmental Practice (BEP) in Cable Laying and Operation.
+https://www.gc.noaa.gov/documents/2017/12-02e_agreement_cables_guidelines.pdf.
+(11)
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6604 Sfmt 6604 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+12
+except through the sanctuary. ONMS also considers how the
+project might affect resources, impact site value and existing uses,
+and potential risk mitigation strategies, weighing these factors
+against the socioeconomic and security implications of the project.
+The need for a thorough review was demonstrated when Meta at-
+tempted to install an undersea cable off the coast of Tillamook
+County, Oregon. A drill bit broke during installation, leaving 1,000
+feet of steel pipe on the seafloor and a spill of 6,500 gallons of drill-
+ing fluid. Meta paid less than $400,000 in damages and fees but
+abandoned the equipment.5
+This bill would also prevent NOAA from assessing fair market
+rents and fees for the use of marine sanctuaries, as is the practice
+under current law. Onshore agencies like the National Park Serv-
+ice and Bureau of Land Management charge rent for telecommuni-
+cations rights-of-way,6 but this bill would exempt companies from
+paying fair compensation for the use of public resources. The bill
+would also eliminate NOAA’s environmental review authority, re-
+moving safeguards for our nation’s most precious natural, cultural,
+and historical resources in sanctuaries.
+Additionally, the bill would transfer federal authority over pro-
+tected marine areas to state agencies and other federal agencies,
+eliminating uniform environmental protections under the NMSA
+and creating a patchwork of inconsistent standards. The bill fails
+to specify which agencies could permit these activities and which
+permits, leases, or licenses would apply. Because the list of applica-
+ble permits and licenses is unknown, it is unclear whether NOAA
+would have the authority to ensure sensitive ecological or cul-
+turally significant areas are avoided or whether there are safe-
+guards for Tribal consultation. This could violate Tribal sovereignty
+and government-to-government communication requirements.7
+Some sanctuaries are co-managed with coastal treaty Tribes who
+would be excluded from management decisions affecting their trea-
+ty rights.
+The bill’s language would also strike key provisions from the
+NMSA for all special use permits. These provisions require 5-year
+renewals for special use permits and require NOAA to ensure that
+activities carried out under a special use permit be conducted ‘‘in
+a manner that does not destroy, cause the loss of, or injure sanc-
+tuary resources.’’8
+During committee markup, Democrats offered an amendment to
+address the main concerns with the bill and preserve some basic
+safeguards under the National Marine Sanctuaries Act. This
+amendment would have allowed NOAA to collect rents, consult, en-
+sure avoidance of sensitive areas, and verify bonding or insurance
+coverage. It would also have defined applicable state agencies and
+required public notice for permits and licenses issued in lieu of spe-
+5Oregon’s Public Broadcasting. Ehrlich, April. Amazon’s subsea cable gets approval, but Or-
+egon leaders want more regulation. August 14, 2023.
+6National Park Service https://www.nps.gov/aboutus/right-of-way-permit.htm; Bureau of Land
+Management, https://www.blm.gov/programs/lands-and-realty/rights-way/obtaining-right-of-way/
+row-fees. Last visited on June 20, 2025.
+73 NOAA, Policy and Permit Guidance for Submarine Cable Projects. https://
+nmssanctuaries.blob.core.windows.net/sanctuariesprod/media/archive/library/pdfs/
+subcable_final_guidance_2011.pdf.
+816 U.S.C. 1441(c)(3).
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6604 Sfmt 6604 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+13
+cial-use permits. Unfortunately, Committee Republicans rejected
+this amendment.
+H.R. 261 is an unnecessary handout to billionaire corporations
+that will create widespread confusion and threaten serious harm to
+our nation’s Marine Sanctuaries and the thousands of small busi-
+nesses and coastal economies that rely on healthy sanctuaries.
+JARED HUFFMAN,
+Ranking Member.
+Æ
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6604 Sfmt 6611 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–181
+UNDERSEA CABLE PROTECTION ACT OF 2025
+JULY2, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. WESTERMAN, from the Committee on Natural Resources,
+submitted the following
+R E P O R T
+together with
+DISSENTING VIEWS
+[To accompany H.R. 261]
+The Committee on Natural Resources, to whom was referred the
+bill (H.R. 261) to amend the National Marine Sanctuaries Act to
+prohibit requiring an authorization for the installation, continued
+presence, operation, maintenance, repair, or recovery of undersea
+fiber optic cables in a national marine sanctuary if such activities
+have previously been authorized by a Federal or State agency, hav-
+ing considered the same, reports favorably thereon with amend-
+ments and recommends that the bill as amended do pass.
+The amendments are as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Undersea Cable Protection Act of 2025’’.
+SEC. 2. PROHIBITION ON PROHIBITING, OR REQUIRING PERMITS OR OTHER AUTHORIZA-
+TIONS FOR, UNDERSEA FIBER OPTIC CABLES AUTHORIZED BY A FEDERAL OR
+STATE AGENCY.
+The National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.) is amended by in-
+serting after section 310 the following:
+‘‘SEC. 310A. PROHIBITION ON PROHIBITING, OR REQUIRING PERMITS OR OTHER AUTHORIZA-
+TIONS FOR, UNDERSEA FIBER OPTIC CABLES AUTHORIZED BY A FEDERAL OR
+STATE AGENCY.
+‘‘(a) IN GENERAL.—Notwithstanding any other provision of this Act, the Secretary
+may not prohibit, or require any permit, including any special use permit, or other
+authorization for, the installation, continued presence, operation, maintenance, re-
+pair, or recovery of undersea fiber optic cables in a national marine sanctuary if a
+license, lease, or permit has been issued by a Federal or State agency, and is in ef-
+fect, authorizing such installation, continued presence, operation, maintenance, re-
+pair, or recovery.
+59–006
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6621 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+‘‘(b) INTERAGENCYCOOPERATION.—Nothing in this section shall be construed as al-
+tering existing requirements regarding interagency cooperation under section 304(d)
+in any Federal agency action described in that section and involving the installation,
+continued presence, operation, maintenance, repair, or recovery of undersea fiber
+optic cables in a national marine sanctuary.’’.
+SEC. 3. REMOVING RESTRICTIONS ON ACTIVITIES COVERED BY SANCTUARY SPECIAL USE
+PERMITS.
+Section 310(c) of National Marine Sanctuaries Act (16 U.S.C. 1441(c)) is amend-
+ed—
+(1) in paragraph (1), by adding ‘‘and’’ at the end;
+(2) by striking paragraphs (2) and (3); and
+(3) by redesignating paragraph (4) as paragraph (2).
+Amend the title so as to read:
+A bill to amend the National Marine Sanctuaries Act to prohibit
+the Secretary of Commerce from prohibiting, or requiring any per-
+mit or other authorization for, the installation, continued presence,
+operation, maintenance, repair, or recovery of undersea fiber optic
+cables in a national marine sanctuary if such activities have been
+authorized by a Federal or State agency.
+PURPOSE OF THE LEGISLATION
+The purpose of H.R. 261, as ordered reported, is to amend the
+National Marine Sanctuaries Act to prohibit the Secretary of Com-
+merce from prohibiting, or requiring any permit or other authoriza-
+tion for, the installation, continued presence, operation, mainte-
+nance, repair, or recovery of undersea fiber optic cables in a na-
+tional marine sanctuary if such activities have been authorized by
+a Federal or State agency.
+BACKGROUND AND NEED FOR LEGISLATION
+Undersea cables have been used for more than 170 years1 and
+are largely responsible for the growth of international tele-
+communications systems in recent decades. The current undersea
+cable network connects every continent except Antarctica and ‘‘car-
+ries about 95% of intercontinental global internet traffic, and 99%
+of transoceanic digital communications . . . including trillions in
+international financial transactions daily.’’2 The Federal Commu-
+nications Commission (FCC) grants cable landing licenses for 25
+years. However, like many other types of projects, the process to
+site, install, and approve these cables typically involves numerous
+agencies at the federal, state, and local levels. Under the National
+Marine Sanctuary Act (NMSA), the National Oceanic and Atmos-
+pheric Administration has the authority to issue Special Use Per-
+mits (SUPs) for certain categories of activities within a national
+marine sanctuary, if it is determined that the activity is needed to
+establish access to its resources or ‘‘promote public use and under-
+standing of a sanctuary resource.’’ SUPs can often take years to ac-
+quire and can come with additional burdens and costs. Addition-
+ally, it has been noted that over the last 20 years, no new cables
+1Congressional Research Service. Undersea Telecommunication Cables: Technology Overview
+and Issues for Congress. September 13, 2022. https://crsreports.congress.gov/product/pdf/R/
+R47237.
+2Id.
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+have been constructed within national marine sanctuaries due to
+regulatory burdens, including the SUP process.3
+H.R. 261, as amended, addresses this issue by prohibiting the
+Secretary of Commerce from requiring any additional permit or au-
+thorization for an undersea cable in a sanctuary, including a SUP.
+Additionally, the bill removes the five-year timeline for SUPs in
+order to allow for broader activities within national marine sanc-
+tuaries.
+COMMITTEE ACTION
+H.R. 261 was introduced on January 9, 2025, by Rep. Earl L.
+‘‘Buddy’’ Carter (R–GA). The bill was referred to the Committee on
+Natural Resources, and within the Committee to the Subcommittee
+on Water, Wildlife and Fisheries. On January 23, 2025, the Sub-
+committee on Water, Wildlife and Fisheries held a hearing on the
+bill. On June 25, 2025, the Committee on Natural Resources met
+to consider the bill. The Subcommittee on Water, Wildlife and Fish-
+eries was discharged from further consideration of H.R. 261 by
+unanimous consent. Chairman Bruce Westerman (R–AR) offered an
+Amendment in the Nature of a Substitute designated
+Westerman_022 ANS. The Amendment in the Nature of a Sub-
+stitute was agreed to by voice vote. Ranking Member Jared
+Huffman (D–CA) offered an amendment to the Amendment in the
+Nature of a Substitute designated Huffman #1. The amendment
+was not agreed to by a roll call vote of 18 yeas to 25 nays, as fol-
+lows:
+3Comments of the North American Submarine Cable Association. National Oceanic and At-
+mospheric Administration. Notice of Modification to the Special Use Permit (SUP) Category for
+the Continued Presence of Commercial Submarine Cables within the National Marine Sanctuary
+System. October 1, 2024. https://www.regulations.gov/comment/NOAA-NOS-2024-0089-0007.
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.181RH
+ereh
+5
+oilof
+tesffo
+tresnI
+
+5
+The bill, as amended, was ordered favorably reported to the
+House of Representatives by a roll call vote of 25 yeas to 18 nays,
+as follows:
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+6
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+200.181RH
+ereh
+7
+oilof
+tesffo
+tresnI
+
+7
+HEARINGS
+For the purposes of clause 3(c)(6) of House rule XIII, the fol-
+lowing hearing was used to develop or consider this measure: hear-
+ing by the Subcommittee on Water, Wildlife and Fisheries held on
+January 23, 2025.
+SECTION-BY-SECTION ANALYSIS
+Section 1. Short title
+This Act may be cited as the ‘‘Undersea Cable Protection Act of
+2025.’’
+Section 2. Prohibition on prohibiting, or requiring permits or other
+authorizations for, undersea fiber optic cables authorized by a
+Federal or State agency.
+Prohibits the Secretary of Commerce from prohibiting, or requir-
+ing an additional permit (including a special use permit) for, ‘‘the
+installation, continued presence, operation, maintenance, repair, or
+recovery of undersea fiber optic cables in a national marine sanc-
+tuary’’ if the project has been issued a license, lease, or permit by
+a Federal or State agency and is also in effect. This Section also
+ensures that interagency cooperation under the NMSA continues.
+Section 3. Removing restrictions on activities covered by sanctuary
+special use permits.
+Removes the five-year timeframe for SUPs for other activities
+within national marine sanctuaries.
+COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Regarding clause 2(b)(1) of rule X and clause 3(c)(1) of rule XIII
+of the Rules of the House of Representatives, the Committee on
+Natural Resources’ oversight findings and recommendations are re-
+flected in the body of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+As required by clause 3(c)(4) of rule XIII, the general perform-
+ance goal or objective of this bill, as ordered reported, is to amend
+the National Marine Sanctuaries Act to prohibit the Secretary of
+Commerce from prohibiting, or requiring any permit or other au-
+thorization for, the installation, continued presence, operation,
+maintenance, repair, or recovery of undersea fiber optic cables in
+a national marine sanctuary if such activities have been authorized
+by a Federal or State agency.
+NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY, AND TAX
+EXPENDITURES
+In compliance with clause 3(c)(2) of rule XIII of the Rules of the
+House of Representatives, the Committee adopts as its own the es-
+timate of new budget authority, entitlement authority, or tax ex-
+penditures or revenues contained in the cost estimate prepared by
+the Director of the Congressional Budget Office pursuant to section
+402 of the Congressional Budget Act of 1974.
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+8
+CONGRESSIONAL BUDGET OFFICE ESTIMATES
+Pursuant to clause 3(d)(1) of House rule XIII, the Committee
+adopts as its own the cost estimate prepared by the Director of the
+Congressional Budget Office pursuant to the Congressional Budget
+Act of 1974.
+EARMARK STATEMENT
+This bill does not contain any Congressional earmarks, limited
+tax benefits, or limited tariff benefits as defined under clause 9(e),
+9(f), and 9(g) of rule XXI of the Rules of the House of Representa-
+tives.
+UNFUNDED MANDATES REFORM ACT STATEMENT
+The Committee adopts as its own the estimate of the Federal
+mandates prepared by the Director of the Congressional Budget Of-
+fice pursuant to section 423 of the Unfunded Mandates Reform Act.
+EXISTING PROGRAMS
+Directed Rule Making. This bill does not contain any directed
+rule makings.
+Duplication of Existing Programs. This bill does not establish or
+reauthorize a program of the federal government known to be du-
+plicative of another program. Such program was not included in
+any report from the Government Accountability Office to Congress
+pursuant to section 21 of Public Law 111–139 or identified in the
+most recent Catalog of Federal Domestic Assistance published pur-
+suant to the Federal Program Information Act (Public Law 95–220,
+as amended by Public Law 98–169) as relating to other programs.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+PREEMPTION OF STATE, LOCAL OR TRIBAL LAW
+Any preemptive effect of this bill over state, local, or tribal law
+is intended to be consistent with the bill’s purposes and text and
+the Supremacy Clause of Article VI of the U.S. Constitution.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+9
+NATIONAL MARINE SANCTUARIES ACT
+TITLE III—NATIONAL MARINE SANCTUARIES
+* * * * * * *
+SEC. 310. SPECIAL USE PERMITS.
+(a) ISSUANCE OF PERMITS.—The Secretary may issue special use
+permits which authorize the conduct of specific activities in a na-
+tional marine sanctuary if the Secretary determines such author-
+ization is necessary—
+(1) to establish conditions of access to and use of any sanc-
+tuary resource; or
+(2) to promote public use and understanding of a sanctuary
+resource.
+(b) PUBLIC NOTICE REQUIRED.—The Secretary shall provide ap-
+propriate public notice before identifying any category of activity
+subject to a special use permit under subsection (a).
+(c) PERMIT TERMS.—A permit issued under this section—
+(1) shall authorize the conduct of an activity only if that ac-
+tivity is compatible with the purposes for which the sanctuary
+is designated and with protection of sanctuary resources; and
+ø(2) shall not authorize the conduct of any activity for a pe-
+riod of more than 5 years unless renewed by the Secretary;
+ø(3) shall require that activities carried out under the permit
+be conducted in a manner that does not destroy, cause the loss
+of, or injure sanctuary resources; and¿
+ø(4)¿ (2) shall require the permittee to purchase and main-
+tain comprehensive general liability insurance, or post an
+equivalent bond, against claims arising out of activities con-
+ducted under the permit and to agree to hold the United States
+harmless against such claims.
+(d) FEES.—
+(1) ASSESSMENT AND COLLECTION.—The Secretary may as-
+sess and collect fees for the conduct of any activity under a
+permit issued under this section.
+(2) AMOUNT.—The amount of a fee under this subsection
+shall be equal to the sum of—
+(A) costs incurred, or expected to be incurred, by the Sec-
+retary in issuing the permit;
+(B) costs incurred, or expected to be incurred, by the Sec-
+retary as a direct result of the conduct of the activity for
+which the permit is issued, including costs of monitoring
+the conduct of the activity; and
+(C) an amount which represents the fair market value of
+the use of the sanctuary resource.
+(3) USE OF FEES.—Amounts collected by the Secretary in the
+form of fees under this section may be used by the Secretary—
+(A) for issuing and administering permits under this sec-
+tion; and
+(B) for expenses of managing national marine sanc-
+tuaries.
+(4) WAIVER OR REDUCTION OF FEES.—The Secretary may ac-
+cept in-kind contributions in lieu of a fee under paragraph
+(2)(C), or waive or reduce any fee assessed under this sub-
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+10
+section for any activity that does not derive profit from the ac-
+cess to or use of sanctuary resources.
+(e) VIOLATIONS.—Upon violation of a term or condition of a per-
+mit issued under this section, the Secretary may—
+(1) suspend or revoke the permit without compensation to
+the permittee and without liability to the United States;
+(2) assess a civil penalty in accordance with section 307; or
+(3) both.
+(f) REPORTS.—Each person issued a permit under this section
+shall submit an annual report to the Secretary not later than De-
+cember 31 of each year which describes activities conducted under
+that permit and revenues derived from such activities during the
+year.
+(g) FISHING.—Nothing in this section shall be considered to re-
+quire a person to obtain a permit under this section for the conduct
+of any fishing activities in a national marine sanctuary.
+SEC. 310A. PROHIBITION ON PROHIBITING, OR REQUIRING PERMITS
+OR OTHER AUTHORIZATIONS FOR, UNDERSEA FIBER
+OPTIC CABLES AUTHORIZED BY A FEDERAL OR STATE
+AGENCY.
+(a) IN GENERAL.—Notwithstanding any other provision of this
+Act, the Secretary may not prohibit, or require any permit, includ-
+ing any special use permit, or other authorization for, the installa-
+tion, continued presence, operation, maintenance, repair, or recovery
+of undersea fiber optic cables in a national marine sanctuary if a
+license, lease, or permit has been issued by a Federal or State agen-
+cy, and is in effect, authorizing such installation, continued pres-
+ence, operation, maintenance, repair, or recovery.
+(b) INTERAGENCY COOPERATION.—Nothing in this section shall be
+construed as altering existing requirements regarding interagency
+cooperation under section 304(d) in any Federal agency action de-
+scribed in that section and involving the installation, continued
+presence, operation, maintenance, repair, or recovery of undersea
+fiber optic cables in a national marine sanctuary.
+* * * * * * *
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+DISSENTING VIEWS
+H.R. 261 would prohibit the National Oceanic and Atmospheric
+Administration (NOAA) from requiring any authorization for the
+installation, continued presence, operation, maintenance, repair, or
+recovery of undersea fiber optic cables in a National Marine Sanc-
+tuary (NMS) if those activities have been previously approved by
+other Federal or State agencies. The bill would remove NOAA’s au-
+thority under the National Marine Sanctuaries Act (NMSA) to con-
+duct environmental review and charge fair market fees for major
+infrastructure projects in federally protected marine areas.
+The National Marine Sanctuary System is a network of 17 na-
+tional marine sanctuaries and two marine monuments covering
+over 629,000 square miles of marine and Great Lakes waters.1
+Congress established the system to safeguard America’s natural
+and cultural marine resources while supporting their sustainable
+use. Recreational users frequent sanctuaries for activities such as
+boating, kayaking, wildlife viewing, and recreational fishing that’s
+permitted within approximately 98% of the sanctuary system.2 The
+sanctuary system generates $8 billion in annual revenue and plays
+a critical role in preserving coastal ecosystems.3
+Under section 310 of the National Marine Sanctuaries Act,
+NOAA may issue special use permits (SUPs) for activities within
+sanctuaries that are compatible with sanctuary purposes and do
+not destroy sanctuary resources. One such activity is the installa-
+tion of submarine fiber optic cables, which facilitates internet ac-
+cess and telecommunications. NOAA conducts environmental re-
+view, assesses applicants’ readiness, examines installation meth-
+ods, and confirms no alternative location exists outside the sanc-
+tuary. NOAA also considers environmental impacts and consults
+with partner agencies and affected tribes. While ecosystems in
+some sanctuaries can recover from cable installation within months
+or years, cables can potentially cause long-term impacts that dis-
+rupt essential sanctuary features such as benthic habitat, water
+quality, and ocean noise levels.4
+To obtain a permit for cable installation and maintenance, the
+Office of National Marine Sanctuaries (ONMS) conducts an envi-
+ronmental review and consults with partner agencies. The permit
+review includes an assessment of applicants’ professional and fi-
+nancial readiness, examination of proposed installation methods,
+and confirmation that there is no alternative location for the cable
+1NOAA. National Marine Sanctuary System. https://sanctuaries.noaa.gov/. Last visited on
+June 20, 2025.
+2National Marine Sanctuary Foundation. Go Fish: Recreational Fishing around the National
+Marine Sanctuary System. https://marinesanctuary.org/blog/go-fish-recreational-fishing-around-
+the-national-marine-sanctuary-system/.
+3NOAA. Sanctuaries: A Destination for Recreation. https://sanctuaries.noaa.gov/magazine/1/
+america-and-ocean-recreation/.
+4NOAA. Guidelines on Best Environmental Practice (BEP) in Cable Laying and Operation.
+https://www.gc.noaa.gov/documents/2017/12-02e_agreement_cables_guidelines.pdf.
+(11)
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6604 Sfmt 6604 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+12
+except through the sanctuary. ONMS also considers how the
+project might affect resources, impact site value and existing uses,
+and potential risk mitigation strategies, weighing these factors
+against the socioeconomic and security implications of the project.
+The need for a thorough review was demonstrated when Meta at-
+tempted to install an undersea cable off the coast of Tillamook
+County, Oregon. A drill bit broke during installation, leaving 1,000
+feet of steel pipe on the seafloor and a spill of 6,500 gallons of drill-
+ing fluid. Meta paid less than $400,000 in damages and fees but
+abandoned the equipment.5
+This bill would also prevent NOAA from assessing fair market
+rents and fees for the use of marine sanctuaries, as is the practice
+under current law. Onshore agencies like the National Park Serv-
+ice and Bureau of Land Management charge rent for telecommuni-
+cations rights-of-way,6 but this bill would exempt companies from
+paying fair compensation for the use of public resources. The bill
+would also eliminate NOAA’s environmental review authority, re-
+moving safeguards for our nation’s most precious natural, cultural,
+and historical resources in sanctuaries.
+Additionally, the bill would transfer federal authority over pro-
+tected marine areas to state agencies and other federal agencies,
+eliminating uniform environmental protections under the NMSA
+and creating a patchwork of inconsistent standards. The bill fails
+to specify which agencies could permit these activities and which
+permits, leases, or licenses would apply. Because the list of applica-
+ble permits and licenses is unknown, it is unclear whether NOAA
+would have the authority to ensure sensitive ecological or cul-
+turally significant areas are avoided or whether there are safe-
+guards for Tribal consultation. This could violate Tribal sovereignty
+and government-to-government communication requirements.7
+Some sanctuaries are co-managed with coastal treaty Tribes who
+would be excluded from management decisions affecting their trea-
+ty rights.
+The bill’s language would also strike key provisions from the
+NMSA for all special use permits. These provisions require 5-year
+renewals for special use permits and require NOAA to ensure that
+activities carried out under a special use permit be conducted ‘‘in
+a manner that does not destroy, cause the loss of, or injure sanc-
+tuary resources.’’8
+During committee markup, Democrats offered an amendment to
+address the main concerns with the bill and preserve some basic
+safeguards under the National Marine Sanctuaries Act. This
+amendment would have allowed NOAA to collect rents, consult, en-
+sure avoidance of sensitive areas, and verify bonding or insurance
+coverage. It would also have defined applicable state agencies and
+required public notice for permits and licenses issued in lieu of spe-
+5Oregon’s Public Broadcasting. Ehrlich, April. Amazon’s subsea cable gets approval, but Or-
+egon leaders want more regulation. August 14, 2023.
+6National Park Service https://www.nps.gov/aboutus/right-of-way-permit.htm; Bureau of Land
+Management, https://www.blm.gov/programs/lands-and-realty/rights-way/obtaining-right-of-way/
+row-fees. Last visited on June 20, 2025.
+73 NOAA, Policy and Permit Guidance for Submarine Cable Projects. https://
+nmssanctuaries.blob.core.windows.net/sanctuariesprod/media/archive/library/pdfs/
+subcable_final_guidance_2011.pdf.
+816 U.S.C. 1441(c)(3).
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6604 Sfmt 6604 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+13
+cial-use permits. Unfortunately, Committee Republicans rejected
+this amendment.
+H.R. 261 is an unnecessary handout to billionaire corporations
+that will create widespread confusion and threaten serious harm to
+our nation’s Marine Sanctuaries and the thousands of small busi-
+nesses and coastal economies that rely on healthy sanctuaries.
+JARED HUFFMAN,
+Ranking Member.
+Æ
+VerDate Sep 11 2014 04:13 Jul 04, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6604 Sfmt 6611 E:\HR\OC\HR181.XXX HR181
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

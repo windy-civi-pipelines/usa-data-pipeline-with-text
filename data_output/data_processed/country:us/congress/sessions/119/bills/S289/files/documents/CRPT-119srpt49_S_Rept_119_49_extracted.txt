@@ -1,0 +1,817 @@
+Title: VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR049.XXX SR049
+Official Title: VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR049.XXX SR049
+Number of Sections: 6
+Source: documents - S. Rept. 119-49
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+1
+Calendar No. 132
+119THCONGRESS
+" SENATE !
+REPORT
+1st Session 119–49
+YOUTH POISONING PROTECTION ACT
+R E P O R T
+OFTHE
+COMMITTEE ON COMMERCE, SCIENCE, AND
+TRANSPORTATION
+ON
+S. 289
+JULY 29, 2025.—Ordered to be printed
+U.S. GOVERNMENT PUBLISHING OFFICE
+59–010 WASHINGTON : 2025
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD 31#.ssergnoc
+SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION
+ONE HUNDRED NINETEENTH CONGRESS
+FIRST SESSION
+TED CRUZ, Texas, Chairman
+JOHNTHUNE,SouthDakota MARIACANTWELL,Washington
+ROGERF.WICKER,Mississippi AMYKLOBUCHAR,Minnesota
+DEBFISCHER,Nebraska BRIANSCHATZ,Hawaii
+JERRYMORAN,Kansas EDWARDJ.MARKEY,Massachusetts
+DANSULLIVAN,Alaska GARYC.PETERS,Michigan
+MARSHABLACKBURN,Tennessee TAMMYBALDWIN,Wisconsin
+TODDYOUNG,Indiana TAMMYDUCKWORTH,Illinois
+TEDBUDD,NorthCarolina JACKYROSEN,Nevada
+ERICSCHMITT,Missouri BENRAYLUJA´N,NewMexico
+JOHNCURTIS,Utah JOHNW.HICKENLOOPER,Colorado
+BERNIEMORENO,Ohio JOHNFETTERMAN,Pennsylvania
+TIMSHEEHY,Montana ANDYKIM,NewJersey
+SHELLEYMOORECAPITO,WestVirginia LISABLUNTROCHESTER,Delaware
+CYNTHIAM.LUMMIS,Wyoming
+BRAD GRANTZ, Majority Staff Director
+LILA HARPER HELMS, Democratic Staff Director
+(II)
+VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00002 Fmt 5904 Sfmt 5904 E:\HR\OC\SR049.XXX SR049
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+Calendar No. 132
+119THCONGRESS REPORT
+1st Session " SENATE ! 119–49
+YOUTH POISONING PROTECTION ACT
+JULY29, 2025.—Ordered to be printed
+Mr. CRUZ, from the Committee on Commerce, Science, and
+Transportation, submitted the following
+R E P O R T
+[To accompany S. 289]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Commerce, Science, and Transportation, to
+which was referred the bill (S. 289) to ban the sale of products with
+a high concentration of sodium nitrite to individuals, and for other
+purposes, having considered the same, reports favorably thereon
+without amendment and recommends that the bill do pass.
+PURPOSE OF THE BILL
+The purpose of S. 289 is to ban the sale of any consumer product
+containing a concentration of 10 or more percent by weight of so-
+dium nitrite.
+BACKGROUND AND NEEDS
+Sodium nitrite is a widely used chemical salt used in low con-
+centrations to preserve and cure meat and fish.1 Consumers com-
+monly use sodium nitrite for personal meat preservation—generally
+with curing salts that contain 6.25 percent sodium nitrite con-
+centration.2 Commercially, sodium nitrite is also used as a chem-
+ical reagent used in dye and pigment manufacturing, as a metal
+1Susannah Frame, ‘‘‘They Failed The Families’: Amazon Missed Multiple Chances to Stop
+Selling Chemical Used in Suicides on Its Website,’’ King 5 News, August 13, 2024 (https://www.
+king5.com/article/news/investigations/investigators/amazon-missed-multiple-opportunities-to-
+pull-chemical-used-in-suicides-from-its-website/281-92592431-9d98-4917-a447-f5adae3d2815).
+2National Center for Home Food Preservation, Cure Smoke Review Curing Foods, University
+of Georgia (https://nchfp.uga.edu/publications/nchfp-publications/literature-reviews/cure-
+smoke-review-curing-foods).
+VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\SR049.XXX SR049
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+2
+coating and corrosion inhibitor, and in pharmaceuticals including
+as a treatment for vasodilation and cyanide poisoning.3
+Although sodium nitrite has many important uses, it can be le-
+thal to consume—even at low concentrations.4 Since 2017, the Na-
+tional Poison Data System has shown an increase in self-poisonings
+by use of sodium nitrite.5 Sodium nitrite is inexpensive and sold
+online, making it easily accessible.6 Just one teaspoon of sodium ni-
+trite can be lethal and effects are felt quickly due to its high water
+solubility, making it more deadly than other poisons.7
+A 2021 investigation by the New York Times into an online sui-
+cide forum found not only that sodium nitrite was becoming pop-
+ular for self-poisoning, but that online suicide forums were anony-
+mously providing suicide kits or detailed instruction on how to ob-
+tain and how to die using substances like sodium nitrite.8 Because
+high concentrations were so easily available on e-commerce sites,
+including Amazon, which previously sold sodium nitrite at 99 per-
+cent purity, it was relatively easy for youth to obtain the ingredi-
+ents and follow the suicide instructions.9 Due to an increased
+awareness campaign on the use of sodium nitrite for suicide, sev-
+eral online retailers have removed the substance for purchase from
+their online marketplaces.10
+This legislation would classify consumer products containing a
+high concentration of sodium nitrite as a banned hazardous prod-
+uct, which would prevent the product from being sold in physical
+and online stores. There is no intent to affect commercial or indus-
+trial uses. The legislation would define a high concentration of so-
+dium nitrite as concentration of 10 percent or more by weight of
+sodium nitrite.
+SUMMARY OF PROVISIONS
+S. 289 would require consumer products with high-concentration
+sodium nitrite—defined as concentration over 10 percent by weight
+of sodium nitrite—to be considered banned hazardous products in
+the Consumer Product Safety Act.11 Commercial or industrial uses
+would not be impacted.
+3National Center for Biotechnology Information, PubChem Compound Summary: Sodium Ni-
+trite, CID 23668193, last modified April 19, 2025 (https://pubchem.ncbi.nlm.nih.gov/
+compound/Sodium-Nitrite).
+4Giuseppe Davide Albano et al., ‘‘Systemic Review of Fatal Sodium Nitrite Ingestion Cases:
+Toxicological and Forensic Implications,’’ Toxics, vol. 12 (2024), no. 12 (https://www.mdpi.com/
+2305-6304/12/11/819).
+5Sean D. McCann, Marit S. Tweet, and Michael S. Whal, ‘‘Rising Incidence and High Mor-
+tality in Intentional Sodium Nitrite Exposures Reported to US Poison Centers,’’ Clinical Toxi-
+cology, vol. 59 (March 31, 2021), no. 12, pp. 1264–1269 (https://www.tandfonline.com/doi/full/
+
+Section 2:
+10.1080/15563650.2021.1905162).
+6Jae Chol Yoon and So Eun Kim, ‘‘Suicide Attempt Using Sodium Nitrite Ordered on the
+Internet: Two Case Reports,’’ Medicine, vol. 101 (July 15, 2022), no. 28 (https://journals.
+lww.com/md-journal/fulltext/2022/07150/suicide_attempt_using_sodium_nitrite_ordered_on.28
+.aspx); see also supra no. 5 at p. 1266.
+7Ibid.
+8Megan Twohey and Gabriel J.X. Dance, ‘‘Where the Despairing Log On, and Learn Ways to
+Die,’’ The New York Times, December 9, 2021 (https://www.nytimes.com/interactive/2021/12/09/
+us/where-the-despairing-log-on.html).
+9Ibid.
+10Supra no. 1; Megan Twohey and Gabriel J.X. Dance, ‘‘Lawmakers Press Amazon on Sales
+of Chemical Used in Suicides,’’ The New York Times, February 4, 2022 (https://
+www.nytimes.com/2022/02/04/technology/amazon-suicide-poison-preservative.html).
+1115 U.S.C. 2057.
+VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\SR049.XXX SR049
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+3
+LEGISLATIVE HISTORY
+S. 289, the Youth Poisoning Protection Act, was introduced on
+January 29, 2025, by Senator Duckworth (for herself and Senators
+Curtis and Moreno) and was referred to the Committee on Com-
+merce, Science, and Transportation of the Senate. Senator Baldwin
+is an additional cosponsor. On March 12, 2025, the Committee met
+in open Executive Session and, by voice vote, ordered S. 289 to be
+reported favorably without amendment.
+118th Congress
+S. 2233 was introduced on July 11, 2023, by Senator Duckworth
+(for herself and Senator Vance) and was referred to the Committee
+on Commerce, Science, and Transportation of the Senate. On July
+31, 2024, the Committee met in open Executive Session and, by
+voice vote, ordered S. 2233 to be reported favorably with an amend-
+ment (in the nature of a substitute). Senator Collins was later
+added as a cosponsor.
+H.R. 4310, a House companion bill, was introduced on June 22,
+2023, by Representative Lori Trahan (for herself and Representa-
+tives Carey, Porter, and Stewart) and was referred to the Com-
+mittee on Energy and Commerce of the House of Representatives.
+Representatives Clarke, Neguse, Soto, Caraveo, and Maloy became
+additional cosponsors. On December 6, 2023, that Committee met
+in open Executive Session, and H.R. 4310 was ordered to be re-
+ported by a vote of 42–0. On May 15, 2024, the House passed H.R.
+4310 under suspension of the rules by a recorded vote of 376–33.
+ESTIMATED COSTS
+In accordance with paragraph 11(a) of rule XXVI of the Standing
+Rules of the Senate and section 403 of the Congressional Budget
+Act of 1974, the Committee provides the following cost estimate,
+prepared by the Congressional Budget Office:
+VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\SR049.XXX SR049
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+4
+Summary of legislation: On March 12, 2025, the Senate Com-
+mittee on Commerce, Science, and Transportation ordered reported
+14 bills. This document provides estimates for 3 of those bills. One
+bill, S. 414, was reported on June 24, 2025.
+S. 289 would ban the sale of certain products covered by the Con-
+sumer Product Safety Act and S. 389 would require the Consumer
+Product Safety Commission (CPSC) to adopt voluntary safety
+standards for lithium-ion batteries. S. 414 would require digital ad-
+vertising platforms to report annually to the Federal Trade Com-
+mission (FTC).
+Estimated Federal cost: The costs of the legislation fall within
+budget functions 370 (commerce and housing credit) and 550
+(health).
+Basis of estimate: For this estimate, CBO assumes that each bill
+will be enacted near the end of fiscal year 2025 and that the esti-
+mated amounts will be available each year. The cost estimate does
+not include any effects of interactions among the bills. If all three
+bills were combined and enacted as a single piece of legislation, the
+effects could be different from the sum of the separate estimates,
+although CBO expects that any differences would be small.
+S. 289, the Youth Poisoning Protection Act, would ban the sale
+of products containing 10 percent or more by weight of sodium ni-
+trite that are covered under the Consumer Product Safety Act. The
+legislation would not affect the sale or use of commercial or indus-
+trial products not ordinarily intended for consumer use or con-
+sumption.
+Using information from the Consumer Product Safety Commis-
+sion, CBO estimates that implementing S. 289 would cost $2 mil-
+lion over the 2025–2030 period; any related spending would be sub-
+ject to the availability of appropriated funds.
+S. 389, the Setting Consumer Standards for Lithium-Ion Bat-
+teries Act, would require the Consumer Product Safety Commission
+VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\SR049.XXX SR049
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+Section 3:
+100.94RS
+ereh
+6
+oilof
+tesffo
+tresnI
+5
+within 180 days of enactment, to adopt certain voluntary safety
+standards—specifically ANSI/CAN/UL 2271, 2849, and 2272—con-
+cerning rechargeable lithium-ion batteries used in electric bicycles,
+scooters, and other micromobility devices. The bill also would re-
+quire the CPSC to determine the applicable scope of covered con-
+sumer products and to monitor and evaluate future revisions to the
+voluntary standards and report to the Congress within five years
+of enactment.
+Using information from the CPSC, CBO estimates that imple-
+menting S. 389 would cost $8 million over the 2025–2030 period;
+any related spending would be subject to the availability of appro-
+priated funds.
+S. 414, the ADS for Mental Health Services Act, would require
+certain digital advertising platforms to report annually to the Fed-
+eral Trade Commission about advertising on their platforms for
+certain mental health services, including information on the num-
+ber, percent, and dollar value of such advertisements. Platforms
+that would be affected by the bill include social media platforms,
+public facing websites, online services, and mobile applications
+with more than 100 million unique monthly users. The bill also
+would require the FTC to report annually to the Congress summa-
+rizing that data. CBO estimates that enacting S. 414 would cost
+less than $500,000 over the 2025–2030 period. Any related spend-
+ing would be subject to the availability of appropriated funds.
+Pay-as-you-go considerations: The Statutory Pay-As-You-Go Act
+of 2010 establishes budget-reporting and enforcement procedures
+for legislation affecting direct spending or revenues. None of the
+bills would affect direct spending or revenues; thus, pay-as-you-go
+procedures do not apply.
+Increase in long-term net direct spending and deficits: CBO esti-
+mates that enacting S. 289, S. 389 and S. 414 would not increase
+net direct spending or deficits in any of the four consecutive 10-
+year periods beginning in 2036.
+Mandates: All three bills would impose private-sector mandates
+as defined in in the Unfunded Mandates Reform Act (UMRA).
+None of the bills would impose intergovernmental mandates.
+S. 289, the Youth Poisoning Protection Act, would impose a pri-
+vate-sector mandate as defined in UMRA by banning the sale of
+consumer products containing 10 percent or more of sodium nitrite
+by weight. The prohibition would not apply to industrial uses or to
+food preservation. Because there is only a small market for con-
+sumer products containing that much sodium nitrite and some
+states already have curtailed the sale of products containing so-
+dium nitrite, CBO estimates that the cost of the mandate would
+not exceed the private- sector threshold established in UMRA ($206
+million in 2025, adjusted annually for inflation).
+S. 389, the Setting Consumer Standards for Lithium-Ion Bat-
+teries Act, would impose a private-sector mandate as defined in
+UMRA by requiring manufacturers of electric mobility devices, in-
+cluding bicycles and scooters, to comply with a prospective Con-
+sumer Product Safety Commission safety standard related to the
+risk of fire in lithium-ion batteries. Based on voluntary compliance
+with the specified standard by domestic manufacturers and current
+state and local laws requiring compliance, CBO estimates that the
+cost of the mandate would not exceed the annual private-sector
+VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\SR049.XXX SR049
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+6
+threshold established in UMRA ($206 million in 2025, adjusted an-
+nually for inflation).
+S. 414, the ADS for Mental Health Services Act, would require
+certain digital advertising platforms to report to the FTC on their
+public service advertisements for mental and behavioral health.
+That requirement would impose a private-sector mandate as de-
+fined by UMRA. CBO estimates the cost of the mandate would be
+small and not exceed the threshold established in UMRA ($206
+million in 2025, adjusted annually for inflation) because the man-
+dated entities generally already possess or collect the information
+required to be reported under the bill.
+Estimate prepared by: Federal costs: Cyrus Ekland (for the Con-
+sumer Product Safety Commission); Johnny Willing (for the Fed-
+eral Trade Commission). Mandates: Andrew Laughlin (for the Con-
+sumer Product Safety Commission); Rachel Austin (for the Federal
+Trade Commission).
+Estimate reviewed by: Sean Dunbar, Chief, Low-Income Health
+Programs and Prescription Drugs Cost Estimates Unit; Justin
+Humphrey, Chief, Finance, Housing, and Education Cost Estimates
+Unit; Kathleen FitzGerald, Chief, Public and Private Mandates
+Unit; H. Samuel Papenfuss, Deputy Director of Budget Analysis.
+Estimate approved by: Phillip L. Swagel, Director, Congressional
+Budget Office.
+REGULATORY IMPACT STATEMENT
+In accordance with paragraph 11(b) of rule XXVI of the Standing
+Rules of the Senate, the Committee provides the following evalua-
+tion of the regulatory impact of the legislation, as reported:
+Number of Persons Covered
+S. 289 would prohibit the sale of consumer products containing
+a high concentration of sodium nitrite. Therefore, the number of
+persons covered is (1) manufacturers of consumer products con-
+taining a high concentration of sodium nitrite; and (2) sellers of
+consumer products containing a high concentration of sodium ni-
+trite.
+Economic Impact
+S. 289 is expected to have minimal economic impact. Commercial
+or industrial uses of high concentration sodium nitrite are per-
+mitted under this Act. Additionally, large online retailers have al-
+ready removed consumer products containing a high concentration
+of sodium nitrite from their websites for purchase.
+Privacy
+S. 289 would not have a significant impact on the privacy rights
+of individuals.
+Paperwork
+S. 289 would not generate any additional paperwork.
+CONGRESSIONALLY DIRECTED SPENDING
+In compliance with paragraph 4(b) of rule XLIV of the Standing
+Rules of the Senate, the Committee provides that no provisions
+VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\SR049.XXX SR049
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+7
+contained in the bill, as reported, meet the definition of congres-
+sionally directed spending items under the rule.
+
+Section 4:
+SECTION-BY-SECTION ANALYSIS
+
+Section 5:
+Section 1. Short title
+This section would provide that the bill may be cited as the
+‘‘Youth Poisoning Protection Act’’.
+
+Section 6:
+Section 2. Banning of products containing a high concentration of
+sodium nitrite
+Subsection (a) would provide that any consumer product with a
+high concentration of sodium nitrite shall be a banned hazardous
+product under section 8 of the Consumer Product Safety Act.12
+Subsection (b) would create a rule of construction that nothing in
+this section shall be construed to (1) prohibit commercial or indus-
+trial purposes of high concentration sodium nitrite that are not cus-
+tomarily produced or distributed for sale to, or use or consumption
+by, or enjoyment of, a consumer; and (2) apply to high concentra-
+tion sodium nitrite that meets the definition of the terms ‘‘drug’’,
+‘‘device’’, or ‘‘cosmetic’’ (as defined in the Federal Food, Drug, and
+Cosmetic Act13) or ‘‘food’’, including poultry, poultry products,
+meat and meat food products, or egg and egg products.
+Subsection (c) would provide definitions: (1) the term ‘‘consumer
+product’’ has the same meaning given under section 3(a)(5) of the
+Consumer Product Safety Act;14 (2) the term ‘‘high concentration
+of sodium nitrite’’ means a concentration of 10 or more percent by
+weight of sodium nitrite.
+Subsection (d) would provide for the effective date of this Act to
+be 90 days after enactment.
+CHANGES IN EXISTING LAW
+In compliance with paragraph 12 of rule XXVI of the Standing
+Rules of the Senate, the Committee states that the bill as reported
+would make no change to existing law.
+Æ
+1215 U.S.C. 2057.
+1321 U.S.C. 321.
+1415 U.S.C. 2052.
+VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00009 Fmt 6659 Sfmt 6611 E:\HR\OC\SR049.XXX SR049
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+
+================================================================================
+
+Raw Text:
+1
+Calendar No. 132
+119THCONGRESS
+" SENATE !
+REPORT
+1st Session 119–49
+YOUTH POISONING PROTECTION ACT
+R E P O R T
+OFTHE
+COMMITTEE ON COMMERCE, SCIENCE, AND
+TRANSPORTATION
+ON
+S. 289
+JULY 29, 2025.—Ordered to be printed
+U.S. GOVERNMENT PUBLISHING OFFICE
+59–010 WASHINGTON : 2025
+VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR049.XXX SR049
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD 31#.ssergnoc
+
+SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION
+ONE HUNDRED NINETEENTH CONGRESS
+FIRST SESSION
+TED CRUZ, Texas, Chairman
+JOHNTHUNE,SouthDakota MARIACANTWELL,Washington
+ROGERF.WICKER,Mississippi AMYKLOBUCHAR,Minnesota
+DEBFISCHER,Nebraska BRIANSCHATZ,Hawaii
+JERRYMORAN,Kansas EDWARDJ.MARKEY,Massachusetts
+DANSULLIVAN,Alaska GARYC.PETERS,Michigan
+MARSHABLACKBURN,Tennessee TAMMYBALDWIN,Wisconsin
+TODDYOUNG,Indiana TAMMYDUCKWORTH,Illinois
+TEDBUDD,NorthCarolina JACKYROSEN,Nevada
+ERICSCHMITT,Missouri BENRAYLUJA´N,NewMexico
+JOHNCURTIS,Utah JOHNW.HICKENLOOPER,Colorado
+BERNIEMORENO,Ohio JOHNFETTERMAN,Pennsylvania
+TIMSHEEHY,Montana ANDYKIM,NewJersey
+SHELLEYMOORECAPITO,WestVirginia LISABLUNTROCHESTER,Delaware
+CYNTHIAM.LUMMIS,Wyoming
+BRAD GRANTZ, Majority Staff Director
+LILA HARPER HELMS, Democratic Staff Director
+(II)
+VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00002 Fmt 5904 Sfmt 5904 E:\HR\OC\SR049.XXX SR049
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+Calendar No. 132
+119THCONGRESS REPORT
+1st Session " SENATE ! 119–49
+YOUTH POISONING PROTECTION ACT
+JULY29, 2025.—Ordered to be printed
+Mr. CRUZ, from the Committee on Commerce, Science, and
+Transportation, submitted the following
+R E P O R T
+[To accompany S. 289]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Commerce, Science, and Transportation, to
+which was referred the bill (S. 289) to ban the sale of products with
+a high concentration of sodium nitrite to individuals, and for other
+purposes, having considered the same, reports favorably thereon
+without amendment and recommends that the bill do pass.
+PURPOSE OF THE BILL
+The purpose of S. 289 is to ban the sale of any consumer product
+containing a concentration of 10 or more percent by weight of so-
+dium nitrite.
+BACKGROUND AND NEEDS
+Sodium nitrite is a widely used chemical salt used in low con-
+centrations to preserve and cure meat and fish.1 Consumers com-
+monly use sodium nitrite for personal meat preservation—generally
+with curing salts that contain 6.25 percent sodium nitrite con-
+centration.2 Commercially, sodium nitrite is also used as a chem-
+ical reagent used in dye and pigment manufacturing, as a metal
+1Susannah Frame, ‘‘‘They Failed The Families’: Amazon Missed Multiple Chances to Stop
+Selling Chemical Used in Suicides on Its Website,’’ King 5 News, August 13, 2024 (https://www.
+king5.com/article/news/investigations/investigators/amazon-missed-multiple-opportunities-to-
+pull-chemical-used-in-suicides-from-its-website/281-92592431-9d98-4917-a447-f5adae3d2815).
+2National Center for Home Food Preservation, Cure Smoke Review Curing Foods, University
+of Georgia (https://nchfp.uga.edu/publications/nchfp-publications/literature-reviews/cure-
+smoke-review-curing-foods).
+VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\SR049.XXX SR049
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+2
+coating and corrosion inhibitor, and in pharmaceuticals including
+as a treatment for vasodilation and cyanide poisoning.3
+Although sodium nitrite has many important uses, it can be le-
+thal to consume—even at low concentrations.4 Since 2017, the Na-
+tional Poison Data System has shown an increase in self-poisonings
+by use of sodium nitrite.5 Sodium nitrite is inexpensive and sold
+online, making it easily accessible.6 Just one teaspoon of sodium ni-
+trite can be lethal and effects are felt quickly due to its high water
+solubility, making it more deadly than other poisons.7
+A 2021 investigation by the New York Times into an online sui-
+cide forum found not only that sodium nitrite was becoming pop-
+ular for self-poisoning, but that online suicide forums were anony-
+mously providing suicide kits or detailed instruction on how to ob-
+tain and how to die using substances like sodium nitrite.8 Because
+high concentrations were so easily available on e-commerce sites,
+including Amazon, which previously sold sodium nitrite at 99 per-
+cent purity, it was relatively easy for youth to obtain the ingredi-
+ents and follow the suicide instructions.9 Due to an increased
+awareness campaign on the use of sodium nitrite for suicide, sev-
+eral online retailers have removed the substance for purchase from
+their online marketplaces.10
+This legislation would classify consumer products containing a
+high concentration of sodium nitrite as a banned hazardous prod-
+uct, which would prevent the product from being sold in physical
+and online stores. There is no intent to affect commercial or indus-
+trial uses. The legislation would define a high concentration of so-
+dium nitrite as concentration of 10 percent or more by weight of
+sodium nitrite.
+SUMMARY OF PROVISIONS
+S. 289 would require consumer products with high-concentration
+sodium nitrite—defined as concentration over 10 percent by weight
+of sodium nitrite—to be considered banned hazardous products in
+the Consumer Product Safety Act.11 Commercial or industrial uses
+would not be impacted.
+3National Center for Biotechnology Information, PubChem Compound Summary: Sodium Ni-
+trite, CID 23668193, last modified April 19, 2025 (https://pubchem.ncbi.nlm.nih.gov/
+compound/Sodium-Nitrite).
+4Giuseppe Davide Albano et al., ‘‘Systemic Review of Fatal Sodium Nitrite Ingestion Cases:
+Toxicological and Forensic Implications,’’ Toxics, vol. 12 (2024), no. 12 (https://www.mdpi.com/
+2305-6304/12/11/819).
+5Sean D. McCann, Marit S. Tweet, and Michael S. Whal, ‘‘Rising Incidence and High Mor-
+tality in Intentional Sodium Nitrite Exposures Reported to US Poison Centers,’’ Clinical Toxi-
+cology, vol. 59 (March 31, 2021), no. 12, pp. 1264–1269 (https://www.tandfonline.com/doi/full/
+10.1080/15563650.2021.1905162).
+6Jae Chol Yoon and So Eun Kim, ‘‘Suicide Attempt Using Sodium Nitrite Ordered on the
+Internet: Two Case Reports,’’ Medicine, vol. 101 (July 15, 2022), no. 28 (https://journals.
+lww.com/md-journal/fulltext/2022/07150/suicide_attempt_using_sodium_nitrite_ordered_on.28
+.aspx); see also supra no. 5 at p. 1266.
+7Ibid.
+8Megan Twohey and Gabriel J.X. Dance, ‘‘Where the Despairing Log On, and Learn Ways to
+Die,’’ The New York Times, December 9, 2021 (https://www.nytimes.com/interactive/2021/12/09/
+us/where-the-despairing-log-on.html).
+9Ibid.
+10Supra no. 1; Megan Twohey and Gabriel J.X. Dance, ‘‘Lawmakers Press Amazon on Sales
+of Chemical Used in Suicides,’’ The New York Times, February 4, 2022 (https://
+www.nytimes.com/2022/02/04/technology/amazon-suicide-poison-preservative.html).
+1115 U.S.C. 2057.
+VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\SR049.XXX SR049
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+3
+LEGISLATIVE HISTORY
+S. 289, the Youth Poisoning Protection Act, was introduced on
+January 29, 2025, by Senator Duckworth (for herself and Senators
+Curtis and Moreno) and was referred to the Committee on Com-
+merce, Science, and Transportation of the Senate. Senator Baldwin
+is an additional cosponsor. On March 12, 2025, the Committee met
+in open Executive Session and, by voice vote, ordered S. 289 to be
+reported favorably without amendment.
+118th Congress
+S. 2233 was introduced on July 11, 2023, by Senator Duckworth
+(for herself and Senator Vance) and was referred to the Committee
+on Commerce, Science, and Transportation of the Senate. On July
+31, 2024, the Committee met in open Executive Session and, by
+voice vote, ordered S. 2233 to be reported favorably with an amend-
+ment (in the nature of a substitute). Senator Collins was later
+added as a cosponsor.
+H.R. 4310, a House companion bill, was introduced on June 22,
+2023, by Representative Lori Trahan (for herself and Representa-
+tives Carey, Porter, and Stewart) and was referred to the Com-
+mittee on Energy and Commerce of the House of Representatives.
+Representatives Clarke, Neguse, Soto, Caraveo, and Maloy became
+additional cosponsors. On December 6, 2023, that Committee met
+in open Executive Session, and H.R. 4310 was ordered to be re-
+ported by a vote of 42–0. On May 15, 2024, the House passed H.R.
+4310 under suspension of the rules by a recorded vote of 376–33.
+ESTIMATED COSTS
+In accordance with paragraph 11(a) of rule XXVI of the Standing
+Rules of the Senate and section 403 of the Congressional Budget
+Act of 1974, the Committee provides the following cost estimate,
+prepared by the Congressional Budget Office:
+VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\SR049.XXX SR049
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+4
+Summary of legislation: On March 12, 2025, the Senate Com-
+mittee on Commerce, Science, and Transportation ordered reported
+14 bills. This document provides estimates for 3 of those bills. One
+bill, S. 414, was reported on June 24, 2025.
+S. 289 would ban the sale of certain products covered by the Con-
+sumer Product Safety Act and S. 389 would require the Consumer
+Product Safety Commission (CPSC) to adopt voluntary safety
+standards for lithium-ion batteries. S. 414 would require digital ad-
+vertising platforms to report annually to the Federal Trade Com-
+mission (FTC).
+Estimated Federal cost: The costs of the legislation fall within
+budget functions 370 (commerce and housing credit) and 550
+(health).
+Basis of estimate: For this estimate, CBO assumes that each bill
+will be enacted near the end of fiscal year 2025 and that the esti-
+mated amounts will be available each year. The cost estimate does
+not include any effects of interactions among the bills. If all three
+bills were combined and enacted as a single piece of legislation, the
+effects could be different from the sum of the separate estimates,
+although CBO expects that any differences would be small.
+S. 289, the Youth Poisoning Protection Act, would ban the sale
+of products containing 10 percent or more by weight of sodium ni-
+trite that are covered under the Consumer Product Safety Act. The
+legislation would not affect the sale or use of commercial or indus-
+trial products not ordinarily intended for consumer use or con-
+sumption.
+Using information from the Consumer Product Safety Commis-
+sion, CBO estimates that implementing S. 289 would cost $2 mil-
+lion over the 2025–2030 period; any related spending would be sub-
+ject to the availability of appropriated funds.
+S. 389, the Setting Consumer Standards for Lithium-Ion Bat-
+teries Act, would require the Consumer Product Safety Commission
+VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\SR049.XXX SR049
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+100.94RS
+ereh
+6
+oilof
+tesffo
+tresnI
+
+5
+within 180 days of enactment, to adopt certain voluntary safety
+standards—specifically ANSI/CAN/UL 2271, 2849, and 2272—con-
+cerning rechargeable lithium-ion batteries used in electric bicycles,
+scooters, and other micromobility devices. The bill also would re-
+quire the CPSC to determine the applicable scope of covered con-
+sumer products and to monitor and evaluate future revisions to the
+voluntary standards and report to the Congress within five years
+of enactment.
+Using information from the CPSC, CBO estimates that imple-
+menting S. 389 would cost $8 million over the 2025–2030 period;
+any related spending would be subject to the availability of appro-
+priated funds.
+S. 414, the ADS for Mental Health Services Act, would require
+certain digital advertising platforms to report annually to the Fed-
+eral Trade Commission about advertising on their platforms for
+certain mental health services, including information on the num-
+ber, percent, and dollar value of such advertisements. Platforms
+that would be affected by the bill include social media platforms,
+public facing websites, online services, and mobile applications
+with more than 100 million unique monthly users. The bill also
+would require the FTC to report annually to the Congress summa-
+rizing that data. CBO estimates that enacting S. 414 would cost
+less than $500,000 over the 2025–2030 period. Any related spend-
+ing would be subject to the availability of appropriated funds.
+Pay-as-you-go considerations: The Statutory Pay-As-You-Go Act
+of 2010 establishes budget-reporting and enforcement procedures
+for legislation affecting direct spending or revenues. None of the
+bills would affect direct spending or revenues; thus, pay-as-you-go
+procedures do not apply.
+Increase in long-term net direct spending and deficits: CBO esti-
+mates that enacting S. 289, S. 389 and S. 414 would not increase
+net direct spending or deficits in any of the four consecutive 10-
+year periods beginning in 2036.
+Mandates: All three bills would impose private-sector mandates
+as defined in in the Unfunded Mandates Reform Act (UMRA).
+None of the bills would impose intergovernmental mandates.
+S. 289, the Youth Poisoning Protection Act, would impose a pri-
+vate-sector mandate as defined in UMRA by banning the sale of
+consumer products containing 10 percent or more of sodium nitrite
+by weight. The prohibition would not apply to industrial uses or to
+food preservation. Because there is only a small market for con-
+sumer products containing that much sodium nitrite and some
+states already have curtailed the sale of products containing so-
+dium nitrite, CBO estimates that the cost of the mandate would
+not exceed the private- sector threshold established in UMRA ($206
+million in 2025, adjusted annually for inflation).
+S. 389, the Setting Consumer Standards for Lithium-Ion Bat-
+teries Act, would impose a private-sector mandate as defined in
+UMRA by requiring manufacturers of electric mobility devices, in-
+cluding bicycles and scooters, to comply with a prospective Con-
+sumer Product Safety Commission safety standard related to the
+risk of fire in lithium-ion batteries. Based on voluntary compliance
+with the specified standard by domestic manufacturers and current
+state and local laws requiring compliance, CBO estimates that the
+cost of the mandate would not exceed the annual private-sector
+VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\SR049.XXX SR049
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+6
+threshold established in UMRA ($206 million in 2025, adjusted an-
+nually for inflation).
+S. 414, the ADS for Mental Health Services Act, would require
+certain digital advertising platforms to report to the FTC on their
+public service advertisements for mental and behavioral health.
+That requirement would impose a private-sector mandate as de-
+fined by UMRA. CBO estimates the cost of the mandate would be
+small and not exceed the threshold established in UMRA ($206
+million in 2025, adjusted annually for inflation) because the man-
+dated entities generally already possess or collect the information
+required to be reported under the bill.
+Estimate prepared by: Federal costs: Cyrus Ekland (for the Con-
+sumer Product Safety Commission); Johnny Willing (for the Fed-
+eral Trade Commission). Mandates: Andrew Laughlin (for the Con-
+sumer Product Safety Commission); Rachel Austin (for the Federal
+Trade Commission).
+Estimate reviewed by: Sean Dunbar, Chief, Low-Income Health
+Programs and Prescription Drugs Cost Estimates Unit; Justin
+Humphrey, Chief, Finance, Housing, and Education Cost Estimates
+Unit; Kathleen FitzGerald, Chief, Public and Private Mandates
+Unit; H. Samuel Papenfuss, Deputy Director of Budget Analysis.
+Estimate approved by: Phillip L. Swagel, Director, Congressional
+Budget Office.
+REGULATORY IMPACT STATEMENT
+In accordance with paragraph 11(b) of rule XXVI of the Standing
+Rules of the Senate, the Committee provides the following evalua-
+tion of the regulatory impact of the legislation, as reported:
+Number of Persons Covered
+S. 289 would prohibit the sale of consumer products containing
+a high concentration of sodium nitrite. Therefore, the number of
+persons covered is (1) manufacturers of consumer products con-
+taining a high concentration of sodium nitrite; and (2) sellers of
+consumer products containing a high concentration of sodium ni-
+trite.
+Economic Impact
+S. 289 is expected to have minimal economic impact. Commercial
+or industrial uses of high concentration sodium nitrite are per-
+mitted under this Act. Additionally, large online retailers have al-
+ready removed consumer products containing a high concentration
+of sodium nitrite from their websites for purchase.
+Privacy
+S. 289 would not have a significant impact on the privacy rights
+of individuals.
+Paperwork
+S. 289 would not generate any additional paperwork.
+CONGRESSIONALLY DIRECTED SPENDING
+In compliance with paragraph 4(b) of rule XLIV of the Standing
+Rules of the Senate, the Committee provides that no provisions
+VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\SR049.XXX SR049
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+7
+contained in the bill, as reported, meet the definition of congres-
+sionally directed spending items under the rule.
+SECTION-BY-SECTION ANALYSIS
+Section 1. Short title
+This section would provide that the bill may be cited as the
+‘‘Youth Poisoning Protection Act’’.
+Section 2. Banning of products containing a high concentration of
+sodium nitrite
+Subsection (a) would provide that any consumer product with a
+high concentration of sodium nitrite shall be a banned hazardous
+product under section 8 of the Consumer Product Safety Act.12
+Subsection (b) would create a rule of construction that nothing in
+this section shall be construed to (1) prohibit commercial or indus-
+trial purposes of high concentration sodium nitrite that are not cus-
+tomarily produced or distributed for sale to, or use or consumption
+by, or enjoyment of, a consumer; and (2) apply to high concentra-
+tion sodium nitrite that meets the definition of the terms ‘‘drug’’,
+‘‘device’’, or ‘‘cosmetic’’ (as defined in the Federal Food, Drug, and
+Cosmetic Act13) or ‘‘food’’, including poultry, poultry products,
+meat and meat food products, or egg and egg products.
+Subsection (c) would provide definitions: (1) the term ‘‘consumer
+product’’ has the same meaning given under section 3(a)(5) of the
+Consumer Product Safety Act;14 (2) the term ‘‘high concentration
+of sodium nitrite’’ means a concentration of 10 or more percent by
+weight of sodium nitrite.
+Subsection (d) would provide for the effective date of this Act to
+be 90 days after enactment.
+CHANGES IN EXISTING LAW
+In compliance with paragraph 12 of rule XXVI of the Standing
+Rules of the Senate, the Committee states that the bill as reported
+would make no change to existing law.
+Æ
+1215 U.S.C. 2057.
+1321 U.S.C. 321.
+1415 U.S.C. 2052.
+VerDate Sep 11 2014 06:41 Aug 13, 2025 Jkt 059010 PO 00000 Frm 00009 Fmt 6659 Sfmt 6611 E:\HR\OC\SR049.XXX SR049
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD

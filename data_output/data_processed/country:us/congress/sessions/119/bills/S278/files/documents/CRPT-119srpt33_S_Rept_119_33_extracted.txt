@@ -1,0 +1,2416 @@
+Title: VerDate Sep 11 2014 00:30 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR033.XXX SR033
+Official Title: VerDate Sep 11 2014 00:30 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR033.XXX SR033
+Number of Sections: 23
+Source: documents - S. Rept. 119-33
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+1
+Calendar No. 108
+119THCONGRESS
+" SENATE !
+REPORT
+1st Session 119–33
+KIDS OFF SOCIAL MEDIA ACT
+R E P O R T
+OFTHE
+COMMITTEE ON COMMERCE, SCIENCE, AND
+TRANSPORTATION
+ON
+S. 278
+JUNE 30, 2025.—Ordered to be printed
+U.S. GOVERNMENT PUBLISHING OFFICE
+59–010 WASHINGTON : 2025
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD 31#.ssergnoc
+SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION
+ONE HUNDRED NINETEENTH CONGRESS
+FIRST SESSION
+TED CRUZ, Texas, Chairman
+JOHNTHUNE,SouthDakota MARIACANTWELL,Washington
+ROGERF.WICKER,Mississippi AMYKLOBUCHAR,Minnesota
+DEBFISCHER,Nebraska BRIANSCHATZ,Hawaii
+JERRYMORAN,Kansas EDWARDJ.MARKEY,Massachusetts
+DANSULLIVAN,Alaska GARYC.PETERS,Michigan
+MARSHABLACKBURN,Tennessee TAMMYBALDWIN,Wisconsin
+TODDYOUNG,Indiana TAMMYDUCKWORTH,Illinois
+TEDBUDD,NorthCarolina JACKYROSEN,Nevada
+ERICSCHMITT,Missouri BENRAYLUJA´N,NewMexico
+JOHNCURTIS,Utah JOHNW.HICKENLOOPER,Colorado
+BERNIEMORENO,Ohio JOHNFETTERMAN,Pennsylvania
+TIMSHEEHY,Montana ANDYKIM,NewJersey
+SHELLEYMOORECAPITO,WestVirginia LISABLUNTROCHESTER,Delaware
+CYNTHIAM.LUMMIS,Wyoming
+BRAD GRANTZ, Majority Staff Director
+LILA HARPER HELMS, Democratic Staff Director
+(II)
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00002 Fmt 5904 Sfmt 5904 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+Calendar No. 108
+119THCONGRESS REPORT
+1st Session " SENATE ! 119–33
+KIDS OFF SOCIAL MEDIA ACT
+JUNE30, 2025.—Ordered to be printed
+Mr. CRUZ, from the Committee on Commerce, Science, and
+Transportation, submitted the following
+R E P O R T
+[To accompany S. 278]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Commerce, Science, and Transportation, to
+which was referred the bill (S. 278) to prohibit users who are under
+age 13 from accessing social media platforms, to prohibit the use
+of personalized recommendation systems on individuals under age
+17, and limit the use of social media in schools, having considered
+the same, reports favorably thereon without amendment and rec-
+ommends that the bill do pass.
+PURPOSE OF THE BILL
+The purpose of S. 278 is to require social media companies to im-
+plement a number of policies to protect young users, including re-
+quirements that social media platforms prohibit children under age
+13 from creating or maintaining a social media account and not use
+the personal data of a child or teen to display targeted, personal-
+ized content to such child or teen. It would also require similar pro-
+tections from elementary or secondary schools that receive certain
+Federal funds by requiring them to certify that they block or filter
+access to certain social media platforms on any such school’s feder-
+ally supported services, devices, and networks.
+BACKGROUND AND NEEDS
+Given the prevalence of internet connected devices in our society,
+children are often introduced to social media use at a young age.
+Numerous studies, as well as hearings held before the Committee’s
+Subcommittee on Consumer Protection, Product Safety, and Data
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+2
+Security, document the significant physical and mental health
+harms to children from social media use, as well as safety concerns
+that arise when predators have access to children through their on-
+line accounts and activities.
+Studies have shown a strong relationship between social media
+use and poor mental health, especially among children. From 2019
+to 2021, overall media use among teens and tweens (ages 8 to 12)
+increased by 17 percent, with tweens using screens for 5 hours and
+33 minutes per day and teens using screens for 8 hours and 39
+minutes.1
+The risk of harm from social media continues as children reach
+high school age. The Centers for Disease Control and Prevention’s
+Youth Risk Behavior Survey found that frequent social media use
+among high school students was associated with higher prevalence
+of bullying victimization, persistent feelings of sadness and hope-
+lessness, and thoughts of suicide.2
+A May 2023 advisory by the U.S. Surgeon General stated that up
+to 95 percent of youth between ages 13–17 reported using social
+media, with over a third using it ‘‘almost constantly.’’3 Teens who
+spend more than 3 hours per day on social media face double the
+risk of poor mental health outcomes.4
+A phone-based childhood—predominantly spent on social
+media—has been documented to lead to social awkwardness, re-
+duced self-confidence, a more sedentary childhood, fragmented at-
+tention, disrupted learning, addiction, and social withdrawal.5
+The U.S. Surgeon General has stated there is not enough evi-
+dence to conclude social media is sufficiently safe for children and
+adolescents.6 The Surgeon General cited studies showing that when
+children and teens reduce or eliminate exposure to social media for
+longer than a month it improves mental health.7
+Parents intuitively understand the harms associated with their
+child’s use of social media. For example, a survey conducted by
+Count on Mothers shows that over 90 percent of mothers agree
+that there should be a minimum of age 13 for social media.8
+The Subcommittee on Consumer Protection, Product Safety, and
+Data Security has held a number of hearings to explore harms to
+children and teens caused by social media use.
+On October 2, 2021, the Subcommittee on Consumer Protection,
+Product Safety, and Data Security heard from a whistleblower and
+1Victoria Rideout et al., The Common Sense Census: Media Use by Tweens and Teens, 2021,
+at p. 16, Common Sense Media, 2022 (https://www.commonsensemedia.org/sites/default/files/
+research/report/8-18-census-integrated-report-final-web_0.pdf).
+2Emily Young et al., Frequent Social Media Use and Experiences with Bullying Victimization,
+Persistent Feelings of Sadness or Hopelessness, and Suicide Risk Among High School Students—
+Youth Risk Behavior Survey, United States, 2023, Centers for Disease Control, Morbidity and
+Mortality Weekly, October 10, 2024 (https://www.cdc.gov/mmwr/volumes/73/su/
+su7304a3.htm?s_cid=su7304a3-w).
+3U.S. Department of Health and Human Services, ‘‘Surgeon General Issues New Advisory
+About Effects Social Media Use Has on Youth Mental Health,’’ May 23, 2023 (https://
+www.hhs.gov/about/news/2023/05/23/surgeon-general-issues-new-advisory-about-effects-social-
+media-use-has-youth-mental-health.html).
+4Ibid.
+5Jonathan Haidt, ‘‘End The Phone-Based Childhood Now,’’ The Atlantic, March 13, 2024
+(https://www.theatlantic.com/technology/archive/2024/03/teen-childhood-smartphone-use-men-
+tal-health-effects/677722/).
+6See supra n.4. (https://www.hhs.gov/about/news/2023/05/23/surgeon-general-issues-new-
+advisory-about-effects-social-media-use-has-youth-mental-health.html).
+7Ibid.
+8Count on Mothers, ‘‘Mothers’ Views on the Protecting Kids on Social Media Act,’’ June 2023
+(https://www.countonmothers.org/research#June2023).
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+3
+former Facebook (now Meta) employee who testified that Meta
+prioritized user engagement, which fueled growth and profit, over
+the wellbeing of young users. The witness further testified that
+Meta’s policies, practices, and the extent of its internal research on
+harms to youth on its platforms lack transparency, both to the pub-
+lic and independent researchers.9
+The subcommittee held other hearings on September 30, 2021,10
+October 26, 2021,11 and December 8, 2021,12 to examine how online
+platforms—particularly social media platforms—harm young users.
+These hearings highlighted that algorithmic recommendation sys-
+tems and targeted advertisements push age-inappropriate, poten-
+tially life-threatening content on youth, such as content encour-
+aging dieting and eating disorder behaviors, reckless and dan-
+gerous driving, and viral challenges to perform life-threatening
+stunts. The hearings suggested that external oversight and regula-
+tion may be necessary to ensure the safety of minors online be-
+cause the platforms have failed in doing so on their own.
+S. 278 responds to the concerns that social media platforms have
+not taken appropriate steps to protect children or teens online.
+SUMMARY OF PROVISIONS
+S. 278 would do the following:
+• Require a social media platform to prohibit an individual from
+creating or maintaining an account or profile if the platform
+knows that such individual is a child under the age of 13.
+• Require a social media platform to terminate any existing ac-
+count or profile of a user who the social media platform knows
+is a child.
+• Prohibit a social media platform from using the personal data
+of a child or teen in a personalized recommendation system to
+display content to a user or visitor the platform knows is a
+child or teen.
+• Establish a standard for the Federal Trade Commission (FTC)
+or the attorney general of a State to make a determination as
+to whether a social media platform has knowledge that a user
+is a child or teen.
+• Authorize the FTC to enforce violations of title I of this Act as
+a violation of a rule defining an unfair or deceptive act or prac-
+9Prepared statement of Frances Haugen, submitted to the Senate Committee on Commerce,
+Science, and Transportation, Subcommittee on Consumer Protection, Data Security, and Product
+Safety, for hearing on ‘‘Protecting Kids Online: Testimony from a Facebook Whistleblower,’’
+117th Congress, October 5, 2021 (https://www.commerce.senate.gov/2021/10/protecting
+%20kids%20online:%20testimony%20from%20a%20facebook%20whistleblower).
+10Hearing on ‘‘Protecting Kids Online: Facebook, Instagram, and Mental Health Harms,’’ Sen-
+ate Committee on Commerce, Science, and Transportation, Subcommittee on Consumer Protec-
+tion, Product Safety, and Data Security, 117th Congress, October 5, 2021 (https://
+www.commerce.senate.gov/2021/9/protecting-kids-online-facebook-instagram-and-mental-health-
+harms).
+11Hearing on ‘‘Protecting Kids Online: Snapchat, TikTok, and YouTube,’’ Senate Committee
+on Commerce, Science, and Transportation, Subcommittee on Consumer Protection, Product
+Safety, and Data Security, 117th Congress, October 26, 2021 (https://
+www.commerce.senate.gov/2021/10/protecting-kids-online-snapchat-tiktok-and-youtube).
+12Hearing on ‘‘Protecting Kids Online: Instagram and Reforms for Young Users,’’ Senate Com-
+mittee on Commerce, Science, and Transportation, Subcommittee on Consumer Protection, Prod-
+uct Safety, and Data Security, 117th Congress, December 8, 2021 (https://
+www.commerce.senate.gov/2021/12/protecting-kids-online-instagram-and-reforms-for-young-
+users).
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+4
+tice prescribed under section 18 of the Federal Trade Commis-
+sion Act.13
+• Authorize the attorney general of a State to enforce violations
+of title I of this Act.
+• Preempt any State law, rule, or regulation only to the extent
+that such State law, rule, or regulation conflicts with a provi-
+sion of title I. Clarifies that nothing in title I should be con-
+strued to prohibit a State from enacting a law, rule, or regula-
+tion that provides greater protection to children or teens than
+the protection provided by the provisions of this title.
+• Update the Children’s Internet Protection Act14 to require the
+school, school board, local educational agency, or other author-
+ity with responsibility for administration of an elementary or
+secondary school that is subject to paragraph (5) of section
+254(h) of the Communications Act of 193415 to certify that it
+is enforcing a policy to prevent students from accessing, and
+has in place measures to block or filter, certain social media
+platforms on any such school’s federally supported services, de-
+vices, and networks. Determine that any covered school that is
+unable to certify such compliance is ineligible to receive service
+at discount rates under section 254(h) until such school comes
+into compliance.
+• Require the Federal Communications Commission (FCC) to en-
+force violations of title II of this Act. Limit the FCC from seek-
+ing recovery of funding or delay the processing of a fund appli-
+cation due to a violation of title II if the school, school board,
+local educational agency, or other authority made a good faith
+effort to comply with the requirements in title II and correct
+any known violations of such requirements within a reasonable
+period of time.
+• Require the FCC to establish an easily accessible, public data-
+base that contains each internet safety policy that is required
+to be submitted to the FCC under title II.
+LEGISLATIVE HISTORY
+S. 278 was introduced on January 28, 2025, by Senator Schatz
+(for himself and Senators Cruz, Murphy, Britt, Welch, Budd, King,
+Curtis, Warner, and Fetterman) and was referred to the Committee
+on Commerce, Science, and Transportation of the Senate. On Feb-
+ruary 5, 2025, the Committee met in open Executive Session and,
+by voice vote, ordered S. 278 reported favorably without amend-
+ment.
+ESTIMATED COSTS
+In accordance with paragraph 11(a) of rule XXVI of the Standing
+Rules of the Senate and section 403 of the Congressional Budget
+Act of 1974, the Committee provides the following cost estimate,
+prepared by the Congressional Budget Office:
+1315 U.S.C. 57a.
+1415 U.S.C. 6501 et seq.
+1547 U.S.C. 254(h).
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+5
+The bill would:
+• Prohibit social media platforms from allowing children to
+create accounts and from recommending certain content to
+children or teens based on their personal data
+• Require schools to block access to social media as a condi-
+tion of receiving discounted broadband service through the E-
+Rate program of the Federal Communications Commission
+(FCC)
+• Impose intergovernmental and private-sector mandates
+Estimated budgetary effects would mainly stem from:
+• Increases in spending subject to appropriation for the Fed-
+eral Trade Commission and FCC to implement and enforce the
+bill’s requirements
+• Increases in direct spending and revenues associated with
+administrative costs of the Universal Service Administrative
+Company
+• Increases in civil penalties
+Bill summary: S. 278 would prohibit social media platforms from
+allowing children to create accounts and from recommending cer-
+tain content to children or teens based on their personal data. The
+Federal Trade Commission (FTC) would be required to enforce
+those prohibitions.
+The bill also would require schools to block access to social media
+on school-provided services, networks, and devices as a condition of
+receiving discounted broadband service through the E-Rate pro-
+gram of the Federal Communications Commission (FCC). The FCC
+would be required to enforce that requirement. Finally, S. 278
+would direct the FCC to collect information from schools about
+their Internet safety policies and establish a public database of
+those policies.
+Estimated Federal cost: The estimated costs fall within budget
+function 370 (commerce and housing credit).
+Basis of estimate: CBO assumes that S. 278 will be enacted be-
+fore the end of fiscal year 2025.
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 2:
+100.33RS
+ereh
+7 oilof
+tesffo
+tresnI
+6
+Spending subject to appropriation: Using information from the
+affected agencies, CBO estimates that implementing S. 278 would
+cost $4 million over the 2025–2030 period; any related spending
+would be subject to the availability of appropriated funds.
+CBO estimates that the FTC would need three additional law-
+yers and technologists in its Bureau of Consumer Protection to en-
+force violations at a cost of about $235,000 per employee in 2025.
+On that basis, and accounting for anticipated inflation, CBO esti-
+mates that it would cost the FTC $4 million over the 2025–2030
+period to implement the requirements in the bill.
+CBO estimates that it would cost the FCC less than $500,000 to
+provide guidance to E-Rate recipients and to establish and main-
+tain the public database. Because the FCC is authorized to collect
+fees each year sufficient to offset the appropriated costs of its regu-
+latory activities, CBO estimates that the net cost to the FCC would
+be negligible, assuming appropriation actions consistent with that
+authority.
+Direct spending and revenues: In total, CBO estimates that en-
+acting S. 278 would increase revenues and direct spending by an
+insignificant amount over the 2025–2035 period.
+The Universal Service Administrative Company (USAC), which
+administers the E-Rate program on behalf of the FCC, already
+oversees compliance with E-Rate policies as part of its normal du-
+ties; therefore, S. 278 would not create substantial new responsibil-
+ities. In addition, CBO expects that many schools already block so-
+cial media access under current policy, and that schools would gen-
+erally comply with the new requirements under the bill. Therefore,
+CBO estimates that any additional costs for USAC to oversee
+schools’ social media policies would be insignificant. Under current
+law, USAC levies assessments on telecommunications carriers to
+fund its operations; the collection of those assessments is recorded
+in the budget as revenue and the spending of those assessments is
+classified as direct spending. On that basis, CBO estimates that
+the increase in the deficit from increases in revenues and direct
+spending would be negligible.
+The bill would authorize the FTC to collect civil monetary pen-
+alties from businesses found in violation of the bill, along with pur-
+suing other remedies. Civil monetary penalties are generally remit-
+ted to the Treasury and recorded as revenues. CBO estimates that
+the additional revenues collected through 2035 would be insignifi-
+cant.
+The extent to which businesses would violate the new rules after
+they go into effect is uncertain. Furthermore, if a business does vio-
+late the new rules and the FTC chooses to proceed with an enforce-
+ment action, the extent to which the agency pursues civil penalties
+versus other remedies is also uncertain, as is the amount of time
+it would take to resolve a case.
+Pay-As-You-Go considerations: The Statutory Pay-As-You-Go Act
+of 2010 establishes budget-reporting and enforcement procedures
+for legislation affecting direct spending or revenues. CBO estimates
+that enacting the bill would increase direct spending and revenues
+by less than $500,000 in every year and over the 2025–2035 period.
+Increase in long-term net direct spending and deficits: CBO esti-
+mates that enacting S. 278 would increase net direct spending by
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+7
+an insignificant amount in all of the four consecutive 10-year peri-
+ods beginning in 2036.
+CBO estimates that enacting S. 278 would not increase on-budg-
+et deficits in any of the four consecutive 10-year periods beginning
+in 2036.
+Mandates: The bill would impose intergovernmental and private-
+sector mandates as defined in the Unfunded Mandates Reform Act
+(UMRA). CBO estimates that the total cost of those mandates
+would not exceed the thresholds established in UMRA for intergov-
+ernmental and private-sector mandates ($103 million and $206 mil-
+lion in 2025, respectively, adjusted annually for inflation).
+S. 278 would impose an intergovernmental mandate by pre-
+empting state laws governing access to social media platforms for
+people under the age of 17. Although the preemption would limit
+the application of state laws, it would impose no duty on state gov-
+ernments that would result in additional spending or loss of rev-
+enue.
+The bill would impose private-sector mandates by prohibiting so-
+cial media platforms from allowing children under the age of 13 to
+create and maintain accounts. Social media platforms also would
+be required to delete those accounts and supply a copy, upon re-
+quest, of the personal data of that child user. In addition, social
+media platforms would be prohibited from using automated sys-
+tems to promote content based on personal data for people under
+the age of 17. The incremental cost of the mandates would be small
+because social media platforms already voluntarily comply, or their
+current business practices would allow the platforms to easily com-
+ply with provisions of the bill.
+If the FCC increases annual fee collections to offset the costs of
+implementing provisions in the bill, S. 278 would increase the cost
+of an existing private-sector mandate on entities required to pay
+those fees. CBO estimates that the incremental cost of the mandate
+would be small.
+Estimate prepared by: Federal costs: David Hughes; Mandates:
+Rachel Austin.
+Estimate reviewed by: Justin Humphrey, Chief, Finance, Hous-
+ing, and Education Cost Estimates Unit; Kathleen FitzGerald,
+Chief, Public and Private Mandates Unit; H. Samuel Papenfuss,
+Deputy Director of Budget Analysis.
+Estimate approved by: Phillip L. Swagel, Director, Congressional
+Budget Office.
+REGULATORY IMPACT STATEMENT
+In accordance with paragraph 11(b) of rule XXVI of the Standing
+Rules of the Senate, the Committee provides the following evalua-
+tion of the regulatory impact of the legislation, as reported:
+NUMBER OF PERSONS COVERED
+Title I of S. 278 would cover the following entities and any em-
+ployees retained by them: (1) Social media platforms; (2) the FTC;
+and (3) State attorneys general.
+Title II of S. 278 would cover all elementary or secondary schools
+that are subject to paragraph (5) of section 254(h) of the Commu-
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+8
+nications Act of 193416 and receive services at discount rates under
+
+Section 3:
+section 254(h).
+ECONOMIC IMPACT
+S. 278’s primary economic impact would be from costs to or
+changes in revenue for social media platforms that result from: (1)
+prohibiting children from creating or maintaining a social media
+account or profile, or (2) prohibiting use of personal data of a child
+or teen in a personalized recommendation system to display con-
+tent to such child or teen.
+Further, S. 278 may have an economic impact on elementary or
+secondary schools due to the cost of acquiring new or extending ex-
+isting legally required technology protection measures, such as
+internet firewalls, to prohibit student access to certain social media
+platforms on any federally supported service, device, or network.
+Should schools not comply, they could also lose funding currently
+supported through FCC’s programs.
+PRIVACY
+S. 278 is expected to strengthen the privacy of children online.
+It does so by: (1) prohibiting social media companies from permit-
+ting children under 13 years of age from creating or maintaining
+a social media account and (2) prohibiting the use of a child or
+teen’s personal data in a personalized recommendation system to
+display content to such child or teen.
+PAPERWORK
+Title I of S. 278 is not expected to generate any additional paper-
+work. Title II of S. 278 would have minimal impact on paperwork
+for elementary or secondary schools. Paperwork would be limited
+to providing, as a condition of receiving funding under section
+254(h) of the Communications Act,17 the necessary certifications
+and screen use policies for parents to the FCC to demonstrate com-
+pliance with the requirements of title II.
+CONGRESSIONALLY DIRECTED SPENDING
+In compliance with paragraph 4(b) of rule XLIV of the Standing
+Rules of the Senate, the Committee provides that no provisions
+contained in the bill, as reported, meet the definition of congres-
+sionally directed spending items under the rule.
+
+Section 4:
+SECTION-BY-SECTION ANALYSIS
+
+Section 5:
+Section 1. Short title; table of contents.
+This section would provide that the bill may be cited as the ‘‘Kids
+Off Social Media Act’’, and it would include a table of contents.
+1647 U.S.C. 254(h).
+17Ibid.
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+9
+TITLE I—KIDS OFF SOCIAL MEDIA ACT
+
+Section 6:
+Section 101. Short title.
+This section would provide that title I may be cited as the ‘‘Kids
+Off Social Media Act’’.
+
+Section 7:
+Section 102. Definitions.
+This section would define the term ‘‘personalized recommenda-
+tion system’’ to mean a fully or partially automated system used
+to suggest, promote, or rank content, including other users or posts,
+based on the personal data of users; the term ‘‘child’’ to mean an
+individual under the age of 13; the term ‘‘Commission’’ to mean the
+Federal Trade Commission; the terms ‘‘know’’ and ‘‘knows’’ to mean
+to have actual knowledge or knowledge fairly implied on the basis
+of objective circumstances; the term ‘‘personal data’’ to mean the
+term ‘‘personal information’’ as defined in section 1302 of the Chil-
+dren’s Online Privacy Protection Act; the term ‘‘social media plat-
+form’’ to mean a public-facing website, online service, online appli-
+cation, or mobile application that (1) is directed to consumers, (2)
+collects personal data, (3) primarily derives revenue from the ad-
+vertising or the sale of personal data, and (4) as its primary func-
+tion provides a community forum for user-generated content, in-
+cluding messages, videos, and audio files among users where such
+content is primarily intended for viewing, resharing, or platform-
+enabled distributed social endorsement or comment. This section
+also contains a number of express limitations to the scope of the
+term ‘‘social media platform’’. This section would further define the
+term ‘‘teen’’ to mean an individual over the age of 12 and under the
+age of 17 and the term ‘‘user’’ to mean, with respect to a social
+media platform, an individual who registers an account or creates
+a profile on the social media platform.
+
+Section 8:
+Section 103. No children under 13.
+This section would prohibit a social media platform from permit-
+ting an individual to create or maintain an account or profile on
+such social media platform if it knows that the individual is a
+child. This section would further require a social media platform to
+terminate any existing account or profile of a user who the social
+media platform knows is a child.
+For any accounts or profiles of a child deleted in accordance with
+this section, a social media platform would be required to delete all
+personal data collected from the user or submitted by the user to
+the platform. Such deletion would need to take place after the plat-
+form provides the user of such existing account or profile with the
+opportunity to request and receive a copy of the user’s personal
+data within 90 days after the platform terminates such account or
+profile.
+
+Section 9:
+Section 104. Prohibition on the use of personalized recommendation
+systems on children or teens.
+This section would prohibit a social media platform from using
+a user or visitor’s personal data in a personalized recommendation
+system to display content if the platform knows that the user is a
+child or teen. This section would provide exceptions to allow for the
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+10
+use of the following categories of personal data in a personalized
+recommendation system:
+• The type of device used by the child or teen.
+• The languages used by the child or teen to communicate.
+• The city or town in which the child or teen is located.
+• The fact that the individual is a child or teen.
+• The age of the child or teen.
+This section would also include a rule of construction. This sec-
+tion could not be construed to prevent a child or teen from delib-
+erately or independently requesting content so long as such results
+are not based on the personal data of the child or teen. Social
+media platforms would also not be prevented from taking measures
+to stop unlawful or obscene material, block or filter spam or protect
+the security of a platform, or prevent criminal activity. This section
+could also not be construed to prohibit a social media platform from
+displaying content that a teen account holder has selected, fol-
+lowed, or subscribed to, provided that such display is in chrono-
+logical format.
+
+Section 10:
+Section 105. Determination of whether an operator has knowledge
+fairly implied on the basis of objective circumstances that an in-
+dividual is a child or teen.
+This section would provide that for purposes of this title, in mak-
+ing a determination of whether a social media platform has knowl-
+edge fairly implied on the basis of objective circumstances that a
+user is a child or teen, the FTC or the attorney general of a State,
+as applicable, shall rely on competent and reliable evidence, taking
+into account the totality of circumstances, including whether a rea-
+sonable and prudent person under the circumstances would have
+known that the user is a child or teen.
+Such determination shall not be construed to require a social
+media platform to implement an age gating or age verification
+functionality or affirmatively collect any personal data with respect
+to the age of users that the social media platform is not already
+collecting in the normal course of business.
+By adopting this determination, a social media platform would
+no longer be able to rely only on self-reporting or self-attestation
+of age submitted by a user, nor would a social media company be
+able to ignore objective facts indicating that a user is a child.
+Further, this section would provide that if any social media plat-
+form or party acting on the platform’s behalf voluntarily collects
+personal data to comply with this title, the platform or party shall
+not use such data for any purpose other than sole compliance with
+this title or retain any personal data collected for longer than nec-
+essary to comply with the obligations under this title or minimally
+necessary to demonstrate compliance with this title.
+
+Section 11:
+Section 106. Enforcement.
+This section would provide that the FTC shall enforce violations
+of this title as violations of a rule defining an unfair or deceptive
+act or practice prescribed under section 18(a)(1)(B) of the Federal
+Trade Commission Act.18
+1815 U.S.C. 57a.
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+11
+This section would further provide that the attorney general of
+a State may, subject to the requirements in this title, bring a civil
+action against a social media platform for violations of this title
+committed against the residents of the applicable State.
+
+Section 12:
+Section 107. Relationship to other laws.
+This section would state that the provisions of this title shall pre-
+empt any State law, rule, or regulation only to the extent that such
+State law, rule, or regulation conflicts with a provision of this title.
+It would also clarify that nothing in this title shall be construed to
+prohibit a State from enacting a law, rule, or regulation that pro-
+vides greater protection to children or teens than the protection
+provided by the provisions of this title.
+
+Section 13:
+Section 108. Effective date.
+This section would provide that this title shall take effect 1 year
+after the date of enactment of this Act.
+TITLE II—EYES ON THE BOARD ACT OF 2025
+
+Section 14:
+Section 201. Short title.
+This section would provide that title II may be cited as the ‘‘Eyes
+on the Board Act of 2025’’.
+
+Section 15:
+Section 202. Updating the children’s internet protection act to in-
+clude social media platforms.
+This section would expand the Children’s Internet Protection Act
+to require schools to certify that they are enforcing a policy to pre-
+vent students from accessing, and have in place measures to block
+or filter students’ access to certain social media platforms on feder-
+ally supported services, devices, and networks, as a condition of re-
+ceiving services at discount rates under section 254(h) of the Com-
+munications Act of 1934.19
+It would further clarify that these requirements do not prohibit
+district-sanctioned or school-sanctioned learning management sys-
+tems and school information systems used for purposes of con-
+veying content related to the education of students; or teachers
+from using a social media platform for educational instruction.
+Finally, this section would clarify that the FCC may not seek re-
+covery of funding or delay the processing of a fund application from
+a school due to a violation of this title if the school, school board,
+local educational agency, or other authority made a good faith ef-
+fort to comply with the requirements in this title and correct any
+known violations of such requirements within a reasonable period
+of time.
+
+Section 16:
+Section 203. Internet safety policies.
+This section would require elementary or secondary schools that
+receive Federal funding under section 254(h) of the Communica-
+tions Act of 1934 to submit copies of their internet safety policies
+to the FCC, to be made available in an easily accessible, public
+database.
+1947 U.S.C. 254(h).
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+12
+TITLE III—SEVERABILITY
+
+Section 17:
+Section 301. Severability.
+This section would establish that if any provision of this Act, or
+amendment made by this Act, is determined to be unenforceable or
+invalid, the remaining provision of this Act and the amendments
+made by this Act shall not be affected.
+CHANGES IN EXISTING LAW
+In compliance with paragraph 12 of rule XXVI of the Standing
+Rules of the Senate, changes in existing law made by the bill, as
+reported, are shown as follows (existing law proposed to be omitted
+is enclosed in black brackets, new material is printed in italic, ex-
+isting law in which no change is proposed is shown in roman):
+COMMUNICATIONS ACT OF 1934
+* * * * * * *
+[47 U.S.C. 254]
+SEC. 254. UNIVERSAL SERVICE.
+(a) * * *
+* * * * * * *
+(h) TELECOMMUNICATIONS SERVICES FOR CERTAIN PROVIDERS.—
+(1) * * *
+* * * * * * *
+(5) REQUIREMENTS FOR CERTAIN SCHOOLS WITH COMPUTERS
+HAVING INTERNET ACCESS.—
+(A) INTERNET SAFETY.—
+(i) IN GENERAL.—Except as provided in clause (ii),
+an elementary or secondary school having computers
+with Internet access may not receive services at dis-
+count rates under paragraph (1)(B) unless the school,
+school board, local educational agency, or other au-
+thority with responsibility for administration of the
+school—
+(I) submits to the Commission the certifications
+described in subparagraphs (B) and (C) and copies
+of the Internet safety policy to which each such cer-
+tification pertains;
+(II) submits to the øCommission a certification
+that an Internet safety policy has been adopted
+and implemented for the school under subsection
+(l); and¿ Commission—
+(aa) a certification that an Internet safety
+policy described in subclause (I) have been
+adopted and implemented for the school; and
+(bb) copies of the Internet safety policy de-
+scribed in item (aa); and
+* * * * * * *
+(E) TIMING OF IMPLEMENTATION.—
+(i) IN GENERAL.—Subject to clause (ii) in the case of
+any school covered by this paragraph as of the effec-
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00014 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+13
+tive date of this paragraph under section ø1721(h)¿
+1721(i) of the Children’s Internet Protection Act, the
+certification under subparagraphs (B) and (C) shall be
+made—
+(I) * * *
+(II) * * *
+(ii) PROCESS.—
+(I) SCHOOLS WITH INTERNET SAFETY POLICY AND
+TECHNOLOGY PROTECTION MEASURES IN PLACE.—A
+school covered by clause (i) that has in place an
+Internet safety policy and technology protection
+measures meeting the requirements necessary for
+certification under subparagraphs (B) and (C)
+shall certify its compliance with subparagraphs
+(B) and (C) during each annual program applica-
+tion cycle under this subsection, except that with
+respect to the first program funding year after the
+effective date of this paragraph under section
+ø1721(h)¿ 1721(i) of the Children’s Internet Pro-
+tection Act, the certifications shall be made not
+later than 120 days after the beginning of such
+first program funding year.
+(II) * * *
+(III) * * *
+(F) * * *
+(6) REQUIREMENTS FOR CERTAIN LIBRARIES WITH COMPUTERS
+HAVING INTERNET ACCESS.—
+(A) * * *
+* * * * * * *
+(E) TIMING OF IMPLEMENTATION.—
+(i) IN GENERAL.—Subject to clause (ii) in the case of
+any library covered by this paragraph as of the effec-
+tive date of this paragraph under section ø1721(h)¿
+1721(i) of the Children’s Internet Protection Act, the
+certification under subparagraphs (B) and (C) shall be
+made—
+(I) * * *
+(II) * * *
+(ii) PROCESS.—
+(I) LIBRARIES WITH INTERNET SAFETY POLICY
+AND TECHNOLOGY PROTECTION MEASURES IN
+PLACE.—A library covered by clause (i) that has in
+place an Internet safety policy and technology pro-
+tection measures meeting the requirements nec-
+essary for certification under subparagraphs (B)
+and (C) shall certify its compliance with subpara-
+graphs (B) and (C) during each annual program
+application cycle under this subsection, except
+that with respect to the first program funding
+year after the effective date of this paragraph
+under section ø1721(h)¿ 1721(i) of the Children’s
+Internet Protection Act, the certifications shall be
+made not later than 120 days after the beginning
+of such first program funding year.
+(II) * * *
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00015 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+14
+(III) * * *
+(F) * * *
+(G) DATABASE OF INTERNET SAFETY POLICIES.—The Com-
+mission shall establish an easily accessible, public database
+that contains each Internet safety policy submitted to the
+Commission under subclauses (I) and (II) of subparagraph
+(A)(i).
+* * * * * * *
+(l) INTERNET SAFETY POLICY REQUIREMENT FOR SCHOOLS AND LI-
+BRARIES.—
+(1) * * *
+(2) * * *
+ø(3) AVAILABILITY FOR REVIEW.—Each Internet safety policy
+adopted under this subsection shall be made available to the
+Commission, upon request of the Commission, by the school,
+school board, local educational agency, library, or other author-
+ity responsible for adopting such Internet safety policy for pur-
+poses of the review of such Internet safety policy by the Com-
+mission.¿
+(3) AVAILABILITY FOR REVIEW.—A copy of each Internet safety
+policy adopted by a library under this subsection shall be made
+available to the Commission, upon request of the Commission,
+by the library for purposes of the review of the Internet safety
+policy by the Commission.
+(4) * * *
+* * * * * * *
+CONSOLIDATED APPROPRIATIONS ACT,
+2001
+[Public Law 106–554]
+* * * * * * *
+TITLE XVII—CHILDREN’S INTERNET
+PROTECTION
+[Children’s Internet Protection Act]
+* * * * * * *
+Subtitle B—Universal Service Discounts
+SEC. 1721. REQUIREMENT FOR SCHOOLS AND LIBRARIES TO ENFORCE
+INTERNET SAFETY POLICIES WITH TECHNOLOGY PRO-
+TECTION MEASURES FOR COMPUTERS WITH INTERNET
+ACCESS AS CONDITION OF UNIVERSAL SERVICE DIS-
+COUNTS.
+(a) * * *
+* * * * * * *
+(e) * * *
+(f) LIMITATION ON USE OF SCHOOL BROADBAND SUBSIDIES FOR
+ACCESS TO SOCIAL MEDIA PLATFORMS.—
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00016 Fmt 6659 Sfmt 6603 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+15
+(1) DEFINITIONS.—In this subsection:
+(A) COMMISSION.—The term ‘‘Commission’’ means the
+Federal Communications Commission.
+(B) SECTION 254(H).—The term ‘‘section 254(h)’’ means
+
+Section 18:
+section 254(h) of the Communications Act of 1934 (47
+U.S.C. 254(h)).
+(C) SOCIAL MEDIA PLATFORM.—The term ‘‘social media
+platform’’—
+(i) means any website, online service, online applica-
+tion, or mobile application that—
+(I) serves the public; and
+(II) primarily provides a forum for users to com-
+municate user-generated content, including mes-
+sages, videos, images, and audio files, to other on-
+line users; and
+(ii) does not include—
+(I) an internet service provider;
+(II) electronic mail;
+(III) an online service, application, or website—
+(aa) that consists primarily of content that
+is not user-generated, but is preselected by the
+provider; and
+(bb) for which any chat, comment, or inter-
+active functionality is incidental to, directly re-
+lated to, or dependent on the provision of con-
+tent described in item (aa);
+(IV) an online service, application, or website—
+(aa) that is non-commercial and primarily
+designed for educational purposes; and
+(bb) the revenue of which is not primarily
+derived from advertising or the sale of per-
+sonal data;
+(V) a wireless messaging service, including such
+a service provided through a short messaging serv-
+ice or multimedia service protocols—
+(aa) that is not a component of, or linked to,
+a website, online service, online application, or
+mobile application described in clause (i); and
+(bb) the predominant or exclusive function of
+which is direct messaging consisting of the
+transmission of text, photos, or videos that—
+(AA) are sent by electronic means from
+the sender to a recipient; and
+(BB) are not posted publicly or on a
+website, online service, online application,
+or mobile application described in clause
+(i);
+(VI) a teleconferencing or video conferencing
+service that allows for the reception and trans-
+mission of audio or video signals for real-time
+communication that is initiated by using a unique
+link or identifier to facilitate access;
+(VII) a product or service that primarily func-
+tions as business-to-business software or a cloud
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00017 Fmt 6659 Sfmt 6603 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+16
+storage, file sharing, or file collaboration service;
+or
+(VIII) an organization that is not organized to
+carry on business for the profit of the organization
+or of the members of the organization.
+(D) TECHNOLOGY PROTECTION MEASURE.—The term ‘‘tech-
+nology protection measure’’ means a specific technology that
+blocks or filters access to a social media platform.
+(2) REQUIREMENTS WITH RESPECT TO SOCIAL MEDIA PLAT-
+FORMS.—
+(A) IN GENERAL.—
+(i) CERTIFICATION REQUIRED.—An elementary or sec-
+ondary school that is subject to paragraph (5) of sec-
+tion 254(h) may not receive services at discount rates
+under section 254(h) unless the school, school board,
+local educational agency, or other authority with re-
+sponsibility for administration of the school—
+(I) submits to the Commission the certification
+described in subparagraph (B); and
+(II) ensures that the use of the school’s supported
+services, devices, and networks is in accordance
+with the certification described in subclause (I).
+(ii) RULE OF CONSTRUCTION.—Nothing in clause (i)
+may be construed to prohibit—
+(I) district-sanctioned or school-sanctioned learn-
+ing management systems and school information
+systems used for purposes of schools conveying con-
+tent related to the education of students; or
+(II) a teacher from using a social media platform
+for educational instruction.
+(B) CERTIFICATION WITH RESPECT TO STUDENTS AND SO-
+CIAL MEDIA.—
+(i) IN GENERAL.—A certification under this subpara-
+graph is a certification that the applicable school,
+school board, local educational agency, or other author-
+ity with responsibility for administration of the
+school—
+(I) is enforcing a policy of preventing students of
+the school from accessing social media platforms
+on any supported service, device, or network that
+includes—
+(aa) monitoring the online activities of any
+such service, device, or network to determine if
+those students are accessing social media plat-
+forms; and
+(bb) the operation of a technology protection
+measure with respect to those services, devices,
+and networks that protects against access by
+those students to a social media platform; and
+(II) is enforcing the operation of the technology
+protection measure described in subclause (I) dur-
+ing any use of supported services, devices, or net-
+works by students of the school.
+(ii) RULE OF CONSTRUCTION.—Nothing in this sub-
+paragraph may be construed to require the applicable
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00018 Fmt 6659 Sfmt 6603 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+17
+school, school board, local educational agency, or other
+authority to track an individual website, online appli-
+cation, or mobile application that a student is attempt-
+ing to access (or any search terms used by, or the
+browsing history of a student) beyond the identity of
+the website or application and whether access to the
+website or application is blocked by a technology pro-
+tection measure because the website or application is a
+social media platform.
+(C) TIMING OF IMPLEMENTATION.—
+(i) IN GENERAL.—In the case of a school to which this
+paragraph applies, the certification under this para-
+graph shall be made—
+(I) with respect to the first program funding year
+under section 254(h) after the date of enactment of
+the Eyes on the Board Act of 2025, not later than
+120 days after the beginning of that program fund-
+ing year; and
+(II) with respect to any subsequent funding year,
+as part of the application process for that program
+funding year.
+(ii) PROCESS.—
+(I) SCHOOLS WITH MEASURES IN PLACE.—A
+school covered by clause (i) that has in place meas-
+ures meeting the requirements necessary for certifi-
+cation under this paragraph shall certify its com-
+pliance with this paragraph during each annual
+program application cycle under section 254(h), ex-
+cept that, with respect to the first program funding
+year after the date of enactment of the Eyes on the
+Board Act of 2025, the certification shall be made
+not later than 120 days after the beginning of that
+first program funding year.
+(II) SCHOOLS WITHOUT MEASURES IN PLACE.—
+(aa) FIRST 2 PROGRAM YEARS.—A school cov-
+ered by clause (i) that does not have in place
+measures meeting the requirements for certifi-
+cation under this paragraph—
+(AA) for the first program year after the
+date of enactment of the Eyes on the
+Board Act of 2025 in which the school is
+applying for funds under section 254(h),
+shall certify that the school is undertaking
+such actions, including any necessary pro-
+curement procedures, to put in place
+measures meeting the requirements for
+certification under this paragraph; and
+(BB) for the second program year after
+the date of enactment of the Eyes on the
+Board Act of 2025 in which the school is
+applying for funds under section 254(h),
+shall certify that the school is in compli-
+ance with this paragraph.
+(bb) SUBSEQUENT PROGRAM YEARS.—Any
+school that is unable to certify compliance
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00019 Fmt 6659 Sfmt 6603 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+18
+with such requirements in such second pro-
+gram year shall be ineligible for services at
+discount rates or funding in lieu of services at
+such rates under section 254(h) for such sec-
+ond year and all subsequent program years
+under section 254(h), until such time as such
+school comes into compliance with this para-
+graph.
+(III) WAIVERS.—Any school subject to subclause
+(II) that cannot come into compliance with sub-
+paragraph (B) in such second program year may
+seek a waiver of subclause (II)(aa)(BB) if State or
+local procurement rules or regulations or competi-
+tive bidding requirements prevent the making of
+the certification otherwise required by such sub-
+clause. A school, school board, local educational
+agency, or other authority with responsibility for
+administration of the school shall notify the Com-
+mission of the applicability of such subclause to
+the school. Such notice shall certify that the school
+in question will be brought into compliance before
+the start of the third program year after the date
+of enactment of the Eyes on the Board Act of 2025
+in which the school is applying for funds under
+
+Section 19:
+section 254(h).
+(D) NONCOMPLIANCE.—
+(i) FAILURE TO SUBMIT CERTIFICATION.—Any school
+that knowingly fails to comply with the application
+guidelines regarding the annual submission of a cer-
+tification required by this paragraph shall not be eligi-
+ble for services at discount rates or funding in lieu of
+services at such rates under section 254(h).
+(ii) FAILURE TO COMPLY WITH CERTIFICATION.—Any
+school that knowingly fails to ensure the use of its sup-
+ported services, devices, and networks is in accordance
+with a certification under subparagraph (B) shall re-
+imburse any funds and discounts received under sec-
+tion 254(h) for the period covered by such certification.
+(iii) REMEDY OF NONCOMPLIANCE.—
+(I) FAILURE TO SUBMIT.—A school that has
+failed to submit a certification under clause (i)
+may remedy the failure by submitting the certifi-
+cation to which the failure relates. Upon submittal
+of such certification, the school shall be eligible for
+services at discount rates under section 254(h).
+(II) FAILURE TO COMPLY.—A school that has
+failed to comply with a certification as described in
+clause (ii) may remedy the failure by ensuring that
+the use of its supported services, devices, and net-
+works is in accordance with such certification.
+Upon submittal to the Commission of a certifi-
+cation or other appropriate evidence of such rem-
+edy, the school shall be eligible for services at dis-
+count rates under section 254(h).
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00020 Fmt 6659 Sfmt 6603 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+19
+(E) RULE OF CONSTRUCTION.—Nothing in this paragraph
+may be construed to consider a school, school board, local
+educational agency, or other authority with responsibility
+for the administration of a school in violation of this para-
+graph, or subject to a delay in the processing of funding ap-
+plications or requests for reimbursement, if that school,
+school board, local educational agency, or other authority
+makes a good faith effort to comply with this paragraph
+and to correct a known violation of this paragraph within
+a reasonable period of time.
+(3) ENFORCEMENT.—
+(A) IN GENERAL.—The Commission shall—
+(i) not later than 120 days after the date of enact-
+ment of the Eyes on the Board Act of 2025, amend the
+rules of the Commission to carry out this subsection;
+and
+(ii) subject to subparagraph (B), enforce this sub-
+
+Section 20:
+section, and any rules issued under this subsection, as
+if this subsection and those rules were part of the Com-
+munications Act of 1934 (47 U.S.C. 151 et seq.) or the
+rules issued under that Act.
+(B) LIMITATIONS.—
+(i) NONCOMPLIANCE DESPITE GOOD FAITH EFFORTS.—
+The Commission may not seek recovery of funding pro-
+vided under section 254(h), or delay the processing of
+a funding application, because of the violation by a
+school, school board, local educational agency, or other
+authority with responsibility for administration of the
+school of any requirement of this subsection, or any
+rule issued under this subsection, if the school, school
+board, local educational agency, or other authority
+with responsibility for administration of the school
+made a good faith effort to comply with that require-
+ment and correct any known violations of that require-
+ment within a reasonable period of time.
+(ii) NONCOMPLIANCE WITHOUT GOOD FAITH EF-
+FORTS.—With respect to any violation of a requirement
+of this subsection, or any rule issued under this sub-
+
+Section 21:
+section, in which a school, school board, local edu-
+cational agency, or other authority with responsibility
+for administration of the school does not make a good
+faith effort to comply with that requirement, or does
+not correct any known violation of that requirement
+within a reasonable period of time, the Commission
+shall seek recovery of the funding provided to the
+school under section 254(h) for such period consistent
+with the remedy established under paragraph
+(2)(D)(iii).
+(4) EXEMPTION FOR CERTAIN LIBRARIES.—Nothing in this sub-
+
+Section 22:
+section may be construed to require a library (as defined in sec-
+tion 213 of the Museum and Library Services Act (20 U.S.C.
+9122)), except a library of an elementary or secondary school,
+to comply with the requirements of this subsection or any rule
+issued under this subsection.
+ø(f)¿(g) REGULATIONS.—
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00021 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+20
+(1) REQUIREMENT.—The Federal Communications Commis-
+sion shall prescribe regulations for purposes of administering
+the provisions of paragraphs (5) and (6) of section 254(h) of the
+Communications Act of 1934, as amended by this section.
+(2) DEADLINE.—Notwithstanding any other provision of law,
+the Commission shall prescribe regulations under paragraph
+(1) so as to ensure that such regulations take effect 120 days
+after the date of the enactment of this Act.
+ø(g)¿(h) AVAILABILITY OF CERTAIN FUNDS FOR ACQUISITION OF
+TECHNOLOGY PROTECTION MEASURES.—
+(1) IN GENERAL.—Notwithstanding any other provision of
+law, funds available under section 3134 or part A of title VI
+of the Elementary and Secondary Education Act of 1965, or
+under section 231 of the Library Services and Technology Act,
+may be used for the purchase or acquisition of technology pro-
+tection measures that are necessary to meet the requirements
+of this title and the amendments made by this title. No other
+sources of funds for the purchase or acquisition of such meas-
+ures are authorized by this title, or the amendments made by
+this title.
+(2) TECHNOLOGY PROTECTION MEASURE DEFINED.—In this
+
+Section 23:
+section, the term ‘‘technology protection measure’’ has the
+meaning given that term in section 1703.
+ø(h)¿(i) EFFECTIVE DATE.—The amendments made by this section
+shall take effect 120 days after the date of the enactment of this
+Act.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00022 Fmt 6659 Sfmt 6611 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+
+================================================================================
+
+Raw Text:
+1
+Calendar No. 108
+119THCONGRESS
+" SENATE !
+REPORT
+1st Session 119–33
+KIDS OFF SOCIAL MEDIA ACT
+R E P O R T
+OFTHE
+COMMITTEE ON COMMERCE, SCIENCE, AND
+TRANSPORTATION
+ON
+S. 278
+JUNE 30, 2025.—Ordered to be printed
+U.S. GOVERNMENT PUBLISHING OFFICE
+59–010 WASHINGTON : 2025
+VerDate Sep 11 2014 00:30 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD 31#.ssergnoc
+
+SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION
+ONE HUNDRED NINETEENTH CONGRESS
+FIRST SESSION
+TED CRUZ, Texas, Chairman
+JOHNTHUNE,SouthDakota MARIACANTWELL,Washington
+ROGERF.WICKER,Mississippi AMYKLOBUCHAR,Minnesota
+DEBFISCHER,Nebraska BRIANSCHATZ,Hawaii
+JERRYMORAN,Kansas EDWARDJ.MARKEY,Massachusetts
+DANSULLIVAN,Alaska GARYC.PETERS,Michigan
+MARSHABLACKBURN,Tennessee TAMMYBALDWIN,Wisconsin
+TODDYOUNG,Indiana TAMMYDUCKWORTH,Illinois
+TEDBUDD,NorthCarolina JACKYROSEN,Nevada
+ERICSCHMITT,Missouri BENRAYLUJA´N,NewMexico
+JOHNCURTIS,Utah JOHNW.HICKENLOOPER,Colorado
+BERNIEMORENO,Ohio JOHNFETTERMAN,Pennsylvania
+TIMSHEEHY,Montana ANDYKIM,NewJersey
+SHELLEYMOORECAPITO,WestVirginia LISABLUNTROCHESTER,Delaware
+CYNTHIAM.LUMMIS,Wyoming
+BRAD GRANTZ, Majority Staff Director
+LILA HARPER HELMS, Democratic Staff Director
+(II)
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00002 Fmt 5904 Sfmt 5904 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Calendar No. 108
+119THCONGRESS REPORT
+1st Session " SENATE ! 119–33
+KIDS OFF SOCIAL MEDIA ACT
+JUNE30, 2025.—Ordered to be printed
+Mr. CRUZ, from the Committee on Commerce, Science, and
+Transportation, submitted the following
+R E P O R T
+[To accompany S. 278]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Commerce, Science, and Transportation, to
+which was referred the bill (S. 278) to prohibit users who are under
+age 13 from accessing social media platforms, to prohibit the use
+of personalized recommendation systems on individuals under age
+17, and limit the use of social media in schools, having considered
+the same, reports favorably thereon without amendment and rec-
+ommends that the bill do pass.
+PURPOSE OF THE BILL
+The purpose of S. 278 is to require social media companies to im-
+plement a number of policies to protect young users, including re-
+quirements that social media platforms prohibit children under age
+13 from creating or maintaining a social media account and not use
+the personal data of a child or teen to display targeted, personal-
+ized content to such child or teen. It would also require similar pro-
+tections from elementary or secondary schools that receive certain
+Federal funds by requiring them to certify that they block or filter
+access to certain social media platforms on any such school’s feder-
+ally supported services, devices, and networks.
+BACKGROUND AND NEEDS
+Given the prevalence of internet connected devices in our society,
+children are often introduced to social media use at a young age.
+Numerous studies, as well as hearings held before the Committee’s
+Subcommittee on Consumer Protection, Product Safety, and Data
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+2
+Security, document the significant physical and mental health
+harms to children from social media use, as well as safety concerns
+that arise when predators have access to children through their on-
+line accounts and activities.
+Studies have shown a strong relationship between social media
+use and poor mental health, especially among children. From 2019
+to 2021, overall media use among teens and tweens (ages 8 to 12)
+increased by 17 percent, with tweens using screens for 5 hours and
+33 minutes per day and teens using screens for 8 hours and 39
+minutes.1
+The risk of harm from social media continues as children reach
+high school age. The Centers for Disease Control and Prevention’s
+Youth Risk Behavior Survey found that frequent social media use
+among high school students was associated with higher prevalence
+of bullying victimization, persistent feelings of sadness and hope-
+lessness, and thoughts of suicide.2
+A May 2023 advisory by the U.S. Surgeon General stated that up
+to 95 percent of youth between ages 13–17 reported using social
+media, with over a third using it ‘‘almost constantly.’’3 Teens who
+spend more than 3 hours per day on social media face double the
+risk of poor mental health outcomes.4
+A phone-based childhood—predominantly spent on social
+media—has been documented to lead to social awkwardness, re-
+duced self-confidence, a more sedentary childhood, fragmented at-
+tention, disrupted learning, addiction, and social withdrawal.5
+The U.S. Surgeon General has stated there is not enough evi-
+dence to conclude social media is sufficiently safe for children and
+adolescents.6 The Surgeon General cited studies showing that when
+children and teens reduce or eliminate exposure to social media for
+longer than a month it improves mental health.7
+Parents intuitively understand the harms associated with their
+child’s use of social media. For example, a survey conducted by
+Count on Mothers shows that over 90 percent of mothers agree
+that there should be a minimum of age 13 for social media.8
+The Subcommittee on Consumer Protection, Product Safety, and
+Data Security has held a number of hearings to explore harms to
+children and teens caused by social media use.
+On October 2, 2021, the Subcommittee on Consumer Protection,
+Product Safety, and Data Security heard from a whistleblower and
+1Victoria Rideout et al., The Common Sense Census: Media Use by Tweens and Teens, 2021,
+at p. 16, Common Sense Media, 2022 (https://www.commonsensemedia.org/sites/default/files/
+research/report/8-18-census-integrated-report-final-web_0.pdf).
+2Emily Young et al., Frequent Social Media Use and Experiences with Bullying Victimization,
+Persistent Feelings of Sadness or Hopelessness, and Suicide Risk Among High School Students—
+Youth Risk Behavior Survey, United States, 2023, Centers for Disease Control, Morbidity and
+Mortality Weekly, October 10, 2024 (https://www.cdc.gov/mmwr/volumes/73/su/
+su7304a3.htm?s_cid=su7304a3-w).
+3U.S. Department of Health and Human Services, ‘‘Surgeon General Issues New Advisory
+About Effects Social Media Use Has on Youth Mental Health,’’ May 23, 2023 (https://
+www.hhs.gov/about/news/2023/05/23/surgeon-general-issues-new-advisory-about-effects-social-
+media-use-has-youth-mental-health.html).
+4Ibid.
+5Jonathan Haidt, ‘‘End The Phone-Based Childhood Now,’’ The Atlantic, March 13, 2024
+(https://www.theatlantic.com/technology/archive/2024/03/teen-childhood-smartphone-use-men-
+tal-health-effects/677722/).
+6See supra n.4. (https://www.hhs.gov/about/news/2023/05/23/surgeon-general-issues-new-
+advisory-about-effects-social-media-use-has-youth-mental-health.html).
+7Ibid.
+8Count on Mothers, ‘‘Mothers’ Views on the Protecting Kids on Social Media Act,’’ June 2023
+(https://www.countonmothers.org/research#June2023).
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+3
+former Facebook (now Meta) employee who testified that Meta
+prioritized user engagement, which fueled growth and profit, over
+the wellbeing of young users. The witness further testified that
+Meta’s policies, practices, and the extent of its internal research on
+harms to youth on its platforms lack transparency, both to the pub-
+lic and independent researchers.9
+The subcommittee held other hearings on September 30, 2021,10
+October 26, 2021,11 and December 8, 2021,12 to examine how online
+platforms—particularly social media platforms—harm young users.
+These hearings highlighted that algorithmic recommendation sys-
+tems and targeted advertisements push age-inappropriate, poten-
+tially life-threatening content on youth, such as content encour-
+aging dieting and eating disorder behaviors, reckless and dan-
+gerous driving, and viral challenges to perform life-threatening
+stunts. The hearings suggested that external oversight and regula-
+tion may be necessary to ensure the safety of minors online be-
+cause the platforms have failed in doing so on their own.
+S. 278 responds to the concerns that social media platforms have
+not taken appropriate steps to protect children or teens online.
+SUMMARY OF PROVISIONS
+S. 278 would do the following:
+• Require a social media platform to prohibit an individual from
+creating or maintaining an account or profile if the platform
+knows that such individual is a child under the age of 13.
+• Require a social media platform to terminate any existing ac-
+count or profile of a user who the social media platform knows
+is a child.
+• Prohibit a social media platform from using the personal data
+of a child or teen in a personalized recommendation system to
+display content to a user or visitor the platform knows is a
+child or teen.
+• Establish a standard for the Federal Trade Commission (FTC)
+or the attorney general of a State to make a determination as
+to whether a social media platform has knowledge that a user
+is a child or teen.
+• Authorize the FTC to enforce violations of title I of this Act as
+a violation of a rule defining an unfair or deceptive act or prac-
+9Prepared statement of Frances Haugen, submitted to the Senate Committee on Commerce,
+Science, and Transportation, Subcommittee on Consumer Protection, Data Security, and Product
+Safety, for hearing on ‘‘Protecting Kids Online: Testimony from a Facebook Whistleblower,’’
+117th Congress, October 5, 2021 (https://www.commerce.senate.gov/2021/10/protecting
+%20kids%20online:%20testimony%20from%20a%20facebook%20whistleblower).
+10Hearing on ‘‘Protecting Kids Online: Facebook, Instagram, and Mental Health Harms,’’ Sen-
+ate Committee on Commerce, Science, and Transportation, Subcommittee on Consumer Protec-
+tion, Product Safety, and Data Security, 117th Congress, October 5, 2021 (https://
+www.commerce.senate.gov/2021/9/protecting-kids-online-facebook-instagram-and-mental-health-
+harms).
+11Hearing on ‘‘Protecting Kids Online: Snapchat, TikTok, and YouTube,’’ Senate Committee
+on Commerce, Science, and Transportation, Subcommittee on Consumer Protection, Product
+Safety, and Data Security, 117th Congress, October 26, 2021 (https://
+www.commerce.senate.gov/2021/10/protecting-kids-online-snapchat-tiktok-and-youtube).
+12Hearing on ‘‘Protecting Kids Online: Instagram and Reforms for Young Users,’’ Senate Com-
+mittee on Commerce, Science, and Transportation, Subcommittee on Consumer Protection, Prod-
+uct Safety, and Data Security, 117th Congress, December 8, 2021 (https://
+www.commerce.senate.gov/2021/12/protecting-kids-online-instagram-and-reforms-for-young-
+users).
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+4
+tice prescribed under section 18 of the Federal Trade Commis-
+sion Act.13
+• Authorize the attorney general of a State to enforce violations
+of title I of this Act.
+• Preempt any State law, rule, or regulation only to the extent
+that such State law, rule, or regulation conflicts with a provi-
+sion of title I. Clarifies that nothing in title I should be con-
+strued to prohibit a State from enacting a law, rule, or regula-
+tion that provides greater protection to children or teens than
+the protection provided by the provisions of this title.
+• Update the Children’s Internet Protection Act14 to require the
+school, school board, local educational agency, or other author-
+ity with responsibility for administration of an elementary or
+secondary school that is subject to paragraph (5) of section
+254(h) of the Communications Act of 193415 to certify that it
+is enforcing a policy to prevent students from accessing, and
+has in place measures to block or filter, certain social media
+platforms on any such school’s federally supported services, de-
+vices, and networks. Determine that any covered school that is
+unable to certify such compliance is ineligible to receive service
+at discount rates under section 254(h) until such school comes
+into compliance.
+• Require the Federal Communications Commission (FCC) to en-
+force violations of title II of this Act. Limit the FCC from seek-
+ing recovery of funding or delay the processing of a fund appli-
+cation due to a violation of title II if the school, school board,
+local educational agency, or other authority made a good faith
+effort to comply with the requirements in title II and correct
+any known violations of such requirements within a reasonable
+period of time.
+• Require the FCC to establish an easily accessible, public data-
+base that contains each internet safety policy that is required
+to be submitted to the FCC under title II.
+LEGISLATIVE HISTORY
+S. 278 was introduced on January 28, 2025, by Senator Schatz
+(for himself and Senators Cruz, Murphy, Britt, Welch, Budd, King,
+Curtis, Warner, and Fetterman) and was referred to the Committee
+on Commerce, Science, and Transportation of the Senate. On Feb-
+ruary 5, 2025, the Committee met in open Executive Session and,
+by voice vote, ordered S. 278 reported favorably without amend-
+ment.
+ESTIMATED COSTS
+In accordance with paragraph 11(a) of rule XXVI of the Standing
+Rules of the Senate and section 403 of the Congressional Budget
+Act of 1974, the Committee provides the following cost estimate,
+prepared by the Congressional Budget Office:
+1315 U.S.C. 57a.
+1415 U.S.C. 6501 et seq.
+1547 U.S.C. 254(h).
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+5
+The bill would:
+• Prohibit social media platforms from allowing children to
+create accounts and from recommending certain content to
+children or teens based on their personal data
+• Require schools to block access to social media as a condi-
+tion of receiving discounted broadband service through the E-
+Rate program of the Federal Communications Commission
+(FCC)
+• Impose intergovernmental and private-sector mandates
+Estimated budgetary effects would mainly stem from:
+• Increases in spending subject to appropriation for the Fed-
+eral Trade Commission and FCC to implement and enforce the
+bill’s requirements
+• Increases in direct spending and revenues associated with
+administrative costs of the Universal Service Administrative
+Company
+• Increases in civil penalties
+Bill summary: S. 278 would prohibit social media platforms from
+allowing children to create accounts and from recommending cer-
+tain content to children or teens based on their personal data. The
+Federal Trade Commission (FTC) would be required to enforce
+those prohibitions.
+The bill also would require schools to block access to social media
+on school-provided services, networks, and devices as a condition of
+receiving discounted broadband service through the E-Rate pro-
+gram of the Federal Communications Commission (FCC). The FCC
+would be required to enforce that requirement. Finally, S. 278
+would direct the FCC to collect information from schools about
+their Internet safety policies and establish a public database of
+those policies.
+Estimated Federal cost: The estimated costs fall within budget
+function 370 (commerce and housing credit).
+Basis of estimate: CBO assumes that S. 278 will be enacted be-
+fore the end of fiscal year 2025.
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+100.33RS
+ereh
+7 oilof
+tesffo
+tresnI
+
+6
+Spending subject to appropriation: Using information from the
+affected agencies, CBO estimates that implementing S. 278 would
+cost $4 million over the 2025–2030 period; any related spending
+would be subject to the availability of appropriated funds.
+CBO estimates that the FTC would need three additional law-
+yers and technologists in its Bureau of Consumer Protection to en-
+force violations at a cost of about $235,000 per employee in 2025.
+On that basis, and accounting for anticipated inflation, CBO esti-
+mates that it would cost the FTC $4 million over the 2025–2030
+period to implement the requirements in the bill.
+CBO estimates that it would cost the FCC less than $500,000 to
+provide guidance to E-Rate recipients and to establish and main-
+tain the public database. Because the FCC is authorized to collect
+fees each year sufficient to offset the appropriated costs of its regu-
+latory activities, CBO estimates that the net cost to the FCC would
+be negligible, assuming appropriation actions consistent with that
+authority.
+Direct spending and revenues: In total, CBO estimates that en-
+acting S. 278 would increase revenues and direct spending by an
+insignificant amount over the 2025–2035 period.
+The Universal Service Administrative Company (USAC), which
+administers the E-Rate program on behalf of the FCC, already
+oversees compliance with E-Rate policies as part of its normal du-
+ties; therefore, S. 278 would not create substantial new responsibil-
+ities. In addition, CBO expects that many schools already block so-
+cial media access under current policy, and that schools would gen-
+erally comply with the new requirements under the bill. Therefore,
+CBO estimates that any additional costs for USAC to oversee
+schools’ social media policies would be insignificant. Under current
+law, USAC levies assessments on telecommunications carriers to
+fund its operations; the collection of those assessments is recorded
+in the budget as revenue and the spending of those assessments is
+classified as direct spending. On that basis, CBO estimates that
+the increase in the deficit from increases in revenues and direct
+spending would be negligible.
+The bill would authorize the FTC to collect civil monetary pen-
+alties from businesses found in violation of the bill, along with pur-
+suing other remedies. Civil monetary penalties are generally remit-
+ted to the Treasury and recorded as revenues. CBO estimates that
+the additional revenues collected through 2035 would be insignifi-
+cant.
+The extent to which businesses would violate the new rules after
+they go into effect is uncertain. Furthermore, if a business does vio-
+late the new rules and the FTC chooses to proceed with an enforce-
+ment action, the extent to which the agency pursues civil penalties
+versus other remedies is also uncertain, as is the amount of time
+it would take to resolve a case.
+Pay-As-You-Go considerations: The Statutory Pay-As-You-Go Act
+of 2010 establishes budget-reporting and enforcement procedures
+for legislation affecting direct spending or revenues. CBO estimates
+that enacting the bill would increase direct spending and revenues
+by less than $500,000 in every year and over the 2025–2035 period.
+Increase in long-term net direct spending and deficits: CBO esti-
+mates that enacting S. 278 would increase net direct spending by
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+7
+an insignificant amount in all of the four consecutive 10-year peri-
+ods beginning in 2036.
+CBO estimates that enacting S. 278 would not increase on-budg-
+et deficits in any of the four consecutive 10-year periods beginning
+in 2036.
+Mandates: The bill would impose intergovernmental and private-
+sector mandates as defined in the Unfunded Mandates Reform Act
+(UMRA). CBO estimates that the total cost of those mandates
+would not exceed the thresholds established in UMRA for intergov-
+ernmental and private-sector mandates ($103 million and $206 mil-
+lion in 2025, respectively, adjusted annually for inflation).
+S. 278 would impose an intergovernmental mandate by pre-
+empting state laws governing access to social media platforms for
+people under the age of 17. Although the preemption would limit
+the application of state laws, it would impose no duty on state gov-
+ernments that would result in additional spending or loss of rev-
+enue.
+The bill would impose private-sector mandates by prohibiting so-
+cial media platforms from allowing children under the age of 13 to
+create and maintain accounts. Social media platforms also would
+be required to delete those accounts and supply a copy, upon re-
+quest, of the personal data of that child user. In addition, social
+media platforms would be prohibited from using automated sys-
+tems to promote content based on personal data for people under
+the age of 17. The incremental cost of the mandates would be small
+because social media platforms already voluntarily comply, or their
+current business practices would allow the platforms to easily com-
+ply with provisions of the bill.
+If the FCC increases annual fee collections to offset the costs of
+implementing provisions in the bill, S. 278 would increase the cost
+of an existing private-sector mandate on entities required to pay
+those fees. CBO estimates that the incremental cost of the mandate
+would be small.
+Estimate prepared by: Federal costs: David Hughes; Mandates:
+Rachel Austin.
+Estimate reviewed by: Justin Humphrey, Chief, Finance, Hous-
+ing, and Education Cost Estimates Unit; Kathleen FitzGerald,
+Chief, Public and Private Mandates Unit; H. Samuel Papenfuss,
+Deputy Director of Budget Analysis.
+Estimate approved by: Phillip L. Swagel, Director, Congressional
+Budget Office.
+REGULATORY IMPACT STATEMENT
+In accordance with paragraph 11(b) of rule XXVI of the Standing
+Rules of the Senate, the Committee provides the following evalua-
+tion of the regulatory impact of the legislation, as reported:
+NUMBER OF PERSONS COVERED
+Title I of S. 278 would cover the following entities and any em-
+ployees retained by them: (1) Social media platforms; (2) the FTC;
+and (3) State attorneys general.
+Title II of S. 278 would cover all elementary or secondary schools
+that are subject to paragraph (5) of section 254(h) of the Commu-
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+8
+nications Act of 193416 and receive services at discount rates under
+section 254(h).
+ECONOMIC IMPACT
+S. 278’s primary economic impact would be from costs to or
+changes in revenue for social media platforms that result from: (1)
+prohibiting children from creating or maintaining a social media
+account or profile, or (2) prohibiting use of personal data of a child
+or teen in a personalized recommendation system to display con-
+tent to such child or teen.
+Further, S. 278 may have an economic impact on elementary or
+secondary schools due to the cost of acquiring new or extending ex-
+isting legally required technology protection measures, such as
+internet firewalls, to prohibit student access to certain social media
+platforms on any federally supported service, device, or network.
+Should schools not comply, they could also lose funding currently
+supported through FCC’s programs.
+PRIVACY
+S. 278 is expected to strengthen the privacy of children online.
+It does so by: (1) prohibiting social media companies from permit-
+ting children under 13 years of age from creating or maintaining
+a social media account and (2) prohibiting the use of a child or
+teen’s personal data in a personalized recommendation system to
+display content to such child or teen.
+PAPERWORK
+Title I of S. 278 is not expected to generate any additional paper-
+work. Title II of S. 278 would have minimal impact on paperwork
+for elementary or secondary schools. Paperwork would be limited
+to providing, as a condition of receiving funding under section
+254(h) of the Communications Act,17 the necessary certifications
+and screen use policies for parents to the FCC to demonstrate com-
+pliance with the requirements of title II.
+CONGRESSIONALLY DIRECTED SPENDING
+In compliance with paragraph 4(b) of rule XLIV of the Standing
+Rules of the Senate, the Committee provides that no provisions
+contained in the bill, as reported, meet the definition of congres-
+sionally directed spending items under the rule.
+SECTION-BY-SECTION ANALYSIS
+Section 1. Short title; table of contents.
+This section would provide that the bill may be cited as the ‘‘Kids
+Off Social Media Act’’, and it would include a table of contents.
+1647 U.S.C. 254(h).
+17Ibid.
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+9
+TITLE I—KIDS OFF SOCIAL MEDIA ACT
+Section 101. Short title.
+This section would provide that title I may be cited as the ‘‘Kids
+Off Social Media Act’’.
+Section 102. Definitions.
+This section would define the term ‘‘personalized recommenda-
+tion system’’ to mean a fully or partially automated system used
+to suggest, promote, or rank content, including other users or posts,
+based on the personal data of users; the term ‘‘child’’ to mean an
+individual under the age of 13; the term ‘‘Commission’’ to mean the
+Federal Trade Commission; the terms ‘‘know’’ and ‘‘knows’’ to mean
+to have actual knowledge or knowledge fairly implied on the basis
+of objective circumstances; the term ‘‘personal data’’ to mean the
+term ‘‘personal information’’ as defined in section 1302 of the Chil-
+dren’s Online Privacy Protection Act; the term ‘‘social media plat-
+form’’ to mean a public-facing website, online service, online appli-
+cation, or mobile application that (1) is directed to consumers, (2)
+collects personal data, (3) primarily derives revenue from the ad-
+vertising or the sale of personal data, and (4) as its primary func-
+tion provides a community forum for user-generated content, in-
+cluding messages, videos, and audio files among users where such
+content is primarily intended for viewing, resharing, or platform-
+enabled distributed social endorsement or comment. This section
+also contains a number of express limitations to the scope of the
+term ‘‘social media platform’’. This section would further define the
+term ‘‘teen’’ to mean an individual over the age of 12 and under the
+age of 17 and the term ‘‘user’’ to mean, with respect to a social
+media platform, an individual who registers an account or creates
+a profile on the social media platform.
+Section 103. No children under 13.
+This section would prohibit a social media platform from permit-
+ting an individual to create or maintain an account or profile on
+such social media platform if it knows that the individual is a
+child. This section would further require a social media platform to
+terminate any existing account or profile of a user who the social
+media platform knows is a child.
+For any accounts or profiles of a child deleted in accordance with
+this section, a social media platform would be required to delete all
+personal data collected from the user or submitted by the user to
+the platform. Such deletion would need to take place after the plat-
+form provides the user of such existing account or profile with the
+opportunity to request and receive a copy of the user’s personal
+data within 90 days after the platform terminates such account or
+profile.
+Section 104. Prohibition on the use of personalized recommendation
+systems on children or teens.
+This section would prohibit a social media platform from using
+a user or visitor’s personal data in a personalized recommendation
+system to display content if the platform knows that the user is a
+child or teen. This section would provide exceptions to allow for the
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+10
+use of the following categories of personal data in a personalized
+recommendation system:
+• The type of device used by the child or teen.
+• The languages used by the child or teen to communicate.
+• The city or town in which the child or teen is located.
+• The fact that the individual is a child or teen.
+• The age of the child or teen.
+This section would also include a rule of construction. This sec-
+tion could not be construed to prevent a child or teen from delib-
+erately or independently requesting content so long as such results
+are not based on the personal data of the child or teen. Social
+media platforms would also not be prevented from taking measures
+to stop unlawful or obscene material, block or filter spam or protect
+the security of a platform, or prevent criminal activity. This section
+could also not be construed to prohibit a social media platform from
+displaying content that a teen account holder has selected, fol-
+lowed, or subscribed to, provided that such display is in chrono-
+logical format.
+Section 105. Determination of whether an operator has knowledge
+fairly implied on the basis of objective circumstances that an in-
+dividual is a child or teen.
+This section would provide that for purposes of this title, in mak-
+ing a determination of whether a social media platform has knowl-
+edge fairly implied on the basis of objective circumstances that a
+user is a child or teen, the FTC or the attorney general of a State,
+as applicable, shall rely on competent and reliable evidence, taking
+into account the totality of circumstances, including whether a rea-
+sonable and prudent person under the circumstances would have
+known that the user is a child or teen.
+Such determination shall not be construed to require a social
+media platform to implement an age gating or age verification
+functionality or affirmatively collect any personal data with respect
+to the age of users that the social media platform is not already
+collecting in the normal course of business.
+By adopting this determination, a social media platform would
+no longer be able to rely only on self-reporting or self-attestation
+of age submitted by a user, nor would a social media company be
+able to ignore objective facts indicating that a user is a child.
+Further, this section would provide that if any social media plat-
+form or party acting on the platform’s behalf voluntarily collects
+personal data to comply with this title, the platform or party shall
+not use such data for any purpose other than sole compliance with
+this title or retain any personal data collected for longer than nec-
+essary to comply with the obligations under this title or minimally
+necessary to demonstrate compliance with this title.
+Section 106. Enforcement.
+This section would provide that the FTC shall enforce violations
+of this title as violations of a rule defining an unfair or deceptive
+act or practice prescribed under section 18(a)(1)(B) of the Federal
+Trade Commission Act.18
+1815 U.S.C. 57a.
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+11
+This section would further provide that the attorney general of
+a State may, subject to the requirements in this title, bring a civil
+action against a social media platform for violations of this title
+committed against the residents of the applicable State.
+Section 107. Relationship to other laws.
+This section would state that the provisions of this title shall pre-
+empt any State law, rule, or regulation only to the extent that such
+State law, rule, or regulation conflicts with a provision of this title.
+It would also clarify that nothing in this title shall be construed to
+prohibit a State from enacting a law, rule, or regulation that pro-
+vides greater protection to children or teens than the protection
+provided by the provisions of this title.
+Section 108. Effective date.
+This section would provide that this title shall take effect 1 year
+after the date of enactment of this Act.
+TITLE II—EYES ON THE BOARD ACT OF 2025
+Section 201. Short title.
+This section would provide that title II may be cited as the ‘‘Eyes
+on the Board Act of 2025’’.
+Section 202. Updating the children’s internet protection act to in-
+clude social media platforms.
+This section would expand the Children’s Internet Protection Act
+to require schools to certify that they are enforcing a policy to pre-
+vent students from accessing, and have in place measures to block
+or filter students’ access to certain social media platforms on feder-
+ally supported services, devices, and networks, as a condition of re-
+ceiving services at discount rates under section 254(h) of the Com-
+munications Act of 1934.19
+It would further clarify that these requirements do not prohibit
+district-sanctioned or school-sanctioned learning management sys-
+tems and school information systems used for purposes of con-
+veying content related to the education of students; or teachers
+from using a social media platform for educational instruction.
+Finally, this section would clarify that the FCC may not seek re-
+covery of funding or delay the processing of a fund application from
+a school due to a violation of this title if the school, school board,
+local educational agency, or other authority made a good faith ef-
+fort to comply with the requirements in this title and correct any
+known violations of such requirements within a reasonable period
+of time.
+Section 203. Internet safety policies.
+This section would require elementary or secondary schools that
+receive Federal funding under section 254(h) of the Communica-
+tions Act of 1934 to submit copies of their internet safety policies
+to the FCC, to be made available in an easily accessible, public
+database.
+1947 U.S.C. 254(h).
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+12
+TITLE III—SEVERABILITY
+Section 301. Severability.
+This section would establish that if any provision of this Act, or
+amendment made by this Act, is determined to be unenforceable or
+invalid, the remaining provision of this Act and the amendments
+made by this Act shall not be affected.
+CHANGES IN EXISTING LAW
+In compliance with paragraph 12 of rule XXVI of the Standing
+Rules of the Senate, changes in existing law made by the bill, as
+reported, are shown as follows (existing law proposed to be omitted
+is enclosed in black brackets, new material is printed in italic, ex-
+isting law in which no change is proposed is shown in roman):
+COMMUNICATIONS ACT OF 1934
+* * * * * * *
+[47 U.S.C. 254]
+SEC. 254. UNIVERSAL SERVICE.
+(a) * * *
+* * * * * * *
+(h) TELECOMMUNICATIONS SERVICES FOR CERTAIN PROVIDERS.—
+(1) * * *
+* * * * * * *
+(5) REQUIREMENTS FOR CERTAIN SCHOOLS WITH COMPUTERS
+HAVING INTERNET ACCESS.—
+(A) INTERNET SAFETY.—
+(i) IN GENERAL.—Except as provided in clause (ii),
+an elementary or secondary school having computers
+with Internet access may not receive services at dis-
+count rates under paragraph (1)(B) unless the school,
+school board, local educational agency, or other au-
+thority with responsibility for administration of the
+school—
+(I) submits to the Commission the certifications
+described in subparagraphs (B) and (C) and copies
+of the Internet safety policy to which each such cer-
+tification pertains;
+(II) submits to the øCommission a certification
+that an Internet safety policy has been adopted
+and implemented for the school under subsection
+(l); and¿ Commission—
+(aa) a certification that an Internet safety
+policy described in subclause (I) have been
+adopted and implemented for the school; and
+(bb) copies of the Internet safety policy de-
+scribed in item (aa); and
+* * * * * * *
+(E) TIMING OF IMPLEMENTATION.—
+(i) IN GENERAL.—Subject to clause (ii) in the case of
+any school covered by this paragraph as of the effec-
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00014 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+13
+tive date of this paragraph under section ø1721(h)¿
+1721(i) of the Children’s Internet Protection Act, the
+certification under subparagraphs (B) and (C) shall be
+made—
+(I) * * *
+(II) * * *
+(ii) PROCESS.—
+(I) SCHOOLS WITH INTERNET SAFETY POLICY AND
+TECHNOLOGY PROTECTION MEASURES IN PLACE.—A
+school covered by clause (i) that has in place an
+Internet safety policy and technology protection
+measures meeting the requirements necessary for
+certification under subparagraphs (B) and (C)
+shall certify its compliance with subparagraphs
+(B) and (C) during each annual program applica-
+tion cycle under this subsection, except that with
+respect to the first program funding year after the
+effective date of this paragraph under section
+ø1721(h)¿ 1721(i) of the Children’s Internet Pro-
+tection Act, the certifications shall be made not
+later than 120 days after the beginning of such
+first program funding year.
+(II) * * *
+(III) * * *
+(F) * * *
+(6) REQUIREMENTS FOR CERTAIN LIBRARIES WITH COMPUTERS
+HAVING INTERNET ACCESS.—
+(A) * * *
+* * * * * * *
+(E) TIMING OF IMPLEMENTATION.—
+(i) IN GENERAL.—Subject to clause (ii) in the case of
+any library covered by this paragraph as of the effec-
+tive date of this paragraph under section ø1721(h)¿
+1721(i) of the Children’s Internet Protection Act, the
+certification under subparagraphs (B) and (C) shall be
+made—
+(I) * * *
+(II) * * *
+(ii) PROCESS.—
+(I) LIBRARIES WITH INTERNET SAFETY POLICY
+AND TECHNOLOGY PROTECTION MEASURES IN
+PLACE.—A library covered by clause (i) that has in
+place an Internet safety policy and technology pro-
+tection measures meeting the requirements nec-
+essary for certification under subparagraphs (B)
+and (C) shall certify its compliance with subpara-
+graphs (B) and (C) during each annual program
+application cycle under this subsection, except
+that with respect to the first program funding
+year after the effective date of this paragraph
+under section ø1721(h)¿ 1721(i) of the Children’s
+Internet Protection Act, the certifications shall be
+made not later than 120 days after the beginning
+of such first program funding year.
+(II) * * *
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00015 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+14
+(III) * * *
+(F) * * *
+(G) DATABASE OF INTERNET SAFETY POLICIES.—The Com-
+mission shall establish an easily accessible, public database
+that contains each Internet safety policy submitted to the
+Commission under subclauses (I) and (II) of subparagraph
+(A)(i).
+* * * * * * *
+(l) INTERNET SAFETY POLICY REQUIREMENT FOR SCHOOLS AND LI-
+BRARIES.—
+(1) * * *
+(2) * * *
+ø(3) AVAILABILITY FOR REVIEW.—Each Internet safety policy
+adopted under this subsection shall be made available to the
+Commission, upon request of the Commission, by the school,
+school board, local educational agency, library, or other author-
+ity responsible for adopting such Internet safety policy for pur-
+poses of the review of such Internet safety policy by the Com-
+mission.¿
+(3) AVAILABILITY FOR REVIEW.—A copy of each Internet safety
+policy adopted by a library under this subsection shall be made
+available to the Commission, upon request of the Commission,
+by the library for purposes of the review of the Internet safety
+policy by the Commission.
+(4) * * *
+* * * * * * *
+CONSOLIDATED APPROPRIATIONS ACT,
+2001
+[Public Law 106–554]
+* * * * * * *
+TITLE XVII—CHILDREN’S INTERNET
+PROTECTION
+[Children’s Internet Protection Act]
+* * * * * * *
+Subtitle B—Universal Service Discounts
+SEC. 1721. REQUIREMENT FOR SCHOOLS AND LIBRARIES TO ENFORCE
+INTERNET SAFETY POLICIES WITH TECHNOLOGY PRO-
+TECTION MEASURES FOR COMPUTERS WITH INTERNET
+ACCESS AS CONDITION OF UNIVERSAL SERVICE DIS-
+COUNTS.
+(a) * * *
+* * * * * * *
+(e) * * *
+(f) LIMITATION ON USE OF SCHOOL BROADBAND SUBSIDIES FOR
+ACCESS TO SOCIAL MEDIA PLATFORMS.—
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00016 Fmt 6659 Sfmt 6603 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+15
+(1) DEFINITIONS.—In this subsection:
+(A) COMMISSION.—The term ‘‘Commission’’ means the
+Federal Communications Commission.
+(B) SECTION 254(H).—The term ‘‘section 254(h)’’ means
+section 254(h) of the Communications Act of 1934 (47
+U.S.C. 254(h)).
+(C) SOCIAL MEDIA PLATFORM.—The term ‘‘social media
+platform’’—
+(i) means any website, online service, online applica-
+tion, or mobile application that—
+(I) serves the public; and
+(II) primarily provides a forum for users to com-
+municate user-generated content, including mes-
+sages, videos, images, and audio files, to other on-
+line users; and
+(ii) does not include—
+(I) an internet service provider;
+(II) electronic mail;
+(III) an online service, application, or website—
+(aa) that consists primarily of content that
+is not user-generated, but is preselected by the
+provider; and
+(bb) for which any chat, comment, or inter-
+active functionality is incidental to, directly re-
+lated to, or dependent on the provision of con-
+tent described in item (aa);
+(IV) an online service, application, or website—
+(aa) that is non-commercial and primarily
+designed for educational purposes; and
+(bb) the revenue of which is not primarily
+derived from advertising or the sale of per-
+sonal data;
+(V) a wireless messaging service, including such
+a service provided through a short messaging serv-
+ice or multimedia service protocols—
+(aa) that is not a component of, or linked to,
+a website, online service, online application, or
+mobile application described in clause (i); and
+(bb) the predominant or exclusive function of
+which is direct messaging consisting of the
+transmission of text, photos, or videos that—
+(AA) are sent by electronic means from
+the sender to a recipient; and
+(BB) are not posted publicly or on a
+website, online service, online application,
+or mobile application described in clause
+(i);
+(VI) a teleconferencing or video conferencing
+service that allows for the reception and trans-
+mission of audio or video signals for real-time
+communication that is initiated by using a unique
+link or identifier to facilitate access;
+(VII) a product or service that primarily func-
+tions as business-to-business software or a cloud
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00017 Fmt 6659 Sfmt 6603 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+16
+storage, file sharing, or file collaboration service;
+or
+(VIII) an organization that is not organized to
+carry on business for the profit of the organization
+or of the members of the organization.
+(D) TECHNOLOGY PROTECTION MEASURE.—The term ‘‘tech-
+nology protection measure’’ means a specific technology that
+blocks or filters access to a social media platform.
+(2) REQUIREMENTS WITH RESPECT TO SOCIAL MEDIA PLAT-
+FORMS.—
+(A) IN GENERAL.—
+(i) CERTIFICATION REQUIRED.—An elementary or sec-
+ondary school that is subject to paragraph (5) of sec-
+tion 254(h) may not receive services at discount rates
+under section 254(h) unless the school, school board,
+local educational agency, or other authority with re-
+sponsibility for administration of the school—
+(I) submits to the Commission the certification
+described in subparagraph (B); and
+(II) ensures that the use of the school’s supported
+services, devices, and networks is in accordance
+with the certification described in subclause (I).
+(ii) RULE OF CONSTRUCTION.—Nothing in clause (i)
+may be construed to prohibit—
+(I) district-sanctioned or school-sanctioned learn-
+ing management systems and school information
+systems used for purposes of schools conveying con-
+tent related to the education of students; or
+(II) a teacher from using a social media platform
+for educational instruction.
+(B) CERTIFICATION WITH RESPECT TO STUDENTS AND SO-
+CIAL MEDIA.—
+(i) IN GENERAL.—A certification under this subpara-
+graph is a certification that the applicable school,
+school board, local educational agency, or other author-
+ity with responsibility for administration of the
+school—
+(I) is enforcing a policy of preventing students of
+the school from accessing social media platforms
+on any supported service, device, or network that
+includes—
+(aa) monitoring the online activities of any
+such service, device, or network to determine if
+those students are accessing social media plat-
+forms; and
+(bb) the operation of a technology protection
+measure with respect to those services, devices,
+and networks that protects against access by
+those students to a social media platform; and
+(II) is enforcing the operation of the technology
+protection measure described in subclause (I) dur-
+ing any use of supported services, devices, or net-
+works by students of the school.
+(ii) RULE OF CONSTRUCTION.—Nothing in this sub-
+paragraph may be construed to require the applicable
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00018 Fmt 6659 Sfmt 6603 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+17
+school, school board, local educational agency, or other
+authority to track an individual website, online appli-
+cation, or mobile application that a student is attempt-
+ing to access (or any search terms used by, or the
+browsing history of a student) beyond the identity of
+the website or application and whether access to the
+website or application is blocked by a technology pro-
+tection measure because the website or application is a
+social media platform.
+(C) TIMING OF IMPLEMENTATION.—
+(i) IN GENERAL.—In the case of a school to which this
+paragraph applies, the certification under this para-
+graph shall be made—
+(I) with respect to the first program funding year
+under section 254(h) after the date of enactment of
+the Eyes on the Board Act of 2025, not later than
+120 days after the beginning of that program fund-
+ing year; and
+(II) with respect to any subsequent funding year,
+as part of the application process for that program
+funding year.
+(ii) PROCESS.—
+(I) SCHOOLS WITH MEASURES IN PLACE.—A
+school covered by clause (i) that has in place meas-
+ures meeting the requirements necessary for certifi-
+cation under this paragraph shall certify its com-
+pliance with this paragraph during each annual
+program application cycle under section 254(h), ex-
+cept that, with respect to the first program funding
+year after the date of enactment of the Eyes on the
+Board Act of 2025, the certification shall be made
+not later than 120 days after the beginning of that
+first program funding year.
+(II) SCHOOLS WITHOUT MEASURES IN PLACE.—
+(aa) FIRST 2 PROGRAM YEARS.—A school cov-
+ered by clause (i) that does not have in place
+measures meeting the requirements for certifi-
+cation under this paragraph—
+(AA) for the first program year after the
+date of enactment of the Eyes on the
+Board Act of 2025 in which the school is
+applying for funds under section 254(h),
+shall certify that the school is undertaking
+such actions, including any necessary pro-
+curement procedures, to put in place
+measures meeting the requirements for
+certification under this paragraph; and
+(BB) for the second program year after
+the date of enactment of the Eyes on the
+Board Act of 2025 in which the school is
+applying for funds under section 254(h),
+shall certify that the school is in compli-
+ance with this paragraph.
+(bb) SUBSEQUENT PROGRAM YEARS.—Any
+school that is unable to certify compliance
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00019 Fmt 6659 Sfmt 6603 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+18
+with such requirements in such second pro-
+gram year shall be ineligible for services at
+discount rates or funding in lieu of services at
+such rates under section 254(h) for such sec-
+ond year and all subsequent program years
+under section 254(h), until such time as such
+school comes into compliance with this para-
+graph.
+(III) WAIVERS.—Any school subject to subclause
+(II) that cannot come into compliance with sub-
+paragraph (B) in such second program year may
+seek a waiver of subclause (II)(aa)(BB) if State or
+local procurement rules or regulations or competi-
+tive bidding requirements prevent the making of
+the certification otherwise required by such sub-
+clause. A school, school board, local educational
+agency, or other authority with responsibility for
+administration of the school shall notify the Com-
+mission of the applicability of such subclause to
+the school. Such notice shall certify that the school
+in question will be brought into compliance before
+the start of the third program year after the date
+of enactment of the Eyes on the Board Act of 2025
+in which the school is applying for funds under
+section 254(h).
+(D) NONCOMPLIANCE.—
+(i) FAILURE TO SUBMIT CERTIFICATION.—Any school
+that knowingly fails to comply with the application
+guidelines regarding the annual submission of a cer-
+tification required by this paragraph shall not be eligi-
+ble for services at discount rates or funding in lieu of
+services at such rates under section 254(h).
+(ii) FAILURE TO COMPLY WITH CERTIFICATION.—Any
+school that knowingly fails to ensure the use of its sup-
+ported services, devices, and networks is in accordance
+with a certification under subparagraph (B) shall re-
+imburse any funds and discounts received under sec-
+tion 254(h) for the period covered by such certification.
+(iii) REMEDY OF NONCOMPLIANCE.—
+(I) FAILURE TO SUBMIT.—A school that has
+failed to submit a certification under clause (i)
+may remedy the failure by submitting the certifi-
+cation to which the failure relates. Upon submittal
+of such certification, the school shall be eligible for
+services at discount rates under section 254(h).
+(II) FAILURE TO COMPLY.—A school that has
+failed to comply with a certification as described in
+clause (ii) may remedy the failure by ensuring that
+the use of its supported services, devices, and net-
+works is in accordance with such certification.
+Upon submittal to the Commission of a certifi-
+cation or other appropriate evidence of such rem-
+edy, the school shall be eligible for services at dis-
+count rates under section 254(h).
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00020 Fmt 6659 Sfmt 6603 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+19
+(E) RULE OF CONSTRUCTION.—Nothing in this paragraph
+may be construed to consider a school, school board, local
+educational agency, or other authority with responsibility
+for the administration of a school in violation of this para-
+graph, or subject to a delay in the processing of funding ap-
+plications or requests for reimbursement, if that school,
+school board, local educational agency, or other authority
+makes a good faith effort to comply with this paragraph
+and to correct a known violation of this paragraph within
+a reasonable period of time.
+(3) ENFORCEMENT.—
+(A) IN GENERAL.—The Commission shall—
+(i) not later than 120 days after the date of enact-
+ment of the Eyes on the Board Act of 2025, amend the
+rules of the Commission to carry out this subsection;
+and
+(ii) subject to subparagraph (B), enforce this sub-
+section, and any rules issued under this subsection, as
+if this subsection and those rules were part of the Com-
+munications Act of 1934 (47 U.S.C. 151 et seq.) or the
+rules issued under that Act.
+(B) LIMITATIONS.—
+(i) NONCOMPLIANCE DESPITE GOOD FAITH EFFORTS.—
+The Commission may not seek recovery of funding pro-
+vided under section 254(h), or delay the processing of
+a funding application, because of the violation by a
+school, school board, local educational agency, or other
+authority with responsibility for administration of the
+school of any requirement of this subsection, or any
+rule issued under this subsection, if the school, school
+board, local educational agency, or other authority
+with responsibility for administration of the school
+made a good faith effort to comply with that require-
+ment and correct any known violations of that require-
+ment within a reasonable period of time.
+(ii) NONCOMPLIANCE WITHOUT GOOD FAITH EF-
+FORTS.—With respect to any violation of a requirement
+of this subsection, or any rule issued under this sub-
+section, in which a school, school board, local edu-
+cational agency, or other authority with responsibility
+for administration of the school does not make a good
+faith effort to comply with that requirement, or does
+not correct any known violation of that requirement
+within a reasonable period of time, the Commission
+shall seek recovery of the funding provided to the
+school under section 254(h) for such period consistent
+with the remedy established under paragraph
+(2)(D)(iii).
+(4) EXEMPTION FOR CERTAIN LIBRARIES.—Nothing in this sub-
+section may be construed to require a library (as defined in sec-
+tion 213 of the Museum and Library Services Act (20 U.S.C.
+9122)), except a library of an elementary or secondary school,
+to comply with the requirements of this subsection or any rule
+issued under this subsection.
+ø(f)¿(g) REGULATIONS.—
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00021 Fmt 6659 Sfmt 6602 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+20
+(1) REQUIREMENT.—The Federal Communications Commis-
+sion shall prescribe regulations for purposes of administering
+the provisions of paragraphs (5) and (6) of section 254(h) of the
+Communications Act of 1934, as amended by this section.
+(2) DEADLINE.—Notwithstanding any other provision of law,
+the Commission shall prescribe regulations under paragraph
+(1) so as to ensure that such regulations take effect 120 days
+after the date of the enactment of this Act.
+ø(g)¿(h) AVAILABILITY OF CERTAIN FUNDS FOR ACQUISITION OF
+TECHNOLOGY PROTECTION MEASURES.—
+(1) IN GENERAL.—Notwithstanding any other provision of
+law, funds available under section 3134 or part A of title VI
+of the Elementary and Secondary Education Act of 1965, or
+under section 231 of the Library Services and Technology Act,
+may be used for the purchase or acquisition of technology pro-
+tection measures that are necessary to meet the requirements
+of this title and the amendments made by this title. No other
+sources of funds for the purchase or acquisition of such meas-
+ures are authorized by this title, or the amendments made by
+this title.
+(2) TECHNOLOGY PROTECTION MEASURE DEFINED.—In this
+section, the term ‘‘technology protection measure’’ has the
+meaning given that term in section 1703.
+ø(h)¿(i) EFFECTIVE DATE.—The amendments made by this section
+shall take effect 120 days after the date of the enactment of this
+Act.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 00:28 Jul 13, 2025 Jkt 059010 PO 00000 Frm 00022 Fmt 6659 Sfmt 6611 E:\HR\OC\SR033.XXX SR033
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD

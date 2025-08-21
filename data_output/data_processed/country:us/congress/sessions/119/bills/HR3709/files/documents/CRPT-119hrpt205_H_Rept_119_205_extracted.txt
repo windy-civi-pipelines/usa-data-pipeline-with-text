@@ -1,0 +1,988 @@
+Title: JULY15, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JULY15, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 14
+Source: documents - H. Rept. 119-205
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–205
+ADVANCING THE MENTOR-PROTE´GE´ PROGRAM FOR
+SMALL FINANCIAL INSTITUTIONS ACT
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+[To accompany H.R. 3709]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 3709) to amend the Financial Institutions Reform, Recov-
+ery, and Enforcement Act of 1989 to establish a Financial Agent
+Mentor-Prote´ge´ Program within the Department of the Treasury,
+and for other purposes, having considered the same, reports favor-
+ably thereon with an amendment and recommends that the bill as
+amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 3
+Committee Consideration ........................................................................................ 3
+Related Hearings ..................................................................................................... 4
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings ............................................................................... 6
+Performance Goals and Objectives ......................................................................... 6
+Committee Cost Estimate ....................................................................................... 6
+New Budget Authority and CBO Cost Estimate ................................................... 6
+Unfunded Mandates Statement .............................................................................. 6
+Earmark Statement ................................................................................................. 6
+Federal Advisory Committee Act Statement ......................................................... 6
+Applicability to the Legislative Branch ................................................................. 7
+Duplication of Federal Programs ............................................................................ 7
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 7
+Changes in Existing Law Made by the Bill, as Reported ..................................... 7
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+2
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Advancing the Mentor-Prote´ge´ Program for Small
+Financial Institutions Act’’.
+SEC. 2. ESTABLISHMENT OF FINANCIAL AGENT MENTOR-PROTE´GE´ PROGRAM.
+(a) IN GENERAL.—Section 308 of the Financial Institutions Reform, Recovery, and
+Enforcement Act of 1989 (12 U.S.C. 1463 note) is amended by adding at the end
+the following new subsection:
+‘‘(d) FINANCIALAGENTMENTOR-PROTE´GE´ PROGRAM.—
+‘‘(1) INGENERAL.—The Secretary of the Treasury shall establish a program to
+be known as the ‘Financial Agent Mentor-Prote´ge´ Program’ (in this subsection
+referred to as the ‘Program’) under which a financial agent designated by the
+Secretary or a large financial institution may serve as a mentor, under guidance
+or regulations prescribed by the Secretary, to a small financial institution to
+allow such small financial institution—
+‘‘(A) to be prepared to perform as a financial agent; or
+‘‘(B) to improve capacity to provide services to the customers of the small
+financial institution.
+‘‘(2) OUTREACH.—The Secretary shall hold outreach events to promote the
+participation of financial agents, large financial institutions, and small financial
+institutions in the Program at least once a year.
+‘‘(3) EXCLUSION.—The Secretary shall issue guidance or regulations to estab-
+lish a process under which a financial agent, large financial institution, or small
+financial institution may be excluded from participation in the Program.
+‘‘(4) REPORT.—The Office of Minority and Women Inclusion of the Department
+of the Treasury shall include in the report submitted to Congress under section
+342(e) of the Dodd-Frank Wall Street Reform and Consumer Protection Act in-
+formation pertaining to the Program, including—
+‘‘(A) the number of financial agents, large financial institutions, and
+small financial institutions participating in such Program; and
+‘‘(B) the number of outreach events described in paragraph (2) held dur-
+ing the year covered by such report.
+‘‘(5) DEFINITIONS.—In this subsection:
+‘‘(A) FINANCIAL AGENT.—The term ‘financial agent’ means any national
+banking association designated by the Secretary of the Treasury to be em-
+ployed as a financial agent of the Government.
+‘‘(B) LARGEFINANCIALINSTITUTION.—The term ‘large financial institution’
+means any entity regulated by the Comptroller of the Currency, the Board
+of Governors of the Federal Reserve System, the Federal Deposit Insurance
+Corporation, or the National Credit Union Administration that has total
+consolidated assets greater than or equal to $50,000,000,000.
+‘‘(C) RURAL DEPOSITORY INSTITUTION.—The term ‘rural depository institu-
+tion’ means a depository institution (as defined in section 3 of the Federal
+Deposit Insurance Act)—
+‘‘(i) with total consolidated assets of less than $10,000,000,000; and
+‘‘(ii) located in a rural area, as defined under section
+
+Section 4:
+1026.35(b)(2)(iv)(A) of title 12, Code of Federal Regulations.
+‘‘(D) SMALL FINANCIAL INSTITUTION.—The term ‘small financial institu-
+tion’ means—
+‘‘(i) any entity regulated by the Comptroller of the Currency, the
+Board of Governors of the Federal Reserve System, the Federal Deposit
+Insurance Corporation, or the National Credit Union Administration
+that has total consolidated assets lesser than or equal to
+$2,000,000,000;
+‘‘(ii) a minority depository institution; or
+‘‘(iii) a rural depository institution.’’.
+(b) EFFECTIVE DATE.—This Act and the amendment made by this Act shall take
+effect 90 days after the date of the enactment of this Act.
+PURPOSE AND SUMMARY
+H.R. 3709, the Advancing the Mentor-Prote´ge´ Program for Small
+Financial Institutions Act, was introduced on June 4, 2025, by Rep-
+resentative Joyce Beatty (OH–03). H.R. 3709 directs the Depart-
+ment of the Treasury to establish a mentor-prote´ge´ program that
+pairs large financial institutions with small, rural, and minority
+depository institutions. The goal is to enhance the capacity of these
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+3
+smaller institutions to serve their customers and potentially act as
+financial agents.
+BACKGROUND AND NEED FOR LEGISLATION
+The Treasury Department’s current mentor-prote´ge´ program, es-
+tablished in 2018, connects the largest banks in the country with
+the smallest financial institutions.1
+This voluntary program fosters relationships between small and
+large banks by expanding the pool of financial agents. Large banks
+partner with smaller institutions to provide managerial and tech-
+nical support, helping them strengthen their balance sheets and
+improve customer services. Areas of support may include credit
+card partnerships, access to capital markets, equity investments,
+loan participations, and opportunities related to U.S. Treasury con-
+tracts.
+COMMITTEE CONSIDERATION
+119TH CONGRESS
+On June 4, 2025, Representative Beatty introduced H.R. 3709,
+the Advancing the Mentor-Prote´ge´ Program for Small Financial In-
+stitutions Act. The bill was referred solely to the Committee on Fi-
+nancial Services. The bill was attached to the June 5, 2025, hear-
+ing titled ‘‘Framework for the Future: Reviewing Data Privacy in
+Today’s Financial System.’’
+On June 10, 2025, the Committee on Financial Services met in
+open session to consider, among others, H.R. 3709. The Committee
+ordered H.R. 3709, as amended, to be reported favorably to the
+House of Representatives.
+118TH CONGRESS
+On February 29, 2024, Representative Beatty introduced H.R.
+7483, the Expanding Opportunity for Minority Depository Institu-
+tions Act, with Representatives Andre´ Carson (D–IN), Troy Carter
+(D–LA), Emanuel Cleaver (D–MO), Sylvia Garcia (D–TX), Al Green
+(D–TX), Sheila Jackson Lee (D–TX), Hank Johnson (D–GA), Bar-
+bara Lee (D–CA), Eleanor Holmes Norton (D–DC), Stacey Plaskett
+(D–VI), Delia Ramirez (D–IL), Jill Tokuda (D–HI), Bonnie Watson
+Coleman (D–NJ), and Nikema Williams (D–GA) as original cospon-
+sors. Representative Gregory Meeks (D–NY) was added subse-
+quently as a cosponsor. This bill is an earlier iteration of H.R.
+
+Section 5:
+3709. The bill was referred solely to the Committee on Financial
+Services.
+117TH CONGRESS
+On June 7, 2022, Representative Beatty introduced H.R. 7953,
+the Expanding Opportunities for Minority Depository Institutions
+Act. This bill is an earlier iteration of H.R. 3709. The bill was re-
+ferred solely to the Committee on Financial Services.
+1U.S. Dep’t of the Treasury, Bureau of the Fiscal Service, Treasury Bank Mentor-Prote´ge´Pro-
+gram, https://fiscal.treasury.gov/treasury-bank-mentor-protege-program/.
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+4
+116TH CONGRESS
+On December 5, 2019, Representative Beatty introduced H.R.
+5315, the Expanding Opportunity for Minority Depository Institu-
+tions Act, with Representatives Meeks, Denny Heck (D–WA),
+Green, and Cleaver as original cosponsors. Representative David
+Scott (D–GA) was added subsequently as a cosponsor. This bill is
+an earlier iteration of H.R. 3709. The bill was referred solely to the
+Committee on Financial Services. On December 11, 2019, the Com-
+mittee on Financial Services ordered H.R. 5315 to be favorably re-
+ported to the House of Representatives by a recorded vote of 57
+yeas and 0 nays. On January 13, 2020, the House suspended the
+rules and passed H.R. 5315 by voice vote. It was received in the
+Senate and referred to the Senate Committee on Banking, Housing,
+and Urban Affairs.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+3709:
+The Financial Institutions Subcommittee of the Committee on Fi-
+nancial Services held a June 5, 2025, hearing titled ‘‘Framework
+for the Future: Reviewing Data Privacy in Today’s Financial Sys-
+tem.’’ A discussion draft version of the bill was attached to the
+hearing. The following witnesses testified at the hearing: Mr. Scott
+Talbott, Executive Vice President, Electronic Transactions Associa-
+tion; Mr. Andrew Morris, Director of Innovation and Technology,
+America’s Credit Unions; Ms. Rebecca Kuehn, Partner, Hudson
+Cook, LLP; Ms. Jennnifer Huddleston, Fellow in Technology Policy,
+Cato Institute; and Ms. Zoe Strickland, Senior Fellow, Future of
+Privacy Forum.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for On June
+10, 2025, the Committee ordered H.R. 3709, as amended, to be re-
+ported favorably to the House by a recorded vote of 50 yeas and
+1 nay, a quorum being present. (Record Vote No. FC–141).
+Before the question to report was called, the Committee adopted
+an amendment in the nature of a substitute, designated
+Beatty_013, which made minor edits and technical changes, offered
+by Representative Beatty. The amendment was adopted by voice
+vote, a quorum being present.
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+5
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+Section 6:
+100.502RH
+ereh
+6
+oilof
+tesffo
+tresnI
+6
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 3709 is to establish a mentor-
+prote´ge´ program pairing large financial institutions with small,
+rural, and minority depository institutions to enhance their capac-
+ity to serve customers.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 3709. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of rule XIII of the Rules of the House of Representatives,
+the Committee will adopt as its own the cost estimate by the Direc-
+tor of the Congressional Budget Office once it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+7
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+
+Section 7:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 8:
+Section 1. Short title
+
+Section 9:
+Section 1 provides the short title is the ‘‘Advancing the Mentor-
+Prote´ge´ Program for Small Financial Institutions Act.’’
+
+Section 10:
+Section 2. Establishment of Financial Agent Mentor-Prote´ge´ Pro-
+gram
+
+Section 11:
+Section 2 amends Section 308 of the Financial Institutions Re-
+form, Recovery, and Enforcement Act of 1989 to establish the Fi-
+nancial Agent Mentor-Prote´ge´ Program within the Department of
+the Treasury. The program enables large financial institutions or
+designated financial agents to mentor small financial institutions
+to enhance their capacity to serve customers or prepare to act as
+financial agents. The section also requires annual outreach events,
+sets criteria for exclusion from the program, mandates annual re-
+porting to Congress, and defines key terms including ‘‘small finan-
+cial institution,’’ ‘‘large financial institution,’’ and ‘‘financial agent.’’
+
+Section 12:
+Section 3. Effective date
+
+Section 13:
+Section 3 specifies that the Act and its amendments shall take
+effect 90 days after the date of enactment.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+FINANCIAL INSTITUTIONS REFORM, RECOVERY, AND
+ENFORCEMENT ACT OF 1989
+* * * * * * *
+TITLE III—SAVINGS ASSOCIATIONS
+* * * * * * *
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6601 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+8
+SEC. 308. PRESERVING MINORITY OWNERSHIP OF MINORITY FINAN-
+CIAL INSTITUTIONS.
+(a) CONSULTATION ON METHODS.—The Secretary of the Treasury
+shall consult with the Chairman of the Board of Governors of the
+Federal Reserve System, the Comptroller of the Currency, the
+Chairman of the National Credit Union Administration, and the
+Chairperson of the Board of Directors of the Federal Deposit Insur-
+ance Corporation on methods for best achieving the following goals:
+(1) Preserving the present number of minority depository in-
+stitutions.
+(2) Preserving their minority character in cases involving
+mergers or acquisition of a minority depository institution by
+using general preference guidelines in the following order:
+(A) Same type of minority depository institution in the
+same city.
+(B) Same type of minority depository institution in the
+same State.
+(C) Same type of minority depository institution nation-
+wide.
+(D) Any type of minority depository institution in the
+same city.
+(E) Any type of minority depository institution in the
+same State.
+(F) Any type of minority depository institution nation-
+wide.
+(G) Any other bidders.
+(3) Providing technical assistance to prevent insolvency of in-
+stitutions not now insolvent.
+(4) Promoting and encouraging creation of new minority de-
+pository institutions.
+(5) Providing for training, technical assistance, and edu-
+cational programs.
+(b) DEFINITIONS.—For purposes of this section—
+(1) MINORITY FINANCIAL INSTITUTION.—The term ‘‘minority
+depository institution’’ means any depository institution that—
+(A) if a privately owned institution, 51 percent is owned
+by one or more socially and economically disadvantaged in-
+dividuals;
+(B) if publicly owned, 51 percent of the stock is owned
+by one or more socially and economically disadvantaged in-
+dividuals; and
+(C) in the case of a mutual institution where the major-
+ity of the Board of Directors, account holders, and the com-
+munity which it services is predominantly minority.
+(2) MINORITY.—The term ‘‘minority’’ means any black Amer-
+ican, Native American, Hispanic American, or Asian American.
+(c) REPORTS.—The Secretary of the Treasury, the Chairman of
+the Board of Governors of the Federal Reserve System, the Comp-
+troller of the Currency, the Chairman of the National Credit Union
+Administration, and the Chairperson of Board of Directors of the
+Federal Deposit Insurance Corporation shall each submit an an-
+nual report to the Congress containing a description of actions
+taken to carry out this section.
+(d) FINANCIAL AGENT MENTOR-PROTE ´ GE ´ PROGRAM.—
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6603 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+9
+(1) IN GENERAL.—The Secretary of the Treasury shall estab-
+lish a program to be known as the ‘‘Financial Agent Mentor-
+Prote´ge´ Program’’ (in this subsection referred to as the ‘‘Pro-
+gram’’) under which a financial agent designated by the Sec-
+retary or a large financial institution may serve as a mentor,
+under guidance or regulations prescribed by the Secretary, to a
+small financial institution to allow such small financial institu-
+tion—
+(A) to be prepared to perform as a financial agent; or
+(B) to improve capacity to provide services to the cus-
+tomers of the small financial institution.
+(2) OUTREACH.—The Secretary shall hold outreach events to
+promote the participation of financial agents, large financial in-
+stitutions, and small financial institutions in the Program at
+least once a year.
+(3) EXCLUSION.—The Secretary shall issue guidance or regu-
+lations to establish a process under which a financial agent,
+large financial institution, or small financial institution may be
+excluded from participation in the Program.
+(4) REPORT.—The Office of Minority and Women Inclusion of
+the Department of the Treasury shall include in the report sub-
+mitted to Congress under section 342(e) of the Dodd-Frank Wall
+Street Reform and Consumer Protection Act information per-
+taining to the Program, including—
+(A) the number of financial agents, large financial insti-
+tutions, and small financial institutions participating in
+such Program; and
+(B) the number of outreach events described in paragraph
+(2) held during the year covered by such report.
+(5) DEFINITIONS.—In this subsection:
+(A) FINANCIAL AGENT.—The term ‘‘financial agent’’ means
+any national banking association designated by the Sec-
+retary of the Treasury to be employed as a financial agent
+of the Government.
+(B) LARGE FINANCIAL INSTITUTION.—The term ‘‘large fi-
+nancial institution’’ means any entity regulated by the
+Comptroller of the Currency, the Board of Governors of the
+Federal Reserve System, the Federal Deposit Insurance
+Corporation, or the National Credit Union Administration
+that has total consolidated assets greater than or equal to
+$50,000,000,000.
+(C) RURAL DEPOSITORY INSTITUTION.—The term ‘‘rural
+depository institution’’ means a depository institution (as
+defined in section 3 of the Federal Deposit Insurance Act)—
+(i) with total consolidated assets of less than
+$10,000,000,000; and
+(ii) located in a rural area, as defined under section
+
+Section 14:
+1026.35(b)(2)(iv)(A) of title 12, Code of Federal Regula-
+tions.
+(D) SMALL FINANCIAL INSTITUTION.—The term ‘‘small fi-
+nancial institution’’ means—
+(i) any entity regulated by the Comptroller of the
+Currency, the Board of Governors of the Federal Re-
+serve System, the Federal Deposit Insurance Corpora-
+tion, or the National Credit Union Administration that
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6603 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+10
+has total consolidated assets lesser than or equal to
+$2,000,000,000;
+(ii) a minority depository institution; or
+(iii) a rural depository institution.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6611 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–205
+ADVANCING THE MENTOR-PROTE´GE´ PROGRAM FOR
+SMALL FINANCIAL INSTITUTIONS ACT
+JULY15, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+[To accompany H.R. 3709]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 3709) to amend the Financial Institutions Reform, Recov-
+ery, and Enforcement Act of 1989 to establish a Financial Agent
+Mentor-Prote´ge´ Program within the Department of the Treasury,
+and for other purposes, having considered the same, reports favor-
+ably thereon with an amendment and recommends that the bill as
+amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 3
+Committee Consideration ........................................................................................ 3
+Related Hearings ..................................................................................................... 4
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings ............................................................................... 6
+Performance Goals and Objectives ......................................................................... 6
+Committee Cost Estimate ....................................................................................... 6
+New Budget Authority and CBO Cost Estimate ................................................... 6
+Unfunded Mandates Statement .............................................................................. 6
+Earmark Statement ................................................................................................. 6
+Federal Advisory Committee Act Statement ......................................................... 6
+Applicability to the Legislative Branch ................................................................. 7
+Duplication of Federal Programs ............................................................................ 7
+Section-by-Section Analysis of the Legislation ...................................................... 7
+Changes in Existing Law Made by the Bill, as Reported ..................................... 7
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+2
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Advancing the Mentor-Prote´ge´ Program for Small
+Financial Institutions Act’’.
+SEC. 2. ESTABLISHMENT OF FINANCIAL AGENT MENTOR-PROTE´GE´ PROGRAM.
+(a) IN GENERAL.—Section 308 of the Financial Institutions Reform, Recovery, and
+Enforcement Act of 1989 (12 U.S.C. 1463 note) is amended by adding at the end
+the following new subsection:
+‘‘(d) FINANCIALAGENTMENTOR-PROTE´GE´ PROGRAM.—
+‘‘(1) INGENERAL.—The Secretary of the Treasury shall establish a program to
+be known as the ‘Financial Agent Mentor-Prote´ge´ Program’ (in this subsection
+referred to as the ‘Program’) under which a financial agent designated by the
+Secretary or a large financial institution may serve as a mentor, under guidance
+or regulations prescribed by the Secretary, to a small financial institution to
+allow such small financial institution—
+‘‘(A) to be prepared to perform as a financial agent; or
+‘‘(B) to improve capacity to provide services to the customers of the small
+financial institution.
+‘‘(2) OUTREACH.—The Secretary shall hold outreach events to promote the
+participation of financial agents, large financial institutions, and small financial
+institutions in the Program at least once a year.
+‘‘(3) EXCLUSION.—The Secretary shall issue guidance or regulations to estab-
+lish a process under which a financial agent, large financial institution, or small
+financial institution may be excluded from participation in the Program.
+‘‘(4) REPORT.—The Office of Minority and Women Inclusion of the Department
+of the Treasury shall include in the report submitted to Congress under section
+342(e) of the Dodd-Frank Wall Street Reform and Consumer Protection Act in-
+formation pertaining to the Program, including—
+‘‘(A) the number of financial agents, large financial institutions, and
+small financial institutions participating in such Program; and
+‘‘(B) the number of outreach events described in paragraph (2) held dur-
+ing the year covered by such report.
+‘‘(5) DEFINITIONS.—In this subsection:
+‘‘(A) FINANCIAL AGENT.—The term ‘financial agent’ means any national
+banking association designated by the Secretary of the Treasury to be em-
+ployed as a financial agent of the Government.
+‘‘(B) LARGEFINANCIALINSTITUTION.—The term ‘large financial institution’
+means any entity regulated by the Comptroller of the Currency, the Board
+of Governors of the Federal Reserve System, the Federal Deposit Insurance
+Corporation, or the National Credit Union Administration that has total
+consolidated assets greater than or equal to $50,000,000,000.
+‘‘(C) RURAL DEPOSITORY INSTITUTION.—The term ‘rural depository institu-
+tion’ means a depository institution (as defined in section 3 of the Federal
+Deposit Insurance Act)—
+‘‘(i) with total consolidated assets of less than $10,000,000,000; and
+‘‘(ii) located in a rural area, as defined under section
+1026.35(b)(2)(iv)(A) of title 12, Code of Federal Regulations.
+‘‘(D) SMALL FINANCIAL INSTITUTION.—The term ‘small financial institu-
+tion’ means—
+‘‘(i) any entity regulated by the Comptroller of the Currency, the
+Board of Governors of the Federal Reserve System, the Federal Deposit
+Insurance Corporation, or the National Credit Union Administration
+that has total consolidated assets lesser than or equal to
+$2,000,000,000;
+‘‘(ii) a minority depository institution; or
+‘‘(iii) a rural depository institution.’’.
+(b) EFFECTIVE DATE.—This Act and the amendment made by this Act shall take
+effect 90 days after the date of the enactment of this Act.
+PURPOSE AND SUMMARY
+H.R. 3709, the Advancing the Mentor-Prote´ge´ Program for Small
+Financial Institutions Act, was introduced on June 4, 2025, by Rep-
+resentative Joyce Beatty (OH–03). H.R. 3709 directs the Depart-
+ment of the Treasury to establish a mentor-prote´ge´ program that
+pairs large financial institutions with small, rural, and minority
+depository institutions. The goal is to enhance the capacity of these
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+3
+smaller institutions to serve their customers and potentially act as
+financial agents.
+BACKGROUND AND NEED FOR LEGISLATION
+The Treasury Department’s current mentor-prote´ge´ program, es-
+tablished in 2018, connects the largest banks in the country with
+the smallest financial institutions.1
+This voluntary program fosters relationships between small and
+large banks by expanding the pool of financial agents. Large banks
+partner with smaller institutions to provide managerial and tech-
+nical support, helping them strengthen their balance sheets and
+improve customer services. Areas of support may include credit
+card partnerships, access to capital markets, equity investments,
+loan participations, and opportunities related to U.S. Treasury con-
+tracts.
+COMMITTEE CONSIDERATION
+119TH CONGRESS
+On June 4, 2025, Representative Beatty introduced H.R. 3709,
+the Advancing the Mentor-Prote´ge´ Program for Small Financial In-
+stitutions Act. The bill was referred solely to the Committee on Fi-
+nancial Services. The bill was attached to the June 5, 2025, hear-
+ing titled ‘‘Framework for the Future: Reviewing Data Privacy in
+Today’s Financial System.’’
+On June 10, 2025, the Committee on Financial Services met in
+open session to consider, among others, H.R. 3709. The Committee
+ordered H.R. 3709, as amended, to be reported favorably to the
+House of Representatives.
+118TH CONGRESS
+On February 29, 2024, Representative Beatty introduced H.R.
+7483, the Expanding Opportunity for Minority Depository Institu-
+tions Act, with Representatives Andre´ Carson (D–IN), Troy Carter
+(D–LA), Emanuel Cleaver (D–MO), Sylvia Garcia (D–TX), Al Green
+(D–TX), Sheila Jackson Lee (D–TX), Hank Johnson (D–GA), Bar-
+bara Lee (D–CA), Eleanor Holmes Norton (D–DC), Stacey Plaskett
+(D–VI), Delia Ramirez (D–IL), Jill Tokuda (D–HI), Bonnie Watson
+Coleman (D–NJ), and Nikema Williams (D–GA) as original cospon-
+sors. Representative Gregory Meeks (D–NY) was added subse-
+quently as a cosponsor. This bill is an earlier iteration of H.R.
+3709. The bill was referred solely to the Committee on Financial
+Services.
+117TH CONGRESS
+On June 7, 2022, Representative Beatty introduced H.R. 7953,
+the Expanding Opportunities for Minority Depository Institutions
+Act. This bill is an earlier iteration of H.R. 3709. The bill was re-
+ferred solely to the Committee on Financial Services.
+1U.S. Dep’t of the Treasury, Bureau of the Fiscal Service, Treasury Bank Mentor-Prote´ge´Pro-
+gram, https://fiscal.treasury.gov/treasury-bank-mentor-protege-program/.
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+4
+116TH CONGRESS
+On December 5, 2019, Representative Beatty introduced H.R.
+5315, the Expanding Opportunity for Minority Depository Institu-
+tions Act, with Representatives Meeks, Denny Heck (D–WA),
+Green, and Cleaver as original cosponsors. Representative David
+Scott (D–GA) was added subsequently as a cosponsor. This bill is
+an earlier iteration of H.R. 3709. The bill was referred solely to the
+Committee on Financial Services. On December 11, 2019, the Com-
+mittee on Financial Services ordered H.R. 5315 to be favorably re-
+ported to the House of Representatives by a recorded vote of 57
+yeas and 0 nays. On January 13, 2020, the House suspended the
+rules and passed H.R. 5315 by voice vote. It was received in the
+Senate and referred to the Senate Committee on Banking, Housing,
+and Urban Affairs.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+3709:
+The Financial Institutions Subcommittee of the Committee on Fi-
+nancial Services held a June 5, 2025, hearing titled ‘‘Framework
+for the Future: Reviewing Data Privacy in Today’s Financial Sys-
+tem.’’ A discussion draft version of the bill was attached to the
+hearing. The following witnesses testified at the hearing: Mr. Scott
+Talbott, Executive Vice President, Electronic Transactions Associa-
+tion; Mr. Andrew Morris, Director of Innovation and Technology,
+America’s Credit Unions; Ms. Rebecca Kuehn, Partner, Hudson
+Cook, LLP; Ms. Jennnifer Huddleston, Fellow in Technology Policy,
+Cato Institute; and Ms. Zoe Strickland, Senior Fellow, Future of
+Privacy Forum.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for On June
+10, 2025, the Committee ordered H.R. 3709, as amended, to be re-
+ported favorably to the House by a recorded vote of 50 yeas and
+1 nay, a quorum being present. (Record Vote No. FC–141).
+Before the question to report was called, the Committee adopted
+an amendment in the nature of a substitute, designated
+Beatty_013, which made minor edits and technical changes, offered
+by Representative Beatty. The amendment was adopted by voice
+vote, a quorum being present.
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+5
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+100.502RH
+ereh
+6
+oilof
+tesffo
+tresnI
+
+6
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 3709 is to establish a mentor-
+prote´ge´ program pairing large financial institutions with small,
+rural, and minority depository institutions to enhance their capac-
+ity to serve customers.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 3709. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of rule XIII of the Rules of the House of Representatives,
+the Committee will adopt as its own the cost estimate by the Direc-
+tor of the Congressional Budget Office once it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+7
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+Section 1 provides the short title is the ‘‘Advancing the Mentor-
+Prote´ge´ Program for Small Financial Institutions Act.’’
+Section 2. Establishment of Financial Agent Mentor-Prote´ge´ Pro-
+gram
+Section 2 amends Section 308 of the Financial Institutions Re-
+form, Recovery, and Enforcement Act of 1989 to establish the Fi-
+nancial Agent Mentor-Prote´ge´ Program within the Department of
+the Treasury. The program enables large financial institutions or
+designated financial agents to mentor small financial institutions
+to enhance their capacity to serve customers or prepare to act as
+financial agents. The section also requires annual outreach events,
+sets criteria for exclusion from the program, mandates annual re-
+porting to Congress, and defines key terms including ‘‘small finan-
+cial institution,’’ ‘‘large financial institution,’’ and ‘‘financial agent.’’
+Section 3. Effective date
+Section 3 specifies that the Act and its amendments shall take
+effect 90 days after the date of enactment.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+FINANCIAL INSTITUTIONS REFORM, RECOVERY, AND
+ENFORCEMENT ACT OF 1989
+* * * * * * *
+TITLE III—SAVINGS ASSOCIATIONS
+* * * * * * *
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6601 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+8
+SEC. 308. PRESERVING MINORITY OWNERSHIP OF MINORITY FINAN-
+CIAL INSTITUTIONS.
+(a) CONSULTATION ON METHODS.—The Secretary of the Treasury
+shall consult with the Chairman of the Board of Governors of the
+Federal Reserve System, the Comptroller of the Currency, the
+Chairman of the National Credit Union Administration, and the
+Chairperson of the Board of Directors of the Federal Deposit Insur-
+ance Corporation on methods for best achieving the following goals:
+(1) Preserving the present number of minority depository in-
+stitutions.
+(2) Preserving their minority character in cases involving
+mergers or acquisition of a minority depository institution by
+using general preference guidelines in the following order:
+(A) Same type of minority depository institution in the
+same city.
+(B) Same type of minority depository institution in the
+same State.
+(C) Same type of minority depository institution nation-
+wide.
+(D) Any type of minority depository institution in the
+same city.
+(E) Any type of minority depository institution in the
+same State.
+(F) Any type of minority depository institution nation-
+wide.
+(G) Any other bidders.
+(3) Providing technical assistance to prevent insolvency of in-
+stitutions not now insolvent.
+(4) Promoting and encouraging creation of new minority de-
+pository institutions.
+(5) Providing for training, technical assistance, and edu-
+cational programs.
+(b) DEFINITIONS.—For purposes of this section—
+(1) MINORITY FINANCIAL INSTITUTION.—The term ‘‘minority
+depository institution’’ means any depository institution that—
+(A) if a privately owned institution, 51 percent is owned
+by one or more socially and economically disadvantaged in-
+dividuals;
+(B) if publicly owned, 51 percent of the stock is owned
+by one or more socially and economically disadvantaged in-
+dividuals; and
+(C) in the case of a mutual institution where the major-
+ity of the Board of Directors, account holders, and the com-
+munity which it services is predominantly minority.
+(2) MINORITY.—The term ‘‘minority’’ means any black Amer-
+ican, Native American, Hispanic American, or Asian American.
+(c) REPORTS.—The Secretary of the Treasury, the Chairman of
+the Board of Governors of the Federal Reserve System, the Comp-
+troller of the Currency, the Chairman of the National Credit Union
+Administration, and the Chairperson of Board of Directors of the
+Federal Deposit Insurance Corporation shall each submit an an-
+nual report to the Congress containing a description of actions
+taken to carry out this section.
+(d) FINANCIAL AGENT MENTOR-PROTE ´ GE ´ PROGRAM.—
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6603 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+9
+(1) IN GENERAL.—The Secretary of the Treasury shall estab-
+lish a program to be known as the ‘‘Financial Agent Mentor-
+Prote´ge´ Program’’ (in this subsection referred to as the ‘‘Pro-
+gram’’) under which a financial agent designated by the Sec-
+retary or a large financial institution may serve as a mentor,
+under guidance or regulations prescribed by the Secretary, to a
+small financial institution to allow such small financial institu-
+tion—
+(A) to be prepared to perform as a financial agent; or
+(B) to improve capacity to provide services to the cus-
+tomers of the small financial institution.
+(2) OUTREACH.—The Secretary shall hold outreach events to
+promote the participation of financial agents, large financial in-
+stitutions, and small financial institutions in the Program at
+least once a year.
+(3) EXCLUSION.—The Secretary shall issue guidance or regu-
+lations to establish a process under which a financial agent,
+large financial institution, or small financial institution may be
+excluded from participation in the Program.
+(4) REPORT.—The Office of Minority and Women Inclusion of
+the Department of the Treasury shall include in the report sub-
+mitted to Congress under section 342(e) of the Dodd-Frank Wall
+Street Reform and Consumer Protection Act information per-
+taining to the Program, including—
+(A) the number of financial agents, large financial insti-
+tutions, and small financial institutions participating in
+such Program; and
+(B) the number of outreach events described in paragraph
+(2) held during the year covered by such report.
+(5) DEFINITIONS.—In this subsection:
+(A) FINANCIAL AGENT.—The term ‘‘financial agent’’ means
+any national banking association designated by the Sec-
+retary of the Treasury to be employed as a financial agent
+of the Government.
+(B) LARGE FINANCIAL INSTITUTION.—The term ‘‘large fi-
+nancial institution’’ means any entity regulated by the
+Comptroller of the Currency, the Board of Governors of the
+Federal Reserve System, the Federal Deposit Insurance
+Corporation, or the National Credit Union Administration
+that has total consolidated assets greater than or equal to
+$50,000,000,000.
+(C) RURAL DEPOSITORY INSTITUTION.—The term ‘‘rural
+depository institution’’ means a depository institution (as
+defined in section 3 of the Federal Deposit Insurance Act)—
+(i) with total consolidated assets of less than
+$10,000,000,000; and
+(ii) located in a rural area, as defined under section
+1026.35(b)(2)(iv)(A) of title 12, Code of Federal Regula-
+tions.
+(D) SMALL FINANCIAL INSTITUTION.—The term ‘‘small fi-
+nancial institution’’ means—
+(i) any entity regulated by the Comptroller of the
+Currency, the Board of Governors of the Federal Re-
+serve System, the Federal Deposit Insurance Corpora-
+tion, or the National Credit Union Administration that
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6603 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+10
+has total consolidated assets lesser than or equal to
+$2,000,000,000;
+(ii) a minority depository institution; or
+(iii) a rural depository institution.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 03:56 Aug 14, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6611 E:\HR\OC\HR205.XXX HR205
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD

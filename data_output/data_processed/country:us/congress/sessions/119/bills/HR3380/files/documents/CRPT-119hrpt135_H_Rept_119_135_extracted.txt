@@ -1,0 +1,997 @@
+Title: JUNE4, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JUNE4, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 11
+Source: documents - H. Rept. 119-135
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–135
+TAKING ACCOUNT OF INSTITUTIONS WITH LOW
+OPERATION RISK ACT OF 2025
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 3380]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 3380) to require the Federal financial institutions regu-
+latory agencies to take risk profiles and business models of institu-
+tions into account when taking regulatory actions, and for other
+purposes, having considered the same, reports favorably thereon
+with an amendment and recommends that the bill as amended do
+pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 3
+Background and Need for Legislation .................................................................... 3
+Committee Consideration ........................................................................................ 4
+Related Hearings ..................................................................................................... 4
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings ............................................................................... 7
+Performance Goals and Objectives ......................................................................... 7
+Committee Cost Estimate ....................................................................................... 7
+New Budget Authority and CBO Cost Estimate ................................................... 7
+Unfunded Mandates Statement .............................................................................. 7
+Earmark Statement ................................................................................................. 7
+Federal Advisory Committee Act Statement ......................................................... 7
+Applicability to the Legislative Branch ................................................................. 8
+Duplication of Federal Programs ............................................................................ 8
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 9
+Minority Views ......................................................................................................... 10
+59–006
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Taking Account of Institutions with Low Operation
+Risk Act of 2025’’ or the ‘‘TAILOR Act of 2025’’.
+SEC. 2. TAILORING REGULATION TO BUSINESS MODEL AND RISK.
+(a) DEFINITIONS.—In this section—
+(1) the term ‘‘Federal financial institutions regulatory agency’’ means the Of-
+fice of the Comptroller of the Currency, the Board of Governors of the Federal
+Reserve System, the Federal Deposit Insurance Corporation, the National Cred-
+it Union Administration, and the Bureau of Consumer Financial Protection; and
+(2) the term ‘‘regulatory action’’—
+(A) means any proposed, interim, or final rule or regulation; and
+(B) does not include any action taken by a Federal financial institutions
+regulatory agency that is solely applicable to an individual institution, in-
+cluding an enforcement action or order.
+(b) CONSIDERATIONANDTAILORING.—For any regulatory action occurring after the
+date of enactment of this Act, each Federal financial institutions regulatory agency
+shall—
+(1) take into consideration the risk profile and business models of each type
+of institution or class of institutions subject to the regulatory action; and
+(2) tailor the regulatory action applicable to an institution, or type of institu-
+tion, in a manner that limits the regulatory impact, including cost, human re-
+source allocation, and other burdens, on the institution or type of institution as
+is appropriate for the risk profile and business model involved.
+(c) FACTORS TO CONSIDER.—In carrying out the requirements of subsection (b)
+with respect to a regulatory action, each Federal financial institutions regulatory
+agency shall consider—
+(1) the aggregate effect of all applicable regulatory actions on the ability of
+institutions to flexibly serve customers of the institutions and local markets on
+and after the date of enactment of this Act;
+(2) the potential that efforts to implement the regulatory action and third-
+party service provider actions may work to undercut efforts to tailor the regu-
+latory action, as described in subsection (b)(2); and
+(3) the statutory provision authorizing the regulatory action, the congres-
+sional intent with respect to the statutory provision, and the underlying policy
+objectives of the regulatory action.
+(d) NOTICE OF PROPOSED AND FINAL RULEMAKING.—Each Federal financial insti-
+tutions regulatory agency shall disclose and document in every notice of proposed
+rulemaking and in any final rulemaking for a regulatory action how the agency has
+applied subsections (b) and (c).
+(e) REPORTS TO CONGRESS.—Not later than 1 year after the date of enactment of
+this Act and annually thereafter, each Federal financial institutions regulatory
+agency shall submit to the Committee on Banking, Housing, and Urban Affairs of
+the Senate and the Committee on Financial Services of the House of Representa-
+tives a report on the specific actions taken to tailor the regulatory actions of the
+Federal financial institutions regulatory agency pursuant to the requirements of
+this section.
+(f) LIMITEDLOOK-BACKAPPLICATION.—
+(1) IN GENERAL.—Each Federal financial institutions regulatory agency
+shall—
+(A) conduct a review of all final regulations issued pursuant to statutes
+enacted during the period beginning on the date that is 15 years before the
+date on which this Act is introduced in the House of Representatives and
+ending on the date of enactment of this Act; and
+(B) apply the requirements of this section to the regulations described in
+subparagraph (A).
+(2) REVISION.—Any regulation revised under paragraph (1) shall be revised
+not later than 3 years after the date of enactment of this Act.
+SEC. 3. SHORT-FORM CALL REPORTS FOR ALL BANKS ELIGIBLE FOR THE COMMUNITY BANK
+LEVERAGE RATIO.
+The appropriate Federal banking agencies, as defined in section 3 of the Federal
+Deposit Insurance Act (12 U.S.C. 1813), shall promulgate regulations establishing
+a reduced reporting requirement for all banks eligible for the Community Bank Le-
+verage Ratio, as defined in section 201(a) of the Economic Growth, Regulatory Re-
+lief, and Consumer Protection Act (12 U.S.C. 5371 note), when making the first and
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+third report of condition of a year as required by section 7(a) of the Federal Deposit
+Insurance Act (12 U.S.C. 1817(a)).
+SEC. 4. REPORT TO CONGRESS ON MODERNIZATION OF SUPERVISION.
+Not later than 18 months after the date of enactment of this Act, the appropriate
+Federal banking agencies, as defined in section 3 of the Federal Deposit Insurance
+Act (12 U.S.C. 1813), in consultation with State bank supervisors, shall submit to
+the Committee on Banking, Housing, and Urban Affairs of the Senate and the Com-
+mittee on Financial Services of the House of Representatives a report on the mod-
+ernization of bank supervision, including the following factors:
+(1) Changing bank business models.
+(2) Examiner workforce and training.
+(3) The structure of supervisory activities within banking agencies.
+(4) Improving bank-supervisor communication and collaboration.
+(5) The use of supervisory technology.
+(6) Supervisory factors uniquely applicable to community banks.
+(7) Changes in statutes necessary to achieve more effective supervision.
+PURPOSE AND SUMMARY
+Introduced on May 14, 2025, by Representative Barry
+Loudermilk (GA–11), H.R. 3380, the Taking Account of Institutions
+with Low Operational Risk (TAILOR) Act of 2025, requires federal
+financial institutions regulatory agencies, including the Federal De-
+posit Insurance Corporation (FDIC), Office of the Comptroller of
+the Currency (OCC), Federal Reserve Board (FRB), National Credit
+Union Administration (NCUA), and Consumer Financial Protection
+Bureau (CFPB), to consider an institution’s risk profile and busi-
+ness model when issuing new regulations or taking supervisory ac-
+tions and to limit the regulatory burden on institutions in accord-
+ance. H.R. 3380 requires disclosure of these tailoring efforts in
+rulemaking and annual reports to Congress.
+BACKGROUND AND NEED FOR LEGISLATION
+The current regulatory framework imposes a uniform, ‘‘one-size-
+fits-all’’ set of requirements on financial institutions, regardless of
+size, complexity, or risk. This approach, largely shaped by post-cri-
+sis legislation such as the Dodd-Frank Wall Street Reform and
+Consumer Protection Act (Dodd-Frank Act), fails to distinguish be-
+tween global systemically important banks and small, community-
+based institutions. While well-intentioned, these broad rules have
+placed a disproportionate burden on community banks, which play
+a critical role in serving rural areas, supporting small businesses,
+and promoting local economic growth. Importantly, these institu-
+tions were not responsible for the 2008 financial crisis. Recognizing
+the need for proportional regulation, Congress passed the bipar-
+tisan S. 2155, the Economic Growth, Regulatory Relief, and Con-
+sumer Protection Act, in 2018, which directed regulators to tailor
+requirements based on institutional risk. Unfortunately, in recent
+years, federal financial institutions regulators have moved away
+from that principle, reinstating rigid and overly broad standards.
+The TAILOR Act reasserts the importance of aligning regulation
+with risk and complexity. This bill reinforces accountability among
+financial regulators, promotes efficiency in supervision, and en-
+sures that community banks can focus their resources on serving
+their communities. The bill also includes important measures to
+streamline data reporting for eligible institutions and to evaluate
+how regulatory agencies can modernize their supervisory practices
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+to reflect evolving market conditions and technological advance-
+ments.
+COMMITTEE CONSIDERATION
+On May 14, 2025, Representative Barry Loudermilk (R–GA) in-
+troduced H.R. 3380, the Taking Account of Institutions with Low
+Operational Risk (TAILOR) Act of 2025. Representative Troy
+Downing (R–MT) was subsequently added as cosponsor. The bill
+was referred solely to the Committee on Financial Services. It was
+attached to the April 29, 2025, hearing titled ‘‘Regulatory Over-
+reach: The Price Tag on American Prosperity.’’
+In addition, Senator Mike Rounds (R–SD) introduced S. 427, a
+companion bill to H.R. 3380, with Senators Thom Tillis (R–NC),
+Bill Hagerty (R–TN), Cynthia Lummis (R–WY), Kevin Cramer (R–
+ND), and Steve Daines (R–MT). Senator Pete Ricketts (R–NE) was
+subsequently added as a cosponsor. On March 13, 2025, the Senate
+Banking Committee met in executive session to consider S. 875,
+which was amended to include Sen. Rounds’ TAILOR Act amend-
+ment. S. 875 was advanced and reported without written report.
+On May 21, 2025, the Committee on Financial Services met in
+open session to consider, among others, H.R. 3380. The Committee
+reported favorably H.R. 3380, as amended to the House of Rep-
+resentatives.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+3380:
+The Subcommittee on Financial Institutions of the Financial
+Services Committee held a hearing on April 29, 2025, entitled
+‘‘Regulatory Overreach: The Price Tag on American Prosperity.’’ A
+discussion draft version of the bill was considered in this hearing.
+The following witnesses testified: Ms. Sarah Christine Flowers,
+Senior Vice President, Senior Associate General Counsel, Bank Pol-
+icy Institute; Mr. J. Michael Radcliffe, Chairman and Chief Execu-
+tive Officer, Community Financial Services Bank (Benton, KY); Ms.
+Margaret E. Tahyar, Partner, Head of Financial Institutions
+Group, Davis Polk & Wardwell LLP; The Honorable Graham
+Steele, Academic Fellow, Rock Center for Corporate Governance,
+Stanford Law School.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On May 21, 2025, the Committee ordered H.R. 3380, as amend-
+ed, to be reported favorably to the House by a recorded vote of 29
+yeas and 23 nays, a quorum being present. (Record Vote No. FC–
+123).
+Before the question to report was called, the Committee adopted
+an amendment in the nature of a substitute, designated LOUD-
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+5
+ER_021, which made minor edits and technical changes, offered by
+Representative Loudermilk. The amendment was adopted by voice
+vote, a quorum being present.
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+6
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 4:
+100.531RH
+ereh
+9
+oilof
+tesffo
+tresnI
+7
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 3380 is to reinforce account-
+ability among financial regulators, promote efficiency in super-
+vision, and ensure that community banks can focus their resources
+on serving their communities.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 3380. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of rule XIII, the Committee will adopt as its own the cost
+estimate by the Director of the Congressional Budget Office once
+it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+8
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+
+Section 5:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 6:
+Section 1. Short title
+This section establishes the short title as the ‘‘Taking Account of
+Institutions with Low Operation Risk Act of 2025’’ or the ‘‘TAILOR
+Act of 2025.’’
+
+Section 7:
+Section 2. Tailoring regulation to business model and risk
+This section defines ‘‘Federal financial institutions regulatory
+agency’’ and ‘‘regulatory action.’’ It requires agencies to consider
+the risk profiles and business models of institution subject to regu-
+latory actions and to tailor those actions to limit burden appro-
+priately. It requires agencies to consider the aggregate effect of all
+applicable regulatory actions on the ability of institutions to flexi-
+bly serve customers of the institutions and local markets; the po-
+tential that implementation efforts may undercut tailoring; and the
+statutory authority and policy goals behind the regulations.
+This section also requires each Federal financial institutions reg-
+ulatory agency to disclose and document the considerations in pro-
+posed rulemakings. It requires congressional reports to be sub-
+mitted by each such agency describing the specific actions taken to
+effectuate the provisions of the bill within one year of enactment
+and annually thereafter. It instructs each such agency to conduct
+a review of all final regulations promulgated within the fifteen
+years prior to enactment of the bill and apply the requirements of
+the bill to such regulations within three years of enactment of the
+bill.
+
+Section 8:
+Section 3. Short-form call reports for all banks eligible for the com-
+munity bank leverage ratio
+
+Section 9:
+Section 3 requires appropriate Federal banking agencies to pro-
+mulgate regulations establishing reduced reporting requirements
+for all banks eligible for the Community Bank Leverage Ratio
+when filing their first and third quarterly call reports each year.
+
+Section 10:
+Section 4. Report to Congress on modernization of supervision
+
+Section 11:
+Section 4 requires the appropriate Federal financial institutions
+regulatory agencies, in consultation with State supervisors, to re-
+port to Congress no later than 18 months after enactment of the
+bill on modernization of bank supervision., The report must ad-
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+9
+dress changes to bank business models, examiner workforce and
+training, the supervisory structures within banking agencies, im-
+provements in bank-supervisor communication and collaboration,
+the use of supervisory technology, supervisory factors uniquely ap-
+plicable to community banks, and statutory changes necessary to
+achieve more effective supervision.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+H.R. 3380 does not repeal or amend any section of a statute.
+Therefore, the Office of Legislative Counsel did not prepare the re-
+port required under clause 3(e) of rule XIII of the House of Rep-
+resentatives.
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+MINORITY VIEWS
+This bill requires banking regulators and the CFPB to tailor all
+regulations for all their regulated entities, not just community
+banks, to account for a wide variety of risk profiles and industry
+costs (but not benefits). We’ve seen how tailoring in Trump’s first
+term led to regional bank failures in 2023. Moreover, instead of fo-
+cusing on helping community banks, this sweeping deregulatory
+bill would hamper financial regulators ability to promote safety
+and soundness and ensure consumer protection.
+Recent court rulings have made it easier for industry to block
+rules through litigation, and Trump’s Administration has worked to
+shutdown the CFPB while undermining the independence of finan-
+cial agencies by requiring White House approval of all regulations.
+This bill makes matters worse by making it hard for agencies to
+issue any rules given the ambiguous tailoring standards they
+would have to meet for each rule. Any one company out of thou-
+sands could sue and block a rule if they felt it was not sufficiently
+tailored to their firm’s unique business model and risk profile.
+Moreover, regulators would not have to consider a rule’s benefits,
+including safety and soundness or consumer protections. The bill
+would severely stymie the rulemaking process, including when
+agencies need to update old rules to adapt to an evolving market-
+place.
+The Dodd-Frank Wall Street Reform and Consumer Protection
+Act, among other statutes, already requires regulators to tier and
+tailor regulatory standards based on risk, ensuring that compliance
+burdens are minimized for community financial institutions and
+regulatory attention is focused on activities that may cause the
+greatest harm.1
+During Trump’s first term, a somewhat similar bill was pre-
+viously included in a large financial deregulatory package advanced
+by former Chair Hensarling, the ‘‘Financial CHOICE Act of 2017’’
+that passed by a party-line vote of 233–186,2 and then was later
+passed as a standalone bill, the ‘‘TAILOR Act of 2017’’ sponsored
+by Rep. Tipton, by a vote of 247–169.3 Congress later adopted the
+‘‘Economic Growth, Regulatory Relief, and Consumer Protection
+Act’’ sponsored by Sen. Mike Crapo in 2018,4 which among other
+things tailored rules for regional banks, but Silicon Valley Bank
+(SVB) and a couple other regional banks failed in 2023.5
+Groups like Americans for Financial Reform (AFR), Center for
+Responsible Lending (CRL), and AARP oppose the bill. According
+to Americans Financial Reform, ‘‘This sweeping mandate would
+1See CRS, Over the Line: Asset Thresholds in Bank Regulation (May 3, 2021).
+2H.R. 10, 115th Cong.
+3H.R. 1116, 115th Cong.
+4S. 2155, 115th Cong. (P.L. 115–174).
+5Fed, Review of the Federal Reserve’s Supervision and Regulation of Silicon Valley Bank (Apr.
+28, 2023).
+(10)
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6604 Sfmt 6604 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+11
+force regulators to prioritize the costs of regulations to financial in-
+stitutions over the offsetting benefits to consumers and the general
+public. The mandate implies that regulators would be unable to act
+to protect the public if such action led to any significant costs to
+Wall Street banks. Any regulated entity, including the largest
+banks, could use this TAILOR Act language as the basis for a law-
+suit to overturn a rule, simply by claiming a regulation had a sig-
+nificant impact or cost for them. . . . This requirement is not only
+dangerous but unnecessary. It ignores the fact that regulators are
+already scaling rules to the size and business model of financial in-
+stitutions.’’6
+For these reasons, we oppose H.R. 3380.
+Sincerely,
+MAXINE WATERS,
+Ranking Member.
+NYDIA M. VELA ´ ZQUEZ,
+AL GREEN,
+BILL FOSTER,
+JUAN VARGAS,
+STEPHEN F. LYNCH,
+EMANUEL CLEAVER, II,
+JOYCE BEATTY,
+RASHIDA TLAIB,
+SYLVIA R. GARCIA,
+NIKEMA WILLIAMS,
+Members of Congress.
+Æ
+6AFR, Letter to FSC re TAILOR Act (Mar. 12, 2018).
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6604 Sfmt 6611 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–135
+TAKING ACCOUNT OF INSTITUTIONS WITH LOW
+OPERATION RISK ACT OF 2025
+JUNE4, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 3380]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 3380) to require the Federal financial institutions regu-
+latory agencies to take risk profiles and business models of institu-
+tions into account when taking regulatory actions, and for other
+purposes, having considered the same, reports favorably thereon
+with an amendment and recommends that the bill as amended do
+pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 3
+Background and Need for Legislation .................................................................... 3
+Committee Consideration ........................................................................................ 4
+Related Hearings ..................................................................................................... 4
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings ............................................................................... 7
+Performance Goals and Objectives ......................................................................... 7
+Committee Cost Estimate ....................................................................................... 7
+New Budget Authority and CBO Cost Estimate ................................................... 7
+Unfunded Mandates Statement .............................................................................. 7
+Earmark Statement ................................................................................................. 7
+Federal Advisory Committee Act Statement ......................................................... 7
+Applicability to the Legislative Branch ................................................................. 8
+Duplication of Federal Programs ............................................................................ 8
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 9
+Minority Views ......................................................................................................... 10
+59–006
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Taking Account of Institutions with Low Operation
+Risk Act of 2025’’ or the ‘‘TAILOR Act of 2025’’.
+SEC. 2. TAILORING REGULATION TO BUSINESS MODEL AND RISK.
+(a) DEFINITIONS.—In this section—
+(1) the term ‘‘Federal financial institutions regulatory agency’’ means the Of-
+fice of the Comptroller of the Currency, the Board of Governors of the Federal
+Reserve System, the Federal Deposit Insurance Corporation, the National Cred-
+it Union Administration, and the Bureau of Consumer Financial Protection; and
+(2) the term ‘‘regulatory action’’—
+(A) means any proposed, interim, or final rule or regulation; and
+(B) does not include any action taken by a Federal financial institutions
+regulatory agency that is solely applicable to an individual institution, in-
+cluding an enforcement action or order.
+(b) CONSIDERATIONANDTAILORING.—For any regulatory action occurring after the
+date of enactment of this Act, each Federal financial institutions regulatory agency
+shall—
+(1) take into consideration the risk profile and business models of each type
+of institution or class of institutions subject to the regulatory action; and
+(2) tailor the regulatory action applicable to an institution, or type of institu-
+tion, in a manner that limits the regulatory impact, including cost, human re-
+source allocation, and other burdens, on the institution or type of institution as
+is appropriate for the risk profile and business model involved.
+(c) FACTORS TO CONSIDER.—In carrying out the requirements of subsection (b)
+with respect to a regulatory action, each Federal financial institutions regulatory
+agency shall consider—
+(1) the aggregate effect of all applicable regulatory actions on the ability of
+institutions to flexibly serve customers of the institutions and local markets on
+and after the date of enactment of this Act;
+(2) the potential that efforts to implement the regulatory action and third-
+party service provider actions may work to undercut efforts to tailor the regu-
+latory action, as described in subsection (b)(2); and
+(3) the statutory provision authorizing the regulatory action, the congres-
+sional intent with respect to the statutory provision, and the underlying policy
+objectives of the regulatory action.
+(d) NOTICE OF PROPOSED AND FINAL RULEMAKING.—Each Federal financial insti-
+tutions regulatory agency shall disclose and document in every notice of proposed
+rulemaking and in any final rulemaking for a regulatory action how the agency has
+applied subsections (b) and (c).
+(e) REPORTS TO CONGRESS.—Not later than 1 year after the date of enactment of
+this Act and annually thereafter, each Federal financial institutions regulatory
+agency shall submit to the Committee on Banking, Housing, and Urban Affairs of
+the Senate and the Committee on Financial Services of the House of Representa-
+tives a report on the specific actions taken to tailor the regulatory actions of the
+Federal financial institutions regulatory agency pursuant to the requirements of
+this section.
+(f) LIMITEDLOOK-BACKAPPLICATION.—
+(1) IN GENERAL.—Each Federal financial institutions regulatory agency
+shall—
+(A) conduct a review of all final regulations issued pursuant to statutes
+enacted during the period beginning on the date that is 15 years before the
+date on which this Act is introduced in the House of Representatives and
+ending on the date of enactment of this Act; and
+(B) apply the requirements of this section to the regulations described in
+subparagraph (A).
+(2) REVISION.—Any regulation revised under paragraph (1) shall be revised
+not later than 3 years after the date of enactment of this Act.
+SEC. 3. SHORT-FORM CALL REPORTS FOR ALL BANKS ELIGIBLE FOR THE COMMUNITY BANK
+LEVERAGE RATIO.
+The appropriate Federal banking agencies, as defined in section 3 of the Federal
+Deposit Insurance Act (12 U.S.C. 1813), shall promulgate regulations establishing
+a reduced reporting requirement for all banks eligible for the Community Bank Le-
+verage Ratio, as defined in section 201(a) of the Economic Growth, Regulatory Re-
+lief, and Consumer Protection Act (12 U.S.C. 5371 note), when making the first and
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+third report of condition of a year as required by section 7(a) of the Federal Deposit
+Insurance Act (12 U.S.C. 1817(a)).
+SEC. 4. REPORT TO CONGRESS ON MODERNIZATION OF SUPERVISION.
+Not later than 18 months after the date of enactment of this Act, the appropriate
+Federal banking agencies, as defined in section 3 of the Federal Deposit Insurance
+Act (12 U.S.C. 1813), in consultation with State bank supervisors, shall submit to
+the Committee on Banking, Housing, and Urban Affairs of the Senate and the Com-
+mittee on Financial Services of the House of Representatives a report on the mod-
+ernization of bank supervision, including the following factors:
+(1) Changing bank business models.
+(2) Examiner workforce and training.
+(3) The structure of supervisory activities within banking agencies.
+(4) Improving bank-supervisor communication and collaboration.
+(5) The use of supervisory technology.
+(6) Supervisory factors uniquely applicable to community banks.
+(7) Changes in statutes necessary to achieve more effective supervision.
+PURPOSE AND SUMMARY
+Introduced on May 14, 2025, by Representative Barry
+Loudermilk (GA–11), H.R. 3380, the Taking Account of Institutions
+with Low Operational Risk (TAILOR) Act of 2025, requires federal
+financial institutions regulatory agencies, including the Federal De-
+posit Insurance Corporation (FDIC), Office of the Comptroller of
+the Currency (OCC), Federal Reserve Board (FRB), National Credit
+Union Administration (NCUA), and Consumer Financial Protection
+Bureau (CFPB), to consider an institution’s risk profile and busi-
+ness model when issuing new regulations or taking supervisory ac-
+tions and to limit the regulatory burden on institutions in accord-
+ance. H.R. 3380 requires disclosure of these tailoring efforts in
+rulemaking and annual reports to Congress.
+BACKGROUND AND NEED FOR LEGISLATION
+The current regulatory framework imposes a uniform, ‘‘one-size-
+fits-all’’ set of requirements on financial institutions, regardless of
+size, complexity, or risk. This approach, largely shaped by post-cri-
+sis legislation such as the Dodd-Frank Wall Street Reform and
+Consumer Protection Act (Dodd-Frank Act), fails to distinguish be-
+tween global systemically important banks and small, community-
+based institutions. While well-intentioned, these broad rules have
+placed a disproportionate burden on community banks, which play
+a critical role in serving rural areas, supporting small businesses,
+and promoting local economic growth. Importantly, these institu-
+tions were not responsible for the 2008 financial crisis. Recognizing
+the need for proportional regulation, Congress passed the bipar-
+tisan S. 2155, the Economic Growth, Regulatory Relief, and Con-
+sumer Protection Act, in 2018, which directed regulators to tailor
+requirements based on institutional risk. Unfortunately, in recent
+years, federal financial institutions regulators have moved away
+from that principle, reinstating rigid and overly broad standards.
+The TAILOR Act reasserts the importance of aligning regulation
+with risk and complexity. This bill reinforces accountability among
+financial regulators, promotes efficiency in supervision, and en-
+sures that community banks can focus their resources on serving
+their communities. The bill also includes important measures to
+streamline data reporting for eligible institutions and to evaluate
+how regulatory agencies can modernize their supervisory practices
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+to reflect evolving market conditions and technological advance-
+ments.
+COMMITTEE CONSIDERATION
+On May 14, 2025, Representative Barry Loudermilk (R–GA) in-
+troduced H.R. 3380, the Taking Account of Institutions with Low
+Operational Risk (TAILOR) Act of 2025. Representative Troy
+Downing (R–MT) was subsequently added as cosponsor. The bill
+was referred solely to the Committee on Financial Services. It was
+attached to the April 29, 2025, hearing titled ‘‘Regulatory Over-
+reach: The Price Tag on American Prosperity.’’
+In addition, Senator Mike Rounds (R–SD) introduced S. 427, a
+companion bill to H.R. 3380, with Senators Thom Tillis (R–NC),
+Bill Hagerty (R–TN), Cynthia Lummis (R–WY), Kevin Cramer (R–
+ND), and Steve Daines (R–MT). Senator Pete Ricketts (R–NE) was
+subsequently added as a cosponsor. On March 13, 2025, the Senate
+Banking Committee met in executive session to consider S. 875,
+which was amended to include Sen. Rounds’ TAILOR Act amend-
+ment. S. 875 was advanced and reported without written report.
+On May 21, 2025, the Committee on Financial Services met in
+open session to consider, among others, H.R. 3380. The Committee
+reported favorably H.R. 3380, as amended to the House of Rep-
+resentatives.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+3380:
+The Subcommittee on Financial Institutions of the Financial
+Services Committee held a hearing on April 29, 2025, entitled
+‘‘Regulatory Overreach: The Price Tag on American Prosperity.’’ A
+discussion draft version of the bill was considered in this hearing.
+The following witnesses testified: Ms. Sarah Christine Flowers,
+Senior Vice President, Senior Associate General Counsel, Bank Pol-
+icy Institute; Mr. J. Michael Radcliffe, Chairman and Chief Execu-
+tive Officer, Community Financial Services Bank (Benton, KY); Ms.
+Margaret E. Tahyar, Partner, Head of Financial Institutions
+Group, Davis Polk & Wardwell LLP; The Honorable Graham
+Steele, Academic Fellow, Rock Center for Corporate Governance,
+Stanford Law School.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On May 21, 2025, the Committee ordered H.R. 3380, as amend-
+ed, to be reported favorably to the House by a recorded vote of 29
+yeas and 23 nays, a quorum being present. (Record Vote No. FC–
+123).
+Before the question to report was called, the Committee adopted
+an amendment in the nature of a substitute, designated LOUD-
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+5
+ER_021, which made minor edits and technical changes, offered by
+Representative Loudermilk. The amendment was adopted by voice
+vote, a quorum being present.
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+6
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.531RH
+ereh
+9
+oilof
+tesffo
+tresnI
+
+7
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 3380 is to reinforce account-
+ability among financial regulators, promote efficiency in super-
+vision, and ensure that community banks can focus their resources
+on serving their communities.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 3380. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of rule XIII, the Committee will adopt as its own the cost
+estimate by the Director of the Congressional Budget Office once
+it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+8
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+This section establishes the short title as the ‘‘Taking Account of
+Institutions with Low Operation Risk Act of 2025’’ or the ‘‘TAILOR
+Act of 2025.’’
+Section 2. Tailoring regulation to business model and risk
+This section defines ‘‘Federal financial institutions regulatory
+agency’’ and ‘‘regulatory action.’’ It requires agencies to consider
+the risk profiles and business models of institution subject to regu-
+latory actions and to tailor those actions to limit burden appro-
+priately. It requires agencies to consider the aggregate effect of all
+applicable regulatory actions on the ability of institutions to flexi-
+bly serve customers of the institutions and local markets; the po-
+tential that implementation efforts may undercut tailoring; and the
+statutory authority and policy goals behind the regulations.
+This section also requires each Federal financial institutions reg-
+ulatory agency to disclose and document the considerations in pro-
+posed rulemakings. It requires congressional reports to be sub-
+mitted by each such agency describing the specific actions taken to
+effectuate the provisions of the bill within one year of enactment
+and annually thereafter. It instructs each such agency to conduct
+a review of all final regulations promulgated within the fifteen
+years prior to enactment of the bill and apply the requirements of
+the bill to such regulations within three years of enactment of the
+bill.
+Section 3. Short-form call reports for all banks eligible for the com-
+munity bank leverage ratio
+Section 3 requires appropriate Federal banking agencies to pro-
+mulgate regulations establishing reduced reporting requirements
+for all banks eligible for the Community Bank Leverage Ratio
+when filing their first and third quarterly call reports each year.
+Section 4. Report to Congress on modernization of supervision
+Section 4 requires the appropriate Federal financial institutions
+regulatory agencies, in consultation with State supervisors, to re-
+port to Congress no later than 18 months after enactment of the
+bill on modernization of bank supervision., The report must ad-
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+9
+dress changes to bank business models, examiner workforce and
+training, the supervisory structures within banking agencies, im-
+provements in bank-supervisor communication and collaboration,
+the use of supervisory technology, supervisory factors uniquely ap-
+plicable to community banks, and statutory changes necessary to
+achieve more effective supervision.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+H.R. 3380 does not repeal or amend any section of a statute.
+Therefore, the Office of Legislative Counsel did not prepare the re-
+port required under clause 3(e) of rule XIII of the House of Rep-
+resentatives.
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+MINORITY VIEWS
+This bill requires banking regulators and the CFPB to tailor all
+regulations for all their regulated entities, not just community
+banks, to account for a wide variety of risk profiles and industry
+costs (but not benefits). We’ve seen how tailoring in Trump’s first
+term led to regional bank failures in 2023. Moreover, instead of fo-
+cusing on helping community banks, this sweeping deregulatory
+bill would hamper financial regulators ability to promote safety
+and soundness and ensure consumer protection.
+Recent court rulings have made it easier for industry to block
+rules through litigation, and Trump’s Administration has worked to
+shutdown the CFPB while undermining the independence of finan-
+cial agencies by requiring White House approval of all regulations.
+This bill makes matters worse by making it hard for agencies to
+issue any rules given the ambiguous tailoring standards they
+would have to meet for each rule. Any one company out of thou-
+sands could sue and block a rule if they felt it was not sufficiently
+tailored to their firm’s unique business model and risk profile.
+Moreover, regulators would not have to consider a rule’s benefits,
+including safety and soundness or consumer protections. The bill
+would severely stymie the rulemaking process, including when
+agencies need to update old rules to adapt to an evolving market-
+place.
+The Dodd-Frank Wall Street Reform and Consumer Protection
+Act, among other statutes, already requires regulators to tier and
+tailor regulatory standards based on risk, ensuring that compliance
+burdens are minimized for community financial institutions and
+regulatory attention is focused on activities that may cause the
+greatest harm.1
+During Trump’s first term, a somewhat similar bill was pre-
+viously included in a large financial deregulatory package advanced
+by former Chair Hensarling, the ‘‘Financial CHOICE Act of 2017’’
+that passed by a party-line vote of 233–186,2 and then was later
+passed as a standalone bill, the ‘‘TAILOR Act of 2017’’ sponsored
+by Rep. Tipton, by a vote of 247–169.3 Congress later adopted the
+‘‘Economic Growth, Regulatory Relief, and Consumer Protection
+Act’’ sponsored by Sen. Mike Crapo in 2018,4 which among other
+things tailored rules for regional banks, but Silicon Valley Bank
+(SVB) and a couple other regional banks failed in 2023.5
+Groups like Americans for Financial Reform (AFR), Center for
+Responsible Lending (CRL), and AARP oppose the bill. According
+to Americans Financial Reform, ‘‘This sweeping mandate would
+1See CRS, Over the Line: Asset Thresholds in Bank Regulation (May 3, 2021).
+2H.R. 10, 115th Cong.
+3H.R. 1116, 115th Cong.
+4S. 2155, 115th Cong. (P.L. 115–174).
+5Fed, Review of the Federal Reserve’s Supervision and Regulation of Silicon Valley Bank (Apr.
+28, 2023).
+(10)
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6604 Sfmt 6604 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+11
+force regulators to prioritize the costs of regulations to financial in-
+stitutions over the offsetting benefits to consumers and the general
+public. The mandate implies that regulators would be unable to act
+to protect the public if such action led to any significant costs to
+Wall Street banks. Any regulated entity, including the largest
+banks, could use this TAILOR Act language as the basis for a law-
+suit to overturn a rule, simply by claiming a regulation had a sig-
+nificant impact or cost for them. . . . This requirement is not only
+dangerous but unnecessary. It ignores the fact that regulators are
+already scaling rules to the size and business model of financial in-
+stitutions.’’6
+For these reasons, we oppose H.R. 3380.
+Sincerely,
+MAXINE WATERS,
+Ranking Member.
+NYDIA M. VELA ´ ZQUEZ,
+AL GREEN,
+BILL FOSTER,
+JUAN VARGAS,
+STEPHEN F. LYNCH,
+EMANUEL CLEAVER, II,
+JOYCE BEATTY,
+RASHIDA TLAIB,
+SYLVIA R. GARCIA,
+NIKEMA WILLIAMS,
+Members of Congress.
+Æ
+6AFR, Letter to FSC re TAILOR Act (Mar. 12, 2018).
+VerDate Sep 11 2014 02:31 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6604 Sfmt 6611 E:\HR\OC\HR135.XXX HR135
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

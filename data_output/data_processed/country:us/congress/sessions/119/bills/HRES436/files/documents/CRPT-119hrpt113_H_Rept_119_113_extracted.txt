@@ -1,0 +1,3112 @@
+Title: PROVIDING FOR CONSIDERATION OF THE BILL (H.R. 1)
+Official Title: PROVIDING FOR CONSIDERATION OF THE BILL (H.R. 1)
+Number of Sections: 20
+Source: documents - H. Rept. 119-113
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–113
+TO PROVIDE FOR RECONCILIATION PURSUANT TO
+TITLE II OF H. CON. RES. 14
+MAY21, 2025.—Referred to the House Calendar and ordered to be printed
+Mrs. HOUCHIN, from the Committee on Rules,
+submitted the following
+R E P O R T
+[To accompany H. Res. 436]
+The Committee on Rules, having had under consideration House
+Resolution 436, by a record vote of 8 to 4, report the same to the
+House with the recommendation that the resolution be adopted.
+SUMMARY OF PROVISIONS OF THE RESOLUTION
+The resolution provides for consideration of H.R. 1, the One Big
+Beautiful Bill Act, under a closed rule. The resolution waives all
+points of order against consideration of the bill. The resolution pro-
+vides that an amendment in the nature of a substitute consisting
+of the text of Rules Committee Print 119–3, modified by the
+amendment printed in the Rules Committee report, shall be consid-
+ered as adopted and the bill, as amended, shall be considered as
+read. The resolution waives all points of order against provisions
+in the bill, as amended. The resolution provides two hours of gen-
+eral debate equally divided and controlled by the chair and ranking
+minority member of the Committee on the Budget or their respec-
+tive designees and the chair and ranking minority member of the
+Committee on Ways and Means or their respective designees. The
+resolution provides one motion to recommit. The resolution pro-
+vides that clause 5(b) of rule XXI shall not apply to the bill or
+amendments thereto.
+EXPLANATION OF WAIVERS
+The waiver of all points of order against consideration of H.R. 1
+includes:
+59–008
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+—Clause 4(a) of rule XIII, which prohibits the consideration of a
+measure or matter reported by a committee until the proposed text
+of the report has been available for 72 hours.
+—Clause 3(e) of rule XIII, which requires the inclusion of a com-
+parative print for a bill or joint resolution proposing to repeal or
+amend a statute.
+—Clause 3(d)(1) of rule XIII, which requires the inclusion of a
+committee cost estimate in a committee report.
+—Section 425 of the Congressional Budget Act, which prohibits
+consideration of legislation that would increase the direct costs of
+Federal intergovernmental mandates beyond $50,000,000 (adjusted
+for inflation) unless the legislation provides for new budget author-
+ity or the legislation appropriates sufficient funds to cover the new
+costs.
+The waiver of all points of order against provisions of H.R. 1, as
+amended, includes:
+—Clause 4 of rule XXI, which prohibits reporting a bill carrying
+an appropriation from a committee not having jurisdiction to report
+an appropriation.
+—Clause 5(a) of rule XXI, which prohibits a bill or joint resolu-
+tion carrying a tax or tariff measure from being reported by a com-
+mittee not having jurisdiction to report tax or tariff measures.
+Although the resolution provides that clause 5(b) of rule XXI
+does not apply to this bill, the rule isolates only specified provisions
+and does not look at the essential interactions of all the tax provi-
+sions. While the bill as a whole provides broad tax relief, the provi-
+sion is necessary because of the narrow focus of the rule.
+COMMITTEE VOTES
+The results of each record vote on an amendment or motion to
+report, together with the names of those voting for and against, are
+printed below:
+Rules Committee record vote No. 70
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #378, offered by Representative McGovern, which re-
+quires NIH to restore all awarded, unspent, but obligated appro-
+priated NIH grant funding. Defeated: 4–7
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... ................... Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 71
+Motion by Mr. McGovern to strike the last sentence of the rule,
+which states that Clause 5(b) of rule XXI, the House rule requiring
+a supermajority vote to increase income taxes, does not apply to
+this bill. Defeated: 4–8
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 72
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #233, offered by Representative Jeffries, which strikes
+all provisions that would cause millions of Americans to lose
+healthcare and food assistance. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 73
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #245, offered by Representative Underwood, which
+makes the enhanced premium tax credits that lower the costs of
+health insurance plans offered on the ACA Marketplaces perma-
+nent. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 74
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #267, offered by Representative DelBene, which makes
+the Child Tax Credit fully refundable and increases the credit
+amount from $2,000 per child to $6,360 for newborns, $4,320 for
+children ages one through six, and $3,600 for children age six
+through 17. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+VerDate Sep 11 2014 13:19 May 22, 2025 Jkt 059008 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+Majority Members Vote Minority Members Vote
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 75
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #250, offered by Representative Doggett, which re-
+duces the cost of the bill by about half by ensuring only the 98%
+of taxpayers earning $400,000 orless each year receive a tax break
+and the 2% of taxpayers earning over $400,000 do not receive any
+new tax breaks. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No, 76
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #40, offered by Representative Chu, which ensures
+that no one earning more than $10 million per year receives a tax
+cut. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 77
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #283, offered by Representative Gomez, which estab-
+lishes a 39.6% tax bracket for income over $1,000,000,000. De-
+feated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+5
+Rules Committee record vote No. 78
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #29, offered by Representative Craig, which strikes
+harmful provisions that would slash $313 billion in food assistance
+for children, seniors, and veterans. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 79
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #32, offered by Representative Hayes, which prevents
+any cuts to the Supplemental Nutrition Assistance Program from
+taking effect until certification these provisions will not result in a
+reduction of benefits. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 80
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #33, offered by Representative Brown, which prevents
+families with children as young as 7 years of age from losing food
+assistance. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 81
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #25, offered by Representative McClain Delaney, which
+prevents Sections 10001 through 100012 from taking effect until
+certification these provisions will not result in a decrease in bene-
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+6
+fits for households with children under the age of 18. Defeated: 4–
+8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 82
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #184, offered by Representative Scott, which prohibits
+the bill from going into effect unless cuts to Medicaid and SNAP
+would not result in fewer families being eligible for free school
+meals. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 83
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #68, offered by Representative Vasquez, which inserts
+the text of the Affordable Insulin Now Act from the 118th Congress
+(H.R. 1488), which limits cost-sharing for insulin under private
+health insurance under private health insurance for a month’s sup-
+ply of selected insulin products at $35 or 25% of a plan’s negotiated
+price (after any price concessions), whichever is less. Defeated: 4–
+8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Comnittee record vote No. 84
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #42, offered by Representative Chu, which strikes the
+provisions in the bill that increase costs, increase red tape, make
+it harder for people to get coverage, and cause coverage loss on the
+ACA marketplaces. Defeated: 4–8
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+7
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 85
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #242, offered by Representative Gomez, which extends
+eligibility for the ACA Premium Tax Credit to include children and
+pregnant woman, including those losing Medicaid coverage. De-
+feated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 86
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #215, offered by Representative Rivas, which strikes
+the provision creating a moratorium on states or a political subdivi-
+sion from enforcing any law or regulation limiting, restricting, or
+regulating artificial intelligence models, artificial intelligence sys-
+tems, or automated decision systems entered into interstate com-
+merce. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 87
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #202, offered by Representative Ocasio-Cortez, which
+subtitle A of title IV shall not go into effect until the Inspector
+General of The Department of Energy certifies that that the imple-
+mentation of sections 41002 and 41004 of this subtitle will not re-
+sult in increased risks of corruption or ‘‘pay-to-play’’ politics that
+would adversely impact the integrity of the permitting processes of
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+8
+the Department of Energy and the Federal Energy Regulatory
+Commission. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 88
+Motion by Ms. Scanlon to amend the rule to make in order
+amendment #374, offered by Representative Mike Thompson,
+which strikes section 112029 which eliminates the $200 tax on si-
+lencers which has been in place since 1934. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 89
+Motion by Ms. Scanlon to amend the rule to make in order
+amendment #27, offered by Representative Johnson, which strikes
+bill text that would prevent the courts from enforcing a contempt
+citation for failure to comply with an injunction or a temporary re-
+straining order. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 90
+Motion by Ms. Scanlon to amend the rule to make in order
+amendment #150, offered by Representative Scanlon, which pro-
+hibits funds from Title VII, Subtitle A—Immigration Matters, from
+being used to implement or defend Executive Order 14160, entitled
+‘‘Protecting the Meaning and Value of American Citizenship.’’ De-
+feated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+9
+Majority Members Vote Minority Members Vote
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 91
+Motion by Ms. Scanlon to amend the rule to make in order
+amendment #238, offered by Representative Clark, which strikes
+the section that defunds Planned Parenthood and reduces access to
+life saving cancer screenings and reproductive health care. De-
+feated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 92
+Motion by Ms. Scanlon to amend the rule to make in order
+amendment #411, offered by Representative Scanlon, which strikes
+
+Section 2:
+section 42106, which repeals and rescinds funds to address air pol-
+lution in schools. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 93
+Motion by Ms. Scanlon to amend the rule to make in order
+amendment #71, offered by Representative Raskin, which prevents
+Title VII from taking effect until the Attorney General certifies
+that any grant administered by the Office of Justice Programs of
+the Department of Justice that was terminated after January 20,
+2025, has been reinstated. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+10
+Majority Members Vote Minority Members Vote
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 94
+Motion by Ms. Scanlon to amend the rule to make in order
+amendment #35, offered by Representative Jayapal, which pro-
+hibits the use of funds in Subtitle A of Title VII from being used
+by Immigration and Customs Enforcement to detain or deport U.S.
+citizens. Defeated: 4–7
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... ................... Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 95
+Motion by Ms. Leger Fernandez to add a self-executed second-de-
+gree amendment to the manager’s amendment striking the inser-
+tion of a new section 44202, which would result in at least 300,000
+people losing health care coverage and eliminate abortion coverage
+in Marketplace plans or prohibit cost sharing reductions for plans
+that maintain abortion coverage, resulting in plans throughout the
+country dropping coverage for abortion care. Defeated: 4–7
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... ................... Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 96
+Motion by Ms. Leger Fernandez to amend the rule to make in
+order amendment #47, offered by Representative Sykes, which
+strikes language in the bill that cuts Medicaid. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+11
+Majority Members Vote Minority Members Vote
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 97
+Motion by Ms. Leger Fernandez to amend the rule to make in
+order amendment #485, offered by Representative Beyer, which
+strikes the elimination of the electricity investment and production
+tax credits in order to keep electricity prices low. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 98
+Motion by Ms. Leger Fernandez to amend the rule to make in
+order amendment #483, offered by Representative Leger
+Fernandez, which protects state budgets and education and health
+care funding from reductions in oil and gas revenues. Defeated: 4–
+8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 99
+Motion by Ms. Leger Fernandez to amend the rule to make in
+order amendment #265, offered by Representative Leger
+Fernandez, which strikes Section 110004. Extension of Increased
+Child Tax Credit and Temporary Enhancement and replaces with
+H.R. 2763, the American Family Act. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+12
+Rules Committee record vote No. 100
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #2, offered by Representative Gillen, which strikes the
+limitation on the State and Local Tax deduction. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 101
+Motion by Mrs. Houchin to report the rule. Adopted: 8–4
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Yea Mr. McGovern................................................... Nay
+Mr. Norman ...................................................... Yea Ms. Scanlon ..................................................... Nay
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Nay
+Mrs. Houchin .................................................... Yea Ms. Leger Fernandez........................................ Nay
+Mr. Langworthy................................................. Yea
+Mr. Austin Scott ............................................... Yea
+Mr. Griffith ....................................................... Yea
+Mr. Jack ............................................................ Yea
+Ms. Foxx, Chairwoman ..................................... Yea
+SUMMARY OF THE AMENDMENT TO H.R. 1 CONSIDERED AS ADOPTED
+
+Section 3:
+1. Arrington (TX): Makes technical and conforming changes to
+clarify references and comply with Senate Procedural Require-
+ments.
+TEXT OF AMENDMENT TO H.R. 1 CONSIDERED AS ADOPTED
+Page 10, in the item relating to section 110115, strike ‘‘MAGA’’
+and insert ‘‘Trump’’.
+Page 10, in the item relating to section 110116, strike ‘‘MAGA’’
+and insert ‘‘Trump’’.
+Page 11, in the item relating to section 112008, strike ‘‘Phase-out
+and restrictions’’ and insert ‘‘Restrictions’’.
+Page 12, in the item relating to section 112009, strike ‘‘Phase-out
+and restrictions’’ and insert ‘‘Restrictions’’.
+Page 12, in the item relating to section 112012, strike ‘‘Phase-out
+and restrictions’’ and insert ‘‘Restrictions’’.
+Page 12, after the item relating to section 112031, insert the fol-
+lowing:
+Sec. 112032. Treatment of payments from partnerships to partners for property or
+services.
+Page 123, line 16, strike ‘‘, both domestically and internation-
+ally’’.
+Strike section 41004 and insert the following:
+SEC. 41004. EXPEDITED PERMITTING.
+The Natural Gas Act is amended by adding after section 15 (15
+U.S.C. 717n) the following:
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+13
+‘‘SEC. 15A. EXPEDITED PERMITTING.
+‘‘(a) DEFINITIONS.—In this section:
+‘‘(1) COVERED APPLICATION.—The term ‘covered application’
+means an application for an authorization under section 3 or
+a certificate of public convenience and necessity under section
+7, as applicable, for activities that include construction.
+‘‘(2) FEDERAL AUTHORIZATION.—The term ‘Federal authoriza-
+tion’ has the meaning given such term in section 15(a).
+‘‘(b) EXPEDITED REVIEW.—
+‘‘(1) NOTIFICATION OF ELECTION AND PAYMENT OF FEE.—Prior
+to submitting a covered application, an applicant may elect to
+obtain an expedited review of authorizations pursuant to Sec-
+tions 3 and 7 of the Natural Gas Act for the approval of such
+covered application by—
+‘‘(A) submitting to the Commission a written notifica-
+tion—
+‘‘(i) of the election; and
+‘‘(ii) that identifies each Federal authorization re-
+quired for the approval of the covered application and
+each Federal, State, or interstate agency that will con-
+sider an aspect of each such Federal authorization;
+and
+‘‘(B) making a payment to the Secretary of the Treasury
+in an amount that is the lesser of—
+‘‘(i) one percent of the expected cost of the applicable
+construction, as determined by the applicant; or
+‘‘(ii) $10,000,000 (adjusted for inflation, as the Sec-
+retary of the Treasury determines necessary).
+‘‘(2) SUBMISSION AND REVIEW OF APPLICATIONS.—
+‘‘(A) APPLICATION.—Not later than 60 days after the date
+on which an applicant elects to obtain an expedited review
+under paragraph (1), the applicant shall submit to the
+Commission the covered application for which such elec-
+tion for an expedited review was made, which shall in-
+clude—
+‘‘(i) the scope of the applicable activities, including
+capital investment, siting, temporary construction, and
+final workforce numbers;
+‘‘(ii) the industrial sector of the applicant, as classi-
+fied by the North American Industry Classification
+System; and
+‘‘(iii) a list of the statutes and regulations that are
+relevant to the covered application.
+‘‘(B) APPROVAL.—
+‘‘(i) STANDARD DEADLINE.—Except as provided in
+clause (ii), not later than one year after the date on
+which an applicant submits a covered application pur-
+suant to subparagraph (A)—
+‘‘(I) each Federal, State, or interstate agency
+identified under paragraph (1)(A)(ii) shall—
+‘‘(aa) review the relevant Natural Gas Act
+
+Section 4:
+sections 3 or 7 authorization identified under
+such paragraph; and
+‘‘(bb) subject to any conditions determined
+by such agency to be necessary to comply with
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+14
+the requirements of the Federal law under
+which such approval is required, approve such
+Federal authorization; and
+‘‘(II) the Commission shall—
+‘‘(aa) review the covered application; and
+‘‘(bb) subject to any conditions determined
+by the Commission to be necessary to comply
+with the requirements of this Act, approve the
+covered application.
+‘‘(ii) EXTENDED DEADLINE.—
+‘‘(I) EXTENSION.—With respect to a covered ap-
+plication submitted pursuant to subparagraph (A),
+the Commission may approve a request by an
+agency identified under paragraph (1)(A)(ii) for an
+extension of the one-year deadline imposed by
+clause (i) of this subparagraph for a period of 6
+months if the Commission receives consent from
+the relevant applicant.
+‘‘(II) APPLICABILITY.—If the Commission ap-
+proves a request for an extension under subclause
+(I), such extension shall apply to the applicable
+covered application and the Federal authorization
+for which the extension was requested.
+‘‘(C) EFFECT OF FAILURE TO MEET DEADLINE.—
+‘‘(i) DEEMED APPROVAL.—Any covered application
+submitted pursuant to subparagraph (A), or Federal
+authorization that is required with respect to such
+covered application, that is not approved by the appli-
+cable deadline under subparagraph (B) shall be
+deemed approved in perpetuity.
+‘‘(ii) COMPLIANCE.—A person carrying out activities
+under a covered application or Federal authorization
+that has been deemed approved under clause (i) shall
+comply with the requirements of the Natural Gas Act.
+‘‘(c) JUDICIAL REVIEW.—
+‘‘(1) REVIEWABLE CLAIMS.—
+‘‘(A) IN GENERAL.—No court shall have jurisdiction to re-
+view a claim with respect to the approval of a covered ap-
+plication or Federal authorization under subparagraph (B)
+or (C)(i) of subsection (b)(2), except for a claim under chap-
+ter 7 of title 5, United States Code, filed not later than 180
+days after the date of such approval by—
+‘‘(i) the applicant; or
+‘‘(ii) a person who has suffered, or likely and immi-
+nently will suffer, direct and irreparable economic
+harm from the approval.
+‘‘(B) CLAIMS BY CERTAIN NON-APPLICANTS.—An associa-
+tion may only bring a claim on behalf of one or more of its
+members pursuant to subparagraph (A)(ii) if each member
+of the association has suffered, or likely and imminently
+will suffer, the harm described in subparagraph (A)(ii).
+‘‘(2) STANDARD OF REVIEW.—If an applicant or other person
+brings a claim described in paragraph (1) with respect to the
+approval of a covered application or Federal authorization
+under subsection (b)(2)(B), the court shall hold unlawful and
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00014 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+15
+set aside any agency actions, findings, and conclusions in ac-
+cordance with section 706(2) of title 5, United States Code, ex-
+cept that, for purposes of the application of subparagraph (E)
+of such section, the court shall apply such subparagraph by
+substituting ‘clear and convincing evidence’ for ‘substantial evi-
+dence’.
+‘‘(3) EXCLUSIVE JURISDICTION.—The United States Court of
+Appeals for the District of Columbia Circuit shall have original
+and exclusive jurisdiction over any claim—
+‘‘(A) alleging the invalidity of subsection (b); or
+‘‘(B) that an agency action relating to a covered applica-
+tion or Federal authorization under subsection (b) is be-
+yond the scope of authority conferred by the Federal law
+under which such agency action is made.’’.
+Page 278, line 2, strike ‘‘limiting’’ and insert ‘‘of that State or a
+political subdivision thereof limiting’’.
+Page 291, line 10, strike ‘‘(or any successor regulation)’’.
+Page 296, line 23, strike ‘‘October 1, 2027’’ and insert ‘‘December
+31, 2026’’.
+Page 297, line 14, strike ‘‘subsection (a)(10(A)(i)(VIII)’’ and insert
+‘‘subsection (a)(10)(A)(i)(VIII)’’.
+Page 306, line 25, insert ‘‘and is not a child or pregnant woman
+who is lawfully residing in the United States and receiving medical
+assistance pursuant to section 1903(v)(4),’’ after ‘‘alien’’.
+Page 307, line 3, insert ‘‘and is not such a child or pregnant
+woman’’ after ‘‘alien’’.
+Page 307, line 11, insert ‘‘and is not such a child or pregnant
+woman’’ after ‘‘alien’’.
+Page 307, insert after line 20 the following (and redesignate ac-
+cordingly):
+(I) such term does not include an alien described
+in subsection (b)(4) of such section (other than a
+qualified alien under section 402(b)(2) of such
+Act);
+Page 307, line 25, insert ‘‘431’’ before ‘‘shall’’.
+Page 308, line 11, insert ‘‘431’’ before ‘‘shall’’.
+Page 311, line 14, strike ‘‘October 1’’ and insert ‘‘December 31’’.
+Page 333, line 3, strike ‘‘FOR MINORS’’.
+Page 333, line 14, strike ‘‘under 18 years of age’’.
+Page 343, line 3, strike ‘‘THE PAYMENT LIMIT’’ and insert ‘‘PAY-
+MENTS’’.
+Page 343, strike lines 5 through 13 and insert the following:
+(a) IN GENERAL.—Subject to subsection (b), the Secretary of
+Health and Human Services (in this section referred to as the Sec-
+retary) shall revise section 438.6(c)(2)(iii) of title 42, Code of Fed-
+eral Regulations (or a successor regulation) such that, with respect
+to a payment described in such section made for a service furnished
+during a rating period beginning on or after the date of the enact-
+ment of this Act, the total payment rate for such service is limited
+to—
+(1) in the case of a State that provides coverage to all indi-
+viduals described in section 1902(a)(10)(A)(i)(VIII) of the Social
+Security Act (42 U.S.C. 1396a(a)(10)(A)(i)(VIII)) that is equiva-
+lent to minimum essential coverage (as described in section
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00015 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+16
+5000A(f)(1)(A) of the Internal Revenue Code of 1986 and deter-
+mined in accordance with standards prescribed by the Sec-
+retary in regulations) under the State plan (or waiver of such
+plan) of such State under title XIX of such Act, 100 percent of
+the specified total published Medicare payment rate (or, in the
+absence of a specified total published Medicare payment rate,
+an equivalent Medicare payment rate); or
+(2) in the case of a State other than a State described in
+paragraph (1), 110 percent of the specified total published
+Medicare payment rate (or, in the absence of a specified total
+published Medicare payment rate, an equivalent Medicare pay-
+ment rate).
+Page 343, line 21, strike ‘‘of Health and Human Services’’.
+Page 344, insert after line 2 the following (and redesignate ac-
+cordingly):
+(c) TREATMENT OF EXPANSION STATES.—The revisions described
+in subsection (a) shall provide that, with respect to a State that be-
+gins providing the coverage described in paragraph (1) of such sub-
+
+Section 5:
+section on or after the date of the enactment of this Act, the limita-
+tion described in such paragraph shall apply to such State with re-
+spect to a payment described in section 438.6(c)(2)(iii) of title 42,
+Code of Federal Regulations (or a successor regulation) for a serv-
+ice furnished during a rating period beginning on or after the date
+on which such State begins providing such coverage, including with
+respect to a payment so described for which written prior approval
+was made before such date.
+Page 344, insert after line 3 the following (and redesignate ac-
+cordingly):
+(1) EQUIVALENT MEDICARE PAYMENT RATE.—The term ‘‘equiv-
+alent Medicare payment rate’’ means amounts calculated as
+payment for specific services comparable to the service fur-
+nished that have been developed under part A or part B of title
+XVIII of the Social Security Act (42 U.S.C. 1396 et seq.).
+Page 344, line 11, insert ‘‘including the service furnished’’ after
+‘‘services’’.
+Page 349, line 23, strike ‘‘January 1, 2029’’ and insert ‘‘not later
+than December 31, 2026, or, at the option of the State, such earlier
+date as the State may specify’’.
+Page 354, line 14, insert ‘‘of similar acuity (including outpatient
+care relating to other services specified in this subclause)’’ after
+‘‘other services’’.
+Page 354, line 15, insert ‘‘or’’ after the semicolon.
+Page 355, line 11, strike the semicolon and all that follows
+through line 15, and insert a period.
+Page 360, line 22, strike ‘‘October 1, 2028 (or, if earlier, the date
+that precedes January 1, 2029, by the number of months specified
+by the State under paragraph (1)(A) plus 3 months)’’ and insert
+‘‘the date that precedes December 31, 2026 (or, if the State elects
+under paragraph (1) to specify an earlier date, such earlier date)
+by the number of months specified by the State under paragraph
+(1)(A) plus 3 months’’.
+Page 365, line 14, insert ‘‘or’’ after the semicolon.
+Page 365, line 15, strike ‘‘and’’ and insert ‘‘or’’.
+Page 365, line 16, strike ‘‘or’’ and all that follows through line 21.
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00016 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+17
+Page 366, line 12, insert ‘‘or’’ after the semicolon.
+Page 366, line 14, strike ‘‘; or’’ and all that follows through line
+17, and insert a period.
+Page 366, line 19, strike ‘‘means’’ and insert ‘‘includes’’.
+Page 366, line 22, insert ‘‘and’’ after the semicolon.
+Page 367, line 2, strike ‘‘; or’’ and all that follows through line
+5, and insert a period.
+Page 367, line 21, strike ‘‘RULEMAKING’’ and insert ‘‘GUIDANCE’’.
+Page 367, line 21, strike ‘‘July 1, 2027’’ and insert ‘‘December 31,
+2025’’.
+Page 367, line 22, strike ‘‘promulgate regulations for purposes of
+carrying out’’ and insert ‘‘issue guidance relating to the initial im-
+plementation of’’.
+Page 367, line 25, strike ‘‘GRANTS’’ and insert ‘‘DEVELOPMENT OF
+GOVERNMENT EFFICIENCY GRANTS’’.
+Page 371, line 25, strike ‘‘or any other provision of law’’.
+Page 397, insert after line 9 the following:
+SEC. 44202. FUNDING COST SHARING REDUCTION PAYMENTS.
+
+Section 6:
+Section 1402 of the Patient Protection and Affordable Care Act
+(42 U.S.C. 18071) is amended by adding at the end the following
+new subsection:
+‘‘(h) FUNDING.—
+‘‘(1) IN GENERAL.—There are appropriated out of any monies
+in the Treasury not otherwise appropriated such sums as may
+be necessary for purposes of making payments under this sec-
+tion for plan years beginning on or after January 1, 2026.
+‘‘(2) LIMITATION.—
+‘‘(A) IN GENERAL.—The amounts appropriated under
+paragraph (1) may not be used for purposes of making pay-
+ments under this section for a qualified health plan that
+provides health benefit coverage that includes coverage of
+abortion.
+‘‘(B) EXCEPTION.—Subparagraph (A) shall not apply to
+payments for a qualified health plan that provides cov-
+erage of abortion only if necessary to save the life of the
+mother or if the pregnancy is a result of an act of rape or
+incest.’’.
+Page 439, line 14, insert before the comma the following: ‘‘(as de-
+fined in section 509 of the Gramm-Leach-Bliley Act (15 U.S.C.
+6809))’’.
+Insert after section 60003 the following:
+SEC. 60004. STATE BORDER SECURITY REIMBURSEMENT.
+(a) IN GENERAL.—In addition to amounts otherwise available,
+there is appropriated to the Secretary of Homeland Security, for
+fiscal year 2025, out of any money in the Treasury not otherwise
+appropriated, $12,000,000,000, to remain available until September
+30, 2029, to carry out this section.
+(b) USE OF FUNDS.—The Secretary of Homeland Security shall
+use amounts made available under subsection (a) to make grants
+to States for costs associated with actions taken on or after Janu-
+ary 21, 2021, to assist the Federal border security missions to en-
+force the immigration laws, including through detention and re-
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00017 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+18
+moval, and to combat the unlawful entry of persons and contra-
+band.
+(c) APPLICATION.—The Secretary of Homeland Security shall de-
+velop a process for States to submit a grant application, together
+with satisfactory evidence of costs incurred, to seek reimbursement
+for any expenses described in subsection (b).
+(d) PROHIBITION.—The Secretary of Homeland Security may not
+make a grant for reimbursement under this section to a State if
+such State has received such reimbursement under any other grant
+program of the Department of Homeland Security.
+Page 533, strike line 12 and all that follows through line 16 on
+page 542, and insert the following (and conform the table of con-
+tents accordingly):
+SEC. 70200. REVIEW OF AGENCY RULEMAKING.
+(a) DEREGULATION INITIATIVE.—
+(1) APPROPRIATION.—In addition to amounts otherwise avail-
+able, there is appropriated to the Director of the Office of Man-
+agement and Budget for fiscal year 2025, out of any money in
+the Treasury not otherwise appropriated, $100,000,000 to re-
+main available through September 30, 2028, to carry out this
+
+Section 7:
+section.
+(2) USE OF FUNDS.—The Director of the Office of Manage-
+ment and Budget shall use amounts made available under
+paragraph (1) to pay expenses associated with improving regu-
+latory processes and analyzing and reviewing rules issued by
+a covered agency.
+(b) DEFINITIONS.—In this section:
+(1) COVERED AGENCY.—The term ‘‘covered agency’’—
+(A) means—
+(i) the Department of Education;
+(ii) the Department of Energy;
+(iii) the Department of Health and Human Services;
+(iv) the Department of Homeland Security;
+(v) the Department of Justice;
+(vi) the Consumer Financial Protection Bureau; and
+(vii) the Environmental Protection Agency; and
+(B) does not include the Social Security Administration.
+(2) RULE.—The term ‘‘rule’’ has the meaning given the term
+in section 551 of title 5, United States Code, only to the extent
+such rule has been issued by a covered agency.
+Page 578, beginning on line 10, strike section 80122.
+Page 591, beginning on line 10, strike section 80132.
+Page 595, line 17, strike ‘‘202’’ and insert ‘‘202(a)’’.
+Page 595, line 18, strike ‘‘1712’’ and insert ‘‘1712(a)’’.
+Page 602, line 8, strike ‘‘Administrative and’’.
+Page 602, beginning on line 9, strike ‘‘administrative or’’.
+Page 602, beginning on line 13, strike ‘‘administrative or’’.
+Page 605, line 6, strike ‘‘The’’ and insert ‘‘Notwithstanding the
+2024–2029 National Outer Continental Shelf Oil and Gas Leasing
+Program, the’’.
+Page 608, line 17, strike ‘‘The’’ and insert ‘‘Notwithstanding the
+2024–2029 National Outer Continental Shelf Oil and Gas Leasing
+Program, the’’.
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00018 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+19
+Page 629, beginning on line 2, strike sections 80301 through
+
+Section 8:
+80305.
+Page 640, beginning on page 1, strike sections 80315 through
+
+Section 9:
+80317.
+Strike section 90002 (and redesignate sections 90003, 90004, and
+90005 as sections 90002, 90003, and 90004, respectively, and con-
+form the table of contents in section 2 accordingly).
+Page 677, line 2, insert ‘‘, 71,’’ after ‘‘43’’.
+Page 687, beginning on line 17, strike ‘‘section 90005(a)(4)’’ and
+insert ‘‘section 90004(a)(4)’’.
+Page 688, beginning on line 3, strike ‘‘section 90005’’ and insert
+‘‘section 90004’’.
+Page 712, after line 11, insert the following:
+(g) OMISSION OF CORRECT SOCIAL SECURITY NUMBER TREATED AS
+MATHEMATICAL OR CLERICAL ERROR.—Section 6213(g)(2)(I) is
+amended by striking ‘‘section 24(e)’’ and inserting ‘‘section 24’’.
+Page 712, line 12, strike ‘‘(g)’’ and insert ‘‘(h)’’.
+Page 716, after line 24, insert the following:
+(b) MODIFICATION OF INFLATION ADJUSTMENT.—Section
+55(d)(4)(B) is amended—
+(1) by striking ‘‘2018’’ in clause (i) and inserting ‘‘2026’’, and
+(2) by striking ‘‘2017’’ in clause (i)(II) and inserting ‘‘2025’’.
+Page 717, line 1, strike ‘‘(b)’’ and insert ‘‘(c)’’.
+Page 718, strike line 18 and all that follows through page 719,
+line 6, and insert the following:
+‘‘(a) IN GENERAL.—In the case of an individual, the amount of the
+taxpayer’s itemized deductions shall be reduced by the sum of—
+‘‘(1) 5⁄
+37
+of the lesser of—
+‘‘(A) the amount of the deduction allowable to the tax-
+payer under section 164 for such taxable year (determined
+without regard to this section), or
+‘‘(B) the excess (if any) of—
+‘‘(i) the taxpayer’s taxable income for such taxable
+year (determined without regard to this section and
+increased by the amount of the taxpayer’s itemized de-
+ductions), over
+‘‘(ii) the dollar amount at which the 37 percent rate
+bracket under section 1 begins with respect to the tax-
+payer, plus
+‘‘(2) 2⁄
+37
+of the lesser of—
+‘‘(A) so much (if any) of the taxpayer’s itemized deduc-
+tions as exceed the amount described in paragraph (1)(A),
+or
+‘‘(B) the excess (if any) of—
+‘‘(i) the amount described in subparagraph (1)(B)(i),
+over
+‘‘(ii) the sum of the amounts described in paragraphs
+(1)(A) and (1)(B)(ii).
+‘‘(b) ITEMIZED DEDUCTIONS.—For purposes of subsection (a), any
+reference to the taxpayer’s itemized deductions shall be treated as
+reference to such deductions determined without regard to this sec-
+tion.’’.
+Page 719, line 7, strike ‘‘(b)’’ and insert ‘‘(c)’’.
+Page 729, line 22, strike ‘‘(as defined in section 24(h)(7))’’.
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00019 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+20
+Page 730, after line 2, insert the following:
+‘‘(3) SOCIAL SECURITY NUMBER DEFINED.—For purposes of
+paragraph (1), the term ‘social security number’ shall have the
+meaning given such term in section 24(h)(7).’’.
+Page 737, line 18, strike ‘‘(as defined in section 24(h)(7))’’.
+Page 737, after line 22, insert the following:
+‘‘(3) SOCIAL SECURITY NUMBER DEFINED.—For purposes of
+paragraph (1), the term ‘social security number’ shall have the
+meaning given such term in section 24(h)(7).’’.
+Page 741, lines 4 and 5, strike ‘‘(as defined in section 24(h)(7))’’.
+Page 741, after line 11, insert the following:
+‘‘(iii) SOCIAL SECURITY NUMBER DEFINED.—For pur-
+poses of clause (i), the term ‘social security number’
+shall have the meaning given such term in section
+24(h)(7).’’.
+Page 759, strike line 12 and all that follows through page 760,
+line 19.
+Page 760, line 20, strike ‘‘(d)’’ and insert ‘‘(c)’’.
+Page 790, line 16, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 790, line 19, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 790, line 20, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 790, line 21, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 791, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 791, lines 5 and 6, strike ‘‘‘money account for growth and
+advancement’ or’’.
+Page 791, line 6, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 791, line 11, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 794, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 794, line 9, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 795, line 10, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 795, line 16, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 795, line 22, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 797, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 797, line 10, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 797, line 11, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 797, line 22, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 797, line 24, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 798, line 19, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 798, line 20, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 799, line 2, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 799, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 799, line 6, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 799, line 8, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 799, line 9, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 800, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 800, line 5, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 800, line 14, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 800, line 17, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 800, line 18, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 801, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 801, line 15, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 802, line 8, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 802, line 21, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00020 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+21
+Page 803, line 1, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 803, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 803, line 25, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 804, line 5, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 805, line 3, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 805, line 9, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 805, after line 13 (in the item relating to part IX), strike
+‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 805, line 17, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 805, line 21, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 806, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 806, line 8, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 808, line 22, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 808, line 23, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 809, line 5, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 810, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 810, after line 8 (in the item relating to section 6434),
+strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 810, after line 12 (in the item relating to section 6659),
+strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 862, strike lines 6 and 7, and insert the following:
+(a) IN GENERAL.—Section 250(a) is amended—
+(1) by striking ‘‘37.5 percent’’ in paragraph (1)(A) and insert-
+ing ‘‘36.5 percent’’,
+(2) by striking ‘‘50 percent’’ in paragraph (1)(B) and inserting
+‘‘49.2 percent’’, and
+(3) by striking paragraph (3).
+Page 862, strike lines 13 through 15, and insert the following:
+(a) IN GENERAL.—Section 59A(b) is amended—
+(1) by striking ‘‘10 percent’’ in paragraph (1) and inserting
+‘‘10.1 percent’’, and
+(2) by striking paragraph (2) and by redesignating para-
+graphs (3) and (4) as paragraphs (2) and (3), respectively.
+Page 889, line 20, strike ‘‘, in consultation’’ and all that follows
+through ‘‘determines appropriate,’’ on page 890, line 1.
+Strike page 901, line 20 through page 902, line 3.
+Page 914, line 1, insert ‘‘under this section’’ after ‘‘area’’.
+Page 934, line 9, strike ‘‘PHASE-OUT AND RESTRICTIONS’’ and in-
+sert ‘‘RESTRICTIONS’’.
+Strike page 934, line 11 through page 935, line 4 and insert the
+following:
+(a) TERMINATION OF CREDIT.—Section 45Y is amended by strik-
+ing subsection (d) and by adding at the end the following new sub-
+
+Section 10:
+section:
+‘‘(h) TERMINATION OF CREDIT.—
+‘‘(1) IN GENERAL.—Except as provided in paragraphs (2) and
+(3), no credit shall be allowed under this section for any quali-
+fied facility—
+‘‘(A) the construction of which begins after the date
+which is 60 days after the date of the enactment of this
+subsection, or
+‘‘(B) which is placed in service after December 31, 2028.
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00021 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+22
+‘‘(2) ADVANCED NUCLEAR FACILITIES.—In the case of any
+qualified facility that is an advanced nuclear facility (as de-
+fined in section 45J(d)(2))—
+‘‘(A) paragraph (1) shall not apply, and
+‘‘(B) no credit shall be allowed under this section for any
+such facility the construction of which begins after Decem-
+ber 31, 2028.
+‘‘(3) EXPANSION OF NUCLEAR FACILITIES.—In the case of any
+nuclear facility the reactor design for which is approved by the
+Nuclear Regulatory Commission—
+‘‘(A) paragraph (1) shall not apply, and
+‘‘(B) no credit shall be allowed under this section for any
+such facility the expansion of which begins after December
+31, 2028.’’.
+Page 935, line 12, strike ‘‘after the date that is one year after the
+date of the enactment of this subparagraph’’ and insert ‘‘after De-
+cember 31, 2025’’.
+Page 937, strike lines 10 through 15.
+Page 944, after line 25, insert the following:
+(d) DENIAL OF CREDIT FOR EXPENDITURES FOR CERTAIN WIND
+AND SOLAR LEASING ARRANGEMENTS.—Section 45Y, as amended by
+subsection (a), is amended by inserting after subsection (c) the fol-
+lowing new subsection:
+‘‘(d) DENIAL OF CREDIT FOR EXPENDITURES FOR WIND AND SOLAR
+LEASING ARRANGEMENTS.—No credit shall be allowed under this
+
+Section 11:
+section for any investment during the taxable year with respect to
+property described in paragraph (1), (2), or (4) of section 25D(d) if—
+‘‘(1) the taxpayer rents or leases such property to a third
+party during such taxable year, and
+‘‘(2) the lessee would qualify for a credit under section 25D
+with respect to such property if the lessee owned such prop-
+erty.’’.
+Page 945, strike lines 6 through 9 and insert the following:
+(2) TERMINATION OF CREDIT.—The amendment made by sub-
+
+Section 12:
+section (a) shall apply to facilities for which construction begins
+after the date that is 60 days after the date of enactment of
+this Act.
+Page 945, line 10, strike ‘‘PHASE-OUT AND RESTRICTIONS’’ and
+insert ‘‘RESTRICTIONS’’.
+Strike page 945, line 12 through page 946, line 12 and insert the
+following:
+(a) TERMINATION OF CREDIT.—Section 48E is amended by strik-
+ing subsection (e) and by adding at the end the following new sub-
+
+Section 13:
+section:
+‘‘(j) TERMINATION OF CREDIT.—
+‘‘(1) IN GENERAL.—Except as provided in paragraph (2), no
+credit shall be allowed under this section for any qualified fa-
+cility or energy storage technology—
+‘‘(A) the construction of which begins after the date
+which is 60 days after the date of the enactment of this
+subsection, or
+‘‘(B) which is placed in service after December 31, 2028.
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00022 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+23
+‘‘(2) ADVANCED NUCLEAR FACILITY.—In the case of any quali-
+fied facility that is an advanced nuclear facility (as defined in
+
+Section 14:
+section 45J(d)(2))—
+‘‘(A) paragraph (1) shall not apply, and
+‘‘(B) no credit shall be allowed under this section for any
+such facility the construction of which begins after Decem-
+ber 31, 2028.’’.
+Page 946, line 21, strike ‘‘after the date that is one year after the
+date of the enactment of this subparagraph’’ and insert ‘‘after De-
+cember 31, 2025’’.
+Page 947, line 8, strike ‘‘after the date that is one year after the
+date of the enactment of this paragraph’’ and insert ‘‘after Decem-
+ber 31, 2025’’.
+Page 951, after line 3, insert the following:
+(c) DENIAL OF CREDIT FOR EXPENDITURES FOR CERTAIN WIND AND
+SOLAR LEASING ARRANGEMENTS.—Section 48E, as amended by sub-
+
+Section 15:
+section (a), is amended by inserting after subsection (d) the fol-
+lowing new subsection:
+‘‘(e) DENIAL OF CREDIT FOR EXPENDITURES FOR WIND AND SOLAR
+LEASING ARRANGEMENTS.—No credit shall be allowed under this
+
+Section 16:
+section for any investment during the taxable year with respect to
+property described in paragraph (1), (2), or (4) of section 25D(d) if—
+‘‘(1) the taxpayer rents or leases such property to a third
+party during such taxable year, and
+‘‘(2) the lessee would qualify for a credit under section 25D
+with respect to such property if the lessee owned such prop-
+erty.’’.
+Page 951, strike lines 4 through 9.
+Page 951, line 14, strike ‘‘2031’’ and insert ‘‘2028’’.
+Page 951, line 17, strike ‘‘2031’’ and insert ‘‘2028’’.
+Page 952, line 3, strike ‘‘2031’’ and insert ‘‘2028’’.
+Page 952, strike lines 9 through 13 and insert the following:
+(2) TERMINATION OF CREDIT.—The amendment made by sub-
+
+Section 17:
+section (a) shall apply to facilities and energy storage tech-
+nology for which construction begins after the date that is 60
+days after the date of enactment of this Act.
+Page 952, lines 16 and 17, strike ‘‘, as amended by sections
+112008 and 112009,’’.
+Page 953, line 23, strike ‘‘sections 112008, 112009, and’’ and in-
+sert ‘‘section’’.
+Page 954, line 18, strike ‘‘PHASE-OUT AND RESTRICTIONS’’ and
+insert ‘‘RESTRICTIONS’’.
+Page 954, strike line 21 and all that follows through page 955,
+line 18.
+Page 955, line 19, strike ‘‘(b)’’ and insert ‘‘(a)’’.
+Page 956, after line 12, insert the following:
+(b) TERMINATION OF CREDIT.—Section 45U(e) is amended by
+striking ‘‘December 31, 2032’’ and inserting ‘‘December 31, 2031’’.
+Page 956, strike lines 13 through 24 and insert the following:
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00023 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+24
+(c) EFFECTIVE DATE.—The amendments made by this section
+shall apply to taxable years beginning after the date of enactment
+of this Act.
+Page 961, strike lines 9 through 22 and insert the following:
+(c) REPEAL OF TRANSFERABILITY.—Section 6418, as amended by
+
+Section 18:
+sections 112010, 112011, and 112012 is amended—
+(1) in subsection (f)(1)—
+(A) in subparagraph (A)—
+(i) by striking clause (vi), and
+(ii) by redesignating clauses (iv), (v), (vii), (ix), (x),
+and (xi) as clauses (iii), (iv), (v), (vi), (vii), and (viii),
+respectively, and
+(B) in subparagraph (B), by striking ‘‘clause (ii) or (v)’’
+and inserting ‘‘clause (ii) or (iv)’’, and
+(2) in subsection (g)(3), by striking ‘‘clause (ix) or (x)’’ and in-
+serting ‘‘clause (vi) or (vii)’’.
+Page 964, line 5, strike ‘‘6418(f)(1)(A)(iv)’’ and insert
+‘‘6418(f)(1)(A)(iii)’’.
+Page 968, line 1, strike ‘‘$15,000’’ and insert ‘‘half the dollar
+amount in effect under subclause (II)’’.
+Page 968, line 4, strike ‘‘$30,000’’ and insert ‘‘$40,400’’.
+Page 968, line 9, strike ‘‘the $15,000’’ and all that follows
+through ‘‘each’’ on line 12, and insert ‘‘the limitation otherwise in
+effect under subparagraph (A)(ii) shall’’.
+Page 968, line 12, strike ‘‘20 percent’’ and insert ‘‘30 percent’’.
+Page 968, line 15, strike ‘‘$200,000’’ and insert ‘‘half the dollar
+amount in effect under subclause (II)’’.
+Page 968, line 18, strike ‘‘$400,000’’ and insert ‘‘$505,000’’.
+Page 968, line 23, strike ‘‘dollar amount’’ and insert ‘‘limitation’’.
+Page 969, line 1, strike ‘‘dollar amount’’ and insert ‘‘limitation’’.
+Page 969, after line 9, insert the following:
+‘‘(D) ADJUSTMENT OF CERTAIN DOLLAR AMOUNTS.—
+‘‘(i) IN GENERAL.—In the case of any taxable year be-
+ginning after December 31, 2026, and before January
+1, 2034, the dollar amount in effect under subpara-
+graph (A)(ii)(II), and the dollar amount in effect under
+subparagraph (B)(i)(II), shall each be equal to 101 per-
+cent of such dollar amount as in effect for taxable
+years beginning in the preceding taxable year.
+‘‘(ii) MAINTENANCE OF INCREASE THEREAFTER.—In
+the case of any taxable year beginning after December
+31, 2033, the dollar amounts referred to in clause (i)
+shall be equal to such dollar amounts as in effect for
+taxable years beginning in 2033.’’.
+Page 969, lines 21 and 22, strike ‘‘, section 164(b)(5), or section
+216(a)(1)’’ and insert ‘‘or section 216(a)(1), or is taken into account
+under section 164(b)(5)’’.
+Page 971, line 12, insert ‘‘or (4)(A)(ii)’’ after ‘‘paragraph (3)(A)’’.
+Page 973, line 6, insert ‘‘or section 164(b)(5)’’ after ‘‘(3)(A)’’.
+Page 983, strike lines 16 and 17, and insert the following:
+(f) TEMPORARY INCREASE FOR 2025.—
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00024 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+25
+(1) IN GENERAL.—Section 164(b)(6) is amended by striking
+‘‘$10,000 ($5,000 in the case of a married individual filing a
+separate return)’’ and inserting ‘‘applicable limitation amount’’.
+(2) APPLICABLE LIMITATION AMOUNT.—Section 164(b) is
+amended by adding at the end the following new paragraph:
+‘‘(7) APPLICABLE LIMITATION AMOUNT.—
+‘‘(A) IN GENERAL.—For purposes of paragraph (6), the
+term ‘applicable limitation amount’ means—
+‘‘(i) $20,000, in the case of a married individual fil-
+ing a separate return, and
+‘‘(ii) $40,000, in the case of any other taxpayer.
+‘‘(B) PHASEDOWN BASED ON MODIFIED ADJUSTED GROSS
+INCOME.—
+‘‘(i) IN GENERAL.—Except as provided in clause (ii),
+the $20,000 amount in subparagraph (A)(i) and the
+$40,000 amount in subparagraph (A)(ii) shall each be
+reduced by 30 percent of the excess (if any) of the tax-
+payer’s modified adjusted gross income over—
+‘‘(I) $250,000, in the case of a married individual
+filing a separate return, and
+‘‘(II) $500,000, in the case of any other taxpayer.
+‘‘(ii) LIMITATION ON REDUCTION.—The reduction
+under clause (i) shall not result in—
+‘‘(I) the dollar amount in effect under subpara-
+graph (A)(i) being less than $5,000, or
+‘‘(II) the dollar amount in effect under subpara-
+graph (A)(ii) being less than $10,000.
+‘‘(C) MODIFIED ADJUSTED GROSS INCOME.—For purposes
+of this paragraph, the term ‘modified adjusted gross in-
+come’ means adjusted gross income increased by any
+amount excluded from gross income under section 911,
+931, or 933.’’.
+(3) REPEAL AFTER 2025.—Section 164(b), as amended by
+paragraphs (1) and (2), is amended by striking paragraphs (6)
+and (7).
+Page 983, strike lines 18 through 20, and insert the following:
+(g) EFFECTIVE DATE.—
+(1) IN GENERAL.—Except as otherwise provided in this sub-
+
+Section 19:
+section, the amendments made by this section shall apply to
+taxable years beginning after December 31, 2025.
+(2) TEMPORARY INCREASE FOR 2025.—The amendments made
+by paragraphs (1) and (2) of subsection (f) shall apply to tax-
+able years beginning after December 31, 2024.
+Page 1008, line 15, strike ‘‘10’’ and insert ‘‘10.1’’.
+Page 1024, strike lines 11 through 25, and insert the following:
+SEC. 112029. MODIFICATION OF TREATMENT OF SILENCERS.
+(a) IN GENERAL.—Section 5845(a) is amended by striking ‘‘(7) any
+silencer’’ and all that follows through ‘‘; and (8)’’ and inserting ‘‘and
+(7)’’.
+(b) TRANSFER TAX.—Section 5811(a) is amended to read as fol-
+lows:
+‘‘(a) RATE.—There shall be levied, collected, and paid on firearms
+transferred a tax at the rate of—
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00025 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+26
+‘‘(1) $5 for each firearm transferred in the case of a weapon
+classified as any other weapon under section 5845(e),
+‘‘(2) $0 for each firearm transferred in the case of a silencer
+(as defined in section 921 of title 18, United States Code), and
+‘‘(3) $200 for any other firearm transferred.’’.
+(c) MAKING TAX.—Section 5821(a) is amended to read as follows:
+‘‘(a) RATE.—There shall be levied, collected, and paid upon the
+making of a firearm a tax at the rate of—
+‘‘(1) $0 for each silencer (as defined in section 921 of title 18,
+United States Code) made, and
+‘‘(2) $200 for any other firearm made.’’.
+(d) EFFECTIVE DATE.—The amendments made by this section
+shall apply to calendar quarters beginning more than 90 days after
+the date of the enactment of this Act.
+Page 1025, line 11, insert ‘‘customs’’ after ‘‘United States’’.
+Page 1026, after line 13, insert the following:
+SEC. 112032. TREATMENT OF PAYMENTS FROM PARTNERSHIPS TO
+PARTNERS FOR PROPERTY OR SERVICES.
+(a) IN GENERAL.—Section 707(a)(2) is amended by striking
+‘‘Under regulations prescribed’’ and inserting ‘‘Except as provided’’.
+(b) EFFECTIVE DATE.—The amendment made by this section shall
+apply to services performed, and property transferred, after the
+date of the enactment of this Act.
+(c) RULE OF CONSTRUCTION.—Nothing in this section, or the
+amendments made by this section, shall be construed to create any
+inference with respect to the proper treatment under section 707(a)
+of the Internal Revenue Code of 1986 with respect to payments
+from a partnership to a partner for services performed, or property
+transferred, on or before the date of the enactment of this Act.
+Page 1034, line 13, strike ‘‘Notwithstanding’’ and all the follows
+through ‘‘subject’’ on line 16, and insert ‘‘Subject’’.
+Page 1037, line 10, strike ‘‘5 percent’’ and insert ‘‘3.5 percent’’.
+Page 1062, line 12, strike ‘‘or any other provision of law’’.
+Page 1079, after line 22, insert the following:
+(d) SOCIAL SECURITY NUMBER DEFINED.—
+(1) IN GENERAL.—Section 32(m) is amended by striking
+‘‘issued to an individual’’ and all that follows and inserting ‘‘(as
+defined section 24(h)(7))’’.
+(2) EFFECTIVE DATE.—The amendment made by this section
+shall apply to taxable years beginning after December 31,
+
+Section 20:
+2024.
+Æ
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00026 Fmt 6659 Sfmt 6611 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–113
+PROVIDING FOR CONSIDERATION OF THE BILL (H.R. 1)
+TO PROVIDE FOR RECONCILIATION PURSUANT TO
+TITLE II OF H. CON. RES. 14
+MAY21, 2025.—Referred to the House Calendar and ordered to be printed
+Mrs. HOUCHIN, from the Committee on Rules,
+submitted the following
+R E P O R T
+[To accompany H. Res. 436]
+The Committee on Rules, having had under consideration House
+Resolution 436, by a record vote of 8 to 4, report the same to the
+House with the recommendation that the resolution be adopted.
+SUMMARY OF PROVISIONS OF THE RESOLUTION
+The resolution provides for consideration of H.R. 1, the One Big
+Beautiful Bill Act, under a closed rule. The resolution waives all
+points of order against consideration of the bill. The resolution pro-
+vides that an amendment in the nature of a substitute consisting
+of the text of Rules Committee Print 119–3, modified by the
+amendment printed in the Rules Committee report, shall be consid-
+ered as adopted and the bill, as amended, shall be considered as
+read. The resolution waives all points of order against provisions
+in the bill, as amended. The resolution provides two hours of gen-
+eral debate equally divided and controlled by the chair and ranking
+minority member of the Committee on the Budget or their respec-
+tive designees and the chair and ranking minority member of the
+Committee on Ways and Means or their respective designees. The
+resolution provides one motion to recommit. The resolution pro-
+vides that clause 5(b) of rule XXI shall not apply to the bill or
+amendments thereto.
+EXPLANATION OF WAIVERS
+The waiver of all points of order against consideration of H.R. 1
+includes:
+59–008
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+—Clause 4(a) of rule XIII, which prohibits the consideration of a
+measure or matter reported by a committee until the proposed text
+of the report has been available for 72 hours.
+—Clause 3(e) of rule XIII, which requires the inclusion of a com-
+parative print for a bill or joint resolution proposing to repeal or
+amend a statute.
+—Clause 3(d)(1) of rule XIII, which requires the inclusion of a
+committee cost estimate in a committee report.
+—Section 425 of the Congressional Budget Act, which prohibits
+consideration of legislation that would increase the direct costs of
+Federal intergovernmental mandates beyond $50,000,000 (adjusted
+for inflation) unless the legislation provides for new budget author-
+ity or the legislation appropriates sufficient funds to cover the new
+costs.
+The waiver of all points of order against provisions of H.R. 1, as
+amended, includes:
+—Clause 4 of rule XXI, which prohibits reporting a bill carrying
+an appropriation from a committee not having jurisdiction to report
+an appropriation.
+—Clause 5(a) of rule XXI, which prohibits a bill or joint resolu-
+tion carrying a tax or tariff measure from being reported by a com-
+mittee not having jurisdiction to report tax or tariff measures.
+Although the resolution provides that clause 5(b) of rule XXI
+does not apply to this bill, the rule isolates only specified provisions
+and does not look at the essential interactions of all the tax provi-
+sions. While the bill as a whole provides broad tax relief, the provi-
+sion is necessary because of the narrow focus of the rule.
+COMMITTEE VOTES
+The results of each record vote on an amendment or motion to
+report, together with the names of those voting for and against, are
+printed below:
+Rules Committee record vote No. 70
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #378, offered by Representative McGovern, which re-
+quires NIH to restore all awarded, unspent, but obligated appro-
+priated NIH grant funding. Defeated: 4–7
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... ................... Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 71
+Motion by Mr. McGovern to strike the last sentence of the rule,
+which states that Clause 5(b) of rule XXI, the House rule requiring
+a supermajority vote to increase income taxes, does not apply to
+this bill. Defeated: 4–8
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 72
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #233, offered by Representative Jeffries, which strikes
+all provisions that would cause millions of Americans to lose
+healthcare and food assistance. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 73
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #245, offered by Representative Underwood, which
+makes the enhanced premium tax credits that lower the costs of
+health insurance plans offered on the ACA Marketplaces perma-
+nent. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 74
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #267, offered by Representative DelBene, which makes
+the Child Tax Credit fully refundable and increases the credit
+amount from $2,000 per child to $6,360 for newborns, $4,320 for
+children ages one through six, and $3,600 for children age six
+through 17. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+VerDate Sep 11 2014 13:19 May 22, 2025 Jkt 059008 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+Majority Members Vote Minority Members Vote
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 75
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #250, offered by Representative Doggett, which re-
+duces the cost of the bill by about half by ensuring only the 98%
+of taxpayers earning $400,000 orless each year receive a tax break
+and the 2% of taxpayers earning over $400,000 do not receive any
+new tax breaks. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No, 76
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #40, offered by Representative Chu, which ensures
+that no one earning more than $10 million per year receives a tax
+cut. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 77
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #283, offered by Representative Gomez, which estab-
+lishes a 39.6% tax bracket for income over $1,000,000,000. De-
+feated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+5
+Rules Committee record vote No. 78
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #29, offered by Representative Craig, which strikes
+harmful provisions that would slash $313 billion in food assistance
+for children, seniors, and veterans. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 79
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #32, offered by Representative Hayes, which prevents
+any cuts to the Supplemental Nutrition Assistance Program from
+taking effect until certification these provisions will not result in a
+reduction of benefits. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 80
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #33, offered by Representative Brown, which prevents
+families with children as young as 7 years of age from losing food
+assistance. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 81
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #25, offered by Representative McClain Delaney, which
+prevents Sections 10001 through 100012 from taking effect until
+certification these provisions will not result in a decrease in bene-
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+6
+fits for households with children under the age of 18. Defeated: 4–
+8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 82
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #184, offered by Representative Scott, which prohibits
+the bill from going into effect unless cuts to Medicaid and SNAP
+would not result in fewer families being eligible for free school
+meals. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 83
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #68, offered by Representative Vasquez, which inserts
+the text of the Affordable Insulin Now Act from the 118th Congress
+(H.R. 1488), which limits cost-sharing for insulin under private
+health insurance under private health insurance for a month’s sup-
+ply of selected insulin products at $35 or 25% of a plan’s negotiated
+price (after any price concessions), whichever is less. Defeated: 4–
+8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Comnittee record vote No. 84
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #42, offered by Representative Chu, which strikes the
+provisions in the bill that increase costs, increase red tape, make
+it harder for people to get coverage, and cause coverage loss on the
+ACA marketplaces. Defeated: 4–8
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+7
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 85
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #242, offered by Representative Gomez, which extends
+eligibility for the ACA Premium Tax Credit to include children and
+pregnant woman, including those losing Medicaid coverage. De-
+feated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 86
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #215, offered by Representative Rivas, which strikes
+the provision creating a moratorium on states or a political subdivi-
+sion from enforcing any law or regulation limiting, restricting, or
+regulating artificial intelligence models, artificial intelligence sys-
+tems, or automated decision systems entered into interstate com-
+merce. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 87
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #202, offered by Representative Ocasio-Cortez, which
+subtitle A of title IV shall not go into effect until the Inspector
+General of The Department of Energy certifies that that the imple-
+mentation of sections 41002 and 41004 of this subtitle will not re-
+sult in increased risks of corruption or ‘‘pay-to-play’’ politics that
+would adversely impact the integrity of the permitting processes of
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+8
+the Department of Energy and the Federal Energy Regulatory
+Commission. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 88
+Motion by Ms. Scanlon to amend the rule to make in order
+amendment #374, offered by Representative Mike Thompson,
+which strikes section 112029 which eliminates the $200 tax on si-
+lencers which has been in place since 1934. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 89
+Motion by Ms. Scanlon to amend the rule to make in order
+amendment #27, offered by Representative Johnson, which strikes
+bill text that would prevent the courts from enforcing a contempt
+citation for failure to comply with an injunction or a temporary re-
+straining order. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 90
+Motion by Ms. Scanlon to amend the rule to make in order
+amendment #150, offered by Representative Scanlon, which pro-
+hibits funds from Title VII, Subtitle A—Immigration Matters, from
+being used to implement or defend Executive Order 14160, entitled
+‘‘Protecting the Meaning and Value of American Citizenship.’’ De-
+feated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+9
+Majority Members Vote Minority Members Vote
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 91
+Motion by Ms. Scanlon to amend the rule to make in order
+amendment #238, offered by Representative Clark, which strikes
+the section that defunds Planned Parenthood and reduces access to
+life saving cancer screenings and reproductive health care. De-
+feated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 92
+Motion by Ms. Scanlon to amend the rule to make in order
+amendment #411, offered by Representative Scanlon, which strikes
+section 42106, which repeals and rescinds funds to address air pol-
+lution in schools. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 93
+Motion by Ms. Scanlon to amend the rule to make in order
+amendment #71, offered by Representative Raskin, which prevents
+Title VII from taking effect until the Attorney General certifies
+that any grant administered by the Office of Justice Programs of
+the Department of Justice that was terminated after January 20,
+2025, has been reinstated. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+10
+Majority Members Vote Minority Members Vote
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 94
+Motion by Ms. Scanlon to amend the rule to make in order
+amendment #35, offered by Representative Jayapal, which pro-
+hibits the use of funds in Subtitle A of Title VII from being used
+by Immigration and Customs Enforcement to detain or deport U.S.
+citizens. Defeated: 4–7
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... ................... Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 95
+Motion by Ms. Leger Fernandez to add a self-executed second-de-
+gree amendment to the manager’s amendment striking the inser-
+tion of a new section 44202, which would result in at least 300,000
+people losing health care coverage and eliminate abortion coverage
+in Marketplace plans or prohibit cost sharing reductions for plans
+that maintain abortion coverage, resulting in plans throughout the
+country dropping coverage for abortion care. Defeated: 4–7
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... ................... Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 96
+Motion by Ms. Leger Fernandez to amend the rule to make in
+order amendment #47, offered by Representative Sykes, which
+strikes language in the bill that cuts Medicaid. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+11
+Majority Members Vote Minority Members Vote
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 97
+Motion by Ms. Leger Fernandez to amend the rule to make in
+order amendment #485, offered by Representative Beyer, which
+strikes the elimination of the electricity investment and production
+tax credits in order to keep electricity prices low. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 98
+Motion by Ms. Leger Fernandez to amend the rule to make in
+order amendment #483, offered by Representative Leger
+Fernandez, which protects state budgets and education and health
+care funding from reductions in oil and gas revenues. Defeated: 4–
+8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 99
+Motion by Ms. Leger Fernandez to amend the rule to make in
+order amendment #265, offered by Representative Leger
+Fernandez, which strikes Section 110004. Extension of Increased
+Child Tax Credit and Temporary Enhancement and replaces with
+H.R. 2763, the American Family Act. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+12
+Rules Committee record vote No. 100
+Motion by Mr. McGovern to amend the rule to make in order
+amendment #2, offered by Representative Gillen, which strikes the
+limitation on the State and Local Tax deduction. Defeated: 4–8
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Nay Mr. McGovern................................................... Yea
+Mr. Norman ...................................................... Nay Ms. Scanlon ..................................................... Yea
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Yea
+Mrs. Houchin .................................................... Nay Ms. Leger Fernandez........................................ Yea
+Mr. Langworthy................................................. Nay
+Mr. Austin Scott ............................................... Nay
+Mr. Griffith ....................................................... Nay
+Mr. Jack ............................................................ Nay
+Ms. Foxx, Chairwoman ..................................... Nay
+Rules Committee record vote No. 101
+Motion by Mrs. Houchin to report the rule. Adopted: 8–4
+Majority Members Vote Minority Members Vote
+Mrs. Fischbach................................................. Yea Mr. McGovern................................................... Nay
+Mr. Norman ...................................................... Yea Ms. Scanlon ..................................................... Nay
+Mr. Roy ............................................................. ................... Mr. Neguse....................................................... Nay
+Mrs. Houchin .................................................... Yea Ms. Leger Fernandez........................................ Nay
+Mr. Langworthy................................................. Yea
+Mr. Austin Scott ............................................... Yea
+Mr. Griffith ....................................................... Yea
+Mr. Jack ............................................................ Yea
+Ms. Foxx, Chairwoman ..................................... Yea
+SUMMARY OF THE AMENDMENT TO H.R. 1 CONSIDERED AS ADOPTED
+1. Arrington (TX): Makes technical and conforming changes to
+clarify references and comply with Senate Procedural Require-
+ments.
+TEXT OF AMENDMENT TO H.R. 1 CONSIDERED AS ADOPTED
+Page 10, in the item relating to section 110115, strike ‘‘MAGA’’
+and insert ‘‘Trump’’.
+Page 10, in the item relating to section 110116, strike ‘‘MAGA’’
+and insert ‘‘Trump’’.
+Page 11, in the item relating to section 112008, strike ‘‘Phase-out
+and restrictions’’ and insert ‘‘Restrictions’’.
+Page 12, in the item relating to section 112009, strike ‘‘Phase-out
+and restrictions’’ and insert ‘‘Restrictions’’.
+Page 12, in the item relating to section 112012, strike ‘‘Phase-out
+and restrictions’’ and insert ‘‘Restrictions’’.
+Page 12, after the item relating to section 112031, insert the fol-
+lowing:
+Sec. 112032. Treatment of payments from partnerships to partners for property or
+services.
+Page 123, line 16, strike ‘‘, both domestically and internation-
+ally’’.
+Strike section 41004 and insert the following:
+SEC. 41004. EXPEDITED PERMITTING.
+The Natural Gas Act is amended by adding after section 15 (15
+U.S.C. 717n) the following:
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+13
+‘‘SEC. 15A. EXPEDITED PERMITTING.
+‘‘(a) DEFINITIONS.—In this section:
+‘‘(1) COVERED APPLICATION.—The term ‘covered application’
+means an application for an authorization under section 3 or
+a certificate of public convenience and necessity under section
+7, as applicable, for activities that include construction.
+‘‘(2) FEDERAL AUTHORIZATION.—The term ‘Federal authoriza-
+tion’ has the meaning given such term in section 15(a).
+‘‘(b) EXPEDITED REVIEW.—
+‘‘(1) NOTIFICATION OF ELECTION AND PAYMENT OF FEE.—Prior
+to submitting a covered application, an applicant may elect to
+obtain an expedited review of authorizations pursuant to Sec-
+tions 3 and 7 of the Natural Gas Act for the approval of such
+covered application by—
+‘‘(A) submitting to the Commission a written notifica-
+tion—
+‘‘(i) of the election; and
+‘‘(ii) that identifies each Federal authorization re-
+quired for the approval of the covered application and
+each Federal, State, or interstate agency that will con-
+sider an aspect of each such Federal authorization;
+and
+‘‘(B) making a payment to the Secretary of the Treasury
+in an amount that is the lesser of—
+‘‘(i) one percent of the expected cost of the applicable
+construction, as determined by the applicant; or
+‘‘(ii) $10,000,000 (adjusted for inflation, as the Sec-
+retary of the Treasury determines necessary).
+‘‘(2) SUBMISSION AND REVIEW OF APPLICATIONS.—
+‘‘(A) APPLICATION.—Not later than 60 days after the date
+on which an applicant elects to obtain an expedited review
+under paragraph (1), the applicant shall submit to the
+Commission the covered application for which such elec-
+tion for an expedited review was made, which shall in-
+clude—
+‘‘(i) the scope of the applicable activities, including
+capital investment, siting, temporary construction, and
+final workforce numbers;
+‘‘(ii) the industrial sector of the applicant, as classi-
+fied by the North American Industry Classification
+System; and
+‘‘(iii) a list of the statutes and regulations that are
+relevant to the covered application.
+‘‘(B) APPROVAL.—
+‘‘(i) STANDARD DEADLINE.—Except as provided in
+clause (ii), not later than one year after the date on
+which an applicant submits a covered application pur-
+suant to subparagraph (A)—
+‘‘(I) each Federal, State, or interstate agency
+identified under paragraph (1)(A)(ii) shall—
+‘‘(aa) review the relevant Natural Gas Act
+sections 3 or 7 authorization identified under
+such paragraph; and
+‘‘(bb) subject to any conditions determined
+by such agency to be necessary to comply with
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+14
+the requirements of the Federal law under
+which such approval is required, approve such
+Federal authorization; and
+‘‘(II) the Commission shall—
+‘‘(aa) review the covered application; and
+‘‘(bb) subject to any conditions determined
+by the Commission to be necessary to comply
+with the requirements of this Act, approve the
+covered application.
+‘‘(ii) EXTENDED DEADLINE.—
+‘‘(I) EXTENSION.—With respect to a covered ap-
+plication submitted pursuant to subparagraph (A),
+the Commission may approve a request by an
+agency identified under paragraph (1)(A)(ii) for an
+extension of the one-year deadline imposed by
+clause (i) of this subparagraph for a period of 6
+months if the Commission receives consent from
+the relevant applicant.
+‘‘(II) APPLICABILITY.—If the Commission ap-
+proves a request for an extension under subclause
+(I), such extension shall apply to the applicable
+covered application and the Federal authorization
+for which the extension was requested.
+‘‘(C) EFFECT OF FAILURE TO MEET DEADLINE.—
+‘‘(i) DEEMED APPROVAL.—Any covered application
+submitted pursuant to subparagraph (A), or Federal
+authorization that is required with respect to such
+covered application, that is not approved by the appli-
+cable deadline under subparagraph (B) shall be
+deemed approved in perpetuity.
+‘‘(ii) COMPLIANCE.—A person carrying out activities
+under a covered application or Federal authorization
+that has been deemed approved under clause (i) shall
+comply with the requirements of the Natural Gas Act.
+‘‘(c) JUDICIAL REVIEW.—
+‘‘(1) REVIEWABLE CLAIMS.—
+‘‘(A) IN GENERAL.—No court shall have jurisdiction to re-
+view a claim with respect to the approval of a covered ap-
+plication or Federal authorization under subparagraph (B)
+or (C)(i) of subsection (b)(2), except for a claim under chap-
+ter 7 of title 5, United States Code, filed not later than 180
+days after the date of such approval by—
+‘‘(i) the applicant; or
+‘‘(ii) a person who has suffered, or likely and immi-
+nently will suffer, direct and irreparable economic
+harm from the approval.
+‘‘(B) CLAIMS BY CERTAIN NON-APPLICANTS.—An associa-
+tion may only bring a claim on behalf of one or more of its
+members pursuant to subparagraph (A)(ii) if each member
+of the association has suffered, or likely and imminently
+will suffer, the harm described in subparagraph (A)(ii).
+‘‘(2) STANDARD OF REVIEW.—If an applicant or other person
+brings a claim described in paragraph (1) with respect to the
+approval of a covered application or Federal authorization
+under subsection (b)(2)(B), the court shall hold unlawful and
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00014 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+15
+set aside any agency actions, findings, and conclusions in ac-
+cordance with section 706(2) of title 5, United States Code, ex-
+cept that, for purposes of the application of subparagraph (E)
+of such section, the court shall apply such subparagraph by
+substituting ‘clear and convincing evidence’ for ‘substantial evi-
+dence’.
+‘‘(3) EXCLUSIVE JURISDICTION.—The United States Court of
+Appeals for the District of Columbia Circuit shall have original
+and exclusive jurisdiction over any claim—
+‘‘(A) alleging the invalidity of subsection (b); or
+‘‘(B) that an agency action relating to a covered applica-
+tion or Federal authorization under subsection (b) is be-
+yond the scope of authority conferred by the Federal law
+under which such agency action is made.’’.
+Page 278, line 2, strike ‘‘limiting’’ and insert ‘‘of that State or a
+political subdivision thereof limiting’’.
+Page 291, line 10, strike ‘‘(or any successor regulation)’’.
+Page 296, line 23, strike ‘‘October 1, 2027’’ and insert ‘‘December
+31, 2026’’.
+Page 297, line 14, strike ‘‘subsection (a)(10(A)(i)(VIII)’’ and insert
+‘‘subsection (a)(10)(A)(i)(VIII)’’.
+Page 306, line 25, insert ‘‘and is not a child or pregnant woman
+who is lawfully residing in the United States and receiving medical
+assistance pursuant to section 1903(v)(4),’’ after ‘‘alien’’.
+Page 307, line 3, insert ‘‘and is not such a child or pregnant
+woman’’ after ‘‘alien’’.
+Page 307, line 11, insert ‘‘and is not such a child or pregnant
+woman’’ after ‘‘alien’’.
+Page 307, insert after line 20 the following (and redesignate ac-
+cordingly):
+(I) such term does not include an alien described
+in subsection (b)(4) of such section (other than a
+qualified alien under section 402(b)(2) of such
+Act);
+Page 307, line 25, insert ‘‘431’’ before ‘‘shall’’.
+Page 308, line 11, insert ‘‘431’’ before ‘‘shall’’.
+Page 311, line 14, strike ‘‘October 1’’ and insert ‘‘December 31’’.
+Page 333, line 3, strike ‘‘FOR MINORS’’.
+Page 333, line 14, strike ‘‘under 18 years of age’’.
+Page 343, line 3, strike ‘‘THE PAYMENT LIMIT’’ and insert ‘‘PAY-
+MENTS’’.
+Page 343, strike lines 5 through 13 and insert the following:
+(a) IN GENERAL.—Subject to subsection (b), the Secretary of
+Health and Human Services (in this section referred to as the Sec-
+retary) shall revise section 438.6(c)(2)(iii) of title 42, Code of Fed-
+eral Regulations (or a successor regulation) such that, with respect
+to a payment described in such section made for a service furnished
+during a rating period beginning on or after the date of the enact-
+ment of this Act, the total payment rate for such service is limited
+to—
+(1) in the case of a State that provides coverage to all indi-
+viduals described in section 1902(a)(10)(A)(i)(VIII) of the Social
+Security Act (42 U.S.C. 1396a(a)(10)(A)(i)(VIII)) that is equiva-
+lent to minimum essential coverage (as described in section
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00015 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+16
+5000A(f)(1)(A) of the Internal Revenue Code of 1986 and deter-
+mined in accordance with standards prescribed by the Sec-
+retary in regulations) under the State plan (or waiver of such
+plan) of such State under title XIX of such Act, 100 percent of
+the specified total published Medicare payment rate (or, in the
+absence of a specified total published Medicare payment rate,
+an equivalent Medicare payment rate); or
+(2) in the case of a State other than a State described in
+paragraph (1), 110 percent of the specified total published
+Medicare payment rate (or, in the absence of a specified total
+published Medicare payment rate, an equivalent Medicare pay-
+ment rate).
+Page 343, line 21, strike ‘‘of Health and Human Services’’.
+Page 344, insert after line 2 the following (and redesignate ac-
+cordingly):
+(c) TREATMENT OF EXPANSION STATES.—The revisions described
+in subsection (a) shall provide that, with respect to a State that be-
+gins providing the coverage described in paragraph (1) of such sub-
+section on or after the date of the enactment of this Act, the limita-
+tion described in such paragraph shall apply to such State with re-
+spect to a payment described in section 438.6(c)(2)(iii) of title 42,
+Code of Federal Regulations (or a successor regulation) for a serv-
+ice furnished during a rating period beginning on or after the date
+on which such State begins providing such coverage, including with
+respect to a payment so described for which written prior approval
+was made before such date.
+Page 344, insert after line 3 the following (and redesignate ac-
+cordingly):
+(1) EQUIVALENT MEDICARE PAYMENT RATE.—The term ‘‘equiv-
+alent Medicare payment rate’’ means amounts calculated as
+payment for specific services comparable to the service fur-
+nished that have been developed under part A or part B of title
+XVIII of the Social Security Act (42 U.S.C. 1396 et seq.).
+Page 344, line 11, insert ‘‘including the service furnished’’ after
+‘‘services’’.
+Page 349, line 23, strike ‘‘January 1, 2029’’ and insert ‘‘not later
+than December 31, 2026, or, at the option of the State, such earlier
+date as the State may specify’’.
+Page 354, line 14, insert ‘‘of similar acuity (including outpatient
+care relating to other services specified in this subclause)’’ after
+‘‘other services’’.
+Page 354, line 15, insert ‘‘or’’ after the semicolon.
+Page 355, line 11, strike the semicolon and all that follows
+through line 15, and insert a period.
+Page 360, line 22, strike ‘‘October 1, 2028 (or, if earlier, the date
+that precedes January 1, 2029, by the number of months specified
+by the State under paragraph (1)(A) plus 3 months)’’ and insert
+‘‘the date that precedes December 31, 2026 (or, if the State elects
+under paragraph (1) to specify an earlier date, such earlier date)
+by the number of months specified by the State under paragraph
+(1)(A) plus 3 months’’.
+Page 365, line 14, insert ‘‘or’’ after the semicolon.
+Page 365, line 15, strike ‘‘and’’ and insert ‘‘or’’.
+Page 365, line 16, strike ‘‘or’’ and all that follows through line 21.
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00016 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+17
+Page 366, line 12, insert ‘‘or’’ after the semicolon.
+Page 366, line 14, strike ‘‘; or’’ and all that follows through line
+17, and insert a period.
+Page 366, line 19, strike ‘‘means’’ and insert ‘‘includes’’.
+Page 366, line 22, insert ‘‘and’’ after the semicolon.
+Page 367, line 2, strike ‘‘; or’’ and all that follows through line
+5, and insert a period.
+Page 367, line 21, strike ‘‘RULEMAKING’’ and insert ‘‘GUIDANCE’’.
+Page 367, line 21, strike ‘‘July 1, 2027’’ and insert ‘‘December 31,
+2025’’.
+Page 367, line 22, strike ‘‘promulgate regulations for purposes of
+carrying out’’ and insert ‘‘issue guidance relating to the initial im-
+plementation of’’.
+Page 367, line 25, strike ‘‘GRANTS’’ and insert ‘‘DEVELOPMENT OF
+GOVERNMENT EFFICIENCY GRANTS’’.
+Page 371, line 25, strike ‘‘or any other provision of law’’.
+Page 397, insert after line 9 the following:
+SEC. 44202. FUNDING COST SHARING REDUCTION PAYMENTS.
+Section 1402 of the Patient Protection and Affordable Care Act
+(42 U.S.C. 18071) is amended by adding at the end the following
+new subsection:
+‘‘(h) FUNDING.—
+‘‘(1) IN GENERAL.—There are appropriated out of any monies
+in the Treasury not otherwise appropriated such sums as may
+be necessary for purposes of making payments under this sec-
+tion for plan years beginning on or after January 1, 2026.
+‘‘(2) LIMITATION.—
+‘‘(A) IN GENERAL.—The amounts appropriated under
+paragraph (1) may not be used for purposes of making pay-
+ments under this section for a qualified health plan that
+provides health benefit coverage that includes coverage of
+abortion.
+‘‘(B) EXCEPTION.—Subparagraph (A) shall not apply to
+payments for a qualified health plan that provides cov-
+erage of abortion only if necessary to save the life of the
+mother or if the pregnancy is a result of an act of rape or
+incest.’’.
+Page 439, line 14, insert before the comma the following: ‘‘(as de-
+fined in section 509 of the Gramm-Leach-Bliley Act (15 U.S.C.
+6809))’’.
+Insert after section 60003 the following:
+SEC. 60004. STATE BORDER SECURITY REIMBURSEMENT.
+(a) IN GENERAL.—In addition to amounts otherwise available,
+there is appropriated to the Secretary of Homeland Security, for
+fiscal year 2025, out of any money in the Treasury not otherwise
+appropriated, $12,000,000,000, to remain available until September
+30, 2029, to carry out this section.
+(b) USE OF FUNDS.—The Secretary of Homeland Security shall
+use amounts made available under subsection (a) to make grants
+to States for costs associated with actions taken on or after Janu-
+ary 21, 2021, to assist the Federal border security missions to en-
+force the immigration laws, including through detention and re-
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00017 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+18
+moval, and to combat the unlawful entry of persons and contra-
+band.
+(c) APPLICATION.—The Secretary of Homeland Security shall de-
+velop a process for States to submit a grant application, together
+with satisfactory evidence of costs incurred, to seek reimbursement
+for any expenses described in subsection (b).
+(d) PROHIBITION.—The Secretary of Homeland Security may not
+make a grant for reimbursement under this section to a State if
+such State has received such reimbursement under any other grant
+program of the Department of Homeland Security.
+Page 533, strike line 12 and all that follows through line 16 on
+page 542, and insert the following (and conform the table of con-
+tents accordingly):
+SEC. 70200. REVIEW OF AGENCY RULEMAKING.
+(a) DEREGULATION INITIATIVE.—
+(1) APPROPRIATION.—In addition to amounts otherwise avail-
+able, there is appropriated to the Director of the Office of Man-
+agement and Budget for fiscal year 2025, out of any money in
+the Treasury not otherwise appropriated, $100,000,000 to re-
+main available through September 30, 2028, to carry out this
+section.
+(2) USE OF FUNDS.—The Director of the Office of Manage-
+ment and Budget shall use amounts made available under
+paragraph (1) to pay expenses associated with improving regu-
+latory processes and analyzing and reviewing rules issued by
+a covered agency.
+(b) DEFINITIONS.—In this section:
+(1) COVERED AGENCY.—The term ‘‘covered agency’’—
+(A) means—
+(i) the Department of Education;
+(ii) the Department of Energy;
+(iii) the Department of Health and Human Services;
+(iv) the Department of Homeland Security;
+(v) the Department of Justice;
+(vi) the Consumer Financial Protection Bureau; and
+(vii) the Environmental Protection Agency; and
+(B) does not include the Social Security Administration.
+(2) RULE.—The term ‘‘rule’’ has the meaning given the term
+in section 551 of title 5, United States Code, only to the extent
+such rule has been issued by a covered agency.
+Page 578, beginning on line 10, strike section 80122.
+Page 591, beginning on line 10, strike section 80132.
+Page 595, line 17, strike ‘‘202’’ and insert ‘‘202(a)’’.
+Page 595, line 18, strike ‘‘1712’’ and insert ‘‘1712(a)’’.
+Page 602, line 8, strike ‘‘Administrative and’’.
+Page 602, beginning on line 9, strike ‘‘administrative or’’.
+Page 602, beginning on line 13, strike ‘‘administrative or’’.
+Page 605, line 6, strike ‘‘The’’ and insert ‘‘Notwithstanding the
+2024–2029 National Outer Continental Shelf Oil and Gas Leasing
+Program, the’’.
+Page 608, line 17, strike ‘‘The’’ and insert ‘‘Notwithstanding the
+2024–2029 National Outer Continental Shelf Oil and Gas Leasing
+Program, the’’.
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00018 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+19
+Page 629, beginning on line 2, strike sections 80301 through
+80305.
+Page 640, beginning on page 1, strike sections 80315 through
+80317.
+Strike section 90002 (and redesignate sections 90003, 90004, and
+90005 as sections 90002, 90003, and 90004, respectively, and con-
+form the table of contents in section 2 accordingly).
+Page 677, line 2, insert ‘‘, 71,’’ after ‘‘43’’.
+Page 687, beginning on line 17, strike ‘‘section 90005(a)(4)’’ and
+insert ‘‘section 90004(a)(4)’’.
+Page 688, beginning on line 3, strike ‘‘section 90005’’ and insert
+‘‘section 90004’’.
+Page 712, after line 11, insert the following:
+(g) OMISSION OF CORRECT SOCIAL SECURITY NUMBER TREATED AS
+MATHEMATICAL OR CLERICAL ERROR.—Section 6213(g)(2)(I) is
+amended by striking ‘‘section 24(e)’’ and inserting ‘‘section 24’’.
+Page 712, line 12, strike ‘‘(g)’’ and insert ‘‘(h)’’.
+Page 716, after line 24, insert the following:
+(b) MODIFICATION OF INFLATION ADJUSTMENT.—Section
+55(d)(4)(B) is amended—
+(1) by striking ‘‘2018’’ in clause (i) and inserting ‘‘2026’’, and
+(2) by striking ‘‘2017’’ in clause (i)(II) and inserting ‘‘2025’’.
+Page 717, line 1, strike ‘‘(b)’’ and insert ‘‘(c)’’.
+Page 718, strike line 18 and all that follows through page 719,
+line 6, and insert the following:
+‘‘(a) IN GENERAL.—In the case of an individual, the amount of the
+taxpayer’s itemized deductions shall be reduced by the sum of—
+‘‘(1) 5⁄
+37
+of the lesser of—
+‘‘(A) the amount of the deduction allowable to the tax-
+payer under section 164 for such taxable year (determined
+without regard to this section), or
+‘‘(B) the excess (if any) of—
+‘‘(i) the taxpayer’s taxable income for such taxable
+year (determined without regard to this section and
+increased by the amount of the taxpayer’s itemized de-
+ductions), over
+‘‘(ii) the dollar amount at which the 37 percent rate
+bracket under section 1 begins with respect to the tax-
+payer, plus
+‘‘(2) 2⁄
+37
+of the lesser of—
+‘‘(A) so much (if any) of the taxpayer’s itemized deduc-
+tions as exceed the amount described in paragraph (1)(A),
+or
+‘‘(B) the excess (if any) of—
+‘‘(i) the amount described in subparagraph (1)(B)(i),
+over
+‘‘(ii) the sum of the amounts described in paragraphs
+(1)(A) and (1)(B)(ii).
+‘‘(b) ITEMIZED DEDUCTIONS.—For purposes of subsection (a), any
+reference to the taxpayer’s itemized deductions shall be treated as
+reference to such deductions determined without regard to this sec-
+tion.’’.
+Page 719, line 7, strike ‘‘(b)’’ and insert ‘‘(c)’’.
+Page 729, line 22, strike ‘‘(as defined in section 24(h)(7))’’.
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00019 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+20
+Page 730, after line 2, insert the following:
+‘‘(3) SOCIAL SECURITY NUMBER DEFINED.—For purposes of
+paragraph (1), the term ‘social security number’ shall have the
+meaning given such term in section 24(h)(7).’’.
+Page 737, line 18, strike ‘‘(as defined in section 24(h)(7))’’.
+Page 737, after line 22, insert the following:
+‘‘(3) SOCIAL SECURITY NUMBER DEFINED.—For purposes of
+paragraph (1), the term ‘social security number’ shall have the
+meaning given such term in section 24(h)(7).’’.
+Page 741, lines 4 and 5, strike ‘‘(as defined in section 24(h)(7))’’.
+Page 741, after line 11, insert the following:
+‘‘(iii) SOCIAL SECURITY NUMBER DEFINED.—For pur-
+poses of clause (i), the term ‘social security number’
+shall have the meaning given such term in section
+24(h)(7).’’.
+Page 759, strike line 12 and all that follows through page 760,
+line 19.
+Page 760, line 20, strike ‘‘(d)’’ and insert ‘‘(c)’’.
+Page 790, line 16, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 790, line 19, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 790, line 20, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 790, line 21, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 791, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 791, lines 5 and 6, strike ‘‘‘money account for growth and
+advancement’ or’’.
+Page 791, line 6, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 791, line 11, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 794, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 794, line 9, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 795, line 10, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 795, line 16, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 795, line 22, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 797, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 797, line 10, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 797, line 11, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 797, line 22, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 797, line 24, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 798, line 19, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 798, line 20, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 799, line 2, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 799, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 799, line 6, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 799, line 8, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 799, line 9, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 800, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 800, line 5, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 800, line 14, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 800, line 17, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 800, line 18, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 801, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 801, line 15, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 802, line 8, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 802, line 21, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00020 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+21
+Page 803, line 1, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 803, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 803, line 25, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 804, line 5, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 805, line 3, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 805, line 9, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 805, after line 13 (in the item relating to part IX), strike
+‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 805, line 17, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 805, line 21, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 806, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 806, line 8, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 808, line 22, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 808, line 23, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 809, line 5, strike ‘‘MAGA’’ and insert ‘‘TRUMP’’.
+Page 810, line 3, strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 810, after line 8 (in the item relating to section 6434),
+strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 810, after line 12 (in the item relating to section 6659),
+strike ‘‘MAGA’’ and insert ‘‘Trump’’.
+Page 862, strike lines 6 and 7, and insert the following:
+(a) IN GENERAL.—Section 250(a) is amended—
+(1) by striking ‘‘37.5 percent’’ in paragraph (1)(A) and insert-
+ing ‘‘36.5 percent’’,
+(2) by striking ‘‘50 percent’’ in paragraph (1)(B) and inserting
+‘‘49.2 percent’’, and
+(3) by striking paragraph (3).
+Page 862, strike lines 13 through 15, and insert the following:
+(a) IN GENERAL.—Section 59A(b) is amended—
+(1) by striking ‘‘10 percent’’ in paragraph (1) and inserting
+‘‘10.1 percent’’, and
+(2) by striking paragraph (2) and by redesignating para-
+graphs (3) and (4) as paragraphs (2) and (3), respectively.
+Page 889, line 20, strike ‘‘, in consultation’’ and all that follows
+through ‘‘determines appropriate,’’ on page 890, line 1.
+Strike page 901, line 20 through page 902, line 3.
+Page 914, line 1, insert ‘‘under this section’’ after ‘‘area’’.
+Page 934, line 9, strike ‘‘PHASE-OUT AND RESTRICTIONS’’ and in-
+sert ‘‘RESTRICTIONS’’.
+Strike page 934, line 11 through page 935, line 4 and insert the
+following:
+(a) TERMINATION OF CREDIT.—Section 45Y is amended by strik-
+ing subsection (d) and by adding at the end the following new sub-
+section:
+‘‘(h) TERMINATION OF CREDIT.—
+‘‘(1) IN GENERAL.—Except as provided in paragraphs (2) and
+(3), no credit shall be allowed under this section for any quali-
+fied facility—
+‘‘(A) the construction of which begins after the date
+which is 60 days after the date of the enactment of this
+subsection, or
+‘‘(B) which is placed in service after December 31, 2028.
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00021 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+22
+‘‘(2) ADVANCED NUCLEAR FACILITIES.—In the case of any
+qualified facility that is an advanced nuclear facility (as de-
+fined in section 45J(d)(2))—
+‘‘(A) paragraph (1) shall not apply, and
+‘‘(B) no credit shall be allowed under this section for any
+such facility the construction of which begins after Decem-
+ber 31, 2028.
+‘‘(3) EXPANSION OF NUCLEAR FACILITIES.—In the case of any
+nuclear facility the reactor design for which is approved by the
+Nuclear Regulatory Commission—
+‘‘(A) paragraph (1) shall not apply, and
+‘‘(B) no credit shall be allowed under this section for any
+such facility the expansion of which begins after December
+31, 2028.’’.
+Page 935, line 12, strike ‘‘after the date that is one year after the
+date of the enactment of this subparagraph’’ and insert ‘‘after De-
+cember 31, 2025’’.
+Page 937, strike lines 10 through 15.
+Page 944, after line 25, insert the following:
+(d) DENIAL OF CREDIT FOR EXPENDITURES FOR CERTAIN WIND
+AND SOLAR LEASING ARRANGEMENTS.—Section 45Y, as amended by
+subsection (a), is amended by inserting after subsection (c) the fol-
+lowing new subsection:
+‘‘(d) DENIAL OF CREDIT FOR EXPENDITURES FOR WIND AND SOLAR
+LEASING ARRANGEMENTS.—No credit shall be allowed under this
+section for any investment during the taxable year with respect to
+property described in paragraph (1), (2), or (4) of section 25D(d) if—
+‘‘(1) the taxpayer rents or leases such property to a third
+party during such taxable year, and
+‘‘(2) the lessee would qualify for a credit under section 25D
+with respect to such property if the lessee owned such prop-
+erty.’’.
+Page 945, strike lines 6 through 9 and insert the following:
+(2) TERMINATION OF CREDIT.—The amendment made by sub-
+section (a) shall apply to facilities for which construction begins
+after the date that is 60 days after the date of enactment of
+this Act.
+Page 945, line 10, strike ‘‘PHASE-OUT AND RESTRICTIONS’’ and
+insert ‘‘RESTRICTIONS’’.
+Strike page 945, line 12 through page 946, line 12 and insert the
+following:
+(a) TERMINATION OF CREDIT.—Section 48E is amended by strik-
+ing subsection (e) and by adding at the end the following new sub-
+section:
+‘‘(j) TERMINATION OF CREDIT.—
+‘‘(1) IN GENERAL.—Except as provided in paragraph (2), no
+credit shall be allowed under this section for any qualified fa-
+cility or energy storage technology—
+‘‘(A) the construction of which begins after the date
+which is 60 days after the date of the enactment of this
+subsection, or
+‘‘(B) which is placed in service after December 31, 2028.
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00022 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+23
+‘‘(2) ADVANCED NUCLEAR FACILITY.—In the case of any quali-
+fied facility that is an advanced nuclear facility (as defined in
+section 45J(d)(2))—
+‘‘(A) paragraph (1) shall not apply, and
+‘‘(B) no credit shall be allowed under this section for any
+such facility the construction of which begins after Decem-
+ber 31, 2028.’’.
+Page 946, line 21, strike ‘‘after the date that is one year after the
+date of the enactment of this subparagraph’’ and insert ‘‘after De-
+cember 31, 2025’’.
+Page 947, line 8, strike ‘‘after the date that is one year after the
+date of the enactment of this paragraph’’ and insert ‘‘after Decem-
+ber 31, 2025’’.
+Page 951, after line 3, insert the following:
+(c) DENIAL OF CREDIT FOR EXPENDITURES FOR CERTAIN WIND AND
+SOLAR LEASING ARRANGEMENTS.—Section 48E, as amended by sub-
+section (a), is amended by inserting after subsection (d) the fol-
+lowing new subsection:
+‘‘(e) DENIAL OF CREDIT FOR EXPENDITURES FOR WIND AND SOLAR
+LEASING ARRANGEMENTS.—No credit shall be allowed under this
+section for any investment during the taxable year with respect to
+property described in paragraph (1), (2), or (4) of section 25D(d) if—
+‘‘(1) the taxpayer rents or leases such property to a third
+party during such taxable year, and
+‘‘(2) the lessee would qualify for a credit under section 25D
+with respect to such property if the lessee owned such prop-
+erty.’’.
+Page 951, strike lines 4 through 9.
+Page 951, line 14, strike ‘‘2031’’ and insert ‘‘2028’’.
+Page 951, line 17, strike ‘‘2031’’ and insert ‘‘2028’’.
+Page 952, line 3, strike ‘‘2031’’ and insert ‘‘2028’’.
+Page 952, strike lines 9 through 13 and insert the following:
+(2) TERMINATION OF CREDIT.—The amendment made by sub-
+section (a) shall apply to facilities and energy storage tech-
+nology for which construction begins after the date that is 60
+days after the date of enactment of this Act.
+Page 952, lines 16 and 17, strike ‘‘, as amended by sections
+112008 and 112009,’’.
+Page 953, line 23, strike ‘‘sections 112008, 112009, and’’ and in-
+sert ‘‘section’’.
+Page 954, line 18, strike ‘‘PHASE-OUT AND RESTRICTIONS’’ and
+insert ‘‘RESTRICTIONS’’.
+Page 954, strike line 21 and all that follows through page 955,
+line 18.
+Page 955, line 19, strike ‘‘(b)’’ and insert ‘‘(a)’’.
+Page 956, after line 12, insert the following:
+(b) TERMINATION OF CREDIT.—Section 45U(e) is amended by
+striking ‘‘December 31, 2032’’ and inserting ‘‘December 31, 2031’’.
+Page 956, strike lines 13 through 24 and insert the following:
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00023 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+24
+(c) EFFECTIVE DATE.—The amendments made by this section
+shall apply to taxable years beginning after the date of enactment
+of this Act.
+Page 961, strike lines 9 through 22 and insert the following:
+(c) REPEAL OF TRANSFERABILITY.—Section 6418, as amended by
+sections 112010, 112011, and 112012 is amended—
+(1) in subsection (f)(1)—
+(A) in subparagraph (A)—
+(i) by striking clause (vi), and
+(ii) by redesignating clauses (iv), (v), (vii), (ix), (x),
+and (xi) as clauses (iii), (iv), (v), (vi), (vii), and (viii),
+respectively, and
+(B) in subparagraph (B), by striking ‘‘clause (ii) or (v)’’
+and inserting ‘‘clause (ii) or (iv)’’, and
+(2) in subsection (g)(3), by striking ‘‘clause (ix) or (x)’’ and in-
+serting ‘‘clause (vi) or (vii)’’.
+Page 964, line 5, strike ‘‘6418(f)(1)(A)(iv)’’ and insert
+‘‘6418(f)(1)(A)(iii)’’.
+Page 968, line 1, strike ‘‘$15,000’’ and insert ‘‘half the dollar
+amount in effect under subclause (II)’’.
+Page 968, line 4, strike ‘‘$30,000’’ and insert ‘‘$40,400’’.
+Page 968, line 9, strike ‘‘the $15,000’’ and all that follows
+through ‘‘each’’ on line 12, and insert ‘‘the limitation otherwise in
+effect under subparagraph (A)(ii) shall’’.
+Page 968, line 12, strike ‘‘20 percent’’ and insert ‘‘30 percent’’.
+Page 968, line 15, strike ‘‘$200,000’’ and insert ‘‘half the dollar
+amount in effect under subclause (II)’’.
+Page 968, line 18, strike ‘‘$400,000’’ and insert ‘‘$505,000’’.
+Page 968, line 23, strike ‘‘dollar amount’’ and insert ‘‘limitation’’.
+Page 969, line 1, strike ‘‘dollar amount’’ and insert ‘‘limitation’’.
+Page 969, after line 9, insert the following:
+‘‘(D) ADJUSTMENT OF CERTAIN DOLLAR AMOUNTS.—
+‘‘(i) IN GENERAL.—In the case of any taxable year be-
+ginning after December 31, 2026, and before January
+1, 2034, the dollar amount in effect under subpara-
+graph (A)(ii)(II), and the dollar amount in effect under
+subparagraph (B)(i)(II), shall each be equal to 101 per-
+cent of such dollar amount as in effect for taxable
+years beginning in the preceding taxable year.
+‘‘(ii) MAINTENANCE OF INCREASE THEREAFTER.—In
+the case of any taxable year beginning after December
+31, 2033, the dollar amounts referred to in clause (i)
+shall be equal to such dollar amounts as in effect for
+taxable years beginning in 2033.’’.
+Page 969, lines 21 and 22, strike ‘‘, section 164(b)(5), or section
+216(a)(1)’’ and insert ‘‘or section 216(a)(1), or is taken into account
+under section 164(b)(5)’’.
+Page 971, line 12, insert ‘‘or (4)(A)(ii)’’ after ‘‘paragraph (3)(A)’’.
+Page 973, line 6, insert ‘‘or section 164(b)(5)’’ after ‘‘(3)(A)’’.
+Page 983, strike lines 16 and 17, and insert the following:
+(f) TEMPORARY INCREASE FOR 2025.—
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00024 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+25
+(1) IN GENERAL.—Section 164(b)(6) is amended by striking
+‘‘$10,000 ($5,000 in the case of a married individual filing a
+separate return)’’ and inserting ‘‘applicable limitation amount’’.
+(2) APPLICABLE LIMITATION AMOUNT.—Section 164(b) is
+amended by adding at the end the following new paragraph:
+‘‘(7) APPLICABLE LIMITATION AMOUNT.—
+‘‘(A) IN GENERAL.—For purposes of paragraph (6), the
+term ‘applicable limitation amount’ means—
+‘‘(i) $20,000, in the case of a married individual fil-
+ing a separate return, and
+‘‘(ii) $40,000, in the case of any other taxpayer.
+‘‘(B) PHASEDOWN BASED ON MODIFIED ADJUSTED GROSS
+INCOME.—
+‘‘(i) IN GENERAL.—Except as provided in clause (ii),
+the $20,000 amount in subparagraph (A)(i) and the
+$40,000 amount in subparagraph (A)(ii) shall each be
+reduced by 30 percent of the excess (if any) of the tax-
+payer’s modified adjusted gross income over—
+‘‘(I) $250,000, in the case of a married individual
+filing a separate return, and
+‘‘(II) $500,000, in the case of any other taxpayer.
+‘‘(ii) LIMITATION ON REDUCTION.—The reduction
+under clause (i) shall not result in—
+‘‘(I) the dollar amount in effect under subpara-
+graph (A)(i) being less than $5,000, or
+‘‘(II) the dollar amount in effect under subpara-
+graph (A)(ii) being less than $10,000.
+‘‘(C) MODIFIED ADJUSTED GROSS INCOME.—For purposes
+of this paragraph, the term ‘modified adjusted gross in-
+come’ means adjusted gross income increased by any
+amount excluded from gross income under section 911,
+931, or 933.’’.
+(3) REPEAL AFTER 2025.—Section 164(b), as amended by
+paragraphs (1) and (2), is amended by striking paragraphs (6)
+and (7).
+Page 983, strike lines 18 through 20, and insert the following:
+(g) EFFECTIVE DATE.—
+(1) IN GENERAL.—Except as otherwise provided in this sub-
+section, the amendments made by this section shall apply to
+taxable years beginning after December 31, 2025.
+(2) TEMPORARY INCREASE FOR 2025.—The amendments made
+by paragraphs (1) and (2) of subsection (f) shall apply to tax-
+able years beginning after December 31, 2024.
+Page 1008, line 15, strike ‘‘10’’ and insert ‘‘10.1’’.
+Page 1024, strike lines 11 through 25, and insert the following:
+SEC. 112029. MODIFICATION OF TREATMENT OF SILENCERS.
+(a) IN GENERAL.—Section 5845(a) is amended by striking ‘‘(7) any
+silencer’’ and all that follows through ‘‘; and (8)’’ and inserting ‘‘and
+(7)’’.
+(b) TRANSFER TAX.—Section 5811(a) is amended to read as fol-
+lows:
+‘‘(a) RATE.—There shall be levied, collected, and paid on firearms
+transferred a tax at the rate of—
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00025 Fmt 6659 Sfmt 6602 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+26
+‘‘(1) $5 for each firearm transferred in the case of a weapon
+classified as any other weapon under section 5845(e),
+‘‘(2) $0 for each firearm transferred in the case of a silencer
+(as defined in section 921 of title 18, United States Code), and
+‘‘(3) $200 for any other firearm transferred.’’.
+(c) MAKING TAX.—Section 5821(a) is amended to read as follows:
+‘‘(a) RATE.—There shall be levied, collected, and paid upon the
+making of a firearm a tax at the rate of—
+‘‘(1) $0 for each silencer (as defined in section 921 of title 18,
+United States Code) made, and
+‘‘(2) $200 for any other firearm made.’’.
+(d) EFFECTIVE DATE.—The amendments made by this section
+shall apply to calendar quarters beginning more than 90 days after
+the date of the enactment of this Act.
+Page 1025, line 11, insert ‘‘customs’’ after ‘‘United States’’.
+Page 1026, after line 13, insert the following:
+SEC. 112032. TREATMENT OF PAYMENTS FROM PARTNERSHIPS TO
+PARTNERS FOR PROPERTY OR SERVICES.
+(a) IN GENERAL.—Section 707(a)(2) is amended by striking
+‘‘Under regulations prescribed’’ and inserting ‘‘Except as provided’’.
+(b) EFFECTIVE DATE.—The amendment made by this section shall
+apply to services performed, and property transferred, after the
+date of the enactment of this Act.
+(c) RULE OF CONSTRUCTION.—Nothing in this section, or the
+amendments made by this section, shall be construed to create any
+inference with respect to the proper treatment under section 707(a)
+of the Internal Revenue Code of 1986 with respect to payments
+from a partnership to a partner for services performed, or property
+transferred, on or before the date of the enactment of this Act.
+Page 1034, line 13, strike ‘‘Notwithstanding’’ and all the follows
+through ‘‘subject’’ on line 16, and insert ‘‘Subject’’.
+Page 1037, line 10, strike ‘‘5 percent’’ and insert ‘‘3.5 percent’’.
+Page 1062, line 12, strike ‘‘or any other provision of law’’.
+Page 1079, after line 22, insert the following:
+(d) SOCIAL SECURITY NUMBER DEFINED.—
+(1) IN GENERAL.—Section 32(m) is amended by striking
+‘‘issued to an individual’’ and all that follows and inserting ‘‘(as
+defined section 24(h)(7))’’.
+(2) EFFECTIVE DATE.—The amendment made by this section
+shall apply to taxable years beginning after December 31,
+2024.
+Æ
+VerDate Sep 11 2014 12:07 May 22, 2025 Jkt 059008 PO 00000 Frm 00026 Fmt 6659 Sfmt 6611 E:\HR\OC\HR113.XXX HR113
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

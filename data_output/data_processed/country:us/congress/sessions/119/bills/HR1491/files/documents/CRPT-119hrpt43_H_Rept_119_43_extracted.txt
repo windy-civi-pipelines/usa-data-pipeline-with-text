@@ -1,0 +1,1522 @@
+Title: MARCH27, 2025.—Committed to the Committee of the Whole House on the State
+Official Title: MARCH27, 2025.—Committed to the Committee of the Whole House on the State
+Number of Sections: 7
+Source: documents - H. Rept. 119-43
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–43
+DISASTER RELATED EXTENSION OF DEADLINES ACT
+of the Union and ordered to be printed
+Mr. SMITH of Missouri, from the Committee on Ways and Means,
+submitted the following
+R E P O R T
+[To accompany H.R. 1491]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Ways and Means, to whom was referred the
+bill (H.R. 1491) to amend the Internal Revenue Code of 1986 to
+make the postponement of certain deadlines by reason of disasters
+applicable to the limitation on credit or refund, and to take post-
+ponements into account for purposes of sending collection notices,
+having considered the same, reports favorably thereon with an
+amendment and recommends that the bill as amended do pass.
+CONTENTS
+Page
+I. SUMMARY AND BACKGROUND ................................................................. 2
+A. Purpose and Summary ..................................................................... 2
+B. Background and Need for Legislation ............................................. 2
+C. Legislative History ............................................................................ 3
+D. Designated Hearing .......................................................................... 4
+II. EXPLANATION OF THE BILL ...................................................................... 4
+III. VOTE OF THE COMMITTEE......................................................................... 7
+IV. BUDGET EFFECTS OF THE BILL ............................................................... 8
+A. Committee Estimate of Budgetary Effects ...................................... 8
+B. Statement Regarding New Budget Authority and Tax Expendi-
+tures Budget Authority .................................................................. 8
+C. Cost Estimate Prepared by the Congressional Budget Office ....... 8
+V. OTHER MATTERS TO BE DISCUSSED UNDER THE RULES OF THE
+HOUSE .......................................................................................................... 10
+A. Committee Oversight Findings and Recommendations ................. 10
+B. Statement of General Performance Goals and Objectives ............. 10
+C. Applicability of House Rule XXI, Clause 5(b) ................................. 10
+D. Information Relating to Unfunded Mandates ................................ 10
+E. Congressional Earmarks, Limited Tax Benefits, and Limited
+Tariff Benefits ................................................................................. 10
+F. Duplication of Federal Programs ..................................................... 10
+59–006
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+2
+G. Tax Complexity Analysis .................................................................. 11
+VI. CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED 11
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 2:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Disaster Related Extension of Deadlines Act’’.
+SEC. 2. POSTPONEMENT OF CERTAIN DEADLINES BY REASON OF DISASTERS MADE APPLICA-
+BLE TO LIMITATION ON CREDIT OR REFUND.
+(a) EXTENSIONOFTIMEFORFILINGRETURN.—
+(1) IN GENERAL.—Section 7508A of the Internal Revenue Code of 1986 is
+amended by adding at the end the following new subsection:
+‘‘(f) APPLICATION TO LIMITATION ON CREDIT OR REFUND.—For purposes of section
+6511(b)(2)(A), any period disregarded under this section with respect to the time
+prescribed for filing any return of tax shall be treated as an extension of time for
+filing such return.’’.
+(2) EFFECTIVEDATE.—The amendment made by this subsection shall apply to
+claims filed after the date of the enactment of this Act.
+(b) COLLECTIONNOTICES.—
+(1) INGENERAL.—Section 6303(b) of such Code is amended—
+(A) by striking ‘‘Except’’ and inserting the following:
+‘‘(1) INGENERAL.—Except’’, and
+(B) by adding at the end the following new paragraph:
+‘‘(2) POSTPONEMENT BY REASON OF DISASTER, SIGNIFICANT FIRE, OR TERROR-
+ISTIC OR MILITARY ACTIONS.—For purposes of paragraph (1), the last date pre-
+scribed for payment of any tax shall be determined after taking into account
+any period disregarded under section 7508A.’’.
+(2) EFFECTIVE DATE.—The amendments made by this subsection shall apply
+to notices issued after the date of the enactment of this Act.
+I. SUMMARY AND BACKGROUND
+A. PURPOSE AND SUMMARY
+The bill, H.R. 1491, the ‘‘Disaster Related Extension of Deadlines
+Act,’’ as ordered reported by the Committee on Ways and Means
+on February 26, 2025.
+Under the provision, any period disregarded under section 7508A
+with respect to the time prescribed for filing any return of tax is
+treated as an extension of time for purposes of determining the lim-
+itations on a refund or credit under section 6511(b)(2)(A).
+In addition, under the provision, the last date prescribed for pay-
+ment of any tax under section 6303 is clarified to take into account
+any period disregarded under section 7508A.
+B. BACKGROUND AND NEED FOR LEGISLATION
+The Committee on Ways and Means has conducted oversight of
+the IRS and the need for modernization. On February 11, 2025, the
+Committee held a hearing titled ‘‘IRS Return on Investment and
+the Need for Modernization,’’ to examine the lack of return on in-
+vestment from funding provided by to the IRS by the Inflation Re-
+duction Act and the need for information technology modernization
+at the agency.1 During the Committee’s consideration of how to
+modernize the administration of the tax laws, the Committee recog-
+nized several issues faced by taxpayers who are recovering from
+natural disasters, one being the strict time period that a taxpayer
+must file a claim for a credit or a refund when they have been af-
+1H. Comm. On Ways and Means, Hearing: IRS Return on Investment and the Need for Mod-
+ernization (Feb 11, 2025) https://waysandmeans.house.gov/event/oversight-subcommittee-hear-
+ing-on-irs-return-on-investment-and-the-need-for-modernization/.
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+3
+fected by a natural disaster. Another is receiving a mailing notice
+from the IRS 60 days after the filing deadline demanding a tax
+payment, that does not account for the taxpayer’s extension grant-
+ed under a federal natural disaster declaration.
+Currently, taxpayers who file tax returns by the April 15 filing
+deadline ordinarily have the opportunity to file a claim for a credit
+or refund of any overpayments of tax until April 15 three years
+later. However, if a filing deadline is postponed beyond the typical
+April 15 deadline due to a natural disaster, the taxpayer’s allotted
+time to file a claim for a credit or a refund does not change. This
+leads to a decreased period of time in which a taxpayer must file
+a claim for a credit or refund, during the time that the taxpayer
+is recovering from a natural disaster.
+The IRS is required to send a letter of notice and demand to the
+taxpayer demanding payment within 60 days of assessment, but
+not before the last date prescribed for the payment of tax.2 Under
+current law, the IRS does not take into account a taxpayers exten-
+sion related to natural disasters, often leading to the agency send-
+ing notice and demand letters prematurely.
+Taxpayers should not be burdened by inadvertent notice and de-
+mand letters from the IRS that are sent erroneously without con-
+sideration of the taxpayer’s extension granted due to a natural dis-
+aster.
+This bill brings parity to the tax filing extension that is granted
+due to a federally designated natural disaster to the three-year
+lookback period to file a claim for a credit or a refund and ensures
+the IRS does not send notice and demand letters prematurely. Tax-
+payers who are facing the difficulties of a natural disaster should
+receive the same timeline to file a claim for a credit or a refund
+and should not be burdened by erroneous notice and demand let-
+ters.
+The Committee on Ways and Means is committed to providing
+fair treatment to taxpayers who face the challenges of recovering
+from a natural disaster. This bill brings parity to the extension pro-
+vided to taxpayers.
+C. LEGISLATIVE HISTORY
+Background
+H.R. 1491 was introduced on February 21, 2025, and was re-
+ferred to the Committee on Ways and Means.
+Committee Hearings
+On February 11, 2025, the Committee on Ways and Means held
+a hearing titled, ‘‘IRS Return on Investment and the Need for Mod-
+ernization.’’3
+Committee Action
+The Committee on Ways and Means marked up H.R. 1491, the
+‘‘Disaster Related Extension of Deadlines Act’’ on February 26,
+2025, and ordered the bill, as amended, favorably reported (with a
+quorum being present).
+2Sec. 6303(a).
+3Id.
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+4
+D. DESIGNATED HEARING
+Pursuant to clause 3(c)(6) of Rule XIII, the following hearing was
+used to develop and consider H.R. 1491:
+‘‘IRS Return on Investment and the Need for Modernization’’ on
+February 11, 2025.
+II. EXPLANATION OF THE BILL
+A. POSTPONEMENT OF CERTAIN DEADLINES BY REASON OF DISAS-
+TERS MADE APPLICABLE TO LIMITATION ON CREDIT OR REFUND
+(SEC. 2 OF THE BILL AND NEW SEC. 7508A(f) AND SEC. 6303(b)
+OF THE CODE)
+PRESENT LAW
+General time limits for filing tax returns and paying estimated tax
+Individuals generally are required to file their Federal income
+tax returns by April 15 of the year following the close of a taxable
+year.4 Present law also provides that the Secretary may grant rea-
+sonable extensions of time for filing such returns.5 Treasury regula-
+tions provide upon application on the proper form, an automatic
+six-month extension (until October 15 for calendar-year individ-
+uals) for any individual timely filing that form and paying the
+amount of tax estimated to be due.6
+In general, individuals are required to make quarterly estimated
+tax payments by April 15, June 15, September 15, and January 15
+of the following taxable year. Wage withholding is considered to be
+a payment of estimated taxes.
+Suspension of time periods
+In general, the Secretary may specify a period of up to one year
+that may be disregarded for performing various acts under the
+Code, such as filing tax returns, paying taxes, or filing a claim for
+credit or refund of tax, for any taxpayer determined by the Sec-
+retary to be affected by a Federally declared disaster,7 a significant
+fire,8 or a terroristic or military action9 with respect to any tax li-
+ability of the taxpayer.10 In addition, the period specified by the
+Secretary may be disregarded in determining the amount of any in-
+terest, penalty, additional amount, or addition to tax, and the
+amount of any credit or refund.
+There are special rules provided for pension plans and other em-
+ployee benefit plans. The Secretary may prescribe a period of up to
+one year which may be disregarded in determining the date by
+which any action by a pension or other employee benefit plan, or
+by any sponsor, administrator, participant, beneficiary, or other
+person with respect to such plan, affected by a Federally declared
+disaster, a significant fire, or a terroristic or military action, would
+be required or permitted to be completed. A plan is not treated as
+4Sec. 6072.
+5Sec. 6081.
+6Treas. Reg. sec. 1.6081–4.
+7As defined by section 165(i)(5)(A).
+8Significant fire means any fire with respect to which assistance is provided under section
+420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+9As defined in section 692(c)(2).
+10Sec. 7508A.
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+5
+operating in a manner inconsistent with its terms or in violation
+of its terms merely due to disregarding any such periods.
+The suspension of time may apply to a wide variety of acts, in-
+cluding the (1) filing of any return of income, estate, gift, employ-
+ment, or excise tax; (2) payment of any income, estate, gift, employ-
+ment, or excise tax; (3) allowance of a credit or refund of any tax;
+(4) assessment of any tax; (5) collection of the amount of any liabil-
+ity in respect of any tax; (6) notice or demand for payment of any
+tax or with respect to any liability of tax; and (7) any other act re-
+quired or permitted under the internal revenue laws specified by
+the Secretary of the Treasury.11 The types of acts for which time
+may be suspended are identified in a related provision and incor-
+porated by reference.12
+For a tax-related deadline to be postponed under this authority,
+the Internal Revenue Service (‘‘IRS’’) generally will publish, as soon
+as practicable after the declaration of the disaster, significant fire,
+or occurrence of a terroristic or military action, a revenue ruling,
+revenue procedure, notice, announcement, news release, or other
+guidance authorizing the postponement and describing the acts
+postponed, the postponement period, and the location of the cov-
+ered disaster area.13
+Mandatory 60-day suspension
+In the case of a Federally declared disaster, qualified taxpayers
+have a mandatory 60-day period that is disregarded in determining
+whether the acts listed above were performed in the time pre-
+scribed; the amount of any interest, penalty, additional amount, or
+addition to tax; and the amount of any credit or refund.14 The 60-
+day period begins on the earliest incident date specified in the dec-
+laration to which the relevant disaster area relates and ends on the
+date which is the later of 60 days after the earliest incident date
+so specified or the date such declaration was issued. In the case of
+multiple declarations, a separate 60-day period shall be calculated
+with respect to each declaration. The 60-day period is disregarded
+in determining under the internal revenue laws, in respect of any
+tax liability of a qualified taxpayer, whether any of the specified
+acts to which the extension applies were performed within the time
+prescribed (without regard to any extensions otherwise provided for
+periods after the 60-day period). The mandatory 60-day period pro-
+vided is in addition to, or concurrent with, any period of suspension
+provided by the Secretary. In the case of multiple declarations, a
+separate 60-day period shall be calculated with respect to each dec-
+laration.
+11Treas. Reg. sec. 301.7508A–1. The regulations note that the IRS may postpone deadlines
+for performing certain acts with respect to taxes other than taxes not administered by the IRS
+such as firearms tax (chapter 32, section 4181); harbor maintenance tax (chapter 36, section
+4461); and alcohol and tobacco taxes (subtitle E).
+12Sec. 7508(a)(1)(A) through (K). Under Treasury regulations, additional acts were added to
+this list with respect to affected pension plans and affected taxpayers with respect to such plans:
+Making contributions to a qualified retirement plan (within the meaning of section 4974(c))
+under section 219(f)(3), 404(a)(6), 404(h)(1)(B), or 404(m)(2); making distributions under section
+408(d)(4); recharacterizing contributions under section 408A(d)(6); or making a rollover under
+
+Section 3:
+section 402(c), 403(a)(4), 403(b)(8), or 408(d)(3). Treas. Reg. sec. 301.7508A–1(c)(1)(iii). In addi-
+tion, Revenue Procedure 2018–58, 2018–50 I.R.B. 990, supplements the list of postponed acts
+in section 7508(a)(1) and Treasury Regulation section 301.7508A–1(c)(1) with an additional list
+of time-sensitive acts.
+13Treas. Reg. sec. 301.7508A–1(e).
+14Sec. 7805A(d)(1).
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+6
+Qualified taxpayers are (1) any individual whose principal resi-
+dence is located in a disaster area, (2) any taxpayer if the tax-
+payer’s principal place of business (other than the business of per-
+forming services as an employee) is located in a disaster area, (3)
+any individual who is a relief worker affiliated with a recognized
+government or philanthropic organization and who is assisting in
+a disaster area, (4) any taxpayer whose records necessary to meet
+a deadline for the acts listed above are maintained in a disaster
+area, (5) any individual visiting a disaster area who was killed or
+injured as a result of the disaster, and (6) solely with respect to a
+joint return, any spouse of an individual who is a qualified tax-
+payer.
+Statute of limitations on credit or refund
+In general, a taxpayer is required to file a claim for credit or re-
+fund of an overpayment of tax within three years from the time the
+return was filed or two years from the time the tax was paid,
+whichever expires later.15 If the taxpayer did not file a return, the
+taxpayer is required to file a claim for credit or refund within two
+years from the time the tax was paid.16 No credit or refund is al-
+lowed or made after the expiration of this period of limitation, un-
+less the taxpayer files a claim for credit or refund within such pe-
+riod.17
+If a taxpayer files a claim for credit or refund during the three-
+year limitation period, the amount of credit or refund is limited to
+the portion of tax paid within the three years immediately before
+filing the claim plus the period of any extension of time for filing
+the return.18 If the claim was not filed within the three-year pe-
+riod, the amount of credit or refund is limited to the two years im-
+mediately preceding the filing of the claim.19
+Notice and demand for payment
+Under present law, the IRS is required to mail to the taxpayer
+a notice and demand for payment within 60 days of assessment,
+but not before the last date prescribed for the payment of tax.20 An
+assessment generally occurs after a taxpayer files a return showing
+a tax liability owed, regardless of whether the amount is paid at
+that time. As explained above, the date by which notice or demand
+for tax is required to be mailed is among the events or actions spec-
+ified as subject to postponement due to Federally declared disas-
+ters, etc.21
+15Sec. 6511(a).
+16Ibid.
+17Sec. 6511(b)(1).
+18Sec. 6511(b)(2)(A). Any withholding and estimated taxes paid are deemed paid on April 15th
+in the year following the close of the tax year in which the tax is allowable as a credit. Sec.
+6513(b).
+19Sec. 6511(b)(2)(B).
+20Sec. 6303(a).
+21Sec. 7508(a)(1)(H) and Treas. Reg. sec. 301.7508A–1(b)(4). In June 2023, for example, the
+IRS sent taxpayers who qualified for disaster relief but had not yet paid in full, a statutory no-
+tice of underpayment despite being granted a postponement of time under section 7508A. To
+clarify the confusion generated by these letters, the IRS sent a second letter advising taxpayers
+in Federally declared disaster areas of the tax relief available to them, including the fact that
+they had additional time for filing and payment. Inspector General for Tax Administration, De-
+partment of the Treasury, Additional Actions Are Needed to Clearly Inform Taxpayers in Feder-
+ally Declared Disaster Areas of Balance Due Payment Postponement Timeframes (TIGTA 2024—
+IE–R019), Appendix III, Management Response to the Draft Report, p. 15, September 24, 2024.
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+7
+REASONS FOR CHANGE
+The Committee believes that taxpayers eligible for relief by rea-
+son of Federally declared disaster, significant fire, terroristic or
+military action should not be treated differently than taxpayers eli-
+gible for relief for other reasons. The disparity arises because while
+claims for refunds are generally limited to amounts paid or deemed
+paid within three years of filing the claim (including extensions),
+disaster-related postponement relief is not considered an extension
+for refund claim purposes. Therefore, amounts paid timely, such as
+withholding and estimated taxes, may not be eligible for refund in
+certain circumstances because they were deemed paid before the
+end of the postponement period. Thus, the Committee believes that
+Congress should modify the Code to ensure that disaster victims
+who have overpaid their taxes will be able to claim a refund for
+these overpayments, as long as their claim is filed within three
+years of the date the return was filed.
+In addition, the Committee believes that taxpayers affected by
+disasters, etc. who are eligible for extension relief should not re-
+ceive letters demanding payment from the IRS for tax liabilities
+not yet due. Specifically, the Committee believes that the Code
+should be modified such that affected taxpayers who choose to file
+their return early without including payment will not receive notice
+and demand letters before their tax liability is due.
+EXPLANATION OF PROVISION
+Under the provision, any period disregarded under section 7508A
+with respect to the time prescribed for filing any return of tax is
+treated as an extension of time for purposes of determining the lim-
+itations on a refund or credit under section 6511(b)(2)(A).
+In addition, under the provision, the last date prescribed for pay-
+ment of any tax under section 6303 is clarified to take into account
+any period disregarded under section 7508A.
+EFFECTIVE DATES
+The provision with respect to the treatment of the disregarded
+period as an extension of time applies to claims filed after the date
+of enactment.
+The provision with respect to the determination of the last date
+prescribed for payment applies to notices issued after the date of
+enactment.
+III. VOTE OF THE COMMITTEE
+Pursuant to clause 3(b) of rule XIII of the Rules of the House of
+Representatives, the following statement is made concerning the
+vote of the Committee on Ways and Means in its consideration of
+H.R. 1491, the ‘‘Disaster Related Extension of Deadlines Act,’’ on
+February 26, 2025.
+The bill, H.R. 1491, the ‘‘Disaster Related Extension of Deadlines
+Act’’ was ordered favorably reported to the House of Representa-
+tives as amended by a roll call vote of 44 yeas to 0 nays (with a
+quorum being present). The vote was as follows:
+Representative Yea Nay Present Representative Yea Nay Present
+Mr. Smith (MO) ................... X ............. ............. Mr. Neal ............................. X ............. .............
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+8
+Representative Yea Nay Present Representative Yea Nay Present
+Mr. Buchanan ..................... X ............. ............. Mr. Doggett ........................ X ............. .............
+Mr. Smith (NE).................... X ............. ............. Mr. Thompson .................... X ............. .............
+Mr. Kelly .............................. X ............. ............. Mr. Larson.......................... X ............. .............
+Mr. Schweikert .................... X ............. ............. Mr. Davis............................ X ............. .............
+Mr. LaHood.......................... X ............. ............. Ms. Sa´nchez....................... X ............. .............
+Mr. Arrington....................... X ............. ............. Ms. Sewell.......................... X ............. .............
+Mr. Estes............................. X ............. ............. Ms. DelBene ....................... X ............. .............
+Mr. Smucker........................ X ............. ............. Ms. Chu.............................. X ............. .............
+Mr. Hern .............................. X ............. ............. Ms. Moore (WI)................... X ............. .............
+Mrs. Miller (WV) .................. X ............. ............. Mr. Boyle ............................ X ............. .............
+Dr. Murphy .......................... X ............. ............. Mr. Beyer............................ X ............. .............
+Mr. Kustoff .......................... X ............. ............. Mr. Evans........................... X ............. .............
+Mr. Fitzpatrick..................... X ............. ............. Mr. Schneider..................... X ............. .............
+Mr. Steube........................... X ............. ............. Mr. Panetta ........................ X ............. .............
+Ms. Tenney .......................... X ............. ............. Mr. Gomez .......................... X ............. .............
+Mrs. Fischbach.................... X ............. ............. Mr. Horsford ....................... ........... ............. .............
+Mr. Moore (UT) .................... X ............. ............. Ms. Plaskett ....................... X ............. .............
+Ms. Van Duyne.................... X ............. ............. Mr. Suozzi........................... X ............. .............
+Mr. Feenstra........................ X ............. .............
+Ms. Malliotakis.................... X ............. .............
+Mr. Carey............................. X ............. .............
+Mr. Yakym ........................... X ............. .............
+Mr. Miller (OH) .................... X ............. .............
+Mr. Bean ............................. X ............. .............
+Mr. Moran............................ X ............. .............
+IV. BUDGET EFFECTS OF THE BILL
+A. COMMITTEE ESTIMATE OF BUDGETARY EFFECTS
+In compliance with clause 3(d) of rule XIII of the Rules of the
+House of Representatives, the following statement is made con-
+cerning the effects on the budget of the bill, H.R. 1491 as reported.
+The estimate prepared by the Congressional Budget Office (CBO)
+is included below.
+The bill is estimated to have a negligible effect on Federal fiscal
+year budget receipts for the period 2025 through 2034.
+B. STATEMENT REGARDING NEW BUDGET AUTHORITY AND TAX
+EXPENDITURES BUDGET AUTHORITY
+In compliance with clause 3(c)(2) of rule XIII of the Rules of the
+House of Representatives, the Committee states that the bill in-
+volves no new or increased budget authority.
+C. COST ESTIMATE PREPARED BY THE CONGRESSIONAL BUDGET
+OFFICE
+In compliance with clause 3(c)(3) of rule XIII of the Rules of the
+House of Representatives, requiring a cost estimate prepared by
+the CBO, the following statement by CBO is provided.
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+9
+H.R. 1491 would amend the Internal Revenue Code to modify the
+statute of limitations on filing for a tax credit or tax refund in the
+case of declared disasters. The bill would treat any filing extension
+granted in such cases as applicable to the allowable period for fil-
+ing a return to receive a tax credit or tax refund. The bill would
+also apply the extension to the date used to determine when the
+Internal Revenue Service must mail a notice and demand for pay-
+ment.
+The Congressional Budget Act of 1974, as amended, stipulates
+that revenue estimates provided by the staff of the Joint Com-
+mittee on Taxation (JCT) are the official estimates for all tax legis-
+lation considered by the Congress. CBO therefore incorporates such
+estimates into its cost estimates of the effects of legislation. The
+revenue estimates for the bill were provided by JCT.1 JCT esti-
+mates that the bill would reduce federal revenues by an insignifi-
+cant amount over the 2025–2035 period.
+CBO estimates that it would cost less than $500,000 over the
+2025–2030 period to implement the bill. Any related spending
+would be subject to the availability of appropriated funds.
+The CBO staff contact for this estimate is Jennifer Shand. The
+estimate was reviewed by John McClelland, Director of Tax Anal-
+ysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+1See Joint Committee on Taxation Description of H.R. 1491, the ‘‘Disaster Related Extension
+of Deadlines Act,’’ JCX–13–25 (February 24, 2025), www.jct.gov/publications/2025/jcx-13-25, and
+Description of the Chairman’s Amendment in the Nature of a Substitute to H.R. 1491, the ‘‘Dis-
+aster Related Extension of Deadlines Act,’’ JCX–15–25 (February 25, 2025), www.jct.gov/publica-
+tions/2025/jcx-15-25.
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+Section 4:
+100.34RH
+ereh
+41
+oilof
+tesffo
+tresnI
+10
+V. OTHER MATTERS TO BE DISCUSSED UNDER THE
+RULES OF THE HOUSE
+A. COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+With respect to clause 3(c)(1) of rule XIII of the Rules of the
+House of Representatives, the Committee made findings and rec-
+ommendations that are reflected in this report.
+B. STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+With respect to clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee advises that the bill does
+not authorize funding, so no statement of general performance
+goals and objectives is required.
+C. APPLICABILITY OF HOUSE RULE XXI, CLAUSE 5(b)
+Rule XXI 5(b) of the Rules of the House of Representatives pro-
+vides, in part, that ‘‘A bill or joint resolution, amendment, or con-
+ference report carrying a Federal income tax rate increase may not
+be considered as passed or agreed to unless so determined by a
+vote of not less than three-fifths of the Members voting, a quorum
+being present.’’ The Committee has carefully reviewed the bill, and
+states that the bill does not provide such a Federal income tax rate
+increase.
+D. INFORMATION RELATING TO UNFUNDED MANDATES
+This information is provided in accordance with section 423 of
+the Unfunded Mandates Reform Act of 1995 (Pub. L. No. 104–4).
+The Committee has determined that the bill does not contain
+Federal mandates on the private sector. The Committee has deter-
+mined that the bill does not impose a Federal intergovernmental
+mandate on State, local, or tribal governments.
+E. CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND
+LIMITED TARIFF BENEFITS
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the bill, and states that the provisions of the bill do not
+contain any congressional earmarks, limited tax benefits, or limited
+tariff benefits within the meaning of the rule.
+F. DUPLICATION OF FEDERAL PROGRAMS
+In compliance with clause 3(c)(5) of rule XIII of the Rules of the
+House of Representatives, the Committee states that no provision
+of the bill establishes or reauthorizes: (1) a program of the Federal
+Government known to be duplicative of another Federal program;
+(2) a program included in any report from the Government Ac-
+countability Office to Congress pursuant to section 21 of Public
+Law 111–139; or (3) a program related to a program identified in
+the most recent Catalog of Federal Domestic Assistance, published
+pursuant to the Federal Program Information Act (Pub. L. No. 95–
+220, as amended by Pub. L. No. 98–169).
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+11
+G. TAX COMPLEXITY ANALYSIS
+
+Section 5:
+Section 4022(b) of the Internal Revenue Service Reform and Re-
+structuring Act of 1998 (the ‘‘IRS Reform Act’’) requires the staff
+of the Joint Committee on Taxation (in consultation with the Inter-
+nal Revenue Service and the Treasury Department) to provide a
+tax complexity analysis. The complexity analysis is required for all
+legislation reported by the Senate Committee on Finance, the
+House Committee on Ways and Means, or any committee of con-
+ference if the legislation includes a provision that directly or indi-
+rectly amends the Internal Revenue Code and has widespread ap-
+plicability to individuals or small businesses.
+The staff of the Joint Committee on Taxation has determined
+that there are no provisions that are of widespread applicability to
+individuals or small businesses.
+VI. CHANGES IN EXISTING LAW MADE BY THE BILL, AS
+REPORTED
+A. TEXT OF EXISTING LAW AMENDED OR REPEALED BY THE BILL, AS
+REPORTED
+Pursuant to clause 3(e) of rule XIII of the Rules of the House of
+Representatives, the text of each section proposed to be repealed by
+the bill is shown below:
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+INTERNAL REVENUE CODE OF 1986
+* * * * * * *
+Subtitle F—Procedure and Administration
+* * * * * * *
+CHAPTER 64—COLLECTION
+* * * * * * *
+Subchapter A—GENERAL PROVISIONS
+* * * * * * *
+SEC. 6303. NOTICE AND DEMAND FOR TAX.
+(a) GENERAL RULE.—Where it is not otherwise provided by this
+title, the Secretary shall, as soon as practicable, and within 60
+days, after the making of an assessment of a tax pursuant to sec-
+tion 6203, give notice to each person liable for the unpaid tax, stat-
+ing the amount and demanding payment thereof. Such notice shall
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+12
+be left at the dwelling or usual place of business of such person,
+or shall be sent by mail to such person’s last known address.
+(b) ASSESSMENT PRIOR TO LAST DATE FOR PAYMENT.—øExcept¿
+(1) IN GENERAL.—Except where the Secretary believes collec-
+tion would be jeopardized by delay, if any tax is assessed prior
+to the last date prescribed for payment of such tax, payment
+of such tax shall not be demanded under subsection (a) until
+after such date.
+(2) POSTPONEMENT BY REASON OF DISASTER, SIGNIFICANT
+FIRE, OR TERRORISTIC OR MILITARY ACTIONS.—For purposes of
+paragraph (1), the last date prescribed for payment of any tax
+shall be determined after taking into account any period dis-
+regarded under section 7508A.
+* * * * * * *
+CHAPTER 77—MISCELLANEOUS PROVISIONS
+* * * * * * *
+SEC. 7508A. AUTHORITY TO POSTPONE CERTAIN DEADLINES BY REA-
+SON OF FEDERALLY DECLARED DISASTER, SIGNIFICANT
+FIRE, OR TERRORISTIC OR MILITARY ACTIONS.
+(a) IN GENERAL.—In the case of a taxpayer determined by the
+Secretary to be affected by a federally declared disaster (as defined
+by section 165(i)(5)(A)), a significant fire, or a terroristic or military
+action (as defined in section 692(c)(2)), the Secretary may specify
+a period of up to 1 year that may be disregarded in determining,
+under the internal revenue laws, in respect of any tax liability of
+such taxpayer—
+(1) whether any of the acts described in paragraph (1) of sec-
+tion 7508(a) were performed within the time prescribed there-
+for (determined without regard to extension under any other
+provision of this subtitle for periods after the date (determined
+by the Secretary) of such disaster, fire, or action),
+(2) the amount of any interest, penalty, additional amount,
+or addition to the tax for periods after such date, and
+(3) the amount of any credit or refund.
+(b) SPECIAL RULES REGARDING PENSIONS, ETC..—In the case of a
+pension or other employee benefit plan, or any sponsor, adminis-
+trator, participant, beneficiary, or other person with respect to such
+plan, affected by a disaster, fire, or action described in subsection
+(a), the Secretary may specify a period of up to 1 year which may
+be disregarded in determining the date by which any action is re-
+quired or permitted to be completed under this title. No plan shall
+be treated as failing to be operated in accordance with the terms
+of the plan solely as the result of disregarding any period by reason
+of the preceding sentence.
+(c) SPECIAL RULES FOR OVERPAYMENTS.—The rules of section
+7508(b) shall apply for purposes of this section.
+(d) MANDATORY 60-DAY EXTENSION.—
+(1) IN GENERAL.—In the case of any qualified taxpayer, the
+period—
+(A) beginning on the earliest incident date specified in
+the declaration to which the disaster area referred to in
+paragraph (2) relates, and
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+13
+(B) ending on the date which is 60 days after the later
+of such earliest incident date described in subparagraph
+(A) or the date such declaration was issued,
+shall be disregarded in determining, under the internal rev-
+enue laws, in respect of any tax liability of such qualified tax-
+payer, whether any of the acts described in subparagraphs (A)
+through (F) of section 7508(a)(1) were performed within the
+time prescribed therefor (determined without regard to exten-
+sion under any other provision of this subtitle for periods after
+the date determined under subparagraph (B)).
+(2) QUALIFIED TAXPAYER.—For purposes of this subsection,
+the term ‘‘qualified taxpayer’’ means—
+(A) any individual whose principal residence (for pur-
+poses of section 1033(h)(4)) is located in a disaster area,
+(B) any taxpayer if the taxpayer’s principal place of busi-
+ness (other than the business of performing services as an
+employee) is located in a disaster area,
+(C) any individual who is a relief worker affiliated with
+a recognized government or philanthropic organization and
+who is assisting in a disaster area,
+(D) any taxpayer whose records necessary to meet a
+deadline for an act described in section 7508(a)(1) are
+maintained in a disaster area,
+(E) any individual visiting a disaster area who was
+killed or injured as a result of the disaster, and
+(F) solely with respect to a joint return, any spouse of an
+individual described in any preceding subparagraph of this
+paragraph.
+(3) DISASTER AREA.—For purposes of this subsection, the
+term ‘‘disaster area’’ means an area in which a major disaster
+for which the President provides financial assistance under
+
+Section 6:
+section 408 of the Robert T. Stafford Disaster Relief and Emer-
+gency Assistance Act (42 U.S.C. 5174) occurs.
+(4) APPLICATION TO RULES REGARDING PENSIONS.—In the case
+of any person described in subsection (b), a rule similar to the
+rule of paragraph (1) shall apply for purposes of subsection (b)
+with respect to—
+(A) making contributions to a qualified retirement plan
+(within the meaning of section 4974(c)) under section
+219(f)(3), 404(a)(6), 404(h)(1)(B), or 404(m)(2),
+(B) making distributions under section 408(d)(4),
+(C) recharacterizing contributions under section
+408A(d)(6), and
+(D) making a rollover under section 402(c), 403(a)(4),
+403(b)(8), or 408(d)(3).
+(5) COORDINATION WITH PERIODS SPECIFIED BY THE SEC-
+RETARY.—Any period described in paragraph (1) with respect to
+any person (including by reason of the application of paragraph
+(4)) shall be in addition to (or concurrent with, as the case may
+be) any period specified under subsection (a) or (b) with respect
+to such person.
+(6) MULTIPLE DECLARATIONS.—For purposes of paragraph (1),
+in the case of multiple declarations relating to a disaster area
+which are issued within a 60-day period, a separate period
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6601 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+14
+shall be determined under such paragraph with respect to each
+such declaration.
+(e) SIGNIFICANT FIRE.—For purposes of this section, the term
+‘‘significant fire’’ means any fire with respect to which assistance
+is provided under section 420 of the Robert T. Stafford Disaster Re-
+lief and Emergency Assistance Act.
+(f) APPLICATION TO LIMITATION ON CREDIT OR REFUND.—For pur-
+poses of section 6511(b)(2)(A), any period disregarded under this
+
+Section 7:
+section with respect to the time prescribed for filing any return of
+tax shall be treated as an extension of time for filing such return.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6611 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–43
+DISASTER RELATED EXTENSION OF DEADLINES ACT
+MARCH27, 2025.—Committed to the Committee of the Whole House on the State
+of the Union and ordered to be printed
+Mr. SMITH of Missouri, from the Committee on Ways and Means,
+submitted the following
+R E P O R T
+[To accompany H.R. 1491]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Ways and Means, to whom was referred the
+bill (H.R. 1491) to amend the Internal Revenue Code of 1986 to
+make the postponement of certain deadlines by reason of disasters
+applicable to the limitation on credit or refund, and to take post-
+ponements into account for purposes of sending collection notices,
+having considered the same, reports favorably thereon with an
+amendment and recommends that the bill as amended do pass.
+CONTENTS
+Page
+I. SUMMARY AND BACKGROUND ................................................................. 2
+A. Purpose and Summary ..................................................................... 2
+B. Background and Need for Legislation ............................................. 2
+C. Legislative History ............................................................................ 3
+D. Designated Hearing .......................................................................... 4
+II. EXPLANATION OF THE BILL ...................................................................... 4
+III. VOTE OF THE COMMITTEE......................................................................... 7
+IV. BUDGET EFFECTS OF THE BILL ............................................................... 8
+A. Committee Estimate of Budgetary Effects ...................................... 8
+B. Statement Regarding New Budget Authority and Tax Expendi-
+tures Budget Authority .................................................................. 8
+C. Cost Estimate Prepared by the Congressional Budget Office ....... 8
+V. OTHER MATTERS TO BE DISCUSSED UNDER THE RULES OF THE
+HOUSE .......................................................................................................... 10
+A. Committee Oversight Findings and Recommendations ................. 10
+B. Statement of General Performance Goals and Objectives ............. 10
+C. Applicability of House Rule XXI, Clause 5(b) ................................. 10
+D. Information Relating to Unfunded Mandates ................................ 10
+E. Congressional Earmarks, Limited Tax Benefits, and Limited
+Tariff Benefits ................................................................................. 10
+F. Duplication of Federal Programs ..................................................... 10
+59–006
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+2
+G. Tax Complexity Analysis .................................................................. 11
+VI. CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED 11
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Disaster Related Extension of Deadlines Act’’.
+SEC. 2. POSTPONEMENT OF CERTAIN DEADLINES BY REASON OF DISASTERS MADE APPLICA-
+BLE TO LIMITATION ON CREDIT OR REFUND.
+(a) EXTENSIONOFTIMEFORFILINGRETURN.—
+(1) IN GENERAL.—Section 7508A of the Internal Revenue Code of 1986 is
+amended by adding at the end the following new subsection:
+‘‘(f) APPLICATION TO LIMITATION ON CREDIT OR REFUND.—For purposes of section
+6511(b)(2)(A), any period disregarded under this section with respect to the time
+prescribed for filing any return of tax shall be treated as an extension of time for
+filing such return.’’.
+(2) EFFECTIVEDATE.—The amendment made by this subsection shall apply to
+claims filed after the date of the enactment of this Act.
+(b) COLLECTIONNOTICES.—
+(1) INGENERAL.—Section 6303(b) of such Code is amended—
+(A) by striking ‘‘Except’’ and inserting the following:
+‘‘(1) INGENERAL.—Except’’, and
+(B) by adding at the end the following new paragraph:
+‘‘(2) POSTPONEMENT BY REASON OF DISASTER, SIGNIFICANT FIRE, OR TERROR-
+ISTIC OR MILITARY ACTIONS.—For purposes of paragraph (1), the last date pre-
+scribed for payment of any tax shall be determined after taking into account
+any period disregarded under section 7508A.’’.
+(2) EFFECTIVE DATE.—The amendments made by this subsection shall apply
+to notices issued after the date of the enactment of this Act.
+I. SUMMARY AND BACKGROUND
+A. PURPOSE AND SUMMARY
+The bill, H.R. 1491, the ‘‘Disaster Related Extension of Deadlines
+Act,’’ as ordered reported by the Committee on Ways and Means
+on February 26, 2025.
+Under the provision, any period disregarded under section 7508A
+with respect to the time prescribed for filing any return of tax is
+treated as an extension of time for purposes of determining the lim-
+itations on a refund or credit under section 6511(b)(2)(A).
+In addition, under the provision, the last date prescribed for pay-
+ment of any tax under section 6303 is clarified to take into account
+any period disregarded under section 7508A.
+B. BACKGROUND AND NEED FOR LEGISLATION
+The Committee on Ways and Means has conducted oversight of
+the IRS and the need for modernization. On February 11, 2025, the
+Committee held a hearing titled ‘‘IRS Return on Investment and
+the Need for Modernization,’’ to examine the lack of return on in-
+vestment from funding provided by to the IRS by the Inflation Re-
+duction Act and the need for information technology modernization
+at the agency.1 During the Committee’s consideration of how to
+modernize the administration of the tax laws, the Committee recog-
+nized several issues faced by taxpayers who are recovering from
+natural disasters, one being the strict time period that a taxpayer
+must file a claim for a credit or a refund when they have been af-
+1H. Comm. On Ways and Means, Hearing: IRS Return on Investment and the Need for Mod-
+ernization (Feb 11, 2025) https://waysandmeans.house.gov/event/oversight-subcommittee-hear-
+ing-on-irs-return-on-investment-and-the-need-for-modernization/.
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+3
+fected by a natural disaster. Another is receiving a mailing notice
+from the IRS 60 days after the filing deadline demanding a tax
+payment, that does not account for the taxpayer’s extension grant-
+ed under a federal natural disaster declaration.
+Currently, taxpayers who file tax returns by the April 15 filing
+deadline ordinarily have the opportunity to file a claim for a credit
+or refund of any overpayments of tax until April 15 three years
+later. However, if a filing deadline is postponed beyond the typical
+April 15 deadline due to a natural disaster, the taxpayer’s allotted
+time to file a claim for a credit or a refund does not change. This
+leads to a decreased period of time in which a taxpayer must file
+a claim for a credit or refund, during the time that the taxpayer
+is recovering from a natural disaster.
+The IRS is required to send a letter of notice and demand to the
+taxpayer demanding payment within 60 days of assessment, but
+not before the last date prescribed for the payment of tax.2 Under
+current law, the IRS does not take into account a taxpayers exten-
+sion related to natural disasters, often leading to the agency send-
+ing notice and demand letters prematurely.
+Taxpayers should not be burdened by inadvertent notice and de-
+mand letters from the IRS that are sent erroneously without con-
+sideration of the taxpayer’s extension granted due to a natural dis-
+aster.
+This bill brings parity to the tax filing extension that is granted
+due to a federally designated natural disaster to the three-year
+lookback period to file a claim for a credit or a refund and ensures
+the IRS does not send notice and demand letters prematurely. Tax-
+payers who are facing the difficulties of a natural disaster should
+receive the same timeline to file a claim for a credit or a refund
+and should not be burdened by erroneous notice and demand let-
+ters.
+The Committee on Ways and Means is committed to providing
+fair treatment to taxpayers who face the challenges of recovering
+from a natural disaster. This bill brings parity to the extension pro-
+vided to taxpayers.
+C. LEGISLATIVE HISTORY
+Background
+H.R. 1491 was introduced on February 21, 2025, and was re-
+ferred to the Committee on Ways and Means.
+Committee Hearings
+On February 11, 2025, the Committee on Ways and Means held
+a hearing titled, ‘‘IRS Return on Investment and the Need for Mod-
+ernization.’’3
+Committee Action
+The Committee on Ways and Means marked up H.R. 1491, the
+‘‘Disaster Related Extension of Deadlines Act’’ on February 26,
+2025, and ordered the bill, as amended, favorably reported (with a
+quorum being present).
+2Sec. 6303(a).
+3Id.
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+4
+D. DESIGNATED HEARING
+Pursuant to clause 3(c)(6) of Rule XIII, the following hearing was
+used to develop and consider H.R. 1491:
+‘‘IRS Return on Investment and the Need for Modernization’’ on
+February 11, 2025.
+II. EXPLANATION OF THE BILL
+A. POSTPONEMENT OF CERTAIN DEADLINES BY REASON OF DISAS-
+TERS MADE APPLICABLE TO LIMITATION ON CREDIT OR REFUND
+(SEC. 2 OF THE BILL AND NEW SEC. 7508A(f) AND SEC. 6303(b)
+OF THE CODE)
+PRESENT LAW
+General time limits for filing tax returns and paying estimated tax
+Individuals generally are required to file their Federal income
+tax returns by April 15 of the year following the close of a taxable
+year.4 Present law also provides that the Secretary may grant rea-
+sonable extensions of time for filing such returns.5 Treasury regula-
+tions provide upon application on the proper form, an automatic
+six-month extension (until October 15 for calendar-year individ-
+uals) for any individual timely filing that form and paying the
+amount of tax estimated to be due.6
+In general, individuals are required to make quarterly estimated
+tax payments by April 15, June 15, September 15, and January 15
+of the following taxable year. Wage withholding is considered to be
+a payment of estimated taxes.
+Suspension of time periods
+In general, the Secretary may specify a period of up to one year
+that may be disregarded for performing various acts under the
+Code, such as filing tax returns, paying taxes, or filing a claim for
+credit or refund of tax, for any taxpayer determined by the Sec-
+retary to be affected by a Federally declared disaster,7 a significant
+fire,8 or a terroristic or military action9 with respect to any tax li-
+ability of the taxpayer.10 In addition, the period specified by the
+Secretary may be disregarded in determining the amount of any in-
+terest, penalty, additional amount, or addition to tax, and the
+amount of any credit or refund.
+There are special rules provided for pension plans and other em-
+ployee benefit plans. The Secretary may prescribe a period of up to
+one year which may be disregarded in determining the date by
+which any action by a pension or other employee benefit plan, or
+by any sponsor, administrator, participant, beneficiary, or other
+person with respect to such plan, affected by a Federally declared
+disaster, a significant fire, or a terroristic or military action, would
+be required or permitted to be completed. A plan is not treated as
+4Sec. 6072.
+5Sec. 6081.
+6Treas. Reg. sec. 1.6081–4.
+7As defined by section 165(i)(5)(A).
+8Significant fire means any fire with respect to which assistance is provided under section
+420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+9As defined in section 692(c)(2).
+10Sec. 7508A.
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+5
+operating in a manner inconsistent with its terms or in violation
+of its terms merely due to disregarding any such periods.
+The suspension of time may apply to a wide variety of acts, in-
+cluding the (1) filing of any return of income, estate, gift, employ-
+ment, or excise tax; (2) payment of any income, estate, gift, employ-
+ment, or excise tax; (3) allowance of a credit or refund of any tax;
+(4) assessment of any tax; (5) collection of the amount of any liabil-
+ity in respect of any tax; (6) notice or demand for payment of any
+tax or with respect to any liability of tax; and (7) any other act re-
+quired or permitted under the internal revenue laws specified by
+the Secretary of the Treasury.11 The types of acts for which time
+may be suspended are identified in a related provision and incor-
+porated by reference.12
+For a tax-related deadline to be postponed under this authority,
+the Internal Revenue Service (‘‘IRS’’) generally will publish, as soon
+as practicable after the declaration of the disaster, significant fire,
+or occurrence of a terroristic or military action, a revenue ruling,
+revenue procedure, notice, announcement, news release, or other
+guidance authorizing the postponement and describing the acts
+postponed, the postponement period, and the location of the cov-
+ered disaster area.13
+Mandatory 60-day suspension
+In the case of a Federally declared disaster, qualified taxpayers
+have a mandatory 60-day period that is disregarded in determining
+whether the acts listed above were performed in the time pre-
+scribed; the amount of any interest, penalty, additional amount, or
+addition to tax; and the amount of any credit or refund.14 The 60-
+day period begins on the earliest incident date specified in the dec-
+laration to which the relevant disaster area relates and ends on the
+date which is the later of 60 days after the earliest incident date
+so specified or the date such declaration was issued. In the case of
+multiple declarations, a separate 60-day period shall be calculated
+with respect to each declaration. The 60-day period is disregarded
+in determining under the internal revenue laws, in respect of any
+tax liability of a qualified taxpayer, whether any of the specified
+acts to which the extension applies were performed within the time
+prescribed (without regard to any extensions otherwise provided for
+periods after the 60-day period). The mandatory 60-day period pro-
+vided is in addition to, or concurrent with, any period of suspension
+provided by the Secretary. In the case of multiple declarations, a
+separate 60-day period shall be calculated with respect to each dec-
+laration.
+11Treas. Reg. sec. 301.7508A–1. The regulations note that the IRS may postpone deadlines
+for performing certain acts with respect to taxes other than taxes not administered by the IRS
+such as firearms tax (chapter 32, section 4181); harbor maintenance tax (chapter 36, section
+4461); and alcohol and tobacco taxes (subtitle E).
+12Sec. 7508(a)(1)(A) through (K). Under Treasury regulations, additional acts were added to
+this list with respect to affected pension plans and affected taxpayers with respect to such plans:
+Making contributions to a qualified retirement plan (within the meaning of section 4974(c))
+under section 219(f)(3), 404(a)(6), 404(h)(1)(B), or 404(m)(2); making distributions under section
+408(d)(4); recharacterizing contributions under section 408A(d)(6); or making a rollover under
+section 402(c), 403(a)(4), 403(b)(8), or 408(d)(3). Treas. Reg. sec. 301.7508A–1(c)(1)(iii). In addi-
+tion, Revenue Procedure 2018–58, 2018–50 I.R.B. 990, supplements the list of postponed acts
+in section 7508(a)(1) and Treasury Regulation section 301.7508A–1(c)(1) with an additional list
+of time-sensitive acts.
+13Treas. Reg. sec. 301.7508A–1(e).
+14Sec. 7805A(d)(1).
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+6
+Qualified taxpayers are (1) any individual whose principal resi-
+dence is located in a disaster area, (2) any taxpayer if the tax-
+payer’s principal place of business (other than the business of per-
+forming services as an employee) is located in a disaster area, (3)
+any individual who is a relief worker affiliated with a recognized
+government or philanthropic organization and who is assisting in
+a disaster area, (4) any taxpayer whose records necessary to meet
+a deadline for the acts listed above are maintained in a disaster
+area, (5) any individual visiting a disaster area who was killed or
+injured as a result of the disaster, and (6) solely with respect to a
+joint return, any spouse of an individual who is a qualified tax-
+payer.
+Statute of limitations on credit or refund
+In general, a taxpayer is required to file a claim for credit or re-
+fund of an overpayment of tax within three years from the time the
+return was filed or two years from the time the tax was paid,
+whichever expires later.15 If the taxpayer did not file a return, the
+taxpayer is required to file a claim for credit or refund within two
+years from the time the tax was paid.16 No credit or refund is al-
+lowed or made after the expiration of this period of limitation, un-
+less the taxpayer files a claim for credit or refund within such pe-
+riod.17
+If a taxpayer files a claim for credit or refund during the three-
+year limitation period, the amount of credit or refund is limited to
+the portion of tax paid within the three years immediately before
+filing the claim plus the period of any extension of time for filing
+the return.18 If the claim was not filed within the three-year pe-
+riod, the amount of credit or refund is limited to the two years im-
+mediately preceding the filing of the claim.19
+Notice and demand for payment
+Under present law, the IRS is required to mail to the taxpayer
+a notice and demand for payment within 60 days of assessment,
+but not before the last date prescribed for the payment of tax.20 An
+assessment generally occurs after a taxpayer files a return showing
+a tax liability owed, regardless of whether the amount is paid at
+that time. As explained above, the date by which notice or demand
+for tax is required to be mailed is among the events or actions spec-
+ified as subject to postponement due to Federally declared disas-
+ters, etc.21
+15Sec. 6511(a).
+16Ibid.
+17Sec. 6511(b)(1).
+18Sec. 6511(b)(2)(A). Any withholding and estimated taxes paid are deemed paid on April 15th
+in the year following the close of the tax year in which the tax is allowable as a credit. Sec.
+6513(b).
+19Sec. 6511(b)(2)(B).
+20Sec. 6303(a).
+21Sec. 7508(a)(1)(H) and Treas. Reg. sec. 301.7508A–1(b)(4). In June 2023, for example, the
+IRS sent taxpayers who qualified for disaster relief but had not yet paid in full, a statutory no-
+tice of underpayment despite being granted a postponement of time under section 7508A. To
+clarify the confusion generated by these letters, the IRS sent a second letter advising taxpayers
+in Federally declared disaster areas of the tax relief available to them, including the fact that
+they had additional time for filing and payment. Inspector General for Tax Administration, De-
+partment of the Treasury, Additional Actions Are Needed to Clearly Inform Taxpayers in Feder-
+ally Declared Disaster Areas of Balance Due Payment Postponement Timeframes (TIGTA 2024—
+IE–R019), Appendix III, Management Response to the Draft Report, p. 15, September 24, 2024.
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+7
+REASONS FOR CHANGE
+The Committee believes that taxpayers eligible for relief by rea-
+son of Federally declared disaster, significant fire, terroristic or
+military action should not be treated differently than taxpayers eli-
+gible for relief for other reasons. The disparity arises because while
+claims for refunds are generally limited to amounts paid or deemed
+paid within three years of filing the claim (including extensions),
+disaster-related postponement relief is not considered an extension
+for refund claim purposes. Therefore, amounts paid timely, such as
+withholding and estimated taxes, may not be eligible for refund in
+certain circumstances because they were deemed paid before the
+end of the postponement period. Thus, the Committee believes that
+Congress should modify the Code to ensure that disaster victims
+who have overpaid their taxes will be able to claim a refund for
+these overpayments, as long as their claim is filed within three
+years of the date the return was filed.
+In addition, the Committee believes that taxpayers affected by
+disasters, etc. who are eligible for extension relief should not re-
+ceive letters demanding payment from the IRS for tax liabilities
+not yet due. Specifically, the Committee believes that the Code
+should be modified such that affected taxpayers who choose to file
+their return early without including payment will not receive notice
+and demand letters before their tax liability is due.
+EXPLANATION OF PROVISION
+Under the provision, any period disregarded under section 7508A
+with respect to the time prescribed for filing any return of tax is
+treated as an extension of time for purposes of determining the lim-
+itations on a refund or credit under section 6511(b)(2)(A).
+In addition, under the provision, the last date prescribed for pay-
+ment of any tax under section 6303 is clarified to take into account
+any period disregarded under section 7508A.
+EFFECTIVE DATES
+The provision with respect to the treatment of the disregarded
+period as an extension of time applies to claims filed after the date
+of enactment.
+The provision with respect to the determination of the last date
+prescribed for payment applies to notices issued after the date of
+enactment.
+III. VOTE OF THE COMMITTEE
+Pursuant to clause 3(b) of rule XIII of the Rules of the House of
+Representatives, the following statement is made concerning the
+vote of the Committee on Ways and Means in its consideration of
+H.R. 1491, the ‘‘Disaster Related Extension of Deadlines Act,’’ on
+February 26, 2025.
+The bill, H.R. 1491, the ‘‘Disaster Related Extension of Deadlines
+Act’’ was ordered favorably reported to the House of Representa-
+tives as amended by a roll call vote of 44 yeas to 0 nays (with a
+quorum being present). The vote was as follows:
+Representative Yea Nay Present Representative Yea Nay Present
+Mr. Smith (MO) ................... X ............. ............. Mr. Neal ............................. X ............. .............
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+8
+Representative Yea Nay Present Representative Yea Nay Present
+Mr. Buchanan ..................... X ............. ............. Mr. Doggett ........................ X ............. .............
+Mr. Smith (NE).................... X ............. ............. Mr. Thompson .................... X ............. .............
+Mr. Kelly .............................. X ............. ............. Mr. Larson.......................... X ............. .............
+Mr. Schweikert .................... X ............. ............. Mr. Davis............................ X ............. .............
+Mr. LaHood.......................... X ............. ............. Ms. Sa´nchez....................... X ............. .............
+Mr. Arrington....................... X ............. ............. Ms. Sewell.......................... X ............. .............
+Mr. Estes............................. X ............. ............. Ms. DelBene ....................... X ............. .............
+Mr. Smucker........................ X ............. ............. Ms. Chu.............................. X ............. .............
+Mr. Hern .............................. X ............. ............. Ms. Moore (WI)................... X ............. .............
+Mrs. Miller (WV) .................. X ............. ............. Mr. Boyle ............................ X ............. .............
+Dr. Murphy .......................... X ............. ............. Mr. Beyer............................ X ............. .............
+Mr. Kustoff .......................... X ............. ............. Mr. Evans........................... X ............. .............
+Mr. Fitzpatrick..................... X ............. ............. Mr. Schneider..................... X ............. .............
+Mr. Steube........................... X ............. ............. Mr. Panetta ........................ X ............. .............
+Ms. Tenney .......................... X ............. ............. Mr. Gomez .......................... X ............. .............
+Mrs. Fischbach.................... X ............. ............. Mr. Horsford ....................... ........... ............. .............
+Mr. Moore (UT) .................... X ............. ............. Ms. Plaskett ....................... X ............. .............
+Ms. Van Duyne.................... X ............. ............. Mr. Suozzi........................... X ............. .............
+Mr. Feenstra........................ X ............. .............
+Ms. Malliotakis.................... X ............. .............
+Mr. Carey............................. X ............. .............
+Mr. Yakym ........................... X ............. .............
+Mr. Miller (OH) .................... X ............. .............
+Mr. Bean ............................. X ............. .............
+Mr. Moran............................ X ............. .............
+IV. BUDGET EFFECTS OF THE BILL
+A. COMMITTEE ESTIMATE OF BUDGETARY EFFECTS
+In compliance with clause 3(d) of rule XIII of the Rules of the
+House of Representatives, the following statement is made con-
+cerning the effects on the budget of the bill, H.R. 1491 as reported.
+The estimate prepared by the Congressional Budget Office (CBO)
+is included below.
+The bill is estimated to have a negligible effect on Federal fiscal
+year budget receipts for the period 2025 through 2034.
+B. STATEMENT REGARDING NEW BUDGET AUTHORITY AND TAX
+EXPENDITURES BUDGET AUTHORITY
+In compliance with clause 3(c)(2) of rule XIII of the Rules of the
+House of Representatives, the Committee states that the bill in-
+volves no new or increased budget authority.
+C. COST ESTIMATE PREPARED BY THE CONGRESSIONAL BUDGET
+OFFICE
+In compliance with clause 3(c)(3) of rule XIII of the Rules of the
+House of Representatives, requiring a cost estimate prepared by
+the CBO, the following statement by CBO is provided.
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+9
+H.R. 1491 would amend the Internal Revenue Code to modify the
+statute of limitations on filing for a tax credit or tax refund in the
+case of declared disasters. The bill would treat any filing extension
+granted in such cases as applicable to the allowable period for fil-
+ing a return to receive a tax credit or tax refund. The bill would
+also apply the extension to the date used to determine when the
+Internal Revenue Service must mail a notice and demand for pay-
+ment.
+The Congressional Budget Act of 1974, as amended, stipulates
+that revenue estimates provided by the staff of the Joint Com-
+mittee on Taxation (JCT) are the official estimates for all tax legis-
+lation considered by the Congress. CBO therefore incorporates such
+estimates into its cost estimates of the effects of legislation. The
+revenue estimates for the bill were provided by JCT.1 JCT esti-
+mates that the bill would reduce federal revenues by an insignifi-
+cant amount over the 2025–2035 period.
+CBO estimates that it would cost less than $500,000 over the
+2025–2030 period to implement the bill. Any related spending
+would be subject to the availability of appropriated funds.
+The CBO staff contact for this estimate is Jennifer Shand. The
+estimate was reviewed by John McClelland, Director of Tax Anal-
+ysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+1See Joint Committee on Taxation Description of H.R. 1491, the ‘‘Disaster Related Extension
+of Deadlines Act,’’ JCX–13–25 (February 24, 2025), www.jct.gov/publications/2025/jcx-13-25, and
+Description of the Chairman’s Amendment in the Nature of a Substitute to H.R. 1491, the ‘‘Dis-
+aster Related Extension of Deadlines Act,’’ JCX–15–25 (February 25, 2025), www.jct.gov/publica-
+tions/2025/jcx-15-25.
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+100.34RH
+ereh
+41
+oilof
+tesffo
+tresnI
+
+10
+V. OTHER MATTERS TO BE DISCUSSED UNDER THE
+RULES OF THE HOUSE
+A. COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+With respect to clause 3(c)(1) of rule XIII of the Rules of the
+House of Representatives, the Committee made findings and rec-
+ommendations that are reflected in this report.
+B. STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+With respect to clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee advises that the bill does
+not authorize funding, so no statement of general performance
+goals and objectives is required.
+C. APPLICABILITY OF HOUSE RULE XXI, CLAUSE 5(b)
+Rule XXI 5(b) of the Rules of the House of Representatives pro-
+vides, in part, that ‘‘A bill or joint resolution, amendment, or con-
+ference report carrying a Federal income tax rate increase may not
+be considered as passed or agreed to unless so determined by a
+vote of not less than three-fifths of the Members voting, a quorum
+being present.’’ The Committee has carefully reviewed the bill, and
+states that the bill does not provide such a Federal income tax rate
+increase.
+D. INFORMATION RELATING TO UNFUNDED MANDATES
+This information is provided in accordance with section 423 of
+the Unfunded Mandates Reform Act of 1995 (Pub. L. No. 104–4).
+The Committee has determined that the bill does not contain
+Federal mandates on the private sector. The Committee has deter-
+mined that the bill does not impose a Federal intergovernmental
+mandate on State, local, or tribal governments.
+E. CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND
+LIMITED TARIFF BENEFITS
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the bill, and states that the provisions of the bill do not
+contain any congressional earmarks, limited tax benefits, or limited
+tariff benefits within the meaning of the rule.
+F. DUPLICATION OF FEDERAL PROGRAMS
+In compliance with clause 3(c)(5) of rule XIII of the Rules of the
+House of Representatives, the Committee states that no provision
+of the bill establishes or reauthorizes: (1) a program of the Federal
+Government known to be duplicative of another Federal program;
+(2) a program included in any report from the Government Ac-
+countability Office to Congress pursuant to section 21 of Public
+Law 111–139; or (3) a program related to a program identified in
+the most recent Catalog of Federal Domestic Assistance, published
+pursuant to the Federal Program Information Act (Pub. L. No. 95–
+220, as amended by Pub. L. No. 98–169).
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+11
+G. TAX COMPLEXITY ANALYSIS
+Section 4022(b) of the Internal Revenue Service Reform and Re-
+structuring Act of 1998 (the ‘‘IRS Reform Act’’) requires the staff
+of the Joint Committee on Taxation (in consultation with the Inter-
+nal Revenue Service and the Treasury Department) to provide a
+tax complexity analysis. The complexity analysis is required for all
+legislation reported by the Senate Committee on Finance, the
+House Committee on Ways and Means, or any committee of con-
+ference if the legislation includes a provision that directly or indi-
+rectly amends the Internal Revenue Code and has widespread ap-
+plicability to individuals or small businesses.
+The staff of the Joint Committee on Taxation has determined
+that there are no provisions that are of widespread applicability to
+individuals or small businesses.
+VI. CHANGES IN EXISTING LAW MADE BY THE BILL, AS
+REPORTED
+A. TEXT OF EXISTING LAW AMENDED OR REPEALED BY THE BILL, AS
+REPORTED
+Pursuant to clause 3(e) of rule XIII of the Rules of the House of
+Representatives, the text of each section proposed to be repealed by
+the bill is shown below:
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+INTERNAL REVENUE CODE OF 1986
+* * * * * * *
+Subtitle F—Procedure and Administration
+* * * * * * *
+CHAPTER 64—COLLECTION
+* * * * * * *
+Subchapter A—GENERAL PROVISIONS
+* * * * * * *
+SEC. 6303. NOTICE AND DEMAND FOR TAX.
+(a) GENERAL RULE.—Where it is not otherwise provided by this
+title, the Secretary shall, as soon as practicable, and within 60
+days, after the making of an assessment of a tax pursuant to sec-
+tion 6203, give notice to each person liable for the unpaid tax, stat-
+ing the amount and demanding payment thereof. Such notice shall
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+12
+be left at the dwelling or usual place of business of such person,
+or shall be sent by mail to such person’s last known address.
+(b) ASSESSMENT PRIOR TO LAST DATE FOR PAYMENT.—øExcept¿
+(1) IN GENERAL.—Except where the Secretary believes collec-
+tion would be jeopardized by delay, if any tax is assessed prior
+to the last date prescribed for payment of such tax, payment
+of such tax shall not be demanded under subsection (a) until
+after such date.
+(2) POSTPONEMENT BY REASON OF DISASTER, SIGNIFICANT
+FIRE, OR TERRORISTIC OR MILITARY ACTIONS.—For purposes of
+paragraph (1), the last date prescribed for payment of any tax
+shall be determined after taking into account any period dis-
+regarded under section 7508A.
+* * * * * * *
+CHAPTER 77—MISCELLANEOUS PROVISIONS
+* * * * * * *
+SEC. 7508A. AUTHORITY TO POSTPONE CERTAIN DEADLINES BY REA-
+SON OF FEDERALLY DECLARED DISASTER, SIGNIFICANT
+FIRE, OR TERRORISTIC OR MILITARY ACTIONS.
+(a) IN GENERAL.—In the case of a taxpayer determined by the
+Secretary to be affected by a federally declared disaster (as defined
+by section 165(i)(5)(A)), a significant fire, or a terroristic or military
+action (as defined in section 692(c)(2)), the Secretary may specify
+a period of up to 1 year that may be disregarded in determining,
+under the internal revenue laws, in respect of any tax liability of
+such taxpayer—
+(1) whether any of the acts described in paragraph (1) of sec-
+tion 7508(a) were performed within the time prescribed there-
+for (determined without regard to extension under any other
+provision of this subtitle for periods after the date (determined
+by the Secretary) of such disaster, fire, or action),
+(2) the amount of any interest, penalty, additional amount,
+or addition to the tax for periods after such date, and
+(3) the amount of any credit or refund.
+(b) SPECIAL RULES REGARDING PENSIONS, ETC..—In the case of a
+pension or other employee benefit plan, or any sponsor, adminis-
+trator, participant, beneficiary, or other person with respect to such
+plan, affected by a disaster, fire, or action described in subsection
+(a), the Secretary may specify a period of up to 1 year which may
+be disregarded in determining the date by which any action is re-
+quired or permitted to be completed under this title. No plan shall
+be treated as failing to be operated in accordance with the terms
+of the plan solely as the result of disregarding any period by reason
+of the preceding sentence.
+(c) SPECIAL RULES FOR OVERPAYMENTS.—The rules of section
+7508(b) shall apply for purposes of this section.
+(d) MANDATORY 60-DAY EXTENSION.—
+(1) IN GENERAL.—In the case of any qualified taxpayer, the
+period—
+(A) beginning on the earliest incident date specified in
+the declaration to which the disaster area referred to in
+paragraph (2) relates, and
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+13
+(B) ending on the date which is 60 days after the later
+of such earliest incident date described in subparagraph
+(A) or the date such declaration was issued,
+shall be disregarded in determining, under the internal rev-
+enue laws, in respect of any tax liability of such qualified tax-
+payer, whether any of the acts described in subparagraphs (A)
+through (F) of section 7508(a)(1) were performed within the
+time prescribed therefor (determined without regard to exten-
+sion under any other provision of this subtitle for periods after
+the date determined under subparagraph (B)).
+(2) QUALIFIED TAXPAYER.—For purposes of this subsection,
+the term ‘‘qualified taxpayer’’ means—
+(A) any individual whose principal residence (for pur-
+poses of section 1033(h)(4)) is located in a disaster area,
+(B) any taxpayer if the taxpayer’s principal place of busi-
+ness (other than the business of performing services as an
+employee) is located in a disaster area,
+(C) any individual who is a relief worker affiliated with
+a recognized government or philanthropic organization and
+who is assisting in a disaster area,
+(D) any taxpayer whose records necessary to meet a
+deadline for an act described in section 7508(a)(1) are
+maintained in a disaster area,
+(E) any individual visiting a disaster area who was
+killed or injured as a result of the disaster, and
+(F) solely with respect to a joint return, any spouse of an
+individual described in any preceding subparagraph of this
+paragraph.
+(3) DISASTER AREA.—For purposes of this subsection, the
+term ‘‘disaster area’’ means an area in which a major disaster
+for which the President provides financial assistance under
+section 408 of the Robert T. Stafford Disaster Relief and Emer-
+gency Assistance Act (42 U.S.C. 5174) occurs.
+(4) APPLICATION TO RULES REGARDING PENSIONS.—In the case
+of any person described in subsection (b), a rule similar to the
+rule of paragraph (1) shall apply for purposes of subsection (b)
+with respect to—
+(A) making contributions to a qualified retirement plan
+(within the meaning of section 4974(c)) under section
+219(f)(3), 404(a)(6), 404(h)(1)(B), or 404(m)(2),
+(B) making distributions under section 408(d)(4),
+(C) recharacterizing contributions under section
+408A(d)(6), and
+(D) making a rollover under section 402(c), 403(a)(4),
+403(b)(8), or 408(d)(3).
+(5) COORDINATION WITH PERIODS SPECIFIED BY THE SEC-
+RETARY.—Any period described in paragraph (1) with respect to
+any person (including by reason of the application of paragraph
+(4)) shall be in addition to (or concurrent with, as the case may
+be) any period specified under subsection (a) or (b) with respect
+to such person.
+(6) MULTIPLE DECLARATIONS.—For purposes of paragraph (1),
+in the case of multiple declarations relating to a disaster area
+which are issued within a 60-day period, a separate period
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6601 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+14
+shall be determined under such paragraph with respect to each
+such declaration.
+(e) SIGNIFICANT FIRE.—For purposes of this section, the term
+‘‘significant fire’’ means any fire with respect to which assistance
+is provided under section 420 of the Robert T. Stafford Disaster Re-
+lief and Emergency Assistance Act.
+(f) APPLICATION TO LIMITATION ON CREDIT OR REFUND.—For pur-
+poses of section 6511(b)(2)(A), any period disregarded under this
+section with respect to the time prescribed for filing any return of
+tax shall be treated as an extension of time for filing such return.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 05:08 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6611 E:\HR\OC\HR043.XXX HR043
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd

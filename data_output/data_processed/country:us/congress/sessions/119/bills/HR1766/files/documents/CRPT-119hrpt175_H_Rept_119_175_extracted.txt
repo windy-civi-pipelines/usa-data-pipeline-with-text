@@ -1,0 +1,1052 @@
+Title: JUNE30, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JUNE30, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 8
+Source: documents - H. Rept. 119-175
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–175
+NTIA POLICY AND CYBERSECURITY COORDINATION ACT
+the Union and ordered to be printed
+Mr. GUTHRIE, from the Committee on Energy and Commerce,
+submitted the following
+R E P O R T
+[To accompany H.R. 1766]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Energy and Commerce, to whom was referred
+the bill (H.R. 1766) to amend the National Telecommunications
+and Information Administration Organization Act to establish the
+Office of Policy Development and Cybersecurity, and for other pur-
+poses, having considered the same, reports favorably thereon with-
+out amendment and recommends that the bill do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 1
+Background and Need for Legislation .................................................................... 2
+Committee Action .................................................................................................... 2
+Committee Votes ...................................................................................................... 2
+Oversight Findings and Recommendations ........................................................... 2
+New Budget Authority, Entitlement Authority, and Tax Expenditures ............. 3
+Congressional Budget Office Estimate ................................................................... 3
+Federal Mandates Statement ................................................................................. 7
+Statement of General Performance Goals and Objectives .................................... 7
+Duplication of Federal Programs ............................................................................ 7
+Related Committee and Subcommittee Hearings ................................................. 7
+Committee Cost Estimate ....................................................................................... 7
+Earmark, Limited Tax Benefits, and Limited Tariff Benefits ............................. 7
+Advisory Committee Statement .............................................................................. 7
+Applicability to Legislative Branch ........................................................................ 8
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 8
+PURPOSE AND SUMMARY
+H.R. 1766, the ‘‘NTIA Policy and Cybersecurity Coordination
+Act,’’ was introduced by Representative Jay Obernolte (R–CA) on
+59–006
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+2
+March 3, 2025. The bill establishes within the National Tele-
+communications and Information Administration (NTIA), the Office
+of Policy Development and Cybersecurity.
+BACKGROUND AND NEED FOR LEGISLATION
+NTIA is required by statute to coordinate the telecommuni-
+cations activities of the executive branch and assist in the formula-
+tion of policies for those activities, including security.1 Additionally,
+NTIA has the responsibility to ensure that the views of the execu-
+tive branch on telecommunications matters are effectively pre-
+sented to the Federal Communications Commission (FCC).2 Given
+the recent cyberattacks on telecommunications networks, H.R.
+1766 augments NTIA’s role in conducting important policy coordi-
+nation functions with respect to cybersecurity and provides addi-
+tional clarity in carrying out existing and future activities con-
+sistent with NTIA’s authority.
+COMMITTEE ACTION
+The Committee on Energy and Commerce held a hearing in the
+development of the legislation during the 119th Congress. On Jan-
+uary 23, 2025, the Subcommittee on Communications and Tech-
+nology held a hearing. The title of the hearing was ‘‘Strengthening
+American Leadership in Wireless Technology.’’ The Subcommittee
+received testimony from the following witnesses:
+• Michael K. Powell, President & CEO, NCTA—The Internet
+& Television Association;
+• Brad Gillen, Executive Vice President, CTIA—The Wire-
+less Association;
+• Diane Rinaldo, Executive Director, Open RAN Policy Coa-
+lition; and
+• Chris Lewis, President & CEO, Public Knowledge.
+On March 4, 2025, the full Committee on Energy and Commerce
+met in open markup session and ordered H.R. 1766, without
+amendment, favorably reported to the House by voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the record
+votes on the motion to report legislation and amendments thereto.
+There were no record votes taken in connection with ordering H.R.
+1766 reported.
+OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Pursuant to clause 2(b)(1) of rule X and clause 3(c)(1) of rule
+XIII, the Committee held hearings and made findings that are re-
+flected in this report.
+147 U.S.C. 902(b)(2)(H).
+247 U.S.C. 902(b)(2)(J).
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+3
+NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY, AND
+TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII, the Committee finds that
+H.R. 1766 would result in no new or increased budget authority,
+entitlement authority, or tax expenditures or revenues.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE
+Pursuant to clause 3(c)(3) of rule XIII, the following is the cost
+estimate provided by the Congressional Budget Office pursuant to
+
+Section 3:
+section 402 of the Congressional Budget Act of 1974:
+Summary of legislation: On March 4, 2025, the House Committee
+on Energy and Commerce ordered 10 bills to be reported. This doc-
+ument provides estimates for 8 of those bills. One of the bills, H.R.
+1721, was passed by the House of Representatives on April 28,
+
+Section 4:
+2025.
+The legislation would:
+• Codify some authorities and responsibilities at offices with-
+in the National Telecommunications and Information Adminis-
+tration (NTIA) and would require certain activities, including
+standardizing wireless communications networks;
+• Require the Department of Commerce to report on the ef-
+fect of imports on U.S. infrastructure, barriers to foreign trade
+faced by U.S. technology businesses, and the feasibility of a
+trans-Atlantic cable linked to specific countries; and
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 5:
+100.571RH
+ereh
+5 oilof
+tesffo
+tresnI
+4
+• Require the Consumer Product Safety Commission (CPSC)
+to establish a safety standard for retractable awnings, initiate
+a pilot program for using artificial intelligence, and report the
+findings to the Congress.
+Estimated Federal cost: The costs of the legislation fall within
+budget functions 270 (energy) and 370 (commerce and housing
+credit).
+Basis of estimate: For this estimate, CBO assumes that each
+piece of legislation will be enacted in fiscal year 2025 and that the
+estimated amounts will be available each year. CBO estimates that
+all eight pieces of legislation would affect spending subject to ap-
+propriation.
+This cost estimate does not include any effects of interactions
+among the pieces of legislation. If all eight were combined and en-
+acted as a single piece of legislation, the effects could be different
+from the sum of the separate estimates, but CBO expects that any
+differences would be small.
+H.R. 1455, the ITS Codification Act, would codify the authority
+for and delineate the responsibilities of the Institute for Tele-
+communication Sciences (ITS), a research and engineering labora-
+tory within the National Telecommunications and Information Ad-
+ministration. The bill also would require ITS to develop emergency
+communication and tracking technologies to locate people trapped
+in confined spaces, such as underground mines.
+Using information from the NTIA about the cost of implementing
+the bill, CBO estimates that ITS would need four additional engi-
+neers and technicians, at an initial annual cost of about $160,000
+each, with that amount increasing each year for anticipated infla-
+tion. Additionally, the institute would need to acquire simulation
+software licenses, pay for travel, and cover other miscellaneous ex-
+penses at an annual cost of about $100,000. Finally, ITS would
+need to make onetime equipment purchases of items such as a sig-
+nal generator, a vector signal analyzer receiver, and a power ampli-
+fier for about $500,000 in 2026. On that basis, CBO estimates that
+implementing the bill would cost $4 million over the 2025–2030 pe-
+riod; any related spending would be subject to the availability of
+appropriated funds.
+The bill also would require ITS to study radio frequency emis-
+sions, determine spectrum propagation characteristics, and test
+technologies that enhance spectrum sharing among federal and
+nonfederal entities, among other activities. Because ITS has simi-
+lar responsibilities under current law, CBO estimates that imple-
+menting those requirements would have no additional cost.
+H.R. 1679, the Global Investment in American Jobs Act of 2025,
+would require the Department of Commerce, the Government Ac-
+countability Office (GAO), and a federal interagency working group
+to study and report to the Congress on the ability of the United
+States to attract foreign direct investment and about barriers to
+foreign trade faced by advanced-technology firms in the United
+States.
+Using information from the Department of Commerce, CBO ex-
+pects that completing the study and report would require 10 econo-
+mists and support staff, at an average cost of $190,000 each, for
+one year. On that basis, CBO estimates that implementing H.R.
+1679 would cost $2 million in 2026. Based on the cost of similar
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+5
+activities, CBO estimates that the costs for GAO and the working
+group would be insignificant. Any related spending would be sub-
+ject to the availability of appropriated funds.
+H.R. 1721, the Critical Infrastructure Manufacturing Feasibility
+Act, would require the Department of Commerce to identify, within
+each critical infrastructure sector, high-demand products that are
+imported to the United States because of manufacturing, material,
+or supply chain constraints. The department would analyze the fea-
+sibility, costs, and benefits of producing such products in the
+United States and report the findings to the Congress.
+Based on the cost of similar studies, CBO estimates that imple-
+menting H.R. 1721 would cost $1 million for the work of four em-
+ployees in 2026, at a cost of about $220,000 each, along with the
+purchase of data and survey contracts. Any related spending would
+be subject to the availability of appropriated funds.
+H.R. 1737, a bill to direct the Secretary of Commerce to submit
+to Congress a report containing an assessment of the value, cost,
+and feasibility of a trans-Atlantic submarine fiber optic cable con-
+necting the contiguous United States, the United States Virgin Is-
+lands, Ghana, and Nigeria, would require the Secretary of Com-
+merce, within one year of enactment, to report to the Congress on
+the cost, benefits, and feasibility, with respect to U.S. national se-
+curity, of constructing such a fiber-optic cable.
+Based on the cost of similar activities, CBO estimates that imple-
+menting the bill would cost $1 million over the 2025–2030 period;
+any related spending would be subject to the availability of appro-
+priated funds.
+H.R. 1765, the Promoting United States Wireless Leadership Act
+of 2025, would require the National Telecommunications and Infor-
+mation Administration to encourage trusted companies and stand-
+ards-setting bodies to participate in setting standards for 5G and
+future generations of wireless communications networks. Under the
+bill, the NTIA would provide technical assistance to those entities
+to facilitate participation.
+Using information from the NTIA, CBO expects that the agency
+would need eight employees, at an average annual salary of about
+$160,000 each, to meet the bill’s requirements. After accounting for
+anticipated inflation, CBO estimates that salaries and additional
+expenses would cost $9 million over the 2025–2030 period. CBO es-
+timates that having the National Institute of Standards and Tech-
+nology facilitate industry participation in the international stand-
+ard-setting process for 5G networks would cost an insignificant
+amount. Any related costs for both agencies would be subject to the
+availability of appropriated funds.
+H.R. 1766, the NTIA Policy and Cybersecurity Coordination Act,
+would codify the duties currently undertaken by the Office of Policy
+Analysis and Development within the National Telecommuni-
+cations and Information Administration and rename it the Office of
+Policy Development and Cybersecurity. Using information from the
+NTIA, CBO estimates that implementing H.R. 1766 would cost less
+than $500,000 over the 2025–2030 period; any related costs would
+be subject to the availability of appropriated funds.
+H.R. 1767, the Awning Safety Act of 2025, would require the
+Consumer Product Safety Commission to issue a final safety stand-
+ard on retractable awnings.
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+6
+Using information from CPSC, CBO expects that the agency
+would need five full-time- equivalent employees for the first eight-
+een months after enactment, and two full-time employees annually
+thereafter, at an average cost of $200,000 per full-time employee to
+enforce the standard. After accounting for anticipated inflation,
+CBO estimates that implementing the bill would cost $3 million
+over the 2025–2030 period; any related spending would be subject
+to the availability of appropriated funds.
+H.R. 1770, the Consumer Safety Technology Act, would require
+the Consumer Product Safety Commission to establish a pilot pro-
+gram to explore the use of artificial intelligence and report its find-
+ings to the Congress. The bill also would direct the Department of
+Commerce, in consultation with the Federal Trade Commission
+(FTC), to study and report to the Congress on how blockchain tech-
+nology may be used for consumer protection services.
+Finally, the bill would require the FTC to report to the Congress
+on its efforts and on recommendations to prevent anticompetitive
+behavior involving tokens—transferable representations of informa-
+tion recorded on a blockchain or similar technology.
+Using information from the agencies and the costs for similar ac-
+tivities, CBO estimates that implementing H.R. 1770 would cost $2
+million over the 2025–2030 period; any related spending would be
+subject to the availability of appropriated funds.
+Pay-As-You-Go considerations: None of the legislation would af-
+fect direct spending or revenues; therefore, pay-as-you-go proce-
+dures do not apply.
+Increase in long-term net direct spending and deficits: None of
+the legislation would increase net direct spending or deficits in any
+of the four consecutive 10-year periods beginning in 2036.
+Mandates: H.R. 1767 would impose a private-sector mandate as
+defined in the Unfunded Mandates Reform Act (UMRA) by requir-
+ing awning manufacturers to comply with a prospective Consumer
+Product Safety Commission safety standard concerning fixed and
+freestanding retractable awnings. CBO expects that the standard
+may require awnings to be equipped with safety clips and to issue
+visual or audible alerts when in motion. Based on the cost of such
+additional equipment and the volume of covered awnings likely to
+be sold, CBO estimates that the cost of the mandate would not ex-
+ceed the private-sector threshold established in UMRA ($206 mil-
+lion in 2025, adjusted annually for inflation).
+H.R. 1767 contains no intergovernmental mandates as defined in
+UMRA.
+None of the other pieces of legislation would impose private-sec-
+tor or intergovernmental mandates as defined in UMRA.
+Estimate prepared by: Federal costs: Zunara Naeem (National
+Telecommunications and Information Administration), Margot Ber-
+man (Department of Commerce), Cyrus Ekland (Consumer Product
+Safety Commission, Federal Trade Commission); Mandates: Rachel
+Austin, Andrew Laughlin.
+Estimate reviewed by: Justin Humphrey, Chief, Finance, Hous-
+ing, and Education Cost Estimates Unit; Sean Dunbar, Chief, Low-
+Income Health Programs and Prescription Drugs Cost Estimates
+Unit; Kathleen FitzGerald, Chief, Public and Private Mandates
+Unit; H. Samuel Papenfuss, Deputy Director of Budget Analysis.
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+7
+Estimate approved by: Phillip L. Swagel, Director, Congressional
+Budget Office.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the general performance
+goal or objective of this legislation is to establish within the Na-
+tional Telecommunications and Information Administration the Of-
+fice of Policy Development and Cybersecurity.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII, no provision of H.R. 1766
+is known to be duplicative of another Federal program, including
+any program that was included in a report to Congress pursuant
+to section 21 of Public Law 111–139 or the most recent Catalog of
+Federal Domestic Assistance.
+RELATED COMMITTEE AND SUBCOMMITTEE HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII, the following related hear-
+ings were held:
+On January 23, 2025, the Subcommittee on Communications and
+Technology held a hearing. The title of the hearing was ‘‘Strength-
+ening American Leadership in Wireless Technology.’’ The Sub-
+committee received testimony from the following witnesses:
+• Michael K. Powell, President & CEO, NCTA—The Internet
+& Television Association;
+• Brad Gillen, Executive Vice President, CTIA—The Wire-
+less Association;
+• Diane Rinaldo, Executive Director, Open RAN Policy Coa-
+lition; and
+• Chris Lewis, President & CEO, Public Knowledge.
+COMMITTEE COST ESTIMATE
+Pursuant to clause 3(d)(1) of rule XIII, the Committee adopts as
+its own the cost estimate prepared by the Director of the Congres-
+sional Budget Office pursuant to section 402 of the Congressional
+Budget Act of 1974.
+EARMARK, LIMITED TAX BENEFITS, AND LIMITED TARIFF BENEFITS
+Pursuant to clause 9(e), 9(f), and 9(g) of rule XXI, the Committee
+finds that H.R. 1766 contains no earmarks, limited tax benefits, or
+limited tariff benefits.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+8
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+
+Section 6:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 7:
+Section 1. Short title
+
+Section 8:
+Section 1 designates that the short title may be cited as the
+‘‘NTIA Policy and Cybersecurity Coordination Act.’’
+Sec. 2. Policy Development and Cybersecurity
+This section establishes the Office of Policy Development and Cy-
+bersecurity within the National Telecommunications and Informa-
+tion Administration. The Office is headed by an Associate Adminis-
+trator who reports to the Assistant Secretary of Commerce for
+Communications and Information.
+The Office will oversee and conduct national communications and
+information policy analysis with respect to the use of the Internet
+and other communications technologies. In particular, the Office
+will develop, analyze, and advocate for market-based policies that
+promote innovation and competition, among other matters. The Of-
+fice will also coordinate transparent, consensus-based, multistake-
+holder processes to create guidance or support the development and
+implementation of cybersecurity and privacy policies with respect
+to the Internet and other communications networks. Additionally,
+the Office will be responsible for administering the program for
+preventing future vulnerabilities established under section 8(a) of
+the Secure and Trusted Communications Networks Act of 2019.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+NATIONAL TELECOMMUNICATIONS AND INFORMATION
+ADMINISTRATION ORGANIZATION ACT
+TITLE I—NATIONAL TELECOMMUNI-
+CATIONS AND INFORMATION ADMIN-
+ISTRATION
+PART A—ORGANIZATION AND FUNCTIONS
+* * * * * * *
+SEC. 106. OFFICE OF POLICY DEVELOPMENT AND CYBERSECURITY.
+(a) ESTABLISHMENT.—There shall be within the NTIA an office to
+be known as the Office of Policy Development and Cybersecurity (in
+this section referred to as the ‘‘Office’’).
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6603 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+9
+(b) ASSOCIATE ADMINISTRATOR.—The head of the Office shall be
+an Associate Administrator for Policy Development and Cybersecu-
+rity (in this section referred to as the ‘‘Associate Administrator’’),
+who shall report to the Assistant Secretary.
+(c) DUTIES.—
+(1) IN GENERAL.—The Associate Administrator shall oversee
+and conduct national communications and information policy
+analysis and development for the internet and communications
+technologies.
+(2) PARTICULAR DUTIES.—In carrying out paragraph (1), the
+Associate Administrator shall—
+(A) develop, analyze, and advocate for market-based poli-
+cies that promote innovation, competition, consumer access,
+digital inclusion, workforce development, and economic
+growth in the communications, media, and technology mar-
+kets;
+(B) conduct studies, as delegated by the Assistant Sec-
+retary or required by Congress, on how individuals in the
+United States access and use the internet, wireline and
+wireless telephony, mass media, other digital services, and
+video services;
+(C) coordinate transparent, consensus-based, multistake-
+holder processes to create guidance for and to support the
+development and implementation of cybersecurity and pri-
+vacy policies with respect to the internet and other commu-
+nications networks;
+(D) promote increased collaboration between security re-
+searchers and providers of communications services and
+software system developers;
+(E) perform such duties as the Assistant Secretary con-
+siders appropriate relating to the program for preventing
+future vulnerabilities established under section 8(a) of the
+Secure and Trusted Communications Networks Act of 2019
+(47 U.S.C. 1607(a));
+(F) advocate for policies that promote the security and re-
+silience to cybersecurity incidents of communications net-
+works while fostering innovation, including policies that
+promote secure communications network supply chains;
+(G) at the direction of the Assistant Secretary, present se-
+curity of the digital economy and infrastructure and cyber-
+security policy efforts before the Commission, Congress, and
+elsewhere;
+(H) provide advice and assistance to the Assistant Sec-
+retary in carrying out the policy responsibilities of the
+NTIA with respect to cybersecurity policy matters, includ-
+ing the evaluation of the impact of cybersecurity matters
+pending before the Commission, other Federal agencies,
+and Congress;
+(I) in addition to the duties described in subparagraph
+(H), perform such other duties regarding the policy respon-
+sibilities of the NTIA with respect to cybersecurity policy
+matters as the Assistant Secretary considers appropriate;
+(J) develop policies to accelerate innovation and commer-
+cialization with respect to advances in technological under-
+standing of communications technologies;
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6603 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+10
+(K) identify barriers to trust, security, innovation, and
+commercialization with respect to communications tech-
+nologies, including access to capital and other resources,
+and ways to overcome such barriers;
+(L) provide public access to relevant data, research, and
+technical assistance on innovation and commercialization
+with respect to communications technologies, consistent
+with the protection of classified information;
+(M) strengthen collaboration on and coordination of poli-
+cies relating to innovation and commercialization with re-
+spect to communications technologies, including policies fo-
+cused on the needs of small businesses and rural commu-
+nities—
+(i) within the Department of Commerce;
+(ii) between the Department of Commerce and State
+government agencies, as appropriate; and
+(iii) between the Department of Commerce and the
+Commission or any other Federal agency the Assistant
+Secretary determines to be necessary; and
+(N) solicit and consider feedback from small and rural
+communications service providers, as appropriate.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6611 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–175
+NTIA POLICY AND CYBERSECURITY COORDINATION ACT
+JUNE30, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. GUTHRIE, from the Committee on Energy and Commerce,
+submitted the following
+R E P O R T
+[To accompany H.R. 1766]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Energy and Commerce, to whom was referred
+the bill (H.R. 1766) to amend the National Telecommunications
+and Information Administration Organization Act to establish the
+Office of Policy Development and Cybersecurity, and for other pur-
+poses, having considered the same, reports favorably thereon with-
+out amendment and recommends that the bill do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 1
+Background and Need for Legislation .................................................................... 2
+Committee Action .................................................................................................... 2
+Committee Votes ...................................................................................................... 2
+Oversight Findings and Recommendations ........................................................... 2
+New Budget Authority, Entitlement Authority, and Tax Expenditures ............. 3
+Congressional Budget Office Estimate ................................................................... 3
+Federal Mandates Statement ................................................................................. 7
+Statement of General Performance Goals and Objectives .................................... 7
+Duplication of Federal Programs ............................................................................ 7
+Related Committee and Subcommittee Hearings ................................................. 7
+Committee Cost Estimate ....................................................................................... 7
+Earmark, Limited Tax Benefits, and Limited Tariff Benefits ............................. 7
+Advisory Committee Statement .............................................................................. 7
+Applicability to Legislative Branch ........................................................................ 8
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 8
+PURPOSE AND SUMMARY
+H.R. 1766, the ‘‘NTIA Policy and Cybersecurity Coordination
+Act,’’ was introduced by Representative Jay Obernolte (R–CA) on
+59–006
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+2
+March 3, 2025. The bill establishes within the National Tele-
+communications and Information Administration (NTIA), the Office
+of Policy Development and Cybersecurity.
+BACKGROUND AND NEED FOR LEGISLATION
+NTIA is required by statute to coordinate the telecommuni-
+cations activities of the executive branch and assist in the formula-
+tion of policies for those activities, including security.1 Additionally,
+NTIA has the responsibility to ensure that the views of the execu-
+tive branch on telecommunications matters are effectively pre-
+sented to the Federal Communications Commission (FCC).2 Given
+the recent cyberattacks on telecommunications networks, H.R.
+1766 augments NTIA’s role in conducting important policy coordi-
+nation functions with respect to cybersecurity and provides addi-
+tional clarity in carrying out existing and future activities con-
+sistent with NTIA’s authority.
+COMMITTEE ACTION
+The Committee on Energy and Commerce held a hearing in the
+development of the legislation during the 119th Congress. On Jan-
+uary 23, 2025, the Subcommittee on Communications and Tech-
+nology held a hearing. The title of the hearing was ‘‘Strengthening
+American Leadership in Wireless Technology.’’ The Subcommittee
+received testimony from the following witnesses:
+• Michael K. Powell, President & CEO, NCTA—The Internet
+& Television Association;
+• Brad Gillen, Executive Vice President, CTIA—The Wire-
+less Association;
+• Diane Rinaldo, Executive Director, Open RAN Policy Coa-
+lition; and
+• Chris Lewis, President & CEO, Public Knowledge.
+On March 4, 2025, the full Committee on Energy and Commerce
+met in open markup session and ordered H.R. 1766, without
+amendment, favorably reported to the House by voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the record
+votes on the motion to report legislation and amendments thereto.
+There were no record votes taken in connection with ordering H.R.
+1766 reported.
+OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Pursuant to clause 2(b)(1) of rule X and clause 3(c)(1) of rule
+XIII, the Committee held hearings and made findings that are re-
+flected in this report.
+147 U.S.C. 902(b)(2)(H).
+247 U.S.C. 902(b)(2)(J).
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+3
+NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY, AND
+TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII, the Committee finds that
+H.R. 1766 would result in no new or increased budget authority,
+entitlement authority, or tax expenditures or revenues.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE
+Pursuant to clause 3(c)(3) of rule XIII, the following is the cost
+estimate provided by the Congressional Budget Office pursuant to
+section 402 of the Congressional Budget Act of 1974:
+Summary of legislation: On March 4, 2025, the House Committee
+on Energy and Commerce ordered 10 bills to be reported. This doc-
+ument provides estimates for 8 of those bills. One of the bills, H.R.
+1721, was passed by the House of Representatives on April 28,
+2025.
+The legislation would:
+• Codify some authorities and responsibilities at offices with-
+in the National Telecommunications and Information Adminis-
+tration (NTIA) and would require certain activities, including
+standardizing wireless communications networks;
+• Require the Department of Commerce to report on the ef-
+fect of imports on U.S. infrastructure, barriers to foreign trade
+faced by U.S. technology businesses, and the feasibility of a
+trans-Atlantic cable linked to specific countries; and
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+100.571RH
+ereh
+5 oilof
+tesffo
+tresnI
+
+4
+• Require the Consumer Product Safety Commission (CPSC)
+to establish a safety standard for retractable awnings, initiate
+a pilot program for using artificial intelligence, and report the
+findings to the Congress.
+Estimated Federal cost: The costs of the legislation fall within
+budget functions 270 (energy) and 370 (commerce and housing
+credit).
+Basis of estimate: For this estimate, CBO assumes that each
+piece of legislation will be enacted in fiscal year 2025 and that the
+estimated amounts will be available each year. CBO estimates that
+all eight pieces of legislation would affect spending subject to ap-
+propriation.
+This cost estimate does not include any effects of interactions
+among the pieces of legislation. If all eight were combined and en-
+acted as a single piece of legislation, the effects could be different
+from the sum of the separate estimates, but CBO expects that any
+differences would be small.
+H.R. 1455, the ITS Codification Act, would codify the authority
+for and delineate the responsibilities of the Institute for Tele-
+communication Sciences (ITS), a research and engineering labora-
+tory within the National Telecommunications and Information Ad-
+ministration. The bill also would require ITS to develop emergency
+communication and tracking technologies to locate people trapped
+in confined spaces, such as underground mines.
+Using information from the NTIA about the cost of implementing
+the bill, CBO estimates that ITS would need four additional engi-
+neers and technicians, at an initial annual cost of about $160,000
+each, with that amount increasing each year for anticipated infla-
+tion. Additionally, the institute would need to acquire simulation
+software licenses, pay for travel, and cover other miscellaneous ex-
+penses at an annual cost of about $100,000. Finally, ITS would
+need to make onetime equipment purchases of items such as a sig-
+nal generator, a vector signal analyzer receiver, and a power ampli-
+fier for about $500,000 in 2026. On that basis, CBO estimates that
+implementing the bill would cost $4 million over the 2025–2030 pe-
+riod; any related spending would be subject to the availability of
+appropriated funds.
+The bill also would require ITS to study radio frequency emis-
+sions, determine spectrum propagation characteristics, and test
+technologies that enhance spectrum sharing among federal and
+nonfederal entities, among other activities. Because ITS has simi-
+lar responsibilities under current law, CBO estimates that imple-
+menting those requirements would have no additional cost.
+H.R. 1679, the Global Investment in American Jobs Act of 2025,
+would require the Department of Commerce, the Government Ac-
+countability Office (GAO), and a federal interagency working group
+to study and report to the Congress on the ability of the United
+States to attract foreign direct investment and about barriers to
+foreign trade faced by advanced-technology firms in the United
+States.
+Using information from the Department of Commerce, CBO ex-
+pects that completing the study and report would require 10 econo-
+mists and support staff, at an average cost of $190,000 each, for
+one year. On that basis, CBO estimates that implementing H.R.
+1679 would cost $2 million in 2026. Based on the cost of similar
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+5
+activities, CBO estimates that the costs for GAO and the working
+group would be insignificant. Any related spending would be sub-
+ject to the availability of appropriated funds.
+H.R. 1721, the Critical Infrastructure Manufacturing Feasibility
+Act, would require the Department of Commerce to identify, within
+each critical infrastructure sector, high-demand products that are
+imported to the United States because of manufacturing, material,
+or supply chain constraints. The department would analyze the fea-
+sibility, costs, and benefits of producing such products in the
+United States and report the findings to the Congress.
+Based on the cost of similar studies, CBO estimates that imple-
+menting H.R. 1721 would cost $1 million for the work of four em-
+ployees in 2026, at a cost of about $220,000 each, along with the
+purchase of data and survey contracts. Any related spending would
+be subject to the availability of appropriated funds.
+H.R. 1737, a bill to direct the Secretary of Commerce to submit
+to Congress a report containing an assessment of the value, cost,
+and feasibility of a trans-Atlantic submarine fiber optic cable con-
+necting the contiguous United States, the United States Virgin Is-
+lands, Ghana, and Nigeria, would require the Secretary of Com-
+merce, within one year of enactment, to report to the Congress on
+the cost, benefits, and feasibility, with respect to U.S. national se-
+curity, of constructing such a fiber-optic cable.
+Based on the cost of similar activities, CBO estimates that imple-
+menting the bill would cost $1 million over the 2025–2030 period;
+any related spending would be subject to the availability of appro-
+priated funds.
+H.R. 1765, the Promoting United States Wireless Leadership Act
+of 2025, would require the National Telecommunications and Infor-
+mation Administration to encourage trusted companies and stand-
+ards-setting bodies to participate in setting standards for 5G and
+future generations of wireless communications networks. Under the
+bill, the NTIA would provide technical assistance to those entities
+to facilitate participation.
+Using information from the NTIA, CBO expects that the agency
+would need eight employees, at an average annual salary of about
+$160,000 each, to meet the bill’s requirements. After accounting for
+anticipated inflation, CBO estimates that salaries and additional
+expenses would cost $9 million over the 2025–2030 period. CBO es-
+timates that having the National Institute of Standards and Tech-
+nology facilitate industry participation in the international stand-
+ard-setting process for 5G networks would cost an insignificant
+amount. Any related costs for both agencies would be subject to the
+availability of appropriated funds.
+H.R. 1766, the NTIA Policy and Cybersecurity Coordination Act,
+would codify the duties currently undertaken by the Office of Policy
+Analysis and Development within the National Telecommuni-
+cations and Information Administration and rename it the Office of
+Policy Development and Cybersecurity. Using information from the
+NTIA, CBO estimates that implementing H.R. 1766 would cost less
+than $500,000 over the 2025–2030 period; any related costs would
+be subject to the availability of appropriated funds.
+H.R. 1767, the Awning Safety Act of 2025, would require the
+Consumer Product Safety Commission to issue a final safety stand-
+ard on retractable awnings.
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+6
+Using information from CPSC, CBO expects that the agency
+would need five full-time- equivalent employees for the first eight-
+een months after enactment, and two full-time employees annually
+thereafter, at an average cost of $200,000 per full-time employee to
+enforce the standard. After accounting for anticipated inflation,
+CBO estimates that implementing the bill would cost $3 million
+over the 2025–2030 period; any related spending would be subject
+to the availability of appropriated funds.
+H.R. 1770, the Consumer Safety Technology Act, would require
+the Consumer Product Safety Commission to establish a pilot pro-
+gram to explore the use of artificial intelligence and report its find-
+ings to the Congress. The bill also would direct the Department of
+Commerce, in consultation with the Federal Trade Commission
+(FTC), to study and report to the Congress on how blockchain tech-
+nology may be used for consumer protection services.
+Finally, the bill would require the FTC to report to the Congress
+on its efforts and on recommendations to prevent anticompetitive
+behavior involving tokens—transferable representations of informa-
+tion recorded on a blockchain or similar technology.
+Using information from the agencies and the costs for similar ac-
+tivities, CBO estimates that implementing H.R. 1770 would cost $2
+million over the 2025–2030 period; any related spending would be
+subject to the availability of appropriated funds.
+Pay-As-You-Go considerations: None of the legislation would af-
+fect direct spending or revenues; therefore, pay-as-you-go proce-
+dures do not apply.
+Increase in long-term net direct spending and deficits: None of
+the legislation would increase net direct spending or deficits in any
+of the four consecutive 10-year periods beginning in 2036.
+Mandates: H.R. 1767 would impose a private-sector mandate as
+defined in the Unfunded Mandates Reform Act (UMRA) by requir-
+ing awning manufacturers to comply with a prospective Consumer
+Product Safety Commission safety standard concerning fixed and
+freestanding retractable awnings. CBO expects that the standard
+may require awnings to be equipped with safety clips and to issue
+visual or audible alerts when in motion. Based on the cost of such
+additional equipment and the volume of covered awnings likely to
+be sold, CBO estimates that the cost of the mandate would not ex-
+ceed the private-sector threshold established in UMRA ($206 mil-
+lion in 2025, adjusted annually for inflation).
+H.R. 1767 contains no intergovernmental mandates as defined in
+UMRA.
+None of the other pieces of legislation would impose private-sec-
+tor or intergovernmental mandates as defined in UMRA.
+Estimate prepared by: Federal costs: Zunara Naeem (National
+Telecommunications and Information Administration), Margot Ber-
+man (Department of Commerce), Cyrus Ekland (Consumer Product
+Safety Commission, Federal Trade Commission); Mandates: Rachel
+Austin, Andrew Laughlin.
+Estimate reviewed by: Justin Humphrey, Chief, Finance, Hous-
+ing, and Education Cost Estimates Unit; Sean Dunbar, Chief, Low-
+Income Health Programs and Prescription Drugs Cost Estimates
+Unit; Kathleen FitzGerald, Chief, Public and Private Mandates
+Unit; H. Samuel Papenfuss, Deputy Director of Budget Analysis.
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+7
+Estimate approved by: Phillip L. Swagel, Director, Congressional
+Budget Office.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the general performance
+goal or objective of this legislation is to establish within the Na-
+tional Telecommunications and Information Administration the Of-
+fice of Policy Development and Cybersecurity.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII, no provision of H.R. 1766
+is known to be duplicative of another Federal program, including
+any program that was included in a report to Congress pursuant
+to section 21 of Public Law 111–139 or the most recent Catalog of
+Federal Domestic Assistance.
+RELATED COMMITTEE AND SUBCOMMITTEE HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII, the following related hear-
+ings were held:
+On January 23, 2025, the Subcommittee on Communications and
+Technology held a hearing. The title of the hearing was ‘‘Strength-
+ening American Leadership in Wireless Technology.’’ The Sub-
+committee received testimony from the following witnesses:
+• Michael K. Powell, President & CEO, NCTA—The Internet
+& Television Association;
+• Brad Gillen, Executive Vice President, CTIA—The Wire-
+less Association;
+• Diane Rinaldo, Executive Director, Open RAN Policy Coa-
+lition; and
+• Chris Lewis, President & CEO, Public Knowledge.
+COMMITTEE COST ESTIMATE
+Pursuant to clause 3(d)(1) of rule XIII, the Committee adopts as
+its own the cost estimate prepared by the Director of the Congres-
+sional Budget Office pursuant to section 402 of the Congressional
+Budget Act of 1974.
+EARMARK, LIMITED TAX BENEFITS, AND LIMITED TARIFF BENEFITS
+Pursuant to clause 9(e), 9(f), and 9(g) of rule XXI, the Committee
+finds that H.R. 1766 contains no earmarks, limited tax benefits, or
+limited tariff benefits.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+8
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+Section 1 designates that the short title may be cited as the
+‘‘NTIA Policy and Cybersecurity Coordination Act.’’
+Sec. 2. Policy Development and Cybersecurity
+This section establishes the Office of Policy Development and Cy-
+bersecurity within the National Telecommunications and Informa-
+tion Administration. The Office is headed by an Associate Adminis-
+trator who reports to the Assistant Secretary of Commerce for
+Communications and Information.
+The Office will oversee and conduct national communications and
+information policy analysis with respect to the use of the Internet
+and other communications technologies. In particular, the Office
+will develop, analyze, and advocate for market-based policies that
+promote innovation and competition, among other matters. The Of-
+fice will also coordinate transparent, consensus-based, multistake-
+holder processes to create guidance or support the development and
+implementation of cybersecurity and privacy policies with respect
+to the Internet and other communications networks. Additionally,
+the Office will be responsible for administering the program for
+preventing future vulnerabilities established under section 8(a) of
+the Secure and Trusted Communications Networks Act of 2019.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+NATIONAL TELECOMMUNICATIONS AND INFORMATION
+ADMINISTRATION ORGANIZATION ACT
+TITLE I—NATIONAL TELECOMMUNI-
+CATIONS AND INFORMATION ADMIN-
+ISTRATION
+PART A—ORGANIZATION AND FUNCTIONS
+* * * * * * *
+SEC. 106. OFFICE OF POLICY DEVELOPMENT AND CYBERSECURITY.
+(a) ESTABLISHMENT.—There shall be within the NTIA an office to
+be known as the Office of Policy Development and Cybersecurity (in
+this section referred to as the ‘‘Office’’).
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6603 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+9
+(b) ASSOCIATE ADMINISTRATOR.—The head of the Office shall be
+an Associate Administrator for Policy Development and Cybersecu-
+rity (in this section referred to as the ‘‘Associate Administrator’’),
+who shall report to the Assistant Secretary.
+(c) DUTIES.—
+(1) IN GENERAL.—The Associate Administrator shall oversee
+and conduct national communications and information policy
+analysis and development for the internet and communications
+technologies.
+(2) PARTICULAR DUTIES.—In carrying out paragraph (1), the
+Associate Administrator shall—
+(A) develop, analyze, and advocate for market-based poli-
+cies that promote innovation, competition, consumer access,
+digital inclusion, workforce development, and economic
+growth in the communications, media, and technology mar-
+kets;
+(B) conduct studies, as delegated by the Assistant Sec-
+retary or required by Congress, on how individuals in the
+United States access and use the internet, wireline and
+wireless telephony, mass media, other digital services, and
+video services;
+(C) coordinate transparent, consensus-based, multistake-
+holder processes to create guidance for and to support the
+development and implementation of cybersecurity and pri-
+vacy policies with respect to the internet and other commu-
+nications networks;
+(D) promote increased collaboration between security re-
+searchers and providers of communications services and
+software system developers;
+(E) perform such duties as the Assistant Secretary con-
+siders appropriate relating to the program for preventing
+future vulnerabilities established under section 8(a) of the
+Secure and Trusted Communications Networks Act of 2019
+(47 U.S.C. 1607(a));
+(F) advocate for policies that promote the security and re-
+silience to cybersecurity incidents of communications net-
+works while fostering innovation, including policies that
+promote secure communications network supply chains;
+(G) at the direction of the Assistant Secretary, present se-
+curity of the digital economy and infrastructure and cyber-
+security policy efforts before the Commission, Congress, and
+elsewhere;
+(H) provide advice and assistance to the Assistant Sec-
+retary in carrying out the policy responsibilities of the
+NTIA with respect to cybersecurity policy matters, includ-
+ing the evaluation of the impact of cybersecurity matters
+pending before the Commission, other Federal agencies,
+and Congress;
+(I) in addition to the duties described in subparagraph
+(H), perform such other duties regarding the policy respon-
+sibilities of the NTIA with respect to cybersecurity policy
+matters as the Assistant Secretary considers appropriate;
+(J) develop policies to accelerate innovation and commer-
+cialization with respect to advances in technological under-
+standing of communications technologies;
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6603 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+10
+(K) identify barriers to trust, security, innovation, and
+commercialization with respect to communications tech-
+nologies, including access to capital and other resources,
+and ways to overcome such barriers;
+(L) provide public access to relevant data, research, and
+technical assistance on innovation and commercialization
+with respect to communications technologies, consistent
+with the protection of classified information;
+(M) strengthen collaboration on and coordination of poli-
+cies relating to innovation and commercialization with re-
+spect to communications technologies, including policies fo-
+cused on the needs of small businesses and rural commu-
+nities—
+(i) within the Department of Commerce;
+(ii) between the Department of Commerce and State
+government agencies, as appropriate; and
+(iii) between the Department of Commerce and the
+Commission or any other Federal agency the Assistant
+Secretary determines to be necessary; and
+(N) solicit and consider feedback from small and rural
+communications service providers, as appropriate.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 06:18 Jul 15, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6611 E:\HR\OC\HR175.XXX HR175
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD

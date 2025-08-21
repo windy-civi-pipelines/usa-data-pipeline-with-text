@@ -1,0 +1,1883 @@
+Title: MARCH21, 2025.—Committed to the Committee of the Whole House on the State
+Official Title: MARCH21, 2025.—Committed to the Committee of the Whole House on the State
+Number of Sections: 16
+Source: documents - H. Rept. 119-23
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–23
+INTERNATIONAL NUCLEAR ENERGY FINANCING ACT OF
+2025
+of the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 1474]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 1474) to provide for advocation of support for nuclear en-
+ergy, and establish a nuclear energy assistance trust fund, at the
+World Bank, the European Bank for Reconstruction and Develop-
+ment, and other international financial institutions, as appropriate,
+and for other purposes, having considered the same, reports favor-
+ably thereon with an amendment and recommends that the bill as
+amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 3
+Background and Need for Legislation .................................................................... 4
+Committee Consideration ........................................................................................ 4
+Related Hearings ..................................................................................................... 5
+Committee Votes ...................................................................................................... 6
+Committee Oversight Findings ............................................................................... 10
+Performance Goals and Objectives ......................................................................... 10
+Committee Cost Estimate ....................................................................................... 10
+New Budget Authority and CBO Cost Estimate ................................................... 10
+Unfunded Mandates Statement .............................................................................. 10
+Earmark Statement ................................................................................................. 11
+Federal Advisory Committee Act Statement ......................................................... 11
+Applicability to the Legislative Branch ................................................................. 11
+59–006
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+2
+Duplication of Federal Programs ............................................................................ 12
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 12
+Changes in Existing Law Made by the Bill, as Reported ..................................... 14
+Minority Views ......................................................................................................... 16
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘International Nuclear Energy Financing Act of
+2025’’.
+SEC. 2. FINDINGS.
+Congress finds the following:
+(1) Nuclear power is an emissions-free energy source that produces approxi-
+mately 30 percent of the world’s low-carbon electricity. In 2021, 33 countries op-
+erated nuclear power plants.
+(2) The People’s Republic of China and the Russian Federation have sought
+to export nuclear reactors to Europe, Eurasia, Latin America, Africa, and South
+Asia. According to a 2017 study by Columbia University’s Center on Global En-
+ergy Policy, Chinese and Russian nuclear reactors are associated with higher
+safety risk than Western nuclear reactors. In addition, financial and operational
+support for nuclear power can extend over decades, allowing Beijing and Mos-
+cow to secure long-term influence in both advanced and developing economies.
+(3) The Russian Federation is currently building 21 reactors outside its bor-
+ders, while the People’s Republic of China is assembling more than a third of
+reactors under construction globally. According to research published in Nature
+Energy in February 2023, when the Russian Federation launched its invasion
+of Ukraine in 2022, Russian state-owned nuclear operator Rosatom ‘‘boasted as
+many as 73 different projects in 29 countries. The projects were at very dif-
+ferent stages of development from power plants in operation; through construc-
+tion of reactors ongoing, contracted, ordered or planned; to involvement in
+tenders, invitations to partnerships or officially published proposals. On top of
+that, Russian companies have bilateral agreements or memoranda of under-
+standing (MoUs) with 13 countries for services or general joint development of
+nuclear energy.’’.
+(4) In its report, ‘‘International Status and Prospects for Nuclear Power 2021’’,
+the International Atomic Energy Agency wrote, ‘‘A total of 28 countries have ex-
+pressed interest in nuclear power and are considering, planning or actively
+working to include it into their energy mix. Another 24 Member States partici-
+pate in the Agency’s nuclear infrastructure related activities or are involved in
+energy planning projects through the technical cooperation programme. Ten to
+twelve embarking Member States plan to operate NPPs [nuclear power plants]
+by 2030 2035, representing a potential increase of nearly 30% in the number
+of operating countries. Several embarking countries have also expressed interest
+in SMRs [small modular reactors] technology, in particular Estonia, Ghana, Jor-
+dan, Kenya, Poland, Saudi Arabia and Sudan, as well as expanding countries
+such as South Africa.’’.
+(5) On December 2, 2023, the United States, alongside more than 20 other
+countries, pledged to triple nuclear energy capacity by 2050 and support the fi-
+nancing of nuclear energy through the World Bank and regional development
+banks, so as to ‘‘encourage the inclusion of nuclear energy in their organiza-
+tions’’ energy lending policies as needed, and to actively support nuclear power
+when they have such a mandate’’.
+SEC. 3. MULTILATERAL DEVELOPMENT BANK SUPPORT FOR NUCLEAR ENERGY.
+Title XV of the International Financial Institutions Act (22 U.S.C. 262o et seq.)
+is amended by adding at the end the following:
+‘‘SEC. 1506. MULTILATERAL DEVELOPMENT BANK SUPPORT FOR NUCLEAR ENERGY.
+‘‘The Secretary of the Treasury shall instruct the United States Executive Director
+at the International Bank for Reconstruction and Development, the European Bank
+for Reconstruction and Development, and, as the Secretary finds appropriate, any
+other multilateral development bank (as defined in section 1307(g)) to use the voice,
+vote, and influence of the United States to advocate for—
+‘‘(1) the removal of prohibitions at the respective bank against financial and
+technical assistance for the generation and distribution of nuclear energy, to the
+extent that the prohibitions apply to nuclear technologies that meet or exceed
+the quality standards prevalent in the United States or a country allied with
+the United States; and
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+3
+‘‘(2) increased internal capacity-building at the respective bank for the pur-
+pose of assessing—
+‘‘(A) the potential role of nuclear energy in the energy systems of client
+countries; and
+‘‘(B) the delivery of financial and technical assistance described in para-
+graph (1) to the countries.’’.
+SEC. 4. ESTABLISHMENT OF NUCLEAR ENERGY ASSISTANCE TRUST FUNDS.
+Title XV of the International Financial Institutions Act (22 U.S.C. 262o et seq.)
+is further amended by adding at the end the following:
+‘‘SEC. 1507. ESTABLISHMENT OF NUCLEAR ENERGY ASSISTANCE TRUST FUNDS.
+‘‘(a) IN GENERAL.—The Secretary of the Treasury shall instruct the United States
+Governors of the International Bank for Reconstruction and Development, the Euro-
+pean Bank for Reconstruction and Development, and, as the Secretary deems appro-
+priate, other international financial institutions (as defined in section 1701(c)(2)) to
+use the voice, vote, and influence of the United States to establish at each such in-
+stitution a trust fund to be known as the ‘Nuclear Energy Assistance Trust Fund’
+that meets the requirements of subsections (b) and (c) of this section.
+‘‘(b) PURPOSES.—The purposes of such a trust fund shall be the following:
+‘‘(1) To provide financial and technical assistance to support the generation
+and distribution of nuclear energy in borrowing countries.
+‘‘(2) To ensure that the international financial institution makes financing
+available on competitive terms, including for the purpose of countering credit
+extended by the government of a country that is not a member of the OECD
+Arrangement on Officially Supported Export Credits.
+‘‘(3) To exclusively support the adoption of nuclear energy technologies that
+meet or exceed the quality standards prevalent in the United States or a coun-
+try allied with the United States.
+‘‘(4) To strengthen the capacity of the international financial institution to as-
+sess, implement, and evaluate nuclear energy projects.
+‘‘(c) USE OF TRUST FUND REVENUES.—The revenues of such a trust fund shall be
+made available for activities for the purposes described in subsection (b), or the
+United States share of the revenues shall be remitted to the general fund of the
+Treasury, as the Secretary finds appropriate.
+‘‘(d) RULE OF INTERPRETATION.—This section shall not be interpreted to affect the
+ability of the United States Governor of, or the United States Executive Director at,
+an international financial institution (as so defined) to encourage the provision of
+financial or technical assistance from non-trust fund resources of the institution to
+support the generation or distribution of nuclear energy.’’.
+SEC. 5. INCLUSION IN ANNUAL REPORT.
+During the 7-year period that begins with the date of enactment of this Act, the
+Chairman of the National Advisory Council on International Monetary and Finan-
+cial Policies shall include in the annual report required by section 1701 of the Inter-
+national Financial Institutions Act a description of any progress made—
+(1) to promote multilateral development bank (as defined in such section) as-
+sistance for nuclear energy; and
+(2) to establish a trust fund pursuant to section 1507 of such Act or, as the
+case may be, a summary of the activities of any such trust fund.
+SEC. 6. SUNSET.
+This Act and the amendments made by this Act shall have no force or effect be-
+ginning 10 years after the date of the enactment of this Act.
+PURPOSE AND SUMMARY
+Introduced on February 21, 2025, by Representative French Hill,
+H.R. 1474, the International Nuclear Energy Financing Act of 2025,
+requires the United States Executive Director at the World Bank
+and the European Bank for Reconstruction and Development to ad-
+vocate for the removal of prohibitions against nuclear energy fi-
+nancing, permits U.S. representatives at other international finan-
+cial institutions to seek similar policy changes, and requires the
+Treasury Secretary to advocate for the establishment of a nuclear
+energy assistance trust fund at the Bank to support financial and
+technical assistance for nuclear projects.
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+4
+BACKGROUND AND NEED FOR LEGISLATION
+Taken together, the multilateral development banks can commit
+over $100 billion in annual financing. Nuclear energy should be a
+part of an ‘‘all-of-the-above’’ approach to energy and national secu-
+rity.
+During the World Climate Action Summit of the 28th Conference
+of the Parties to the U.N. Framework Convention on Climate
+Change in 2023 (COP28), the U.S. was one of 20 countries that
+joined a declaration to triple nuclear energy capacity by 2050.1 At
+the COP29 U.N. Climate Change Conference in November 2024,
+six more countries joined the declaration to triple global nuclear
+energy capacity by 2050, making for a total of 31 nations endorsing
+this cause.2 The COP pledges include a commitment from the
+United States to invite the international financial institutions to
+consider nuclear energy financing. The European Bank for Recon-
+struction and Development has announced that it will revisit its
+no-financing stance based on borrowing countries’ needs, but a pro-
+hibition is still in place at the World Bank. Due to advocacy from
+the Financial Services Committee, the Treasury Department has
+begun to more explicitly express openness toward nuclear financing
+on the board of the Bank. H.R. 1474 is necessary to solidify the
+U.S.’s position on this issue.
+The World Bank last considered a nuclear energy project more
+than 60 years ago, and other multilateral development banks have
+followed its lead on supporting new nuclear power generation. At
+a time when the United States already finances nuclear energy
+abroad through the Export-Import Bank, it makes sense for the
+World Bank and other international financial institutions to em-
+brace this clean energy source. H.R. 1474 lays the groundwork for
+financing by proposing a trust fund at the Bank in order to deliver
+new resources for nuclear projects. The trust fund would also fi-
+nance technical assistance in borrowing countries as they explore
+the potential for nuclear power.
+COMMITTEE CONSIDERATION
+118TH CONGRESS
+On February 2, 2023, Representative Patrick McHenry (R–NC)
+introduced H.R. 806, the International Nuclear Energy Financing
+Act of 2023. Representatives French Hill (R–AR), Michael McCaul
+(R–TX), Byron Donalds (R–FL), and Michael Lawler (R–NY) were
+subsequently added as cosponsors.
+On February 7, 2023, the Committee Financial Services held a
+hearing titled ‘‘Combatting the Economic Threat from China,’’
+which examined risks to U.S. interests posed by China’s economic
+and geopolitical actions and actions that the U.S. can take to miti-
+gate malign Chinese actions through the utilization of investment
+screening, sanctions, investment policies and supervision, inter-
+1Press Release, U.S. Dep’t of Energy, At COP28, Countries Launch Declaration to Triple Nu-
+clear Energy Capacity by 2050, Recognizing the Key Role of Nuclear Energy in Reaching Net
+Zero (Dec. 1, 2023), https://www.energy.gov/articles/cop28-countries-launch-declaration-triple-nu-
+clear-energy-capacity-2050-recognizing-key.
+2Press Release, World Nuclear Association, Six More Countries Endorse the Declaration to
+Triple Nuclear Energy by 2050 at COP29 (Nov. 13, 2024), https://world-nuclear.org/news-and-
+media/press-statements/six-more-countries-endorse-the-declaration-to-triple-nuclear-energy-by-
+2050-at-cop29.
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+5
+national financial institutions, international financial flows, export
+financing, and the Defense Production Act. A discussion draft of
+the bill was considered in the hearing. Witnesses were Mr. Rich
+Ashooh, former Assistant Secretary of Commerce for Export Ad-
+ministration; Mr. Tom Feddo, former Assistant Secretary for In-
+vestment Security at the Department of Treasury and former As-
+sistant Director for Enforcement at the Office of Foreign Assets
+Control; Mr. Eric Lorber, former Senior Advisor to the Undersecre-
+tary for Treasury’s Terrorism and Financial Intelligence Division;
+Mr. Clete Willems, former Deputy National Security Advisor and
+Deputy National Economic Advisor; and Mr. Peter Harrell, former
+Senior Director for International Economic Policy with the Biden
+Administration.
+On January 17, 2024, the Subcommittee on National Security, Il-
+licit Finance, and International Financial Institutions held a hear-
+ing entitled ‘‘International Financing of Nuclear Energy.’’ H.R. 806
+was considered in the hearing. Witnesses were Mr. Nicholas
+McMurray, Managing Director for Nuclear and International Pol-
+icy, ClearPath; Dr. Ben Reinke, Vice President, Global Business
+Development, X-energy; Ms. Maria Korsnick, President and Chief
+Executive Officer, Nuclear Energy Institute; and Mr. Timothy L.
+Judson, Executive Director, Nuclear Information and Resource
+Service.
+119TH CONGRESS
+On February 21, 2025, Representative French Hill (R–AR) intro-
+duced H.R. 1474, the International Nuclear Energy Financing Act
+of 2025, with Representative Ritchie Torres (D–NY) as the original
+cosponsor. Representative Byron Donalds (R–FL) was subsequently
+added as a cosponsor. The bill was referred solely to the Committee
+on Financial Services.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+1474:
+The Full Committee held a hearing on February 25, 2025, titled
+‘‘Examining Policies to Counter China.’’ A discussion draft of the
+bill was considered in the hearing. The following witnesses ap-
+peared: Mr. John Miller, Senior Vice President of Policy, Trust,
+Data, and Technology, and General Counsel of the Information
+Technology Industry Council; Mr. Nicholas McMurray, Managing
+Director of International and Nuclear Policy at ClearPath; Mr.
+John Cassara, a retired United States Treasury Department Spe-
+cial Agent; Mr. Martin Muhleisen, a Nonresident Senior Fellow at
+the GAO Economic Center at the Atlantic Council; and Dr. Rush
+Doshi, the C.V. Starr Senior Fellow for Asian Studies, Director of
+the China Strategy Initiative at the Council on Foreign Relations,
+and an Assistant Professor at Georgetown University. Among the
+discussion regarding financing for nuclear power projects that was
+presented at this hearing, Mr. McMurray testified that Congress
+has a unique opportunity to strengthen American solutions by mod-
+ernizing export and developing financing to support nuclear.
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+6
+The Committee on Financial Services met in open session on
+March 5, 2025 to consider, among others, H.R. 1474.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On March 5, 2025, the Committee ordered H.R. 1474, as amend-
+ed, to be reported favorably to the House by a recorded vote of 39
+yeas to 10 nays, a quorum being present. (Record Vote No. FC–
+023).
+The Committee considered the following amendments to H.R.
+1474:
+• Representative Garbarino (R–NY) offered an Amendment
+in the Nature of a Substitute, which made minor edits and
+technical changes. The amendment was adopted by a voice
+vote.
+• Representative Bill Foster (D–IL) offered an amendment
+(No. 1) that would add language to Section 3, clarifying that
+the United States will only advocate for lifting the prohibition
+on nuclear energy financing for projects that meet or exceed
+the quality standards of the United States or our allied Na-
+tions. The amendment was adopted by a voice vote.
+• Representative Sean Casten (D–IL) offered an amendment
+(No. 2), that would require the U.S. Executive Director at the
+multilateral development banks to prioritize financial and
+technical assistance to support the deployment of energy
+sources such as solar and wind. The amendment was defeated
+in a recorded vote of 19 yeas to 30 nays, a quorum being
+present. (Record Vote No. FC–021).
+• Representative Maxine Waters (D–CA) offered an amend-
+ment (No. 3) that would require the U.S. Executive Director at
+the World Bank to oppose financing for a nuclear project until
+certain policies have been adopted at the bank. The amend-
+ment was defeated in a recorded vote of 19 yeas to 30 nays
+(Record Vote No. FC–022).
+• Representative Brad Sherman (D–CA) offered an amend-
+ment (No. 4) which would have required client countries to
+make specific agreements prior to the removal of prohibitions
+on the generation of nuclear energy. The amendment was with-
+drawn.
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+7
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+Section 4:
+100.32RH
+ereh
+9 oilof
+tesffo
+tresnI
+8
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+Section 5:
+200.32RH
+ereh
+01
+oilof
+tesffo
+tresnI
+9
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+Section 6:
+300.32RH
+ereh
+11
+oilof
+tesffo
+tresnI
+10
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 1474 is to require U.S. rep-
+resentatives at international bodies to advocate for the removal of
+prohibitions against nuclear energy financing and for U.S. officials
+to seek similar policy changes at international financial institu-
+tions.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 1474. However, clause
+3(d)(2)(B) of that Rule provides that this requirement does not
+apply when, as with the present report, the Committee adopts as
+its own the cost estimate for the bill prepared by the Director of
+the Congressional Budget Office.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, the
+cost estimate by the Congressional Budget Office pursuant to sec-
+tion 402 of the Congressional Budget Act of 1974 is provided here-
+in.
+UNFUNDED MANDATES STATEMENT
+Pursuant to Section 423 of the Congressional Budget and Im-
+poundment Control Act of 1974, Pub. L. No. 93–344 (as amended
+by Section 101(a)(2) of the Unfunded Mandates Reform Act of 1995,
+Pub. L. No. 104–4), the Committee adopts as its own the cost esti-
+mate prepared by the Director of the Congressional Budget Office
+(CBO) pursuant to section 402 of the Congressional Budget and Im-
+poundment Control Act of 1974.
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+11
+H.R. 1474 would require the Department of the Treasury to ad-
+vocate for multilateral development banks to provide technical and
+financial assistance to promote the use of nuclear energy in foreign
+countries. Under the bill, the Administration would report on the
+effectiveness of those efforts as part of an existing annual report.
+On the basis of information about similar diplomatic efforts and
+reporting requirements, CBO estimates that implementing the bill
+would cost less than $500,000 over the 2025–2030 period. Such
+spending would be subject to the availability of appropriated funds.
+The CBO staff contact for this estimate is Sunita D’Monte. The
+estimate was reviewed by Christina Hawley Anthony, Deputy Di-
+rector of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+Section 7:
+400.32RH
+ereh
+41
+oilof
+tesffo
+tresnI
+12
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+
+Section 8:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+The following is a section-by-section analysis of H.R. 1474, the
+International Nuclear Energy Financing Act of 2025:
+
+Section 9:
+Section 1. Short title
+
+Section 10:
+Section 1 provides that the short title is ‘‘International Nuclear
+Energy Financing Act of 2025.’’
+
+Section 11:
+Section 2. Findings
+Congress finds the following:
+• Nuclear power is an emissions-free energy source that pro-
+duces approximately 30 percent of the world’s low-carbon elec-
+tricity. In 2021, 33 countries operated nuclear power plants.
+• The People’s Republic of China and the Russian Federa-
+tion have sought to export nuclear reactors, reports have con-
+cluded that Chinese and Russian nuclear reactors are associ-
+ated with higher safety risk than Western nuclear reactors,
+and financial and operational support for nuclear power can
+extend over decades, allowing Beijing and Moscow to secure
+long-term influence in both advanced and developing econo-
+mies.
+• The Russian Federation is currently building 21 reactors
+outside its borders, while the People’s Republic of China is as-
+sembling more than a third of reactors under construction
+globally.
+• In its report, ‘‘International Status and Prospects for Nu-
+clear Power 2021’’, the International Atomic Energy Agency
+found 28 countries have expressed interest in nuclear power
+and are considering, planning or actively working to include it
+into their energy mix; another 24 Member States participate in
+the Agency’s nuclear infrastructure related activities or are in-
+volved in energy planning projects through the technical co-
+operation program; ten to twelve embarking Member States
+plan to operate nuclear power plants by 2030–2035, rep-
+resenting a potential increase of nearly 30 percent in the num-
+ber of operating countries; and several embarking countries
+have also expressed interest in small modular reactors tech-
+nology.
+• On December 2, 2023, the United States, alongside more
+than 20 other countries, pledged to triple nuclear energy capac-
+ity by 2050 and support the financing of nuclear energy
+through the World Bank and regional development banks to
+encourage the inclusion of nuclear energy in their organiza-
+tions’ energy lending policies as needed, and to actively support
+nuclear power.
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+13
+
+Section 12:
+Section 3. Multilateral development bank support for Nuclear En-
+ergy
+• Amends the International Financial Institutions Act to re-
+quire the Secretary of Treasury to instruct the United States
+Executive Director at the International Bank for Reconstruc-
+tion and Development, the European Bank for Reconstruction
+and Development, and, as the Secretary finds appropriate, any
+other defined multilateral development bank to use the voice,
+vote, and influence of the United States to advocate for—
+—the removal of prohibitions at the respective banks
+against financial and technical assistance for the genera-
+tion and distribution of nuclear energy; and
+—increased internal capacity-building at the respective
+banks for the purpose of assessing—
+D the potential role of nuclear energy in the energy
+systems of client countries; and
+D the delivery of financial and technical assistance
+described in the bill to the countries.
+
+Section 13:
+Section 4. Establishment of Nuclear Energy Assistance Trust Funds
+• Amends the International Financial Institutions Act to re-
+quire the Secretary of the Treasury to instruct the United
+States Governors of the International Bank for Reconstruction
+and Development, the European Bank for Reconstruction and
+Development, and, as appropriate, other defined international
+financial institutions to use the voice, vote, and influence of the
+United States to establish at each such institution a trust fund
+to be known as the ‘Nuclear Energy Assistance Trust Fund’ to:
+—provide financial and technical assistance to support
+the generation and distribution of nuclear energy in bor-
+rowing countries;
+—ensure that the international financial institution
+makes financing available on competitive terms, including
+for the purpose of countering credit extended by the gov-
+ernment of a country that is not a member of the OECD
+Arrangement on Officially Supported Export Credits;
+—exclusively support the adoption of nuclear energy
+technologies that meet or exceed the quality standards
+prevalent in the United States or a country allied with the
+United States; and
+—strengthen the capacity of the international financial
+institution to assess, implement, and evaluate nuclear en-
+ergy projects.
+• Requires revenues of such a trust fund be made available
+for activities described above, or that the United States share
+of the revenues be remitted to the general fund of the Treas-
+ury.
+• Prohibits this section from being interpreted to affect the
+ability of the United States Governor of, or the United States
+Executive Director at, a defined international financial institu-
+tion to encourage the provision of financial or technical assist-
+ance from non-trust fund resources of the institution to support
+the generation or distribution of nuclear energy.
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+14
+
+Section 14:
+Section 5. Inclusion in an Annual Report
+• Requires, during the seven-year period that begins with
+the date of enactment of this Act, the Chairman of the Na-
+tional Advisory Council on International Monetary and Finan-
+cial Policies to include in the annual report required by section
+1701 of the International Financial Institutions Act a descrip-
+tion of any progress made—
+• to promote defined multilateral development bank assist-
+ance for nuclear energy; and
+—to establish a trust fund pursuant to section 1507 of
+such Act or a summary of the activities of any such trust
+fund.
+
+Section 15:
+Section 6. Sunset
+• Sunsets this Act and the amendments made by this Act
+beginning 10 years after the date of the enactment.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+INTERNATIONAL FINANCIAL INSTITUTIONS ACT
+* * * * * * *
+TITLE XV—OTHER POLICIES
+* * * * * * *
+SEC. 1506. MULTILATERAL DEVELOPMENT BANK SUPPORT FOR NU-
+CLEAR ENERGY.
+The Secretary of the Treasury shall instruct the United States Ex-
+ecutive Director at the International Bank for Reconstruction and
+Development, the European Bank for Reconstruction and Develop-
+ment, and, as the Secretary finds appropriate, any other multilat-
+eral development bank (as defined in section 1307(g)) to use the
+voice, vote, and influence of the United States to advocate for—
+(1) the removal of prohibitions at the respective bank against
+financial and technical assistance for the generation and dis-
+tribution of nuclear energy, to the extent that the prohibitions
+apply to nuclear technologies that meet or exceed the quality
+standards prevalent in the United States or a country allied
+with the United States; and
+(2) increased internal capacity-building at the respective bank
+for the purpose of assessing—
+(A) the potential role of nuclear energy in the energy sys-
+tems of client countries; and
+(B) the delivery of financial and technical assistance de-
+scribed in paragraph (1) to the countries.
+SEC. 1507. ESTABLISHMENT OF NUCLEAR ENERGY ASSISTANCE TRUST
+FUNDS.
+(a) IN GENERAL.—The Secretary of the Treasury shall instruct the
+United States Governors of the International Bank for Reconstruc-
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00014 Fmt 6659 Sfmt 6603 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+15
+tion and Development, the European Bank for Reconstruction and
+Development, and, as the Secretary deems appropriate, other inter-
+national financial institutions (as defined in section 1701(c)(2)) to
+use the voice, vote, and influence of the United States to establish
+at each such institution a trust fund to be known as the ‘‘Nuclear
+Energy Assistance Trust Fund’’ that meets the requirements of sub-
+
+Section 16:
+sections (b) and (c) of this section.
+(b) PURPOSES.—The purposes of such a trust fund shall be the fol-
+lowing:
+(1) To provide financial and technical assistance to support
+the generation and distribution of nuclear energy in borrowing
+countries.
+(2) To ensure that the international financial institution
+makes financing available on competitive terms, including for
+the purpose of countering credit extended by the government of
+a country that is not a member of the OECD Arrangement on
+Officially Supported Export Credits.
+(3) To exclusively support the adoption of nuclear energy tech-
+nologies that meet or exceed the quality standards prevalent in
+the United States or a country allied with the United States.
+(4) To strengthen the capacity of the international financial
+institution to assess, implement, and evaluate nuclear energy
+projects.
+(c) USE OF TRUST FUND REVENUES.—The revenues of such a trust
+fund shall be made available for activities for the purposes de-
+scribed in subsection (b), or the United States share of the revenues
+shall be remitted to the general fund of the Treasury, as the Sec-
+retary finds appropriate.
+(d) RULE OF INTERPRETATION.—This section shall not be inter-
+preted to affect the ability of the United States Governor of, or the
+United States Executive Director at, an international financial insti-
+tution (as so defined) to encourage the provision of financial or tech-
+nical assistance from non-trust fund resources of the institution to
+support the generation or distribution of nuclear energy.
+* * * * * * *
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00015 Fmt 6659 Sfmt 6601 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+MINORITY VIEWS
+This bill would attempt to require the multilateral development
+banks (MDBs) to reverse their longstanding prohibitions on public
+subsidies for nuclear energy. The MDBs do not currently fund
+these nuclear power generation projects because of both unique
+safety and national security concerns, and requiring them to fund
+these projects would come at the expense of readily available alter-
+native forms of energy generation and over the objections of local
+communities around the world.
+As history has shown, accidents at nuclear plants can cause dan-
+gerous levels of radiation to be released in nearby communities.
+For example, in 2011, an earthquake cut off external power to Ja-
+pan’s Fukushima Daiichi nuclear reactors and the subsequent tsu-
+nami disabled backup diesel generators. The damage to three of the
+reactor cores contaminated a wide area surrounding the plant,
+forced the evacuation of nearly half a million residents, and led to
+Japan reducing its use of nuclear power.1 The accident sparked
+protests in other nations considering nuclear power generation
+projects.2
+There are also substantial risks associated with the storage of
+spent nuclear fuel, the major component of the radioactive waste
+produced by nuclear reactors. According to the U.S. Nuclear Regu-
+latory Commission, waste from nuclear reactors is a long-term
+problem because ‘‘they produce fatal radiation doses during short
+periods of direct exposure. For example, 10 years after removal
+from a reactor, the surface dose rate for a typical spent fuel assem-
+bly exceeds 10,000 rem/hour—far greater than the fatal whole-body
+dose for humans of about 500 rem received all at once. If isotopes
+from these high-level wastes get into groundwater or rivers, they
+may enter food chains. The dose produced through this indirect ex-
+posure would be much smaller than a direct-exposure dose, but a
+much larger population could be exposed.’’3 Even the wealthiest of
+nations, like those in the European Union, have trouble with find-
+ing permanent sites to store their nuclear waste.4
+Further, traditionally, the poorest neighborhoods and commu-
+nities of color suffer disproportionate effects of nuclear waste, con-
+struction, and testing.5 For example, in completing the Manhattan
+Project, the U.S. displaced American Indian and non-Indian resi-
+dents off of their Washington-state land, with wholly insufficient
+compensation for the forced move.6 When the U.S. Army was en-
+1Union of Concerned Scientists, A Brief History of Nuclear Accidents Worldwide (Oct. 1, 2013).
+2Hurriyet Daily News, N. Karanfil, Protest marks ground breaking ceremony for Turkey’s first
+nuclear power plant (Apr. 15, 2025); Al Jazeera, A. Abuqudairi, Jordan nuclear battle heats up
+(Apr. 14. 2014).
+3U.S. NRC, Backgrounder on Radioactive Waste (Accessed Mar. 2, 2025).
+4Politico, K. Oroschakoff, M. Solletty, Burying the atom: Europe struggles to dispose of nuclear
+waste (Jul. 19, 2017).
+5Ibid. Note 3.
+6Ibid. Note 4.
+(16)
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00016 Fmt 6604 Sfmt 6604 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+17
+gaging in radiation testing in the 1950s and 1960s, residents of St.
+Louis’ Black public housing complex, Pruitt-Igoe Housing, were un-
+wittingly subjected to toxic spraying in their community.7 The
+same disparities continue to exist today in the U.S. as new sites
+for construction and waste are contemplated. One study found that
+African-American populations were found in disproportionately
+greater numbers to live within a 50-mile radius of nuclear plants
+than white populations who were more likely to live beyond the 50-
+mile mark.8 There are, thus, ongoing concerns that these ‘‘nuclear
+frontline communities’’9 may be determined by which communities
+are the least capable of fighting back against the risks associated
+with those decisions.10 This concern extends to developing coun-
+tries, sometimes desperate for foreign investment dollars, which
+may be more vulnerable to requests from wealthier nations to ac-
+cept imported radioactive waste for storage, thus dumping this
+dangerous remnant of the power generation process on the poorest
+of global communities.
+Importantly, spent fuel can also be reprocessed into weapons-us-
+able plutonium.11 ‘‘Dirty bombs’’ and other unauthorized uses of
+nuclear waste can lead to illness, death, environmental damage,
+and other significant and long-term socio-economic costs.12 As stat-
+ed by the author of the World Nuclear Waste Report, ‘‘We are talk-
+ing about time frames that are beyond the human scale of what we
+can think of. We still don’t know where to put the waste safely in
+a way that nobody will get harmed, that it is not vulnerable to ter-
+rorist attacks, that it is not being stolen to build nuclear bombs.’’13
+Notably, while the bill does require that its newly established
+Trust Fund, ‘‘support the adoption of nuclear energy technologies
+that meet or exceed the quality standards prevalent in the United
+States or a country allied with the United States,’’ the current ad-
+ministration is already working to gut those standards. In his first
+month in office, President Trump declared, via executive order,14
+that the Nuclear Regulatory Commission will no longer be viewed
+by his Administration as an independent agency.15 This is despite
+being established as such by Congress to ensure the safe use of ra-
+dioactive materials for civilian purposes, while protecting people
+and the environment, free from political and industry influence.16
+Demonstrating the importance of this independence was the
+Fukushima accident’s investigation report, which determined, ‘‘The
+TEPCO Fukushima Nuclear Power Plant accident was the result of
+7Gizmodo, D. T. O’Shea, Did the Army’s Secret Radiation Experiments Sabotage a Housing
+Project? (Dec. 8, 2022).
+8Stanford University, A. Adebagbo, Environmental Injustice: Racism Behind Nuclear Energy
+(Mar. 26, 2018).
+9Union of Concerned Scientists, What Are Nuclear Frontline Communities? (Mar. 23, 2022).
+10International Journal of Environmental Research and Public Health, D. Kyn, B. Bolin,
+Emerging Environmental Justice Issues in Nuclear Power and Radioactive Contamination (Jul.
+2016).
+11Nuclear Threat Initiative, C. Ferguson, Risks of Civilian Plutonium Programs (Jun. 30,
+2004); Center for Arms Control and Non-Proliferation, Fact Sheet: Nuclear Proliferation Risks
+in Nuclear Energy Programs (Mar. 2021).
+12Time, S. Shuster, Inside the Uranium Underworld: Dark Secrets, Dirty Bombs (Apr. 10,
+2017); GAO, Issues Summary: Security of Radioactive Materials (Accessed Mar. 2, 2025).
+13DW.com, A. Niranjan, What happens to nuclear waste from power plants? (Nov. 13, 2019).
+14White House, Ensuring Accountability for All Agencies (Feb. 18, 2025).
+15E&E, Politico, A.J. Delgado, Trump’s executive order puts nuclear safety at risk, experts
+warn (Feb. 24. 2025).
+16Bulletin of the Atomic Scientists, A. Macfarlane, Trump just assaulted the independence of
+the nuclear regulator. What could go wrong? (Feb. 21, 2025).
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00017 Fmt 6604 Sfmt 6604 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+18
+collusion between the government, the regulators and TEPCO, and
+the lack of governance by said parties.’’17 The Trump Administra-
+tion rush towards a ‘‘long-awaited nuclear renaissance,’’18 has also
+resulted in two other executive orders designed to reverse agency
+actions which ‘‘impose an undue burden on the identification, de-
+velopment or use of . . . nuclear energy resources’’19 and to facili-
+tate the movement and use of uranium for the generation of nu-
+clear power.20 We know, too, that Trump, Elon Musk, and their
+‘‘Department of Government Efficiency’’ have haphazardly fired or
+urged nuclear scientists and safety staff to resign,21 closed a nu-
+clear waste disposal office,22 and illegally dismissed the Congres-
+sionally mandated Inspector Generals at the Departments of En-
+ergy and Interior as well as the Environmental Protection Agen-
+cy.23
+Finally, the price tag for the construction of a new nuclear power
+plant is upwards of tens of billions of dollars,24 a significant portion
+of which comes from the plant’s construction.25 Some of the con-
+struction cost is due to the timeline: It can take decades to develop
+nuclear power projects26 and further costs can accrue from unex-
+pected lengthy delays in a project’s financing.27 There are notable
+nuclear power projects in the U.S. that have experienced signifi-
+cant time and cost overruns.28 The two newest Vogtle plant reac-
+tors, for example, were started in Georgia in 2009 and expected to
+come online by 2017 at a cost of $14 billion.29 The project was not
+completed, however, until 2024 and cost close to $35 billion.30
+Given these considerations, financially constrained MDBs must
+make choices regarding which energy infrastructure projects to
+prioritize, especially if funding nuclear energy projects might re-
+quire a reduction in funding renewable energy projects, such as
+solar and wind-powered options. Support for such projects could
+also curtail funding opportunities in other sectors addressed by the
+MDBs, such as nutrition, education, healthcare, and sanitation.
+During the markup, Rep. Casten (D–IL) proposed an amendment
+that would mandate that the MDBs prioritize financial and tech-
+nical assistance to the development of zero-emission energy sources
+and infrastructure, including nuclear, hydroelectricity, solar, wind,
+17The National Diet of Japan, The official report of The Fukushima Nuclear Accident Inde-
+pendent Investigation Commission: Executive Summary (2012).
+18Dept. of Energy, Secretary Wright Acts to ‘‘Unleash Golden Era of American Energy Domi-
+nance’’ (Feb. 5, 2025).
+19White House, Unleashing American Energy (Jan. 20, 2025).
+20White House, Declaring a National Energy Emergency (Jan. 20, 2025).
+21New York Times, S. LaFraniere, M. Kim, J. Tate, DOGE Cuts Reach Key Nuclear Scientists,
+Bomb Engineers and Safety Experts (Mar. 17, 2025).
+22E&E News, Politico, R. Bravender, H. Richards, J. Yachnin, DOGE ditches environmental
+offices nationwide (Mar. 5, 2025).
+23E&E News, Politico, M. Quin˜ones, K. Bogardus, Trump fires agency watchdogs, sparks par-
+tisan rancor (Jan. 27, 2025).
+24Our World of Energy, What does it cost to build a nuclear power plant? (Aug. 21, 2023);
+Synapse Energy Economics, Inc. D. Schlissel, B. Biewald, Nuclear Power Plant Construction
+Costs (Jul. 2008).
+25Construction Physics, B. Potter, Why Are Nuclear Power Construction Costs so High? Part
+I (Jun. 9, 2022).
+26Climate Central, Challenges to nuclear energy growth (Accessed Mar. 2, 2025).
+27World Nuclear Association, Economics of Nuclear Power (Aug. 2022).
+28Ibid.
+29Business Insider, 2 nuclear reactors that can power 1 million US homes with clean, sustain-
+able energy is $21 billion over budget and years behind schedule, (Dec. 19, 2023).
+30AP News, A second new nuclear reactor is completed in Georgia. The carbon-free power
+comes at a high price (Apr. 29, 2024).
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00018 Fmt 6604 Sfmt 6604 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+19
+geothermal, marine energy, energy storage, electricity trans-
+mission. This amendment was rejected by Republicans. Rep.
+Waters (D–CA) proposed an amendment that would delay the fi-
+nancing of nuclear energy financial and technical assistance at
+each MDB until they individually adopt policies that: 1) obtain the
+consent of local communities and civil society organizations prior to
+providing nuclear financing; 2) require a comprehensive plan ad-
+dressing the disposal of spent nuclear fuel and hazardous waste;
+and 3) permit private rights of action related to project-related
+damages. This amendment was also rejected by the majority.
+H.R. 1474 is opposed by Nuclear Information & Resource Service
+(NIRS), the Union of Concerned Scientists, Public Citizen, and
+Friends of the Earth.
+For all of these reasons, we also oppose H.R. 1474.
+Sincerely,
+MAXINE WATERS,
+Ranking Member.
+AL GREEN,
+RASHIDA TLAIB,
+CLEO FIELDS,
+JOYCE BEATTY,
+SYLVIA R. GARCIA,
+Members of Congress.
+Æ
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00019 Fmt 6604 Sfmt 6611 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–23
+INTERNATIONAL NUCLEAR ENERGY FINANCING ACT OF
+2025
+MARCH21, 2025.—Committed to the Committee of the Whole House on the State
+of the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 1474]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 1474) to provide for advocation of support for nuclear en-
+ergy, and establish a nuclear energy assistance trust fund, at the
+World Bank, the European Bank for Reconstruction and Develop-
+ment, and other international financial institutions, as appropriate,
+and for other purposes, having considered the same, reports favor-
+ably thereon with an amendment and recommends that the bill as
+amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 3
+Background and Need for Legislation .................................................................... 4
+Committee Consideration ........................................................................................ 4
+Related Hearings ..................................................................................................... 5
+Committee Votes ...................................................................................................... 6
+Committee Oversight Findings ............................................................................... 10
+Performance Goals and Objectives ......................................................................... 10
+Committee Cost Estimate ....................................................................................... 10
+New Budget Authority and CBO Cost Estimate ................................................... 10
+Unfunded Mandates Statement .............................................................................. 10
+Earmark Statement ................................................................................................. 11
+Federal Advisory Committee Act Statement ......................................................... 11
+Applicability to the Legislative Branch ................................................................. 11
+59–006
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+2
+Duplication of Federal Programs ............................................................................ 12
+Section-by-Section Analysis of the Legislation ...................................................... 12
+Changes in Existing Law Made by the Bill, as Reported ..................................... 14
+Minority Views ......................................................................................................... 16
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘International Nuclear Energy Financing Act of
+2025’’.
+SEC. 2. FINDINGS.
+Congress finds the following:
+(1) Nuclear power is an emissions-free energy source that produces approxi-
+mately 30 percent of the world’s low-carbon electricity. In 2021, 33 countries op-
+erated nuclear power plants.
+(2) The People’s Republic of China and the Russian Federation have sought
+to export nuclear reactors to Europe, Eurasia, Latin America, Africa, and South
+Asia. According to a 2017 study by Columbia University’s Center on Global En-
+ergy Policy, Chinese and Russian nuclear reactors are associated with higher
+safety risk than Western nuclear reactors. In addition, financial and operational
+support for nuclear power can extend over decades, allowing Beijing and Mos-
+cow to secure long-term influence in both advanced and developing economies.
+(3) The Russian Federation is currently building 21 reactors outside its bor-
+ders, while the People’s Republic of China is assembling more than a third of
+reactors under construction globally. According to research published in Nature
+Energy in February 2023, when the Russian Federation launched its invasion
+of Ukraine in 2022, Russian state-owned nuclear operator Rosatom ‘‘boasted as
+many as 73 different projects in 29 countries. The projects were at very dif-
+ferent stages of development from power plants in operation; through construc-
+tion of reactors ongoing, contracted, ordered or planned; to involvement in
+tenders, invitations to partnerships or officially published proposals. On top of
+that, Russian companies have bilateral agreements or memoranda of under-
+standing (MoUs) with 13 countries for services or general joint development of
+nuclear energy.’’.
+(4) In its report, ‘‘International Status and Prospects for Nuclear Power 2021’’,
+the International Atomic Energy Agency wrote, ‘‘A total of 28 countries have ex-
+pressed interest in nuclear power and are considering, planning or actively
+working to include it into their energy mix. Another 24 Member States partici-
+pate in the Agency’s nuclear infrastructure related activities or are involved in
+energy planning projects through the technical cooperation programme. Ten to
+twelve embarking Member States plan to operate NPPs [nuclear power plants]
+by 2030 2035, representing a potential increase of nearly 30% in the number
+of operating countries. Several embarking countries have also expressed interest
+in SMRs [small modular reactors] technology, in particular Estonia, Ghana, Jor-
+dan, Kenya, Poland, Saudi Arabia and Sudan, as well as expanding countries
+such as South Africa.’’.
+(5) On December 2, 2023, the United States, alongside more than 20 other
+countries, pledged to triple nuclear energy capacity by 2050 and support the fi-
+nancing of nuclear energy through the World Bank and regional development
+banks, so as to ‘‘encourage the inclusion of nuclear energy in their organiza-
+tions’’ energy lending policies as needed, and to actively support nuclear power
+when they have such a mandate’’.
+SEC. 3. MULTILATERAL DEVELOPMENT BANK SUPPORT FOR NUCLEAR ENERGY.
+Title XV of the International Financial Institutions Act (22 U.S.C. 262o et seq.)
+is amended by adding at the end the following:
+‘‘SEC. 1506. MULTILATERAL DEVELOPMENT BANK SUPPORT FOR NUCLEAR ENERGY.
+‘‘The Secretary of the Treasury shall instruct the United States Executive Director
+at the International Bank for Reconstruction and Development, the European Bank
+for Reconstruction and Development, and, as the Secretary finds appropriate, any
+other multilateral development bank (as defined in section 1307(g)) to use the voice,
+vote, and influence of the United States to advocate for—
+‘‘(1) the removal of prohibitions at the respective bank against financial and
+technical assistance for the generation and distribution of nuclear energy, to the
+extent that the prohibitions apply to nuclear technologies that meet or exceed
+the quality standards prevalent in the United States or a country allied with
+the United States; and
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+3
+‘‘(2) increased internal capacity-building at the respective bank for the pur-
+pose of assessing—
+‘‘(A) the potential role of nuclear energy in the energy systems of client
+countries; and
+‘‘(B) the delivery of financial and technical assistance described in para-
+graph (1) to the countries.’’.
+SEC. 4. ESTABLISHMENT OF NUCLEAR ENERGY ASSISTANCE TRUST FUNDS.
+Title XV of the International Financial Institutions Act (22 U.S.C. 262o et seq.)
+is further amended by adding at the end the following:
+‘‘SEC. 1507. ESTABLISHMENT OF NUCLEAR ENERGY ASSISTANCE TRUST FUNDS.
+‘‘(a) IN GENERAL.—The Secretary of the Treasury shall instruct the United States
+Governors of the International Bank for Reconstruction and Development, the Euro-
+pean Bank for Reconstruction and Development, and, as the Secretary deems appro-
+priate, other international financial institutions (as defined in section 1701(c)(2)) to
+use the voice, vote, and influence of the United States to establish at each such in-
+stitution a trust fund to be known as the ‘Nuclear Energy Assistance Trust Fund’
+that meets the requirements of subsections (b) and (c) of this section.
+‘‘(b) PURPOSES.—The purposes of such a trust fund shall be the following:
+‘‘(1) To provide financial and technical assistance to support the generation
+and distribution of nuclear energy in borrowing countries.
+‘‘(2) To ensure that the international financial institution makes financing
+available on competitive terms, including for the purpose of countering credit
+extended by the government of a country that is not a member of the OECD
+Arrangement on Officially Supported Export Credits.
+‘‘(3) To exclusively support the adoption of nuclear energy technologies that
+meet or exceed the quality standards prevalent in the United States or a coun-
+try allied with the United States.
+‘‘(4) To strengthen the capacity of the international financial institution to as-
+sess, implement, and evaluate nuclear energy projects.
+‘‘(c) USE OF TRUST FUND REVENUES.—The revenues of such a trust fund shall be
+made available for activities for the purposes described in subsection (b), or the
+United States share of the revenues shall be remitted to the general fund of the
+Treasury, as the Secretary finds appropriate.
+‘‘(d) RULE OF INTERPRETATION.—This section shall not be interpreted to affect the
+ability of the United States Governor of, or the United States Executive Director at,
+an international financial institution (as so defined) to encourage the provision of
+financial or technical assistance from non-trust fund resources of the institution to
+support the generation or distribution of nuclear energy.’’.
+SEC. 5. INCLUSION IN ANNUAL REPORT.
+During the 7-year period that begins with the date of enactment of this Act, the
+Chairman of the National Advisory Council on International Monetary and Finan-
+cial Policies shall include in the annual report required by section 1701 of the Inter-
+national Financial Institutions Act a description of any progress made—
+(1) to promote multilateral development bank (as defined in such section) as-
+sistance for nuclear energy; and
+(2) to establish a trust fund pursuant to section 1507 of such Act or, as the
+case may be, a summary of the activities of any such trust fund.
+SEC. 6. SUNSET.
+This Act and the amendments made by this Act shall have no force or effect be-
+ginning 10 years after the date of the enactment of this Act.
+PURPOSE AND SUMMARY
+Introduced on February 21, 2025, by Representative French Hill,
+H.R. 1474, the International Nuclear Energy Financing Act of 2025,
+requires the United States Executive Director at the World Bank
+and the European Bank for Reconstruction and Development to ad-
+vocate for the removal of prohibitions against nuclear energy fi-
+nancing, permits U.S. representatives at other international finan-
+cial institutions to seek similar policy changes, and requires the
+Treasury Secretary to advocate for the establishment of a nuclear
+energy assistance trust fund at the Bank to support financial and
+technical assistance for nuclear projects.
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+4
+BACKGROUND AND NEED FOR LEGISLATION
+Taken together, the multilateral development banks can commit
+over $100 billion in annual financing. Nuclear energy should be a
+part of an ‘‘all-of-the-above’’ approach to energy and national secu-
+rity.
+During the World Climate Action Summit of the 28th Conference
+of the Parties to the U.N. Framework Convention on Climate
+Change in 2023 (COP28), the U.S. was one of 20 countries that
+joined a declaration to triple nuclear energy capacity by 2050.1 At
+the COP29 U.N. Climate Change Conference in November 2024,
+six more countries joined the declaration to triple global nuclear
+energy capacity by 2050, making for a total of 31 nations endorsing
+this cause.2 The COP pledges include a commitment from the
+United States to invite the international financial institutions to
+consider nuclear energy financing. The European Bank for Recon-
+struction and Development has announced that it will revisit its
+no-financing stance based on borrowing countries’ needs, but a pro-
+hibition is still in place at the World Bank. Due to advocacy from
+the Financial Services Committee, the Treasury Department has
+begun to more explicitly express openness toward nuclear financing
+on the board of the Bank. H.R. 1474 is necessary to solidify the
+U.S.’s position on this issue.
+The World Bank last considered a nuclear energy project more
+than 60 years ago, and other multilateral development banks have
+followed its lead on supporting new nuclear power generation. At
+a time when the United States already finances nuclear energy
+abroad through the Export-Import Bank, it makes sense for the
+World Bank and other international financial institutions to em-
+brace this clean energy source. H.R. 1474 lays the groundwork for
+financing by proposing a trust fund at the Bank in order to deliver
+new resources for nuclear projects. The trust fund would also fi-
+nance technical assistance in borrowing countries as they explore
+the potential for nuclear power.
+COMMITTEE CONSIDERATION
+118TH CONGRESS
+On February 2, 2023, Representative Patrick McHenry (R–NC)
+introduced H.R. 806, the International Nuclear Energy Financing
+Act of 2023. Representatives French Hill (R–AR), Michael McCaul
+(R–TX), Byron Donalds (R–FL), and Michael Lawler (R–NY) were
+subsequently added as cosponsors.
+On February 7, 2023, the Committee Financial Services held a
+hearing titled ‘‘Combatting the Economic Threat from China,’’
+which examined risks to U.S. interests posed by China’s economic
+and geopolitical actions and actions that the U.S. can take to miti-
+gate malign Chinese actions through the utilization of investment
+screening, sanctions, investment policies and supervision, inter-
+1Press Release, U.S. Dep’t of Energy, At COP28, Countries Launch Declaration to Triple Nu-
+clear Energy Capacity by 2050, Recognizing the Key Role of Nuclear Energy in Reaching Net
+Zero (Dec. 1, 2023), https://www.energy.gov/articles/cop28-countries-launch-declaration-triple-nu-
+clear-energy-capacity-2050-recognizing-key.
+2Press Release, World Nuclear Association, Six More Countries Endorse the Declaration to
+Triple Nuclear Energy by 2050 at COP29 (Nov. 13, 2024), https://world-nuclear.org/news-and-
+media/press-statements/six-more-countries-endorse-the-declaration-to-triple-nuclear-energy-by-
+2050-at-cop29.
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+5
+national financial institutions, international financial flows, export
+financing, and the Defense Production Act. A discussion draft of
+the bill was considered in the hearing. Witnesses were Mr. Rich
+Ashooh, former Assistant Secretary of Commerce for Export Ad-
+ministration; Mr. Tom Feddo, former Assistant Secretary for In-
+vestment Security at the Department of Treasury and former As-
+sistant Director for Enforcement at the Office of Foreign Assets
+Control; Mr. Eric Lorber, former Senior Advisor to the Undersecre-
+tary for Treasury’s Terrorism and Financial Intelligence Division;
+Mr. Clete Willems, former Deputy National Security Advisor and
+Deputy National Economic Advisor; and Mr. Peter Harrell, former
+Senior Director for International Economic Policy with the Biden
+Administration.
+On January 17, 2024, the Subcommittee on National Security, Il-
+licit Finance, and International Financial Institutions held a hear-
+ing entitled ‘‘International Financing of Nuclear Energy.’’ H.R. 806
+was considered in the hearing. Witnesses were Mr. Nicholas
+McMurray, Managing Director for Nuclear and International Pol-
+icy, ClearPath; Dr. Ben Reinke, Vice President, Global Business
+Development, X-energy; Ms. Maria Korsnick, President and Chief
+Executive Officer, Nuclear Energy Institute; and Mr. Timothy L.
+Judson, Executive Director, Nuclear Information and Resource
+Service.
+119TH CONGRESS
+On February 21, 2025, Representative French Hill (R–AR) intro-
+duced H.R. 1474, the International Nuclear Energy Financing Act
+of 2025, with Representative Ritchie Torres (D–NY) as the original
+cosponsor. Representative Byron Donalds (R–FL) was subsequently
+added as a cosponsor. The bill was referred solely to the Committee
+on Financial Services.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+1474:
+The Full Committee held a hearing on February 25, 2025, titled
+‘‘Examining Policies to Counter China.’’ A discussion draft of the
+bill was considered in the hearing. The following witnesses ap-
+peared: Mr. John Miller, Senior Vice President of Policy, Trust,
+Data, and Technology, and General Counsel of the Information
+Technology Industry Council; Mr. Nicholas McMurray, Managing
+Director of International and Nuclear Policy at ClearPath; Mr.
+John Cassara, a retired United States Treasury Department Spe-
+cial Agent; Mr. Martin Muhleisen, a Nonresident Senior Fellow at
+the GAO Economic Center at the Atlantic Council; and Dr. Rush
+Doshi, the C.V. Starr Senior Fellow for Asian Studies, Director of
+the China Strategy Initiative at the Council on Foreign Relations,
+and an Assistant Professor at Georgetown University. Among the
+discussion regarding financing for nuclear power projects that was
+presented at this hearing, Mr. McMurray testified that Congress
+has a unique opportunity to strengthen American solutions by mod-
+ernizing export and developing financing to support nuclear.
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+6
+The Committee on Financial Services met in open session on
+March 5, 2025 to consider, among others, H.R. 1474.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On March 5, 2025, the Committee ordered H.R. 1474, as amend-
+ed, to be reported favorably to the House by a recorded vote of 39
+yeas to 10 nays, a quorum being present. (Record Vote No. FC–
+023).
+The Committee considered the following amendments to H.R.
+1474:
+• Representative Garbarino (R–NY) offered an Amendment
+in the Nature of a Substitute, which made minor edits and
+technical changes. The amendment was adopted by a voice
+vote.
+• Representative Bill Foster (D–IL) offered an amendment
+(No. 1) that would add language to Section 3, clarifying that
+the United States will only advocate for lifting the prohibition
+on nuclear energy financing for projects that meet or exceed
+the quality standards of the United States or our allied Na-
+tions. The amendment was adopted by a voice vote.
+• Representative Sean Casten (D–IL) offered an amendment
+(No. 2), that would require the U.S. Executive Director at the
+multilateral development banks to prioritize financial and
+technical assistance to support the deployment of energy
+sources such as solar and wind. The amendment was defeated
+in a recorded vote of 19 yeas to 30 nays, a quorum being
+present. (Record Vote No. FC–021).
+• Representative Maxine Waters (D–CA) offered an amend-
+ment (No. 3) that would require the U.S. Executive Director at
+the World Bank to oppose financing for a nuclear project until
+certain policies have been adopted at the bank. The amend-
+ment was defeated in a recorded vote of 19 yeas to 30 nays
+(Record Vote No. FC–022).
+• Representative Brad Sherman (D–CA) offered an amend-
+ment (No. 4) which would have required client countries to
+make specific agreements prior to the removal of prohibitions
+on the generation of nuclear energy. The amendment was with-
+drawn.
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+7
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+100.32RH
+ereh
+9 oilof
+tesffo
+tresnI
+
+8
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+200.32RH
+ereh
+01
+oilof
+tesffo
+tresnI
+
+9
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+300.32RH
+ereh
+11
+oilof
+tesffo
+tresnI
+
+10
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 1474 is to require U.S. rep-
+resentatives at international bodies to advocate for the removal of
+prohibitions against nuclear energy financing and for U.S. officials
+to seek similar policy changes at international financial institu-
+tions.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 1474. However, clause
+3(d)(2)(B) of that Rule provides that this requirement does not
+apply when, as with the present report, the Committee adopts as
+its own the cost estimate for the bill prepared by the Director of
+the Congressional Budget Office.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, the
+cost estimate by the Congressional Budget Office pursuant to sec-
+tion 402 of the Congressional Budget Act of 1974 is provided here-
+in.
+UNFUNDED MANDATES STATEMENT
+Pursuant to Section 423 of the Congressional Budget and Im-
+poundment Control Act of 1974, Pub. L. No. 93–344 (as amended
+by Section 101(a)(2) of the Unfunded Mandates Reform Act of 1995,
+Pub. L. No. 104–4), the Committee adopts as its own the cost esti-
+mate prepared by the Director of the Congressional Budget Office
+(CBO) pursuant to section 402 of the Congressional Budget and Im-
+poundment Control Act of 1974.
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+11
+H.R. 1474 would require the Department of the Treasury to ad-
+vocate for multilateral development banks to provide technical and
+financial assistance to promote the use of nuclear energy in foreign
+countries. Under the bill, the Administration would report on the
+effectiveness of those efforts as part of an existing annual report.
+On the basis of information about similar diplomatic efforts and
+reporting requirements, CBO estimates that implementing the bill
+would cost less than $500,000 over the 2025–2030 period. Such
+spending would be subject to the availability of appropriated funds.
+The CBO staff contact for this estimate is Sunita D’Monte. The
+estimate was reviewed by Christina Hawley Anthony, Deputy Di-
+rector of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+400.32RH
+ereh
+41
+oilof
+tesffo
+tresnI
+
+12
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+The following is a section-by-section analysis of H.R. 1474, the
+International Nuclear Energy Financing Act of 2025:
+Section 1. Short title
+Section 1 provides that the short title is ‘‘International Nuclear
+Energy Financing Act of 2025.’’
+Section 2. Findings
+Congress finds the following:
+• Nuclear power is an emissions-free energy source that pro-
+duces approximately 30 percent of the world’s low-carbon elec-
+tricity. In 2021, 33 countries operated nuclear power plants.
+• The People’s Republic of China and the Russian Federa-
+tion have sought to export nuclear reactors, reports have con-
+cluded that Chinese and Russian nuclear reactors are associ-
+ated with higher safety risk than Western nuclear reactors,
+and financial and operational support for nuclear power can
+extend over decades, allowing Beijing and Moscow to secure
+long-term influence in both advanced and developing econo-
+mies.
+• The Russian Federation is currently building 21 reactors
+outside its borders, while the People’s Republic of China is as-
+sembling more than a third of reactors under construction
+globally.
+• In its report, ‘‘International Status and Prospects for Nu-
+clear Power 2021’’, the International Atomic Energy Agency
+found 28 countries have expressed interest in nuclear power
+and are considering, planning or actively working to include it
+into their energy mix; another 24 Member States participate in
+the Agency’s nuclear infrastructure related activities or are in-
+volved in energy planning projects through the technical co-
+operation program; ten to twelve embarking Member States
+plan to operate nuclear power plants by 2030–2035, rep-
+resenting a potential increase of nearly 30 percent in the num-
+ber of operating countries; and several embarking countries
+have also expressed interest in small modular reactors tech-
+nology.
+• On December 2, 2023, the United States, alongside more
+than 20 other countries, pledged to triple nuclear energy capac-
+ity by 2050 and support the financing of nuclear energy
+through the World Bank and regional development banks to
+encourage the inclusion of nuclear energy in their organiza-
+tions’ energy lending policies as needed, and to actively support
+nuclear power.
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+13
+Section 3. Multilateral development bank support for Nuclear En-
+ergy
+• Amends the International Financial Institutions Act to re-
+quire the Secretary of Treasury to instruct the United States
+Executive Director at the International Bank for Reconstruc-
+tion and Development, the European Bank for Reconstruction
+and Development, and, as the Secretary finds appropriate, any
+other defined multilateral development bank to use the voice,
+vote, and influence of the United States to advocate for—
+—the removal of prohibitions at the respective banks
+against financial and technical assistance for the genera-
+tion and distribution of nuclear energy; and
+—increased internal capacity-building at the respective
+banks for the purpose of assessing—
+D the potential role of nuclear energy in the energy
+systems of client countries; and
+D the delivery of financial and technical assistance
+described in the bill to the countries.
+Section 4. Establishment of Nuclear Energy Assistance Trust Funds
+• Amends the International Financial Institutions Act to re-
+quire the Secretary of the Treasury to instruct the United
+States Governors of the International Bank for Reconstruction
+and Development, the European Bank for Reconstruction and
+Development, and, as appropriate, other defined international
+financial institutions to use the voice, vote, and influence of the
+United States to establish at each such institution a trust fund
+to be known as the ‘Nuclear Energy Assistance Trust Fund’ to:
+—provide financial and technical assistance to support
+the generation and distribution of nuclear energy in bor-
+rowing countries;
+—ensure that the international financial institution
+makes financing available on competitive terms, including
+for the purpose of countering credit extended by the gov-
+ernment of a country that is not a member of the OECD
+Arrangement on Officially Supported Export Credits;
+—exclusively support the adoption of nuclear energy
+technologies that meet or exceed the quality standards
+prevalent in the United States or a country allied with the
+United States; and
+—strengthen the capacity of the international financial
+institution to assess, implement, and evaluate nuclear en-
+ergy projects.
+• Requires revenues of such a trust fund be made available
+for activities described above, or that the United States share
+of the revenues be remitted to the general fund of the Treas-
+ury.
+• Prohibits this section from being interpreted to affect the
+ability of the United States Governor of, or the United States
+Executive Director at, a defined international financial institu-
+tion to encourage the provision of financial or technical assist-
+ance from non-trust fund resources of the institution to support
+the generation or distribution of nuclear energy.
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+14
+Section 5. Inclusion in an Annual Report
+• Requires, during the seven-year period that begins with
+the date of enactment of this Act, the Chairman of the Na-
+tional Advisory Council on International Monetary and Finan-
+cial Policies to include in the annual report required by section
+1701 of the International Financial Institutions Act a descrip-
+tion of any progress made—
+• to promote defined multilateral development bank assist-
+ance for nuclear energy; and
+—to establish a trust fund pursuant to section 1507 of
+such Act or a summary of the activities of any such trust
+fund.
+Section 6. Sunset
+• Sunsets this Act and the amendments made by this Act
+beginning 10 years after the date of the enactment.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+INTERNATIONAL FINANCIAL INSTITUTIONS ACT
+* * * * * * *
+TITLE XV—OTHER POLICIES
+* * * * * * *
+SEC. 1506. MULTILATERAL DEVELOPMENT BANK SUPPORT FOR NU-
+CLEAR ENERGY.
+The Secretary of the Treasury shall instruct the United States Ex-
+ecutive Director at the International Bank for Reconstruction and
+Development, the European Bank for Reconstruction and Develop-
+ment, and, as the Secretary finds appropriate, any other multilat-
+eral development bank (as defined in section 1307(g)) to use the
+voice, vote, and influence of the United States to advocate for—
+(1) the removal of prohibitions at the respective bank against
+financial and technical assistance for the generation and dis-
+tribution of nuclear energy, to the extent that the prohibitions
+apply to nuclear technologies that meet or exceed the quality
+standards prevalent in the United States or a country allied
+with the United States; and
+(2) increased internal capacity-building at the respective bank
+for the purpose of assessing—
+(A) the potential role of nuclear energy in the energy sys-
+tems of client countries; and
+(B) the delivery of financial and technical assistance de-
+scribed in paragraph (1) to the countries.
+SEC. 1507. ESTABLISHMENT OF NUCLEAR ENERGY ASSISTANCE TRUST
+FUNDS.
+(a) IN GENERAL.—The Secretary of the Treasury shall instruct the
+United States Governors of the International Bank for Reconstruc-
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00014 Fmt 6659 Sfmt 6603 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+15
+tion and Development, the European Bank for Reconstruction and
+Development, and, as the Secretary deems appropriate, other inter-
+national financial institutions (as defined in section 1701(c)(2)) to
+use the voice, vote, and influence of the United States to establish
+at each such institution a trust fund to be known as the ‘‘Nuclear
+Energy Assistance Trust Fund’’ that meets the requirements of sub-
+sections (b) and (c) of this section.
+(b) PURPOSES.—The purposes of such a trust fund shall be the fol-
+lowing:
+(1) To provide financial and technical assistance to support
+the generation and distribution of nuclear energy in borrowing
+countries.
+(2) To ensure that the international financial institution
+makes financing available on competitive terms, including for
+the purpose of countering credit extended by the government of
+a country that is not a member of the OECD Arrangement on
+Officially Supported Export Credits.
+(3) To exclusively support the adoption of nuclear energy tech-
+nologies that meet or exceed the quality standards prevalent in
+the United States or a country allied with the United States.
+(4) To strengthen the capacity of the international financial
+institution to assess, implement, and evaluate nuclear energy
+projects.
+(c) USE OF TRUST FUND REVENUES.—The revenues of such a trust
+fund shall be made available for activities for the purposes de-
+scribed in subsection (b), or the United States share of the revenues
+shall be remitted to the general fund of the Treasury, as the Sec-
+retary finds appropriate.
+(d) RULE OF INTERPRETATION.—This section shall not be inter-
+preted to affect the ability of the United States Governor of, or the
+United States Executive Director at, an international financial insti-
+tution (as so defined) to encourage the provision of financial or tech-
+nical assistance from non-trust fund resources of the institution to
+support the generation or distribution of nuclear energy.
+* * * * * * *
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00015 Fmt 6659 Sfmt 6601 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+MINORITY VIEWS
+This bill would attempt to require the multilateral development
+banks (MDBs) to reverse their longstanding prohibitions on public
+subsidies for nuclear energy. The MDBs do not currently fund
+these nuclear power generation projects because of both unique
+safety and national security concerns, and requiring them to fund
+these projects would come at the expense of readily available alter-
+native forms of energy generation and over the objections of local
+communities around the world.
+As history has shown, accidents at nuclear plants can cause dan-
+gerous levels of radiation to be released in nearby communities.
+For example, in 2011, an earthquake cut off external power to Ja-
+pan’s Fukushima Daiichi nuclear reactors and the subsequent tsu-
+nami disabled backup diesel generators. The damage to three of the
+reactor cores contaminated a wide area surrounding the plant,
+forced the evacuation of nearly half a million residents, and led to
+Japan reducing its use of nuclear power.1 The accident sparked
+protests in other nations considering nuclear power generation
+projects.2
+There are also substantial risks associated with the storage of
+spent nuclear fuel, the major component of the radioactive waste
+produced by nuclear reactors. According to the U.S. Nuclear Regu-
+latory Commission, waste from nuclear reactors is a long-term
+problem because ‘‘they produce fatal radiation doses during short
+periods of direct exposure. For example, 10 years after removal
+from a reactor, the surface dose rate for a typical spent fuel assem-
+bly exceeds 10,000 rem/hour—far greater than the fatal whole-body
+dose for humans of about 500 rem received all at once. If isotopes
+from these high-level wastes get into groundwater or rivers, they
+may enter food chains. The dose produced through this indirect ex-
+posure would be much smaller than a direct-exposure dose, but a
+much larger population could be exposed.’’3 Even the wealthiest of
+nations, like those in the European Union, have trouble with find-
+ing permanent sites to store their nuclear waste.4
+Further, traditionally, the poorest neighborhoods and commu-
+nities of color suffer disproportionate effects of nuclear waste, con-
+struction, and testing.5 For example, in completing the Manhattan
+Project, the U.S. displaced American Indian and non-Indian resi-
+dents off of their Washington-state land, with wholly insufficient
+compensation for the forced move.6 When the U.S. Army was en-
+1Union of Concerned Scientists, A Brief History of Nuclear Accidents Worldwide (Oct. 1, 2013).
+2Hurriyet Daily News, N. Karanfil, Protest marks ground breaking ceremony for Turkey’s first
+nuclear power plant (Apr. 15, 2025); Al Jazeera, A. Abuqudairi, Jordan nuclear battle heats up
+(Apr. 14. 2014).
+3U.S. NRC, Backgrounder on Radioactive Waste (Accessed Mar. 2, 2025).
+4Politico, K. Oroschakoff, M. Solletty, Burying the atom: Europe struggles to dispose of nuclear
+waste (Jul. 19, 2017).
+5Ibid. Note 3.
+6Ibid. Note 4.
+(16)
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00016 Fmt 6604 Sfmt 6604 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+17
+gaging in radiation testing in the 1950s and 1960s, residents of St.
+Louis’ Black public housing complex, Pruitt-Igoe Housing, were un-
+wittingly subjected to toxic spraying in their community.7 The
+same disparities continue to exist today in the U.S. as new sites
+for construction and waste are contemplated. One study found that
+African-American populations were found in disproportionately
+greater numbers to live within a 50-mile radius of nuclear plants
+than white populations who were more likely to live beyond the 50-
+mile mark.8 There are, thus, ongoing concerns that these ‘‘nuclear
+frontline communities’’9 may be determined by which communities
+are the least capable of fighting back against the risks associated
+with those decisions.10 This concern extends to developing coun-
+tries, sometimes desperate for foreign investment dollars, which
+may be more vulnerable to requests from wealthier nations to ac-
+cept imported radioactive waste for storage, thus dumping this
+dangerous remnant of the power generation process on the poorest
+of global communities.
+Importantly, spent fuel can also be reprocessed into weapons-us-
+able plutonium.11 ‘‘Dirty bombs’’ and other unauthorized uses of
+nuclear waste can lead to illness, death, environmental damage,
+and other significant and long-term socio-economic costs.12 As stat-
+ed by the author of the World Nuclear Waste Report, ‘‘We are talk-
+ing about time frames that are beyond the human scale of what we
+can think of. We still don’t know where to put the waste safely in
+a way that nobody will get harmed, that it is not vulnerable to ter-
+rorist attacks, that it is not being stolen to build nuclear bombs.’’13
+Notably, while the bill does require that its newly established
+Trust Fund, ‘‘support the adoption of nuclear energy technologies
+that meet or exceed the quality standards prevalent in the United
+States or a country allied with the United States,’’ the current ad-
+ministration is already working to gut those standards. In his first
+month in office, President Trump declared, via executive order,14
+that the Nuclear Regulatory Commission will no longer be viewed
+by his Administration as an independent agency.15 This is despite
+being established as such by Congress to ensure the safe use of ra-
+dioactive materials for civilian purposes, while protecting people
+and the environment, free from political and industry influence.16
+Demonstrating the importance of this independence was the
+Fukushima accident’s investigation report, which determined, ‘‘The
+TEPCO Fukushima Nuclear Power Plant accident was the result of
+7Gizmodo, D. T. O’Shea, Did the Army’s Secret Radiation Experiments Sabotage a Housing
+Project? (Dec. 8, 2022).
+8Stanford University, A. Adebagbo, Environmental Injustice: Racism Behind Nuclear Energy
+(Mar. 26, 2018).
+9Union of Concerned Scientists, What Are Nuclear Frontline Communities? (Mar. 23, 2022).
+10International Journal of Environmental Research and Public Health, D. Kyn, B. Bolin,
+Emerging Environmental Justice Issues in Nuclear Power and Radioactive Contamination (Jul.
+2016).
+11Nuclear Threat Initiative, C. Ferguson, Risks of Civilian Plutonium Programs (Jun. 30,
+2004); Center for Arms Control and Non-Proliferation, Fact Sheet: Nuclear Proliferation Risks
+in Nuclear Energy Programs (Mar. 2021).
+12Time, S. Shuster, Inside the Uranium Underworld: Dark Secrets, Dirty Bombs (Apr. 10,
+2017); GAO, Issues Summary: Security of Radioactive Materials (Accessed Mar. 2, 2025).
+13DW.com, A. Niranjan, What happens to nuclear waste from power plants? (Nov. 13, 2019).
+14White House, Ensuring Accountability for All Agencies (Feb. 18, 2025).
+15E&E, Politico, A.J. Delgado, Trump’s executive order puts nuclear safety at risk, experts
+warn (Feb. 24. 2025).
+16Bulletin of the Atomic Scientists, A. Macfarlane, Trump just assaulted the independence of
+the nuclear regulator. What could go wrong? (Feb. 21, 2025).
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00017 Fmt 6604 Sfmt 6604 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+18
+collusion between the government, the regulators and TEPCO, and
+the lack of governance by said parties.’’17 The Trump Administra-
+tion rush towards a ‘‘long-awaited nuclear renaissance,’’18 has also
+resulted in two other executive orders designed to reverse agency
+actions which ‘‘impose an undue burden on the identification, de-
+velopment or use of . . . nuclear energy resources’’19 and to facili-
+tate the movement and use of uranium for the generation of nu-
+clear power.20 We know, too, that Trump, Elon Musk, and their
+‘‘Department of Government Efficiency’’ have haphazardly fired or
+urged nuclear scientists and safety staff to resign,21 closed a nu-
+clear waste disposal office,22 and illegally dismissed the Congres-
+sionally mandated Inspector Generals at the Departments of En-
+ergy and Interior as well as the Environmental Protection Agen-
+cy.23
+Finally, the price tag for the construction of a new nuclear power
+plant is upwards of tens of billions of dollars,24 a significant portion
+of which comes from the plant’s construction.25 Some of the con-
+struction cost is due to the timeline: It can take decades to develop
+nuclear power projects26 and further costs can accrue from unex-
+pected lengthy delays in a project’s financing.27 There are notable
+nuclear power projects in the U.S. that have experienced signifi-
+cant time and cost overruns.28 The two newest Vogtle plant reac-
+tors, for example, were started in Georgia in 2009 and expected to
+come online by 2017 at a cost of $14 billion.29 The project was not
+completed, however, until 2024 and cost close to $35 billion.30
+Given these considerations, financially constrained MDBs must
+make choices regarding which energy infrastructure projects to
+prioritize, especially if funding nuclear energy projects might re-
+quire a reduction in funding renewable energy projects, such as
+solar and wind-powered options. Support for such projects could
+also curtail funding opportunities in other sectors addressed by the
+MDBs, such as nutrition, education, healthcare, and sanitation.
+During the markup, Rep. Casten (D–IL) proposed an amendment
+that would mandate that the MDBs prioritize financial and tech-
+nical assistance to the development of zero-emission energy sources
+and infrastructure, including nuclear, hydroelectricity, solar, wind,
+17The National Diet of Japan, The official report of The Fukushima Nuclear Accident Inde-
+pendent Investigation Commission: Executive Summary (2012).
+18Dept. of Energy, Secretary Wright Acts to ‘‘Unleash Golden Era of American Energy Domi-
+nance’’ (Feb. 5, 2025).
+19White House, Unleashing American Energy (Jan. 20, 2025).
+20White House, Declaring a National Energy Emergency (Jan. 20, 2025).
+21New York Times, S. LaFraniere, M. Kim, J. Tate, DOGE Cuts Reach Key Nuclear Scientists,
+Bomb Engineers and Safety Experts (Mar. 17, 2025).
+22E&E News, Politico, R. Bravender, H. Richards, J. Yachnin, DOGE ditches environmental
+offices nationwide (Mar. 5, 2025).
+23E&E News, Politico, M. Quin˜ones, K. Bogardus, Trump fires agency watchdogs, sparks par-
+tisan rancor (Jan. 27, 2025).
+24Our World of Energy, What does it cost to build a nuclear power plant? (Aug. 21, 2023);
+Synapse Energy Economics, Inc. D. Schlissel, B. Biewald, Nuclear Power Plant Construction
+Costs (Jul. 2008).
+25Construction Physics, B. Potter, Why Are Nuclear Power Construction Costs so High? Part
+I (Jun. 9, 2022).
+26Climate Central, Challenges to nuclear energy growth (Accessed Mar. 2, 2025).
+27World Nuclear Association, Economics of Nuclear Power (Aug. 2022).
+28Ibid.
+29Business Insider, 2 nuclear reactors that can power 1 million US homes with clean, sustain-
+able energy is $21 billion over budget and years behind schedule, (Dec. 19, 2023).
+30AP News, A second new nuclear reactor is completed in Georgia. The carbon-free power
+comes at a high price (Apr. 29, 2024).
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00018 Fmt 6604 Sfmt 6604 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk
+
+19
+geothermal, marine energy, energy storage, electricity trans-
+mission. This amendment was rejected by Republicans. Rep.
+Waters (D–CA) proposed an amendment that would delay the fi-
+nancing of nuclear energy financial and technical assistance at
+each MDB until they individually adopt policies that: 1) obtain the
+consent of local communities and civil society organizations prior to
+providing nuclear financing; 2) require a comprehensive plan ad-
+dressing the disposal of spent nuclear fuel and hazardous waste;
+and 3) permit private rights of action related to project-related
+damages. This amendment was also rejected by the majority.
+H.R. 1474 is opposed by Nuclear Information & Resource Service
+(NIRS), the Union of Concerned Scientists, Public Citizen, and
+Friends of the Earth.
+For all of these reasons, we also oppose H.R. 1474.
+Sincerely,
+MAXINE WATERS,
+Ranking Member.
+AL GREEN,
+RASHIDA TLAIB,
+CLEO FIELDS,
+JOYCE BEATTY,
+SYLVIA R. GARCIA,
+Members of Congress.
+Æ
+VerDate Sep 11 2014 16:10 Apr 04, 2025 Jkt 059008 PO 00000 Frm 00019 Fmt 6604 Sfmt 6611 E:\HR\OC\HR023.XXX HR023
+STROPER
+htiw
+DORP441S7W9KSD
+no
+dnommahk

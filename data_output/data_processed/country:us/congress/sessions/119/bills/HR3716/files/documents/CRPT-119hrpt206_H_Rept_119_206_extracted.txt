@@ -1,0 +1,3409 @@
+Title: JULY15, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JULY15, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 16
+Source: documents - H. Rept. 119-206
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–206
+SYSTEMIC RISK AUTHORITY TRANSPARENCY ACT
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+[To accompany H.R. 3716]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 3716) to amend the Federal Deposit Insurance Act to re-
+quire reports on the use of the systemic risk authority applicable
+to winding up a failed insured depository institution, and for other
+purposes, having considered the same, reports favorably thereon
+with an amendment and recommends that the bill as amended do
+pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 3
+Background and Need for Legislation .................................................................... 4
+Committee Consideration ........................................................................................ 4
+Related Hearings ..................................................................................................... 4
+Committee Votes ...................................................................................................... 5
+Committee Oversight Findings ............................................................................... 7
+Performance Goals and Objectives ......................................................................... 7
+Committee Cost Estimate ....................................................................................... 7
+New Budget Authority and CBO Cost Estimate ................................................... 7
+Unfunded Mandates Statement .............................................................................. 7
+Earmark Statement ................................................................................................. 7
+Federal Advisory Committee Act Statement ......................................................... 7
+Applicability to the Legislative Branch ................................................................. 8
+Duplication of Federal Programs ............................................................................ 8
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 8
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Systemic Risk Authority Transparency Act’’.
+SEC. 2. BANK FAILURE TRANSPARENCY RELATED TO SYSTEMIC RISK EXCEPTION.
+(a) GAO REVIEW.—Section 13(c)(4)(G)(iv) of the Federal Deposit Insurance Act (12
+U.S.C. 1823(c)(4)(G)(iv)) is amended to read as follows:
+‘‘(iv) GAO REVIEW.—
+‘‘(I) IN GENERAL.—The Comptroller General of the United States
+shall, not later than 60 days after a determination is made under
+clause (i), and again 180 days thereafter, review and report to the
+Congress on the determination under clause (i), including—
+‘‘(aa) the basis for the determination;
+‘‘(bb) the purpose for which any action was taken pursuant
+to such clause;
+‘‘(cc) the likely effect of the determination and such action on
+the incentives and conduct of insured depository institutions
+and uninsured depositors;
+‘‘(dd) any mismanagement by the executives and board of the
+insured depository institution that contributed to the failure of
+the insured depository institution;
+‘‘(ee) a review of the compensation practices of the insured
+depository institution;
+‘‘(ff) any supervisory or regulatory shortcomings with respect
+to the appropriate Federal banking agency of the insured de-
+pository institution;
+‘‘(gg) any actions taken by the Federal banking regulators,
+Financial Stability Oversight Council, Department of the
+Treasury, and other relevant financial regulators in relation to
+the failure of the insured depository institution; and
+‘‘(hh) any additional relevant entities or activities that may
+have contributed to the failure of the insured depository insti-
+tution, including with respect to auditing, accounting, credit
+rating agencies, investment bank underwriters, and emergency
+liquidity options such as loans from the Federal reserve banks
+or advances through the Federal Home Loan Bank system.
+‘‘(II) RULE OF CONSTRUCTION.—Nothing in this clause or a report
+issued pursuant to this clause may be construed to limit the au-
+thority of a Federal agency to enforce violations of Federal stat-
+utes, rules, or orders.’’.
+(b) APPROPRIATEFEDERALBANKINGAGENCYREPORT.—Section 13(c) of the Federal
+Deposit Insurance Act (12 U.S.C. 1823(c)) is amended by adding at the end the fol-
+lowing:
+‘‘(12) APPROPRIATEFEDERALBANKINGAGENCYREPORT.—
+‘‘(A) INGENERAL.—The appropriate Federal banking agency of an insured
+depository institution about which a determination is made under para-
+graph (4)(G)(i) shall, not later than 90 days after the date of such deter-
+mination, and again 210 days thereafter, submit a report to the Congress
+that discloses the following:
+‘‘(i) Subject to such redactions as the appropriate Federal banking
+agency determines appropriate of personally identifiable information
+about customers and other financial institutions (as such term is de-
+fined under section 11(e)(9)(D)), all—
+‘‘(I) reports of examination and inspection that relate to the
+failed insured depository institution in the previous 3-year period;
+‘‘(II) formal communications of a material supervisory determina-
+tion conveyed to the failed insured depository institution in the
+previous 3-year period; and
+‘‘(III) any additional exam reports and correspondence that the
+appropriate Federal banking agency determines may be relevant to
+the failure of the insured depository institution.
+‘‘(ii) An examination of any mismanagement by the executives and
+board of the insured depository institution that contributed to the fail-
+ure of the insured depository institution.
+‘‘(iii) Any supervisory or regulatory shortcomings by such appropriate
+Federal banking agency with respect to the insured depository institu-
+tion.
+‘‘(iv) Any dynamics that the appropriate Federal banking agency de-
+termines may have contributed to the failure of the insured depository
+institution.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+‘‘(v) Any supervisory, regulatory, or legislative recommendations such
+appropriate Federal banking agency may have to improve the safety
+and soundness of similarly situated insured depository institutions, the
+banking system, and financial stability.
+‘‘(B) PROTECTIONOFSENSITIVEINFORMATION.—
+‘‘(i) EFFECT ON PRIVILEGE.—The provision of any information by a
+Federal banking agency under this paragraph may not be construed
+as—
+‘‘(I) waiving, destroying, or otherwise affecting any privilege ap-
+plicable to the information; or
+‘‘(II) waiving any exemption applicable to the information under
+
+Section 4:
+section 552 of title 5, United States Code (commonly known as the
+‘Freedom of Information Act’).
+‘‘(ii) TRANSPARENCY.—
+‘‘(I) IN GENERAL.—A Federal banking agency shall publish mate-
+rials contained in a report required under subparagraph (A) to the
+fullest extent possible to promote transparency.
+‘‘(II) CONSULTATIONONOMITTINGMATERIALS.—If a Federal bank-
+ing agency determines particular materials described under sub-
+clause (I) should not be published, the Federal banking agency
+shall consult with the chair and ranking member of the Committee
+on Financial Services of the House of Representatives and the
+chair and ranking member of the Committee on Banking, Housing,
+and Urban Affairs of the Senate.
+‘‘(III) OMITTING MATERIALS.—If, after the consultation required
+under subclause (II), the Federal banking agency determines there
+is a substantial public interest in not publishing such materials,
+the Federal banking agency shall provide those materials to the
+Committee on Financial Services of the House of Representatives
+and the Committee on Banking, Housing, and Urban Affairs of the
+Senate with a written explanation describing the reasons for not
+publishing those materials.
+‘‘(iii) PRIVILEGE.—For purposes of this subparagraph, the term ‘privi-
+lege’ includes any work-product, attorney-client, or other privilege rec-
+ognized under Federal or State law.
+‘‘(C) REPORT EXTENSION.—A Federal banking agency may extend a dead-
+line described under subparagraph (A) for an additional 60 days, if the Fed-
+eral banking agency—
+‘‘(i) faces ongoing circumstances that require the Federal banking
+agency to prioritize activities to promote stability of the U.S. banking
+system; and
+‘‘(ii) notifies the Congress of such extension and the reasons for such
+extension.
+‘‘(D) CONSOLIDATEDREPORTS.—A Federal banking agency may consolidate
+multiple reports required under this paragraph so long as the individual re-
+ports being consolidated all meet the timing requirements under this para-
+graph.
+‘‘(E) RULE OF CONSTRUCTION.—Nothing in this paragraph or reports or
+materials provided pursuant to this paragraph may be construed to limit
+the authority of a Federal agency to enforce violations of Federal statutes,
+rules, or orders.’’.
+PURPOSE AND SUMMARY
+H.R. 3716, the Systemic Risk Authority Transparency Act, was
+introduced on June 4, 2025, by Representative Al Green (TX–09).
+H.R. 3716 requires the Government Accountability Office (GAO)
+and appropriate Federal banking regulators to issue timely public
+reports when the Federal Deposit Insurance Corporation (FDIC) in-
+vokes the systemic risk exception under section 13(c)(4)(G) of the
+Federal Deposit Insurance Act. These reports must include a de-
+tailed analysis of the causes of the bank failure, regulatory and su-
+pervisory actions taken, and any shortcomings in management
+oversight or regulatory response.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+BACKGROUND AND NEED FOR LEGISLATION
+Introduced in response to the spring 2023 bank failures, the bill
+formalizes a dual-reporting process that occurred after the col-
+lapses of Silicon Valley Bank (SVB) and Signature Bank. H.R. 3716
+requires both the Government Accountability Office (GAO) and ap-
+propriate Federal banking regulators to issue reports when the
+Federal Deposit Insurance Corporation (FDIC) invokes the sys-
+temic risk exception.
+In drafting an earlier iteration of H.R. 3716, Committee Demo-
+crats addressed concerns raised by Republicans that GAO’s inde-
+pendent findings should be prioritized ahead of regulatory agency
+reports to avoid the appearance of biased narratives. This concern
+stemmed from perceptions that the Federal Reserve’s post-SVB re-
+view lacked sufficient objectivity. The bill enhances transparency
+and accountability by ensuring that both independent and regu-
+latory perspectives are provided in a timely and structured man-
+ner. This legislation also accommodates reasonable extensions to
+reporting deadlines and includes confidentiality protections to safe-
+guard sensitive supervisory and proprietary information, ensuring
+that public transparency does not compromise financial stability or
+regulatory integrity.
+COMMITTEE CONSIDERATION
+119TH CONGRESS
+On June 4, 2025, Representative Green introduced H.R. 3716,
+the Systemic Risk Authority Transparency Act. The bill was re-
+ferred solely to the Committee on Financial Services. The bill was
+attached to the June 5, 2025, hearing titled ‘‘Framework for the
+Future: Reviewing Data Privacy in Today’s Financial System.’’
+On June 10, 2025, the Committee on Financial Services met in
+open session to consider, among others, H.R. 3716. The Committee
+ordered H.R. 3716, as amended, to be favorably reported to the
+House of Representatives.
+118TH CONGRESS
+On June 14, 2023, Representative Green introduced H.R. 4116,
+the Systemic Risk Authority Transparency Act with Representatives
+Brad Sherman (D–CA), and Joyce Beatty (D–OH) as original co-
+sponsors. The bill is an earlier iteration of H.R. 3716. The bill was
+referred solely to the Committee on Financial Services. On April
+17, 2024, the Committee on Financial Services ordered H.R. 4116
+to be favorably reported to the House of Representatives by a re-
+corded vote of 50 yeas and 0 nays.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+3716:
+The Financial Institutions Subcommittee of the Committee on Fi-
+nancial Services held a June 5, 2025, hearing titled ‘‘Framework
+for the Future: Reviewing Data Privacy in Today’s Financial Sys-
+tem.’’ A discussion draft version of the bill was attached to the
+hearing. The following witnesses testified at the hearing: Mr. Scott
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+5
+Talbott, Executive Vice President, Electronic Transactions Associa-
+tion; Mr. Andrew Morris, Director of Innovation and Technology,
+America’s Credit Unions; Ms. Rebecca Kuehn, Partner, Hudson
+Cook, LLP; Ms. Jennnifer Huddleston, Fellow in Technology Policy,
+Cato Institute; and Ms. Zoe Strickland, Senior Fellow, Future of
+Privacy Forum.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On June 10, 2025, the Committee ordered H.R. 3716, as amend-
+ed, to be reported favorably to the House by a recorded vote of 51
+yeas and 0 nays, a quorum being present. (Record Vote No. FC–
+170).
+Before the question to report was called, the Committee adopted
+an amendment in the nature of a substitute, designated
+GREETEl043, which made minor edits and technical changes, of-
+fered by Representative Green. The amendment was adopted by
+voice vote, a quorum being present.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+6
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 5:
+100.602RH
+ereh
+8
+oilof
+tesffo
+tresnI
+7
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 3716 is to enhance trans-
+parency and accountability by requiring timely, public reports on
+the use of the systemic risk exception authority.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 3716. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of rule XIII of the Rules of the House of Representatives,
+the Committee will adopt as its own the cost estimate by the Direc-
+tor of the Congressional Budget Office once it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+8
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+
+Section 6:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 7:
+Section 1. Short title
+
+Section 8:
+Section 1 provides the short title is the ‘‘Systemic Risk Authority
+Transparency Act.’’
+
+Section 9:
+Section 2. Bank failure transparency related to systemic risk excep-
+tion.
+
+Section 10:
+Section 2 outlines new requirements for public reporting and ac-
+countability when the systemic risk exception is used. It directs the
+Government Accountability Office (GAO) to submit two inde-
+pendent reports to Congress—one within 60 days and another
+within 180 days—following such a determination. These reports
+must include an evaluation of the basis for the systemic risk deter-
+mination, the impact on depositor and institutional behavior, any
+mismanagement at the failed bank, and potential regulatory or su-
+pervisory failures. The GAO must also assess the actions of rel-
+evant financial regulators and other contributing factors, such as
+auditors, credit rating agencies, and emergency lending sources.
+This section also requires the appropriate Federal banking agen-
+cy (such as the FDIC, OCC, or Federal Reserve) to submit two sep-
+arate reports—within 90 and 210 days of the systemic risk deter-
+mination. These reports must include redacted supervisory docu-
+ments from the prior three years, analysis of executive and board
+mismanagement, identification of agency oversight failures, and
+recommendations to strengthen regulatory practices. Agencies are
+required to make these materials public to the greatest extent pos-
+sible, with procedures for withholding sensitive content in consulta-
+tion with Congressional committee leadership. Extensions of up to
+60 days are permitted in cases of systemic risk, and agencies may
+consolidate reports if statutory deadlines are met. Finally, the bill
+affirms that none of the reporting requirements affect the enforce-
+ment authority of any federal agency.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+9
+and existing law in which no change is proposed is shown in
+roman):
+FEDERAL DEPOSIT INSURANCE ACT
+* * * * * * *
+SEC. 13. (a) INVESTMENT OF CORPORATION’S FUNDS.—
+(1) AUTHORITY.—Funds held in the Deposit Insurance Fund
+or the FSLIC Resolution Fund, that are not otherwise em-
+ployed shall be invested in obligations of the United States or
+in obligations guaranteed as to principal and interest by the
+United States.
+(2) LIMITATION.—The Corporation shall not sell or purchase
+any obligations described in paragraph (1) for its own account,
+at any one time aggregating in excess of $100,000, without the
+approval of the Secretary of the Treasury. The Secretary may
+approve a transaction or class of transactions subject to the
+provisions of this paragraph under such conditions as the Sec-
+retary may determine.
+(b) The depository accounts of the Corporation shall be kept with
+the Treasurer of the United States, or, with the approval of the
+Secretary of the Treasury, with a Federal Reserve bank, or with a
+depository institution designated as a depositary or fiscal agent of
+the United States: Provided, That the Secretary of the Treasury
+may waive the requirements of this subsection under such condi-
+tions as he may determine: And provided further, That this sub-
+
+Section 11:
+section shall not apply to the establishment and maintenance in
+any depository institution for temporary purposes of depository ac-
+counts not in excess of $50,000 in any one depository institution,
+or to the establishment and maintenance in any depository institu-
+tion of any depository accounts to facilitate the payment of insured
+desposits, or the making of loans to, or the purchase of assets of,
+insured depository institutions. When designated for that purpose
+by the Secretary of the Treasury, the Corporation shall be a deposi-
+tary of public moneys, except receipts from customs, under such
+regulations as may be prescribed by the said Secretary, and may
+also be employed as a financial agent of the Government. It shall
+perform all such reasonable duties as depositary of public moneys
+and financial agent of the Government as may be required of it.
+(c)(1) The Corporation is authorized, in its sole discretion and
+upon such terms and conditions as the Board of Directors may pre-
+scribe, to make loans to, to make deposits in, to purchase the as-
+sets or securities of, to assume the liabilities of, or to make con-
+tributions to, any insured depository institution—
+(A) if such action is taken to prevent the default of such in-
+sured depository institution;
+(B) if, with respect to an insured bank in default, such action
+is taken to restore such insured bank to normal operation; or
+(C) if, when severe financial conditions exist which threaten
+the stability of a significant number of insured depository insti-
+tutions or of insured depository institutions possessing signifi-
+cant financial resources, such action is taken in order to lessen
+the risk to the Corporation posed by such insured depository
+institution under such threat of instability.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+10
+(2)(A) In order to facilitate a merger or consolidation of another
+insured depository institution described in subparagraph (B) with
+another insured depository institution or the sale of any or all of
+the assets of such insured depository institution or the assumption
+of any or all of such insured depository institution’s liabilities by
+another insured depository institution, or the acquisition of the
+stock of such insured depository institution, the Corporation is au-
+thorized, in its sole discretion and upon such terms and conditions
+as the Board of Directors may prescribe—
+(i) to purchase any such assets or assume any such liabil-
+ities;
+(ii) to make loans or contributions to, or deposits in, or pur-
+chase the securities of, such insured institution or the company
+which controls or will acquire control of such insured institu-
+tion;
+(iii) to guarantee such insured institution or the company
+which controls or will acquire control of such insured institu-
+tion against loss by reason of such insured institution’s merg-
+ing or consolidating with or assuming the liabilities and pur-
+chasing the assets of such insured depository institution or by
+reason of such company acquiring control of such insured de-
+pository institution; or
+(iv) to take any combination of the actions referred to in sub-
+paragraphs (i) through (iii).
+(B) For the purpose of subparagraph (A), the insured depository
+institution must be an insured depository institution—
+(i) which is in default;
+(ii) which, in the judgment of the Board of Directors, is in
+danger of default; or
+(iii) which, when severe financial conditions exist which
+threaten the stability of a significant number of insured deposi-
+tory institutions or of insured depository institutions pos-
+sessing significant financial resources, is determined by the
+Corporation, in its sole discretion, to require assistance under
+subparagraph (A) in order to lessen the risk to the Corporation
+posed by such insured depository institution under such threat
+of instability.
+(C) Any action to which the Corporation is or becomes a
+party by acquiring any asset or exercising any other authority
+set forth in this section shall be stayed for a period of 60 days
+at the request of the Corporation.
+(3) The Corporation may provide any person acquiring control of,
+merging with, consolidating with or acquiring the assets of an in-
+sured depository institution under subsection (f) or (k) of this sec-
+tion with such financial assistance as it could provide an insured
+institution under this subsection.
+(4) LEAST-COST RESOLUTION REQUIRED.—
+(A) IN GENERAL.—Notwithstanding any other provision
+of this Act, the Corporation may not exercise any authority
+under this subsection or subsection (d), (f), (h), (i), or (k)
+with respect to any insured depository institution unless—
+(i) the Corporation determines that the exercise of
+such authority is necessary to meet the obligation of
+the Corporation to provide insurance coverage for the
+insured deposits in such institution; and
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+11
+(ii) the total amount of the expenditures by the Cor-
+poration and obligations incurred by the Corporation
+(including any immediate and long-term obligation of
+the Corporation and any direct or contingent liability
+for future payment by the Corporation) in connection
+with the exercise of any such authority with respect to
+such institution is the least costly to the Deposit In-
+surance Fund of all possible methods for meeting the
+Corporation’s obligation under this section.
+(B) DETERMINING LEAST COSTLY APPROACH.—In deter-
+mining how to satisfy the Corporation’s obligations to an
+institution’s insured depositors at the least possible cost to
+the Deposit Insurance Fund, the Corporation shall comply
+with the following provisions:
+(i) PRESENT-VALUE ANALYSIS; DOCUMENTATION RE-
+QUIRED.—The Corporation shall—
+(I) evaluate alternatives on a present-value
+basis, using a realistic discount rate;
+(II) document that evaluation and the assump-
+tions on which the evaluation is based, including
+any assumptions with regard to interest rates,
+asset recovery rates, asset holding costs, and pay-
+ment of contingent liabilities; and
+(III) retain the documentation for not less than
+5 years.
+(ii) FOREGONE TAX REVENUES.—Federal tax revenues
+that the Government would forego as the result of a
+proposed transaction, to the extent reasonably ascer-
+tainable, shall be treated as if they were revenues
+foregone by the Deposit Insurance Fund.
+(C) TIME OF DETERMINATION.—
+(i) GENERAL RULE.—For purposes of this subsection,
+the determination of the costs of providing any assist-
+ance under paragraph (1) or (2) or any other provision
+of this section with respect to any depository institu-
+tion shall be made as of the date on which the Cor-
+poration makes the determination to provide such as-
+sistance to the institution under this section.
+(ii) RULE FOR LIQUIDATIONS.—For purposes of this
+subsection, the determination of the costs of liquida-
+tion of any depository institution shall be made as of
+the earliest of—
+(I) the date on which a conservator is appointed
+for such institution;
+(II) the date on which a receiver is appointed for
+such institution; or
+(III) the date on which the Corporation makes
+any determination to provide any assistance
+under this section with respect to such institution.
+(D) LIQUIDATION COSTS.—In determining the cost of liq-
+uidating any depository institution for the purpose of com-
+paring the costs under subparagraph (A) (with respect to
+such institution), the amount of such cost may not exceed
+the amount which is equal to the sum of the insured de-
+posits of such institution as of the earliest of the dates de-
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+12
+scribed in subparagraph (C), minus the present value of
+the total net amount the Corporation reasonably expects to
+receive from the disposition of the assets of such institu-
+tion in connection with such liquidation.
+(E) DEPOSIT INSURANCE FUND AVAILABLE FOR INTENDED
+PURPOSE ONLY.—
+(i) IN GENERAL.—After December 31, 1994, or at
+such earlier time as the Corporation determines to be
+appropriate, the Corporation may not take any action,
+directly or indirectly, with respect to any insured de-
+pository institution that would have the effect of in-
+creasing losses to the Deposit Insurance Fund by pro-
+tecting—
+(I) depositors for more than the insured portion
+of deposits (determined without regard to whether
+such institution is liquidated); or
+(II) creditors other than depositors.
+(ii) DEADLINE FOR REGULATIONS.—The Corporation
+shall prescribe regulations to implement clause (i) not
+later than January 1, 1994, and the regulations shall
+take effect not later than January 1, 1995.
+(iii) PURCHASE AND ASSUMPTION TRANSACTIONS.—No
+provision of this subparagraph shall be construed as
+prohibiting the Corporation from allowing any person
+who acquires any assets or assumes any liabilities of
+any insured depository institution for which the Cor-
+poration has been appointed conservator or receiver to
+acquire uninsured deposit liabilities of such institution
+so long as the insurance fund does not incur any loss
+with respect to such deposit liabilities in an amount
+greater than the loss which would have been incurred
+with respect to such liabilities if the institution had
+been liquidated.
+(F) DISCRETIONARY DETERMINATIONS.—Any determina-
+tion which the Corporation may make under this para-
+graph shall be made in the sole discretion of the Corpora-
+tion.
+(G) SYSTEMIC RISK.—
+(i) EMERGENCY DETERMINATION BY SECRETARY OF
+THE TREASURY.—Notwithstanding subparagraphs (A)
+and (E), if, upon the written recommendation of the
+Board of Directors (upon a vote of not less than two-
+thirds of the members of the Board of Directors) and
+the Board of Governors of the Federal Reserve System
+(upon a vote of not less than two-thirds of the mem-
+bers of such Board), the Secretary of the Treasury (in
+consultation with the President) determines that—
+(I) the Corporation’s compliance with subpara-
+graphs (A) and (E) with respect to an insured de-
+pository institution for which the Corporation has
+been appointed receiver would have serious ad-
+verse effects on economic conditions or financial
+stability; and
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+13
+(II) any action or assistance under this subpara-
+graph would avoid or mitigate such adverse ef-
+fects,
+the Corporation may take other action or provide as-
+sistance under this section for the purpose of winding
+up the insured depository institution for which the
+Corporation has been appointed receiver as necessary
+to avoid or mitigate such effects.
+(ii) REPAYMENT OF LOSS.—
+(I) IN GENERAL.—The Corporation shall recover
+the loss to the Deposit Insurance Fund arising
+from any action taken or assistance provided with
+respect to an insured depository institution under
+clause (i) from 1 or more special assessments on
+insured depository institutions, depository institu-
+tion holding companies (with the concurrence of
+the Secretary of the Treasury with respect to hold-
+ing companies), or both, as the Corporation deter-
+mines to be appropriate.
+(II) TREATMENT OF DEPOSITORY INSTITUTION
+HOLDING COMPANIES.—For purposes of this clause,
+
+Section 12:
+sections 7(c)(2) and 18(h) shall apply to depository
+institution holding companies as if they were in-
+sured depository institutions.
+(III) REGULATIONS.—The Corporation shall pre-
+scribe such regulations as it deems necessary to
+implement this clause. In prescribing such regula-
+tions, defining terms, and setting the appropriate
+assessment rate or rates, the Corporation shall es-
+tablish rates sufficient to cover the losses incurred
+as a result of the actions of the Corporation under
+clause (i) and shall consider: the types of entities
+that benefit from any action taken or assistance
+provided under this subparagraph; economic con-
+ditions, the effects on the industry, and such other
+factors as the Corporation deems appropriate and
+relevant to the action taken or the assistance pro-
+vided. Any funds so collected that exceed actual
+losses shall be placed in the Deposit Insurance
+Fund.
+(iii) DOCUMENTATION REQUIRED.—The Secretary of
+the Treasury shall—
+(I) document any determination under clause (i);
+and
+(II) retain the documentation for review under
+clause (iv).
+ø(iv) GAO REVIEW.—The Comptroller General of the
+United States shall review and report to the Congress
+on any determination under clause (i), including—
+ø(I) the basis for the determination;
+ø(II) the purpose for which any action was
+taken pursuant to such clause; and
+ø(III) the likely effect of the determination and
+such action on the incentives and conduct of in-
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+14
+sured depository institutions and uninsured de-
+positors.¿
+(iv) GAO REVIEW.—
+(I) IN GENERAL.—The Comptroller General of the
+United States shall, not later than 60 days after a
+determination is made under clause (i), and again
+180 days thereafter, review and report to the Con-
+gress on the determination under clause (i), includ-
+ing—
+(aa) the basis for the determination;
+(bb) the purpose for which any action was
+taken pursuant to such clause;
+(cc) the likely effect of the determination and
+such action on the incentives and conduct of
+insured depository institutions and uninsured
+depositors;
+(dd) any mismanagement by the executives
+and board of the insured depository institution
+that contributed to the failure of the insured
+depository institution;
+(ee) a review of the compensation practices of
+the insured depository institution;
+(ff) any supervisory or regulatory short-
+comings with respect to the appropriate Fed-
+eral banking agency of the insured depository
+institution;
+(gg) any actions taken by the Federal bank-
+ing regulators, Financial Stability Oversight
+Council, Department of the Treasury, and
+other relevant financial regulators in relation
+to the failure of the insured depository institu-
+tion; and
+(hh) any additional relevant entities or ac-
+tivities that may have contributed to the fail-
+ure of the insured depository institution, in-
+cluding with respect to auditing, accounting,
+credit rating agencies, investment bank under-
+writers, and emergency liquidity options such
+as loans from the Federal reserve banks or ad-
+vances through the Federal Home Loan Bank
+system.
+(II) RULE OF CONSTRUCTION.—Nothing in this
+clause or a report issued pursuant to this clause
+may be construed to limit the authority of a Fed-
+eral agency to enforce violations of Federal stat-
+utes, rules, or orders.
+(v) NOTICE.—
+(I) IN GENERAL.—Not later than 3 days after
+making a determination under clause (i), the Sec-
+retary of the Treasury shall provide written notice
+of any determination under clause (i) to the Com-
+mittee on Banking, Housing, and Urban Affairs of
+the Senate and the Committee on Banking, Fi-
+nance and Urban Affairs of the House of Rep-
+resentatives.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+15
+(II) DESCRIPTION OF BASIS OF DETERMINATION.—
+The notice under subclause (I) shall include a de-
+scription of the basis for any determination under
+clause (i).
+(H) RULE OF CONSTRUCTION.—No provision of law
+shall be construed as permitting the Corporation to
+take any action prohibited by paragraph (4) unless
+such provision expressly provides, by direct reference
+to this paragraph, that this paragraph shall not apply
+with respect to such action.
+(5) The Corporation may not use its authority under this sub-
+
+Section 13:
+section to purchase the voting or common stock of an insured de-
+pository institution. Nothing in the preceding sentence shall be
+construed to limit the ability of the Corporation to enter into and
+enforce covenants and agreements that it determines to be nec-
+essary to protect its financial interest.
+(6)(A) During any period in which an insured depository institu-
+tion has received assistance under this subsection and such assist-
+ance is still outstanding, such insured depository institution may
+defer the payment of any State or local tax which is determined on
+the basis of the deposits held by such insured depository institution
+or of the interest or dividends paid on such deposits.
+(B) When such insured depository institution no longer has any
+outstanding assistance, such insured depository institution shall
+pay all taxes which were deferred under subparagraph (A). Such
+payments shall be made in accordance with a payment plan estab-
+lished by the Corporation, after consultation with the applicable
+State and local taxing authorities.
+(7) The transfer of any assets or liabilities associated with any
+trust business of an insured depository institution in default under
+subparagraph (2)(A) shall be effective without any State or Federal
+approval, assignment, or consent with respect thereto.
+(8) ASSISTANCE BEFORE APPOINTMENT OF CONSERVATOR OR
+RECEIVER.—
+(A) IN GENERAL.—Subject to the least-cost provisions of
+paragraph (4), the Corporation shall consider providing di-
+rect financial assistance under this section for depository
+institutions before the appointment of a conservator or re-
+ceiver for such institution only under the following cir-
+cumstances:
+(i) TROUBLED CONDITION CRITERIA.—The Corporation
+determines—
+(I) grounds for the appointment of a conservator
+or receiver exist or likely will exist in the future
+unless the depository institution’s capital levels
+are increased; and
+(II) it is unlikely that the institution can meet
+all currently applicable capital standards without
+assistance.
+(ii) OTHER CRITERIA.—The depository institution
+meets the following criteria:
+(I) The appropriate Federal banking agency and
+the Corporation have determined that, during
+such period of time preceding the date of such de-
+termination as the agency or the Corporation con-
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+16
+siders to be relevant, the institution’s manage-
+ment has been competent and has complied with
+applicable laws, rules, and supervisory directives
+and orders.
+(II) The institution’s management did not en-
+gage in any insider dealing, speculative practice,
+or other abusive activity.
+(B) PUBLIC DISCLOSURE.—Any determination under this
+paragraph to provide assistance under this section shall be
+made in writing and published in the Federal Register.
+(9) Any assistance provided under this subsection may be in sub-
+ordination to the rights of depositors and other creditors.
+(10) In its annual report to the Congress, the Corporation shall
+report the total amount it has saved, or estimates it has saved, by
+exercising the authority provided in this subsection.
+(11) UNENFORCEABILITY OF CERTAIN AGREEMENTS.—No provi-
+sion contained in any existing or future standstill, confiden-
+tiality, or other agreement that, directly or indirectly—
+(A) affects, restricts, or limits the ability of any person
+to offer to acquire or acquire,
+(B) prohibits any person from offering to acquire or ac-
+quiring, or
+(C) prohibits any person from using any previously dis-
+closed information in connection with any such offer to ac-
+quire or acquisition of,
+all or part of any insured depository institution, including any
+liabilities, assets, or interest therein, in connection with any
+transaction in which the Corporation exercises its authority
+under section 11 or 13, shall be enforceable against or impose
+any liability on such person, as such enforcement or liability
+shall be contrary to public policy.
+(12) APPROPRIATE FEDERAL BANKING AGENCY REPORT.—
+(A) IN GENERAL.—The appropriate Federal banking agen-
+cy of an insured depository institution about which a deter-
+mination is made under paragraph (4)(G)(i) shall, not later
+than 90 days after the date of such determination, and
+again 210 days thereafter, submit a report to the Congress
+that discloses the following:
+(i) Subject to such redactions as the appropriate Fed-
+eral banking agency determines appropriate of person-
+ally identifiable information about customers and other
+financial institutions (as such term is defined under
+
+Section 14:
+section 11(e)(9)(D)), all—
+(I) reports of examination and inspection that re-
+late to the failed insured depository institution in
+the previous 3-year period;
+(II) formal communications of a material super-
+visory determination conveyed to the failed insured
+depository institution in the previous 3-year period;
+and
+(III) any additional exam reports and cor-
+respondence that the appropriate Federal banking
+agency determines may be relevant to the failure of
+the insured depository institution.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6659 Sfmt 6603 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+17
+(ii) An examination of any mismanagement by the
+executives and board of the insured depository institu-
+tion that contributed to the failure of the insured de-
+pository institution.
+(iii) Any supervisory or regulatory shortcomings by
+such appropriate Federal banking agency with respect
+to the insured depository institution.
+(iv) Any dynamics that the appropriate Federal
+banking agency determines may have contributed to
+the failure of the insured depository institution.
+(v) Any supervisory, regulatory, or legislative rec-
+ommendations such appropriate Federal banking agen-
+cy may have to improve the safety and soundness of
+similarly situated insured depository institutions, the
+banking system, and financial stability.
+(B) PROTECTION OF SENSITIVE INFORMATION.—
+(i) EFFECT ON PRIVILEGE.—The provision of any in-
+formation by a Federal banking agency under this
+paragraph may not be construed as—
+(I) waiving, destroying, or otherwise affecting
+any privilege applicable to the information; or
+(II) waiving any exemption applicable to the in-
+formation under section 552 of title 5, United
+States Code (commonly known as the ‘‘Freedom of
+Information Act’’).
+(ii) TRANSPARENCY.—
+(I) IN GENERAL.—A Federal banking agency
+shall publish materials contained in a report re-
+quired under subparagraph (A) to the fullest extent
+possible to promote transparency.
+(II) CONSULTATION ON OMITTING MATERIALS.—If
+a Federal banking agency determines particular
+materials described under subclause (I) should not
+be published, the Federal banking agency shall
+consult with the chair and ranking member of the
+Committee on Financial Services of the House of
+Representatives and the chair and ranking mem-
+ber of the Committee on Banking, Housing, and
+Urban Affairs of the Senate.
+(III) OMITTING MATERIALS.—If, after the con-
+sultation required under subclause (II), the Fed-
+eral banking agency determines there is a substan-
+tial public interest in not publishing such mate-
+rials, the Federal banking agency shall provide
+those materials to the Committee on Financial
+Services of the House of Representatives and the
+Committee on Banking, Housing, and Urban Af-
+fairs of the Senate with a written explanation de-
+scribing the reasons for not publishing those mate-
+rials.
+(iii) PRIVILEGE.—For purposes of this subparagraph,
+the term ‘‘privilege’’ includes any work-product, attor-
+ney-client, or other privilege recognized under Federal
+or State law.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00017 Fmt 6659 Sfmt 6603 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+18
+(C) REPORT EXTENSION.—A Federal banking agency may
+extend a deadline described under subparagraph (A) for an
+additional 60 days, if the Federal banking agency—
+(i) faces ongoing circumstances that require the Fed-
+eral banking agency to prioritize activities to promote
+stability of the U.S. banking system; and
+(ii) notifies the Congress of such extension and the
+reasons for such extension.
+(D) CONSOLIDATED REPORTS.—A Federal banking agency
+may consolidate multiple reports required under this para-
+graph so long as the individual reports being consolidated
+all meet the timing requirements under this paragraph.
+(E) RULE OF CONSTRUCTION.—Nothing in this paragraph
+or reports or materials provided pursuant to this para-
+graph may be construed to limit the authority of a Federal
+agency to enforce violations of Federal statutes, rules, or or-
+ders.
+(d) SALE OF ASSETS TO CORPORATION.—
+(1) IN GENERAL.–Any conservator, receiver, or liquidator ap-
+pointed for any insured depository institution in default, in-
+cluding the Corporation acting in such capacity, shall be enti-
+tled to offer the assets of such depository institutions for sale
+to the Corporation or as security for loans from the Corpora-
+tion.
+(2) PROCEEDS.—The proceeds of every sale or loan of assets
+to the Corporation shall be utilized for the same purposes and
+in the same manner as other funds realized from the liquida-
+tion of the assets of such depository institutions.
+(3) RIGHTS AND POWERS OF CORPORATION.—
+(A) IN GENERAL.—With respect to any asset acquired or
+liability assumed pursuant to this section, the Corporation
+shall have all of the rights, powers, privileges, and authori-
+ties of the Corporation as receiver under sections 11 and
+15(b).
+(B) RULE OF CONSTRUCTION.—Such rights, powers, privi-
+leges, and authorities shall be in addition to and not in
+derogation of any rights, powers, privileges, and authori-
+ties otherwise applicable to the Corporation.
+(C) FIDUCIARY RESPONSIBILITY.—In exercising any right,
+power, privilege, or authority described in subparagraph
+(A), the Corporation shall continue to be subject to the fi-
+duciary duties and obligations of the Corporation as re-
+ceiver to claimants against the insured depository institu-
+tion in receivership.
+(D) DISPOSITION OF ASSETS.—In exercising any right,
+power, privilege, or authority described in subparagraph
+(A) regarding the sale or disposition of assets sold to the
+Corporation pursuant to paragraph (1), the Corporation
+shall conduct its operations in a manner which—
+(i) maximizes the net present value return from the
+sale or disposition of such assets;
+(ii) minimizes the amount of any loss realized in the
+resolution of cases;
+(iii) ensures adequate competition and fair and con-
+sistent treatment of offerors;
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00018 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+19
+(iv) prohibits discrimination on the basis of race,
+sex, or ethnic groups in the solicitation and consider-
+ation of offers; and
+(v) maximizes the preservation of the availability
+and affordability of residential real property for low-
+and moderate-income individuals.
+(4) LOANS.—The Corporation, in its discretion, may make
+loans on the security of or may purchase and liquidate or sell
+any part of the assets of an insured depository institution
+which is now or may hereafter be in default.
+(e) AGREEMENTS AGAINST INTERESTS OF CORPORATION.—
+(1) IN GENERAL.—No agreement which tends to diminish or
+defeat the interest of the Corporation in any asset acquired by
+it under this section or section 11, either as security for a loan
+or by purchase or as receiver of any insured depository institu-
+tion, shall be valid against the Corporation unless such agree-
+ment—
+(A) is in writing,
+(B) was executed by the depository institution and any
+person claiming an adverse interest thereunder, including
+the obligor, contemporaneously with the acquisition of the
+asset by the depository institution,
+(C) was approved by the board of directors of the deposi-
+tory institution or its loan committee, which approval shall
+be reflected in the minutes of said board or committee, and
+(D) has been, continuously, from the time of its execu-
+tion, an official record of the depository institution.
+(2) EXEMPTIONS FROM CONTEMPORANEOUS EXECUTION RE-
+QUIREMENT.—An agreement to provide for the lawful
+collateralization of—
+(A) deposits of, or other credit extension by, a Federal,
+State, or local governmental entity, or of any depositor re-
+ferred to in section 11(a)(2), including an agreement to pro-
+vide collateral in lieu of a surety bond;
+(B) bankruptcy estate funds pursuant to section
+345(b)(2) of title 11, United States Code;
+(C) extensions of credit, including any overdraft, from a
+Federal reserve bank or Federal home loan bank; or
+(D) one or more qualified financial contracts, as defined
+in section 11(e)(8)(D),
+shall not be deemed invalid pursuant to paragraph (1)(B) solely
+because such agreement was not executed contemporaneously
+with the acquisition of the collateral or because of pledges, de-
+livery, or substitution of the collateral made in accordance with
+such agreement.
+(f) ASSISTED EMERGENCY INTERSTATE ACQUISITIONS.—(1) This
+subsection shall apply only to an acquisition of an insured bank or
+a holding company by an out-of-State bank savings association or
+out-of-State holding company for which the Corporation provides
+assistance under subsection (c).
+(2)(A) Whenever an insured bank with total assets of
+$500,000,000 or more (as determined from its most recent report of
+condition) is in default, the Corporation, as receiver, may, in its
+discretion and upon such terms and conditions as the Corporation
+may determine, arrange the sale of assets of the closed bank and
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00019 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+20
+the assumption of the liabilities of the closed bank, including the
+sale of such assets to and the assumption of such liabilities by an
+insured depository institution located in the State where the closed
+bank was chartered but established by an out-of-State bank or
+holding company. Where otherwise lawfully required, a transaction
+under this subsection must be approved by the primary Federal or
+State supervisor of all parties thereto.
+(B)(i) Before making a determination to take any action under
+subparagraph (A), the Corporation shall consult the State bank su-
+pervisor of the State in which the insured bank in default was
+chartered.
+(ii) The State bank supervisor shall be given a reasonable oppor-
+tunity, and in no event less than forty-eight hours, to object to the
+use of the provisions of this paragraph. Such notice may be pro-
+vided by the Corporation prior to its appointment as receiver, but
+in anticipation of an impending appointment.
+(iii) If the State supervisor objects during such period, the Cor-
+poration may use the authority of this paragraph only by a vote of
+75 percent of the Board of Directors. The Board of Directors shall
+provide to the State supervisor, as soon as practicable, a written
+certification of its determination.
+(3) EMERGENCY INTERSTATE ACQUISITIONS OF INSURED BANKS IN
+DANGER OF DEFAULT.—
+(A) ACQUISITION OF INSURED BANKS IN DANGER OF DE-
+FAULT.—One or more out-of-State banks or out-of-State holding
+companies may acquire and retain all or part of the shares or
+assets of, or otherwise acquire and retain—
+(i) an insured bank in danger of default which has total
+assets of $500,000,000 or more; or
+(ii) 2 or more affiliated insured banks in danger of de-
+fault which have aggregate total assets of $500,000,000 or
+more, if the aggregate total assets of such banks is equal
+to or greater than 33 percent of the aggregate total assets
+of all affiliated insured banks.
+(B) ACQUISITION OF A HOLDING COMPANY OR OTHER BANK AF-
+FILIATE.—If one or more out-of-State banks or out-of-State
+holding companies acquire 1 or more affiliated insured banks
+under subparagraph (A) the aggregate total assets of which is
+equal to or greater than 33 percent of the aggregate total as-
+sets of all affiliated insured banks, any such out-of-State bank
+or out-of-State holding company may also, as part of the same
+transaction, acquire and retain the shares or assets of, or oth-
+erwise acquire and retain—
+(i) the holding company which controls the affiliated in-
+sured banks so acquired; or
+(ii) any other affiliated insured bank.
+(C) REQUEST FOR ASSISTANCE BY CORPORATE BOARD OF DIREC-
+TORS.—The Corporation may assist an acquisition or merger
+authorized under subparagraph (A) only if the board of direc-
+tors or trustees of each insured bank in danger of default
+which is being acquired has requested in writing that the Cor-
+poration assist the acquisition or merger.
+(D) CERTAIN ACQUISITIONS AUTHORIZED AFTER ASSISTANCE IS
+PROVIDED.—Notwithstanding paragraph (1), if—
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00020 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+21
+(i) at any time after the date of the enactment of the Fi-
+nancial Institutions Emergency Acquisitions Amendments
+of 1987, the Corporation provides any assistance under
+subsection (c) to an insured bank; and
+(ii) at the time such assistance is granted, the insured
+bank, the holding company which controls the insured
+bank (if any), or any affiliated insured bank is eligible to
+be acquired by an out-of-State bank or out-of-State holding
+company under this paragraph,
+the insured bank, the holding company, and such other affili-
+ated insured bank shall remain eligible, subject to such terms
+and conditions as the Corporation (in the Corporation’s discre-
+tion) may impose, to be acquired by an out-of-State bank or
+out-of-State holding company under this paragraph as long as
+any portion of such assistance remains outstanding.
+(E) STATE BANK SUPERVISOR APPROVAL.—The Corporation
+may take no final action in connection with any acquisition
+under this paragraph unless the State bank supervisor of the
+State in which the bank in danger of default is located ap-
+proves the acquisition.
+(F) OTHER REQUIREMENTS NOT AFFECTED.—This paragraph
+does not affect any other requirement under Federal or State
+law for regulatory approval of an acquisition under this para-
+graph.
+(G) ACQUISITION MAY BE CONDITIONED ON RECEIPT OF CON-
+SIDERATION FOR CORPORATION’S ASSISTANCE.—Any acquisition
+described in subparagraph (D) may be conditioned on the re-
+ceipt of such consideration for the Corporation’s assistance as
+the Board of Directors deems appropriate.
+(4)(A) ACQUISITIONS NOT SUBJECT TO CERTAIN OTHER LAWS.—
+
+Section 15:
+Section 3(d) of the Bank Holding Company Act of 1956, any provi-
+sion of State law, and section 408(e)(3) of the National Housing Act
+shall not apply to prohibit any acquisition under paragraph (2) or
+(3), except that an out-of-State bank may make such an acquisition
+only if such ownership is otherwise specifically authorized.
+(B) Any subsidiary created by operation of this subsection may
+retain and operate any existing branch or branches of the institu-
+tion merged with or acquired under paragraph (2) or (3), but other-
+wise shall be subject to the conditions upon which a national bank
+may establish and operate branches in the State in which such in-
+sured institution is located.
+(C) No insured institution acquired under this subsection shall
+after it is acquired move its principal office or any branch office
+which it would be prohibited from moving if the institution were
+a national bank.
+(D) SUBSEQUENT NONEMERGENCY INTERSTATE ACQUISITIONS SUB-
+JECT TO STATE LAW.—
+(i) IN GENERAL.—Any out-of-State bank holding company
+which acquires control of an insured bank in any State under
+paragraph (2) or (3) may acquire any other insured bank and
+establish branches in such State to the same extent as a bank
+holding company whose insured bank subsidiaries’ operations
+are principally conducted in such State may acquire any other
+insured bank or establish branches.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00021 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+22
+(ii) DELAYED DATE OF APPLICABILITY.—Clause (i) shall not
+apply with respect to any out-of-State bank holding company
+referred to in such clause before the earlier of—
+(I) the end of the 2-year period beginning on the date the
+acquisition referred to in such clause with respect to such
+company is consummated; or
+(II) the end of any period established under State law
+during which such out-of-State bank holding company may
+not be treated as a bank holding company whose insured
+bank subsidiaries’ operations are principally conducted in
+such State for purposes of acquiring other insured banks
+or establishing bank branches.
+(iii) DETERMINATION OF PRINCIPALLY CONDUCTED.—For pur-
+poses of this subparagraph, the State in which the operations
+of a holding company’s insured bank subsidiaries are prin-
+cipally conducted is the State determined under section 3(d) of
+the Bank Holding Company Act of 1956 with respect to such
+holding company.
+(E) CERTAIN STATE INTERSTATE BANKING LAWS INAPPLICABLE.—
+Any holding company which acquires control of any insured bank
+or holding company under paragraph (2) or (3) or subparagraph (D)
+of this paragraph shall not, by reason of such acquisition, be re-
+quired under the law of any State to divest any other insured bank
+or be prevented from acquiring any other bank or holding company.
+(5) In determining whether to arrange a sale of assets and as-
+sumption of liabilities or an acquisition or a merger under the au-
+thority of paragraph (2) or (3), the Corporation may solicit such of-
+fers or proposals as are practicable from any prospective pur-
+chasers or merger partners it determines, in its sole discretion, are
+both qualified and capable of acquiring the assets and liabilities of
+the bank in default or the bank in danger of default.
+(6)(A) If, after receiving offers, the offer presenting the lowest ex-
+pense to the Corporation, that is in a form and with conditions ac-
+ceptable to the Corporation (hereinafter referred to as the ‘‘lowest
+acceptable offer’’), is from an offeror that is not an existing in-State
+bank of the same type as the bank that is in default or is in danger
+of default (or, where the bank is an insured bank other than a mu-
+tual savings bank, the lowest acceptable offer is not from an in-
+State holding company), the Corporation shall permit the offeror
+which made the initial lowest acceptable offer and each offeror who
+made an offer the estimated cost of which to the Corporation was
+within 15 per centum or $15,000,000, whichever is less, of the ini-
+tial lowest acceptable offer to submit a new offer.
+(B) In considering authorizations under this subsection, the Cor-
+poration shall give consideration to the need to minimize the cost
+of financial assistance and to the maintenance of specialized depos-
+itory institutions. The Corporation shall authorize transactions
+under this subsection considering the following priorities:
+(i) First, between depository institutions of the same type
+within the same State.
+(ii) Second, between depository institutions of the same
+type—
+(I) in different States which by statute specifically au-
+thorize such acquisitions; or
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00022 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+23
+(II) in the absence of such statutes, in different States
+which are contiguous.
+(iii) Third, between depository institutions of the same type
+in different States other than the States described in clause
+(ii).
+(iv) Fourth, between depository institutions of different types
+in the same State.
+(v) Fifth, between depository institutions of different types—
+(I) in different States which by statute specifically au-
+thorize such acquisitions; or
+(II) in the absence of such statutes, in different States
+which are contiguous.
+(vi) Sixth, between depository institutions of different types
+in different States other than the States described in clause
+(v).
+(C) MINORITY BANK PRIORITY.—In the case of a minority-con-
+trolled bank, the Corporation shall seek an offer from other minor-
+ity-controlled banks before proceeding with the bidding priorities
+set forth in subparagraph (B).
+(D) In determining the cost of offers and reoffers, the Corpora-
+tion’s calculations and estimations shall be determinative. The Cor-
+poration may set reasonable time limits on offers and reoffers.
+(7) No sale may be made under the provisions of paragraph (2)
+or (3)—
+(A) which would result in a monopoly, or which would be in
+furtherance of any combination or conspiracy to monopolize or
+to attempt to monopolize the business of banking in any part
+of the United States;
+(B) whose effect in any section of the country may be sub-
+stantially to lessen competition, or to tend to create a monop-
+oly, or which in any other manner would be in restraint of
+trade, unless the Corporation finds that the anticompetitive ef-
+fects of the proposed transactions are clearly outweighed in the
+public interest by the probable effect of the transaction in
+meeting the convenience and needs of the community to be
+served; or
+(C) if in the opinion of the Corporation the acquisition
+threatens the safety and soundness of the acquirer or does not
+result in the future viability of the resulting depository institu-
+tion.
+(8) As used in this subsection—
+(A) the term ‘‘in-State depository institution or in-State hold-
+ing company’’ means an existing insured depository institution
+currently operating in the State in which the bank in default
+or the bank in danger of default is chartered or a company that
+is operating an insured depository institution subsidiary in the
+State in which the bank in default or the bank in danger of
+default is chartered;
+(B) the term ‘‘acquire’’ means to acquire, directly or indi-
+rectly, ownership or control through—
+(i) an acquisition of shares;
+(ii) an acquisition of assets or assumption of liabilities;
+(iii) a merger or consolidation; or
+(iv) any similar transaction;
+(C) the term ‘‘affiliated insured bank’’ means—
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00023 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+24
+(i) when used in connection with a reference to a holding
+company, an insured bank which is a subsidiary of such
+holding company; and
+(ii) when used in connection with a reference to 2 or
+more insured banks, insured banks which are subsidiaries
+of the same holding company; and
+(D) the term ‘‘subsidiary’’ has the meaning given to such
+term in section 2(d) of the Bank Holding Company Act of 1956.
+(9) NO ASSISTANCE AUTHORIZED FOR CERTAIN SUBSIDIARIES OF
+HOLDING COMPANIES.—
+(A) IN GENERAL.—The Corporation shall not provide any as-
+sistance to a subsidiary, other than a subsidiary that is an in-
+sured depository institution, of a holding company in connec-
+tion with any acquisition under this subsection.
+(B) INTERMEDIATE HOLDING COMPANY PERMITTED.—This
+paragraph does not prohibit an intermediate holding company
+or an affiliate of an insured depository institution from being
+a conduit for assistance ultimately intended for an insured
+bank.
+(10) ANNUAL REPORT.—
+(A) REQUIRED.—In its annual report to Congress the Cor-
+poration shall include a report on the acquisitions under this
+subsection during the preceding year.
+(B) CONTENTS.—The report required under subparagraph (A)
+shall contain the following information:
+(i) The number of acquisitions under this subsection.
+(ii) A brief description of each such acquisition and the
+circumstances under which such acquisition occurred.
+(11) DETERMINATION OF TOTAL ASSETS.—For purposes of this
+subsection, the total assets of any insured bank shall be deter-
+mined on the basis of the most recent report of condition of such
+bank which is available at the time of such determination.
+(12) ACQUISITION OF MINORITY BANK BY MINORITY BANK
+HOLDING COMPANY WITHOUT REGARD TO ASSET SIZE.—
+(A) IN GENERAL.—For the purpose of ensuring continued
+minority control of a minority-controlled bank, paragraphs
+(2) and (3) shall apply with respect to the acquisition of a
+minority-controlled bank by an out-of-State minority-con-
+trolled depository institution or depository institution hold-
+ing company without regard to the fact that the total as-
+sets of such minority-controlled bank are less than
+$500,000,000.
+(B) DEFINITIONS.—For purposes of this paragraph:
+(i) MINORITY BANK.—The term ‘‘minority bank’’
+means any depository institution described in clause
+(i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Re-
+serve Act—
+(I) more than 50 percent of the ownership or
+control of which is held by one or more minority
+individuals; and
+(II) more than 50 percent of the net profit or
+loss of which accrues to minority individuals.
+(ii) MINORITY.—The term ‘‘minority’’ means any
+Black American, Native American, Hispanic American,
+or Asian American.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00024 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+25
+(g) Prior to July 1, 1951, the Corporation shall pay out of its cap-
+ital account to the Secretary of the Treasury an amount equal to
+2 per centum simple interest per annum on amounts advanced to
+the Corporation on stock subscriptions by the Secretary of the
+Treasury and the Federal Reserve banks, from the time of such ad-
+vances until the amounts thereof were repaid. The amount payable
+hereunder shall be paid in two equal installments, the first install-
+ment to be paid prior to December 31, 1950.
+(h) The powers conferred on the Board of Directors and the Cor-
+poration by this section to take action to reopen an insured deposi-
+tory institution in default or to avert the default of an insured de-
+pository institution may be used with respect to an insured branch
+of a foreign bank if, in the judgment of the Board of Directors, the
+public interest in avoiding the closing of such branch substantially
+outweighs any additional risk of loss to the Deposit Insurance
+Fund which the exercise of such powers would entail.
+(j) LOAN LOSS AMORTIZATION FOR CERTAIN BANKS.—
+(1) ELIGIBILITY.—The appropriate Federal banking agency
+shall permit an agricultural bank to take the actions referred
+to in paragraph (2) if it finds that—
+(A) there is no evidence that fraud or criminal abuse on
+the part of the bank led to the losses referred to in para-
+graph (2); and
+(B) the agricultural bank has a plan to restore its cap-
+ital, not later than the close of the amortization period es-
+tablished under paragraph (2), to a level prescribed by the
+appropriate Federal banking agency.
+(2) SEVEN-YEAR LOSS AMORTIZATION.—(A) Any loss on any
+qualified agricultural loan that an agricultural bank would
+otherwise be required to show on its annual financial state-
+ment for any year between December 31, 1983, and January 1,
+1992, may be amortized on its financial statements over a pe-
+riod of not to exceed 7 years, as provided in regulations issued
+by the appropriate Federal banking agency.
+(B) An agricultural bank may reappraise any real estate or
+other property, real or personal, that it acquired coincident to
+the making of a qualified agricultural loan and that it owned
+on January 1, 1983, and any such additional property that it
+acquires prior to January 1, 1992. Any loss that such bank
+would otherwise be required to show on its annual financial
+statements as the result of any such reappraisal may be amor-
+tized on its financial statements over a period of not to exceed
+7 years, as provided in regulations issued by the appropriate
+Federal banking agency.
+(3) REGULATIONS.—Not later than 90 days after the date of
+enactment of this subsection, the appropriate Federal banking
+agency shall issue regulations implementing this subsection
+with respect to banks that it supervises, including regulations
+implementing the capital restoration requirement of paragraph
+(1)(B).
+(4) DEFINITIONS.—As used in this subsection—
+(A) the term ‘‘agricultural bank’’ means a bank—
+(i) the deposits of which are insured by the Federal
+Deposit Insurance Corporation;
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00025 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+26
+(ii) which is located in an area the economy of which
+is dependent on agriculture;
+(iii) which has assets of $100,000,000 or less; and
+(iv) which has—
+(I) at least 25 percent of its total loans in quali-
+fied agricultural loans; or
+(II) fewer than 25 percent of its total loans in
+qualified agricultural loans but which the appro-
+priate Federal banking agency or State bank com-
+missioner recommends to the Corporation for eli-
+gibility under this section, or which the Corpora-
+tion, on its motion, deems eligible; and
+(B) the term ‘‘qualified agricultural loan’’ means a loan
+made to finance the production of agricultural products or
+livestock in the United States, a loan secured by farmland
+or farm machinery, or such other category of loans as the
+appropriate Federal banking agency may deem eligible.
+(5) MAINTENANCE OF PORTFOLIO.—As a condition of eligibility
+under this subsection, the agricultural bank must agree to
+maintain in its loan portfolio a percentage of agricultural loans
+which is not lower than the percentage of such loans in its loan
+portfolio on January 1, 1986.
+(k) EMERGENCY ACQUISITIONS.—
+(1) IN GENERAL.—
+(A) ACQUISITIONS AUTHORIZED.—
+(i) TRANSACTIONS DESCRIBED.—Notwithstanding any
+provision of State law, upon determining that severe
+financial conditions threaten the stability of a signifi-
+cant number of savings associations, or of savings as-
+sociations possessing significant financial resources,
+the Corporation, in its discretion and if it determines
+such authorization would lessen the risk to the Cor-
+poration, may authorize—
+(I) a savings association that is eligible for as-
+sistance pursuant to subsection (c) to merge or
+consolidate with, or to transfer its assets and li-
+abilities to, any other savings association or any
+insured bank,
+(II) any other savings association to acquire con-
+trol of such savings association, or
+(III) any company to acquire control of such sav-
+ings association or to acquire the assets or assume
+the liabilities thereof.
+The Corporation may not authorize any transaction
+under this subsection unless the Corporation deter-
+mines that the authorization will not present a sub-
+stantial risk to the safety or soundness of the savings
+association to be acquired or any acquiring entity.
+(ii) TERMS OF TRANSACTIONS.—Mergers, consolida-
+tions, transfers, and acquisitions under this subsection
+shall be on such terms as the Corporation shall pro-
+vide.
+(iii) APPROVAL BY APPROPRIATE AGENCY.—Where oth-
+erwise required by law, transactions under this sub-
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00026 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+27
+
+Section 16:
+section must be approved by the appropriate Federal
+banking agency of every party thereto.
+(iv) ACQUISITIONS BY SAVINGS ASSOCIATIONS.—Any
+Federal savings association that acquires another sav-
+ings association pursuant to clause (i) may, with the
+concurrence of the Comptroller of the Currency, hold
+that savings association as a subsidiary notwith-
+standing the percentage limitations of section
+5(c)(4)(B) of the Home Owners’ Loan Act.S
+(v) DUAL SERVICE.—Dual service by a management
+official that would otherwise be prohibited under the
+Depository Institution Management Interlocks Act
+may, with the approval of the Corporation, continue
+for up to 10 years.
+(vi) CONTINUED APPLICABILITY OF CERTAIN STATE RE-
+STRICTIONS.—Nothing in this subsection overrides or
+supersedes State laws restricting or limiting the ac-
+tivities of a savings association on behalf of another
+entity.
+(B) CONSULTATION WITH STATE OFFICIAL.—
+(i) CONSULTATION REQUIRED.—Before making a de-
+termination to take any action under subparagraph
+(A), the Corporation shall consult the State official
+having jurisdiction of the acquired institution.
+(ii) PERIOD FOR STATE RESPONSE.—The official shall
+be given a reasonable opportunity, and in no event
+less than 48 hours, to object to the use of the provi-
+sions of this paragraph. Such notice may be provided
+by the Corporation prior to its appointment as re-
+ceiver, but in anticipation of an impending appoint-
+ment.
+(iii) APPROVAL OVER OBJECTION OF STATE OFFICIAL.—
+If the official objects during such period, the Corpora-
+tion may use the authority of this paragraph only by
+a vote of 75 percent or more of the voting members of
+the Board of Directors. The Corporation shall provide
+to the official, as soon as practicable, a written certifi-
+cation of its determination.
+(2) SOLICITATION OF OFFERS.—
+(A) IN GENERAL.—In considering authorizations under
+this subsection, the Corporation may solicit such offers or
+proposals as are practicable from any prospective pur-
+chasers or merger partners it determines, in its sole discre-
+tion, are both qualified and capable of acquiring the assets
+and liabilities of the savings association.
+(B) MINORITY-CONTROLLED INSTITUTIONS.—In the case of
+a minority-controlled depository institution, the Corpora-
+tion shall seek an offer from other minority-controlled de-
+pository institutions before seeking an offer from other
+persons or entities.
+(3) DETERMINATION OF COSTS.—In determining the cost of of-
+fers under this subsection, the Corporation’s calculations and
+estimations shall be determinative. The Corporation may set
+reasonable time limits on offers.
+(4) BRANCHING PROVISIONS.—
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00027 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+28
+(A) IN GENERAL.—If a merger, consolidation, transfer, or
+acquisition under this subsection involves a savings asso-
+ciation eligible for assistance and a bank or bank holding
+company, a savings association may retain and operate
+any existing branch or branches or any other existing fa-
+cilities. If the savings association continues to exist as a
+separate entity, it may establish and operate new branches
+to the same extent as any savings association that is not
+affiliated with a bank holding company and the home of-
+fice of which is located in the same State.
+(B) RESTRICTIONS.—
+(i) IN GENERAL.—Notwithstanding subparagraph (A),
+if—
+(I) a savings association described in such sub-
+paragraph does not have its home office in the
+State of the bank holding company bank sub-
+sidiary, and
+(II) such association does not qualify as a do-
+mestic building and loan association under section
+7701(a)(19) of the Internal Revenue Code of 1986,
+or does not meet the asset composition test im-
+posed by subparagraph (C) of that section on insti-
+tutions seeking so to qualify,
+such savings association shall be subject to the condi-
+tions upon which a bank may retain, operate, and es-
+tablish branches in the State in which the savings as-
+sociation is located.
+(ii) TRANSITION PERIOD.—The Corporation, for good
+cause shown, may allow a savings association up to 2
+years to comply with the requirements of clause (i).
+(5) ASSISTANCE BEFORE APPOINTMENT OF CONSERVATOR OR
+RECEIVER.—
+(A) ASSISTANCE PROPOSALS.—The Corporation shall con-
+sider proposals by savings associations for assistance pur-
+suant to subsection (c) before grounds exist for appoint-
+ment of a conservator or receiver for such member under
+the following circumstances:
+(i) TROUBLED CONDITION CRITERIA.—The Corporation
+determines—
+(I) that grounds for appointment of a conser-
+vator or receiver exist or likely will exist in the fu-
+ture unless the member’s tangible capital is in-
+creased;
+(II) that it is unlikely that the member can
+achieve positive tangible capital without assist-
+ance; and
+(III) that providing assistance pursuant to the
+member’s proposal would be likely to lessen the
+risk to the Corporation.
+(ii) OTHER CRITERIA.—The member meets the fol-
+lowing criteria:
+(I) Before enactment of the Financial Institu-
+tions Reform, Recovery, and Enforcement Act of
+1989, the member was solvent under applicable
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00028 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+29
+regulatory accounting principles but had negative
+tangible capital.
+(II) The member’s negative tangible capital posi-
+tion is substantially attributable to its participa-
+tion in acquisition and merger transactions that
+were instituted by the Federal Home Loan Bank
+Board or the Federal Savings and Loan Insurance
+Corporation for supervisory reasons.
+(III) The member is a qualified thrift lender (as
+defined in section 10(m) of the Home Owners’
+Loan Act) or would be a qualified thrift lender if
+commercial real estate owned and nonperforming
+commercial loans acquired in acquisition and
+merger transactions that were instituted by the
+Federal Home Loan Bank Board or the Federal
+Savings and Loan Insurance Corporation for su-
+pervisory reasons were excluded from the mem-
+ber’s total assets.
+(IV) The appropriate Federal banking agency
+has determined that the member’s management is
+competent and has complied with applicable laws,
+rules, and supervisory directives and orders.
+(V) The member’s management did not engage
+in insider dealing or speculative practices or other
+activities that jeopardized the member’s safety
+and soundness or contributed to its impaired cap-
+ital position.
+(VI) The member’s offices are located in an eco-
+nomically depressed region.
+(B) CORPORATION CONSIDERATION OF ASSISTANCE PRO-
+POSAL.—If a member meets the requirements of clauses (i)
+and (ii) of subparagraph (A), the Corporation shall con-
+sider providing direct financial assistance.
+(C) ECONOMICALLY DEPRESSED REGION DEFINED.—For
+purposes of this paragraph, the term ‘‘economically de-
+pressed region’’ means any geographical region which the
+Corporation determines by regulation to be a region within
+which real estate values have suffered serious decline due
+to severe economic conditions, such as a decline in energy
+or agricultural values or prices.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00029 Fmt 6659 Sfmt 6611 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–206
+SYSTEMIC RISK AUTHORITY TRANSPARENCY ACT
+JULY15, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+[To accompany H.R. 3716]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 3716) to amend the Federal Deposit Insurance Act to re-
+quire reports on the use of the systemic risk authority applicable
+to winding up a failed insured depository institution, and for other
+purposes, having considered the same, reports favorably thereon
+with an amendment and recommends that the bill as amended do
+pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 3
+Background and Need for Legislation .................................................................... 4
+Committee Consideration ........................................................................................ 4
+Related Hearings ..................................................................................................... 4
+Committee Votes ...................................................................................................... 5
+Committee Oversight Findings ............................................................................... 7
+Performance Goals and Objectives ......................................................................... 7
+Committee Cost Estimate ....................................................................................... 7
+New Budget Authority and CBO Cost Estimate ................................................... 7
+Unfunded Mandates Statement .............................................................................. 7
+Earmark Statement ................................................................................................. 7
+Federal Advisory Committee Act Statement ......................................................... 7
+Applicability to the Legislative Branch ................................................................. 8
+Duplication of Federal Programs ............................................................................ 8
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 8
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Systemic Risk Authority Transparency Act’’.
+SEC. 2. BANK FAILURE TRANSPARENCY RELATED TO SYSTEMIC RISK EXCEPTION.
+(a) GAO REVIEW.—Section 13(c)(4)(G)(iv) of the Federal Deposit Insurance Act (12
+U.S.C. 1823(c)(4)(G)(iv)) is amended to read as follows:
+‘‘(iv) GAO REVIEW.—
+‘‘(I) IN GENERAL.—The Comptroller General of the United States
+shall, not later than 60 days after a determination is made under
+clause (i), and again 180 days thereafter, review and report to the
+Congress on the determination under clause (i), including—
+‘‘(aa) the basis for the determination;
+‘‘(bb) the purpose for which any action was taken pursuant
+to such clause;
+‘‘(cc) the likely effect of the determination and such action on
+the incentives and conduct of insured depository institutions
+and uninsured depositors;
+‘‘(dd) any mismanagement by the executives and board of the
+insured depository institution that contributed to the failure of
+the insured depository institution;
+‘‘(ee) a review of the compensation practices of the insured
+depository institution;
+‘‘(ff) any supervisory or regulatory shortcomings with respect
+to the appropriate Federal banking agency of the insured de-
+pository institution;
+‘‘(gg) any actions taken by the Federal banking regulators,
+Financial Stability Oversight Council, Department of the
+Treasury, and other relevant financial regulators in relation to
+the failure of the insured depository institution; and
+‘‘(hh) any additional relevant entities or activities that may
+have contributed to the failure of the insured depository insti-
+tution, including with respect to auditing, accounting, credit
+rating agencies, investment bank underwriters, and emergency
+liquidity options such as loans from the Federal reserve banks
+or advances through the Federal Home Loan Bank system.
+‘‘(II) RULE OF CONSTRUCTION.—Nothing in this clause or a report
+issued pursuant to this clause may be construed to limit the au-
+thority of a Federal agency to enforce violations of Federal stat-
+utes, rules, or orders.’’.
+(b) APPROPRIATEFEDERALBANKINGAGENCYREPORT.—Section 13(c) of the Federal
+Deposit Insurance Act (12 U.S.C. 1823(c)) is amended by adding at the end the fol-
+lowing:
+‘‘(12) APPROPRIATEFEDERALBANKINGAGENCYREPORT.—
+‘‘(A) INGENERAL.—The appropriate Federal banking agency of an insured
+depository institution about which a determination is made under para-
+graph (4)(G)(i) shall, not later than 90 days after the date of such deter-
+mination, and again 210 days thereafter, submit a report to the Congress
+that discloses the following:
+‘‘(i) Subject to such redactions as the appropriate Federal banking
+agency determines appropriate of personally identifiable information
+about customers and other financial institutions (as such term is de-
+fined under section 11(e)(9)(D)), all—
+‘‘(I) reports of examination and inspection that relate to the
+failed insured depository institution in the previous 3-year period;
+‘‘(II) formal communications of a material supervisory determina-
+tion conveyed to the failed insured depository institution in the
+previous 3-year period; and
+‘‘(III) any additional exam reports and correspondence that the
+appropriate Federal banking agency determines may be relevant to
+the failure of the insured depository institution.
+‘‘(ii) An examination of any mismanagement by the executives and
+board of the insured depository institution that contributed to the fail-
+ure of the insured depository institution.
+‘‘(iii) Any supervisory or regulatory shortcomings by such appropriate
+Federal banking agency with respect to the insured depository institu-
+tion.
+‘‘(iv) Any dynamics that the appropriate Federal banking agency de-
+termines may have contributed to the failure of the insured depository
+institution.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+‘‘(v) Any supervisory, regulatory, or legislative recommendations such
+appropriate Federal banking agency may have to improve the safety
+and soundness of similarly situated insured depository institutions, the
+banking system, and financial stability.
+‘‘(B) PROTECTIONOFSENSITIVEINFORMATION.—
+‘‘(i) EFFECT ON PRIVILEGE.—The provision of any information by a
+Federal banking agency under this paragraph may not be construed
+as—
+‘‘(I) waiving, destroying, or otherwise affecting any privilege ap-
+plicable to the information; or
+‘‘(II) waiving any exemption applicable to the information under
+section 552 of title 5, United States Code (commonly known as the
+‘Freedom of Information Act’).
+‘‘(ii) TRANSPARENCY.—
+‘‘(I) IN GENERAL.—A Federal banking agency shall publish mate-
+rials contained in a report required under subparagraph (A) to the
+fullest extent possible to promote transparency.
+‘‘(II) CONSULTATIONONOMITTINGMATERIALS.—If a Federal bank-
+ing agency determines particular materials described under sub-
+clause (I) should not be published, the Federal banking agency
+shall consult with the chair and ranking member of the Committee
+on Financial Services of the House of Representatives and the
+chair and ranking member of the Committee on Banking, Housing,
+and Urban Affairs of the Senate.
+‘‘(III) OMITTING MATERIALS.—If, after the consultation required
+under subclause (II), the Federal banking agency determines there
+is a substantial public interest in not publishing such materials,
+the Federal banking agency shall provide those materials to the
+Committee on Financial Services of the House of Representatives
+and the Committee on Banking, Housing, and Urban Affairs of the
+Senate with a written explanation describing the reasons for not
+publishing those materials.
+‘‘(iii) PRIVILEGE.—For purposes of this subparagraph, the term ‘privi-
+lege’ includes any work-product, attorney-client, or other privilege rec-
+ognized under Federal or State law.
+‘‘(C) REPORT EXTENSION.—A Federal banking agency may extend a dead-
+line described under subparagraph (A) for an additional 60 days, if the Fed-
+eral banking agency—
+‘‘(i) faces ongoing circumstances that require the Federal banking
+agency to prioritize activities to promote stability of the U.S. banking
+system; and
+‘‘(ii) notifies the Congress of such extension and the reasons for such
+extension.
+‘‘(D) CONSOLIDATEDREPORTS.—A Federal banking agency may consolidate
+multiple reports required under this paragraph so long as the individual re-
+ports being consolidated all meet the timing requirements under this para-
+graph.
+‘‘(E) RULE OF CONSTRUCTION.—Nothing in this paragraph or reports or
+materials provided pursuant to this paragraph may be construed to limit
+the authority of a Federal agency to enforce violations of Federal statutes,
+rules, or orders.’’.
+PURPOSE AND SUMMARY
+H.R. 3716, the Systemic Risk Authority Transparency Act, was
+introduced on June 4, 2025, by Representative Al Green (TX–09).
+H.R. 3716 requires the Government Accountability Office (GAO)
+and appropriate Federal banking regulators to issue timely public
+reports when the Federal Deposit Insurance Corporation (FDIC) in-
+vokes the systemic risk exception under section 13(c)(4)(G) of the
+Federal Deposit Insurance Act. These reports must include a de-
+tailed analysis of the causes of the bank failure, regulatory and su-
+pervisory actions taken, and any shortcomings in management
+oversight or regulatory response.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+BACKGROUND AND NEED FOR LEGISLATION
+Introduced in response to the spring 2023 bank failures, the bill
+formalizes a dual-reporting process that occurred after the col-
+lapses of Silicon Valley Bank (SVB) and Signature Bank. H.R. 3716
+requires both the Government Accountability Office (GAO) and ap-
+propriate Federal banking regulators to issue reports when the
+Federal Deposit Insurance Corporation (FDIC) invokes the sys-
+temic risk exception.
+In drafting an earlier iteration of H.R. 3716, Committee Demo-
+crats addressed concerns raised by Republicans that GAO’s inde-
+pendent findings should be prioritized ahead of regulatory agency
+reports to avoid the appearance of biased narratives. This concern
+stemmed from perceptions that the Federal Reserve’s post-SVB re-
+view lacked sufficient objectivity. The bill enhances transparency
+and accountability by ensuring that both independent and regu-
+latory perspectives are provided in a timely and structured man-
+ner. This legislation also accommodates reasonable extensions to
+reporting deadlines and includes confidentiality protections to safe-
+guard sensitive supervisory and proprietary information, ensuring
+that public transparency does not compromise financial stability or
+regulatory integrity.
+COMMITTEE CONSIDERATION
+119TH CONGRESS
+On June 4, 2025, Representative Green introduced H.R. 3716,
+the Systemic Risk Authority Transparency Act. The bill was re-
+ferred solely to the Committee on Financial Services. The bill was
+attached to the June 5, 2025, hearing titled ‘‘Framework for the
+Future: Reviewing Data Privacy in Today’s Financial System.’’
+On June 10, 2025, the Committee on Financial Services met in
+open session to consider, among others, H.R. 3716. The Committee
+ordered H.R. 3716, as amended, to be favorably reported to the
+House of Representatives.
+118TH CONGRESS
+On June 14, 2023, Representative Green introduced H.R. 4116,
+the Systemic Risk Authority Transparency Act with Representatives
+Brad Sherman (D–CA), and Joyce Beatty (D–OH) as original co-
+sponsors. The bill is an earlier iteration of H.R. 3716. The bill was
+referred solely to the Committee on Financial Services. On April
+17, 2024, the Committee on Financial Services ordered H.R. 4116
+to be favorably reported to the House of Representatives by a re-
+corded vote of 50 yeas and 0 nays.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+3716:
+The Financial Institutions Subcommittee of the Committee on Fi-
+nancial Services held a June 5, 2025, hearing titled ‘‘Framework
+for the Future: Reviewing Data Privacy in Today’s Financial Sys-
+tem.’’ A discussion draft version of the bill was attached to the
+hearing. The following witnesses testified at the hearing: Mr. Scott
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+5
+Talbott, Executive Vice President, Electronic Transactions Associa-
+tion; Mr. Andrew Morris, Director of Innovation and Technology,
+America’s Credit Unions; Ms. Rebecca Kuehn, Partner, Hudson
+Cook, LLP; Ms. Jennnifer Huddleston, Fellow in Technology Policy,
+Cato Institute; and Ms. Zoe Strickland, Senior Fellow, Future of
+Privacy Forum.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On June 10, 2025, the Committee ordered H.R. 3716, as amend-
+ed, to be reported favorably to the House by a recorded vote of 51
+yeas and 0 nays, a quorum being present. (Record Vote No. FC–
+170).
+Before the question to report was called, the Committee adopted
+an amendment in the nature of a substitute, designated
+GREETEl043, which made minor edits and technical changes, of-
+fered by Representative Green. The amendment was adopted by
+voice vote, a quorum being present.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+6
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.602RH
+ereh
+8
+oilof
+tesffo
+tresnI
+
+7
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 3716 is to enhance trans-
+parency and accountability by requiring timely, public reports on
+the use of the systemic risk exception authority.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 3716. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of rule XIII of the Rules of the House of Representatives,
+the Committee will adopt as its own the cost estimate by the Direc-
+tor of the Congressional Budget Office once it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+8
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+Section 1 provides the short title is the ‘‘Systemic Risk Authority
+Transparency Act.’’
+Section 2. Bank failure transparency related to systemic risk excep-
+tion.
+Section 2 outlines new requirements for public reporting and ac-
+countability when the systemic risk exception is used. It directs the
+Government Accountability Office (GAO) to submit two inde-
+pendent reports to Congress—one within 60 days and another
+within 180 days—following such a determination. These reports
+must include an evaluation of the basis for the systemic risk deter-
+mination, the impact on depositor and institutional behavior, any
+mismanagement at the failed bank, and potential regulatory or su-
+pervisory failures. The GAO must also assess the actions of rel-
+evant financial regulators and other contributing factors, such as
+auditors, credit rating agencies, and emergency lending sources.
+This section also requires the appropriate Federal banking agen-
+cy (such as the FDIC, OCC, or Federal Reserve) to submit two sep-
+arate reports—within 90 and 210 days of the systemic risk deter-
+mination. These reports must include redacted supervisory docu-
+ments from the prior three years, analysis of executive and board
+mismanagement, identification of agency oversight failures, and
+recommendations to strengthen regulatory practices. Agencies are
+required to make these materials public to the greatest extent pos-
+sible, with procedures for withholding sensitive content in consulta-
+tion with Congressional committee leadership. Extensions of up to
+60 days are permitted in cases of systemic risk, and agencies may
+consolidate reports if statutory deadlines are met. Finally, the bill
+affirms that none of the reporting requirements affect the enforce-
+ment authority of any federal agency.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+9
+and existing law in which no change is proposed is shown in
+roman):
+FEDERAL DEPOSIT INSURANCE ACT
+* * * * * * *
+SEC. 13. (a) INVESTMENT OF CORPORATION’S FUNDS.—
+(1) AUTHORITY.—Funds held in the Deposit Insurance Fund
+or the FSLIC Resolution Fund, that are not otherwise em-
+ployed shall be invested in obligations of the United States or
+in obligations guaranteed as to principal and interest by the
+United States.
+(2) LIMITATION.—The Corporation shall not sell or purchase
+any obligations described in paragraph (1) for its own account,
+at any one time aggregating in excess of $100,000, without the
+approval of the Secretary of the Treasury. The Secretary may
+approve a transaction or class of transactions subject to the
+provisions of this paragraph under such conditions as the Sec-
+retary may determine.
+(b) The depository accounts of the Corporation shall be kept with
+the Treasurer of the United States, or, with the approval of the
+Secretary of the Treasury, with a Federal Reserve bank, or with a
+depository institution designated as a depositary or fiscal agent of
+the United States: Provided, That the Secretary of the Treasury
+may waive the requirements of this subsection under such condi-
+tions as he may determine: And provided further, That this sub-
+section shall not apply to the establishment and maintenance in
+any depository institution for temporary purposes of depository ac-
+counts not in excess of $50,000 in any one depository institution,
+or to the establishment and maintenance in any depository institu-
+tion of any depository accounts to facilitate the payment of insured
+desposits, or the making of loans to, or the purchase of assets of,
+insured depository institutions. When designated for that purpose
+by the Secretary of the Treasury, the Corporation shall be a deposi-
+tary of public moneys, except receipts from customs, under such
+regulations as may be prescribed by the said Secretary, and may
+also be employed as a financial agent of the Government. It shall
+perform all such reasonable duties as depositary of public moneys
+and financial agent of the Government as may be required of it.
+(c)(1) The Corporation is authorized, in its sole discretion and
+upon such terms and conditions as the Board of Directors may pre-
+scribe, to make loans to, to make deposits in, to purchase the as-
+sets or securities of, to assume the liabilities of, or to make con-
+tributions to, any insured depository institution—
+(A) if such action is taken to prevent the default of such in-
+sured depository institution;
+(B) if, with respect to an insured bank in default, such action
+is taken to restore such insured bank to normal operation; or
+(C) if, when severe financial conditions exist which threaten
+the stability of a significant number of insured depository insti-
+tutions or of insured depository institutions possessing signifi-
+cant financial resources, such action is taken in order to lessen
+the risk to the Corporation posed by such insured depository
+institution under such threat of instability.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+10
+(2)(A) In order to facilitate a merger or consolidation of another
+insured depository institution described in subparagraph (B) with
+another insured depository institution or the sale of any or all of
+the assets of such insured depository institution or the assumption
+of any or all of such insured depository institution’s liabilities by
+another insured depository institution, or the acquisition of the
+stock of such insured depository institution, the Corporation is au-
+thorized, in its sole discretion and upon such terms and conditions
+as the Board of Directors may prescribe—
+(i) to purchase any such assets or assume any such liabil-
+ities;
+(ii) to make loans or contributions to, or deposits in, or pur-
+chase the securities of, such insured institution or the company
+which controls or will acquire control of such insured institu-
+tion;
+(iii) to guarantee such insured institution or the company
+which controls or will acquire control of such insured institu-
+tion against loss by reason of such insured institution’s merg-
+ing or consolidating with or assuming the liabilities and pur-
+chasing the assets of such insured depository institution or by
+reason of such company acquiring control of such insured de-
+pository institution; or
+(iv) to take any combination of the actions referred to in sub-
+paragraphs (i) through (iii).
+(B) For the purpose of subparagraph (A), the insured depository
+institution must be an insured depository institution—
+(i) which is in default;
+(ii) which, in the judgment of the Board of Directors, is in
+danger of default; or
+(iii) which, when severe financial conditions exist which
+threaten the stability of a significant number of insured deposi-
+tory institutions or of insured depository institutions pos-
+sessing significant financial resources, is determined by the
+Corporation, in its sole discretion, to require assistance under
+subparagraph (A) in order to lessen the risk to the Corporation
+posed by such insured depository institution under such threat
+of instability.
+(C) Any action to which the Corporation is or becomes a
+party by acquiring any asset or exercising any other authority
+set forth in this section shall be stayed for a period of 60 days
+at the request of the Corporation.
+(3) The Corporation may provide any person acquiring control of,
+merging with, consolidating with or acquiring the assets of an in-
+sured depository institution under subsection (f) or (k) of this sec-
+tion with such financial assistance as it could provide an insured
+institution under this subsection.
+(4) LEAST-COST RESOLUTION REQUIRED.—
+(A) IN GENERAL.—Notwithstanding any other provision
+of this Act, the Corporation may not exercise any authority
+under this subsection or subsection (d), (f), (h), (i), or (k)
+with respect to any insured depository institution unless—
+(i) the Corporation determines that the exercise of
+such authority is necessary to meet the obligation of
+the Corporation to provide insurance coverage for the
+insured deposits in such institution; and
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+11
+(ii) the total amount of the expenditures by the Cor-
+poration and obligations incurred by the Corporation
+(including any immediate and long-term obligation of
+the Corporation and any direct or contingent liability
+for future payment by the Corporation) in connection
+with the exercise of any such authority with respect to
+such institution is the least costly to the Deposit In-
+surance Fund of all possible methods for meeting the
+Corporation’s obligation under this section.
+(B) DETERMINING LEAST COSTLY APPROACH.—In deter-
+mining how to satisfy the Corporation’s obligations to an
+institution’s insured depositors at the least possible cost to
+the Deposit Insurance Fund, the Corporation shall comply
+with the following provisions:
+(i) PRESENT-VALUE ANALYSIS; DOCUMENTATION RE-
+QUIRED.—The Corporation shall—
+(I) evaluate alternatives on a present-value
+basis, using a realistic discount rate;
+(II) document that evaluation and the assump-
+tions on which the evaluation is based, including
+any assumptions with regard to interest rates,
+asset recovery rates, asset holding costs, and pay-
+ment of contingent liabilities; and
+(III) retain the documentation for not less than
+5 years.
+(ii) FOREGONE TAX REVENUES.—Federal tax revenues
+that the Government would forego as the result of a
+proposed transaction, to the extent reasonably ascer-
+tainable, shall be treated as if they were revenues
+foregone by the Deposit Insurance Fund.
+(C) TIME OF DETERMINATION.—
+(i) GENERAL RULE.—For purposes of this subsection,
+the determination of the costs of providing any assist-
+ance under paragraph (1) or (2) or any other provision
+of this section with respect to any depository institu-
+tion shall be made as of the date on which the Cor-
+poration makes the determination to provide such as-
+sistance to the institution under this section.
+(ii) RULE FOR LIQUIDATIONS.—For purposes of this
+subsection, the determination of the costs of liquida-
+tion of any depository institution shall be made as of
+the earliest of—
+(I) the date on which a conservator is appointed
+for such institution;
+(II) the date on which a receiver is appointed for
+such institution; or
+(III) the date on which the Corporation makes
+any determination to provide any assistance
+under this section with respect to such institution.
+(D) LIQUIDATION COSTS.—In determining the cost of liq-
+uidating any depository institution for the purpose of com-
+paring the costs under subparagraph (A) (with respect to
+such institution), the amount of such cost may not exceed
+the amount which is equal to the sum of the insured de-
+posits of such institution as of the earliest of the dates de-
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+12
+scribed in subparagraph (C), minus the present value of
+the total net amount the Corporation reasonably expects to
+receive from the disposition of the assets of such institu-
+tion in connection with such liquidation.
+(E) DEPOSIT INSURANCE FUND AVAILABLE FOR INTENDED
+PURPOSE ONLY.—
+(i) IN GENERAL.—After December 31, 1994, or at
+such earlier time as the Corporation determines to be
+appropriate, the Corporation may not take any action,
+directly or indirectly, with respect to any insured de-
+pository institution that would have the effect of in-
+creasing losses to the Deposit Insurance Fund by pro-
+tecting—
+(I) depositors for more than the insured portion
+of deposits (determined without regard to whether
+such institution is liquidated); or
+(II) creditors other than depositors.
+(ii) DEADLINE FOR REGULATIONS.—The Corporation
+shall prescribe regulations to implement clause (i) not
+later than January 1, 1994, and the regulations shall
+take effect not later than January 1, 1995.
+(iii) PURCHASE AND ASSUMPTION TRANSACTIONS.—No
+provision of this subparagraph shall be construed as
+prohibiting the Corporation from allowing any person
+who acquires any assets or assumes any liabilities of
+any insured depository institution for which the Cor-
+poration has been appointed conservator or receiver to
+acquire uninsured deposit liabilities of such institution
+so long as the insurance fund does not incur any loss
+with respect to such deposit liabilities in an amount
+greater than the loss which would have been incurred
+with respect to such liabilities if the institution had
+been liquidated.
+(F) DISCRETIONARY DETERMINATIONS.—Any determina-
+tion which the Corporation may make under this para-
+graph shall be made in the sole discretion of the Corpora-
+tion.
+(G) SYSTEMIC RISK.—
+(i) EMERGENCY DETERMINATION BY SECRETARY OF
+THE TREASURY.—Notwithstanding subparagraphs (A)
+and (E), if, upon the written recommendation of the
+Board of Directors (upon a vote of not less than two-
+thirds of the members of the Board of Directors) and
+the Board of Governors of the Federal Reserve System
+(upon a vote of not less than two-thirds of the mem-
+bers of such Board), the Secretary of the Treasury (in
+consultation with the President) determines that—
+(I) the Corporation’s compliance with subpara-
+graphs (A) and (E) with respect to an insured de-
+pository institution for which the Corporation has
+been appointed receiver would have serious ad-
+verse effects on economic conditions or financial
+stability; and
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+13
+(II) any action or assistance under this subpara-
+graph would avoid or mitigate such adverse ef-
+fects,
+the Corporation may take other action or provide as-
+sistance under this section for the purpose of winding
+up the insured depository institution for which the
+Corporation has been appointed receiver as necessary
+to avoid or mitigate such effects.
+(ii) REPAYMENT OF LOSS.—
+(I) IN GENERAL.—The Corporation shall recover
+the loss to the Deposit Insurance Fund arising
+from any action taken or assistance provided with
+respect to an insured depository institution under
+clause (i) from 1 or more special assessments on
+insured depository institutions, depository institu-
+tion holding companies (with the concurrence of
+the Secretary of the Treasury with respect to hold-
+ing companies), or both, as the Corporation deter-
+mines to be appropriate.
+(II) TREATMENT OF DEPOSITORY INSTITUTION
+HOLDING COMPANIES.—For purposes of this clause,
+sections 7(c)(2) and 18(h) shall apply to depository
+institution holding companies as if they were in-
+sured depository institutions.
+(III) REGULATIONS.—The Corporation shall pre-
+scribe such regulations as it deems necessary to
+implement this clause. In prescribing such regula-
+tions, defining terms, and setting the appropriate
+assessment rate or rates, the Corporation shall es-
+tablish rates sufficient to cover the losses incurred
+as a result of the actions of the Corporation under
+clause (i) and shall consider: the types of entities
+that benefit from any action taken or assistance
+provided under this subparagraph; economic con-
+ditions, the effects on the industry, and such other
+factors as the Corporation deems appropriate and
+relevant to the action taken or the assistance pro-
+vided. Any funds so collected that exceed actual
+losses shall be placed in the Deposit Insurance
+Fund.
+(iii) DOCUMENTATION REQUIRED.—The Secretary of
+the Treasury shall—
+(I) document any determination under clause (i);
+and
+(II) retain the documentation for review under
+clause (iv).
+ø(iv) GAO REVIEW.—The Comptroller General of the
+United States shall review and report to the Congress
+on any determination under clause (i), including—
+ø(I) the basis for the determination;
+ø(II) the purpose for which any action was
+taken pursuant to such clause; and
+ø(III) the likely effect of the determination and
+such action on the incentives and conduct of in-
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+14
+sured depository institutions and uninsured de-
+positors.¿
+(iv) GAO REVIEW.—
+(I) IN GENERAL.—The Comptroller General of the
+United States shall, not later than 60 days after a
+determination is made under clause (i), and again
+180 days thereafter, review and report to the Con-
+gress on the determination under clause (i), includ-
+ing—
+(aa) the basis for the determination;
+(bb) the purpose for which any action was
+taken pursuant to such clause;
+(cc) the likely effect of the determination and
+such action on the incentives and conduct of
+insured depository institutions and uninsured
+depositors;
+(dd) any mismanagement by the executives
+and board of the insured depository institution
+that contributed to the failure of the insured
+depository institution;
+(ee) a review of the compensation practices of
+the insured depository institution;
+(ff) any supervisory or regulatory short-
+comings with respect to the appropriate Fed-
+eral banking agency of the insured depository
+institution;
+(gg) any actions taken by the Federal bank-
+ing regulators, Financial Stability Oversight
+Council, Department of the Treasury, and
+other relevant financial regulators in relation
+to the failure of the insured depository institu-
+tion; and
+(hh) any additional relevant entities or ac-
+tivities that may have contributed to the fail-
+ure of the insured depository institution, in-
+cluding with respect to auditing, accounting,
+credit rating agencies, investment bank under-
+writers, and emergency liquidity options such
+as loans from the Federal reserve banks or ad-
+vances through the Federal Home Loan Bank
+system.
+(II) RULE OF CONSTRUCTION.—Nothing in this
+clause or a report issued pursuant to this clause
+may be construed to limit the authority of a Fed-
+eral agency to enforce violations of Federal stat-
+utes, rules, or orders.
+(v) NOTICE.—
+(I) IN GENERAL.—Not later than 3 days after
+making a determination under clause (i), the Sec-
+retary of the Treasury shall provide written notice
+of any determination under clause (i) to the Com-
+mittee on Banking, Housing, and Urban Affairs of
+the Senate and the Committee on Banking, Fi-
+nance and Urban Affairs of the House of Rep-
+resentatives.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+15
+(II) DESCRIPTION OF BASIS OF DETERMINATION.—
+The notice under subclause (I) shall include a de-
+scription of the basis for any determination under
+clause (i).
+(H) RULE OF CONSTRUCTION.—No provision of law
+shall be construed as permitting the Corporation to
+take any action prohibited by paragraph (4) unless
+such provision expressly provides, by direct reference
+to this paragraph, that this paragraph shall not apply
+with respect to such action.
+(5) The Corporation may not use its authority under this sub-
+section to purchase the voting or common stock of an insured de-
+pository institution. Nothing in the preceding sentence shall be
+construed to limit the ability of the Corporation to enter into and
+enforce covenants and agreements that it determines to be nec-
+essary to protect its financial interest.
+(6)(A) During any period in which an insured depository institu-
+tion has received assistance under this subsection and such assist-
+ance is still outstanding, such insured depository institution may
+defer the payment of any State or local tax which is determined on
+the basis of the deposits held by such insured depository institution
+or of the interest or dividends paid on such deposits.
+(B) When such insured depository institution no longer has any
+outstanding assistance, such insured depository institution shall
+pay all taxes which were deferred under subparagraph (A). Such
+payments shall be made in accordance with a payment plan estab-
+lished by the Corporation, after consultation with the applicable
+State and local taxing authorities.
+(7) The transfer of any assets or liabilities associated with any
+trust business of an insured depository institution in default under
+subparagraph (2)(A) shall be effective without any State or Federal
+approval, assignment, or consent with respect thereto.
+(8) ASSISTANCE BEFORE APPOINTMENT OF CONSERVATOR OR
+RECEIVER.—
+(A) IN GENERAL.—Subject to the least-cost provisions of
+paragraph (4), the Corporation shall consider providing di-
+rect financial assistance under this section for depository
+institutions before the appointment of a conservator or re-
+ceiver for such institution only under the following cir-
+cumstances:
+(i) TROUBLED CONDITION CRITERIA.—The Corporation
+determines—
+(I) grounds for the appointment of a conservator
+or receiver exist or likely will exist in the future
+unless the depository institution’s capital levels
+are increased; and
+(II) it is unlikely that the institution can meet
+all currently applicable capital standards without
+assistance.
+(ii) OTHER CRITERIA.—The depository institution
+meets the following criteria:
+(I) The appropriate Federal banking agency and
+the Corporation have determined that, during
+such period of time preceding the date of such de-
+termination as the agency or the Corporation con-
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+16
+siders to be relevant, the institution’s manage-
+ment has been competent and has complied with
+applicable laws, rules, and supervisory directives
+and orders.
+(II) The institution’s management did not en-
+gage in any insider dealing, speculative practice,
+or other abusive activity.
+(B) PUBLIC DISCLOSURE.—Any determination under this
+paragraph to provide assistance under this section shall be
+made in writing and published in the Federal Register.
+(9) Any assistance provided under this subsection may be in sub-
+ordination to the rights of depositors and other creditors.
+(10) In its annual report to the Congress, the Corporation shall
+report the total amount it has saved, or estimates it has saved, by
+exercising the authority provided in this subsection.
+(11) UNENFORCEABILITY OF CERTAIN AGREEMENTS.—No provi-
+sion contained in any existing or future standstill, confiden-
+tiality, or other agreement that, directly or indirectly—
+(A) affects, restricts, or limits the ability of any person
+to offer to acquire or acquire,
+(B) prohibits any person from offering to acquire or ac-
+quiring, or
+(C) prohibits any person from using any previously dis-
+closed information in connection with any such offer to ac-
+quire or acquisition of,
+all or part of any insured depository institution, including any
+liabilities, assets, or interest therein, in connection with any
+transaction in which the Corporation exercises its authority
+under section 11 or 13, shall be enforceable against or impose
+any liability on such person, as such enforcement or liability
+shall be contrary to public policy.
+(12) APPROPRIATE FEDERAL BANKING AGENCY REPORT.—
+(A) IN GENERAL.—The appropriate Federal banking agen-
+cy of an insured depository institution about which a deter-
+mination is made under paragraph (4)(G)(i) shall, not later
+than 90 days after the date of such determination, and
+again 210 days thereafter, submit a report to the Congress
+that discloses the following:
+(i) Subject to such redactions as the appropriate Fed-
+eral banking agency determines appropriate of person-
+ally identifiable information about customers and other
+financial institutions (as such term is defined under
+section 11(e)(9)(D)), all—
+(I) reports of examination and inspection that re-
+late to the failed insured depository institution in
+the previous 3-year period;
+(II) formal communications of a material super-
+visory determination conveyed to the failed insured
+depository institution in the previous 3-year period;
+and
+(III) any additional exam reports and cor-
+respondence that the appropriate Federal banking
+agency determines may be relevant to the failure of
+the insured depository institution.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6659 Sfmt 6603 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+17
+(ii) An examination of any mismanagement by the
+executives and board of the insured depository institu-
+tion that contributed to the failure of the insured de-
+pository institution.
+(iii) Any supervisory or regulatory shortcomings by
+such appropriate Federal banking agency with respect
+to the insured depository institution.
+(iv) Any dynamics that the appropriate Federal
+banking agency determines may have contributed to
+the failure of the insured depository institution.
+(v) Any supervisory, regulatory, or legislative rec-
+ommendations such appropriate Federal banking agen-
+cy may have to improve the safety and soundness of
+similarly situated insured depository institutions, the
+banking system, and financial stability.
+(B) PROTECTION OF SENSITIVE INFORMATION.—
+(i) EFFECT ON PRIVILEGE.—The provision of any in-
+formation by a Federal banking agency under this
+paragraph may not be construed as—
+(I) waiving, destroying, or otherwise affecting
+any privilege applicable to the information; or
+(II) waiving any exemption applicable to the in-
+formation under section 552 of title 5, United
+States Code (commonly known as the ‘‘Freedom of
+Information Act’’).
+(ii) TRANSPARENCY.—
+(I) IN GENERAL.—A Federal banking agency
+shall publish materials contained in a report re-
+quired under subparagraph (A) to the fullest extent
+possible to promote transparency.
+(II) CONSULTATION ON OMITTING MATERIALS.—If
+a Federal banking agency determines particular
+materials described under subclause (I) should not
+be published, the Federal banking agency shall
+consult with the chair and ranking member of the
+Committee on Financial Services of the House of
+Representatives and the chair and ranking mem-
+ber of the Committee on Banking, Housing, and
+Urban Affairs of the Senate.
+(III) OMITTING MATERIALS.—If, after the con-
+sultation required under subclause (II), the Fed-
+eral banking agency determines there is a substan-
+tial public interest in not publishing such mate-
+rials, the Federal banking agency shall provide
+those materials to the Committee on Financial
+Services of the House of Representatives and the
+Committee on Banking, Housing, and Urban Af-
+fairs of the Senate with a written explanation de-
+scribing the reasons for not publishing those mate-
+rials.
+(iii) PRIVILEGE.—For purposes of this subparagraph,
+the term ‘‘privilege’’ includes any work-product, attor-
+ney-client, or other privilege recognized under Federal
+or State law.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00017 Fmt 6659 Sfmt 6603 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+18
+(C) REPORT EXTENSION.—A Federal banking agency may
+extend a deadline described under subparagraph (A) for an
+additional 60 days, if the Federal banking agency—
+(i) faces ongoing circumstances that require the Fed-
+eral banking agency to prioritize activities to promote
+stability of the U.S. banking system; and
+(ii) notifies the Congress of such extension and the
+reasons for such extension.
+(D) CONSOLIDATED REPORTS.—A Federal banking agency
+may consolidate multiple reports required under this para-
+graph so long as the individual reports being consolidated
+all meet the timing requirements under this paragraph.
+(E) RULE OF CONSTRUCTION.—Nothing in this paragraph
+or reports or materials provided pursuant to this para-
+graph may be construed to limit the authority of a Federal
+agency to enforce violations of Federal statutes, rules, or or-
+ders.
+(d) SALE OF ASSETS TO CORPORATION.—
+(1) IN GENERAL.–Any conservator, receiver, or liquidator ap-
+pointed for any insured depository institution in default, in-
+cluding the Corporation acting in such capacity, shall be enti-
+tled to offer the assets of such depository institutions for sale
+to the Corporation or as security for loans from the Corpora-
+tion.
+(2) PROCEEDS.—The proceeds of every sale or loan of assets
+to the Corporation shall be utilized for the same purposes and
+in the same manner as other funds realized from the liquida-
+tion of the assets of such depository institutions.
+(3) RIGHTS AND POWERS OF CORPORATION.—
+(A) IN GENERAL.—With respect to any asset acquired or
+liability assumed pursuant to this section, the Corporation
+shall have all of the rights, powers, privileges, and authori-
+ties of the Corporation as receiver under sections 11 and
+15(b).
+(B) RULE OF CONSTRUCTION.—Such rights, powers, privi-
+leges, and authorities shall be in addition to and not in
+derogation of any rights, powers, privileges, and authori-
+ties otherwise applicable to the Corporation.
+(C) FIDUCIARY RESPONSIBILITY.—In exercising any right,
+power, privilege, or authority described in subparagraph
+(A), the Corporation shall continue to be subject to the fi-
+duciary duties and obligations of the Corporation as re-
+ceiver to claimants against the insured depository institu-
+tion in receivership.
+(D) DISPOSITION OF ASSETS.—In exercising any right,
+power, privilege, or authority described in subparagraph
+(A) regarding the sale or disposition of assets sold to the
+Corporation pursuant to paragraph (1), the Corporation
+shall conduct its operations in a manner which—
+(i) maximizes the net present value return from the
+sale or disposition of such assets;
+(ii) minimizes the amount of any loss realized in the
+resolution of cases;
+(iii) ensures adequate competition and fair and con-
+sistent treatment of offerors;
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00018 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+19
+(iv) prohibits discrimination on the basis of race,
+sex, or ethnic groups in the solicitation and consider-
+ation of offers; and
+(v) maximizes the preservation of the availability
+and affordability of residential real property for low-
+and moderate-income individuals.
+(4) LOANS.—The Corporation, in its discretion, may make
+loans on the security of or may purchase and liquidate or sell
+any part of the assets of an insured depository institution
+which is now or may hereafter be in default.
+(e) AGREEMENTS AGAINST INTERESTS OF CORPORATION.—
+(1) IN GENERAL.—No agreement which tends to diminish or
+defeat the interest of the Corporation in any asset acquired by
+it under this section or section 11, either as security for a loan
+or by purchase or as receiver of any insured depository institu-
+tion, shall be valid against the Corporation unless such agree-
+ment—
+(A) is in writing,
+(B) was executed by the depository institution and any
+person claiming an adverse interest thereunder, including
+the obligor, contemporaneously with the acquisition of the
+asset by the depository institution,
+(C) was approved by the board of directors of the deposi-
+tory institution or its loan committee, which approval shall
+be reflected in the minutes of said board or committee, and
+(D) has been, continuously, from the time of its execu-
+tion, an official record of the depository institution.
+(2) EXEMPTIONS FROM CONTEMPORANEOUS EXECUTION RE-
+QUIREMENT.—An agreement to provide for the lawful
+collateralization of—
+(A) deposits of, or other credit extension by, a Federal,
+State, or local governmental entity, or of any depositor re-
+ferred to in section 11(a)(2), including an agreement to pro-
+vide collateral in lieu of a surety bond;
+(B) bankruptcy estate funds pursuant to section
+345(b)(2) of title 11, United States Code;
+(C) extensions of credit, including any overdraft, from a
+Federal reserve bank or Federal home loan bank; or
+(D) one or more qualified financial contracts, as defined
+in section 11(e)(8)(D),
+shall not be deemed invalid pursuant to paragraph (1)(B) solely
+because such agreement was not executed contemporaneously
+with the acquisition of the collateral or because of pledges, de-
+livery, or substitution of the collateral made in accordance with
+such agreement.
+(f) ASSISTED EMERGENCY INTERSTATE ACQUISITIONS.—(1) This
+subsection shall apply only to an acquisition of an insured bank or
+a holding company by an out-of-State bank savings association or
+out-of-State holding company for which the Corporation provides
+assistance under subsection (c).
+(2)(A) Whenever an insured bank with total assets of
+$500,000,000 or more (as determined from its most recent report of
+condition) is in default, the Corporation, as receiver, may, in its
+discretion and upon such terms and conditions as the Corporation
+may determine, arrange the sale of assets of the closed bank and
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00019 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+20
+the assumption of the liabilities of the closed bank, including the
+sale of such assets to and the assumption of such liabilities by an
+insured depository institution located in the State where the closed
+bank was chartered but established by an out-of-State bank or
+holding company. Where otherwise lawfully required, a transaction
+under this subsection must be approved by the primary Federal or
+State supervisor of all parties thereto.
+(B)(i) Before making a determination to take any action under
+subparagraph (A), the Corporation shall consult the State bank su-
+pervisor of the State in which the insured bank in default was
+chartered.
+(ii) The State bank supervisor shall be given a reasonable oppor-
+tunity, and in no event less than forty-eight hours, to object to the
+use of the provisions of this paragraph. Such notice may be pro-
+vided by the Corporation prior to its appointment as receiver, but
+in anticipation of an impending appointment.
+(iii) If the State supervisor objects during such period, the Cor-
+poration may use the authority of this paragraph only by a vote of
+75 percent of the Board of Directors. The Board of Directors shall
+provide to the State supervisor, as soon as practicable, a written
+certification of its determination.
+(3) EMERGENCY INTERSTATE ACQUISITIONS OF INSURED BANKS IN
+DANGER OF DEFAULT.—
+(A) ACQUISITION OF INSURED BANKS IN DANGER OF DE-
+FAULT.—One or more out-of-State banks or out-of-State holding
+companies may acquire and retain all or part of the shares or
+assets of, or otherwise acquire and retain—
+(i) an insured bank in danger of default which has total
+assets of $500,000,000 or more; or
+(ii) 2 or more affiliated insured banks in danger of de-
+fault which have aggregate total assets of $500,000,000 or
+more, if the aggregate total assets of such banks is equal
+to or greater than 33 percent of the aggregate total assets
+of all affiliated insured banks.
+(B) ACQUISITION OF A HOLDING COMPANY OR OTHER BANK AF-
+FILIATE.—If one or more out-of-State banks or out-of-State
+holding companies acquire 1 or more affiliated insured banks
+under subparagraph (A) the aggregate total assets of which is
+equal to or greater than 33 percent of the aggregate total as-
+sets of all affiliated insured banks, any such out-of-State bank
+or out-of-State holding company may also, as part of the same
+transaction, acquire and retain the shares or assets of, or oth-
+erwise acquire and retain—
+(i) the holding company which controls the affiliated in-
+sured banks so acquired; or
+(ii) any other affiliated insured bank.
+(C) REQUEST FOR ASSISTANCE BY CORPORATE BOARD OF DIREC-
+TORS.—The Corporation may assist an acquisition or merger
+authorized under subparagraph (A) only if the board of direc-
+tors or trustees of each insured bank in danger of default
+which is being acquired has requested in writing that the Cor-
+poration assist the acquisition or merger.
+(D) CERTAIN ACQUISITIONS AUTHORIZED AFTER ASSISTANCE IS
+PROVIDED.—Notwithstanding paragraph (1), if—
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00020 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+21
+(i) at any time after the date of the enactment of the Fi-
+nancial Institutions Emergency Acquisitions Amendments
+of 1987, the Corporation provides any assistance under
+subsection (c) to an insured bank; and
+(ii) at the time such assistance is granted, the insured
+bank, the holding company which controls the insured
+bank (if any), or any affiliated insured bank is eligible to
+be acquired by an out-of-State bank or out-of-State holding
+company under this paragraph,
+the insured bank, the holding company, and such other affili-
+ated insured bank shall remain eligible, subject to such terms
+and conditions as the Corporation (in the Corporation’s discre-
+tion) may impose, to be acquired by an out-of-State bank or
+out-of-State holding company under this paragraph as long as
+any portion of such assistance remains outstanding.
+(E) STATE BANK SUPERVISOR APPROVAL.—The Corporation
+may take no final action in connection with any acquisition
+under this paragraph unless the State bank supervisor of the
+State in which the bank in danger of default is located ap-
+proves the acquisition.
+(F) OTHER REQUIREMENTS NOT AFFECTED.—This paragraph
+does not affect any other requirement under Federal or State
+law for regulatory approval of an acquisition under this para-
+graph.
+(G) ACQUISITION MAY BE CONDITIONED ON RECEIPT OF CON-
+SIDERATION FOR CORPORATION’S ASSISTANCE.—Any acquisition
+described in subparagraph (D) may be conditioned on the re-
+ceipt of such consideration for the Corporation’s assistance as
+the Board of Directors deems appropriate.
+(4)(A) ACQUISITIONS NOT SUBJECT TO CERTAIN OTHER LAWS.—
+Section 3(d) of the Bank Holding Company Act of 1956, any provi-
+sion of State law, and section 408(e)(3) of the National Housing Act
+shall not apply to prohibit any acquisition under paragraph (2) or
+(3), except that an out-of-State bank may make such an acquisition
+only if such ownership is otherwise specifically authorized.
+(B) Any subsidiary created by operation of this subsection may
+retain and operate any existing branch or branches of the institu-
+tion merged with or acquired under paragraph (2) or (3), but other-
+wise shall be subject to the conditions upon which a national bank
+may establish and operate branches in the State in which such in-
+sured institution is located.
+(C) No insured institution acquired under this subsection shall
+after it is acquired move its principal office or any branch office
+which it would be prohibited from moving if the institution were
+a national bank.
+(D) SUBSEQUENT NONEMERGENCY INTERSTATE ACQUISITIONS SUB-
+JECT TO STATE LAW.—
+(i) IN GENERAL.—Any out-of-State bank holding company
+which acquires control of an insured bank in any State under
+paragraph (2) or (3) may acquire any other insured bank and
+establish branches in such State to the same extent as a bank
+holding company whose insured bank subsidiaries’ operations
+are principally conducted in such State may acquire any other
+insured bank or establish branches.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00021 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+22
+(ii) DELAYED DATE OF APPLICABILITY.—Clause (i) shall not
+apply with respect to any out-of-State bank holding company
+referred to in such clause before the earlier of—
+(I) the end of the 2-year period beginning on the date the
+acquisition referred to in such clause with respect to such
+company is consummated; or
+(II) the end of any period established under State law
+during which such out-of-State bank holding company may
+not be treated as a bank holding company whose insured
+bank subsidiaries’ operations are principally conducted in
+such State for purposes of acquiring other insured banks
+or establishing bank branches.
+(iii) DETERMINATION OF PRINCIPALLY CONDUCTED.—For pur-
+poses of this subparagraph, the State in which the operations
+of a holding company’s insured bank subsidiaries are prin-
+cipally conducted is the State determined under section 3(d) of
+the Bank Holding Company Act of 1956 with respect to such
+holding company.
+(E) CERTAIN STATE INTERSTATE BANKING LAWS INAPPLICABLE.—
+Any holding company which acquires control of any insured bank
+or holding company under paragraph (2) or (3) or subparagraph (D)
+of this paragraph shall not, by reason of such acquisition, be re-
+quired under the law of any State to divest any other insured bank
+or be prevented from acquiring any other bank or holding company.
+(5) In determining whether to arrange a sale of assets and as-
+sumption of liabilities or an acquisition or a merger under the au-
+thority of paragraph (2) or (3), the Corporation may solicit such of-
+fers or proposals as are practicable from any prospective pur-
+chasers or merger partners it determines, in its sole discretion, are
+both qualified and capable of acquiring the assets and liabilities of
+the bank in default or the bank in danger of default.
+(6)(A) If, after receiving offers, the offer presenting the lowest ex-
+pense to the Corporation, that is in a form and with conditions ac-
+ceptable to the Corporation (hereinafter referred to as the ‘‘lowest
+acceptable offer’’), is from an offeror that is not an existing in-State
+bank of the same type as the bank that is in default or is in danger
+of default (or, where the bank is an insured bank other than a mu-
+tual savings bank, the lowest acceptable offer is not from an in-
+State holding company), the Corporation shall permit the offeror
+which made the initial lowest acceptable offer and each offeror who
+made an offer the estimated cost of which to the Corporation was
+within 15 per centum or $15,000,000, whichever is less, of the ini-
+tial lowest acceptable offer to submit a new offer.
+(B) In considering authorizations under this subsection, the Cor-
+poration shall give consideration to the need to minimize the cost
+of financial assistance and to the maintenance of specialized depos-
+itory institutions. The Corporation shall authorize transactions
+under this subsection considering the following priorities:
+(i) First, between depository institutions of the same type
+within the same State.
+(ii) Second, between depository institutions of the same
+type—
+(I) in different States which by statute specifically au-
+thorize such acquisitions; or
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00022 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+23
+(II) in the absence of such statutes, in different States
+which are contiguous.
+(iii) Third, between depository institutions of the same type
+in different States other than the States described in clause
+(ii).
+(iv) Fourth, between depository institutions of different types
+in the same State.
+(v) Fifth, between depository institutions of different types—
+(I) in different States which by statute specifically au-
+thorize such acquisitions; or
+(II) in the absence of such statutes, in different States
+which are contiguous.
+(vi) Sixth, between depository institutions of different types
+in different States other than the States described in clause
+(v).
+(C) MINORITY BANK PRIORITY.—In the case of a minority-con-
+trolled bank, the Corporation shall seek an offer from other minor-
+ity-controlled banks before proceeding with the bidding priorities
+set forth in subparagraph (B).
+(D) In determining the cost of offers and reoffers, the Corpora-
+tion’s calculations and estimations shall be determinative. The Cor-
+poration may set reasonable time limits on offers and reoffers.
+(7) No sale may be made under the provisions of paragraph (2)
+or (3)—
+(A) which would result in a monopoly, or which would be in
+furtherance of any combination or conspiracy to monopolize or
+to attempt to monopolize the business of banking in any part
+of the United States;
+(B) whose effect in any section of the country may be sub-
+stantially to lessen competition, or to tend to create a monop-
+oly, or which in any other manner would be in restraint of
+trade, unless the Corporation finds that the anticompetitive ef-
+fects of the proposed transactions are clearly outweighed in the
+public interest by the probable effect of the transaction in
+meeting the convenience and needs of the community to be
+served; or
+(C) if in the opinion of the Corporation the acquisition
+threatens the safety and soundness of the acquirer or does not
+result in the future viability of the resulting depository institu-
+tion.
+(8) As used in this subsection—
+(A) the term ‘‘in-State depository institution or in-State hold-
+ing company’’ means an existing insured depository institution
+currently operating in the State in which the bank in default
+or the bank in danger of default is chartered or a company that
+is operating an insured depository institution subsidiary in the
+State in which the bank in default or the bank in danger of
+default is chartered;
+(B) the term ‘‘acquire’’ means to acquire, directly or indi-
+rectly, ownership or control through—
+(i) an acquisition of shares;
+(ii) an acquisition of assets or assumption of liabilities;
+(iii) a merger or consolidation; or
+(iv) any similar transaction;
+(C) the term ‘‘affiliated insured bank’’ means—
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00023 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+24
+(i) when used in connection with a reference to a holding
+company, an insured bank which is a subsidiary of such
+holding company; and
+(ii) when used in connection with a reference to 2 or
+more insured banks, insured banks which are subsidiaries
+of the same holding company; and
+(D) the term ‘‘subsidiary’’ has the meaning given to such
+term in section 2(d) of the Bank Holding Company Act of 1956.
+(9) NO ASSISTANCE AUTHORIZED FOR CERTAIN SUBSIDIARIES OF
+HOLDING COMPANIES.—
+(A) IN GENERAL.—The Corporation shall not provide any as-
+sistance to a subsidiary, other than a subsidiary that is an in-
+sured depository institution, of a holding company in connec-
+tion with any acquisition under this subsection.
+(B) INTERMEDIATE HOLDING COMPANY PERMITTED.—This
+paragraph does not prohibit an intermediate holding company
+or an affiliate of an insured depository institution from being
+a conduit for assistance ultimately intended for an insured
+bank.
+(10) ANNUAL REPORT.—
+(A) REQUIRED.—In its annual report to Congress the Cor-
+poration shall include a report on the acquisitions under this
+subsection during the preceding year.
+(B) CONTENTS.—The report required under subparagraph (A)
+shall contain the following information:
+(i) The number of acquisitions under this subsection.
+(ii) A brief description of each such acquisition and the
+circumstances under which such acquisition occurred.
+(11) DETERMINATION OF TOTAL ASSETS.—For purposes of this
+subsection, the total assets of any insured bank shall be deter-
+mined on the basis of the most recent report of condition of such
+bank which is available at the time of such determination.
+(12) ACQUISITION OF MINORITY BANK BY MINORITY BANK
+HOLDING COMPANY WITHOUT REGARD TO ASSET SIZE.—
+(A) IN GENERAL.—For the purpose of ensuring continued
+minority control of a minority-controlled bank, paragraphs
+(2) and (3) shall apply with respect to the acquisition of a
+minority-controlled bank by an out-of-State minority-con-
+trolled depository institution or depository institution hold-
+ing company without regard to the fact that the total as-
+sets of such minority-controlled bank are less than
+$500,000,000.
+(B) DEFINITIONS.—For purposes of this paragraph:
+(i) MINORITY BANK.—The term ‘‘minority bank’’
+means any depository institution described in clause
+(i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Re-
+serve Act—
+(I) more than 50 percent of the ownership or
+control of which is held by one or more minority
+individuals; and
+(II) more than 50 percent of the net profit or
+loss of which accrues to minority individuals.
+(ii) MINORITY.—The term ‘‘minority’’ means any
+Black American, Native American, Hispanic American,
+or Asian American.
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00024 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+25
+(g) Prior to July 1, 1951, the Corporation shall pay out of its cap-
+ital account to the Secretary of the Treasury an amount equal to
+2 per centum simple interest per annum on amounts advanced to
+the Corporation on stock subscriptions by the Secretary of the
+Treasury and the Federal Reserve banks, from the time of such ad-
+vances until the amounts thereof were repaid. The amount payable
+hereunder shall be paid in two equal installments, the first install-
+ment to be paid prior to December 31, 1950.
+(h) The powers conferred on the Board of Directors and the Cor-
+poration by this section to take action to reopen an insured deposi-
+tory institution in default or to avert the default of an insured de-
+pository institution may be used with respect to an insured branch
+of a foreign bank if, in the judgment of the Board of Directors, the
+public interest in avoiding the closing of such branch substantially
+outweighs any additional risk of loss to the Deposit Insurance
+Fund which the exercise of such powers would entail.
+(j) LOAN LOSS AMORTIZATION FOR CERTAIN BANKS.—
+(1) ELIGIBILITY.—The appropriate Federal banking agency
+shall permit an agricultural bank to take the actions referred
+to in paragraph (2) if it finds that—
+(A) there is no evidence that fraud or criminal abuse on
+the part of the bank led to the losses referred to in para-
+graph (2); and
+(B) the agricultural bank has a plan to restore its cap-
+ital, not later than the close of the amortization period es-
+tablished under paragraph (2), to a level prescribed by the
+appropriate Federal banking agency.
+(2) SEVEN-YEAR LOSS AMORTIZATION.—(A) Any loss on any
+qualified agricultural loan that an agricultural bank would
+otherwise be required to show on its annual financial state-
+ment for any year between December 31, 1983, and January 1,
+1992, may be amortized on its financial statements over a pe-
+riod of not to exceed 7 years, as provided in regulations issued
+by the appropriate Federal banking agency.
+(B) An agricultural bank may reappraise any real estate or
+other property, real or personal, that it acquired coincident to
+the making of a qualified agricultural loan and that it owned
+on January 1, 1983, and any such additional property that it
+acquires prior to January 1, 1992. Any loss that such bank
+would otherwise be required to show on its annual financial
+statements as the result of any such reappraisal may be amor-
+tized on its financial statements over a period of not to exceed
+7 years, as provided in regulations issued by the appropriate
+Federal banking agency.
+(3) REGULATIONS.—Not later than 90 days after the date of
+enactment of this subsection, the appropriate Federal banking
+agency shall issue regulations implementing this subsection
+with respect to banks that it supervises, including regulations
+implementing the capital restoration requirement of paragraph
+(1)(B).
+(4) DEFINITIONS.—As used in this subsection—
+(A) the term ‘‘agricultural bank’’ means a bank—
+(i) the deposits of which are insured by the Federal
+Deposit Insurance Corporation;
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00025 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+26
+(ii) which is located in an area the economy of which
+is dependent on agriculture;
+(iii) which has assets of $100,000,000 or less; and
+(iv) which has—
+(I) at least 25 percent of its total loans in quali-
+fied agricultural loans; or
+(II) fewer than 25 percent of its total loans in
+qualified agricultural loans but which the appro-
+priate Federal banking agency or State bank com-
+missioner recommends to the Corporation for eli-
+gibility under this section, or which the Corpora-
+tion, on its motion, deems eligible; and
+(B) the term ‘‘qualified agricultural loan’’ means a loan
+made to finance the production of agricultural products or
+livestock in the United States, a loan secured by farmland
+or farm machinery, or such other category of loans as the
+appropriate Federal banking agency may deem eligible.
+(5) MAINTENANCE OF PORTFOLIO.—As a condition of eligibility
+under this subsection, the agricultural bank must agree to
+maintain in its loan portfolio a percentage of agricultural loans
+which is not lower than the percentage of such loans in its loan
+portfolio on January 1, 1986.
+(k) EMERGENCY ACQUISITIONS.—
+(1) IN GENERAL.—
+(A) ACQUISITIONS AUTHORIZED.—
+(i) TRANSACTIONS DESCRIBED.—Notwithstanding any
+provision of State law, upon determining that severe
+financial conditions threaten the stability of a signifi-
+cant number of savings associations, or of savings as-
+sociations possessing significant financial resources,
+the Corporation, in its discretion and if it determines
+such authorization would lessen the risk to the Cor-
+poration, may authorize—
+(I) a savings association that is eligible for as-
+sistance pursuant to subsection (c) to merge or
+consolidate with, or to transfer its assets and li-
+abilities to, any other savings association or any
+insured bank,
+(II) any other savings association to acquire con-
+trol of such savings association, or
+(III) any company to acquire control of such sav-
+ings association or to acquire the assets or assume
+the liabilities thereof.
+The Corporation may not authorize any transaction
+under this subsection unless the Corporation deter-
+mines that the authorization will not present a sub-
+stantial risk to the safety or soundness of the savings
+association to be acquired or any acquiring entity.
+(ii) TERMS OF TRANSACTIONS.—Mergers, consolida-
+tions, transfers, and acquisitions under this subsection
+shall be on such terms as the Corporation shall pro-
+vide.
+(iii) APPROVAL BY APPROPRIATE AGENCY.—Where oth-
+erwise required by law, transactions under this sub-
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00026 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+27
+section must be approved by the appropriate Federal
+banking agency of every party thereto.
+(iv) ACQUISITIONS BY SAVINGS ASSOCIATIONS.—Any
+Federal savings association that acquires another sav-
+ings association pursuant to clause (i) may, with the
+concurrence of the Comptroller of the Currency, hold
+that savings association as a subsidiary notwith-
+standing the percentage limitations of section
+5(c)(4)(B) of the Home Owners’ Loan Act.S
+(v) DUAL SERVICE.—Dual service by a management
+official that would otherwise be prohibited under the
+Depository Institution Management Interlocks Act
+may, with the approval of the Corporation, continue
+for up to 10 years.
+(vi) CONTINUED APPLICABILITY OF CERTAIN STATE RE-
+STRICTIONS.—Nothing in this subsection overrides or
+supersedes State laws restricting or limiting the ac-
+tivities of a savings association on behalf of another
+entity.
+(B) CONSULTATION WITH STATE OFFICIAL.—
+(i) CONSULTATION REQUIRED.—Before making a de-
+termination to take any action under subparagraph
+(A), the Corporation shall consult the State official
+having jurisdiction of the acquired institution.
+(ii) PERIOD FOR STATE RESPONSE.—The official shall
+be given a reasonable opportunity, and in no event
+less than 48 hours, to object to the use of the provi-
+sions of this paragraph. Such notice may be provided
+by the Corporation prior to its appointment as re-
+ceiver, but in anticipation of an impending appoint-
+ment.
+(iii) APPROVAL OVER OBJECTION OF STATE OFFICIAL.—
+If the official objects during such period, the Corpora-
+tion may use the authority of this paragraph only by
+a vote of 75 percent or more of the voting members of
+the Board of Directors. The Corporation shall provide
+to the official, as soon as practicable, a written certifi-
+cation of its determination.
+(2) SOLICITATION OF OFFERS.—
+(A) IN GENERAL.—In considering authorizations under
+this subsection, the Corporation may solicit such offers or
+proposals as are practicable from any prospective pur-
+chasers or merger partners it determines, in its sole discre-
+tion, are both qualified and capable of acquiring the assets
+and liabilities of the savings association.
+(B) MINORITY-CONTROLLED INSTITUTIONS.—In the case of
+a minority-controlled depository institution, the Corpora-
+tion shall seek an offer from other minority-controlled de-
+pository institutions before seeking an offer from other
+persons or entities.
+(3) DETERMINATION OF COSTS.—In determining the cost of of-
+fers under this subsection, the Corporation’s calculations and
+estimations shall be determinative. The Corporation may set
+reasonable time limits on offers.
+(4) BRANCHING PROVISIONS.—
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00027 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+28
+(A) IN GENERAL.—If a merger, consolidation, transfer, or
+acquisition under this subsection involves a savings asso-
+ciation eligible for assistance and a bank or bank holding
+company, a savings association may retain and operate
+any existing branch or branches or any other existing fa-
+cilities. If the savings association continues to exist as a
+separate entity, it may establish and operate new branches
+to the same extent as any savings association that is not
+affiliated with a bank holding company and the home of-
+fice of which is located in the same State.
+(B) RESTRICTIONS.—
+(i) IN GENERAL.—Notwithstanding subparagraph (A),
+if—
+(I) a savings association described in such sub-
+paragraph does not have its home office in the
+State of the bank holding company bank sub-
+sidiary, and
+(II) such association does not qualify as a do-
+mestic building and loan association under section
+7701(a)(19) of the Internal Revenue Code of 1986,
+or does not meet the asset composition test im-
+posed by subparagraph (C) of that section on insti-
+tutions seeking so to qualify,
+such savings association shall be subject to the condi-
+tions upon which a bank may retain, operate, and es-
+tablish branches in the State in which the savings as-
+sociation is located.
+(ii) TRANSITION PERIOD.—The Corporation, for good
+cause shown, may allow a savings association up to 2
+years to comply with the requirements of clause (i).
+(5) ASSISTANCE BEFORE APPOINTMENT OF CONSERVATOR OR
+RECEIVER.—
+(A) ASSISTANCE PROPOSALS.—The Corporation shall con-
+sider proposals by savings associations for assistance pur-
+suant to subsection (c) before grounds exist for appoint-
+ment of a conservator or receiver for such member under
+the following circumstances:
+(i) TROUBLED CONDITION CRITERIA.—The Corporation
+determines—
+(I) that grounds for appointment of a conser-
+vator or receiver exist or likely will exist in the fu-
+ture unless the member’s tangible capital is in-
+creased;
+(II) that it is unlikely that the member can
+achieve positive tangible capital without assist-
+ance; and
+(III) that providing assistance pursuant to the
+member’s proposal would be likely to lessen the
+risk to the Corporation.
+(ii) OTHER CRITERIA.—The member meets the fol-
+lowing criteria:
+(I) Before enactment of the Financial Institu-
+tions Reform, Recovery, and Enforcement Act of
+1989, the member was solvent under applicable
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00028 Fmt 6659 Sfmt 6601 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+29
+regulatory accounting principles but had negative
+tangible capital.
+(II) The member’s negative tangible capital posi-
+tion is substantially attributable to its participa-
+tion in acquisition and merger transactions that
+were instituted by the Federal Home Loan Bank
+Board or the Federal Savings and Loan Insurance
+Corporation for supervisory reasons.
+(III) The member is a qualified thrift lender (as
+defined in section 10(m) of the Home Owners’
+Loan Act) or would be a qualified thrift lender if
+commercial real estate owned and nonperforming
+commercial loans acquired in acquisition and
+merger transactions that were instituted by the
+Federal Home Loan Bank Board or the Federal
+Savings and Loan Insurance Corporation for su-
+pervisory reasons were excluded from the mem-
+ber’s total assets.
+(IV) The appropriate Federal banking agency
+has determined that the member’s management is
+competent and has complied with applicable laws,
+rules, and supervisory directives and orders.
+(V) The member’s management did not engage
+in insider dealing or speculative practices or other
+activities that jeopardized the member’s safety
+and soundness or contributed to its impaired cap-
+ital position.
+(VI) The member’s offices are located in an eco-
+nomically depressed region.
+(B) CORPORATION CONSIDERATION OF ASSISTANCE PRO-
+POSAL.—If a member meets the requirements of clauses (i)
+and (ii) of subparagraph (A), the Corporation shall con-
+sider providing direct financial assistance.
+(C) ECONOMICALLY DEPRESSED REGION DEFINED.—For
+purposes of this paragraph, the term ‘‘economically de-
+pressed region’’ means any geographical region which the
+Corporation determines by regulation to be a region within
+which real estate values have suffered serious decline due
+to severe economic conditions, such as a decline in energy
+or agricultural values or prices.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 05:01 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00029 Fmt 6659 Sfmt 6611 E:\HR\OC\HR206.XXX HR206
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

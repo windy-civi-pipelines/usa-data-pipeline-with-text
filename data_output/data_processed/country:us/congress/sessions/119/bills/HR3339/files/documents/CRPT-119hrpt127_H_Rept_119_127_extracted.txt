@@ -1,0 +1,623 @@
+Title: JUNE3, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JUNE3, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 8
+Source: documents - H. Rept. 119-127
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–127
+EQUAL OPPORTUNITY FOR ALL INVESTORS ACT OF 2025
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+[To accompany H.R. 3339]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 3339) to require certification examinations for accredited
+investors, and for other purposes, having considered the same, re-
+ports favorably thereon with an amendment and recommends that
+the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Consideration ........................................................................................ 3
+Related Hearings ..................................................................................................... 3
+Committee Votes ...................................................................................................... 3
+Committee Oversight Findings ............................................................................... 6
+Performance Goals and Objectives ......................................................................... 6
+Committee Cost Estimate ....................................................................................... 6
+New Budget Authority and CBO Cost Estimate ................................................... 6
+Unfunded Mandates Statement .............................................................................. 6
+Earmark Statement ................................................................................................. 6
+Federal Advisory Committee Act Statement ......................................................... 7
+Applicability to the Legislative Branch ................................................................. 7
+Duplication of Federal Programs ............................................................................ 7
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 7
+Changes in Existing Law Made by the Bill, as Reported ..................................... 7
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Equal Opportunity for All Investors Act of 2025’’.
+SEC. 2. CERTIFICATION EXAMINATIONS FOR ACCREDITED INVESTORS.
+(a) INGENERAL.—The Commission shall revise the definition of ‘‘accredited inves-
+tor’’ under Regulation D (section 230.500 et seq. of title 17, Code of Federal Regula-
+59–006
+VerDate Sep 11 2014 04:11 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6621 E:\HR\OC\HR127.XXX HR127
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+tions) to include any natural person who is certified through the examination re-
+quired under subsection (b).
+(b) ESTABLISHMENT OF EXAMINATION.—Not later than 1 year after the date of the
+enactment of this Act, the Commission shall establish an examination (including a
+test, certification, or examination program)—
+(1) to certify an individual as an accredited investor; and
+(2) that—
+(A) is designed with an appropriate level of difficulty such that an indi-
+vidual with financial sophistication would be unlikely to fail; and
+(B) includes methods to determine whether an individual seeking to be
+certified as an accredited investor demonstrates competency with respect
+to—
+(i) the different types of securities;
+(ii) the disclosure requirements under the securities laws applicable
+to issuers and offerings of securities exempt from registration under
+
+Section 4:
+section 5 of the Securities Act of 1933 as compared to issuers and offer-
+ings of securities subject to such section 5;
+(iii) corporate governance;
+(iv) financial statements and the components of such statements;
+(v) aspects of unregistered securities, securities issued by private
+companies, and investments into private funds, including risks associ-
+ated with—
+(I) limited liquidity;
+(II) limited disclosures;
+(III) subjectivity and variability in valuations and the analytical
+tools investors may use to assess such valuations;
+(IV) information asymmetry;
+(V) leverage risks;
+(VI) concentration risk; and
+(VII) longer investment horizons;
+(vi) potential conflicts of interest, when the interests of financial pro-
+fessionals and their clients are misaligned or when their professional
+responsibilities may be in conflict with financial motivations; and
+(vii) such other criteria as the Commission determines necessary or
+appropriate in the public interest or for the protection of investors.
+(c) ADMINISTRATION.—Beginning not later than 180 days after the date the exam-
+ination is established under subsection (b), such examination shall be administered
+and offered free of charge to the public by a registered national securities associa-
+tion under section 15A of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3).
+(d) COMMISSION DEFINED.—In this section, the term ‘‘Commission’’ means the Se-
+curities and Exchange Commission.
+PURPOSE AND SUMMARY
+H.R. 3339, the Equal Opportunity for All Investors Act of 2025,
+was introduced on May 13, 2025, by Representative Mike Flood
+(NE–01). H.R. 3339 expands the ‘‘accredited investor’’ definition to
+include individuals who are certified through an examination es-
+tablished by the Securities and Exchange Commission (SEC) and
+administered by the Financial Industry Regulatory Authority
+(FINRA).
+BACKGROUND AND NEED FOR LEGISLATION
+To qualify as an accredited investor, the SEC requires individ-
+uals and businesses to meet one of several financial or professional
+criteria.1 H.R. 3339 expands the pathways to qualify as an accred-
+ited investor by allowing certification for individuals who pass an
+examination established by the SEC and administered by FINRA.
+This approach modernizes the existing definition that has inappro-
+priately sidelined sophisticated, but not wealthy, individuals from
+117 C.F.R. §270.
+VerDate Sep 11 2014 04:11 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR127.XXX HR127
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+high-growth asset classes historically reserved for the wealthiest
+individuals.
+COMMITTEE CONSIDERATION
+119TH CONGRESS
+On May 13, 2025, Representative Mike Flood (R–NE) introduced
+H.R. 3339, the Equal Opportunity for All Investors Act of 2025,
+with Representatives Cleo Fields (D–LA), Mike Lawler (R–NY),
+Sarah McBride (D–DE), and Shri Thanedar (D–MI) as original co-
+sponsors. The bill was referred solely to the Committee on Finan-
+cial Services. The bill was attached to the February 26, 2025, hear-
+ing titled ‘‘The Future of American Capital: Strengthening Public
+and Private Markets by Increasing Investor Access and Facilitating
+Capital Formation’’ and the March 25, 2025, hearing titled, ‘‘Be-
+yond Silicon Valley: Expanding Access to Capital Across America.’’
+On May 20, 2025, the Committee met in open session to consider,
+among others, H.R. 3339. The Committee ordered H.R. 3339, as
+amended to be favorably reported to the House of Representatives.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearings were used to develop
+H.R. 3339:
+The Capital Markets Subcommittee of the Committee on Finan-
+cial Services held a February 26, 2025, hearing titled ‘‘The Future
+of American Capital: Strengthening Public and Private Markets by
+Increasing Investor Access and Facilitating Capital Formation’’ and
+the Full Committee held a March 25, 2025, hearing titled, ‘‘Beyond
+Silicon Valley: Expanding Access to Capital Across America.’’ A dis-
+cussion draft version of the bill was attached to both hearings. The
+following witnesses testified at the February 26, 2025, hearing: Mr.
+Andrew Barnell, CEO and Co-Founder, Geneoscopy; Mr. McKeever
+Conwell, Founder and Managing Partner, RareBreed Ventures; Ms.
+Rebecca Kacaba, CEO and Co-Founder, DealMaker; Ms. Anna
+Pinedo, Partner, Mayer Brown; and Ms. Alexandra Thornton, Sen-
+ior Director, Financial Regulation, Center for American Progress.
+The following witnesses testified at the March 25, 2025, hearing:
+Mr. Steve Case, Chairman and CEO, Revolution LLC Mr. Bill New-
+ell, Senior Business Advisor & Former CEO, Sutro Biopharma; Ms.
+Candice Matthews Brackeen, General Partner, Lightship Capital;
+Mr. Joel Trotter, Partner, Latham & Watkins LLP; and Ms. Aman-
+da Senn, Director of the Alabama Securities Commission.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On May 20, 2025, the Committee ordered H.R. 3339, as amend-
+ed, to be reported favorably to the House by a recorded vote of 49
+yeas and 2 nays, a quorum being present. (Record Vote No. FC–
+111).
+VerDate Sep 11 2014 04:11 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR127.XXX HR127
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+Before the question to report was called, the Committee adopted
+an amendment in the nature of a substitute, designated
+FLOOD_014, which made minor edits and technical changes, of-
+fered by Representative Flood. The amendment was adopted by
+voice vote, a quorum being present.
+VerDate Sep 11 2014 04:11 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR127.XXX HR127
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+5
+VerDate Sep 11 2014 04:11 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR127.XXX HR127
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 5:
+100.721RH
+ereh
+7
+oilof
+tesffo
+tresnI
+6
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 3339 is to expand the pathways
+to qualify as an accredited investor by allowing certification for in-
+dividuals who pass an examination established by the SEC and ad-
+ministered by FINRA, thereby modernizing the existing definition
+that has inappropriately sidelined sophisticated, but not wealthy,
+individuals from high-growth asset classes historically reserved for
+the wealthiest individuals.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 3339. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of House rule XIII, the Committee will adopt as its own the
+cost estimate by the Director of the Congressional Budget Office
+once it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+VerDate Sep 11 2014 04:11 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR127.XXX HR127
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+7
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+
+Section 6:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 7:
+Section 1. Short title
+This section cites H.R. 3339 as the ‘‘Equal Opportunity for All In-
+vestors Act of 2025.’’
+
+Section 8:
+Section 2. Certification examination for accredited investors
+This section amends the definition of an accredited investor in
+Regulation D to include individuals who are certified through an
+examination established by the Securities and Exchange Commis-
+sion (SEC) and administered by Financial Industry Regulatory Au-
+thority (FINRA). This section requires the examination be designed
+with an appropriate level of difficulty such that an individual with
+financial sophistication would be unlikely to fail and may include
+methods to determine competency with respect to different types of
+securities, disclosure requirements under the federal securities
+laws, corporate governance, financial statement, aspect of unregis-
+tered securities, potential conflicts of interest between financial
+professionals and their clients, and other criteria the SEC deter-
+mines necessary. This section also requires that the examination be
+offered free of charge to the public.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+H.R. 3339 does not repeal or amend any section of a statute.
+Therefore, the Office of Legislative Counsel did not prepare the re-
+port required under clause 3(e) of rule XIII of the House of Rep-
+resentatives.
+Æ
+VerDate Sep 11 2014 04:11 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6611 E:\HR\OC\HR127.XXX HR127
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–127
+EQUAL OPPORTUNITY FOR ALL INVESTORS ACT OF 2025
+JUNE3, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+[To accompany H.R. 3339]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 3339) to require certification examinations for accredited
+investors, and for other purposes, having considered the same, re-
+ports favorably thereon with an amendment and recommends that
+the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Consideration ........................................................................................ 3
+Related Hearings ..................................................................................................... 3
+Committee Votes ...................................................................................................... 3
+Committee Oversight Findings ............................................................................... 6
+Performance Goals and Objectives ......................................................................... 6
+Committee Cost Estimate ....................................................................................... 6
+New Budget Authority and CBO Cost Estimate ................................................... 6
+Unfunded Mandates Statement .............................................................................. 6
+Earmark Statement ................................................................................................. 6
+Federal Advisory Committee Act Statement ......................................................... 7
+Applicability to the Legislative Branch ................................................................. 7
+Duplication of Federal Programs ............................................................................ 7
+Section-by-Section Analysis of the Legislation ...................................................... 7
+Changes in Existing Law Made by the Bill, as Reported ..................................... 7
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Equal Opportunity for All Investors Act of 2025’’.
+SEC. 2. CERTIFICATION EXAMINATIONS FOR ACCREDITED INVESTORS.
+(a) INGENERAL.—The Commission shall revise the definition of ‘‘accredited inves-
+tor’’ under Regulation D (section 230.500 et seq. of title 17, Code of Federal Regula-
+59–006
+VerDate Sep 11 2014 04:11 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6621 E:\HR\OC\HR127.XXX HR127
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+tions) to include any natural person who is certified through the examination re-
+quired under subsection (b).
+(b) ESTABLISHMENT OF EXAMINATION.—Not later than 1 year after the date of the
+enactment of this Act, the Commission shall establish an examination (including a
+test, certification, or examination program)—
+(1) to certify an individual as an accredited investor; and
+(2) that—
+(A) is designed with an appropriate level of difficulty such that an indi-
+vidual with financial sophistication would be unlikely to fail; and
+(B) includes methods to determine whether an individual seeking to be
+certified as an accredited investor demonstrates competency with respect
+to—
+(i) the different types of securities;
+(ii) the disclosure requirements under the securities laws applicable
+to issuers and offerings of securities exempt from registration under
+section 5 of the Securities Act of 1933 as compared to issuers and offer-
+ings of securities subject to such section 5;
+(iii) corporate governance;
+(iv) financial statements and the components of such statements;
+(v) aspects of unregistered securities, securities issued by private
+companies, and investments into private funds, including risks associ-
+ated with—
+(I) limited liquidity;
+(II) limited disclosures;
+(III) subjectivity and variability in valuations and the analytical
+tools investors may use to assess such valuations;
+(IV) information asymmetry;
+(V) leverage risks;
+(VI) concentration risk; and
+(VII) longer investment horizons;
+(vi) potential conflicts of interest, when the interests of financial pro-
+fessionals and their clients are misaligned or when their professional
+responsibilities may be in conflict with financial motivations; and
+(vii) such other criteria as the Commission determines necessary or
+appropriate in the public interest or for the protection of investors.
+(c) ADMINISTRATION.—Beginning not later than 180 days after the date the exam-
+ination is established under subsection (b), such examination shall be administered
+and offered free of charge to the public by a registered national securities associa-
+tion under section 15A of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3).
+(d) COMMISSION DEFINED.—In this section, the term ‘‘Commission’’ means the Se-
+curities and Exchange Commission.
+PURPOSE AND SUMMARY
+H.R. 3339, the Equal Opportunity for All Investors Act of 2025,
+was introduced on May 13, 2025, by Representative Mike Flood
+(NE–01). H.R. 3339 expands the ‘‘accredited investor’’ definition to
+include individuals who are certified through an examination es-
+tablished by the Securities and Exchange Commission (SEC) and
+administered by the Financial Industry Regulatory Authority
+(FINRA).
+BACKGROUND AND NEED FOR LEGISLATION
+To qualify as an accredited investor, the SEC requires individ-
+uals and businesses to meet one of several financial or professional
+criteria.1 H.R. 3339 expands the pathways to qualify as an accred-
+ited investor by allowing certification for individuals who pass an
+examination established by the SEC and administered by FINRA.
+This approach modernizes the existing definition that has inappro-
+priately sidelined sophisticated, but not wealthy, individuals from
+117 C.F.R. §270.
+VerDate Sep 11 2014 04:11 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR127.XXX HR127
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+high-growth asset classes historically reserved for the wealthiest
+individuals.
+COMMITTEE CONSIDERATION
+119TH CONGRESS
+On May 13, 2025, Representative Mike Flood (R–NE) introduced
+H.R. 3339, the Equal Opportunity for All Investors Act of 2025,
+with Representatives Cleo Fields (D–LA), Mike Lawler (R–NY),
+Sarah McBride (D–DE), and Shri Thanedar (D–MI) as original co-
+sponsors. The bill was referred solely to the Committee on Finan-
+cial Services. The bill was attached to the February 26, 2025, hear-
+ing titled ‘‘The Future of American Capital: Strengthening Public
+and Private Markets by Increasing Investor Access and Facilitating
+Capital Formation’’ and the March 25, 2025, hearing titled, ‘‘Be-
+yond Silicon Valley: Expanding Access to Capital Across America.’’
+On May 20, 2025, the Committee met in open session to consider,
+among others, H.R. 3339. The Committee ordered H.R. 3339, as
+amended to be favorably reported to the House of Representatives.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearings were used to develop
+H.R. 3339:
+The Capital Markets Subcommittee of the Committee on Finan-
+cial Services held a February 26, 2025, hearing titled ‘‘The Future
+of American Capital: Strengthening Public and Private Markets by
+Increasing Investor Access and Facilitating Capital Formation’’ and
+the Full Committee held a March 25, 2025, hearing titled, ‘‘Beyond
+Silicon Valley: Expanding Access to Capital Across America.’’ A dis-
+cussion draft version of the bill was attached to both hearings. The
+following witnesses testified at the February 26, 2025, hearing: Mr.
+Andrew Barnell, CEO and Co-Founder, Geneoscopy; Mr. McKeever
+Conwell, Founder and Managing Partner, RareBreed Ventures; Ms.
+Rebecca Kacaba, CEO and Co-Founder, DealMaker; Ms. Anna
+Pinedo, Partner, Mayer Brown; and Ms. Alexandra Thornton, Sen-
+ior Director, Financial Regulation, Center for American Progress.
+The following witnesses testified at the March 25, 2025, hearing:
+Mr. Steve Case, Chairman and CEO, Revolution LLC Mr. Bill New-
+ell, Senior Business Advisor & Former CEO, Sutro Biopharma; Ms.
+Candice Matthews Brackeen, General Partner, Lightship Capital;
+Mr. Joel Trotter, Partner, Latham & Watkins LLP; and Ms. Aman-
+da Senn, Director of the Alabama Securities Commission.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On May 20, 2025, the Committee ordered H.R. 3339, as amend-
+ed, to be reported favorably to the House by a recorded vote of 49
+yeas and 2 nays, a quorum being present. (Record Vote No. FC–
+111).
+VerDate Sep 11 2014 04:11 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR127.XXX HR127
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+Before the question to report was called, the Committee adopted
+an amendment in the nature of a substitute, designated
+FLOOD_014, which made minor edits and technical changes, of-
+fered by Representative Flood. The amendment was adopted by
+voice vote, a quorum being present.
+VerDate Sep 11 2014 04:11 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR127.XXX HR127
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+5
+VerDate Sep 11 2014 04:11 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR127.XXX HR127
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.721RH
+ereh
+7
+oilof
+tesffo
+tresnI
+
+6
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 3339 is to expand the pathways
+to qualify as an accredited investor by allowing certification for in-
+dividuals who pass an examination established by the SEC and ad-
+ministered by FINRA, thereby modernizing the existing definition
+that has inappropriately sidelined sophisticated, but not wealthy,
+individuals from high-growth asset classes historically reserved for
+the wealthiest individuals.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 3339. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of House rule XIII, the Committee will adopt as its own the
+cost estimate by the Director of the Congressional Budget Office
+once it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+VerDate Sep 11 2014 04:11 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR127.XXX HR127
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+7
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+This section cites H.R. 3339 as the ‘‘Equal Opportunity for All In-
+vestors Act of 2025.’’
+Section 2. Certification examination for accredited investors
+This section amends the definition of an accredited investor in
+Regulation D to include individuals who are certified through an
+examination established by the Securities and Exchange Commis-
+sion (SEC) and administered by Financial Industry Regulatory Au-
+thority (FINRA). This section requires the examination be designed
+with an appropriate level of difficulty such that an individual with
+financial sophistication would be unlikely to fail and may include
+methods to determine competency with respect to different types of
+securities, disclosure requirements under the federal securities
+laws, corporate governance, financial statement, aspect of unregis-
+tered securities, potential conflicts of interest between financial
+professionals and their clients, and other criteria the SEC deter-
+mines necessary. This section also requires that the examination be
+offered free of charge to the public.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+H.R. 3339 does not repeal or amend any section of a statute.
+Therefore, the Office of Legislative Counsel did not prepare the re-
+port required under clause 3(e) of rule XIII of the House of Rep-
+resentatives.
+Æ
+VerDate Sep 11 2014 04:11 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6611 E:\HR\OC\HR127.XXX HR127
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

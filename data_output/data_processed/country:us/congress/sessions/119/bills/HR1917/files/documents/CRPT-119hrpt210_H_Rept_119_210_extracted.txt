@@ -1,0 +1,654 @@
+Title: JULY21, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JULY21, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 17
+Source: documents - H. Rept. 119-210
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–210
+GREAT LAKES MASS MARKING PROGRAM ACT OF 2025
+the Union and ordered to be printed
+Mr. WESTERMAN, from the Committee on Natural Resources,
+submitted the following
+R E P O R T
+[To accompany H.R. 1917]
+The Committee on Natural Resources, to whom was referred the
+bill (H.R. 1917) to establish the Great Lakes Mass Marking Pro-
+gram, and for other purposes, having considered the same, reports
+favorably thereon with an amendment and recommends that the
+bill as amended do pass.
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 2:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Great Lakes Mass Marking Program Act of 2025’’.
+SEC. 2. FINDINGS.
+Congress finds that—
+(1) the Great Lakes have experienced rapid changes in recent years due to—
+(A) the introduction of multiple aquatic invasive species;
+(B) alterations in the food web; and
+(C) decreases in the abundance of prey species;
+(2) due to rapid biological change in the Great Lakes, the Great Lakes need
+a collaborative, science-based program to assist in making management actions
+regarding fish stocking rates, the rehabilitation of important fish species, and
+habitat restoration;
+(3) the States of Illinois, Indiana, Michigan, Minnesota, Ohio, Pennsylvania,
+New York, and Wisconsin and Indian Tribes in those States, working through
+the Council of Lake Committees of the Great Lakes Fishery Commission, have
+identified that mass marking is—
+(A) a precise tool to keep hatchery-produced fish in balance with wild
+fish; and
+(B) essential to achieving fishery management and research objectives
+through producing a better understanding of—
+(i) the quantity of hatchery produced fish compared to wild fish in
+the Great Lakes;
+(ii) the effectiveness of hatchery operations; and
+(iii) the effectiveness of fishery management actions;
+(4) the mass marking program of the United States Fish and Wildlife Service
+in the Great Lakes—
+59–006
+VerDate Sep 11 2014 06:29 Aug 13, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6621 E:\HR\OC\HR210.XXX HR210
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+2
+(A) was initiated in 2010 on a limited scale;
+(B) annually tags approximately 9,000,000 to 11,000,000 of the hatchery-
+produced fish stocked in the Great Lakes;
+(C) is a basinwide cooperative effort among the United States Fish and
+Wildlife Service, Indian Tribes, and State management agencies; and
+(D) produces data used by State and Tribal fish management agencies to
+make management decisions regarding Great Lakes fisheries;
+(5) annually, Federal, State, and Tribal agencies stock approximately
+21,000,000 hatchery-produced fish in the Great Lakes to support—
+(A) native species recovery; and
+(B) recreational and commercial fishing;
+(6) mass marking of hatchery-produced fish, using automated technology, is
+an efficient method of implementing a collaborative, science-based fishery pro-
+gram; and
+(7) the Great Lakes are an important and valued resource that—
+(A) supports a robust regional economy valued at more than
+$7,000,000,000; and
+(B) provides stability to the economy of the United States.
+SEC. 3. DEFINITIONS.
+In this Act:
+(1) DIRECTOR.—The term ‘‘Director’’ means the Director of the United States
+Fish and Wildlife Service.
+(2) PROGRAM.—The term ‘‘Program’’ means the Great Lakes Mass Marking
+Program established by section 4(a).
+SEC. 4. GREAT LAKES MASS MARKING PROGRAM.
+(a) INGENERAL.—To assist in determining the effectiveness of hatchery operations
+and fisheries management actions and to support Great Lakes fisheries, there is es-
+tablished within the United States Fish and Wildlife Service a program for the mass
+marking of hatchery-produced fish in the Great Lakes basin, to be known as the
+‘‘Great Lakes Mass Marking Program’’.
+(b) AUTHORIZEDACTIONS.—In carrying out the Program, the Director may—
+(1) purchase capital and expendable equipment, fish tags, and other items
+necessary to support and carry out tagging and tag recovery operations, includ-
+ing data processing and data dissemination relating to those operations; and
+(2) hire additional personnel, as necessary.
+(c) REQUIRED COLLABORATION.—In carrying out the Program, the Director shall
+collaborate with applicable Federal, State, and Tribal fish management agencies,
+the Council of Lake Committees of the Great Lakes Fishery Commission, and sig-
+natories to the Joint Strategic Plan for Management of Great Lakes Fisheries.
+(d) AVAILABILITY OF DATA.—The Director shall make the data collected under the
+Program available to applicable Federal, State, and Tribal fish management agen-
+cies—
+(1) to increase the understanding of the outcomes of management action;
+(2) to assist in meeting the restoration objectives of the Great Lakes, includ-
+ing the fish community objectives and fish management plans described in the
+Joint Strategic Plan for Management of Great Lakes Fisheries;
+(3) to assist in balancing predators and prey;
+(4) to support and improve the economic status of Tribal, recreational, and
+commercial fisheries; and
+(5) to assist in evaluating the effectiveness of habitat restoration efforts in the
+Great Lakes.
+SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
+There is authorized to be appropriated to carry out the Program $2,700,000 for
+each of fiscal years 2026 through 2030.
+PURPOSE OF THE LEGISLATION
+The purpose of H.R. 1917 is to establish the Great Lakes Mass
+Marking Program, and for other purposes.
+BACKGROUND AND NEED FOR LEGISLATION
+According to the Great Lakes Fishery Commission, the tribal,
+commercial, and recreational fisheries in the five Great Lakes are
+VerDate Sep 11 2014 06:29 Aug 13, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR210.XXX HR210
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+3
+home to 177 different species of fish, including 139 native species.1
+These tribal, commercial, and recreational fisheries have an eco-
+nomic value of more than $7 billion annually2 and support up to
+75,000 jobs.3
+One of the challenges that the Great Lakes’ fisheries have faced
+is the prominence of invasive species that place pressure on native
+fish populations and their ecosystems.4 One species, the Sea Lam-
+prey (Petromyzon marinus), is native to the Atlantic Ocean but first
+entered the Great Lakes in the 1920s and 1930s.5 In the roughly
+100 years since sea lampreys first reached this region, Canada and
+the United States went from harvesting roughly 15 million pounds
+of lake trout annually in the upper Great Lakes in the 1940s to
+roughly 300,000 pounds in the 1960s.6 Four carp species—grass,
+black, bighead, and silver carp—also threaten the Great Lakes’
+fisheries.7
+To counter the threat of these invasive species, tribal, federal,
+and state agencies introduce hatchery fish to encourage native spe-
+cies recovery. For example, in 2018, the Michigan Department of
+Natural Resources announced that they had introduced more than
+21 million fish into the state’s waters, including the Great Lakes.8
+More recently, the U.S. Fish and Wildlife Service’s (FWS) ten
+hatcheries that support the Great Lakes region introduced more
+than 4.7 million hatchery fish in all five Great Lakes in 2024.9 To
+gather data on the success of hatchery fish, wildlife managers tag
+large numbers of these fish through a practice known as mass
+marking. This practice allows them to easily distinguish hatchery
+fish from wild fish populations.
+H.R. 1917 would codify the FWS’s existing Great Lakes Mass
+Marking Program, which began in 2010. The activities carried out
+by this program include tagging hatchery fish stocked in the great
+lakes and assisting in cooperative fisheries management decisions
+with states and tribes by producing data on the health of the fish-
+ery.10 An amendment was adopted at markup to lower the author-
+ization level to $2.7 million from Fiscal Year (FY) 2026 through FY
+2030 to carry out this program, which is what the Great Lakes
+Mass Marking Program currently receives in funding.
+COMMITTEE ACTION
+H.R. 1917 was introduced on March 6, 2025, by Representative
+Debbie Dingell (D–MI). The bill was referred to the Committee on
+Natural Resources, and within the Committee to the Subcommittee
+on Water, Wildlife and Fisheries. On March 25, 2025, the Sub-
+1Great Lakes Fishery Commission. The Great Lakes Fishery: A world-class resource! http://
+www.glfc.org/the-fishery.php.
+2Id.
+3Id.
+4Great Lakes Fishery Commission. Invasive Species. https://www.glfc.org/invasive-species.php.
+5Great Lakes Fishery Commission. Sea Lamprey: A Great Lakes Invader. https://
+www.glfc.org/sea-lamprey.php.
+6Id.
+7Great Lakes Fishery Commission. Invasive Carps. https://www.glfc.org/invasive-carps.php.
+8Manistee News Advocate. DNR: More than 21 million fish stocked in 2018. October 22, 2018.
+9U.S. Fish and Wildlife Service Hatchery Statistics. Prepared For: House Committee on Nat-
+ural Resources, Subcommittee on Water, Wildlife, and Fisheries. March 14, 2025. https://
+naturalresources.house.gov/uploadedfiles/final-great-lakes-hatchery-stocking-fac-march-2025.pdf.
+10‘‘Restoring the Great Lakes: Success stories from a decade of the Great Lakes Restora-
+tion Initiative.’’ Charlie Wooley and Wendi Weber. U.S. Fish and Wildlife Service. March
+
+Section 3:
+2020. https://www.fws.gov/sites/default/files/documents/GLRI-Restoring-Great-Lakes-Decade-
+Retrospective.pdf.
+VerDate Sep 11 2014 06:29 Aug 13, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR210.XXX HR210
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+4
+committee on Water, Wildlife, and Fisheries held a hearing on the
+bill. On June 25, 2025, the Committee on Natural Resources met
+to consider the bill. The Subcommittee on Water, Wildlife and Fish-
+eries was discharged from further consideration of H.R. 1917 by
+unanimous consent. Chairman Bruce Westerman (R–AR) offered an
+amendment designated Westerman #1. The amendment was agreed
+to by unanimous consent. The bill, as amended, was then ordered
+favorably reported to the House of Representatives by unanimous
+consent.
+HEARINGS
+For the purposes of clause 3(c)(6) of House rule XIII, the fol-
+lowing hearing was used to develop or consider this measure: hear-
+ing by the Subcommittee on Water, Wildlife and Fisheries held on
+March 25, 2025.
+
+Section 4:
+SECTION-BY-SECTION ANALYSIS
+
+Section 5:
+Section 1. Short title
+
+Section 6:
+Section 1 establishes that this Act may be cited as the ‘‘Great
+Lakes Mass Marking Program Act of 2025’’.
+
+Section 7:
+Section 2. Findings
+
+Section 8:
+Section 2 lists Congress’s findings that rapid biological change in
+the Great Lakes requires a collaborative, science-based program to
+assist in making management actions regarding fish stocking rates,
+the rehabilitation of important fish species, and habitat restoration;
+that various Great Lakes states and tribes have identified mass
+marking as a precise tool to keep hatchery-produced fish in balance
+with wild fish, as being essential to achieving fishery management
+and research objectives, and as an efficient method of imple-
+menting a collaborative, science-based fishery program; and that
+the Great Lakes are an important and valued resource that provide
+substantial economic benefits.
+
+Section 9:
+Section 3. Definitions
+
+Section 10:
+Section 3 defines ‘‘Director’’ to mean the Director of the FWS and
+‘‘Program’’ to mean the Great Lakes Mass Marking Program.
+
+Section 11:
+Section 4. Great Lakes Mass Marking Program
+
+Section 12:
+Section 4 authorizes a Great Lakes Mass Marking Program (the
+Program) within the U.S. Fish and Wildlife Service. It requires col-
+laboration with applicable Federal, State, and Tribal fish manage-
+ment agencies, the Great Lakes Fisheries Commission, and sig-
+natories to the Joint Strategic Plan for Management of Great
+Lakes Fisheries. Section 4 also requires the Program to make all
+data it collects available to applicable Federal, State, and Tribal
+fish management agencies.
+
+Section 13:
+Section 5. Authorization of appropriations
+
+Section 14:
+Section 5 authorizes $2.7 million per year from FY 2026 to FY
+
+Section 15:
+2030.
+VerDate Sep 11 2014 06:29 Aug 13, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR210.XXX HR210
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+5
+COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Regarding clause 2(b)(1) of rule X and clause 3(c)(1) of rule XIII
+of the Rules of the House of Representatives, the Committee on
+Natural Resources’ oversight findings and recommendations are re-
+flected in the body of this report.
+COMPLIANCE WITH HOUSE RULE XIII AND
+CONGRESSIONAL BUDGET ACT
+
+Section 16:
+1. Cost of Legislation and the Congressional Budget Act. Pursu-
+ant to clause 3(c)(2) of House rule XIII and section 308(a) of the
+Congressional Budget Act of 1974, and pursuant to clause 3(c)(3)
+of House rule XIII and section 402 of the Congressional Budget Act
+of 1974, the Committee has requested but not received from the Di-
+rector of the Congressional Budget Office a budgetary analysis and
+a cost estimate of this bill.
+
+Section 17:
+2. General Performance Goals and Objectives. As required by
+clause 3(c)(4) of rule XIII, the general performance goal or objective
+of this bill is to establish the Great Lakes Mass Marking Program,
+and for other purposes.
+EARMARK STATEMENT
+This bill does not contain any Congressional earmarks, limited
+tax benefits, or limited tariff benefits as defined under clause 9(e),
+9(f), and 9(g) of rule XXI of the Rules of the House of Representa-
+tives.
+UNFUNDED MANDATES REFORM ACT STATEMENT
+An estimate of federal mandates prepared by the Director of the
+Congressional Budget Office pursuant to section 423 of the Un-
+funded Mandates Reform Act was not made available to the Com-
+mittee in time for the filing of this report. The Chair of the Com-
+mittee shall cause such estimate to be printed in the Congressional
+Record upon its receipt by the Committee, if such estimate is not
+publicly available on the Congressional Budget Office website.
+EXISTING PROGRAMS
+Directed Rule Making. This bill does not contain any directed
+rule makings.
+Duplication of Existing Programs. This bill does not establish or
+reauthorize a program of the federal government known to be du-
+plicative of another program. Such program was not included in
+any report from the Government Accountability Office to Congress
+pursuant to section 21 of Public Law 111–139 or identified in the
+most recent Catalog of Federal Domestic Assistance published pur-
+suant to the Federal Program Information Act (Public Law 95–220,
+as amended by Public Law 98–169) as relating to other programs.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+VerDate Sep 11 2014 06:29 Aug 13, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR210.XXX HR210
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+6
+PREEMPTION OF STATE, LOCAL OR TRIBAL LAW
+Any preemptive effect of this bill over state, local, or tribal law
+is intended to be consistent with the bill’s purposes and text and
+the Supremacy Clause of Article VI of the U.S. Constitution.
+CHANGES IN EXISTING LAW
+As ordered reported by the Committee on Natural Resources,
+H.R. 1917 would make no changes in existing law.
+Æ
+VerDate Sep 11 2014 06:29 Aug 13, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6611 E:\HR\OC\HR210.XXX HR210
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–210
+GREAT LAKES MASS MARKING PROGRAM ACT OF 2025
+JULY21, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. WESTERMAN, from the Committee on Natural Resources,
+submitted the following
+R E P O R T
+[To accompany H.R. 1917]
+The Committee on Natural Resources, to whom was referred the
+bill (H.R. 1917) to establish the Great Lakes Mass Marking Pro-
+gram, and for other purposes, having considered the same, reports
+favorably thereon with an amendment and recommends that the
+bill as amended do pass.
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Great Lakes Mass Marking Program Act of 2025’’.
+SEC. 2. FINDINGS.
+Congress finds that—
+(1) the Great Lakes have experienced rapid changes in recent years due to—
+(A) the introduction of multiple aquatic invasive species;
+(B) alterations in the food web; and
+(C) decreases in the abundance of prey species;
+(2) due to rapid biological change in the Great Lakes, the Great Lakes need
+a collaborative, science-based program to assist in making management actions
+regarding fish stocking rates, the rehabilitation of important fish species, and
+habitat restoration;
+(3) the States of Illinois, Indiana, Michigan, Minnesota, Ohio, Pennsylvania,
+New York, and Wisconsin and Indian Tribes in those States, working through
+the Council of Lake Committees of the Great Lakes Fishery Commission, have
+identified that mass marking is—
+(A) a precise tool to keep hatchery-produced fish in balance with wild
+fish; and
+(B) essential to achieving fishery management and research objectives
+through producing a better understanding of—
+(i) the quantity of hatchery produced fish compared to wild fish in
+the Great Lakes;
+(ii) the effectiveness of hatchery operations; and
+(iii) the effectiveness of fishery management actions;
+(4) the mass marking program of the United States Fish and Wildlife Service
+in the Great Lakes—
+59–006
+VerDate Sep 11 2014 06:29 Aug 13, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6621 E:\HR\OC\HR210.XXX HR210
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+2
+(A) was initiated in 2010 on a limited scale;
+(B) annually tags approximately 9,000,000 to 11,000,000 of the hatchery-
+produced fish stocked in the Great Lakes;
+(C) is a basinwide cooperative effort among the United States Fish and
+Wildlife Service, Indian Tribes, and State management agencies; and
+(D) produces data used by State and Tribal fish management agencies to
+make management decisions regarding Great Lakes fisheries;
+(5) annually, Federal, State, and Tribal agencies stock approximately
+21,000,000 hatchery-produced fish in the Great Lakes to support—
+(A) native species recovery; and
+(B) recreational and commercial fishing;
+(6) mass marking of hatchery-produced fish, using automated technology, is
+an efficient method of implementing a collaborative, science-based fishery pro-
+gram; and
+(7) the Great Lakes are an important and valued resource that—
+(A) supports a robust regional economy valued at more than
+$7,000,000,000; and
+(B) provides stability to the economy of the United States.
+SEC. 3. DEFINITIONS.
+In this Act:
+(1) DIRECTOR.—The term ‘‘Director’’ means the Director of the United States
+Fish and Wildlife Service.
+(2) PROGRAM.—The term ‘‘Program’’ means the Great Lakes Mass Marking
+Program established by section 4(a).
+SEC. 4. GREAT LAKES MASS MARKING PROGRAM.
+(a) INGENERAL.—To assist in determining the effectiveness of hatchery operations
+and fisheries management actions and to support Great Lakes fisheries, there is es-
+tablished within the United States Fish and Wildlife Service a program for the mass
+marking of hatchery-produced fish in the Great Lakes basin, to be known as the
+‘‘Great Lakes Mass Marking Program’’.
+(b) AUTHORIZEDACTIONS.—In carrying out the Program, the Director may—
+(1) purchase capital and expendable equipment, fish tags, and other items
+necessary to support and carry out tagging and tag recovery operations, includ-
+ing data processing and data dissemination relating to those operations; and
+(2) hire additional personnel, as necessary.
+(c) REQUIRED COLLABORATION.—In carrying out the Program, the Director shall
+collaborate with applicable Federal, State, and Tribal fish management agencies,
+the Council of Lake Committees of the Great Lakes Fishery Commission, and sig-
+natories to the Joint Strategic Plan for Management of Great Lakes Fisheries.
+(d) AVAILABILITY OF DATA.—The Director shall make the data collected under the
+Program available to applicable Federal, State, and Tribal fish management agen-
+cies—
+(1) to increase the understanding of the outcomes of management action;
+(2) to assist in meeting the restoration objectives of the Great Lakes, includ-
+ing the fish community objectives and fish management plans described in the
+Joint Strategic Plan for Management of Great Lakes Fisheries;
+(3) to assist in balancing predators and prey;
+(4) to support and improve the economic status of Tribal, recreational, and
+commercial fisheries; and
+(5) to assist in evaluating the effectiveness of habitat restoration efforts in the
+Great Lakes.
+SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
+There is authorized to be appropriated to carry out the Program $2,700,000 for
+each of fiscal years 2026 through 2030.
+PURPOSE OF THE LEGISLATION
+The purpose of H.R. 1917 is to establish the Great Lakes Mass
+Marking Program, and for other purposes.
+BACKGROUND AND NEED FOR LEGISLATION
+According to the Great Lakes Fishery Commission, the tribal,
+commercial, and recreational fisheries in the five Great Lakes are
+VerDate Sep 11 2014 06:29 Aug 13, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR210.XXX HR210
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+3
+home to 177 different species of fish, including 139 native species.1
+These tribal, commercial, and recreational fisheries have an eco-
+nomic value of more than $7 billion annually2 and support up to
+75,000 jobs.3
+One of the challenges that the Great Lakes’ fisheries have faced
+is the prominence of invasive species that place pressure on native
+fish populations and their ecosystems.4 One species, the Sea Lam-
+prey (Petromyzon marinus), is native to the Atlantic Ocean but first
+entered the Great Lakes in the 1920s and 1930s.5 In the roughly
+100 years since sea lampreys first reached this region, Canada and
+the United States went from harvesting roughly 15 million pounds
+of lake trout annually in the upper Great Lakes in the 1940s to
+roughly 300,000 pounds in the 1960s.6 Four carp species—grass,
+black, bighead, and silver carp—also threaten the Great Lakes’
+fisheries.7
+To counter the threat of these invasive species, tribal, federal,
+and state agencies introduce hatchery fish to encourage native spe-
+cies recovery. For example, in 2018, the Michigan Department of
+Natural Resources announced that they had introduced more than
+21 million fish into the state’s waters, including the Great Lakes.8
+More recently, the U.S. Fish and Wildlife Service’s (FWS) ten
+hatcheries that support the Great Lakes region introduced more
+than 4.7 million hatchery fish in all five Great Lakes in 2024.9 To
+gather data on the success of hatchery fish, wildlife managers tag
+large numbers of these fish through a practice known as mass
+marking. This practice allows them to easily distinguish hatchery
+fish from wild fish populations.
+H.R. 1917 would codify the FWS’s existing Great Lakes Mass
+Marking Program, which began in 2010. The activities carried out
+by this program include tagging hatchery fish stocked in the great
+lakes and assisting in cooperative fisheries management decisions
+with states and tribes by producing data on the health of the fish-
+ery.10 An amendment was adopted at markup to lower the author-
+ization level to $2.7 million from Fiscal Year (FY) 2026 through FY
+2030 to carry out this program, which is what the Great Lakes
+Mass Marking Program currently receives in funding.
+COMMITTEE ACTION
+H.R. 1917 was introduced on March 6, 2025, by Representative
+Debbie Dingell (D–MI). The bill was referred to the Committee on
+Natural Resources, and within the Committee to the Subcommittee
+on Water, Wildlife and Fisheries. On March 25, 2025, the Sub-
+1Great Lakes Fishery Commission. The Great Lakes Fishery: A world-class resource! http://
+www.glfc.org/the-fishery.php.
+2Id.
+3Id.
+4Great Lakes Fishery Commission. Invasive Species. https://www.glfc.org/invasive-species.php.
+5Great Lakes Fishery Commission. Sea Lamprey: A Great Lakes Invader. https://
+www.glfc.org/sea-lamprey.php.
+6Id.
+7Great Lakes Fishery Commission. Invasive Carps. https://www.glfc.org/invasive-carps.php.
+8Manistee News Advocate. DNR: More than 21 million fish stocked in 2018. October 22, 2018.
+9U.S. Fish and Wildlife Service Hatchery Statistics. Prepared For: House Committee on Nat-
+ural Resources, Subcommittee on Water, Wildlife, and Fisheries. March 14, 2025. https://
+naturalresources.house.gov/uploadedfiles/final-great-lakes-hatchery-stocking-fac-march-2025.pdf.
+10‘‘Restoring the Great Lakes: Success stories from a decade of the Great Lakes Restora-
+tion Initiative.’’ Charlie Wooley and Wendi Weber. U.S. Fish and Wildlife Service. March
+2020. https://www.fws.gov/sites/default/files/documents/GLRI-Restoring-Great-Lakes-Decade-
+Retrospective.pdf.
+VerDate Sep 11 2014 06:29 Aug 13, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR210.XXX HR210
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+4
+committee on Water, Wildlife, and Fisheries held a hearing on the
+bill. On June 25, 2025, the Committee on Natural Resources met
+to consider the bill. The Subcommittee on Water, Wildlife and Fish-
+eries was discharged from further consideration of H.R. 1917 by
+unanimous consent. Chairman Bruce Westerman (R–AR) offered an
+amendment designated Westerman #1. The amendment was agreed
+to by unanimous consent. The bill, as amended, was then ordered
+favorably reported to the House of Representatives by unanimous
+consent.
+HEARINGS
+For the purposes of clause 3(c)(6) of House rule XIII, the fol-
+lowing hearing was used to develop or consider this measure: hear-
+ing by the Subcommittee on Water, Wildlife and Fisheries held on
+March 25, 2025.
+SECTION-BY-SECTION ANALYSIS
+Section 1. Short title
+Section 1 establishes that this Act may be cited as the ‘‘Great
+Lakes Mass Marking Program Act of 2025’’.
+Section 2. Findings
+Section 2 lists Congress’s findings that rapid biological change in
+the Great Lakes requires a collaborative, science-based program to
+assist in making management actions regarding fish stocking rates,
+the rehabilitation of important fish species, and habitat restoration;
+that various Great Lakes states and tribes have identified mass
+marking as a precise tool to keep hatchery-produced fish in balance
+with wild fish, as being essential to achieving fishery management
+and research objectives, and as an efficient method of imple-
+menting a collaborative, science-based fishery program; and that
+the Great Lakes are an important and valued resource that provide
+substantial economic benefits.
+Section 3. Definitions
+Section 3 defines ‘‘Director’’ to mean the Director of the FWS and
+‘‘Program’’ to mean the Great Lakes Mass Marking Program.
+Section 4. Great Lakes Mass Marking Program
+Section 4 authorizes a Great Lakes Mass Marking Program (the
+Program) within the U.S. Fish and Wildlife Service. It requires col-
+laboration with applicable Federal, State, and Tribal fish manage-
+ment agencies, the Great Lakes Fisheries Commission, and sig-
+natories to the Joint Strategic Plan for Management of Great
+Lakes Fisheries. Section 4 also requires the Program to make all
+data it collects available to applicable Federal, State, and Tribal
+fish management agencies.
+Section 5. Authorization of appropriations
+Section 5 authorizes $2.7 million per year from FY 2026 to FY
+2030.
+VerDate Sep 11 2014 06:29 Aug 13, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR210.XXX HR210
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+5
+COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Regarding clause 2(b)(1) of rule X and clause 3(c)(1) of rule XIII
+of the Rules of the House of Representatives, the Committee on
+Natural Resources’ oversight findings and recommendations are re-
+flected in the body of this report.
+COMPLIANCE WITH HOUSE RULE XIII AND
+CONGRESSIONAL BUDGET ACT
+1. Cost of Legislation and the Congressional Budget Act. Pursu-
+ant to clause 3(c)(2) of House rule XIII and section 308(a) of the
+Congressional Budget Act of 1974, and pursuant to clause 3(c)(3)
+of House rule XIII and section 402 of the Congressional Budget Act
+of 1974, the Committee has requested but not received from the Di-
+rector of the Congressional Budget Office a budgetary analysis and
+a cost estimate of this bill.
+2. General Performance Goals and Objectives. As required by
+clause 3(c)(4) of rule XIII, the general performance goal or objective
+of this bill is to establish the Great Lakes Mass Marking Program,
+and for other purposes.
+EARMARK STATEMENT
+This bill does not contain any Congressional earmarks, limited
+tax benefits, or limited tariff benefits as defined under clause 9(e),
+9(f), and 9(g) of rule XXI of the Rules of the House of Representa-
+tives.
+UNFUNDED MANDATES REFORM ACT STATEMENT
+An estimate of federal mandates prepared by the Director of the
+Congressional Budget Office pursuant to section 423 of the Un-
+funded Mandates Reform Act was not made available to the Com-
+mittee in time for the filing of this report. The Chair of the Com-
+mittee shall cause such estimate to be printed in the Congressional
+Record upon its receipt by the Committee, if such estimate is not
+publicly available on the Congressional Budget Office website.
+EXISTING PROGRAMS
+Directed Rule Making. This bill does not contain any directed
+rule makings.
+Duplication of Existing Programs. This bill does not establish or
+reauthorize a program of the federal government known to be du-
+plicative of another program. Such program was not included in
+any report from the Government Accountability Office to Congress
+pursuant to section 21 of Public Law 111–139 or identified in the
+most recent Catalog of Federal Domestic Assistance published pur-
+suant to the Federal Program Information Act (Public Law 95–220,
+as amended by Public Law 98–169) as relating to other programs.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+VerDate Sep 11 2014 06:29 Aug 13, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR210.XXX HR210
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD
+
+6
+PREEMPTION OF STATE, LOCAL OR TRIBAL LAW
+Any preemptive effect of this bill over state, local, or tribal law
+is intended to be consistent with the bill’s purposes and text and
+the Supremacy Clause of Article VI of the U.S. Constitution.
+CHANGES IN EXISTING LAW
+As ordered reported by the Committee on Natural Resources,
+H.R. 1917 would make no changes in existing law.
+Æ
+VerDate Sep 11 2014 06:29 Aug 13, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6611 E:\HR\OC\HR210.XXX HR210
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmD

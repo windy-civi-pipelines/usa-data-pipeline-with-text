@@ -1,0 +1,703 @@
+Title: JULY10, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JULY10, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 10
+Source: documents - H. Rept. 119-198
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–198
+SYRIA TERRORISM THREAT ASSESSMENT ACT
+the Union and ordered to be printed
+Mr. GREEN of Tennessee, from the Committee on Homeland
+Security, submitted the following
+R E P O R T
+[To accompany H.R. 1327]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Homeland Security, to whom was referred the
+bill (H.R. 1327) to direct the Secretary of Homeland Security to
+conduct a threat assessment of terrorist threats to the United
+States posed by individuals in Syria with an affiliation with a For-
+eign Terrorist Organization or a Specially Designated Global Ter-
+rorist Organization, and for other purposes, having considered the
+same, reports favorably thereon without amendment and rec-
+ommends that the bill do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 1
+Background and Need for Legislation .................................................................... 2
+Hearings ................................................................................................................... 4
+Committee Consideration ........................................................................................ 4
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings ............................................................................... 4
+C.B.O. Estimate, New Budget Authority, Entitlement Authority, and Tax
+Expenditures ........................................................................................................ 4
+Federal Mandates Statement ................................................................................. 5
+Duplicative Federal Programs ................................................................................ 5
+Statement of General Performance Goals and Objectives .................................... 5
+Congressional Earmarks, Limited Tax Benefits, and Limited Tariff Benefits ... 6
+Advisory Committee Statement .............................................................................. 6
+Applicability to Legislative Branch ........................................................................ 6
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 6
+PURPOSE AND SUMMARY
+H.R. 1327, the ‘‘Syria Terrorism Threat Assessment Act of 2025,’’
+directs the Secretary of Homeland Security to conduct a threat as-
+59–006
+VerDate Sep 11 2014 04:05 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR198.XXX HR198
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+sessment of terrorist threats to the United States posed by individ-
+uals in Syria with an affiliation with a Foreign Terrorist Organiza-
+tion (FTO) or a Specially Designated Global Terrorist Organization
+(including but not limited to, Ansar al Islam, Islamic Jihad Union,
+Katibat Imam al Bukhari, Katibat al Tawhid wal Jihad, and other
+organizations). The Secretary, in coordination with other relevant
+Federal agencies, will be responsible for conducting the threat as-
+sessment identifying these individuals and their country of origin,
+as well as the capability of the Department of Homeland Security
+(DHS, the Department) in identifying, tracking, and monitoring
+these individuals, and a description of any action the Department
+has taken to mitigate terrorist threats posed by these individuals
+or prevent their entry to the United States.
+BACKGROUND AND NEED FOR LEGISLATION
+The persistent threat of terrorism remains a central concern for
+U.S. national security, particularly in the context of instability in
+the Middle East. Since the outbreak of civil conflict in 2011, Syria
+has been a magnet for foreign fighters and a breeding ground for
+extremist activity, including for several U.S.-designated terrorist
+organizations which pose direct and indirect threats to the United
+States and its allies. The ongoing instability in Syria and the
+breakdown of centralized authority has led to the patchwork con-
+trol of its territory and allowed terrorist groups to exploit
+ungoverned spaces for training camps, logistical operations, and
+digital recruitment.1 Moreover, the return or migration of foreign
+fighters from Syria to their countries of origin—including the
+United States and European nations—poses an additional vector
+for terrorism risk.
+Since Bashar Al Asad’s fall in December 2024, Hayat Tahrir al
+Sham (HTS), a coalition of northern Syria-based Sunni Islamist in-
+surgent groups, has established an interim government.2 In May
+2018, the U.S. State Department added HTS to its Al-Nusrah
+Front’s FTO designation.3 Al-Nusrah is an al-Qaeda (AQ) affiliated
+group operating in Syria. Reportedly, while HTS has distanced
+itself from AQ and now oppose the Islamic State, HTS remains a
+designated terrorist organization. In addition to HTS, other con-
+cerning groups are operating within Syria (i.e. Ansar al-Islam, the
+Islamic Jihad Union, Katibat Imam al Bukhari, and Katibat al
+Tawhid wal Jihad). These organizations have varying degrees of af-
+filiation with global jihadist movements such as al-Qaeda and ISIS
+and share ideological goals that often include targeting U.S. and
+Western interests, overthrowing secular governments, and estab-
+lishing Islamist states.
+For example, Ansar al-Islam, originally formed in northern Iraq
+in the early 2000s, has maintained operational capability in both
+Iraq and Syria, espousing a Salafi-jihadist ideology and conducting
+1Michael Singh, After Assad: Navigating Syria Policy (Part 1), THE WASHINGTON INSTI-
+TUTE FOR NEAR EAST POLICY, Feb. 13, 2025, https://www.washingtoninstitute.org/policy-
+analysis/after-assad-navigating-syria-policy-part-1#:∼:text=Threats%20to%20U.S.%20Interests
+&text=The%20Islamic%20State%20(IS)%2C,it%20continues%20to%20mount%20attacks.
+2CHRISTOPHER M. BLANCHARD, CONG. RESEARCH SERV, RL33487, SYRIA: TRANSI-
+TION AND U.S. POLICY (2025).
+3Amendment to the Terrorist Designations of al-Nusrah Front, U.S. DEP’T OF STATE, https://
+2017-2021.state.gov/amendments-to-the-terrorist-designations-of-al-nusrah-front/ (last visited
+May 31, 2018).
+VerDate Sep 11 2014 04:05 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR198.XXX HR198
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+attacks against both U.S. forces and local governments.4 The Is-
+lamic Jihad Union (IJU), a splinter group from the Islamic Move-
+ment of Uzbekistan, has historically operated in Central Asia and
+Afghanistan but has reportedly extended its network into Syria.
+With a stated goal of overthrowing secular regimes and replacing
+them with Islamic rule, IJU is aligned ideologically with al-Qaeda
+and has been implicated in plots against Western targets.5 Katibat
+Imam al Bukhari6 and Katibat al Tawhid wal Jihad7 are lesser-
+known but dangerous jihadist factions, who have operated in co-
+ordination with al-Qaeda affiliates in Syria, including Hayat Tahrir
+al-Sham. Their transnational composition and ties to broader
+jihadist networks raise concerns about their ability to project
+threats beyond the Middle East.
+Considering the sustained activity of terrorist organizations with-
+in Syria, in December 2024, an estimated 2,000 U.S. military forces
+were deployed in eastern and southern Syria, carrying out counter-
+terrorism missions and supporting Syrian partner forces who have
+detained over 9,000 ISIS prisoners and administer detention camps
+of over 40,000 individuals from previously ISIS-held locations.8 Re-
+cently, U.S. Central Command carried out a series of airstrikes
+against multiple known ISIS camps in Syria just last October.9
+These strikes were conducted to degrade the ability of ISIS to plot,
+organize, and carry out attacks against the U.S., its allies and part-
+ners, and civilians throughout the region and beyond.
+While U.S. counterterrorism operations in Syria aim to mitigate
+threats at their source, attention has increasingly shifted to the po-
+tential domestic security implications associated with individuals
+displaced by the conflict and now present within the United States.
+As of January 2025, an estimated 7.4 million Syrians have been in-
+ternally displaced, and 4.7 million Syrians were registered as refu-
+gees.10 Furthermore, over the last four years, DHS has faced an
+unprecedented number of Special Interest Aliens (SIAs) from out-
+side the Western Hemisphere, including individuals from Syria.11
+4Kathryn Gregory, Ansar al-Islam (Iraq, Islamists/Kurdish Separatists), Ansar al-Sunnah,
+COUNCIL ON FOREIGN RELATIONS, https://www.cfr.org/backgrounder/ansar-al-islam-iraq-
+islamistskurdish-separatists-ansar-al-sunnah#:∼:text=Introduction,northern%20and%20central
+%20Iraq%20today (last visited Nov. 5, 2008, 7:00AM).
+5Islamic Jihad Group, United Nations Security Council, https://main.un.org/securitycouncil/
+en/sanctions/1267/aq_sanctions_list/summaries/entity/islamic-jihad-group#:∼:text=IJU%20
+conducted%20a%20number%20of,responsibility%20for%20the%20foiled%20plot (last visited Mar.
+14, 2022).
+6State Department Terrorist Designation of Katibat al-Imam al-Bukhari, U.S. DEP’T OF
+STATE, https://2017-2021.state.gov/state-department-terrorist-designation-of-katibat-al-imam-al-
+bukhari/, (last visited Mar 22, 2018).
+7Press Statement, U.S. Dep’t of State, Terrorist Designation of Katibat al Tawhid wal Jihad
+(Mar. 7, 2022), available at https://2021–2025.state.gov/terrorist-designation-of-katibat-
+al-tawhid-wal-jihad/.
+8 DOD Announces 2,000 troops in Syria, Department Prepared for Government Shutdown,
+U.S. Dep’t of Def., https://www.defense.gov/News/News-Stories/Article/Article/4013726/dod-
+announces-2000-troops-in-syria-department-prepared-for-government-shutdown/ (last visited
+Dec. 19, 2024).
+9 Press Release, U.S. Central Command, U.S. Central Command Conducts Airstrikes Against
+Several ISIS Camps in Syria (Oct. 30, 2024) (on file with author), available at https://
+www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3951025/us-central-
+command-conducts-airstrikes-against-several-isis-camps-in-syria/.
+10Samuel Davidoff-Gore, The Long Horizon of Returns to Syria, GEORGETOWN JOURNAL
+OF INTERNATIONAL AFFAIRS, (Apr. 30, 2025), https://gjia.georgetown.edu/2025/04/30/the-
+long-horizon-of-returns-to-syria/#:∼:text=On%20December%208%2C%202024%2C%20the,became
+%20internally%20displaced%20(IDPs).
+11U.S. Dep’t of Homeland Sec., Home and Away: DHS and the Threats to America, Remarks
+delivered by Secretary Kelly at George Washington University Center for Cyber and Homeland
+Security, (ARCHIVED).
+VerDate Sep 11 2014 04:05 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR198.XXX HR198
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+Per DHS, Special Interest Aliens are non-U.S. persons, based on an
+analysis of travel patterns, potentially pose a national risk to the
+U.S.12
+Ultimately, a comprehensive and thorough assessment of these
+individuals and groups is crucial to safeguarding the United States
+from potential terrorist threats, allowing both DHS and Congress
+to assess if policy or procedural changes are needed to mitigate
+identified risks allocate intelligence, border security, and counter-
+terrorism resources more effectively.
+HEARINGS
+The Committee has not held a hearing that guided the develop-
+ment of this legislation in the 119th Congress.
+COMMITTEE CONSIDERATION
+The Subcommittee on Counterterrorism and Intelligence met on
+March 25, 2025, a quorum being present, to consider H.R. 1327 and
+ordered the measure to be favorably reported to the Full Com-
+mittee by voice vote.
+The Committee met on April 9, 2025, a quorum being present,
+to consider H.R. 1327 and ordered the measure to be favorably re-
+ported to the House by voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the re-
+corded votes on the motion to report legislation and amendments
+thereto.
+No recorded votes were requested during consideration of H.R.
+
+Section 3:
+1327.
+COMMITTEE OVERSIGHT FINDINGS
+In compliance with clause 3(c)(1) of rule XIII, the Committee ad-
+vises that the findings and recommendations of the Committee,
+based on oversight activities under clause 2(b)(1) of rule X, are in-
+corporated in the descriptive portions of this report.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE, NEW BUDGET AUTHORITY,
+ENTITLEMENT AUTHORITY, AND TAX EXPENDITURES
+With respect to the requirements of clause 3(c)(2) of rule XIII
+and section 308(a) of the Congressional Budget Act of 1974, and
+with respect to the requirements of clause 3(c)(3) of rule XIII and
+
+Section 4:
+section 402 of the Congressional Budget Act of 1974, the Com-
+mittee adopts as its own the estimate of any new budget authority,
+spending authority, credit authority, or an increase or decrease in
+revenues or tax expenditures contained in the cost estimate pre-
+pared by the Director of the Congressional Budget Office.
+12U.S. Dep’t of Homeland Sec., MYTH/FACT: Known and Suspected Terrorists/Special Inter-
+est Aliens, (ARCHIVED).
+VerDate Sep 11 2014 04:05 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR198.XXX HR198
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+5
+H.R. 1327 would require the Department of Homeland Security
+to conduct an assessment of terrorist threats to the U.S. posed by
+people in Syria who are affiliated with foreign terrorist organiza-
+tions. The bill would require the department, within 60 days of en-
+actment, to provide the Congress with the assessment and a brief-
+ing about it.
+On the basis of information about similar requirements, CBO es-
+timates that implementing the bill would cost less than $500,000
+over the 2025–2030 period. Such spending would be subject to the
+availability of appropriated funds.
+The CBO staff contact for this estimate is David Rafferty. The
+estimate was reviewed by Christina Hawley Anthony, Deputy Di-
+rector of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act of
+
+Section 5:
+1995.
+DUPLICATIVE FEDERAL PROGRAMS
+Pursuant to clause 3(c) of rule XIII, the Committee finds that
+H.R. 1327 does not contain any provision that establishes or reau-
+thorizes a program known to be duplicative of another Federal pro-
+gram.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+In accordance with clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee’s performance goals and
+objectives are reflected in the descriptive portions of this report.
+VerDate Sep 11 2014 04:05 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR198.XXX HR198
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 6:
+100.891RH
+ereh
+6
+oilof
+tesffo
+tresnI
+6
+CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND LIMITED
+TARIFF BENEFITS
+In compliance with rule XXI, this bill, as reported, contains no
+congressional earmarks, limited tax benefits, or limited tariff bene-
+fits as defined in clause 9(d), 9(e), or 9(f) of rule XXI.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that H.R. 1327 does not relate to the terms
+and conditions of employment or access to public services or accom-
+modation within the meaning of section 102(b)(3) of the Congres-
+sional Accountability Act.
+
+Section 7:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 8:
+Section 1. Short title
+This section states that the Act may be cited as the ‘‘Syria Ter-
+rorism Threat Assessment Act of 2025.’’
+
+Section 9:
+Section 2. Threat assessment of terrorist threats posed by individ-
+uals in Syria with an affiliation with a Foreign Terrorist Orga-
+nization or a specially designated global terrorist organization
+Sec. 2(a) requires the Secretary of Homeland Security to conduct
+a threat assessment of terrorist threats to the United States posed
+by individuals in Syria with an affiliation with an FTO or a spe-
+cially designated global terrorist organization (SDGT). Specifically,
+Sec. 2(a)(2) details the elements the Secretary is required to in-
+clude in the threat assessment. For each individual identified, the
+Secretary will include their country of origin and which terrorist
+organization they belong to (subclauses (A) and (B)), as well as a
+description for the capability of DHS to monitor these individuals
+and any actions DHS has taken to mitigate threats from these indi-
+viduals, including prevention from entering the United States (sub-
+clauses (C) and (D)).
+Sec. 2(b) requires the Secretary to inform Congress by submitting
+the assessment in writing to the appropriate congressional commit-
+tees. The Secretary will also be required to provide a briefing to the
+respective Committees on the contents.
+Sec. 2(c)(1) defines the term ‘‘appropriate congressional commit-
+tees’’ as the Committee on Homeland Security of the House of Rep-
+resentatives and the Committee on Homeland Security and Gov-
+ernmental Affairs of the Senate.
+Sec. 2(c)(2) defines the term ‘‘foreign terrorist organization’’ as an
+organization designated as a foreign terrorist organization under
+
+Section 10:
+section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
+Sec. 2(c)(2) defines the term ‘‘specially designated global terrorist
+organization’’ as an organization that has been designated as a spe-
+cially designated global terrorist organization by the Secretary of
+State or the Secretary of the Treasury, as the case may be, pursu-
+ant to Executive Order 13224 (50 U.S.C. 1701 note; relating to
+VerDate Sep 11 2014 04:05 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR198.XXX HR198
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+7
+blocking property and prohibiting transactions with persons who
+commit, threaten to commit, or support terrorism).
+Æ
+VerDate Sep 11 2014 04:05 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6611 E:\HR\OC\HR198.XXX HR198
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–198
+SYRIA TERRORISM THREAT ASSESSMENT ACT
+JULY10, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. GREEN of Tennessee, from the Committee on Homeland
+Security, submitted the following
+R E P O R T
+[To accompany H.R. 1327]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Homeland Security, to whom was referred the
+bill (H.R. 1327) to direct the Secretary of Homeland Security to
+conduct a threat assessment of terrorist threats to the United
+States posed by individuals in Syria with an affiliation with a For-
+eign Terrorist Organization or a Specially Designated Global Ter-
+rorist Organization, and for other purposes, having considered the
+same, reports favorably thereon without amendment and rec-
+ommends that the bill do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 1
+Background and Need for Legislation .................................................................... 2
+Hearings ................................................................................................................... 4
+Committee Consideration ........................................................................................ 4
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings ............................................................................... 4
+C.B.O. Estimate, New Budget Authority, Entitlement Authority, and Tax
+Expenditures ........................................................................................................ 4
+Federal Mandates Statement ................................................................................. 5
+Duplicative Federal Programs ................................................................................ 5
+Statement of General Performance Goals and Objectives .................................... 5
+Congressional Earmarks, Limited Tax Benefits, and Limited Tariff Benefits ... 6
+Advisory Committee Statement .............................................................................. 6
+Applicability to Legislative Branch ........................................................................ 6
+Section-by-Section Analysis of the Legislation ...................................................... 6
+PURPOSE AND SUMMARY
+H.R. 1327, the ‘‘Syria Terrorism Threat Assessment Act of 2025,’’
+directs the Secretary of Homeland Security to conduct a threat as-
+59–006
+VerDate Sep 11 2014 04:05 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR198.XXX HR198
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+sessment of terrorist threats to the United States posed by individ-
+uals in Syria with an affiliation with a Foreign Terrorist Organiza-
+tion (FTO) or a Specially Designated Global Terrorist Organization
+(including but not limited to, Ansar al Islam, Islamic Jihad Union,
+Katibat Imam al Bukhari, Katibat al Tawhid wal Jihad, and other
+organizations). The Secretary, in coordination with other relevant
+Federal agencies, will be responsible for conducting the threat as-
+sessment identifying these individuals and their country of origin,
+as well as the capability of the Department of Homeland Security
+(DHS, the Department) in identifying, tracking, and monitoring
+these individuals, and a description of any action the Department
+has taken to mitigate terrorist threats posed by these individuals
+or prevent their entry to the United States.
+BACKGROUND AND NEED FOR LEGISLATION
+The persistent threat of terrorism remains a central concern for
+U.S. national security, particularly in the context of instability in
+the Middle East. Since the outbreak of civil conflict in 2011, Syria
+has been a magnet for foreign fighters and a breeding ground for
+extremist activity, including for several U.S.-designated terrorist
+organizations which pose direct and indirect threats to the United
+States and its allies. The ongoing instability in Syria and the
+breakdown of centralized authority has led to the patchwork con-
+trol of its territory and allowed terrorist groups to exploit
+ungoverned spaces for training camps, logistical operations, and
+digital recruitment.1 Moreover, the return or migration of foreign
+fighters from Syria to their countries of origin—including the
+United States and European nations—poses an additional vector
+for terrorism risk.
+Since Bashar Al Asad’s fall in December 2024, Hayat Tahrir al
+Sham (HTS), a coalition of northern Syria-based Sunni Islamist in-
+surgent groups, has established an interim government.2 In May
+2018, the U.S. State Department added HTS to its Al-Nusrah
+Front’s FTO designation.3 Al-Nusrah is an al-Qaeda (AQ) affiliated
+group operating in Syria. Reportedly, while HTS has distanced
+itself from AQ and now oppose the Islamic State, HTS remains a
+designated terrorist organization. In addition to HTS, other con-
+cerning groups are operating within Syria (i.e. Ansar al-Islam, the
+Islamic Jihad Union, Katibat Imam al Bukhari, and Katibat al
+Tawhid wal Jihad). These organizations have varying degrees of af-
+filiation with global jihadist movements such as al-Qaeda and ISIS
+and share ideological goals that often include targeting U.S. and
+Western interests, overthrowing secular governments, and estab-
+lishing Islamist states.
+For example, Ansar al-Islam, originally formed in northern Iraq
+in the early 2000s, has maintained operational capability in both
+Iraq and Syria, espousing a Salafi-jihadist ideology and conducting
+1Michael Singh, After Assad: Navigating Syria Policy (Part 1), THE WASHINGTON INSTI-
+TUTE FOR NEAR EAST POLICY, Feb. 13, 2025, https://www.washingtoninstitute.org/policy-
+analysis/after-assad-navigating-syria-policy-part-1#:∼:text=Threats%20to%20U.S.%20Interests
+&text=The%20Islamic%20State%20(IS)%2C,it%20continues%20to%20mount%20attacks.
+2CHRISTOPHER M. BLANCHARD, CONG. RESEARCH SERV, RL33487, SYRIA: TRANSI-
+TION AND U.S. POLICY (2025).
+3Amendment to the Terrorist Designations of al-Nusrah Front, U.S. DEP’T OF STATE, https://
+2017-2021.state.gov/amendments-to-the-terrorist-designations-of-al-nusrah-front/ (last visited
+May 31, 2018).
+VerDate Sep 11 2014 04:05 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR198.XXX HR198
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+attacks against both U.S. forces and local governments.4 The Is-
+lamic Jihad Union (IJU), a splinter group from the Islamic Move-
+ment of Uzbekistan, has historically operated in Central Asia and
+Afghanistan but has reportedly extended its network into Syria.
+With a stated goal of overthrowing secular regimes and replacing
+them with Islamic rule, IJU is aligned ideologically with al-Qaeda
+and has been implicated in plots against Western targets.5 Katibat
+Imam al Bukhari6 and Katibat al Tawhid wal Jihad7 are lesser-
+known but dangerous jihadist factions, who have operated in co-
+ordination with al-Qaeda affiliates in Syria, including Hayat Tahrir
+al-Sham. Their transnational composition and ties to broader
+jihadist networks raise concerns about their ability to project
+threats beyond the Middle East.
+Considering the sustained activity of terrorist organizations with-
+in Syria, in December 2024, an estimated 2,000 U.S. military forces
+were deployed in eastern and southern Syria, carrying out counter-
+terrorism missions and supporting Syrian partner forces who have
+detained over 9,000 ISIS prisoners and administer detention camps
+of over 40,000 individuals from previously ISIS-held locations.8 Re-
+cently, U.S. Central Command carried out a series of airstrikes
+against multiple known ISIS camps in Syria just last October.9
+These strikes were conducted to degrade the ability of ISIS to plot,
+organize, and carry out attacks against the U.S., its allies and part-
+ners, and civilians throughout the region and beyond.
+While U.S. counterterrorism operations in Syria aim to mitigate
+threats at their source, attention has increasingly shifted to the po-
+tential domestic security implications associated with individuals
+displaced by the conflict and now present within the United States.
+As of January 2025, an estimated 7.4 million Syrians have been in-
+ternally displaced, and 4.7 million Syrians were registered as refu-
+gees.10 Furthermore, over the last four years, DHS has faced an
+unprecedented number of Special Interest Aliens (SIAs) from out-
+side the Western Hemisphere, including individuals from Syria.11
+4Kathryn Gregory, Ansar al-Islam (Iraq, Islamists/Kurdish Separatists), Ansar al-Sunnah,
+COUNCIL ON FOREIGN RELATIONS, https://www.cfr.org/backgrounder/ansar-al-islam-iraq-
+islamistskurdish-separatists-ansar-al-sunnah#:∼:text=Introduction,northern%20and%20central
+%20Iraq%20today (last visited Nov. 5, 2008, 7:00AM).
+5Islamic Jihad Group, United Nations Security Council, https://main.un.org/securitycouncil/
+en/sanctions/1267/aq_sanctions_list/summaries/entity/islamic-jihad-group#:∼:text=IJU%20
+conducted%20a%20number%20of,responsibility%20for%20the%20foiled%20plot (last visited Mar.
+14, 2022).
+6State Department Terrorist Designation of Katibat al-Imam al-Bukhari, U.S. DEP’T OF
+STATE, https://2017-2021.state.gov/state-department-terrorist-designation-of-katibat-al-imam-al-
+bukhari/, (last visited Mar 22, 2018).
+7Press Statement, U.S. Dep’t of State, Terrorist Designation of Katibat al Tawhid wal Jihad
+(Mar. 7, 2022), available at https://2021–2025.state.gov/terrorist-designation-of-katibat-
+al-tawhid-wal-jihad/.
+8 DOD Announces 2,000 troops in Syria, Department Prepared for Government Shutdown,
+U.S. Dep’t of Def., https://www.defense.gov/News/News-Stories/Article/Article/4013726/dod-
+announces-2000-troops-in-syria-department-prepared-for-government-shutdown/ (last visited
+Dec. 19, 2024).
+9 Press Release, U.S. Central Command, U.S. Central Command Conducts Airstrikes Against
+Several ISIS Camps in Syria (Oct. 30, 2024) (on file with author), available at https://
+www.centcom.mil/MEDIA/PRESS-RELEASES/Press-Release-View/Article/3951025/us-central-
+command-conducts-airstrikes-against-several-isis-camps-in-syria/.
+10Samuel Davidoff-Gore, The Long Horizon of Returns to Syria, GEORGETOWN JOURNAL
+OF INTERNATIONAL AFFAIRS, (Apr. 30, 2025), https://gjia.georgetown.edu/2025/04/30/the-
+long-horizon-of-returns-to-syria/#:∼:text=On%20December%208%2C%202024%2C%20the,became
+%20internally%20displaced%20(IDPs).
+11U.S. Dep’t of Homeland Sec., Home and Away: DHS and the Threats to America, Remarks
+delivered by Secretary Kelly at George Washington University Center for Cyber and Homeland
+Security, (ARCHIVED).
+VerDate Sep 11 2014 04:05 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR198.XXX HR198
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+Per DHS, Special Interest Aliens are non-U.S. persons, based on an
+analysis of travel patterns, potentially pose a national risk to the
+U.S.12
+Ultimately, a comprehensive and thorough assessment of these
+individuals and groups is crucial to safeguarding the United States
+from potential terrorist threats, allowing both DHS and Congress
+to assess if policy or procedural changes are needed to mitigate
+identified risks allocate intelligence, border security, and counter-
+terrorism resources more effectively.
+HEARINGS
+The Committee has not held a hearing that guided the develop-
+ment of this legislation in the 119th Congress.
+COMMITTEE CONSIDERATION
+The Subcommittee on Counterterrorism and Intelligence met on
+March 25, 2025, a quorum being present, to consider H.R. 1327 and
+ordered the measure to be favorably reported to the Full Com-
+mittee by voice vote.
+The Committee met on April 9, 2025, a quorum being present,
+to consider H.R. 1327 and ordered the measure to be favorably re-
+ported to the House by voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the re-
+corded votes on the motion to report legislation and amendments
+thereto.
+No recorded votes were requested during consideration of H.R.
+1327.
+COMMITTEE OVERSIGHT FINDINGS
+In compliance with clause 3(c)(1) of rule XIII, the Committee ad-
+vises that the findings and recommendations of the Committee,
+based on oversight activities under clause 2(b)(1) of rule X, are in-
+corporated in the descriptive portions of this report.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE, NEW BUDGET AUTHORITY,
+ENTITLEMENT AUTHORITY, AND TAX EXPENDITURES
+With respect to the requirements of clause 3(c)(2) of rule XIII
+and section 308(a) of the Congressional Budget Act of 1974, and
+with respect to the requirements of clause 3(c)(3) of rule XIII and
+section 402 of the Congressional Budget Act of 1974, the Com-
+mittee adopts as its own the estimate of any new budget authority,
+spending authority, credit authority, or an increase or decrease in
+revenues or tax expenditures contained in the cost estimate pre-
+pared by the Director of the Congressional Budget Office.
+12U.S. Dep’t of Homeland Sec., MYTH/FACT: Known and Suspected Terrorists/Special Inter-
+est Aliens, (ARCHIVED).
+VerDate Sep 11 2014 04:05 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR198.XXX HR198
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+5
+H.R. 1327 would require the Department of Homeland Security
+to conduct an assessment of terrorist threats to the U.S. posed by
+people in Syria who are affiliated with foreign terrorist organiza-
+tions. The bill would require the department, within 60 days of en-
+actment, to provide the Congress with the assessment and a brief-
+ing about it.
+On the basis of information about similar requirements, CBO es-
+timates that implementing the bill would cost less than $500,000
+over the 2025–2030 period. Such spending would be subject to the
+availability of appropriated funds.
+The CBO staff contact for this estimate is David Rafferty. The
+estimate was reviewed by Christina Hawley Anthony, Deputy Di-
+rector of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act of
+1995.
+DUPLICATIVE FEDERAL PROGRAMS
+Pursuant to clause 3(c) of rule XIII, the Committee finds that
+H.R. 1327 does not contain any provision that establishes or reau-
+thorizes a program known to be duplicative of another Federal pro-
+gram.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+In accordance with clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee’s performance goals and
+objectives are reflected in the descriptive portions of this report.
+VerDate Sep 11 2014 04:05 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR198.XXX HR198
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.891RH
+ereh
+6
+oilof
+tesffo
+tresnI
+
+6
+CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND LIMITED
+TARIFF BENEFITS
+In compliance with rule XXI, this bill, as reported, contains no
+congressional earmarks, limited tax benefits, or limited tariff bene-
+fits as defined in clause 9(d), 9(e), or 9(f) of rule XXI.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that H.R. 1327 does not relate to the terms
+and conditions of employment or access to public services or accom-
+modation within the meaning of section 102(b)(3) of the Congres-
+sional Accountability Act.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+This section states that the Act may be cited as the ‘‘Syria Ter-
+rorism Threat Assessment Act of 2025.’’
+Section 2. Threat assessment of terrorist threats posed by individ-
+uals in Syria with an affiliation with a Foreign Terrorist Orga-
+nization or a specially designated global terrorist organization
+Sec. 2(a) requires the Secretary of Homeland Security to conduct
+a threat assessment of terrorist threats to the United States posed
+by individuals in Syria with an affiliation with an FTO or a spe-
+cially designated global terrorist organization (SDGT). Specifically,
+Sec. 2(a)(2) details the elements the Secretary is required to in-
+clude in the threat assessment. For each individual identified, the
+Secretary will include their country of origin and which terrorist
+organization they belong to (subclauses (A) and (B)), as well as a
+description for the capability of DHS to monitor these individuals
+and any actions DHS has taken to mitigate threats from these indi-
+viduals, including prevention from entering the United States (sub-
+clauses (C) and (D)).
+Sec. 2(b) requires the Secretary to inform Congress by submitting
+the assessment in writing to the appropriate congressional commit-
+tees. The Secretary will also be required to provide a briefing to the
+respective Committees on the contents.
+Sec. 2(c)(1) defines the term ‘‘appropriate congressional commit-
+tees’’ as the Committee on Homeland Security of the House of Rep-
+resentatives and the Committee on Homeland Security and Gov-
+ernmental Affairs of the Senate.
+Sec. 2(c)(2) defines the term ‘‘foreign terrorist organization’’ as an
+organization designated as a foreign terrorist organization under
+section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
+Sec. 2(c)(2) defines the term ‘‘specially designated global terrorist
+organization’’ as an organization that has been designated as a spe-
+cially designated global terrorist organization by the Secretary of
+State or the Secretary of the Treasury, as the case may be, pursu-
+ant to Executive Order 13224 (50 U.S.C. 1701 note; relating to
+VerDate Sep 11 2014 04:05 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR198.XXX HR198
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+7
+blocking property and prohibiting transactions with persons who
+commit, threaten to commit, or support terrorism).
+Æ
+VerDate Sep 11 2014 04:05 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6611 E:\HR\OC\HR198.XXX HR198
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

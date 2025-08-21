@@ -1,0 +1,1584 @@
+Title: JUNE4, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JUNE4, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 14
+Source: documents - H. Rept. 119-134
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–134
+ACCREDITED INVESTOR DEFINITION REVIEW ACT
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 3348]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 3348) to amend the Securities Act of 1933 and the Dodd-
+Frank Wall Street Reform and Consumer Protection Act with re-
+spect to the definition of accredited investor, and for other pur-
+poses, having considered the same, reports favorably thereon with
+an amendment and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Consideration ........................................................................................ 3
+Related Hearings ..................................................................................................... 3
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings ............................................................................... 7
+Performance Goals and Objectives ......................................................................... 7
+Committee Cost Estimate ....................................................................................... 7
+New Budget Authority and CBO Cost Estimate ................................................... 7
+Unfunded Mandates Statement .............................................................................. 7
+Earmark Statement ................................................................................................. 7
+Federal Advisory Committee Act Statement ......................................................... 8
+Applicability to the Legislative Branch ................................................................. 8
+Duplication of Federal Programs ............................................................................ 8
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 8
+Minority Views ......................................................................................................... 16
+The amendment is as follows:
+59–006
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+Strike all after the enacting clause and insert the following:
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Accredited Investor Definition Review Act’’.
+SEC. 2. CERTIFICATIONS, DESIGNATIONS, AND CREDENTIALS UNDER THE DEFINITION OF AC-
+CREDITED INVESTOR.
+
+Section 4:
+Section 2(a)(15) of the Securities Act of 1933 (15 U.S.C. 77b(a)(15)) is amended—
+(1) by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respec-
+tively;
+(2) in subparagraph (A), as so redesignated, by striking ‘‘adviser; or’’ and in-
+serting ‘‘adviser;’’;
+(3) in subparagraph (B), as so redesignated, by striking the period at the end
+and inserting ‘‘; or’’; and
+(4) by adding at the end the following:
+‘‘(C) an individual holding such certifications, designations, or credentials
+as the Commission determines necessary or appropriate in the public inter-
+est or for the protection of investors, where—
+‘‘(i) such list of certifications, designations, or credentials shall in-
+clude those professional certifications described in the Commission
+order titled ‘Order Designating Certain Professional Licenses as Quali-
+fying Natural Persons for Accredited Investor Status’ (85 Fed. Reg.
+64234; published October 9, 2020); and
+‘‘(ii) in establishing which attributes should be considered for pur-
+poses of determining such certifications, designations, or credentials,
+the Commission shall consider attributes that are no less broad than
+those attributes described in the amendments made to section
+
+Section 5:
+230.501(a)(10) of title 17, Code of Federal Regulations, by the final rule
+of the Commission titled ‘Accredited Investor Definition’ (85 Fed. Reg.
+64234; published October 9, 2020).’’.
+SEC. 3. PERIODIC REVIEW OF CERTIFICATIONS, DESIGNATIONS, AND CREDENTIALS.
+
+Section 6:
+Section 413(b) of the Dodd-Frank Wall Street Reform and Consumer Protection
+Act (15 U.S.C. 77b note) is amended by adding at the end the following:
+‘‘(3) PERIODIC REVIEW OF CERTIFICATIONS, DESIGNATIONS, AND CREDENTIALS.—
+Not later than 18 months after the date of the enactment of this paragraph and
+not less frequently than once every 5 years thereafter, the Commission shall—
+‘‘(A) review the list of certifications, designations, and credentials des-
+ignated as qualifying natural persons for accredited investor status pursu-
+ant to Rule 501(a)(10) (17 CFR 230.501(a)(10));
+‘‘(B) add such certifications, designations, and credentials to such list as
+the Commission determines are substantially similar in measuring the fi-
+nancial sophistication, knowledge, and experience in financial matters of an
+individual to the certifications, designations, and credentials included on
+such list at the time of such review; and
+‘‘(C) adjust or modify such list as the Commission determines necessary
+or appropriate in the public interest or for the protection of investors.’’.
+PURPOSE AND SUMMARY
+H.R. 3348, the Accredited Investor Definition Review Act, was in-
+troduced on May 13, 2025, by Representative Bill Huizenga (MI–
+04). H.R. 3348 requires the Securities and Exchange Commission
+(SEC) to review the list of certifications, designations, and creden-
+tials for individuals to qualify as an accredited investor and add
+additional certifications, designations, and credentials that the SEC
+determines are substantially similar. The bill requires the SEC to
+repeat this process every five years after the initial assessment.
+BACKGROUND AND NEED FOR LEGISLATION
+Under current law, accredited investors are defined as people or
+entities with sufficient financial sophistication and resources to
+sustain the risk of loss.1 H.R. 3348 expands the definition to in-
+117 C.F.R. §270.
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+clude all individuals who demonstrate they have a sufficient under-
+standing of the offering and the risks involved. This bill will ensure
+that investments in high-growth private companies are not re-
+served for only the elite, wealthy investors who currently qualify
+as accredited investors.
+COMMITTEE CONSIDERATION
+117TH CONGRESS
+On July 27, 2021, Representative Bill Huizenga (R–MI) intro-
+duced H.R. 4708, the Accredited Investor Definition Review Act.
+This bill is an earlier iteration of H.R. 3348. The bill was referred
+solely to the Committee on Financial Services.
+118TH CONGRESS
+On March 14, 2023, Representative Huizenga introduced H.R.
+1579, the Accredited Investor Definition Review Act. Representative
+Mike Lawler (R–NY) was subsequently added as a cosponsor. This
+bill is an earlier iteration of H.R. 3348. The bill was referred solely
+to the Committee on Financial Services. The Subcommittee on Cap-
+ital Markets of the Committee on Financial Services held a hearing
+to examine matters relating to H.R. 1579 on February 8, 2023. On
+April 26, 2023, the Committee on Financial Services ordered H.R.
+1579 to be favorably reported to the House of Representatives by
+a vote of 41–2. On June 5, 2023, the House suspended the rules
+and passed the bill by voice vote. It was received in the Senate and
+referred to the Committee on Banking, Housing, and Urban Af-
+fairs. In addition, Senator Bill Hagerty (R–TN) introduced S. 5121,
+a companion bill to H.R. 1579.
+119TH CONGRESS
+On May 13, 2025, Representative Huizenga introduced H.R.
+3348, the Accredited Investor Definition Review Act. The bill was
+referred solely to the Committee on Financial Services. The bill
+was attached to the February 26, 2025, hearing titled ‘‘The Future
+of American Capital: Strengthening Public and Private Markets by
+Increasing Investor Access and Facilitating Capital Formation’’ and
+the March 25, 2025, hearing titled, ‘‘Beyond Silicon Valley: Ex-
+panding Access to Capital Across America.’’
+On May 20, 2025, the Committee met in open session to consider,
+among others, H.R. 3348. The Committee ordered H.R. 3348, as
+amended, to be reported favorably to the House of Representatives.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearings were used to develop
+H.R. 3348:
+The Capital Markets Subcommittee of the Committee on Finan-
+cial Services held a February 26, 2025, hearing titled ‘‘The Future
+of American Capital: Strengthening Public and Private Markets by
+Increasing Investor Access and Facilitating Capital Formation’’ and
+the Full Committee held a March 25, 2025, hearing titled, ‘‘Beyond
+Silicon Valley: Expanding Access to Capital Across America.’’ A dis-
+cussion draft version of the bill was attached to both hearings. The
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+following witnesses testified at the February 26, 2025, hearing: Mr.
+Andrew Barnell, CEO and Co-Founder, Geneoscopy; Mr. McKeever
+Conwell, Founder and Managing Partner, RareBreed Ventures; Ms.
+Rebecca Kacaba, CEO and Co-Founder, DealMaker; Ms. Anna
+Pinedo, Partner, Mayer Brown; and Ms. Alexandra Thornton, Sen-
+ior Director, Financial Regulation, Center for American Progress.
+The following witnesses testified at the March 25, 2025, hearing:
+Mr. Steve Case, Chairman and CEO, Revolution LLC; Mr. Bill
+Newell, Senior Business Advisor & Former CEO, Sutro Biopharma;
+Ms. Candice Matthews Brackeen, General Partner, Lightship Cap-
+ital; Mr. Joel Trotter, Partner, Latham & Watkins LLP; and Ms.
+Amanda Senn, Director of the Alabama Securities Commission.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On May 20, 2025, the Committee ordered H.R. 3348, as amend-
+ed, to be reported favorably to the House by a recorded vote of 34
+yeas and 16 nays, a quorum being present. (Record Vote No. FC–
+115).
+The Committee considered the following amendments to H.R.
+3348:
+• Representative Bill Huizenga (R–MI) offered an amend-
+ment in the nature of a substitute, which made minor edits
+and technical changes. This amendment was adopted by a
+voice vote.
+• Representative Maxine Waters (D–CA) offered an amend-
+ment (No. 2), designated AMENDlHR3348l1. This amend-
+ment requires the SEC to adjust or modify the list of certifi-
+cations, designations, and credentials to qualify as an accred-
+ited investor as the Commission determines necessary or ap-
+propriate to facilitate capital formation without reducing inves-
+tor protection. This amendment failed by a recorded vote of 22
+yeas and 28 nays, a quorum being present. (Record Vote No.
+FC–114).
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+5
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 7:
+100.431RH
+ereh
+8
+oilof
+tesffo
+tresnI
+6
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 8:
+200.431RH
+ereh
+9
+oilof
+tesffo
+tresnI
+7
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 3348 is empower sophisticated-
+but-not-wealthy investors to qualify as accredited investors by re-
+quiring the SEC to review the list of certifications, designations,
+and credentials for individuals to qualify as an accredited investor
+and add additional certifications, designations, and credentials that
+the SEC determines are substantially similar.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 3348. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of rule XIII, the Committee will adopt as its own the cost
+estimate by the Director of the Congressional Budget Office once
+it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+8
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+
+Section 9:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 10:
+Section 1. Short title
+This section cites H.R. 3348 as the ‘‘Accredited Investor Definition
+Review Act.’’
+
+Section 11:
+Section 2. Definition of accredited investor
+This section amends the definition of an accredited investor to in-
+clude individuals who have certifications, designations, or creden-
+tials as the SEC determines necessary or appropriate.
+
+Section 12:
+Section 3. Periodic review of certifications, designations, and cre-
+dentials
+This section amends Dodd-Frank to require the SEC to review
+the list of certifications, designations, and credentials to qualify as
+an accredited investor within 18 months and every five years there-
+after. This section also directs the SEC to add such certificates,
+designations, and credentials to the list that the SEC determines
+are substantially similar to the ones included on the list at the
+time of review and to adjust the list if the SEC deems it necessary
+in the public interest or for the protection of investors.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+SECURITIES ACT OF 1933
+TITLE I—
+* * * * * * *
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+9
+DEFINITIONS
+SEC. 2. (a) DEFINITIONS.—When used in this title, unless the con-
+text otherwise requires—
+(1) The term ‘‘security’’ means any note, stock, treasury
+stock, security future, security-based swap, bond, debenture,
+evidence of indebtedness, certificate of interest or participation
+in any profit-sharing agreement, collateral-trust certificate,
+preorganization certificate or subscription, transferable share,
+investment contract, voting-trust certificate, certificate of de-
+posit for a security, fractional undivided interest in oil, gas, or
+other mineral rights, any put, call, straddle, option, or privilege
+on any security, certificate of deposit, or group or index of secu-
+rities (including any interest therein or based on the value
+thereof), or any put, call, straddle, option, or privilege entered
+into on a national securities exchange relating to foreign cur-
+rency, or, in general, any interest or instrument commonly
+known as a ‘‘security’’, or any certificate of interest or partici-
+pation in, temporary or interim certificate for, receipt for, guar-
+antee of, or warrant or right to subscribe to or purchase, any
+of the foregoing.
+(2) The term ‘‘person’’ means an individual, a corporation, a
+partnership, an association, a joint-stock company, a trust, any
+unincorporated organization, or a government or political sub-
+division thereof. As used in this paragraph the term ‘‘trust’’
+shall include only a trust where the interest or interests of the
+beneficiary or beneficiaries are evidenced by a security.
+(3) The term ‘‘sale’’ or ‘‘sell’’ shall include every contract of
+sale or disposition of a security or interest in a security, for
+value. The term ‘‘offer to sell’’, ‘‘offer for sale’’, or ‘‘offer’’ shall
+include every attempt or offer to dispose of, or solicitation of
+an offer to buy, a security or interest in a security, for value.
+The terms defined in this paragraph and the term ‘‘offer to
+buy’’ as used in subsection (c) of section 5 shall not include pre-
+liminary negotiations or agreements between an issuer (or any
+person directly or indirectly controlling or controlled by an
+issuer, or under direct or indirect common control with an
+issuer) and any underwriter or among underwriters who are or
+are to be in privity of contract with an issuer (or any person
+directly or indirectly controlling or controlled by an issuer, or
+under direct or indirect common control with an issuer). Any
+security given or delivered with, or as a bonus on account of,
+any purchase of securities or any other thing, shall be conclu-
+sively presumed to constitute a part of the subject of such pur-
+chase and to have been offered and sold for value. The issue
+or transfer of a right or privilege, when originally issued or
+transferred with a security, giving the holder of such security
+the right to convert such security into another security of the
+same issuer or of another person, or giving a right to subscribe
+to another security of the same issuer or of another person,
+which right cannot be exercised until some future date, shall
+not be deemed to be an offer or sale of such other security; but
+the issue or transfer of such other security upon the exercise
+of such right of conversion or subscription shall be deemed a
+sale of such other security. Any offer or sale of a security fu-
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+10
+tures product by or on behalf of the issuer of the securities un-
+derlying the security futures product, an affiliate of the issuer,
+or an underwriter, shall constitute a contract for sale of, sale
+of, offer for sale, or offer to sell the underlying securities. Any
+offer or sale of a security-based swap by or on behalf of the
+issuer of the securities upon which such security-based swap is
+based or is referenced, an affiliate of the issuer, or an under-
+writer, shall constitute a contract for sale of, sale of, offer for
+sale, or offer to sell such securities. The publication or distribu-
+tion by a broker or dealer of a research report about an emerg-
+ing growth company that is the subject of a proposed public of-
+fering of the common equity securities of such emerging growth
+company pursuant to a registration statement that the issuer
+proposes to file, or has filed, or that is effective shall be
+deemed for purposes of paragraph (10) of this subsection and
+
+Section 13:
+section 5(c) not to constitute an offer for sale or offer to sell a
+security, even if the broker or dealer is participating or will
+participate in the registered offering of the securities of the
+issuer. As used in this paragraph, the term ‘‘research report’’
+means a written, electronic, or oral communication that in-
+cludes information, opinions, or recommendations with respect
+to securities of an issuer or an analysis of a security or an
+issuer, whether or not it provides information reasonably suffi-
+cient upon which to base an investment decision.
+(4) The term ‘‘issuer’’ means every person who issues or pro-
+poses to issue any security; except that with respect to certifi-
+cates of deposit, voting-trust certificates, or collateral-trust cer-
+tificates, or with respect to certificates of interest or shares in
+an unincorporated investment trust not having a board of di-
+rectors (or persons performing similar functions) or of the
+fixed, restricted management, or unit type, the term ‘‘issuer’’
+means the person or persons performing the acts and assuming
+the duties of depositor or manager pursuant to the provisions
+of the trust or other agreement or instrument under which
+such securities are issued; except that in the case of an unin-
+corporated association which provides by its articles for limited
+liability of any or all of its members, or in the case of a trust,
+committee, or other legal entity, the trustees or members
+thereof shall not be individually liable as issuers of any secu-
+rity issued by the association, trust, committee, or other legal
+entity; except that with respect to equipment-trust certificates
+or like securities, the term ‘‘issuer’’ means the person by whom
+the equipment or property is or is to be used; and except that
+with respect to fractional undivided interests in oil, gas, or
+other mineral rights, the term ‘‘issuer’’ means the owner of any
+such right or of any interest in such right (whether whole or
+fractional) who creates fractional interests therein for the pur-
+pose of public offering.
+(5) The term ‘‘Commission’’ means the Securities and Ex-
+change Commission.
+(6) The term ‘‘Territory’’ means Puerto Rico, the Virgin Is-
+lands, and the insular possessions of the United States.
+(7) The term ‘‘interstate commerce’’ means trade or com-
+merce in securities or any transportation or communication re-
+lating thereto among the several States or between the District
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+11
+of Columbia or any Territory of the United States and any
+State or other Territory, or between any foreign country and
+any State, Territory, or the District of Columbia, or within the
+District of Columbia.
+(8) The term ‘‘registration statement’’ means the statement
+provided for in section 6, and includes any amendment thereto
+and any report, document, or memorandum filed as part of
+such statement or incorporated therein by reference.
+(9) The term ‘‘write’’ or ‘‘written’’ shall include printed,
+lithographed, or any means of graphic communication.
+(10) The term ‘‘prospectus’’ means any prospectus, notice, cir-
+cular, advertisement, letter, or communication, written or by
+radio or television, which offers any security for sale or con-
+firms the sale of any security; except that (a) a communication
+sent or given after the effective date of the registration state-
+ment (other than a prospectus permitted under subsection (b)
+of section 10) shall not be deemed a prospectus if it is proved
+that prior to or at the same time with such communication a
+written prospectus meeting the requirements of subsection (a)
+of section 10 at the time of such communication was sent or
+given to the person to whom the communication was made,
+and (b) a notice, circular, advertisement, letter, or communica-
+tion in respect of a security shall not be deemed to be a pro-
+spectus if it states from whom a written prospectus meeting
+the requirements of section 10 may be obtained and, in addi-
+tion, does no more than identify the security, state the price
+thereof, state by whom orders will be executed, and contain
+such other information as the Commission, by rules or regula-
+tions deemed necessary or appropriate in the public interest
+and for the protection of investors, and subject to such terms
+and conditions as may be prescribed therein, may permit.
+(11) The term ‘‘underwriter’’ means any person who has pur-
+chased from an issuer with a view to, or offers or sells for an
+issuer in connection with, the distribution of any security, or
+participates or has a direct or indirect participation in any
+such undertaking, or participates or has a participation in the
+direct or indirect underwriting of any such undertaking; but
+such term shall not include a person whose interest is limited
+to a commission from an underwriter or dealer not in excess
+of the usual and customary distributors’ or sellers’ commission.
+As used in this paragraph the term ‘‘issuer’’ shall include, in
+addition to an issuer, any person directly or indirectly control-
+ling or controlled by the issuer, or any person under direct or
+indirect common control with the issuer.
+(12) The term ‘‘dealer’’ means any person who engages either
+for all or part of his time, directly or indirectly, as agent,
+broker, or principal, in the business of offering, buying, selling,
+or otherwise dealing or trading in securities issued by another
+person.
+(13) The term ‘‘insurance company’’ means a company which
+is organized as an insurance company, whose primary and pre-
+dominant business activity is the writing of insurance or the
+reinsuring of risks underwritten by insurance companies, and
+which is subject to supervision by the insurance commissioner,
+or a similar official or agency, of a State or territory or the Dis-
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+12
+trict of Columbia; or any receiver or similar official or any liq-
+uidating agent for such company, in his capacity as such.
+(14) The term ‘‘separate account’’ means an account estab-
+lished and maintained by an insurance company pursuant to
+the laws of any State or territory of the United States, the Dis-
+trict of Columbia, or of Canada or any province thereof, under
+which income, gains and losses, whether or not realized, from
+assets allocated to such account, are, in accordance with the
+applicable contract, credited to or charged against such account
+without regard to other income, gains, or losses of the insur-
+ance company.
+(15) The term ‘‘accredited investor’’ shall mean—
+ø(i)¿ (A) a bank as defined in section 3(a)(2) whether act-
+ing in its individual or fiduciary capacity; an insurance
+company as defined in paragraph (13) of this subsection;
+an investment company registered under the Investment
+Company Act of 1940 or a business development company
+as defined in section 2(a)(48) of that Act; a Small Business
+Investment Company licensed by the Small Business Ad-
+ministration; or an employee benefit plan, including an in-
+dividual retirement account, which is subject to the provi-
+sions of the Employee Retirement Income Security Act of
+1974, if the investment decision is made by a plan fidu-
+ciary, as defined in section 3(21) of such Act, which is ei-
+ther a bank, insurance company, or registered investment
+adviser; øor¿
+ø(ii)¿ (B) any person who, on the basis of such factors as
+financial sophistication, net worth, knowledge, and experi-
+ence in financial matters, or amount of assets under man-
+agement qualifies as an accredited investor under rules
+and regulations which the Commission shall prescribeø.¿;
+or
+(C) an individual holding such certifications, designa-
+tions, or credentials as the Commission determines nec-
+essary or appropriate in the public interest or for the pro-
+tection of investors, where—
+(i) such list of certifications, designations, or creden-
+tials shall include those professional certifications de-
+scribed in the Commission order titled ‘‘Order Desig-
+nating Certain Professional Licenses as Qualifying
+Natural Persons for Accredited Investor Status’’ (85
+Fed. Reg. 64234; published October 9, 2020); and
+(ii) in establishing which attributes should be consid-
+ered for purposes of determining such certifications,
+designations, or credentials, the Commission shall con-
+sider attributes that are no less broad than those at-
+tributes described in the amendments made to section
+
+Section 14:
+230.501(a)(10) of title 17, Code of Federal Regulations,
+by the final rule of the Commission titled ‘‘Accredited
+Investor Definition’’ (85 Fed. Reg. 64234; published Oc-
+tober 9, 2020).
+(16) The terms ‘‘security future’’, ‘‘narrow-based security
+index’’, and ‘‘security futures product’’ have the same meanings
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+13
+as provided in section 3(a)(55) of the Securities Exchange Act
+of 1934.
+(17) The terms ‘‘swap’’ and ‘‘security-based swap’’ have the
+same meanings as in section 1a of the Commodity Exchange
+Act (7 U.S.C. 1a).
+(18) The terms ‘‘purchase’’ or ‘‘sale’’ of a security-based swap
+shall be deemed to mean the execution, termination (prior to
+its scheduled maturity date), assignment, exchange, or similar
+transfer or conveyance of, or extinguishing of rights or obliga-
+tions under, a security-based swap, as the context may require.
+(19) The term ‘‘emerging growth company’’ means an issuer
+that had total annual gross revenues of less than
+$1,000,000,000 (as such amount is indexed for inflation every
+5 years by the Commission to reflect the change in the Con-
+sumer Price Index for All Urban Consumers published by the
+Bureau of Labor Statistics, setting the threshold to the nearest
+1,000,000) during its most recently completed fiscal year. An
+issuer that is an emerging growth company as of the first day
+of that fiscal year shall continue to be deemed an emerging
+growth company until the earliest of—
+(A) the last day of the fiscal year of the issuer during
+which it had total annual gross revenues of $1,000,000,000
+(as such amount is indexed for inflation every 5 years by
+the Commission to reflect the change in the Consumer
+Price Index for All Urban Consumers published by the Bu-
+reau of Labor Statistics, setting the threshold to the near-
+est 1,000,000) or more;
+(B) the last day of the fiscal year of the issuer following
+the fifth anniversary of the date of the first sale of com-
+mon equity securities of the issuer pursuant to an effective
+registration statement under this title;
+(C) the date on which such issuer has, during the pre-
+vious 3-year period, issued more than $1,000,000,000 in
+non-convertible debt; or
+(D) the date on which such issuer is deemed to be a
+‘‘large accelerated filer’’, as defined in section 240.12b–2 of
+title 17, Code of Federal Regulations, or any successor
+thereto.
+(b) CONSIDERATION OF PROMOTION OF EFFICIENCY, COMPETITION,
+AND CAPITAL FORMATION.—Whenever pursuant to this title the
+Commission is engaged in rulemaking and is required to
+consider or determine whether an action is necessary or appro-
+priate in the public interest, the Commission shall also consider, in
+addition to the protection of investors, whether the action will pro-
+mote efficiency, competition, and capital formation.
+* * * * * * *
+DODD-FRANK WALL STREET REFORM AND CONSUMER
+PROTECTION ACT
+* * * * * * *
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6601 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+14
+TITLE IV—REGULATION OF ADVISERS
+TO HEDGE FUNDS AND OTHERS
+* * * * * * *
+SEC. 413. ADJUSTING THE ACCREDITED INVESTOR STANDARD.
+(a) IN GENERAL.—The Commission shall adjust any net worth
+standard for an accredited investor, as set forth in the rules of the
+Commission under the Securities Act of 1933, so that the indi-
+vidual net worth of any natural person, or joint net worth with the
+spouse of that person, at the time of purchase, is more than
+$1,000,000 (as such amount is adjusted periodically by rule of the
+Commission), excluding the value of the primary residence of such
+natural person, except that during the 4-year period that begins on
+the date of enactment of this Act, any net worth standard shall be
+$1,000,000, excluding the value of the primary residence of such
+natural person.
+(b) REVIEW AND ADJUSTMENT.—
+(1) INITIAL REVIEW AND ADJUSTMENT.—
+(A) INITIAL REVIEW.—The Commission may undertake a
+review of the definition of the term ‘‘accredited investor’’,
+as such term applies to natural persons, to determine
+whether the requirements of the definition, excluding the
+requirement relating to the net worth standard described
+in subsection (a), should be adjusted or modified for the
+protection of investors, in the public interest, and in light
+of the economy.
+(B) ADJUSTMENT OR MODIFICATION.—Upon completion of
+a review under subparagraph (A), the Commission may, by
+notice and comment rulemaking, make such adjustments
+to the definition of the term ‘‘accredited investor’’, exclud-
+ing adjusting or modifying the requirement relating to the
+net worth standard described in subsection (a), as such
+term applies to natural persons, as the Commission may
+deem appropriate for the protection of investors, in the
+public interest, and in light of the economy.
+(2) SUBSEQUENT REVIEWS AND ADJUSTMENT.—
+(A) SUBSEQUENT REVIEWS.—Not earlier than 4 years
+after the date of enactment of this Act, and not less fre-
+quently than once every 4 years thereafter, the Commis-
+sion shall undertake a review of the definition, in its en-
+tirety, of the term ‘‘accredited investor’’, as defined in sec-
+tion 230.215 of title 17, Code of Federal Regulations, or
+any successor thereto, as such term applies to natural per-
+sons, to determine whether the requirements of the defini-
+tion should be adjusted or modified for the protection of in-
+vestors, in the public interest, and in light of the economy.
+(B) ADJUSTMENT OR MODIFICATION.—Upon completion of
+a review under subparagraph (A), the Commission may, by
+notice and comment rulemaking, make such adjustments
+to the definition of the term ‘‘accredited investor’’, as de-
+fined in section 230.215 of title 17, Code of Federal Regula-
+tions, or any successor thereto, as such term applies to
+natural persons, as the Commission may deem appropriate
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6601 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+15
+for the protection of investors, in the public interest, and
+in light of the economy.
+(3) PERIODIC REVIEW OF CERTIFICATIONS, DESIGNATIONS, AND
+CREDENTIALS.—Not later than 18 months after the date of the
+enactment of this paragraph and not less frequently than once
+every 5 years thereafter, the Commission shall—
+(A) review the list of certifications, designations, and cre-
+dentials designated as qualifying natural persons for ac-
+credited investor status pursuant to Rule 501(a)(10) (17
+CFR 230.501(a)(10));
+(B) add such certifications, designations, and credentials
+to such list as the Commission determines are substantially
+similar in measuring the financial sophistication, knowl-
+edge, and experience in financial matters of an individual
+to the certifications, designations, and credentials included
+on such list at the time of such review; and
+(C) adjust or modify such list as the Commission deter-
+mines necessary or appropriate in the public interest or for
+the protection of investors.
+* * * * * * *
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6659 Sfmt 6601 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+MINORITY VIEWS
+This bill gives the SEC broad discretion to expand the accredited
+investor definition as it sees fit. It further requires the SEC to re-
+view the list of certifications and credentials for individuals to
+qualify as an accredited investor and add additional certifications
+and credentials to such list which the SEC determines are substan-
+tially similar to existing ones on a periodic basis.
+Democrats no longer support this bill—which would give the SEC
+broad discretion to amend the accredited investor definition—due
+to the current SEC’s de-prioritization of investor protection and re-
+duced independence from the current presidential administration.
+Democrats were willing to accept this bill at the May 2025 markup
+had Republicans accepted a Democratic-sponsored revision that
+would limit the SEC’s discretion to change the definition; however,
+this revision was not accepted by the Chairman. While a prior
+version of this bill was agreed to by a recorded vote of 41–2 in
+markup in the 118th Congress, Democrats voted against this bill
+at the May 2025 markup as they believe the current SEC is no
+longer sufficiently independent and could unilaterally weaken the
+accredited investor definition.
+For these reasons, we oppose H.R. 3348.
+Sincerely,
+MAXINE WATERS,
+Ranking Member.
+NYDIA M. VELA ´ ZQUEZ,
+STEPHEN F. LYNCH,
+AL GREEN,
+JOYCE BEATTY,
+SYLVIA R. GARCIA,
+NIKEMA WILLIAMS,
+Members of Congress.
+Æ
+(16)
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6604 Sfmt 6611 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–134
+ACCREDITED INVESTOR DEFINITION REVIEW ACT
+JUNE4, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 3348]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 3348) to amend the Securities Act of 1933 and the Dodd-
+Frank Wall Street Reform and Consumer Protection Act with re-
+spect to the definition of accredited investor, and for other pur-
+poses, having considered the same, reports favorably thereon with
+an amendment and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Consideration ........................................................................................ 3
+Related Hearings ..................................................................................................... 3
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings ............................................................................... 7
+Performance Goals and Objectives ......................................................................... 7
+Committee Cost Estimate ....................................................................................... 7
+New Budget Authority and CBO Cost Estimate ................................................... 7
+Unfunded Mandates Statement .............................................................................. 7
+Earmark Statement ................................................................................................. 7
+Federal Advisory Committee Act Statement ......................................................... 8
+Applicability to the Legislative Branch ................................................................. 8
+Duplication of Federal Programs ............................................................................ 8
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 8
+Minority Views ......................................................................................................... 16
+The amendment is as follows:
+59–006
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Accredited Investor Definition Review Act’’.
+SEC. 2. CERTIFICATIONS, DESIGNATIONS, AND CREDENTIALS UNDER THE DEFINITION OF AC-
+CREDITED INVESTOR.
+Section 2(a)(15) of the Securities Act of 1933 (15 U.S.C. 77b(a)(15)) is amended—
+(1) by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respec-
+tively;
+(2) in subparagraph (A), as so redesignated, by striking ‘‘adviser; or’’ and in-
+serting ‘‘adviser;’’;
+(3) in subparagraph (B), as so redesignated, by striking the period at the end
+and inserting ‘‘; or’’; and
+(4) by adding at the end the following:
+‘‘(C) an individual holding such certifications, designations, or credentials
+as the Commission determines necessary or appropriate in the public inter-
+est or for the protection of investors, where—
+‘‘(i) such list of certifications, designations, or credentials shall in-
+clude those professional certifications described in the Commission
+order titled ‘Order Designating Certain Professional Licenses as Quali-
+fying Natural Persons for Accredited Investor Status’ (85 Fed. Reg.
+64234; published October 9, 2020); and
+‘‘(ii) in establishing which attributes should be considered for pur-
+poses of determining such certifications, designations, or credentials,
+the Commission shall consider attributes that are no less broad than
+those attributes described in the amendments made to section
+230.501(a)(10) of title 17, Code of Federal Regulations, by the final rule
+of the Commission titled ‘Accredited Investor Definition’ (85 Fed. Reg.
+64234; published October 9, 2020).’’.
+SEC. 3. PERIODIC REVIEW OF CERTIFICATIONS, DESIGNATIONS, AND CREDENTIALS.
+Section 413(b) of the Dodd-Frank Wall Street Reform and Consumer Protection
+Act (15 U.S.C. 77b note) is amended by adding at the end the following:
+‘‘(3) PERIODIC REVIEW OF CERTIFICATIONS, DESIGNATIONS, AND CREDENTIALS.—
+Not later than 18 months after the date of the enactment of this paragraph and
+not less frequently than once every 5 years thereafter, the Commission shall—
+‘‘(A) review the list of certifications, designations, and credentials des-
+ignated as qualifying natural persons for accredited investor status pursu-
+ant to Rule 501(a)(10) (17 CFR 230.501(a)(10));
+‘‘(B) add such certifications, designations, and credentials to such list as
+the Commission determines are substantially similar in measuring the fi-
+nancial sophistication, knowledge, and experience in financial matters of an
+individual to the certifications, designations, and credentials included on
+such list at the time of such review; and
+‘‘(C) adjust or modify such list as the Commission determines necessary
+or appropriate in the public interest or for the protection of investors.’’.
+PURPOSE AND SUMMARY
+H.R. 3348, the Accredited Investor Definition Review Act, was in-
+troduced on May 13, 2025, by Representative Bill Huizenga (MI–
+04). H.R. 3348 requires the Securities and Exchange Commission
+(SEC) to review the list of certifications, designations, and creden-
+tials for individuals to qualify as an accredited investor and add
+additional certifications, designations, and credentials that the SEC
+determines are substantially similar. The bill requires the SEC to
+repeat this process every five years after the initial assessment.
+BACKGROUND AND NEED FOR LEGISLATION
+Under current law, accredited investors are defined as people or
+entities with sufficient financial sophistication and resources to
+sustain the risk of loss.1 H.R. 3348 expands the definition to in-
+117 C.F.R. §270.
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+clude all individuals who demonstrate they have a sufficient under-
+standing of the offering and the risks involved. This bill will ensure
+that investments in high-growth private companies are not re-
+served for only the elite, wealthy investors who currently qualify
+as accredited investors.
+COMMITTEE CONSIDERATION
+117TH CONGRESS
+On July 27, 2021, Representative Bill Huizenga (R–MI) intro-
+duced H.R. 4708, the Accredited Investor Definition Review Act.
+This bill is an earlier iteration of H.R. 3348. The bill was referred
+solely to the Committee on Financial Services.
+118TH CONGRESS
+On March 14, 2023, Representative Huizenga introduced H.R.
+1579, the Accredited Investor Definition Review Act. Representative
+Mike Lawler (R–NY) was subsequently added as a cosponsor. This
+bill is an earlier iteration of H.R. 3348. The bill was referred solely
+to the Committee on Financial Services. The Subcommittee on Cap-
+ital Markets of the Committee on Financial Services held a hearing
+to examine matters relating to H.R. 1579 on February 8, 2023. On
+April 26, 2023, the Committee on Financial Services ordered H.R.
+1579 to be favorably reported to the House of Representatives by
+a vote of 41–2. On June 5, 2023, the House suspended the rules
+and passed the bill by voice vote. It was received in the Senate and
+referred to the Committee on Banking, Housing, and Urban Af-
+fairs. In addition, Senator Bill Hagerty (R–TN) introduced S. 5121,
+a companion bill to H.R. 1579.
+119TH CONGRESS
+On May 13, 2025, Representative Huizenga introduced H.R.
+3348, the Accredited Investor Definition Review Act. The bill was
+referred solely to the Committee on Financial Services. The bill
+was attached to the February 26, 2025, hearing titled ‘‘The Future
+of American Capital: Strengthening Public and Private Markets by
+Increasing Investor Access and Facilitating Capital Formation’’ and
+the March 25, 2025, hearing titled, ‘‘Beyond Silicon Valley: Ex-
+panding Access to Capital Across America.’’
+On May 20, 2025, the Committee met in open session to consider,
+among others, H.R. 3348. The Committee ordered H.R. 3348, as
+amended, to be reported favorably to the House of Representatives.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearings were used to develop
+H.R. 3348:
+The Capital Markets Subcommittee of the Committee on Finan-
+cial Services held a February 26, 2025, hearing titled ‘‘The Future
+of American Capital: Strengthening Public and Private Markets by
+Increasing Investor Access and Facilitating Capital Formation’’ and
+the Full Committee held a March 25, 2025, hearing titled, ‘‘Beyond
+Silicon Valley: Expanding Access to Capital Across America.’’ A dis-
+cussion draft version of the bill was attached to both hearings. The
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+following witnesses testified at the February 26, 2025, hearing: Mr.
+Andrew Barnell, CEO and Co-Founder, Geneoscopy; Mr. McKeever
+Conwell, Founder and Managing Partner, RareBreed Ventures; Ms.
+Rebecca Kacaba, CEO and Co-Founder, DealMaker; Ms. Anna
+Pinedo, Partner, Mayer Brown; and Ms. Alexandra Thornton, Sen-
+ior Director, Financial Regulation, Center for American Progress.
+The following witnesses testified at the March 25, 2025, hearing:
+Mr. Steve Case, Chairman and CEO, Revolution LLC; Mr. Bill
+Newell, Senior Business Advisor & Former CEO, Sutro Biopharma;
+Ms. Candice Matthews Brackeen, General Partner, Lightship Cap-
+ital; Mr. Joel Trotter, Partner, Latham & Watkins LLP; and Ms.
+Amanda Senn, Director of the Alabama Securities Commission.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On May 20, 2025, the Committee ordered H.R. 3348, as amend-
+ed, to be reported favorably to the House by a recorded vote of 34
+yeas and 16 nays, a quorum being present. (Record Vote No. FC–
+115).
+The Committee considered the following amendments to H.R.
+3348:
+• Representative Bill Huizenga (R–MI) offered an amend-
+ment in the nature of a substitute, which made minor edits
+and technical changes. This amendment was adopted by a
+voice vote.
+• Representative Maxine Waters (D–CA) offered an amend-
+ment (No. 2), designated AMENDlHR3348l1. This amend-
+ment requires the SEC to adjust or modify the list of certifi-
+cations, designations, and credentials to qualify as an accred-
+ited investor as the Commission determines necessary or ap-
+propriate to facilitate capital formation without reducing inves-
+tor protection. This amendment failed by a recorded vote of 22
+yeas and 28 nays, a quorum being present. (Record Vote No.
+FC–114).
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+5
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.431RH
+ereh
+8
+oilof
+tesffo
+tresnI
+
+6
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+200.431RH
+ereh
+9
+oilof
+tesffo
+tresnI
+
+7
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 3348 is empower sophisticated-
+but-not-wealthy investors to qualify as accredited investors by re-
+quiring the SEC to review the list of certifications, designations,
+and credentials for individuals to qualify as an accredited investor
+and add additional certifications, designations, and credentials that
+the SEC determines are substantially similar.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 3348. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of rule XIII, the Committee will adopt as its own the cost
+estimate by the Director of the Congressional Budget Office once
+it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+8
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+This section cites H.R. 3348 as the ‘‘Accredited Investor Definition
+Review Act.’’
+Section 2. Definition of accredited investor
+This section amends the definition of an accredited investor to in-
+clude individuals who have certifications, designations, or creden-
+tials as the SEC determines necessary or appropriate.
+Section 3. Periodic review of certifications, designations, and cre-
+dentials
+This section amends Dodd-Frank to require the SEC to review
+the list of certifications, designations, and credentials to qualify as
+an accredited investor within 18 months and every five years there-
+after. This section also directs the SEC to add such certificates,
+designations, and credentials to the list that the SEC determines
+are substantially similar to the ones included on the list at the
+time of review and to adjust the list if the SEC deems it necessary
+in the public interest or for the protection of investors.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+SECURITIES ACT OF 1933
+TITLE I—
+* * * * * * *
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+9
+DEFINITIONS
+SEC. 2. (a) DEFINITIONS.—When used in this title, unless the con-
+text otherwise requires—
+(1) The term ‘‘security’’ means any note, stock, treasury
+stock, security future, security-based swap, bond, debenture,
+evidence of indebtedness, certificate of interest or participation
+in any profit-sharing agreement, collateral-trust certificate,
+preorganization certificate or subscription, transferable share,
+investment contract, voting-trust certificate, certificate of de-
+posit for a security, fractional undivided interest in oil, gas, or
+other mineral rights, any put, call, straddle, option, or privilege
+on any security, certificate of deposit, or group or index of secu-
+rities (including any interest therein or based on the value
+thereof), or any put, call, straddle, option, or privilege entered
+into on a national securities exchange relating to foreign cur-
+rency, or, in general, any interest or instrument commonly
+known as a ‘‘security’’, or any certificate of interest or partici-
+pation in, temporary or interim certificate for, receipt for, guar-
+antee of, or warrant or right to subscribe to or purchase, any
+of the foregoing.
+(2) The term ‘‘person’’ means an individual, a corporation, a
+partnership, an association, a joint-stock company, a trust, any
+unincorporated organization, or a government or political sub-
+division thereof. As used in this paragraph the term ‘‘trust’’
+shall include only a trust where the interest or interests of the
+beneficiary or beneficiaries are evidenced by a security.
+(3) The term ‘‘sale’’ or ‘‘sell’’ shall include every contract of
+sale or disposition of a security or interest in a security, for
+value. The term ‘‘offer to sell’’, ‘‘offer for sale’’, or ‘‘offer’’ shall
+include every attempt or offer to dispose of, or solicitation of
+an offer to buy, a security or interest in a security, for value.
+The terms defined in this paragraph and the term ‘‘offer to
+buy’’ as used in subsection (c) of section 5 shall not include pre-
+liminary negotiations or agreements between an issuer (or any
+person directly or indirectly controlling or controlled by an
+issuer, or under direct or indirect common control with an
+issuer) and any underwriter or among underwriters who are or
+are to be in privity of contract with an issuer (or any person
+directly or indirectly controlling or controlled by an issuer, or
+under direct or indirect common control with an issuer). Any
+security given or delivered with, or as a bonus on account of,
+any purchase of securities or any other thing, shall be conclu-
+sively presumed to constitute a part of the subject of such pur-
+chase and to have been offered and sold for value. The issue
+or transfer of a right or privilege, when originally issued or
+transferred with a security, giving the holder of such security
+the right to convert such security into another security of the
+same issuer or of another person, or giving a right to subscribe
+to another security of the same issuer or of another person,
+which right cannot be exercised until some future date, shall
+not be deemed to be an offer or sale of such other security; but
+the issue or transfer of such other security upon the exercise
+of such right of conversion or subscription shall be deemed a
+sale of such other security. Any offer or sale of a security fu-
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+10
+tures product by or on behalf of the issuer of the securities un-
+derlying the security futures product, an affiliate of the issuer,
+or an underwriter, shall constitute a contract for sale of, sale
+of, offer for sale, or offer to sell the underlying securities. Any
+offer or sale of a security-based swap by or on behalf of the
+issuer of the securities upon which such security-based swap is
+based or is referenced, an affiliate of the issuer, or an under-
+writer, shall constitute a contract for sale of, sale of, offer for
+sale, or offer to sell such securities. The publication or distribu-
+tion by a broker or dealer of a research report about an emerg-
+ing growth company that is the subject of a proposed public of-
+fering of the common equity securities of such emerging growth
+company pursuant to a registration statement that the issuer
+proposes to file, or has filed, or that is effective shall be
+deemed for purposes of paragraph (10) of this subsection and
+section 5(c) not to constitute an offer for sale or offer to sell a
+security, even if the broker or dealer is participating or will
+participate in the registered offering of the securities of the
+issuer. As used in this paragraph, the term ‘‘research report’’
+means a written, electronic, or oral communication that in-
+cludes information, opinions, or recommendations with respect
+to securities of an issuer or an analysis of a security or an
+issuer, whether or not it provides information reasonably suffi-
+cient upon which to base an investment decision.
+(4) The term ‘‘issuer’’ means every person who issues or pro-
+poses to issue any security; except that with respect to certifi-
+cates of deposit, voting-trust certificates, or collateral-trust cer-
+tificates, or with respect to certificates of interest or shares in
+an unincorporated investment trust not having a board of di-
+rectors (or persons performing similar functions) or of the
+fixed, restricted management, or unit type, the term ‘‘issuer’’
+means the person or persons performing the acts and assuming
+the duties of depositor or manager pursuant to the provisions
+of the trust or other agreement or instrument under which
+such securities are issued; except that in the case of an unin-
+corporated association which provides by its articles for limited
+liability of any or all of its members, or in the case of a trust,
+committee, or other legal entity, the trustees or members
+thereof shall not be individually liable as issuers of any secu-
+rity issued by the association, trust, committee, or other legal
+entity; except that with respect to equipment-trust certificates
+or like securities, the term ‘‘issuer’’ means the person by whom
+the equipment or property is or is to be used; and except that
+with respect to fractional undivided interests in oil, gas, or
+other mineral rights, the term ‘‘issuer’’ means the owner of any
+such right or of any interest in such right (whether whole or
+fractional) who creates fractional interests therein for the pur-
+pose of public offering.
+(5) The term ‘‘Commission’’ means the Securities and Ex-
+change Commission.
+(6) The term ‘‘Territory’’ means Puerto Rico, the Virgin Is-
+lands, and the insular possessions of the United States.
+(7) The term ‘‘interstate commerce’’ means trade or com-
+merce in securities or any transportation or communication re-
+lating thereto among the several States or between the District
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+11
+of Columbia or any Territory of the United States and any
+State or other Territory, or between any foreign country and
+any State, Territory, or the District of Columbia, or within the
+District of Columbia.
+(8) The term ‘‘registration statement’’ means the statement
+provided for in section 6, and includes any amendment thereto
+and any report, document, or memorandum filed as part of
+such statement or incorporated therein by reference.
+(9) The term ‘‘write’’ or ‘‘written’’ shall include printed,
+lithographed, or any means of graphic communication.
+(10) The term ‘‘prospectus’’ means any prospectus, notice, cir-
+cular, advertisement, letter, or communication, written or by
+radio or television, which offers any security for sale or con-
+firms the sale of any security; except that (a) a communication
+sent or given after the effective date of the registration state-
+ment (other than a prospectus permitted under subsection (b)
+of section 10) shall not be deemed a prospectus if it is proved
+that prior to or at the same time with such communication a
+written prospectus meeting the requirements of subsection (a)
+of section 10 at the time of such communication was sent or
+given to the person to whom the communication was made,
+and (b) a notice, circular, advertisement, letter, or communica-
+tion in respect of a security shall not be deemed to be a pro-
+spectus if it states from whom a written prospectus meeting
+the requirements of section 10 may be obtained and, in addi-
+tion, does no more than identify the security, state the price
+thereof, state by whom orders will be executed, and contain
+such other information as the Commission, by rules or regula-
+tions deemed necessary or appropriate in the public interest
+and for the protection of investors, and subject to such terms
+and conditions as may be prescribed therein, may permit.
+(11) The term ‘‘underwriter’’ means any person who has pur-
+chased from an issuer with a view to, or offers or sells for an
+issuer in connection with, the distribution of any security, or
+participates or has a direct or indirect participation in any
+such undertaking, or participates or has a participation in the
+direct or indirect underwriting of any such undertaking; but
+such term shall not include a person whose interest is limited
+to a commission from an underwriter or dealer not in excess
+of the usual and customary distributors’ or sellers’ commission.
+As used in this paragraph the term ‘‘issuer’’ shall include, in
+addition to an issuer, any person directly or indirectly control-
+ling or controlled by the issuer, or any person under direct or
+indirect common control with the issuer.
+(12) The term ‘‘dealer’’ means any person who engages either
+for all or part of his time, directly or indirectly, as agent,
+broker, or principal, in the business of offering, buying, selling,
+or otherwise dealing or trading in securities issued by another
+person.
+(13) The term ‘‘insurance company’’ means a company which
+is organized as an insurance company, whose primary and pre-
+dominant business activity is the writing of insurance or the
+reinsuring of risks underwritten by insurance companies, and
+which is subject to supervision by the insurance commissioner,
+or a similar official or agency, of a State or territory or the Dis-
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+12
+trict of Columbia; or any receiver or similar official or any liq-
+uidating agent for such company, in his capacity as such.
+(14) The term ‘‘separate account’’ means an account estab-
+lished and maintained by an insurance company pursuant to
+the laws of any State or territory of the United States, the Dis-
+trict of Columbia, or of Canada or any province thereof, under
+which income, gains and losses, whether or not realized, from
+assets allocated to such account, are, in accordance with the
+applicable contract, credited to or charged against such account
+without regard to other income, gains, or losses of the insur-
+ance company.
+(15) The term ‘‘accredited investor’’ shall mean—
+ø(i)¿ (A) a bank as defined in section 3(a)(2) whether act-
+ing in its individual or fiduciary capacity; an insurance
+company as defined in paragraph (13) of this subsection;
+an investment company registered under the Investment
+Company Act of 1940 or a business development company
+as defined in section 2(a)(48) of that Act; a Small Business
+Investment Company licensed by the Small Business Ad-
+ministration; or an employee benefit plan, including an in-
+dividual retirement account, which is subject to the provi-
+sions of the Employee Retirement Income Security Act of
+1974, if the investment decision is made by a plan fidu-
+ciary, as defined in section 3(21) of such Act, which is ei-
+ther a bank, insurance company, or registered investment
+adviser; øor¿
+ø(ii)¿ (B) any person who, on the basis of such factors as
+financial sophistication, net worth, knowledge, and experi-
+ence in financial matters, or amount of assets under man-
+agement qualifies as an accredited investor under rules
+and regulations which the Commission shall prescribeø.¿;
+or
+(C) an individual holding such certifications, designa-
+tions, or credentials as the Commission determines nec-
+essary or appropriate in the public interest or for the pro-
+tection of investors, where—
+(i) such list of certifications, designations, or creden-
+tials shall include those professional certifications de-
+scribed in the Commission order titled ‘‘Order Desig-
+nating Certain Professional Licenses as Qualifying
+Natural Persons for Accredited Investor Status’’ (85
+Fed. Reg. 64234; published October 9, 2020); and
+(ii) in establishing which attributes should be consid-
+ered for purposes of determining such certifications,
+designations, or credentials, the Commission shall con-
+sider attributes that are no less broad than those at-
+tributes described in the amendments made to section
+230.501(a)(10) of title 17, Code of Federal Regulations,
+by the final rule of the Commission titled ‘‘Accredited
+Investor Definition’’ (85 Fed. Reg. 64234; published Oc-
+tober 9, 2020).
+(16) The terms ‘‘security future’’, ‘‘narrow-based security
+index’’, and ‘‘security futures product’’ have the same meanings
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+13
+as provided in section 3(a)(55) of the Securities Exchange Act
+of 1934.
+(17) The terms ‘‘swap’’ and ‘‘security-based swap’’ have the
+same meanings as in section 1a of the Commodity Exchange
+Act (7 U.S.C. 1a).
+(18) The terms ‘‘purchase’’ or ‘‘sale’’ of a security-based swap
+shall be deemed to mean the execution, termination (prior to
+its scheduled maturity date), assignment, exchange, or similar
+transfer or conveyance of, or extinguishing of rights or obliga-
+tions under, a security-based swap, as the context may require.
+(19) The term ‘‘emerging growth company’’ means an issuer
+that had total annual gross revenues of less than
+$1,000,000,000 (as such amount is indexed for inflation every
+5 years by the Commission to reflect the change in the Con-
+sumer Price Index for All Urban Consumers published by the
+Bureau of Labor Statistics, setting the threshold to the nearest
+1,000,000) during its most recently completed fiscal year. An
+issuer that is an emerging growth company as of the first day
+of that fiscal year shall continue to be deemed an emerging
+growth company until the earliest of—
+(A) the last day of the fiscal year of the issuer during
+which it had total annual gross revenues of $1,000,000,000
+(as such amount is indexed for inflation every 5 years by
+the Commission to reflect the change in the Consumer
+Price Index for All Urban Consumers published by the Bu-
+reau of Labor Statistics, setting the threshold to the near-
+est 1,000,000) or more;
+(B) the last day of the fiscal year of the issuer following
+the fifth anniversary of the date of the first sale of com-
+mon equity securities of the issuer pursuant to an effective
+registration statement under this title;
+(C) the date on which such issuer has, during the pre-
+vious 3-year period, issued more than $1,000,000,000 in
+non-convertible debt; or
+(D) the date on which such issuer is deemed to be a
+‘‘large accelerated filer’’, as defined in section 240.12b–2 of
+title 17, Code of Federal Regulations, or any successor
+thereto.
+(b) CONSIDERATION OF PROMOTION OF EFFICIENCY, COMPETITION,
+AND CAPITAL FORMATION.—Whenever pursuant to this title the
+Commission is engaged in rulemaking and is required to
+consider or determine whether an action is necessary or appro-
+priate in the public interest, the Commission shall also consider, in
+addition to the protection of investors, whether the action will pro-
+mote efficiency, competition, and capital formation.
+* * * * * * *
+DODD-FRANK WALL STREET REFORM AND CONSUMER
+PROTECTION ACT
+* * * * * * *
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6601 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+14
+TITLE IV—REGULATION OF ADVISERS
+TO HEDGE FUNDS AND OTHERS
+* * * * * * *
+SEC. 413. ADJUSTING THE ACCREDITED INVESTOR STANDARD.
+(a) IN GENERAL.—The Commission shall adjust any net worth
+standard for an accredited investor, as set forth in the rules of the
+Commission under the Securities Act of 1933, so that the indi-
+vidual net worth of any natural person, or joint net worth with the
+spouse of that person, at the time of purchase, is more than
+$1,000,000 (as such amount is adjusted periodically by rule of the
+Commission), excluding the value of the primary residence of such
+natural person, except that during the 4-year period that begins on
+the date of enactment of this Act, any net worth standard shall be
+$1,000,000, excluding the value of the primary residence of such
+natural person.
+(b) REVIEW AND ADJUSTMENT.—
+(1) INITIAL REVIEW AND ADJUSTMENT.—
+(A) INITIAL REVIEW.—The Commission may undertake a
+review of the definition of the term ‘‘accredited investor’’,
+as such term applies to natural persons, to determine
+whether the requirements of the definition, excluding the
+requirement relating to the net worth standard described
+in subsection (a), should be adjusted or modified for the
+protection of investors, in the public interest, and in light
+of the economy.
+(B) ADJUSTMENT OR MODIFICATION.—Upon completion of
+a review under subparagraph (A), the Commission may, by
+notice and comment rulemaking, make such adjustments
+to the definition of the term ‘‘accredited investor’’, exclud-
+ing adjusting or modifying the requirement relating to the
+net worth standard described in subsection (a), as such
+term applies to natural persons, as the Commission may
+deem appropriate for the protection of investors, in the
+public interest, and in light of the economy.
+(2) SUBSEQUENT REVIEWS AND ADJUSTMENT.—
+(A) SUBSEQUENT REVIEWS.—Not earlier than 4 years
+after the date of enactment of this Act, and not less fre-
+quently than once every 4 years thereafter, the Commis-
+sion shall undertake a review of the definition, in its en-
+tirety, of the term ‘‘accredited investor’’, as defined in sec-
+tion 230.215 of title 17, Code of Federal Regulations, or
+any successor thereto, as such term applies to natural per-
+sons, to determine whether the requirements of the defini-
+tion should be adjusted or modified for the protection of in-
+vestors, in the public interest, and in light of the economy.
+(B) ADJUSTMENT OR MODIFICATION.—Upon completion of
+a review under subparagraph (A), the Commission may, by
+notice and comment rulemaking, make such adjustments
+to the definition of the term ‘‘accredited investor’’, as de-
+fined in section 230.215 of title 17, Code of Federal Regula-
+tions, or any successor thereto, as such term applies to
+natural persons, as the Commission may deem appropriate
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6601 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+15
+for the protection of investors, in the public interest, and
+in light of the economy.
+(3) PERIODIC REVIEW OF CERTIFICATIONS, DESIGNATIONS, AND
+CREDENTIALS.—Not later than 18 months after the date of the
+enactment of this paragraph and not less frequently than once
+every 5 years thereafter, the Commission shall—
+(A) review the list of certifications, designations, and cre-
+dentials designated as qualifying natural persons for ac-
+credited investor status pursuant to Rule 501(a)(10) (17
+CFR 230.501(a)(10));
+(B) add such certifications, designations, and credentials
+to such list as the Commission determines are substantially
+similar in measuring the financial sophistication, knowl-
+edge, and experience in financial matters of an individual
+to the certifications, designations, and credentials included
+on such list at the time of such review; and
+(C) adjust or modify such list as the Commission deter-
+mines necessary or appropriate in the public interest or for
+the protection of investors.
+* * * * * * *
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6659 Sfmt 6601 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+MINORITY VIEWS
+This bill gives the SEC broad discretion to expand the accredited
+investor definition as it sees fit. It further requires the SEC to re-
+view the list of certifications and credentials for individuals to
+qualify as an accredited investor and add additional certifications
+and credentials to such list which the SEC determines are substan-
+tially similar to existing ones on a periodic basis.
+Democrats no longer support this bill—which would give the SEC
+broad discretion to amend the accredited investor definition—due
+to the current SEC’s de-prioritization of investor protection and re-
+duced independence from the current presidential administration.
+Democrats were willing to accept this bill at the May 2025 markup
+had Republicans accepted a Democratic-sponsored revision that
+would limit the SEC’s discretion to change the definition; however,
+this revision was not accepted by the Chairman. While a prior
+version of this bill was agreed to by a recorded vote of 41–2 in
+markup in the 118th Congress, Democrats voted against this bill
+at the May 2025 markup as they believe the current SEC is no
+longer sufficiently independent and could unilaterally weaken the
+accredited investor definition.
+For these reasons, we oppose H.R. 3348.
+Sincerely,
+MAXINE WATERS,
+Ranking Member.
+NYDIA M. VELA ´ ZQUEZ,
+STEPHEN F. LYNCH,
+AL GREEN,
+JOYCE BEATTY,
+SYLVIA R. GARCIA,
+NIKEMA WILLIAMS,
+Members of Congress.
+Æ
+(16)
+VerDate Sep 11 2014 02:57 Jun 11, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6604 Sfmt 6611 E:\HR\OC\HR134.XXX HR134
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

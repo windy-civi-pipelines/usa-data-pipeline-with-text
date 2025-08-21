@@ -1,0 +1,906 @@
+Title: VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR050.XXX SR050
+Official Title: VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR050.XXX SR050
+Number of Sections: 5
+Source: documents - S. Rept. 119-50
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+1
+Calendar No. 133
+119THCONGRESS
+" SENATE !
+REPORT
+1st Session 119–50
+SETTING CONSUMER STANDARDS FOR
+LITHIUM-ION BATTERIES ACT
+R E P O R T
+OFTHE
+COMMITTEE ON COMMERCE, SCIENCE, AND
+TRANSPORTATION
+ON
+S. 389
+JULY 29, 2025.—Ordered to be printed
+U.S. GOVERNMENT PUBLISHING OFFICE
+59–010 WASHINGTON : 2025
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+31#.ssergnoc
+SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION
+ONE HUNDRED NINETEENTH CONGRESS
+FIRST SESSION
+TED CRUZ, Texas, Chairman
+JOHNTHUNE,SouthDakota MARIACANTWELL,Washington
+ROGERF.WICKER,Mississippi AMYKLOBUCHAR,Minnesota
+DEBFISCHER,Nebraska BRIANSCHATZ,Hawaii
+JERRYMORAN,Kansas EDWARDJ.MARKEY,Massachusetts
+DANSULLIVAN,Alaska GARYC.PETERS,Michigan
+MARSHABLACKBURN,Tennessee TAMMYBALDWIN,Wisconsin
+TODDYOUNG,Indiana TAMMYDUCKWORTH,Illinois
+TEDBUDD,NorthCarolina JACKYROSEN,Nevada
+ERICSCHMITT,Missouri BENRAYLUJA´N,NewMexico
+JOHNCURTIS,Utah JOHNW.HICKENLOOPER,Colorado
+BERNIEMORENO,Ohio JOHNFETTERMAN,Pennsylvania
+TIMSHEEHY,Montana ANDYKIM,NewJersey
+SHELLEYMOORECAPITO,WestVirginia LISABLUNTROCHESTER,Delaware
+CYNTHIAM.LUMMIS,Wyoming
+BRAD GRANTZ, Majority Staff Director
+LILA HARPER HELMS, Democratic Staff Director
+(II)
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00002 Fmt 5904 Sfmt 5904 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+Calendar No. 133
+119THCONGRESS REPORT
+1st Session " SENATE ! 119–50
+SETTING CONSUMER STANDARDS FOR LITHIUM-ION
+BATTERIES ACT
+JULY29, 2025.—Ordered to be printed
+Mr. CRUZ, from the Committee on Commerce, Science, and
+Transportation, submitted the following
+R E P O R T
+[To accompany S. 389]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Commerce, Science, and Transportation, to
+which was referred the bill (S. 389) to establish consumer stand-
+ards for lithium-ion batteries, having considered the same, reports
+favorably thereon with an amendment and recommends that the
+bill (as amended) do pass.1
+PURPOSE OF THE BILL
+The purpose of S. 389 is to protect consumers from the risk of
+fires due to rechargeable lithium-ion batteries by requiring the
+Consumer Product Safety Commission (CPSC) to issue a consumer
+product safety standard for rechargeable lithium-ion batteries used
+in micromobility devices, such as electric bicycles and scooters.
+BACKGROUND AND NEEDS
+Lithium-ion batteries are used in various consumer devices, in-
+cluding electric scooters and bicycles.2 As the number of electric bi-
+cycles and scooters have increased, the number of lithium-ion bat-
+1At the markup, S. 389 was ordered to be reported without amendment, but post-markup,
+a technical amendment required the bill to be reported favorably with an amendment.
+2‘‘Safety Tips for Lithium-Ion Batteries,’’ FDNY Smart (https://www.fdnysmart.org/
+be-fdnysmart-when-using-any-devices-powered-by-lithium-ion-batteries/).
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+teries in circulation has increased. Lithium-ion batteries were
+fitted to 75 percent of electric scooters in 2023.3
+Defective lithium-ion batteries, which often do not meet recog-
+nized industry safety standards, can overheat, catch fire, or ex-
+plode.4 For example, in New York City, batteries caused over 250
+fires in 2023, posing a safety risk not only to owners of the battery-
+powered products, but anyone in close proximity.5 Since 2021, lith-
+ium-ion battery fires have caused over 300 injuries and 29 deaths,
+as well as damage to many structures.6 Fires caused by lithium-
+ion batteries are especially difficult for fire departments to manage
+because the batteries can quickly burst into flames.7 Their spread
+is accelerated by the flammable and toxic gases they release, in-
+cluding carbon monoxide and hydrogen fluoride.8 Fire departments
+across the United States have conducted education campaigns
+about batteries as an attempt to prevent and minimize the hazards
+of lithium-ion battery fires.9
+UL Solutions has established voluntary standards for lithium-ion
+battery manufacturing; however, lower-cost imported devices—par-
+ticularly from China—may not meet these standards.10 Less expen-
+sive imported lithium-ion batteries that do not meet the UL stand-
+ards typically are the cause of fires due to their lack of quality con-
+trol in manufacturing.11
+If manufactured safely according to UL standards, lithium-ion
+batteries have a very low rate of failure.12 However, without a
+standard, it can be difficult for consumers to ascertain the dif-
+ference between poorly manufactured batteries that do not meet in-
+dustry standards and safely manufactured batteries that do.13 Re-
+quiring all lithium-ion batteries for micromobility devices—even
+those imported into the United States—to meet CPSC-adopted
+safety standards would ensure that all lithium-ion batteries avail-
+able for consumer purchase meet a baseline level of safety.
+This bill would require the CPSC to adopt three UL standards
+for lithium-ion batteries as consumer product safety standards for
+3Daniel Foley, ‘‘Electric Scooter Batteries—Everything You Need to Know, Unagi Scooters,’’
+August 6, 2024 (https://unagiscooters.com/scooter-articles/electric-scooter-batteries-everything-
+you-need-to-know/).
+4Samantha Murphy Kelly, ‘‘Lithium-ion Battery Fires Are Happening More Often. Here’s
+How to Prevent Them,’’ CNN, March 9, 2023 (https://www.cnn.com/2023/03/09/tech/lithium-
+ion-battery-fires/index.html).
+5Erin Ailworth, Lithium-Ion Batteries Are Everywhere. Fires Caused by Shoddy Ones are on
+the Rise, Wall Street Journal, March 17, 2024 (https://www.wsj.com/us-news/lithium-ion-
+batteries-are-everywhere-fires-caused-by-shoddy-ones-are-on-the-rise-ef6fb633).
+6Office of U.S. Senator Kirsten Gillibrand, press release, March 26, 2024 (https://
+www.gillibrand.senate.gov/news/press/release/gillibrand-schumer-announce-e-bike-safety-bill-is-
+now-bipartisan-in-the-senate-with-addition-of-republican-cosponsors/).
+7Erin Ailworth, ‘‘Lithium-Ion Batteries Are Everywhere. Fires Caused by Shoddy Ones Are
+on the Rise,’’ The Wall Street Journal, March 17, 2024 (https://www.wsj.com/us-news/lithium-
+ion-batteries-are-everywhere-fires-caused-by-shoddy-ones-are-on-the-rise-ef6fb633).
+8Ibid.
+9‘‘Take C.H.A.R.G.E. of Battery Safety Campaign,’’ Fire Safety Research Institute, October 18,
+2023 (https://fsri.org/programs/take-charge-battery-safety).
+10Stephanie Clifford, ‘‘‘Fire! Fire! Fire!’ The Perplexing, Deadly Electric Bike Problem,’’ Con-
+sumer Reports, December 8, 2022 (https://www.consumerreports.org/health/electric-bikes/
+electric-bike-fires-and-lithium-ion-batteries-a4632489902/).
+11Peter Allan Clark, ‘‘Lithium Battery Fires Spark Regulation Push,’’ Axios, March 31, 2023
+(https://www.axios.com/2023/03/31/battery-fires-regulation-new-york-city-lithium-ion).
+12‘‘E-Scooter & E-Bike Battery Fires,’’ UL Standards and Engagement (https://ulse.org/e-
+bikes).
+13Samantha Murphy Kelly, ‘‘Lithium-ion Battery Fires Are Happening More Often. Here’s
+How to Prevent Them,’’ CNN, March 9, 2023 (https://www.cnn.com/2023/03/09/tech/lithium-
+ion-battery-fires/index.html).
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+rechargeable lithium-ion batteries used in micromobility devices,
+such as electric scooters or bikes, in order to protect against fires.
+SUMMARY OF PROVISIONS
+S. 389 would do the following:
+• Require the CPSC to adopt ANSI/CAN/UL 2271 (standard
+for batteries for use in light electric vehicle application); ANSI/
+CAN/UL 2849 (standard for safety for electrical systems for
+ebikes); and ANSI/CAN/UL 2272 (standard for electrical sys-
+tems for personal e-mobility devices) as consumer product safe-
+ty standards for rechargeable lithium-ion batteries used in
+micromobility devices, such as electric bikes and scooters.
+• Require the CPSC to adopt ANSI/CAN/UL revisions unless
+the CPSC determines that such revisions do not improve the
+safety of the consumer product covered by the standard.
+• Require the CPSC to submit a report to the Senate Com-
+merce Committee and the House Energy and Commerce Com-
+mittee regarding fires, explosions, and other hazards relating
+to lithium-ion batteries used in micromobility devices.
+LEGISLATIVE HISTORY
+S. 389, the Setting Consumer Standards for Lithium-Ion Bat-
+teries Act, was introduced on February 4, 2025, by Senator Gilli-
+brand (for herself and Senators Blackburn, Fischer, and Schumer)
+and was referred to the Committee on Commerce, Science, and
+Transportation of the Senate. On March 12, 2025, the Committee
+met in open Executive Session and, by voice vote, ordered S. 389
+to be reported favorably without amendment. After the markup,
+the bill had a technical amendment which required S. 389 to be re-
+ported favorably with an amendment.
+118th Congress
+S. 1008, the Setting Consumer Standards for Lithium-Ion Bat-
+teries Act, was introduced by Senator Gillibrand (for herself and
+Senator Schumer) and was referred to the Committee on Com-
+merce, Science, and Transportation of the Senate. On July 31,
+2024, the Committee met in open Executive Session and, by voice
+vote, ordered S. 1008 to be reported favorably without amendment.
+Senators Blackburn, Braun, and Tester became additional cospon-
+sors.
+H.R. 1797, a House companion bill, was introduced on March 24,
+2023, by Representative Torres (for himself and Representatives
+Garbarino, Clarke of NY, Ryan, Bowman, D’Esposito, Espaillat,
+and Goldman) and was referred to the Committee on Energy and
+Commerce of the House of Representatives. One Delegate and 14
+Representatives became additional cosponsors. On December 6,
+2023, that Committee met in open Executive Session, and H.R.
+1797 was ordered to be reported, as amended, by a recorded vote
+of 42–0. On May 15, 2024, the House passed H.R. 1797 under sus-
+pension of the rules by a vote of 378–34.
+ESTIMATED COSTS
+In accordance with paragraph 11(a) of rule XXVI of the Standing
+Rules of the Senate and section 403 of the Congressional Budget
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+Act of 1974, the Committee provides the following cost estimate,
+prepared by the Congressional Budget Office:
+Summary of legislation: On March 12, 2025, the Senate Com-
+mittee on Commerce, Science, and Transportation ordered reported
+14 bills. This document provides estimates for 3 of those bills. One
+bill, S. 414, was reported on June 24, 2205.
+S. 289 would ban the sale of certain products covered by the Con-
+sumer Product Safety Act and S. 389 would require the Consumer
+Product Safety Commission (CPSC) to adopt voluntary safety
+standards for lithium-ion batteries. S. 414 would require digital ad-
+vertising platforms to report annually to the Federal Trade Com-
+mission (FTC).
+Estimated Federal cost: The costs of the legislation fall within
+budget functions 370 (commerce and housing credit) and 550
+(health).
+Basis of estimate: For this estimate, CBO assumes that each bill
+will be enacted near the end of fiscal year 2025 and that the esti-
+mated amounts will be available each year. The cost estimate does
+not include any effects of interactions among the bills. If all three
+bills were combined and enacted as a single piece of legislation, the
+effects could be different from the sum of the separate estimates,
+although CBO expects that any differences would be small.
+S. 289, the Youth Poisoning Protection Act, would ban the sale
+of products containing 10 percent or more by weight of sodium ni-
+trite that are covered under the Consumer Product Safety Act. The
+legislation would not affect the sale or use of commercial or indus-
+trial products not ordinarily intended for consumer use or con-
+sumption.
+Using information from the Consumer Product Safety Commis-
+sion, CBO estimates that implementing S. 289 would cost $2 mil-
+lion over the 2025–2030 period; any related spending would be sub-
+ject to the availability of appropriated funds.
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 2:
+100.05RS
+ereh
+6
+oilof
+tesffo
+tresnI
+5
+S. 389, the Setting Consumer Standards for Lithium-Ion Bat-
+teries Act, would require the Consumer Product Safety Commission
+within 180 days of enactment, to adopt certain voluntary safety
+standards—specifically ANSI/CAN/UL 2271, 2849, and 2272—con-
+cerning rechargeable lithium-ion batteries used in electric bicycles,
+scooters, and other micromobility devices. The bill also would re-
+quire the CPSC to determine the applicable scope of covered con-
+sumer products and to monitor and evaluate future revisions to the
+voluntary standards and report to the Congress within five years
+of enactment.
+Using information from the CPSC, CBO estimates that imple-
+menting S. 389 would cost $8 million over the 2025–2030 period;
+any related spending would be subject to the availability of appro-
+priated funds.
+S. 414, the ADS for Mental Health Services Act, would require
+certain digital advertising platforms to report annually to the Fed-
+eral Trade Commission about advertising on their platforms for
+certain mental health services, including information on the num-
+ber, percent, and dollar value of such advertisements. Platforms
+that would be affected by the bill include social media platforms,
+public facing websites, online services, and mobile applications
+with more than 100 million unique monthly users. The bill also
+would require the FTC to report annually to the Congress summa-
+rizing that data. CBO estimates that enacting S. 414 would cost
+less than $500,000 over the 2025–2030 period. Any related spend-
+ing would be subject to the availability of appropriated funds.
+Pay-As-You-Go considerations: The Statutory Pay-As-You-Go Act
+of 2010 establishes budget-reporting and enforcement procedures
+for legislation affecting direct spending or revenues. None of the
+bills would affect direct spending or revenues; thus, pay-as-you-go
+procedures do not apply.
+Increase in long-term net direct spending and deficits: CBO esti-
+mates that enacting S. 289, S. 389 and S. 414 would not increase
+net direct spending or deficits in any of the four consecutive 10-
+year periods beginning in 2036.
+Mandates: All three bills would impose private-sector mandates
+as defined in in the Unfunded Mandates Reform Act (UMRA).
+None of the bills would impose intergovernmental mandates.
+S. 289, the Youth Poisoning Protection Act, would impose a pri-
+vate-sector mandate as defined in UMRA by banning the sale of
+consumer products containing 10 percent or more of sodium nitrite
+by weight. The prohibition would not apply to industrial uses or to
+food preservation. Because there is only a small market for con-
+sumer products containing that much sodium nitrite and some
+states already have curtailed the sale of products containing so-
+dium nitrite, CBO estimates that the cost of the mandate would
+not exceed the private-sector threshold established in UMRA ($206
+million in 2025, adjusted annually for inflation).
+S. 389, the Setting Consumer Standards for Lithium-Ion Bat-
+teries Act, would impose a private-sector mandate as defined in
+UMRA by requiring manufacturers of electric mobility devices, in-
+cluding bicycles and scooters, to comply with a prospective Con-
+sumer Product Safety Commission safety standard related to the
+risk of fire in lithium-ion batteries. Based on voluntary compliance
+with the specified standard by domestic manufacturers and current
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+6
+state and local laws requiring compliance, CBO estimates that the
+cost of the mandate would not exceed the annual private-sector
+threshold established in UMRA ($206 million in 2025, adjusted an-
+nually for inflation).
+S. 414, the ADS for Mental Health Services Act, would require
+certain digital advertising platforms to report to the FTC on their
+public service advertisements for mental and behavioral health.
+That requirement would impose a private-sector mandate as de-
+fined by UMRA. CBO estimates the cost of the mandate would be
+small and not exceed the threshold established in UMRA ($206
+million in 2025, adjusted annually for inflation) because the man-
+dated entities generally already possess or collect the information
+required to be reported under the bill.
+Estimate prepared by: Federal costs: Cyrus Ekland (for the Con-
+sumer Product Safety Commission); Johnny Willing (for the Fed-
+eral Trade Commission). Mandates: Andrew Laughlin (for the Con-
+sumer Product Safety Commission); Rachel Austin (for the Federal
+Trade Commission).
+Estimate reviewed by: Sean Dunbar, Chief, Low-Income Health
+Programs and Prescription Drugs Cost Estimates Unit; Justin
+Humphrey, Chief, Finance, Housing, and Education Cost Estimates
+Unit; Kathleen FitzGerald, Chief, Public and Private Mandates
+Unit; H. Samuel Papenfuss, Deputy Director of Budget Analysis.
+Estimate approved by: Phillip L. Swagel, Director, Congressional
+Budget Office.
+REGULATORY IMPACT STATEMENT
+In accordance with paragraph 11(b) of rule XXVI of the Standing
+Rules of the Senate, the Committee provides the following evalua-
+tion of the regulatory impact of the legislation, as reported:
+Number of Persons Covered
+S. 389 requires the CPSC to promulgate a final consumer prod-
+uct standard. It also requires manufacturers of micromobility prod-
+ucts and lithium-ion batteries to adhere to these standards. There-
+fore, the number of persons covered by this Act is approximately
+equal to affected staff at the CPSC and producers of lithium-ion
+batteries and micromobility devices.
+Economic Impact
+It is expected that this legislation will have some economic im-
+pact. While it is possible that a safety standard could increase the
+cost of batteries for some users of micromobility products, the risk
+of fires will decrease, saving costs for consumers and cities. In New
+York City alone, there were 268 fires in 2023.16
+Privacy
+S. 389 would not have a significant impact on the privacy rights
+of individuals.
+16Erin Ailworth, ‘‘Lithium-Ion Batteries Are Everywhere. Fires Caused by Shoddy Ones Are
+on the Rise,’’ The Wall Street Journal, March 17, 2024 (https://www.wsj.com/us-news/lithium-
+ion-batteries-are-everywhere-fires-caused-by-shoddy-ones-are-on-the-rise-ef6fb633).
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+7
+Paperwork
+The Committee does not anticipate a major increase in paper-
+work burdens for private individuals or businesses resulting from
+the passage of this legislation. S. 389 would require the CPSC to
+report to Congress regarding fires, explosions, and other hazards
+relating to lithium-ion batteries used in micromobility products.
+CONGRESSIONALLY DIRECTED SPENDING
+In compliance with paragraph 4(b) of rule XLIV of the Standing
+Rules of the Senate, the Committee provides that no provisions
+contained in the bill, as reported, meet the definition of congres-
+sionally directed spending items under the rule.
+
+Section 3:
+SECTION-BY-SECTION ANALYSIS
+
+Section 4:
+Section 1. Short title
+This section would provide that the Act may be cited as the ‘‘Set-
+ting Consumer Standards for Lithium-Ion Batteries Act’’.
+
+Section 5:
+Section 2. Consumer product safety standard for certain batteries
+This section would require the CPSC to promulgate a rulemaking
+to adopt the following UL standards as mandatory safety standards
+no later than 180 days after enactment to protect against the risk
+of fires caused by rechargeable lithium-ion batteries used in micro-
+mobility devices: (1) ANSI/CAN/UL 2271 (standard for batteries for
+use in light electric vehicle applications); (2) ANSI/CAN/UL 2849
+(standard for safety for electrical systems for ebikes); and (3) ANSI/
+CAN/UL 2272 (standard for electrical systems for personal e-mobil-
+ity devices).
+This section would also require the CPSC to limit the application
+of such mandatory standards adopted to consumer products as de-
+fined by the Consumer Product Safety Act.
+Further, this section would provide that in the event the stand-
+ards adopted by the CPSC are revised, the organization that made
+the revision must notify the CPSC. It would further provide that
+the CPSC must then adopt the revision within 90 days of receiving
+the notice unless it finds that the revision does not improve the
+safety of the consumer product.
+This section would clarify that any revisions to the standards
+adopted by the CPSC are to be considered mandatory standards.
+Finally, this section would require, no later than 5 years after
+enactment, the CPSC to submit a report to the Committee on Com-
+merce, Science, and Transportation of the Senate and the Com-
+mittee on Energy and Commerce of the House of Representatives
+regarding fires, explosions, and other hazards relating to lithium-
+ion batteries used in micromobility products. The report must note,
+if known, the make and model of the lithium-ion battery that re-
+sulted in the hazards, whether it complied with the standards in
+this Act, and the manufacturer and country of manufacture.
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+8
+CHANGES IN EXISTING LAW
+In compliance with paragraph 12 of rule XXVI of the Standing
+Rules of the Senate, the Committee states that the bill as reported
+would make no change to existing law.
+Æ
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00010 Fmt 6659 Sfmt 6611 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+1
+Calendar No. 133
+119THCONGRESS
+" SENATE !
+REPORT
+1st Session 119–50
+SETTING CONSUMER STANDARDS FOR
+LITHIUM-ION BATTERIES ACT
+R E P O R T
+OFTHE
+COMMITTEE ON COMMERCE, SCIENCE, AND
+TRANSPORTATION
+ON
+S. 389
+JULY 29, 2025.—Ordered to be printed
+U.S. GOVERNMENT PUBLISHING OFFICE
+59–010 WASHINGTON : 2025
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+31#.ssergnoc
+
+SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION
+ONE HUNDRED NINETEENTH CONGRESS
+FIRST SESSION
+TED CRUZ, Texas, Chairman
+JOHNTHUNE,SouthDakota MARIACANTWELL,Washington
+ROGERF.WICKER,Mississippi AMYKLOBUCHAR,Minnesota
+DEBFISCHER,Nebraska BRIANSCHATZ,Hawaii
+JERRYMORAN,Kansas EDWARDJ.MARKEY,Massachusetts
+DANSULLIVAN,Alaska GARYC.PETERS,Michigan
+MARSHABLACKBURN,Tennessee TAMMYBALDWIN,Wisconsin
+TODDYOUNG,Indiana TAMMYDUCKWORTH,Illinois
+TEDBUDD,NorthCarolina JACKYROSEN,Nevada
+ERICSCHMITT,Missouri BENRAYLUJA´N,NewMexico
+JOHNCURTIS,Utah JOHNW.HICKENLOOPER,Colorado
+BERNIEMORENO,Ohio JOHNFETTERMAN,Pennsylvania
+TIMSHEEHY,Montana ANDYKIM,NewJersey
+SHELLEYMOORECAPITO,WestVirginia LISABLUNTROCHESTER,Delaware
+CYNTHIAM.LUMMIS,Wyoming
+BRAD GRANTZ, Majority Staff Director
+LILA HARPER HELMS, Democratic Staff Director
+(II)
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00002 Fmt 5904 Sfmt 5904 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Calendar No. 133
+119THCONGRESS REPORT
+1st Session " SENATE ! 119–50
+SETTING CONSUMER STANDARDS FOR LITHIUM-ION
+BATTERIES ACT
+JULY29, 2025.—Ordered to be printed
+Mr. CRUZ, from the Committee on Commerce, Science, and
+Transportation, submitted the following
+R E P O R T
+[To accompany S. 389]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Commerce, Science, and Transportation, to
+which was referred the bill (S. 389) to establish consumer stand-
+ards for lithium-ion batteries, having considered the same, reports
+favorably thereon with an amendment and recommends that the
+bill (as amended) do pass.1
+PURPOSE OF THE BILL
+The purpose of S. 389 is to protect consumers from the risk of
+fires due to rechargeable lithium-ion batteries by requiring the
+Consumer Product Safety Commission (CPSC) to issue a consumer
+product safety standard for rechargeable lithium-ion batteries used
+in micromobility devices, such as electric bicycles and scooters.
+BACKGROUND AND NEEDS
+Lithium-ion batteries are used in various consumer devices, in-
+cluding electric scooters and bicycles.2 As the number of electric bi-
+cycles and scooters have increased, the number of lithium-ion bat-
+1At the markup, S. 389 was ordered to be reported without amendment, but post-markup,
+a technical amendment required the bill to be reported favorably with an amendment.
+2‘‘Safety Tips for Lithium-Ion Batteries,’’ FDNY Smart (https://www.fdnysmart.org/
+be-fdnysmart-when-using-any-devices-powered-by-lithium-ion-batteries/).
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+teries in circulation has increased. Lithium-ion batteries were
+fitted to 75 percent of electric scooters in 2023.3
+Defective lithium-ion batteries, which often do not meet recog-
+nized industry safety standards, can overheat, catch fire, or ex-
+plode.4 For example, in New York City, batteries caused over 250
+fires in 2023, posing a safety risk not only to owners of the battery-
+powered products, but anyone in close proximity.5 Since 2021, lith-
+ium-ion battery fires have caused over 300 injuries and 29 deaths,
+as well as damage to many structures.6 Fires caused by lithium-
+ion batteries are especially difficult for fire departments to manage
+because the batteries can quickly burst into flames.7 Their spread
+is accelerated by the flammable and toxic gases they release, in-
+cluding carbon monoxide and hydrogen fluoride.8 Fire departments
+across the United States have conducted education campaigns
+about batteries as an attempt to prevent and minimize the hazards
+of lithium-ion battery fires.9
+UL Solutions has established voluntary standards for lithium-ion
+battery manufacturing; however, lower-cost imported devices—par-
+ticularly from China—may not meet these standards.10 Less expen-
+sive imported lithium-ion batteries that do not meet the UL stand-
+ards typically are the cause of fires due to their lack of quality con-
+trol in manufacturing.11
+If manufactured safely according to UL standards, lithium-ion
+batteries have a very low rate of failure.12 However, without a
+standard, it can be difficult for consumers to ascertain the dif-
+ference between poorly manufactured batteries that do not meet in-
+dustry standards and safely manufactured batteries that do.13 Re-
+quiring all lithium-ion batteries for micromobility devices—even
+those imported into the United States—to meet CPSC-adopted
+safety standards would ensure that all lithium-ion batteries avail-
+able for consumer purchase meet a baseline level of safety.
+This bill would require the CPSC to adopt three UL standards
+for lithium-ion batteries as consumer product safety standards for
+3Daniel Foley, ‘‘Electric Scooter Batteries—Everything You Need to Know, Unagi Scooters,’’
+August 6, 2024 (https://unagiscooters.com/scooter-articles/electric-scooter-batteries-everything-
+you-need-to-know/).
+4Samantha Murphy Kelly, ‘‘Lithium-ion Battery Fires Are Happening More Often. Here’s
+How to Prevent Them,’’ CNN, March 9, 2023 (https://www.cnn.com/2023/03/09/tech/lithium-
+ion-battery-fires/index.html).
+5Erin Ailworth, Lithium-Ion Batteries Are Everywhere. Fires Caused by Shoddy Ones are on
+the Rise, Wall Street Journal, March 17, 2024 (https://www.wsj.com/us-news/lithium-ion-
+batteries-are-everywhere-fires-caused-by-shoddy-ones-are-on-the-rise-ef6fb633).
+6Office of U.S. Senator Kirsten Gillibrand, press release, March 26, 2024 (https://
+www.gillibrand.senate.gov/news/press/release/gillibrand-schumer-announce-e-bike-safety-bill-is-
+now-bipartisan-in-the-senate-with-addition-of-republican-cosponsors/).
+7Erin Ailworth, ‘‘Lithium-Ion Batteries Are Everywhere. Fires Caused by Shoddy Ones Are
+on the Rise,’’ The Wall Street Journal, March 17, 2024 (https://www.wsj.com/us-news/lithium-
+ion-batteries-are-everywhere-fires-caused-by-shoddy-ones-are-on-the-rise-ef6fb633).
+8Ibid.
+9‘‘Take C.H.A.R.G.E. of Battery Safety Campaign,’’ Fire Safety Research Institute, October 18,
+2023 (https://fsri.org/programs/take-charge-battery-safety).
+10Stephanie Clifford, ‘‘‘Fire! Fire! Fire!’ The Perplexing, Deadly Electric Bike Problem,’’ Con-
+sumer Reports, December 8, 2022 (https://www.consumerreports.org/health/electric-bikes/
+electric-bike-fires-and-lithium-ion-batteries-a4632489902/).
+11Peter Allan Clark, ‘‘Lithium Battery Fires Spark Regulation Push,’’ Axios, March 31, 2023
+(https://www.axios.com/2023/03/31/battery-fires-regulation-new-york-city-lithium-ion).
+12‘‘E-Scooter & E-Bike Battery Fires,’’ UL Standards and Engagement (https://ulse.org/e-
+bikes).
+13Samantha Murphy Kelly, ‘‘Lithium-ion Battery Fires Are Happening More Often. Here’s
+How to Prevent Them,’’ CNN, March 9, 2023 (https://www.cnn.com/2023/03/09/tech/lithium-
+ion-battery-fires/index.html).
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+rechargeable lithium-ion batteries used in micromobility devices,
+such as electric scooters or bikes, in order to protect against fires.
+SUMMARY OF PROVISIONS
+S. 389 would do the following:
+• Require the CPSC to adopt ANSI/CAN/UL 2271 (standard
+for batteries for use in light electric vehicle application); ANSI/
+CAN/UL 2849 (standard for safety for electrical systems for
+ebikes); and ANSI/CAN/UL 2272 (standard for electrical sys-
+tems for personal e-mobility devices) as consumer product safe-
+ty standards for rechargeable lithium-ion batteries used in
+micromobility devices, such as electric bikes and scooters.
+• Require the CPSC to adopt ANSI/CAN/UL revisions unless
+the CPSC determines that such revisions do not improve the
+safety of the consumer product covered by the standard.
+• Require the CPSC to submit a report to the Senate Com-
+merce Committee and the House Energy and Commerce Com-
+mittee regarding fires, explosions, and other hazards relating
+to lithium-ion batteries used in micromobility devices.
+LEGISLATIVE HISTORY
+S. 389, the Setting Consumer Standards for Lithium-Ion Bat-
+teries Act, was introduced on February 4, 2025, by Senator Gilli-
+brand (for herself and Senators Blackburn, Fischer, and Schumer)
+and was referred to the Committee on Commerce, Science, and
+Transportation of the Senate. On March 12, 2025, the Committee
+met in open Executive Session and, by voice vote, ordered S. 389
+to be reported favorably without amendment. After the markup,
+the bill had a technical amendment which required S. 389 to be re-
+ported favorably with an amendment.
+118th Congress
+S. 1008, the Setting Consumer Standards for Lithium-Ion Bat-
+teries Act, was introduced by Senator Gillibrand (for herself and
+Senator Schumer) and was referred to the Committee on Com-
+merce, Science, and Transportation of the Senate. On July 31,
+2024, the Committee met in open Executive Session and, by voice
+vote, ordered S. 1008 to be reported favorably without amendment.
+Senators Blackburn, Braun, and Tester became additional cospon-
+sors.
+H.R. 1797, a House companion bill, was introduced on March 24,
+2023, by Representative Torres (for himself and Representatives
+Garbarino, Clarke of NY, Ryan, Bowman, D’Esposito, Espaillat,
+and Goldman) and was referred to the Committee on Energy and
+Commerce of the House of Representatives. One Delegate and 14
+Representatives became additional cosponsors. On December 6,
+2023, that Committee met in open Executive Session, and H.R.
+1797 was ordered to be reported, as amended, by a recorded vote
+of 42–0. On May 15, 2024, the House passed H.R. 1797 under sus-
+pension of the rules by a vote of 378–34.
+ESTIMATED COSTS
+In accordance with paragraph 11(a) of rule XXVI of the Standing
+Rules of the Senate and section 403 of the Congressional Budget
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+Act of 1974, the Committee provides the following cost estimate,
+prepared by the Congressional Budget Office:
+Summary of legislation: On March 12, 2025, the Senate Com-
+mittee on Commerce, Science, and Transportation ordered reported
+14 bills. This document provides estimates for 3 of those bills. One
+bill, S. 414, was reported on June 24, 2205.
+S. 289 would ban the sale of certain products covered by the Con-
+sumer Product Safety Act and S. 389 would require the Consumer
+Product Safety Commission (CPSC) to adopt voluntary safety
+standards for lithium-ion batteries. S. 414 would require digital ad-
+vertising platforms to report annually to the Federal Trade Com-
+mission (FTC).
+Estimated Federal cost: The costs of the legislation fall within
+budget functions 370 (commerce and housing credit) and 550
+(health).
+Basis of estimate: For this estimate, CBO assumes that each bill
+will be enacted near the end of fiscal year 2025 and that the esti-
+mated amounts will be available each year. The cost estimate does
+not include any effects of interactions among the bills. If all three
+bills were combined and enacted as a single piece of legislation, the
+effects could be different from the sum of the separate estimates,
+although CBO expects that any differences would be small.
+S. 289, the Youth Poisoning Protection Act, would ban the sale
+of products containing 10 percent or more by weight of sodium ni-
+trite that are covered under the Consumer Product Safety Act. The
+legislation would not affect the sale or use of commercial or indus-
+trial products not ordinarily intended for consumer use or con-
+sumption.
+Using information from the Consumer Product Safety Commis-
+sion, CBO estimates that implementing S. 289 would cost $2 mil-
+lion over the 2025–2030 period; any related spending would be sub-
+ject to the availability of appropriated funds.
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.05RS
+ereh
+6
+oilof
+tesffo
+tresnI
+
+5
+S. 389, the Setting Consumer Standards for Lithium-Ion Bat-
+teries Act, would require the Consumer Product Safety Commission
+within 180 days of enactment, to adopt certain voluntary safety
+standards—specifically ANSI/CAN/UL 2271, 2849, and 2272—con-
+cerning rechargeable lithium-ion batteries used in electric bicycles,
+scooters, and other micromobility devices. The bill also would re-
+quire the CPSC to determine the applicable scope of covered con-
+sumer products and to monitor and evaluate future revisions to the
+voluntary standards and report to the Congress within five years
+of enactment.
+Using information from the CPSC, CBO estimates that imple-
+menting S. 389 would cost $8 million over the 2025–2030 period;
+any related spending would be subject to the availability of appro-
+priated funds.
+S. 414, the ADS for Mental Health Services Act, would require
+certain digital advertising platforms to report annually to the Fed-
+eral Trade Commission about advertising on their platforms for
+certain mental health services, including information on the num-
+ber, percent, and dollar value of such advertisements. Platforms
+that would be affected by the bill include social media platforms,
+public facing websites, online services, and mobile applications
+with more than 100 million unique monthly users. The bill also
+would require the FTC to report annually to the Congress summa-
+rizing that data. CBO estimates that enacting S. 414 would cost
+less than $500,000 over the 2025–2030 period. Any related spend-
+ing would be subject to the availability of appropriated funds.
+Pay-As-You-Go considerations: The Statutory Pay-As-You-Go Act
+of 2010 establishes budget-reporting and enforcement procedures
+for legislation affecting direct spending or revenues. None of the
+bills would affect direct spending or revenues; thus, pay-as-you-go
+procedures do not apply.
+Increase in long-term net direct spending and deficits: CBO esti-
+mates that enacting S. 289, S. 389 and S. 414 would not increase
+net direct spending or deficits in any of the four consecutive 10-
+year periods beginning in 2036.
+Mandates: All three bills would impose private-sector mandates
+as defined in in the Unfunded Mandates Reform Act (UMRA).
+None of the bills would impose intergovernmental mandates.
+S. 289, the Youth Poisoning Protection Act, would impose a pri-
+vate-sector mandate as defined in UMRA by banning the sale of
+consumer products containing 10 percent or more of sodium nitrite
+by weight. The prohibition would not apply to industrial uses or to
+food preservation. Because there is only a small market for con-
+sumer products containing that much sodium nitrite and some
+states already have curtailed the sale of products containing so-
+dium nitrite, CBO estimates that the cost of the mandate would
+not exceed the private-sector threshold established in UMRA ($206
+million in 2025, adjusted annually for inflation).
+S. 389, the Setting Consumer Standards for Lithium-Ion Bat-
+teries Act, would impose a private-sector mandate as defined in
+UMRA by requiring manufacturers of electric mobility devices, in-
+cluding bicycles and scooters, to comply with a prospective Con-
+sumer Product Safety Commission safety standard related to the
+risk of fire in lithium-ion batteries. Based on voluntary compliance
+with the specified standard by domestic manufacturers and current
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+6
+state and local laws requiring compliance, CBO estimates that the
+cost of the mandate would not exceed the annual private-sector
+threshold established in UMRA ($206 million in 2025, adjusted an-
+nually for inflation).
+S. 414, the ADS for Mental Health Services Act, would require
+certain digital advertising platforms to report to the FTC on their
+public service advertisements for mental and behavioral health.
+That requirement would impose a private-sector mandate as de-
+fined by UMRA. CBO estimates the cost of the mandate would be
+small and not exceed the threshold established in UMRA ($206
+million in 2025, adjusted annually for inflation) because the man-
+dated entities generally already possess or collect the information
+required to be reported under the bill.
+Estimate prepared by: Federal costs: Cyrus Ekland (for the Con-
+sumer Product Safety Commission); Johnny Willing (for the Fed-
+eral Trade Commission). Mandates: Andrew Laughlin (for the Con-
+sumer Product Safety Commission); Rachel Austin (for the Federal
+Trade Commission).
+Estimate reviewed by: Sean Dunbar, Chief, Low-Income Health
+Programs and Prescription Drugs Cost Estimates Unit; Justin
+Humphrey, Chief, Finance, Housing, and Education Cost Estimates
+Unit; Kathleen FitzGerald, Chief, Public and Private Mandates
+Unit; H. Samuel Papenfuss, Deputy Director of Budget Analysis.
+Estimate approved by: Phillip L. Swagel, Director, Congressional
+Budget Office.
+REGULATORY IMPACT STATEMENT
+In accordance with paragraph 11(b) of rule XXVI of the Standing
+Rules of the Senate, the Committee provides the following evalua-
+tion of the regulatory impact of the legislation, as reported:
+Number of Persons Covered
+S. 389 requires the CPSC to promulgate a final consumer prod-
+uct standard. It also requires manufacturers of micromobility prod-
+ucts and lithium-ion batteries to adhere to these standards. There-
+fore, the number of persons covered by this Act is approximately
+equal to affected staff at the CPSC and producers of lithium-ion
+batteries and micromobility devices.
+Economic Impact
+It is expected that this legislation will have some economic im-
+pact. While it is possible that a safety standard could increase the
+cost of batteries for some users of micromobility products, the risk
+of fires will decrease, saving costs for consumers and cities. In New
+York City alone, there were 268 fires in 2023.16
+Privacy
+S. 389 would not have a significant impact on the privacy rights
+of individuals.
+16Erin Ailworth, ‘‘Lithium-Ion Batteries Are Everywhere. Fires Caused by Shoddy Ones Are
+on the Rise,’’ The Wall Street Journal, March 17, 2024 (https://www.wsj.com/us-news/lithium-
+ion-batteries-are-everywhere-fires-caused-by-shoddy-ones-are-on-the-rise-ef6fb633).
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+7
+Paperwork
+The Committee does not anticipate a major increase in paper-
+work burdens for private individuals or businesses resulting from
+the passage of this legislation. S. 389 would require the CPSC to
+report to Congress regarding fires, explosions, and other hazards
+relating to lithium-ion batteries used in micromobility products.
+CONGRESSIONALLY DIRECTED SPENDING
+In compliance with paragraph 4(b) of rule XLIV of the Standing
+Rules of the Senate, the Committee provides that no provisions
+contained in the bill, as reported, meet the definition of congres-
+sionally directed spending items under the rule.
+SECTION-BY-SECTION ANALYSIS
+Section 1. Short title
+This section would provide that the Act may be cited as the ‘‘Set-
+ting Consumer Standards for Lithium-Ion Batteries Act’’.
+Section 2. Consumer product safety standard for certain batteries
+This section would require the CPSC to promulgate a rulemaking
+to adopt the following UL standards as mandatory safety standards
+no later than 180 days after enactment to protect against the risk
+of fires caused by rechargeable lithium-ion batteries used in micro-
+mobility devices: (1) ANSI/CAN/UL 2271 (standard for batteries for
+use in light electric vehicle applications); (2) ANSI/CAN/UL 2849
+(standard for safety for electrical systems for ebikes); and (3) ANSI/
+CAN/UL 2272 (standard for electrical systems for personal e-mobil-
+ity devices).
+This section would also require the CPSC to limit the application
+of such mandatory standards adopted to consumer products as de-
+fined by the Consumer Product Safety Act.
+Further, this section would provide that in the event the stand-
+ards adopted by the CPSC are revised, the organization that made
+the revision must notify the CPSC. It would further provide that
+the CPSC must then adopt the revision within 90 days of receiving
+the notice unless it finds that the revision does not improve the
+safety of the consumer product.
+This section would clarify that any revisions to the standards
+adopted by the CPSC are to be considered mandatory standards.
+Finally, this section would require, no later than 5 years after
+enactment, the CPSC to submit a report to the Committee on Com-
+merce, Science, and Transportation of the Senate and the Com-
+mittee on Energy and Commerce of the House of Representatives
+regarding fires, explosions, and other hazards relating to lithium-
+ion batteries used in micromobility products. The report must note,
+if known, the make and model of the lithium-ion battery that re-
+sulted in the hazards, whether it complied with the standards in
+this Act, and the manufacturer and country of manufacture.
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+8
+CHANGES IN EXISTING LAW
+In compliance with paragraph 12 of rule XXVI of the Standing
+Rules of the Senate, the Committee states that the bill as reported
+would make no change to existing law.
+Æ
+VerDate Sep 11 2014 01:08 Aug 09, 2025 Jkt 059010 PO 00000 Frm 00010 Fmt 6659 Sfmt 6611 E:\HR\OC\SR050.XXX SR050
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

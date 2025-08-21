@@ -1,0 +1,1367 @@
+Title: JUNE20, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JUNE20, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 17
+Source: documents - H. Rept. 119-164
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–164
+FINANCIAL INTEGRITY AND REGULATION MANAGEMENT
+ACT
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 2702]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 2702) to curtail the political weaponization of Federal
+banking agencies by eliminating reputational risk as a component
+of the supervision of depository institutions, having considered the
+same, reports favorably thereon with an amendment and rec-
+ommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 3
+Background and Need for Legislation .................................................................... 3
+Committee Consideration ........................................................................................ 4
+Related Hearings ..................................................................................................... 4
+Committee Votes ...................................................................................................... 5
+Committee Oversight Findings ............................................................................... 7
+Performance Goals and Objectives ......................................................................... 7
+Committee Cost Estimate ....................................................................................... 7
+New Budget Authority and CBO Cost Estimate ................................................... 7
+Unfunded Mandates Statement .............................................................................. 7
+Earmark Statement ................................................................................................. 7
+Federal Advisory Committee Act Statement ......................................................... 8
+Applicability to the Legislative Branch ................................................................. 8
+Duplication of Federal Programs ............................................................................ 8
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 9
+Minority Views ......................................................................................................... 10
+59–006
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Financial Integrity and Regulation Management
+Act’’ or the ‘‘FIRM Act’’.
+SEC. 2. FINDINGS.
+Congress finds that—
+(1) the primary objective of financial regulation and supervision by the Fed-
+eral banking agencies is to promote safety and soundness of depository institu-
+tions;
+(2) all federally legal businesses and law-abiding citizens regardless of polit-
+ical ideology should have equal opportunity to obtain financial services and
+should not face unlawful discrimination in obtaining such services;
+(3) financial service providers are private entities entitled to provide services
+to whichever customers they so choose, provided that those decisions do not vio-
+late the law;
+(4) financial service providers should strive to ensure that all business deci-
+sions are based on factors free from unlawful prejudice or political influence;
+(5) the use of reputational risk in supervisory frameworks encourages Federal
+banking agencies to regulate depository institutions based on the subjective
+view of negative publicity and provides cover for the agencies to implement
+their own political agenda unrelated to the safety and soundness of a depository
+institution;
+(6) Federal banking agencies have in fact used reputational risk to limit ac-
+cess of federally legal businesses and law-abiding citizens to financial services
+in 2018 when the Federal Deposit Insurance Corporation acknowledged that the
+agency used reputational risk reviews to limit access to financial services by
+certain industries, commonly known as ‘‘Operation Choke Point’’; and
+(7) reputational risk does not appear in any statute and is an unnecessary
+and improper use of supervisory authority that does not contribute to the safety
+and soundness of the financial system.
+SEC. 3. DEFINITIONS.
+In this Act:
+(1) DEPOSITORYINSTITUTION.—The term ‘‘depository institution’’—
+(A) has the meaning given the term in section 3 of the Federal Deposit
+Insurance Act (12 U.S.C. 1813); and
+(B) includes an insured credit union, as such term is defined in section
+101 of the Federal Credit Union Act (12 U.S.C. 1752).
+(2) FEDERALBANKINGAGENCY.—The term ‘‘Federal banking agency’’—
+(A) has the meaning given the term in section 3 of the Federal Deposit
+Insurance Act (12 U.S.C. 1813); and
+(B) includes—
+(i) the National Credit Union Administration; and
+(ii) the Bureau of Consumer Financial Protection.
+(3) FOREIGN TERRORIST ORGANIZATION.—The term ‘‘foreign terrorist organiza-
+tion’’ means a foreign organization that is designated by the Secretary of State
+in accordance with section 219 of the Immigration and Nationality Act (8 U.S.C.
+1189).
+(4) REPUTATIONAL RISK.—The term ‘‘reputational risk’’ means the potential
+that negative publicity or negative public opinion regarding a depository institu-
+tion’s business practices, whether true or not, will cause a decline in confidence
+in the institution or a decline in the customer base, costly litigation, or revenue
+reductions or otherwise adversely impact the depository institution. The pre-
+vious sentence does not apply to negative publicity or negative public opinion
+regarding an institution’s business practices where such practices involve un-
+lawful transactions in connection with state sponsors of terrorism or foreign ter-
+rorist organizations.
+(5) STATE SPONSORS OF TERRORISM.—The term ‘‘state sponsors of terrorism’’
+means a country, the government of which has been determined by the Sec-
+retary of State to have repeatedly provided support for acts of international ter-
+rorism, for purposes of—
+(A) section 1754(c)(1)(A)(i) of the Export Control Reform Act of 2018 (50
+U.S.C. 4813(c)(1)(A)(i));
+(B) section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371);
+(C) section 40(d) of the Arms Export Control Act (22 U.S.C. 2780(d)); or
+(D) any other provision of law.
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+SEC. 4. REMOVAL OF REPUTATIONAL RISK AS A CONSIDERATION IN THE SUPERVISION OF
+DEPOSITORY INSTITUTIONS.
+Each Federal banking agency shall remove from any guidance, rule, examination
+manual, or similar document established by the agency any reference to
+reputational risk, or any term substantially similar, regarding the supervision of de-
+pository institutions such that reputational risk, or any term substantially similar,
+is no longer taken into consideration by the Federal banking agency when exam-
+ining and supervising a depository institution.
+SEC. 5. PROHIBITION.
+No Federal banking agency may engage in any activity concerning or related to
+the regulation, supervision, or examination of the reputational risk, or any term
+substantially similar, or the management thereof, of a depository institution, includ-
+ing—
+(1) establishing any rule, regulation, requirement, standard, or supervisory
+expectation concerning or related to the reputational risk, or any term substan-
+tially similar, or the management thereof, of a depository institution whether
+binding or not;
+(2) conducting any examination, assessment, data collection, or other super-
+visory exercise concerning or related to reputational risk, or any term substan-
+tially similar, or the management thereof, of a depository institution;
+(3) issuing any examination finding, supervisory criticism, or other super-
+visory or examination communication concerning or related to reputational risk,
+or any term substantially similar, or the management thereof, of a depository
+institution;
+(4) making any supervisory ratings decision or determination that is based,
+in whole or in part, on any matter concerning or related to reputational risk,
+or any term substantially similar, or the management thereof, of a depository
+institution; and
+(5) taking any formal or informal enforcement action that is based, in whole
+or in part, on any matter concerning or related to reputational risk, or any term
+substantially similar, or the management thereof, of a depository institution.
+SEC. 6. REPORTS.
+Not later than 180 days after the date of enactment of this Act, each Federal
+banking agency shall submit to the Committee on Banking, Housing, and Urban Af-
+fairs of the Senate and the Committee on Financial Services of the House of Rep-
+resentatives a report that—
+(1) confirms implementation of this Act; and
+(2) describes any changes made to internal policies as a result of this Act.
+PURPOSE AND SUMMARY
+Introduced on April 8, 2025, by Representative Andy Barr (KY–
+06), H.R. 2702, the Financial Integrity and Regulation Management
+(FIRM) Act, prohibits the use of ‘‘reputational risk’’ as a factor in
+the supervision of depository institutions and, by eliminating this
+subjective and undefined metric, the bill aims to prevent
+politicization of bank supervision and ensure regulatory focus re-
+mains squarely on material risks related to safety and soundness.
+BACKGROUND AND NEED FOR LEGISLATION
+The central purpose of financial regulation is to protect the safe-
+ty and soundness of depository institutions—not to advance polit-
+ical or ideological agendas. Yet, federal regulators have increas-
+ingly cited ‘‘reputational risk,’’ a term with no statutory definition,
+to justify supervisory actions against institutions engaged in lawful
+business activities. This has raised concerns that the supervisory
+process is being misused to deny financial access based on per-
+ceived political unpopularity or social stigma.
+The use of reputational risk as a supervisory tool was notably
+employed under the Obama Administration’s ‘‘Operation Choke
+Point,’’ an initiative acknowledged by the FDIC in 2018 which dis-
+couraged financial institutions from serving entire industries de-
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+spite those industries’ lawful status. This approach undermines the
+principle of equal access to financial services and allows regulators
+to exert pressure unrelated to financial performance or regulatory
+compliance.
+H.R. 2702 removes reputational risk from supervisory consider-
+ations, reinforcing that regulatory discretion must be grounded in
+objective, material financial risk, not ideological concerns.
+COMMITTEE CONSIDERATION
+119TH CONGRESS
+On April 8, 2025, Representative Barr introduced H.R. 2702, the
+Financial Integrity and Regulation Management (FIRM) Act, with
+Representatives Ritchie Torres (D–NY), Lisa McClain (R–MI),
+Frank Lucas (R–OK), Barry Loudermilk (R–GA), John Rose (R–
+TN), Ann Wagner (R–MO), Marlin Stutzman (R–IN), William
+Timmons (R–SC), Scott Fitzgerald (R–WI), Tim Moore (R–NC),
+Mark Messmer (R–IN), Andy Ogles (R–TN), Troy Downing (R–MT),
+Pete Sessions (R–TX), Doug LaMalfa (R–CA), and Glenn Grothman
+(R–WI). Representatives Roger Williams (R–TX), Derek Schmidt
+(R–KS), and Andrew Garbarino (R–NY) were added subsequently
+as cosponsors. The bill was referred solely to the Committee on Fi-
+nancial Services. H.R. 2702 was attached to the April 29, 2025,
+hearing titled ‘‘Regulatory Overreach: The Price Tag on American
+Prosperity.’’
+In addition, Senator Tim Scott (R–SC) introduced S. 875, a com-
+panion bill to H.R. 2702, with Senators Mike Crapo (R–ID), Mike
+Rounds (R–SD), Thom Tillis (R–NC), John Kennedy (R–LA), Bill
+Hagerty (R–TN), Cynthia Lummis (R–WY), Katie Britt (R–AL),
+Pete Ricketts (R–NE), Kevin Cramer (R–ND), Bernie Moreno (R–
+OH), David McCormick (R–PA) and Jim Banks (R–IN) as original
+cosponsors. On March 13, 2025, the Senate Banking Committee
+met in executive session to consider S. 875 and advanced the meas-
+ure without written report.
+On May 21, 2025, the Committee on Financial Services met in
+open session to consider, among others, H.R. 2702. The Committee
+favorably reported H.R. 2702, as amended, to the House of Rep-
+resentatives.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+2702:
+The Subcommittee on Financial Institutions of the Financial
+Services Committee held a hearing on April 29, 2025, entitled
+‘‘Regulatory Overreach: The Price Tag on American Prosperity.’’ A
+discussion draft version of the bill was considered in this hearing.
+The following witnesses testified: Ms. Sarah Christine Flowers,
+Senior Vice President, Senior Associate General Counsel, Bank Pol-
+icy Institute; Mr. J. Michael Radcliffe, Chairman and Chief Execu-
+tive Officer, Community Financial Services Bank (Benton, KY); Ms.
+Margaret E. Tahyar, Partner, Head of Financial Institutions
+Group, Davis Polk & Wardwell LLP; The Honorable Graham
+Steele, Academic Fellow, Rock Center for Corporate Governance,
+Stanford Law School.
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+5
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On May 21, 2025, the Committee ordered H.R. 2702, as amend-
+ed, to be reported favorably to the House by a recorded vote of 33
+yeas and 19 nays, a quorum being present. (Record Vote No. FC–
+124).
+The Committee considered the following amendments to H.R.
+2702:
+• Representative Barr offered an amendment in the nature
+of a substitute, which made minor edits and technical changes.
+This amendment was adopted by a voice vote.
+• Representative Brad Sherman (D–CA) offered an amend-
+ment (No. 5), designated SHERMA_044. This amendment
+clarifies that protections against reputational risk do not apply
+to negative publicity or public opinion related to an institu-
+tion’s involvement in unlawful transactions with state sponsors
+of terrorism or foreign terrorist organizations. This amendment
+was agreed to by a voice vote.
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+6
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 4:
+100.461RH
+ereh
+8
+oilof
+tesffo
+tresnI
+7
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal H.R. 2702 is to prohibit the use of
+‘‘reputational risk’’ as a factor in the supervision of depository insti-
+tutions and, by eliminating this subjective and undefined metric,
+the bill aims to prevent politicization of bank supervision and en-
+sure regulatory focus remains squarely on material risks related to
+safety and soundness.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 2702. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of rule XIII of the Rules of the House of Representatives,
+the Committee will adopt as its own the cost estimate by the Direc-
+tor of the Congressional Budget Office once it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+8
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+
+Section 5:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 6:
+Section 1. Short title
+
+Section 7:
+Section 1 provides the short title is the ‘‘Financial Integrity and
+Regulation Management Act’’ or the ‘‘FIRM Act.’’
+
+Section 8:
+Section 2. Findings; Purposes
+
+Section 9:
+Section 2 provides that Congress finds:
+• the primary objective of financial regulation and super-
+vision by the Federal banking agencies is to promote safety
+and soundness of depository institutions;
+• all federally legal businesses and law-abiding citizens re-
+gardless of political ideology should have equal opportunity to
+obtain financial services and should not face unlawful discrimi-
+nation in obtaining such services;
+• financial service providers are private entities entitled to
+provide services to whichever customers they so choose, pro-
+vided that those decisions do not violate the law;
+• financial service providers should strive to ensure that all
+business decisions are based on factors free from unlawful prej-
+udice or political influence;
+• the use of reputational risk in supervisory frameworks en-
+courages Federal banking agencies to regulate depository insti-
+tutions based on the subjective view of negative publicity and
+provides cover for the agencies to implement their own political
+agenda unrelated to the safety and soundness of a depository
+institution;
+• Federal banking agencies have in fact used reputational
+risk to limit access of federally legal businesses and law-abid-
+ing citizens to financial services in 2018 when the Federal De-
+posit Insurance Corporation acknowledged that the agency
+used reputational risk reviews to limit access to financial serv-
+ices by certain industries, commonly known as ‘‘Operation
+Choke Point’’; and
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+9
+• reputational risk does not appear in any statute and is an
+unnecessary and improper use of supervisory authority that
+does not contribute to the safety and soundness of the financial
+system.
+
+Section 10:
+Section 3. Definitions
+
+Section 11:
+Section 3 defines depository institution, Federal banking agency,
+and reputational risk.
+
+Section 12:
+Section 4. Removal of reputational risk as a consideration in the su-
+pervision of depository institutions
+
+Section 13:
+Section 4 requires Federal banking agencies to remove from any
+guidance, rule, examination manual, or similar document any ref-
+erence to reputational risk or a substantially similar term.
+
+Section 14:
+Section 5. Prohibition
+
+Section 15:
+Section 5 prohibits Federal banking agencies from engaging in
+any activity related to reputational risk, including through rule-
+making, examinations, supervision determinations, or enforcement.
+
+Section 16:
+Section 6. Reports
+
+Section 17:
+Section 6 requires each Federal banking agency to submit a re-
+port to the Senate Committee on Banking, Housing, and Urban Af-
+fairs and the House Committee on Financial Services confirming
+implementation of the requirements in this bill and describing all
+changes no later than 180 days after enactment.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+H.R. 2702 does not repeal or amend any section of a statute.
+Therefore, the Office of Legislative Counsel did not prepare the re-
+port required under clause 3(e) of rule XIII of the House of Rep-
+resentatives.
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+MINORITY VIEWS
+This sweeping bill, instead of focusing on debanking as the
+House has done in years past with legislation to prevent regulators
+from misusing reputational risk to discouraging banks to close cer-
+tain types of accounts, would completely eliminate reputational
+risk as a component of the supervision of depository institutions.
+This would, for the first time, prevent regulators from considering
+certain types of risk, in this case reputational risk, when promoting
+safety and soundness of banks.
+Banking is a business that relies on trust. Since the 1990s, bank
+regulators have recognized that a bank’s reputation, among many
+other kinds of risks they must manage, can impact if not under-
+mine its safety and soundness. The quick erosion of customer trust
+due to reputational damage is one of the most common causes of
+bank runs and insolvency. Two years ago, concerns about Silicon
+Valley Bank (SVB) quickly spread over social media, fueling the
+fastest bank run in U.S. history when in one day, $42 billion in de-
+posits were withdrawn. By the next morning, customers had re-
+quested $100 billion more in withdrawals, forcing regulators to
+close the bank.1 Signature Bank also experienced a quick bank run
+the same weekend, which also happened to occur a few days after
+another crypto-focused bank, Silvergate Bank, announced they
+would voluntarily liquidate and close their bank. In a post-mortem
+report, FDIC’s Inspector General found that Signature Bank faced
+reputational risks for several years, known in the marketplace as
+a bank focused on digital assets, and faced related pressures when
+other crypto-related businesses failed, like FTX, along with SVB’s
+and Silvergate Bank’s closure.2
+Reputational risk has been cited by bank regulators and re-
+searchers relating to money laundering and lax Bank Secrecy Act
+compliance, for example, with respect to Riggs Bank in the early
+2000s. Riggs Bank’s reputation took multiple hits after they were
+investigated for several money laundering scandals, including one
+relating to former Chilean dictator Augusto Pinochet and unwit-
+tingly allowing the September 11th hijackers to transfer money due
+to lax AML/BSA controls.3 The bank nearly failed before PNC
+Bank acquired it. Furthermore, reputational risk has been cited re-
+lating to large banks, like Wells Fargo, that repeatedly broke the
+1Reuters, Speed of US bank failures to play starring role in Fed, FDIC post-mortems (Apr.
+27, 2023); Federal Reserve Bank of St. Louis, Understanding the Speed and Size of Bank Runs
+in Historical Comparison (May 26, 2023).
+2FDIC OIG, Material Loss Review of Signature Bank of New York (Oct. 2023). Also see Fed-
+eral Reserve Bank of Chicago, Rushing to Judgment and the Banking Crisis of 2023 (Mar. 2025);
+and American Banker, Crypto and VC firms led to SVB’s failure, researchers say (Mar. 10, 2025).
+3See OCC, Comptroller Hawke Directs Review of Agency’s Handling Of Bank Secrecy Act Com-
+pliance at Riggs Bank N.A. (Jun. 3, 2004); WSJ, Riggs Bank Is Sued Over 9/11 Attacks (Sep.
+13, 2004); DOJ, Riggs Bank Enters Guilty Plea and Will Pay $16 Million Fine for Criminal Fail-
+ure to Report Numerous Suspicious Transactions (Jan. 27, 2005); and
+(10)
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6604 Sfmt 6604 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+11
+law and harmed millions of consumers.4 Another example is Credit
+Suisse, who was investigated for a number of issues, including an
+executive spying scandal, a data leak of customer information, and
+exposure to the default of the Archegos Capital Management fund
+as well as the Greensill Capital fund. The bank nearly failed before
+it was acquired by UBS.5
+Critics argue reputational risk concerns may have contributed to
+bank’s closing accounts and otherwise debanking certain indus-
+tries, as was alleged during the Obama-era ‘‘Operation
+Chokepoint,’’6 though some argue those concerns were overstated,7
+similar to more recent accusations that the Biden Administration
+engaged in an ‘‘Operation Chokepoint 2.0’’ that encouraged banks
+to debank crypto firms.8 However, this sweeping proposal would,
+for the first time, direct Federal regulators to completely ignore
+any kind of risk a bank must manage, in this case reputational
+risk. This seems to be an overreaction that may have unintended
+consequences. Trump’s regulators are already administratively tak-
+ing this step, so codifying these reforms into law are arguably pre-
+mature until there is time to see if completely ignoring
+reputational risks poses safety and soundness risks for banks, as
+we’ve seen in the examples noted above.
+Moreover, there are more narrow policy solutions that have en-
+joyed broad bipartisan support that could be pursued. For example,
+in the aftermath of ‘‘Operation Chokepoint,’’ former Rep. Blaine
+Luetkemeyer (R–MO) reached a compromise with Ranking Member
+Waters to prohibit regulators from ordering or discouraging banks
+from serving customers based on reputational risk, and to other-
+wise provide a notice with a legal justification in other situations
+where accounts are closed.9 The House overwhelmingly passed this
+compromise by a vote of 395–2, and this legislation was later added
+to the SAFE Banking Act to grant cannabis-related businesses ac-
+cess to the banking system, which repeatedly passed the House
+with broad bipartisan support.10
+Ranking Member Waters also introduced a bill to combat pay-
+ment scams last year that would also clarify that Electronic Fund
+Transfer Act’s (EFTA) error resolution duties apply to institutions
+when they freeze or close an account in most cases, ensuring con-
+sumers receive an explanation in such situations.11 Former Senate
+Banking Committee Chairman Sherrod Brown introduced a bill
+that would expand existing anti-discrimination provisions that only
+apply to lending to prevent any financial institution from discrimi-
+nating on the basis of race, color, religion, national origin, or sex
+(including sexual orientation and gender identity) in providing any
+4Brian Tayan (Stanford University), The Wells Fargo Cross-Selling Scandal (Feb. 6, 2019).
+5Vanguard, Risk oversight failure at Credit Suisse (May 2023).
+6Politico, Justice Department to end Obama-era ‘Operation Choke Point’ (Aug. 17, 2017).
+7For example, see Drury D. Stevenson, Operation Choke Point: Myths and Reality (Dec. 2,
+2022).
+8See FSC hearing, Operation Choke Point 2.0: The Biden Administration’s Efforts to Put
+Crypto in the Crosshairs (Feb. 6, 2025); in particular, see Testimony from Shayna Olesiuk, Di-
+rector of Banking Policy, Better Markets.
+9HR 2706 (115th Cong.), the Financial Institution Customer Protection Act.
+10Cannabis Business Times, SAFE Banking Act: How We Got Here, What’s Next For SAFER
+(Sep. 25, 2023).
+11FSC, Ranking Member Waters, Senator Blumenthal, and Senator Warren Introduce ‘‘Pro-
+tecting Consumers from Payment Scams Act’’ (Aug. 2, 2024).
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6604 Sfmt 6604 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+12
+financial product or service, including offering a checking ac-
+count.12
+The CFPB took steps under former Director Rohit Chopra to
+combat debanking as well, including by proposing a rule that would
+bar financial companies from fining, suing, or debanking con-
+sumers based on their comments, reviews, or political or religious
+views,13 but Acting Director Russell Vought recently withdrew this
+proposed rule.14 The CFPB also issued a larger participant rule to
+allow it to supervise big tech payment platforms, in part to ensure
+the companies were not unlawfully freezing or debanking customer
+accounts,15 but Republicans rescinded that rule through a Congres-
+sional Review Act resolution.16
+Former Treasury Assistant Secretary for Financial Institutions,
+Graham Steele, testified before the Committee earlier this year,
+outlining several concerns with this bill’s approach, as well as the
+HUMPS Act (previously named the CAMELS Rating Modernization
+Act) that is described further below in this memo. Mr. Steele testi-
+fied, ‘‘The FIRM Act curtails the use of reputational risk in bank
+supervision and the CAMELS Rating Modernization Act directs
+agencies to review and revise the CAMELS rating system to use a
+‘‘transparent methodology that is limited to . . . objective criteria’’
+limiting the role played by factors such as an institution’s manage-
+ment. Reputational risk is just one factor in examination and su-
+pervision and is very rarely the sole basis upon which an agency
+would expect a bank to correct its behavior. It is most commonly
+used in relation to consumer compliance and deterring banks from
+engaging in predatory practices, compliance with anti-money laun-
+dering requirements and preventing banks from doing business
+with entities engaged in illicit activities, and the risks of environ-
+mental damage as a result of agricultural or oil & gas lending. A
+bank’s managerial character and capacity has long been a
+foundational basis for evaluating whether a bank is worthy of re-
+ceiving a charter or federal deposit insurance. Sound management
+and reputational considerations are fundamental part of the bank-
+ing business. These factors may not be precisely quantifiable in the
+way a bank’s capital ratio can be calculated, but we have seen time
+and again that public perception and confidence and sound man-
+agement affect the stability of banks and the entire banking sys-
+tem—from the failure of Riggs Bank in the 2000s, to the Global Fi-
+nancial Crisis, to the failures of SVB, Signature Bank, and Credit
+Suisse in 2023. The irony is that these bills cannot make the un-
+derlying risks go away. Instead, they just require banking agencies
+to ignore reality and experience.’’17
+12S. 4619 (117th), the ‘‘Fair Access to Financial Services Act.’’
+13CFPB, CFPB Proposes Rule to Ban Contract Clauses that Strip Away Fundamental Free-
+doms (Jan. 13, 2025).
+14Federal Register, Prohibited Terms and Conditions in Agreements for Consumer Financial
+Products or Services (Regulation AA); Withdrawal of Proposed Rule (May 15, 2025).
+15CFPB, CFPB Finalizes Rule on Federal Oversight of Popular Digital Payment Apps to Pro-
+tect Personal Data, Reduce Fraud, and Stop Illegal ‘‘Debanking’’ (Nov. 21, 2024).
+16FSC, Waters Slams Republican ‘‘Big Tech Payment Scams Act’’ on House Floor: ‘‘We See
+This Bill for What It Is: A Thank-You Gift to Elon Musk and the Other Big Tech Billionaires
+Who Came to Trump’s Rescue During the 2024 Election (Apr. 9, 2025).
+17Testimony of The Honorable Graham Steele, former Treasury Assistant Secretary for Finan-
+cial Institutions before FSC hearing entitled, ‘‘Regulatory Overreach: The Price Tag on American
+Prosperity’’ (Apr. 29, 2025).
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6604 Sfmt 6604 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+13
+During the debate, Republicans adopted an amendment offered
+by Rep. Brad Sherman (D–CA) to exempt reputational risk con-
+cerns related to terrorist financing, which improved the bill. How-
+ever, there are many other types of issues that this bill could inter-
+fere banking regulators work to promote safety and soundness
+with, including involving other forms of anti- money laundering,
+banks that repeatedly violate Federal laws and regulations to the
+detriment of millions of consumers, climate-related risks, and more.
+The Senate Banking Committee passed a similar bill earlier this
+year on a party-line vote with Senate Democrats unanimously op-
+posing the bill. Moreover, a number of groups opposed the bill, in-
+cluding Americans for Financial Reform (AFR), California Con-
+sumer Protection Attorneys’ Association, Center for Responsible
+Lending (CRL), Chevedden Corporate Governance, Consumer Ac-
+tion, Consumer Federation of America, Consumer Reports, Florida
+for Good, Impact Fund, Interfaith Center on Corporate Responsi-
+bility, Maine People’s Alliance, National Association of Consumer
+Advocates, National Community Reinvestment Coalition (NCRC),
+National Consumer Law Center, on behalf of its low-income clients
+(NCLC), National Consumers League, Natural Investments Oregon
+Consumer League, Private Equity Stakeholder Project, Public Cit-
+izen, Public Justice Center, Rise Economy, South Carolina
+Appleseed Legal Justice Center, The People’s Justice Council,
+Transparency Task Force, and Womxn From The Mountain.18
+For these reasons, we oppose H.R. 2702.
+Sincerely,
+MAXINE WATERS,
+Ranking Member.
+NYDIA M. VELA ´ ZQUEZ,
+STEPHEN F. LYNCH,
+AL GREEN,
+EMANUEL CLEAVER, II,
+BILL FOSTER,
+JOYCE BEATTY,
+JUAN VARGAS,
+RASHIDA TLAIB,
+SYLVIA R. GARCIA,
+NIKEMA WILLIAMS,
+Members of Congress.
+Æ
+18See AFR et al, Letter to Senate Banking Committee re FIRM Act (Mar. 13, 2025).
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6604 Sfmt 6611 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–164
+FINANCIAL INTEGRITY AND REGULATION MANAGEMENT
+ACT
+JUNE20, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 2702]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 2702) to curtail the political weaponization of Federal
+banking agencies by eliminating reputational risk as a component
+of the supervision of depository institutions, having considered the
+same, reports favorably thereon with an amendment and rec-
+ommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 3
+Background and Need for Legislation .................................................................... 3
+Committee Consideration ........................................................................................ 4
+Related Hearings ..................................................................................................... 4
+Committee Votes ...................................................................................................... 5
+Committee Oversight Findings ............................................................................... 7
+Performance Goals and Objectives ......................................................................... 7
+Committee Cost Estimate ....................................................................................... 7
+New Budget Authority and CBO Cost Estimate ................................................... 7
+Unfunded Mandates Statement .............................................................................. 7
+Earmark Statement ................................................................................................. 7
+Federal Advisory Committee Act Statement ......................................................... 8
+Applicability to the Legislative Branch ................................................................. 8
+Duplication of Federal Programs ............................................................................ 8
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 9
+Minority Views ......................................................................................................... 10
+59–006
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Financial Integrity and Regulation Management
+Act’’ or the ‘‘FIRM Act’’.
+SEC. 2. FINDINGS.
+Congress finds that—
+(1) the primary objective of financial regulation and supervision by the Fed-
+eral banking agencies is to promote safety and soundness of depository institu-
+tions;
+(2) all federally legal businesses and law-abiding citizens regardless of polit-
+ical ideology should have equal opportunity to obtain financial services and
+should not face unlawful discrimination in obtaining such services;
+(3) financial service providers are private entities entitled to provide services
+to whichever customers they so choose, provided that those decisions do not vio-
+late the law;
+(4) financial service providers should strive to ensure that all business deci-
+sions are based on factors free from unlawful prejudice or political influence;
+(5) the use of reputational risk in supervisory frameworks encourages Federal
+banking agencies to regulate depository institutions based on the subjective
+view of negative publicity and provides cover for the agencies to implement
+their own political agenda unrelated to the safety and soundness of a depository
+institution;
+(6) Federal banking agencies have in fact used reputational risk to limit ac-
+cess of federally legal businesses and law-abiding citizens to financial services
+in 2018 when the Federal Deposit Insurance Corporation acknowledged that the
+agency used reputational risk reviews to limit access to financial services by
+certain industries, commonly known as ‘‘Operation Choke Point’’; and
+(7) reputational risk does not appear in any statute and is an unnecessary
+and improper use of supervisory authority that does not contribute to the safety
+and soundness of the financial system.
+SEC. 3. DEFINITIONS.
+In this Act:
+(1) DEPOSITORYINSTITUTION.—The term ‘‘depository institution’’—
+(A) has the meaning given the term in section 3 of the Federal Deposit
+Insurance Act (12 U.S.C. 1813); and
+(B) includes an insured credit union, as such term is defined in section
+101 of the Federal Credit Union Act (12 U.S.C. 1752).
+(2) FEDERALBANKINGAGENCY.—The term ‘‘Federal banking agency’’—
+(A) has the meaning given the term in section 3 of the Federal Deposit
+Insurance Act (12 U.S.C. 1813); and
+(B) includes—
+(i) the National Credit Union Administration; and
+(ii) the Bureau of Consumer Financial Protection.
+(3) FOREIGN TERRORIST ORGANIZATION.—The term ‘‘foreign terrorist organiza-
+tion’’ means a foreign organization that is designated by the Secretary of State
+in accordance with section 219 of the Immigration and Nationality Act (8 U.S.C.
+1189).
+(4) REPUTATIONAL RISK.—The term ‘‘reputational risk’’ means the potential
+that negative publicity or negative public opinion regarding a depository institu-
+tion’s business practices, whether true or not, will cause a decline in confidence
+in the institution or a decline in the customer base, costly litigation, or revenue
+reductions or otherwise adversely impact the depository institution. The pre-
+vious sentence does not apply to negative publicity or negative public opinion
+regarding an institution’s business practices where such practices involve un-
+lawful transactions in connection with state sponsors of terrorism or foreign ter-
+rorist organizations.
+(5) STATE SPONSORS OF TERRORISM.—The term ‘‘state sponsors of terrorism’’
+means a country, the government of which has been determined by the Sec-
+retary of State to have repeatedly provided support for acts of international ter-
+rorism, for purposes of—
+(A) section 1754(c)(1)(A)(i) of the Export Control Reform Act of 2018 (50
+U.S.C. 4813(c)(1)(A)(i));
+(B) section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371);
+(C) section 40(d) of the Arms Export Control Act (22 U.S.C. 2780(d)); or
+(D) any other provision of law.
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+SEC. 4. REMOVAL OF REPUTATIONAL RISK AS A CONSIDERATION IN THE SUPERVISION OF
+DEPOSITORY INSTITUTIONS.
+Each Federal banking agency shall remove from any guidance, rule, examination
+manual, or similar document established by the agency any reference to
+reputational risk, or any term substantially similar, regarding the supervision of de-
+pository institutions such that reputational risk, or any term substantially similar,
+is no longer taken into consideration by the Federal banking agency when exam-
+ining and supervising a depository institution.
+SEC. 5. PROHIBITION.
+No Federal banking agency may engage in any activity concerning or related to
+the regulation, supervision, or examination of the reputational risk, or any term
+substantially similar, or the management thereof, of a depository institution, includ-
+ing—
+(1) establishing any rule, regulation, requirement, standard, or supervisory
+expectation concerning or related to the reputational risk, or any term substan-
+tially similar, or the management thereof, of a depository institution whether
+binding or not;
+(2) conducting any examination, assessment, data collection, or other super-
+visory exercise concerning or related to reputational risk, or any term substan-
+tially similar, or the management thereof, of a depository institution;
+(3) issuing any examination finding, supervisory criticism, or other super-
+visory or examination communication concerning or related to reputational risk,
+or any term substantially similar, or the management thereof, of a depository
+institution;
+(4) making any supervisory ratings decision or determination that is based,
+in whole or in part, on any matter concerning or related to reputational risk,
+or any term substantially similar, or the management thereof, of a depository
+institution; and
+(5) taking any formal or informal enforcement action that is based, in whole
+or in part, on any matter concerning or related to reputational risk, or any term
+substantially similar, or the management thereof, of a depository institution.
+SEC. 6. REPORTS.
+Not later than 180 days after the date of enactment of this Act, each Federal
+banking agency shall submit to the Committee on Banking, Housing, and Urban Af-
+fairs of the Senate and the Committee on Financial Services of the House of Rep-
+resentatives a report that—
+(1) confirms implementation of this Act; and
+(2) describes any changes made to internal policies as a result of this Act.
+PURPOSE AND SUMMARY
+Introduced on April 8, 2025, by Representative Andy Barr (KY–
+06), H.R. 2702, the Financial Integrity and Regulation Management
+(FIRM) Act, prohibits the use of ‘‘reputational risk’’ as a factor in
+the supervision of depository institutions and, by eliminating this
+subjective and undefined metric, the bill aims to prevent
+politicization of bank supervision and ensure regulatory focus re-
+mains squarely on material risks related to safety and soundness.
+BACKGROUND AND NEED FOR LEGISLATION
+The central purpose of financial regulation is to protect the safe-
+ty and soundness of depository institutions—not to advance polit-
+ical or ideological agendas. Yet, federal regulators have increas-
+ingly cited ‘‘reputational risk,’’ a term with no statutory definition,
+to justify supervisory actions against institutions engaged in lawful
+business activities. This has raised concerns that the supervisory
+process is being misused to deny financial access based on per-
+ceived political unpopularity or social stigma.
+The use of reputational risk as a supervisory tool was notably
+employed under the Obama Administration’s ‘‘Operation Choke
+Point,’’ an initiative acknowledged by the FDIC in 2018 which dis-
+couraged financial institutions from serving entire industries de-
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+spite those industries’ lawful status. This approach undermines the
+principle of equal access to financial services and allows regulators
+to exert pressure unrelated to financial performance or regulatory
+compliance.
+H.R. 2702 removes reputational risk from supervisory consider-
+ations, reinforcing that regulatory discretion must be grounded in
+objective, material financial risk, not ideological concerns.
+COMMITTEE CONSIDERATION
+119TH CONGRESS
+On April 8, 2025, Representative Barr introduced H.R. 2702, the
+Financial Integrity and Regulation Management (FIRM) Act, with
+Representatives Ritchie Torres (D–NY), Lisa McClain (R–MI),
+Frank Lucas (R–OK), Barry Loudermilk (R–GA), John Rose (R–
+TN), Ann Wagner (R–MO), Marlin Stutzman (R–IN), William
+Timmons (R–SC), Scott Fitzgerald (R–WI), Tim Moore (R–NC),
+Mark Messmer (R–IN), Andy Ogles (R–TN), Troy Downing (R–MT),
+Pete Sessions (R–TX), Doug LaMalfa (R–CA), and Glenn Grothman
+(R–WI). Representatives Roger Williams (R–TX), Derek Schmidt
+(R–KS), and Andrew Garbarino (R–NY) were added subsequently
+as cosponsors. The bill was referred solely to the Committee on Fi-
+nancial Services. H.R. 2702 was attached to the April 29, 2025,
+hearing titled ‘‘Regulatory Overreach: The Price Tag on American
+Prosperity.’’
+In addition, Senator Tim Scott (R–SC) introduced S. 875, a com-
+panion bill to H.R. 2702, with Senators Mike Crapo (R–ID), Mike
+Rounds (R–SD), Thom Tillis (R–NC), John Kennedy (R–LA), Bill
+Hagerty (R–TN), Cynthia Lummis (R–WY), Katie Britt (R–AL),
+Pete Ricketts (R–NE), Kevin Cramer (R–ND), Bernie Moreno (R–
+OH), David McCormick (R–PA) and Jim Banks (R–IN) as original
+cosponsors. On March 13, 2025, the Senate Banking Committee
+met in executive session to consider S. 875 and advanced the meas-
+ure without written report.
+On May 21, 2025, the Committee on Financial Services met in
+open session to consider, among others, H.R. 2702. The Committee
+favorably reported H.R. 2702, as amended, to the House of Rep-
+resentatives.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+2702:
+The Subcommittee on Financial Institutions of the Financial
+Services Committee held a hearing on April 29, 2025, entitled
+‘‘Regulatory Overreach: The Price Tag on American Prosperity.’’ A
+discussion draft version of the bill was considered in this hearing.
+The following witnesses testified: Ms. Sarah Christine Flowers,
+Senior Vice President, Senior Associate General Counsel, Bank Pol-
+icy Institute; Mr. J. Michael Radcliffe, Chairman and Chief Execu-
+tive Officer, Community Financial Services Bank (Benton, KY); Ms.
+Margaret E. Tahyar, Partner, Head of Financial Institutions
+Group, Davis Polk & Wardwell LLP; The Honorable Graham
+Steele, Academic Fellow, Rock Center for Corporate Governance,
+Stanford Law School.
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+5
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On May 21, 2025, the Committee ordered H.R. 2702, as amend-
+ed, to be reported favorably to the House by a recorded vote of 33
+yeas and 19 nays, a quorum being present. (Record Vote No. FC–
+124).
+The Committee considered the following amendments to H.R.
+2702:
+• Representative Barr offered an amendment in the nature
+of a substitute, which made minor edits and technical changes.
+This amendment was adopted by a voice vote.
+• Representative Brad Sherman (D–CA) offered an amend-
+ment (No. 5), designated SHERMA_044. This amendment
+clarifies that protections against reputational risk do not apply
+to negative publicity or public opinion related to an institu-
+tion’s involvement in unlawful transactions with state sponsors
+of terrorism or foreign terrorist organizations. This amendment
+was agreed to by a voice vote.
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+6
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.461RH
+ereh
+8
+oilof
+tesffo
+tresnI
+
+7
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal H.R. 2702 is to prohibit the use of
+‘‘reputational risk’’ as a factor in the supervision of depository insti-
+tutions and, by eliminating this subjective and undefined metric,
+the bill aims to prevent politicization of bank supervision and en-
+sure regulatory focus remains squarely on material risks related to
+safety and soundness.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 2702. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of rule XIII of the Rules of the House of Representatives,
+the Committee will adopt as its own the cost estimate by the Direc-
+tor of the Congressional Budget Office once it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+8
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+Section 1 provides the short title is the ‘‘Financial Integrity and
+Regulation Management Act’’ or the ‘‘FIRM Act.’’
+Section 2. Findings; Purposes
+Section 2 provides that Congress finds:
+• the primary objective of financial regulation and super-
+vision by the Federal banking agencies is to promote safety
+and soundness of depository institutions;
+• all federally legal businesses and law-abiding citizens re-
+gardless of political ideology should have equal opportunity to
+obtain financial services and should not face unlawful discrimi-
+nation in obtaining such services;
+• financial service providers are private entities entitled to
+provide services to whichever customers they so choose, pro-
+vided that those decisions do not violate the law;
+• financial service providers should strive to ensure that all
+business decisions are based on factors free from unlawful prej-
+udice or political influence;
+• the use of reputational risk in supervisory frameworks en-
+courages Federal banking agencies to regulate depository insti-
+tutions based on the subjective view of negative publicity and
+provides cover for the agencies to implement their own political
+agenda unrelated to the safety and soundness of a depository
+institution;
+• Federal banking agencies have in fact used reputational
+risk to limit access of federally legal businesses and law-abid-
+ing citizens to financial services in 2018 when the Federal De-
+posit Insurance Corporation acknowledged that the agency
+used reputational risk reviews to limit access to financial serv-
+ices by certain industries, commonly known as ‘‘Operation
+Choke Point’’; and
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+9
+• reputational risk does not appear in any statute and is an
+unnecessary and improper use of supervisory authority that
+does not contribute to the safety and soundness of the financial
+system.
+Section 3. Definitions
+Section 3 defines depository institution, Federal banking agency,
+and reputational risk.
+Section 4. Removal of reputational risk as a consideration in the su-
+pervision of depository institutions
+Section 4 requires Federal banking agencies to remove from any
+guidance, rule, examination manual, or similar document any ref-
+erence to reputational risk or a substantially similar term.
+Section 5. Prohibition
+Section 5 prohibits Federal banking agencies from engaging in
+any activity related to reputational risk, including through rule-
+making, examinations, supervision determinations, or enforcement.
+Section 6. Reports
+Section 6 requires each Federal banking agency to submit a re-
+port to the Senate Committee on Banking, Housing, and Urban Af-
+fairs and the House Committee on Financial Services confirming
+implementation of the requirements in this bill and describing all
+changes no later than 180 days after enactment.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+H.R. 2702 does not repeal or amend any section of a statute.
+Therefore, the Office of Legislative Counsel did not prepare the re-
+port required under clause 3(e) of rule XIII of the House of Rep-
+resentatives.
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+MINORITY VIEWS
+This sweeping bill, instead of focusing on debanking as the
+House has done in years past with legislation to prevent regulators
+from misusing reputational risk to discouraging banks to close cer-
+tain types of accounts, would completely eliminate reputational
+risk as a component of the supervision of depository institutions.
+This would, for the first time, prevent regulators from considering
+certain types of risk, in this case reputational risk, when promoting
+safety and soundness of banks.
+Banking is a business that relies on trust. Since the 1990s, bank
+regulators have recognized that a bank’s reputation, among many
+other kinds of risks they must manage, can impact if not under-
+mine its safety and soundness. The quick erosion of customer trust
+due to reputational damage is one of the most common causes of
+bank runs and insolvency. Two years ago, concerns about Silicon
+Valley Bank (SVB) quickly spread over social media, fueling the
+fastest bank run in U.S. history when in one day, $42 billion in de-
+posits were withdrawn. By the next morning, customers had re-
+quested $100 billion more in withdrawals, forcing regulators to
+close the bank.1 Signature Bank also experienced a quick bank run
+the same weekend, which also happened to occur a few days after
+another crypto-focused bank, Silvergate Bank, announced they
+would voluntarily liquidate and close their bank. In a post-mortem
+report, FDIC’s Inspector General found that Signature Bank faced
+reputational risks for several years, known in the marketplace as
+a bank focused on digital assets, and faced related pressures when
+other crypto-related businesses failed, like FTX, along with SVB’s
+and Silvergate Bank’s closure.2
+Reputational risk has been cited by bank regulators and re-
+searchers relating to money laundering and lax Bank Secrecy Act
+compliance, for example, with respect to Riggs Bank in the early
+2000s. Riggs Bank’s reputation took multiple hits after they were
+investigated for several money laundering scandals, including one
+relating to former Chilean dictator Augusto Pinochet and unwit-
+tingly allowing the September 11th hijackers to transfer money due
+to lax AML/BSA controls.3 The bank nearly failed before PNC
+Bank acquired it. Furthermore, reputational risk has been cited re-
+lating to large banks, like Wells Fargo, that repeatedly broke the
+1Reuters, Speed of US bank failures to play starring role in Fed, FDIC post-mortems (Apr.
+27, 2023); Federal Reserve Bank of St. Louis, Understanding the Speed and Size of Bank Runs
+in Historical Comparison (May 26, 2023).
+2FDIC OIG, Material Loss Review of Signature Bank of New York (Oct. 2023). Also see Fed-
+eral Reserve Bank of Chicago, Rushing to Judgment and the Banking Crisis of 2023 (Mar. 2025);
+and American Banker, Crypto and VC firms led to SVB’s failure, researchers say (Mar. 10, 2025).
+3See OCC, Comptroller Hawke Directs Review of Agency’s Handling Of Bank Secrecy Act Com-
+pliance at Riggs Bank N.A. (Jun. 3, 2004); WSJ, Riggs Bank Is Sued Over 9/11 Attacks (Sep.
+13, 2004); DOJ, Riggs Bank Enters Guilty Plea and Will Pay $16 Million Fine for Criminal Fail-
+ure to Report Numerous Suspicious Transactions (Jan. 27, 2005); and
+(10)
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6604 Sfmt 6604 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+11
+law and harmed millions of consumers.4 Another example is Credit
+Suisse, who was investigated for a number of issues, including an
+executive spying scandal, a data leak of customer information, and
+exposure to the default of the Archegos Capital Management fund
+as well as the Greensill Capital fund. The bank nearly failed before
+it was acquired by UBS.5
+Critics argue reputational risk concerns may have contributed to
+bank’s closing accounts and otherwise debanking certain indus-
+tries, as was alleged during the Obama-era ‘‘Operation
+Chokepoint,’’6 though some argue those concerns were overstated,7
+similar to more recent accusations that the Biden Administration
+engaged in an ‘‘Operation Chokepoint 2.0’’ that encouraged banks
+to debank crypto firms.8 However, this sweeping proposal would,
+for the first time, direct Federal regulators to completely ignore
+any kind of risk a bank must manage, in this case reputational
+risk. This seems to be an overreaction that may have unintended
+consequences. Trump’s regulators are already administratively tak-
+ing this step, so codifying these reforms into law are arguably pre-
+mature until there is time to see if completely ignoring
+reputational risks poses safety and soundness risks for banks, as
+we’ve seen in the examples noted above.
+Moreover, there are more narrow policy solutions that have en-
+joyed broad bipartisan support that could be pursued. For example,
+in the aftermath of ‘‘Operation Chokepoint,’’ former Rep. Blaine
+Luetkemeyer (R–MO) reached a compromise with Ranking Member
+Waters to prohibit regulators from ordering or discouraging banks
+from serving customers based on reputational risk, and to other-
+wise provide a notice with a legal justification in other situations
+where accounts are closed.9 The House overwhelmingly passed this
+compromise by a vote of 395–2, and this legislation was later added
+to the SAFE Banking Act to grant cannabis-related businesses ac-
+cess to the banking system, which repeatedly passed the House
+with broad bipartisan support.10
+Ranking Member Waters also introduced a bill to combat pay-
+ment scams last year that would also clarify that Electronic Fund
+Transfer Act’s (EFTA) error resolution duties apply to institutions
+when they freeze or close an account in most cases, ensuring con-
+sumers receive an explanation in such situations.11 Former Senate
+Banking Committee Chairman Sherrod Brown introduced a bill
+that would expand existing anti-discrimination provisions that only
+apply to lending to prevent any financial institution from discrimi-
+nating on the basis of race, color, religion, national origin, or sex
+(including sexual orientation and gender identity) in providing any
+4Brian Tayan (Stanford University), The Wells Fargo Cross-Selling Scandal (Feb. 6, 2019).
+5Vanguard, Risk oversight failure at Credit Suisse (May 2023).
+6Politico, Justice Department to end Obama-era ‘Operation Choke Point’ (Aug. 17, 2017).
+7For example, see Drury D. Stevenson, Operation Choke Point: Myths and Reality (Dec. 2,
+2022).
+8See FSC hearing, Operation Choke Point 2.0: The Biden Administration’s Efforts to Put
+Crypto in the Crosshairs (Feb. 6, 2025); in particular, see Testimony from Shayna Olesiuk, Di-
+rector of Banking Policy, Better Markets.
+9HR 2706 (115th Cong.), the Financial Institution Customer Protection Act.
+10Cannabis Business Times, SAFE Banking Act: How We Got Here, What’s Next For SAFER
+(Sep. 25, 2023).
+11FSC, Ranking Member Waters, Senator Blumenthal, and Senator Warren Introduce ‘‘Pro-
+tecting Consumers from Payment Scams Act’’ (Aug. 2, 2024).
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6604 Sfmt 6604 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+12
+financial product or service, including offering a checking ac-
+count.12
+The CFPB took steps under former Director Rohit Chopra to
+combat debanking as well, including by proposing a rule that would
+bar financial companies from fining, suing, or debanking con-
+sumers based on their comments, reviews, or political or religious
+views,13 but Acting Director Russell Vought recently withdrew this
+proposed rule.14 The CFPB also issued a larger participant rule to
+allow it to supervise big tech payment platforms, in part to ensure
+the companies were not unlawfully freezing or debanking customer
+accounts,15 but Republicans rescinded that rule through a Congres-
+sional Review Act resolution.16
+Former Treasury Assistant Secretary for Financial Institutions,
+Graham Steele, testified before the Committee earlier this year,
+outlining several concerns with this bill’s approach, as well as the
+HUMPS Act (previously named the CAMELS Rating Modernization
+Act) that is described further below in this memo. Mr. Steele testi-
+fied, ‘‘The FIRM Act curtails the use of reputational risk in bank
+supervision and the CAMELS Rating Modernization Act directs
+agencies to review and revise the CAMELS rating system to use a
+‘‘transparent methodology that is limited to . . . objective criteria’’
+limiting the role played by factors such as an institution’s manage-
+ment. Reputational risk is just one factor in examination and su-
+pervision and is very rarely the sole basis upon which an agency
+would expect a bank to correct its behavior. It is most commonly
+used in relation to consumer compliance and deterring banks from
+engaging in predatory practices, compliance with anti-money laun-
+dering requirements and preventing banks from doing business
+with entities engaged in illicit activities, and the risks of environ-
+mental damage as a result of agricultural or oil & gas lending. A
+bank’s managerial character and capacity has long been a
+foundational basis for evaluating whether a bank is worthy of re-
+ceiving a charter or federal deposit insurance. Sound management
+and reputational considerations are fundamental part of the bank-
+ing business. These factors may not be precisely quantifiable in the
+way a bank’s capital ratio can be calculated, but we have seen time
+and again that public perception and confidence and sound man-
+agement affect the stability of banks and the entire banking sys-
+tem—from the failure of Riggs Bank in the 2000s, to the Global Fi-
+nancial Crisis, to the failures of SVB, Signature Bank, and Credit
+Suisse in 2023. The irony is that these bills cannot make the un-
+derlying risks go away. Instead, they just require banking agencies
+to ignore reality and experience.’’17
+12S. 4619 (117th), the ‘‘Fair Access to Financial Services Act.’’
+13CFPB, CFPB Proposes Rule to Ban Contract Clauses that Strip Away Fundamental Free-
+doms (Jan. 13, 2025).
+14Federal Register, Prohibited Terms and Conditions in Agreements for Consumer Financial
+Products or Services (Regulation AA); Withdrawal of Proposed Rule (May 15, 2025).
+15CFPB, CFPB Finalizes Rule on Federal Oversight of Popular Digital Payment Apps to Pro-
+tect Personal Data, Reduce Fraud, and Stop Illegal ‘‘Debanking’’ (Nov. 21, 2024).
+16FSC, Waters Slams Republican ‘‘Big Tech Payment Scams Act’’ on House Floor: ‘‘We See
+This Bill for What It Is: A Thank-You Gift to Elon Musk and the Other Big Tech Billionaires
+Who Came to Trump’s Rescue During the 2024 Election (Apr. 9, 2025).
+17Testimony of The Honorable Graham Steele, former Treasury Assistant Secretary for Finan-
+cial Institutions before FSC hearing entitled, ‘‘Regulatory Overreach: The Price Tag on American
+Prosperity’’ (Apr. 29, 2025).
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6604 Sfmt 6604 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+13
+During the debate, Republicans adopted an amendment offered
+by Rep. Brad Sherman (D–CA) to exempt reputational risk con-
+cerns related to terrorist financing, which improved the bill. How-
+ever, there are many other types of issues that this bill could inter-
+fere banking regulators work to promote safety and soundness
+with, including involving other forms of anti- money laundering,
+banks that repeatedly violate Federal laws and regulations to the
+detriment of millions of consumers, climate-related risks, and more.
+The Senate Banking Committee passed a similar bill earlier this
+year on a party-line vote with Senate Democrats unanimously op-
+posing the bill. Moreover, a number of groups opposed the bill, in-
+cluding Americans for Financial Reform (AFR), California Con-
+sumer Protection Attorneys’ Association, Center for Responsible
+Lending (CRL), Chevedden Corporate Governance, Consumer Ac-
+tion, Consumer Federation of America, Consumer Reports, Florida
+for Good, Impact Fund, Interfaith Center on Corporate Responsi-
+bility, Maine People’s Alliance, National Association of Consumer
+Advocates, National Community Reinvestment Coalition (NCRC),
+National Consumer Law Center, on behalf of its low-income clients
+(NCLC), National Consumers League, Natural Investments Oregon
+Consumer League, Private Equity Stakeholder Project, Public Cit-
+izen, Public Justice Center, Rise Economy, South Carolina
+Appleseed Legal Justice Center, The People’s Justice Council,
+Transparency Task Force, and Womxn From The Mountain.18
+For these reasons, we oppose H.R. 2702.
+Sincerely,
+MAXINE WATERS,
+Ranking Member.
+NYDIA M. VELA ´ ZQUEZ,
+STEPHEN F. LYNCH,
+AL GREEN,
+EMANUEL CLEAVER, II,
+BILL FOSTER,
+JOYCE BEATTY,
+JUAN VARGAS,
+RASHIDA TLAIB,
+SYLVIA R. GARCIA,
+NIKEMA WILLIAMS,
+Members of Congress.
+Æ
+18See AFR et al, Letter to Senate Banking Committee re FIRM Act (Mar. 13, 2025).
+VerDate Sep 11 2014 05:17 Jul 03, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6604 Sfmt 6611 E:\HR\OC\HR164.XXX HR164
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

@@ -1,0 +1,2097 @@
+Title: APRIL28, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: APRIL28, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 25
+Source: documents - H. Rept. 119-82
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–82
+TOOLS TO ADDRESS KNOWN EXPLOITATION BY IMMO-
+BILIZING TECHNOLOGICAL DEEPFAKES ON WEBSITES
+AND NETWORKS ACT
+the Union and ordered to be printed
+Mr. GUTHRIE, from the Committee on Energy and Commerce,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 633]
+The Committee on Energy and Commerce, to whom was referred
+the bill (H.R. 633) to require covered platforms to remove non-
+consensual intimate visual depictions, and for other purposes, hav-
+ing considered the same, reports favorably thereon without amend-
+ment and recommends that the bill do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Action .................................................................................................... 3
+Committee Votes ...................................................................................................... 4
+Oversight Findings and Recommendations ........................................................... 6
+New Budget Authority, Entitlement Authority, and Tax Expenditures ............. 6
+Congressional Budget Office Estimate ................................................................... 6
+Federal Mandates Statement ................................................................................. 6
+Statement of General Performance Goals and Objectives .................................... 6
+Duplication of Federal Programs ............................................................................ 6
+Related Committee and Subcommittee Hearings ................................................. 6
+Committee Cost Estimate ....................................................................................... 7
+Earmark, Limited Tax Benefits, and Limited Tariff Benefits ............................. 7
+Advisory Committee Statement .............................................................................. 7
+Applicability to Legislative Branch ........................................................................ 7
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 7
+Changes in Existing Law Made by the Bill, as Reported ..................................... 9
+Minority, Additional, or Dissenting Views ............................................................ 18
+59–006
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+2
+PURPOSE AND SUMMARY
+H.R. 633, the Tools to Address Known Exploitation by Immo-
+bilizing Technological Deepfakes on Websites and Networks Act, or
+the TAKE IT DOWN Act, was introduced by Representative Sala-
+zar on January 22, 2025, and referred to the Committee on Energy
+and Commerce. H.R. 633 criminalizes the publication of non-con-
+sensual intimate images (NCII) or the threat to publish NCII in
+interstate commerce. NCII is defined to include realistic, computer-
+generated pornographic images and videos that depict identifiable,
+real people. The bill permits the good faith disclosure of NCII, such
+as disclosure to law enforcement or for medical treatment. The bill
+requires covered platforms to establish and implement a notice and
+takedown process within one year of enactment. The takedown
+process requires covered platforms to remove NCII, and known cop-
+ies of such NCII, within forty-eight hours upon receiving a valid re-
+moval request notice from an identifiable individual. The bill pro-
+vides that a failure to reasonably comply with the notice and take
+down obligations under the Act shall be treated as a violation of
+a rule defining an unfair or a deceptive act or practice under Sec-
+tion 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 41
+et seq.).
+BACKGROUND AND NEED FOR LEGISLATION
+Artificial intelligence (AI) has drastically changed how people
+interact with computer services. For instance, the availability, and
+advancement, of AI, and other computer-generated technologies,
+has improved the way Americans can complete mundane tasks,
+compile and access information,1 and assist collaboration between
+humans in work environments.2 It also promises to assist law en-
+forcement fight against different types of fraud and abuse.3 How-
+ever, the growth and advancement of AI, while benefitting many
+different avenues of society, can also be used by bad actors to cre-
+ate and distribution of NCII of adults and minors, resulting in sig-
+nificant harm to Americans.
+Before the rapid advancement of AI, especially generative AI,
+NCII depicted real images or videos of actual people.4 But the rise
+of the new technology is exposing a hole in protections for Ameri-
+cans, especially children. Bad actors can use AI to create a digital
+forgery of NCII which involves manipulating real pictures easily
+obtained from online to falsely depict and expose an individual in
+intimate situations or in sexually graphic manners.5 Although such
+digital forgery NCII is not authentic, it harms the real people de-
+1See Jerry Patterson, Ways AI can improve our world, ROWANUNIVERSITYINFORMATIONRE-
+SOURCES & TECHNOLOGY NEWS (last accessed Apr. 9, 2025), https://irt.rowan.edu/about/news/
+2024/10/ai-benefits.html.
+2See Hanae Armitage, How AI improves physician and nurse collaboration, STANFORDMEDI-
+CINE NEWS CENTER (Apr. 15, 2024) https://med.stanford.edu/news/all-news/2024/04/ai-patient-
+care.html.
+3See Rabihah Butler, How AI can help law enforcement fight fraud & other crimes, THOMSON
+REUTERS (Sep. 30, 2024) https://www.thomsonreuters.com/en-us/posts/government/ai-law-
+enforcement-fraud/.
+4See Danielle K. Citron & Mary A. Franks, Criminalizing Revenge Porn, UNIV. OFMARYLAND
+FRANCIS KING SCH. OF L. (May 19, 2024), https://digitalcommons.law.umaryland.edu/fac_pubs/
+1420/.
+5See Karen Hao, Deepfake Porn is Ruining Women’s Lives. Now the Law May Finally Ban
+It, MASS. INST. TECH. TECH. REV. (Feb. 12, 2021), https://www.technologyreview.com/2021/02/12/
+1018222/deepfake-revenge-porn-coming-ban/.
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+3
+picted, including psychological harm such as humiliation, public
+shaming, and depression, as well as physical harm such as self-
+harm and suicide.6 The possibility that these images can continue
+to be spread—possibly in perpetuity if allowed to remain online—
+compounds the traumatic impact of those harmed by these images.
+NCII, including deepfake NCII, is also used by predators to com-
+mit sextortion, which involves soliciting and encouraging individ-
+uals to record or photograph themselves engaged in sexual acts or
+scenarios. In some cases, the predator may not already have a re-
+vealing picture or video recording, and at the first point of contact
+they will threaten an individual as if they did have sexually reveal-
+ing information to obtain more sexually explicit images or record-
+ings.7 Once a predator has recordings or images they will exploit
+or blackmail the victim for money or additional favors by threat-
+ening to publicly release any of the recordings or photographs of
+the victim.8
+NCII, real or AI generated, has contributed life long lasting
+harms to Americans throughout the United States, but particularly
+our children. Furthermore, there are few remedies victims may uti-
+lize to protect themselves. On March 26, 2025, the Committee on
+Energy and Commerce held a hearing which highlighted the lack
+of legal remedies available to law enforcement to pursue predators
+and culprits taking advantage of children.9 The hearing also dem-
+onstrated how difficult it is for victims to remove any real or AI
+generated NCII from online platforms.10
+To protect Americans, including our most vulnerable popu-
+lation—children—it is imperative Congress legislate to provide law
+enforcement with new authorities to address the growing crisis of
+NCII. Congress must also provide Americans with additional tools
+to request that NCII be taken down from online platforms by re-
+quiring notice and take down obligations for entities where NCII
+is found. H.R. 633 clarifies that the creation and publication of
+NCII in interstate commerce, or the threat to publish NCII, is a
+criminal offense in the United States and requires online platforms
+institute a notice and takedown process enforced by the Federal
+Trade Commission.
+COMMITTEE ACTION
+On March 26, 2025, the Subcommittee on Commerce, Manufac-
+turing, and Trade held a hearing titled, ‘‘The World Wild Web: Ex-
+amining Harms Online.’’ The Subcommittee received testimony
+from:
+• Dawn Hawkins, Senior Advisor, National Center on Sexual
+Exploitation;
+6See Richard Jochelson et al, Clearing Your History: A Review of Non-Consensual Distribution
+of Intimate Images in Canada and Future Responses, 54(3):771 UBC LAWREVIEW(2021). https://
+commons.allard.ubc.ca/cgi/viewcontent.cgi?article=1014&context=ubclawreview.
+7See Federal Bureau of Investigation (FBI), How We Can Help You, Scams and Safety,
+Sextortion, FBI (last accessed on Apr. 9, 2025) https://www.fbi.gov/how-we-can-help-you/scams-
+and-safety/common-frauds-and-scams/sextortion.
+8See Elizabeth Clement-Webb, Sextortion: A Growing Threat Targeting Minors, FBI (January
+23, 2024) https://www.fbi.gov/contact-us/field-offices/nashville/news/sextortion-a-growing-threat-
+targeting-minors; FBI, Malicious Actors Manipulating Photos and Videos to Create Explicit Con-
+tent and Sextortion Schemes (Jun. 5, 2023) https://www.ic3.gov/PSA/2023/psa230605.
+9The World Wild Web: Examining Harms Online: Hearing Before the H. Subcomm. on Com-
+merce, Manufacturing, and Trade, Comm. on Energy and Commerce, 119th Cong. (2025).
+10Id.
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+4
+• Yiota Souras, Chief Legal Officer, National Center for
+Missing and Exploited Children;
+• Clare Morell, Fellow, Ethics and Public Policy Center; and
+• The Honorable Rebecca Kelly Slaughter, Former Commis-
+sioner, Federal Trade Commission.
+On April 8, 2025, the full Committee on Energy and Commerce
+met in open markup session and ordered H.R. 633, without amend-
+ment, favorably reported to the House by a record vote of 49 yeas
+and 1 nay.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the record
+votes on the motion to report legislation and amendments thereto.
+The following reflects the record votes taken during the Committee
+consideration:
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+5
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+Section 3:
+100.28RH
+ereh
+6
+oilof
+tesffo
+tresnI
+6
+OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Pursuant to clause 2(b)(1) of rule X and clause 3(c)(1) of rule
+XIII, the Committee has held hearings and made findings that are
+reflected in this report.
+NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY,
+AND TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII, the Committee finds that
+H.R. 633 would result in no new or increased budget authority, en-
+titlement authority, or tax expenditures or revenues.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE
+Pursuant to clause 3(c)(3) of rule XIII, at the time this report
+was filed, the cost estimate prepared by the Director of the Con-
+gressional Budget Office pursuant to section 402 of the Congres-
+sional Budget Act of 1974 was not available.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the general performance
+goal or objective of this legislation is to define criminal penalties
+for the publication or threatened publication of nonconsensual inti-
+mate image and to require online platforms to create and publish
+a process for giving notice of nonconsensual intimate imagery pub-
+lished on the platform within forty-eight hours.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII, no provision of H.R. 633
+is known to be duplicative of another Federal program, including
+any program that was included in a report to Congress pursuant
+to section 21 of Public Law 111–139 or the most recent Catalog of
+Federal Domestic Assistance.
+RELATED COMMITTEE AND SUBCOMMITTEE HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII, the following related hear-
+ing was used to develop or consider H.R. 633:
+• On March 26, 2025, the Subcommittee on Commerce, Man-
+ufacturing, and Trade held a hearing entitled ‘‘The World Wild
+Web: Examining Harms Online.’’ The Subcommittee received
+testimony from:
+» Dawn Hawkins, Senior Advisor, National Center on
+Sexual Exploitation;
+» Yiota Souras, Chief Legal Officer, National Center for
+Missing and Exploited Children;
+» Clare Morell, Fellow, Ethics and Public Policy Center;
+and
+» Rebecca Kelly Slaughter, Former Commissioner, Fed-
+eral Trade Commission.
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+7
+COMMITTEE COST ESTIMATE
+Pursuant to clause 3(d)(1) of rule XIII, the Committee adopts as
+its own the cost estimate prepared by the Director of the Congres-
+sional Budget Office pursuant to section 402 of the Congressional
+Budget Act of 1974. At the time this report was filed, the estimate
+was not available.
+EARMARK, LIMITED TAX BENEFITS, AND LIMITED TARIFF BENEFITS
+Pursuant to clause 9(e), 9(f), and 9(g) of rule XXI, the Committee
+finds that H.R. 633 contains no earmarks, limited tax benefits, or
+limited tariff benefits.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+
+Section 4:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 5:
+Section 1. Short title
+
+Section 6:
+Section 1 designates that the short title may be cited as the
+‘‘Tools to Address Known Exploitation by Immobilizing Techno-
+logical Deepfakes on Websites and Networks Act’’ or the ‘‘TAKE IT
+DOWN Act.’’
+
+Section 7:
+Section 2. Criminal prohibition on intentional disclosure of non-
+consensual intimate visual depictions
+
+Section 8:
+Section 2 amends the Communications Act of 1934 (47 U.S.C.
+223) to create a new Federal crime for the intentional disclosure of
+nonconsensual intimate visual depictions. Subsection (a)(2) estab-
+lishes a new Federal criminal provision that makes it unlawful for
+a person to use an interactive computer service to knowingly pub-
+lish or threaten to publish an intimate visual depiction of an identi-
+fiable individual and includes penalties. The bill provides two dif-
+ferent offenses under subsection (2)(A) and (2)(B) depending on
+whether the identifiable individual within an intimate visual depic-
+tion is of an adult or minor.
+Subsection (a)(3) establishes a criminal provision that makes it
+unlawful for a person to use an interactive computer service to
+knowingly publish a digital forgery of an identifiable individual.
+The bill provides two different offenses under 3(A) and 3(B) de-
+pending on whether the identifiable individual within an intimate
+visual depiction is of an adult or a minor. Subsection 3(C) clarifies
+subsections (A) and (B) do not apply to any law enforcement inves-
+tigations, or disclosures made in good faith to law enforcement, in
+legal proceedings, as part of a medical diagnosis, to seek support
+with respect to receipt.
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+8
+
+Section 9:
+Section 2 provides for further exceptions and penalties, including
+for intentional threats to commit an offense under this Section
+against adults and minors.
+
+Section 10:
+Section 3. Notice and removal of nonconsensual intimate visual de-
+pictions
+
+Section 11:
+Section 3 requires covered platforms to establish and implement
+a notice and takedown process within one year of the enactment of
+this Act in accordance with the requirements outlined in this Sec-
+tion. Subsection (a)(1)(A) establishes the overall requirements for
+the covered platform to implement the notice and takedown proc-
+ess, including a process for an identifiable individual to notify the
+platform of an intimate visual depiction that has been published on
+the covered platform and the ability to submit a request to remove
+the intimate visual depiction.
+Subsection (a)(3) requires a covered platform, ‘‘upon receiving a
+valid removal request’’ to use the process described in paragraph
+(1)(A)(ii) ‘‘not later than 48 hours’’ after receiving such request—(1)
+remove the intimate visual depiction; and (2) make reasonable ef-
+forts to identify and remove any known identical copies of such de-
+piction. Subsection (a)(4) provides a limitation on liability to enable
+covered platforms to comply with the notice and takedown process
+without incurring liability for good faith disabling of access to, or
+removal of, material claimed to be a nonconsensual intimate visual
+depiction.
+Subsection (b)(1) provides that a failure to reasonably comply
+with the notice and take down obligations under subsection (a)
+shall be treated as a violation of a rule defining an unfair or a de-
+ceptive act or practice under Section 18(a)(1)(B) of the Federal
+Trade Commission Act.
+
+Section 12:
+Section 4. Definitions
+
+Section 13:
+Section 4 provides definitions that apply to the entirety of this
+Act.
+The terms ‘‘consent’’, ‘‘digital forgery’’, ‘‘identifiable individual’’,
+‘‘intimate visual depiction’’, and ‘‘minor’’ have the meaning given
+such terms in section 223(h) of the Communications Act of 1934 (47
+U.S.C. 223), as added by section 2.
+This section defines the term ‘‘covered platform’’ as a website, on-
+line service, online application, or mobile application: (i) that serves
+the public and (I) that primarily provides a forum for user-gen-
+erated content, including messages, videos, images, games, and
+audio files; or (II) for which it is in the regular course of trade or
+business of the website, online service, online application, or mobile
+application to publish, curate, host, or make available content of
+nonconsensual intimate visual depictions.
+The term ‘‘covered platform’’ does not include: (i) broadband
+internet access service providers (as described in section 8.1(b) of
+title 47, Code of Federal Regulations, or successor regulation), (ii)
+electronic mail, (iii) except for those covered platforms that publish
+or make available in the regular course of business nonconsensual
+intimate visual depictions, an online service, application, or website
+that consists primarily of content that is not user generated but is
+preselected by the provider of such; and for which any chat, com-
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+9
+ment, or interactive functionality is incidental to, directly related
+to, or dependent on providing content.
+
+Section 14:
+Section 5. Severability
+This section provides that if any provision of this Act or amend-
+ment made by the Act is determined to be unenforceable or invalid,
+all remaining provisions and amendments shall not be affected.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+COMMUNICATIONS ACT OF 1934
+* * * * * * *
+TITLE II—COMMON CARRIERS
+PART I—COMMON CARRIER REGULATION
+* * * * * * *
+SEC. 223. OBSCENE OR HARASSING TELEPHONE CALLS IN THE DIS-
+TRICT OF COLUMBIA OR IN INTERSTATE OR FOREIGN
+COMMUNICATIONS.
+(a) Whoever—
+(1) in interstate or foreign communications—
+(A) by means of a telecommunications device know-
+ingly—
+(i) makes, creates, or solicits, and
+(ii) initiates the transmission of,
+any comment, request, suggestion, proposal, image, or
+other communication which is obscene or child pornog-
+raphy, with intent to annoy, abuse, threaten, or harass an-
+other person;
+(B) by means of a telecommunications device know-
+ingly—
+(i) makes, creates, or solicits, and
+(ii) initiates the transmission of,
+any comment, request, suggestion, proposal, image, or
+other communication which is obscene or child pornog-
+raphy, knowing that the recipient of the communication is
+under 18 years of age, regardless of whether the maker of
+such communication placed the call or initiated the com-
+munication;
+(C) makes a telephone call or utilizes a telecommuni-
+cations device, whether or not conversation or communica-
+tion ensues, without disclosing his identity and with intent
+to annoy, abuse, threaten, or harass any person at the
+called number or who receives the communications;
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+10
+(D) makes or causes the telephone of another repeatedly
+or continuously to ring, with intent to harass any person
+at the called number; or
+(E) makes repeated telephone calls or repeatedly initi-
+ates communication with a telecommunications device,
+during which conversation or communication ensues, solely
+to harass any person at the called number or who receives
+the communication; or
+(2) knowingly permits any telecommunications facility under
+his control to be used for any activity prohibited by paragraph
+(1) with the intent that it be used for such activity,
+shall be fined under title 18, United States Code, or imprisoned not
+more than two years, or both.
+(b)(1) Whoever knowingly—
+(A) within the United States, by means of telephone, makes
+(directly or by recording device) any obscene communication for
+commercial purposes to any person, regardless of whether the
+maker of such communication placed the call; or
+(B) permits any telephone facility under such person’s con-
+trol to be used for an activity prohibited by subparagraph (A),
+shall be fined in accordance with title 18, United States Code, or
+imprisoned not more than two years, or both.
+(2) Whoever knowingly—
+(A) within the United States, by means of telephone, makes
+(directly or by recording device) any indecent communication
+for commercial purposes which is available to any person
+under 18 years of age or to any other person without that per-
+son’s consent, regardless of whether the maker of such commu-
+nication placed the call; or
+(B) permits any telephone facility under such person’s con-
+trol to be used for an activity prohibited by subparagraph (A),
+shall be fined not more than $50,000 or imprisoned not more
+than six months, or both.
+(3) It is a defense to prosecution under paragraph (2) of this sub-
+
+Section 15:
+section that the defendant restricted access to the prohibited com-
+munication to persons 18 years of age or older in accordance with
+subsection (c) of this section and with such procedures as the Com-
+mission may prescribe by regulation.
+(4) In addition to the penalties under paragraph (1), whoever,
+within the United States, intentionally violates paragraph (1) or (2)
+shall be subject to a fine of not more than $50,000 for each viola-
+tion. For purposes of this paragraph, each day of violation shall
+constitute a separate violation.
+(5)(A) In addition to the penalties under paragraphs (1), (2), and
+(5), whoever, within the United States, violates paragraph (1) or (2)
+shall be subject to a civil fine of not more than $50,000 for each
+violation. For purposes of this paragraph, each day of violation
+shall constitute a separate violation.
+(B) A fine under this paragraph may be assessed either—
+(i) by a court, pursuant to civil action by the Commission or
+any attorney employed by the Commission who is designated
+by the Commission for such purposes, or
+(ii) by the Commission after appropriate administrative pro-
+ceedings.
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+11
+(6) The Attorney General may bring a suit in the appropriate dis-
+trict court of the United States to enjoin any act or practice which
+violates paragraph (1) or (2). An injunction may be granted in ac-
+cordance with the Federal Rules of Civil Procedure.
+(c)(1) A common carrier within the District of Columbia or within
+any State, or in interstate or foreign commerce, shall not, to the
+extent technically feasible, provide access to a communication spec-
+ified in subsection (b) from the telephone of any subscriber who has
+not previously requested in writing the carrier to provide access to
+such communication if the carrier collects from subscribers an iden-
+tifiable charge for such communication that the carrier remits, in
+whole or in part, to the provider of such communication.
+(2) Except as provided in paragraph (3), no cause of action may
+be brought in any court or administrative agency against any com-
+mon carrier, or any of its affiliates, including their officers, direc-
+tors, employees, agents, or authorized representatives on account
+of—
+(A) any action which the carrier demonstrates was taken in
+good faith to restrict access pursuant to paragraph (1) of this
+subsection; or
+(B) any access permitted—
+(i) in good faith reliance upon the lack of any representa-
+tion by a provider of communications that communications
+provided by that provider are communications specified in
+subsection (b), or
+(ii) because a specific representation by the provider did
+not allow the carrier, acting in good faith, a sufficient pe-
+riod to restrict access to communications described in sub-
+
+Section 16:
+section (b).
+(3) Notwithstanding paragraph (2) of this subsection, a provider
+of communications services to which subscribers are denied access
+pursuant to paragraph (1) of this subsection may bring an action
+for a declaratory judgment or similar action in a court. Any such
+action shall be limited to the question of whether the communica-
+tions which the provider seeks to provide fall within the category
+of communications to which the carrier will provide access only to
+subscribers who have previously requested such access.
+(d) Whoever—
+(1) in interstate or foreign communications knowingly—
+(A) uses an interactive computer service to send to a spe-
+cific person or persons under 18 years of age, or
+(B) uses any interactive computer service to display in a
+manner available to a person under 18 years of age,
+any comment, request, suggestion, proposal, image, or other
+communication that is obscene or child pornography, regard-
+less of whether the user of such service placed the call or initi-
+ated the communication; or
+(2) knowingly permits any telecommunications facility under
+such person’s control to be used for an activity prohibited by
+paragraph (1) with the intent that it be used for such activity,
+shall be fined under title 18, United States Code, or imprisoned not
+more than two years, or both.
+(e) In addition to any other defenses available by law:
+(1) No person shall be held to have violated subsection (a)
+øor (d)¿, (d), or (h) solely for providing access or connection to
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+12
+or from a facility, system, or network not under that person’s
+control, including transmission, downloading, intermediate
+storage, access software, or other related capabilities that are
+incidental to providing such access or connection that does not
+include the creation of the content of the communication.
+(2) The defenses provided by paragraph (1) of this subsection
+shall not be applicable to a person who is a conspirator with
+an entity actively involved in the creation or knowing distribu-
+tion of communications that violate this section, or who know-
+ingly advertises the availability of such communications.
+(3) The defenses provided in paragraph (1) of this subsection
+shall not be applicable to a person who provides access or con-
+nection to a facility, system, or network engaged in the viola-
+tion of this section that is owned or controlled by such person.
+(4) No employer shall be held liable under this section for
+the actions of an employee or agent unless the employee’s or
+agent’s conduct is within the scope of his or her employment
+or agency and the employer (A) having knowledge of such con-
+duct, authorizes or ratifies such conduct, or (B) recklessly dis-
+regards such conduct.
+(5) It is a defense to a prosecution under subsection (a)(1)(B)
+or (d), or under subsection (a)(2) with respect to the use of a
+facility for an activity under subsection (a)(1)(B) that a per-
+son—
+(A) has taken, in good faith, reasonable, effective, and
+appropriate actions under the circumstances to restrict or
+prevent access by minors to a communication specified in
+such subsections, which may involve any appropriate
+measures to restrict minors from such communications, in-
+cluding any method which is feasible under available tech-
+nology; or
+(B) has restricted access to such communication by re-
+quiring use of a verified credit card, debit account, adult
+access code, or adult personal identification number.
+(6) The Commission may describe measures which are rea-
+sonable, effective, and appropriate to restrict access to prohib-
+ited communications under subsection (d). Nothing in this sec-
+tion authorizes the Commission to enforce, or is intended to
+provide the Commission with the authority to approve, sanc-
+tion, or permit, the use of such measures. The Commission
+shall have no enforcement authority over the failure to utilize
+such measures. The Commission shall not endorse specific
+products relating to such measures. The use of such measures
+shall be admitted as evidence of good faith efforts for purposes
+of paragraph (5) in any action arising under subsection (d).
+Nothing in this section shall be construed to treat interactive
+computer services as common carriers or telecommunications
+carriers.
+(f)(1) No cause of action may be brought in any court or adminis-
+trative agency against any person on account of any activity that
+is not in violation of any law punishable by criminal or civil pen-
+alty, and that the person has taken in good faith to implement a
+defense authorized under this section or otherwise to restrict or
+prevent the transmission of, or access to, a communication specified
+in this section.
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+13
+(2) No State or local government may impose any liability for
+commercial activities or actions by commercial entities, nonprofit li-
+braries, or institutions of higher education in connection with an
+activity or action described in subsection (a)(2) or (d) that is incon-
+sistent with the treatment of those activities or actions under this
+
+Section 17:
+section: Provided, however, That nothing herein shall preclude any
+State or local government from enacting and enforcing complemen-
+tary oversight, liability, and regulatory systems, procedures, and
+requirements, so long as such systems, procedures, and require-
+ments govern only intrastate services and do not result in the im-
+position of inconsistent rights, duties or obligations on the provi-
+sion of interstate services. Nothing in this subsection shall preclude
+any State or local government from governing conduct not covered
+by this section.
+(g) Nothing in subsection (a), (d), (e), or (f) or in the defenses to
+prosecution under subsection (a) or (d) shall be construed to affect
+or limit the application or enforcement of any other Federal law.
+(h) INTENTIONAL DISCLOSURE OF NONCONSENSUAL INTIMATE VIS-
+UAL DEPICTIONS.—
+(1) DEFINITIONS.—In this subsection:
+(A) CONSENT.—The term ‘‘consent’’ means an affirmative,
+conscious, and voluntary authorization made by an indi-
+vidual free from force, fraud, duress, misrepresentation, or
+coercion.
+(B) DIGITAL FORGERY.—The term ‘‘digital forgery’’ means
+any intimate visual depiction of an identifiable individual
+created through the use of software, machine learning, arti-
+ficial intelligence, or any other computer-generated or tech-
+nological means, including by adapting, modifying, manip-
+ulating, or altering an authentic visual depiction, that,
+when viewed as a whole by a reasonable person, is indistin-
+guishable from an authentic visual depiction of the indi-
+vidual.
+(C) IDENTIFIABLE INDIVIDUAL.—The term ‘‘identifiable in-
+dividual’’ means an individual—
+(i) who appears in whole or in part in an intimate
+visual depiction; and
+(ii) whose face, likeness, or other distinguishing char-
+acteristic (including a unique birthmark or other rec-
+ognizable feature) is displayed in connection with such
+intimate visual depiction.
+(D) INTERACTIVE COMPUTER SERVICE.—The term ‘‘inter-
+active computer service’’ has the meaning given the term in
+
+Section 18:
+section 230.
+(E) INTIMATE VISUAL DEPICTION.—The term ‘‘intimate vis-
+ual depiction’’ has the meaning given such term in section
+1309 of the Consolidated Appropriations Act, 2022 (15
+U.S.C. 6851).
+(F) MINOR.—The term ‘‘minor’’ means any individual
+under the age of 18 years.
+(2) OFFENSE INVOLVING AUTHENTIC INTIMATE VISUAL DEPIC-
+TIONS.—
+(A) INVOLVING ADULTS.—Except as provided in subpara-
+graph (C), it shall be unlawful for any person, in interstate
+or foreign commerce, to use an interactive computer service
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6603 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+14
+to knowingly publish an intimate visual depiction of an
+identifiable individual who is not a minor if—
+(i) the intimate visual depiction was obtained or cre-
+ated under circumstances in which the person knew or
+reasonably should have known the identifiable indi-
+vidual had a reasonable expectation of privacy;
+(ii) what is depicted was not voluntarily exposed by
+the identifiable individual in a public or commercial
+setting;
+(iii) what is depicted is not a matter of public con-
+cern; and
+(iv) publication of the intimate visual depiction—
+(I) is intended to cause harm; or
+(II) causes harm, including psychological, finan-
+cial, or reputational harm, to the identifiable indi-
+vidual.
+(B) INVOLVING MINORS.—Except as provided in subpara-
+graph (C), it shall be unlawful for any person, in interstate
+or foreign commerce, to use an interactive computer service
+to knowingly publish an intimate visual depiction of an
+identifiable individual who is a minor with intent to—
+(i) abuse, humiliate, harass, or degrade the minor; or
+(ii) arouse or gratify the sexual desire of any person.
+(C) EXCEPTIONS.—Subparagraphs (A) and (B) shall not
+apply to—
+(i) a lawfully authorized investigative, protective, or
+intelligence activity of—
+(I) a law enforcement agency of the United
+States, a State, or a political subdivision of a
+State; or
+(II) an intelligence agency of the United States;
+(ii) a disclosure made reasonably and in good faith—
+(I) to a law enforcement officer or agency;
+(II) as part of a document production or filing
+associated with a legal proceeding;
+(III) as part of medical education, diagnosis, or
+treatment or for a legitimate medical, scientific, or
+education purpose;
+(IV) in the reporting of unlawful content or unso-
+licited or unwelcome conduct or in pursuance of a
+legal, professional, or other lawful obligation; or
+(V) to seek support or help with respect to the re-
+ceipt of an unsolicited intimate visual depiction;
+(iii) a disclosure reasonably intended to assist the
+identifiable individual;
+(iv) a person who possesses or publishes an intimate
+visual depiction of himself or herself engaged in nudity
+or sexually explicit conduct (as that term is defined in
+
+Section 19:
+section 2256(2)(A) of title 18, United States Code); or
+(v) the publication of an intimate visual depiction
+that constitutes—
+(I) child pornography (as that term is defined in
+
+Section 20:
+section 2256 of title 18, United States Code); or
+(II) a visual depiction described in subsection (a)
+or (b) of section 1466A of title 18, United States
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6603 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+15
+Code (relating to obscene visual representations of
+the sexual abuse of children).
+(3) OFFENSE INVOLVING DIGITAL FORGERIES.—
+(A) INVOLVING ADULTS.—Except as provided in subpara-
+graph (C), it shall be unlawful for any person, in interstate
+or foreign commerce, to use an interactive computer service
+to knowingly publish a digital forgery of an identifiable in-
+dividual who is not a minor if—
+(i) the digital forgery was published without the con-
+sent of the identifiable individual;
+(ii) what is depicted was not voluntarily exposed by
+the identifiable individual in a public or commercial
+setting;
+(iii) what is depicted is not a matter of public con-
+cern; and
+(iv) publication of the digital forgery—
+(I) is intended to cause harm; or
+(II) causes harm, including psychological, finan-
+cial, or reputational harm, to the identifiable indi-
+vidual.
+(B) INVOLVING MINORS.—Except as provided in subpara-
+graph (C), it shall be unlawful for any person, in interstate
+or foreign commerce, to use an interactive computer service
+to knowingly publish a digital forgery of an identifiable in-
+dividual who is a minor with intent to—
+(i) abuse, humiliate, harass, or degrade the minor; or
+(ii) arouse or gratify the sexual desire of any person.
+(C) EXCEPTIONS.—Subparagraphs (A) and (B) shall not
+apply to—
+(i) a lawfully authorized investigative, protective, or
+intelligence activity of—
+(I) a law enforcement agency of the United
+States, a State, or a political subdivision of a
+State; or
+(II) an intelligence agency of the United States;
+(ii) a disclosure made reasonably and in good faith—
+(I) to a law enforcement officer or agency;
+(II) as part of a document production or filing
+associated with a legal proceeding;
+(III) as part of medical education, diagnosis, or
+treatment or for a legitimate medical, scientific, or
+education purpose;
+(IV) in the reporting of unlawful content or unso-
+licited or unwelcome conduct or in pursuance of a
+legal, professional, or other lawful obligation; or
+(V) to seek support or help with respect to the re-
+ceipt of an unsolicited intimate visual depiction;
+(iii) a disclosure reasonably intended to assist the
+identifiable individual;
+(iv) a person who possesses or publishes a digital for-
+gery of himself or herself engaged in nudity or sexually
+explicit conduct (as that term is defined in section
+2256(2)(A) of title 18, United States Code); or
+(v) the publication of an intimate visual depiction
+that constitutes—
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6659 Sfmt 6603 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+16
+(I) child pornography (as that term is defined in
+
+Section 21:
+section 2256 of title 18, United States Code); or
+(II) a visual depiction described in subsection (a)
+or (b) of section 1466A of title 18, United States
+Code (relating to obscene visual representations of
+the sexual abuse of children).
+(4) PENALTIES.—
+(A) OFFENSES INVOLVING ADULTS.—Any person who vio-
+lates paragraph (2)(A) or (3)(A) shall be fined under title
+18, United States Code, imprisoned not more than 2 years,
+or both.
+(B) OFFENSES INVOLVING MINORS.—Any person who vio-
+lates paragraph (2)(B) or (3)(B) shall be fined under title
+18, United States Code, imprisoned not more than 3 years,
+or both.
+(5) RULES OF CONSTRUCTION.—For purposes of paragraphs
+(2) and (3)—
+(A) the fact that the identifiable individual provided con-
+sent for the creation of the intimate visual depiction shall
+not establish that the individual provided consent for the
+publication of the intimate visual depiction; and
+(B) the fact that the identifiable individual disclosed the
+intimate visual depiction to another individual shall not es-
+tablish that the identifiable individual provided consent for
+the publication of the intimate visual depiction by the per-
+son alleged to have violated paragraph (2) or (3), respec-
+tively.
+(6) THREATS.—
+(A) THREATS INVOLVING AUTHENTIC INTIMATE VISUAL DE-
+PICTIONS.—Any person who intentionally threatens to com-
+mit an offense under paragraph (2) for the purpose of in-
+timidation, coercion, extortion, or to create mental distress
+shall be punished as provided in paragraph (4).
+(B) THREATS INVOLVING DIGITAL FORGERIES.—
+(i) THREATS INVOLVING ADULTS.—Any person who in-
+tentionally threatens to commit an offense under para-
+graph (3)(A) for the purpose of intimidation, coercion,
+extortion, or to create mental distress shall be fined
+under title 18, United States Code, imprisoned not
+more than 18 months, or both.
+(ii) THREATS INVOLVING MINORS.—Any person who
+intentionally threatens to commit an offense under
+paragraph (3)(B) for the purpose of intimidation, coer-
+cion, extortion, or to create mental distress shall be
+fined under title 18, United States Code, imprisoned
+not more than 30 months, or both.
+(7) FORFEITURE.—
+(A) IN GENERAL.—The court, in imposing a sentence on
+any person convicted of a violation of paragraph (2) or (3),
+shall order, in addition to any other sentence imposed and
+irrespective of any provision of State law, that the person
+forfeit to the United States—
+(i) any material distributed in violation of that para-
+graph;
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6659 Sfmt 6603 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+17
+(ii) the person’s interest in property, real or personal,
+constituting or derived from any gross proceeds of the
+violation, or any property traceable to such property,
+obtained or retained directly or indirectly as a result of
+the violation; and
+(iii) any personal property of the person used, or in-
+tended to be used, in any manner or part, to commit
+or to facilitate the commission of the violation.
+(B) PROCEDURES.—Section 413 of the Controlled Sub-
+stances Act (21 U.S.C. 853), with the exception of sub-
+
+Section 22:
+sections (a) and (d), shall apply to the criminal forfeiture
+of property under subparagraph (A).
+(8) RESTITUTION.—The court shall order restitution for an of-
+fense under paragraph (2) or (3) in the same manner as under
+
+Section 23:
+section 2264 of title 18, United States Code.
+(9) RULE OF CONSTRUCTION.—Nothing in this subsection
+shall be construed to limit the application of any other relevant
+law, including section 2252 of title 18, United States Code.
+ø(h)¿ (i) DEFINITIONS.—For purposes of this section—
+(1) The use of the term ‘‘telecommunications device’’ in this
+
+Section 24:
+section—
+(A) shall not impose new obligations on broadcasting sta-
+tion licensees and cable operators covered by obscenity and
+indecency provisions elsewhere in this Act;
+(B) does not include an interactive computer service; and
+(C) in the case of subparagraph (C) of subsection (a)(1),
+includes any device or software that can be used to origi-
+nate telecommunications or other types of communications
+that are transmitted, in whole or in part, by the Internet
+(as such term is defined in section 1104 of the Internet
+Tax Freedom Act (47 U.S.C. 151 note)).
+(2) The term ‘‘interactive computer service’’ has the meaning
+provided in section 230(f)(2).
+(3) The term ‘‘access software’’ means software (including cli-
+ent or server software) or enabling tools that do not create or
+provide the content of the communication but that allow a user
+to do any one or more of the following:
+(A) filter, screen, allow, or disallow content;
+(B) pick, choose, analyze, or digest content; or
+(C) transmit, receive, display, forward, cache, search,
+subset, organize, reorganize, or translate content.
+(4) The term ‘‘institution of higher education’’ has the mean-
+ing provided in section 101 of the Higher Education Act of
+
+Section 25:
+1965.
+(5) The term ‘‘library’’ means a library eligible for participa-
+tion in State-based plans for funds under title III of the Li-
+brary Services and Construction Act (20 U.S.C. 355e et seq.).
+* * * * * * *
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00017 Fmt 6659 Sfmt 6601 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+MINORITY VIEWS
+In H.R. 633, the TAKE IT DOWN Act, Congress entrusts the
+Federal Trade Commission (FTC) with delivering on a promise to
+provide recourse to those victimized by bad actors who have ex-
+ploited advancing technology including generative AI that can de-
+pict vulnerable individuals in sexually explicit situations that never
+occurred, and ubiquitous online social media that allows images to
+be distributed to an entire contact list at the push of a button, de-
+stroying reputations and lives in the process.
+When Congress created the FTC, it recognized the need for a
+government entity that could protect Americans faced with enor-
+mous and powerful corporations focused solely on pursuit of profit.
+Congress recognized that a dynamic marketplace with constant ad-
+vances in business practices and technology required the develop-
+ment of specialized expertise, and that to have trust and legitimacy
+in the eyes of consumers, markets, and the courts, such an agency
+would require independence and ideological balance, ensuring a
+fair hearing, transparency, and accountability.
+This is why Congress specifically constructed the FTC as a multi-
+member Commission led by Commissioners representing more than
+one political party, with terms that extended longer than those of
+Representatives, Senators, or Presidents. To avoid political pres-
+sure from a presidential administration, the FTC Act is clear that
+once appointed by the President and confirmed by the Senate, no
+Commissioner can be dismissed without due cause, explicitly speci-
+fied as ‘‘inefficiency, neglect of duty, or malfeasance in office.’’
+For more than a century, the FTC has lived up to its statutory
+obligation as an independent agency protecting competition and
+consumers. Recognizing the FTC’s good work, Congress has given
+it additional statutory authority over a wide range of consumer
+protection areas.
+It is, therefore, unconscionable that in hearings and markup re-
+garding H.R. 633 and the online dangers allowed to proliferate by
+Big Tech, where the role for the FTC to responsibly monitor and
+bring accountability to rogue corporations could not be more appar-
+ent or urgent, the majority abandoned its duty to defend the Com-
+mission and its leaders against clear ideological animus.
+Commissioner Rebecca Kelly Slaughter, who President Trump
+has illegally attempted to fire without cause, was called as a wit-
+ness in the March 26, 2025, hearing entitled ‘‘The World Wild Web:
+Examining Harms Online,’’ where she forcefully argued for the
+FTC’s important duty to act on the very harms under discussion
+in an independent and transparent manner. Commissioner Slaugh-
+ter recounted how in her long service to the Commission, the agen-
+cy had vigorously pursued this mission across Presidential admin-
+istrations with all the authorities granted by Congress. Commis-
+sioner Slaughter’s testimony strongly made the case that Congress
+(18)
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00018 Fmt 6604 Sfmt 6604 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+19
+would be right to entrust an independent FTC, and its Commis-
+sioners, with once again protecting vulnerable Americans and that
+they would continue to do so through their full statutory terms re-
+gardless of what political party might be in power at the time.
+Despite this, the majority insisted in its hearing announcements
+and at the hearing itself on referring to Ms. Slaughter as a
+‘‘former’’ Commissioner, inexplicably attempting to legitimize the
+unlawful actions of a President pursuing a nakedly political agenda
+by claiming the ability to fire independent FTC commissioners at
+a whim, directly contravening established law and precedent.
+At the April 8, 2025 Committee markup of H.R. 633, Representa-
+tive Soto introduced an amendment to allow the Committee mem-
+bers to vote to address this clear law violation and reaffirm their
+Constitutional role as a co-equal branch of government by condi-
+tioning the effective date of H.R. 633 on the recognition that the
+President’s unlawful attempt to fire Commissioner Slaughter and
+her Colleague Commissioner Alvaro Bedoya without cause was con-
+trary to law and that these Commissioners were entitled to con-
+tinue to serve out their terms, ensuring transparency and legit-
+imacy for the agency tasked with enforcing the critical notice and
+takedown provisions of the bill.
+The minority also introduced several amendments to make H.R.
+633 stronger, clearer, and to address areas of the bill where insuffi-
+cient consideration was given to the possibility of loopholes and un-
+intended consequences that might threaten the good the bill aims
+to do for victims. The majority made clear, however, that it was un-
+willing to consider amendments to H.R. 633 because it intended to
+adopt the exact same version of the Take it Down Act that has al-
+ready moved through the Senate.
+The goals of H.R. 633 are laudable, but rather than rushing this
+bill through the Committee the majority should have taken more
+care to clarify and strengthen the bill and to defend the statutory
+independence of the agency that it intends to enforce the notice and
+takedown provisions of this Act, to ensure that the FTC can do its
+work without fear or favor.
+FRANK PALLONE, Jr.,
+Ranking Member.
+Æ
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00019 Fmt 6604 Sfmt 6611 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–82
+TOOLS TO ADDRESS KNOWN EXPLOITATION BY IMMO-
+BILIZING TECHNOLOGICAL DEEPFAKES ON WEBSITES
+AND NETWORKS ACT
+APRIL28, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. GUTHRIE, from the Committee on Energy and Commerce,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 633]
+The Committee on Energy and Commerce, to whom was referred
+the bill (H.R. 633) to require covered platforms to remove non-
+consensual intimate visual depictions, and for other purposes, hav-
+ing considered the same, reports favorably thereon without amend-
+ment and recommends that the bill do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Action .................................................................................................... 3
+Committee Votes ...................................................................................................... 4
+Oversight Findings and Recommendations ........................................................... 6
+New Budget Authority, Entitlement Authority, and Tax Expenditures ............. 6
+Congressional Budget Office Estimate ................................................................... 6
+Federal Mandates Statement ................................................................................. 6
+Statement of General Performance Goals and Objectives .................................... 6
+Duplication of Federal Programs ............................................................................ 6
+Related Committee and Subcommittee Hearings ................................................. 6
+Committee Cost Estimate ....................................................................................... 7
+Earmark, Limited Tax Benefits, and Limited Tariff Benefits ............................. 7
+Advisory Committee Statement .............................................................................. 7
+Applicability to Legislative Branch ........................................................................ 7
+Section-by-Section Analysis of the Legislation ...................................................... 7
+Changes in Existing Law Made by the Bill, as Reported ..................................... 9
+Minority, Additional, or Dissenting Views ............................................................ 18
+59–006
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+2
+PURPOSE AND SUMMARY
+H.R. 633, the Tools to Address Known Exploitation by Immo-
+bilizing Technological Deepfakes on Websites and Networks Act, or
+the TAKE IT DOWN Act, was introduced by Representative Sala-
+zar on January 22, 2025, and referred to the Committee on Energy
+and Commerce. H.R. 633 criminalizes the publication of non-con-
+sensual intimate images (NCII) or the threat to publish NCII in
+interstate commerce. NCII is defined to include realistic, computer-
+generated pornographic images and videos that depict identifiable,
+real people. The bill permits the good faith disclosure of NCII, such
+as disclosure to law enforcement or for medical treatment. The bill
+requires covered platforms to establish and implement a notice and
+takedown process within one year of enactment. The takedown
+process requires covered platforms to remove NCII, and known cop-
+ies of such NCII, within forty-eight hours upon receiving a valid re-
+moval request notice from an identifiable individual. The bill pro-
+vides that a failure to reasonably comply with the notice and take
+down obligations under the Act shall be treated as a violation of
+a rule defining an unfair or a deceptive act or practice under Sec-
+tion 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 41
+et seq.).
+BACKGROUND AND NEED FOR LEGISLATION
+Artificial intelligence (AI) has drastically changed how people
+interact with computer services. For instance, the availability, and
+advancement, of AI, and other computer-generated technologies,
+has improved the way Americans can complete mundane tasks,
+compile and access information,1 and assist collaboration between
+humans in work environments.2 It also promises to assist law en-
+forcement fight against different types of fraud and abuse.3 How-
+ever, the growth and advancement of AI, while benefitting many
+different avenues of society, can also be used by bad actors to cre-
+ate and distribution of NCII of adults and minors, resulting in sig-
+nificant harm to Americans.
+Before the rapid advancement of AI, especially generative AI,
+NCII depicted real images or videos of actual people.4 But the rise
+of the new technology is exposing a hole in protections for Ameri-
+cans, especially children. Bad actors can use AI to create a digital
+forgery of NCII which involves manipulating real pictures easily
+obtained from online to falsely depict and expose an individual in
+intimate situations or in sexually graphic manners.5 Although such
+digital forgery NCII is not authentic, it harms the real people de-
+1See Jerry Patterson, Ways AI can improve our world, ROWANUNIVERSITYINFORMATIONRE-
+SOURCES & TECHNOLOGY NEWS (last accessed Apr. 9, 2025), https://irt.rowan.edu/about/news/
+2024/10/ai-benefits.html.
+2See Hanae Armitage, How AI improves physician and nurse collaboration, STANFORDMEDI-
+CINE NEWS CENTER (Apr. 15, 2024) https://med.stanford.edu/news/all-news/2024/04/ai-patient-
+care.html.
+3See Rabihah Butler, How AI can help law enforcement fight fraud & other crimes, THOMSON
+REUTERS (Sep. 30, 2024) https://www.thomsonreuters.com/en-us/posts/government/ai-law-
+enforcement-fraud/.
+4See Danielle K. Citron & Mary A. Franks, Criminalizing Revenge Porn, UNIV. OFMARYLAND
+FRANCIS KING SCH. OF L. (May 19, 2024), https://digitalcommons.law.umaryland.edu/fac_pubs/
+1420/.
+5See Karen Hao, Deepfake Porn is Ruining Women’s Lives. Now the Law May Finally Ban
+It, MASS. INST. TECH. TECH. REV. (Feb. 12, 2021), https://www.technologyreview.com/2021/02/12/
+1018222/deepfake-revenge-porn-coming-ban/.
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+3
+picted, including psychological harm such as humiliation, public
+shaming, and depression, as well as physical harm such as self-
+harm and suicide.6 The possibility that these images can continue
+to be spread—possibly in perpetuity if allowed to remain online—
+compounds the traumatic impact of those harmed by these images.
+NCII, including deepfake NCII, is also used by predators to com-
+mit sextortion, which involves soliciting and encouraging individ-
+uals to record or photograph themselves engaged in sexual acts or
+scenarios. In some cases, the predator may not already have a re-
+vealing picture or video recording, and at the first point of contact
+they will threaten an individual as if they did have sexually reveal-
+ing information to obtain more sexually explicit images or record-
+ings.7 Once a predator has recordings or images they will exploit
+or blackmail the victim for money or additional favors by threat-
+ening to publicly release any of the recordings or photographs of
+the victim.8
+NCII, real or AI generated, has contributed life long lasting
+harms to Americans throughout the United States, but particularly
+our children. Furthermore, there are few remedies victims may uti-
+lize to protect themselves. On March 26, 2025, the Committee on
+Energy and Commerce held a hearing which highlighted the lack
+of legal remedies available to law enforcement to pursue predators
+and culprits taking advantage of children.9 The hearing also dem-
+onstrated how difficult it is for victims to remove any real or AI
+generated NCII from online platforms.10
+To protect Americans, including our most vulnerable popu-
+lation—children—it is imperative Congress legislate to provide law
+enforcement with new authorities to address the growing crisis of
+NCII. Congress must also provide Americans with additional tools
+to request that NCII be taken down from online platforms by re-
+quiring notice and take down obligations for entities where NCII
+is found. H.R. 633 clarifies that the creation and publication of
+NCII in interstate commerce, or the threat to publish NCII, is a
+criminal offense in the United States and requires online platforms
+institute a notice and takedown process enforced by the Federal
+Trade Commission.
+COMMITTEE ACTION
+On March 26, 2025, the Subcommittee on Commerce, Manufac-
+turing, and Trade held a hearing titled, ‘‘The World Wild Web: Ex-
+amining Harms Online.’’ The Subcommittee received testimony
+from:
+• Dawn Hawkins, Senior Advisor, National Center on Sexual
+Exploitation;
+6See Richard Jochelson et al, Clearing Your History: A Review of Non-Consensual Distribution
+of Intimate Images in Canada and Future Responses, 54(3):771 UBC LAWREVIEW(2021). https://
+commons.allard.ubc.ca/cgi/viewcontent.cgi?article=1014&context=ubclawreview.
+7See Federal Bureau of Investigation (FBI), How We Can Help You, Scams and Safety,
+Sextortion, FBI (last accessed on Apr. 9, 2025) https://www.fbi.gov/how-we-can-help-you/scams-
+and-safety/common-frauds-and-scams/sextortion.
+8See Elizabeth Clement-Webb, Sextortion: A Growing Threat Targeting Minors, FBI (January
+23, 2024) https://www.fbi.gov/contact-us/field-offices/nashville/news/sextortion-a-growing-threat-
+targeting-minors; FBI, Malicious Actors Manipulating Photos and Videos to Create Explicit Con-
+tent and Sextortion Schemes (Jun. 5, 2023) https://www.ic3.gov/PSA/2023/psa230605.
+9The World Wild Web: Examining Harms Online: Hearing Before the H. Subcomm. on Com-
+merce, Manufacturing, and Trade, Comm. on Energy and Commerce, 119th Cong. (2025).
+10Id.
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+4
+• Yiota Souras, Chief Legal Officer, National Center for
+Missing and Exploited Children;
+• Clare Morell, Fellow, Ethics and Public Policy Center; and
+• The Honorable Rebecca Kelly Slaughter, Former Commis-
+sioner, Federal Trade Commission.
+On April 8, 2025, the full Committee on Energy and Commerce
+met in open markup session and ordered H.R. 633, without amend-
+ment, favorably reported to the House by a record vote of 49 yeas
+and 1 nay.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the record
+votes on the motion to report legislation and amendments thereto.
+The following reflects the record votes taken during the Committee
+consideration:
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+5
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+100.28RH
+ereh
+6
+oilof
+tesffo
+tresnI
+
+6
+OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Pursuant to clause 2(b)(1) of rule X and clause 3(c)(1) of rule
+XIII, the Committee has held hearings and made findings that are
+reflected in this report.
+NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY,
+AND TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII, the Committee finds that
+H.R. 633 would result in no new or increased budget authority, en-
+titlement authority, or tax expenditures or revenues.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE
+Pursuant to clause 3(c)(3) of rule XIII, at the time this report
+was filed, the cost estimate prepared by the Director of the Con-
+gressional Budget Office pursuant to section 402 of the Congres-
+sional Budget Act of 1974 was not available.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the general performance
+goal or objective of this legislation is to define criminal penalties
+for the publication or threatened publication of nonconsensual inti-
+mate image and to require online platforms to create and publish
+a process for giving notice of nonconsensual intimate imagery pub-
+lished on the platform within forty-eight hours.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII, no provision of H.R. 633
+is known to be duplicative of another Federal program, including
+any program that was included in a report to Congress pursuant
+to section 21 of Public Law 111–139 or the most recent Catalog of
+Federal Domestic Assistance.
+RELATED COMMITTEE AND SUBCOMMITTEE HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII, the following related hear-
+ing was used to develop or consider H.R. 633:
+• On March 26, 2025, the Subcommittee on Commerce, Man-
+ufacturing, and Trade held a hearing entitled ‘‘The World Wild
+Web: Examining Harms Online.’’ The Subcommittee received
+testimony from:
+» Dawn Hawkins, Senior Advisor, National Center on
+Sexual Exploitation;
+» Yiota Souras, Chief Legal Officer, National Center for
+Missing and Exploited Children;
+» Clare Morell, Fellow, Ethics and Public Policy Center;
+and
+» Rebecca Kelly Slaughter, Former Commissioner, Fed-
+eral Trade Commission.
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+7
+COMMITTEE COST ESTIMATE
+Pursuant to clause 3(d)(1) of rule XIII, the Committee adopts as
+its own the cost estimate prepared by the Director of the Congres-
+sional Budget Office pursuant to section 402 of the Congressional
+Budget Act of 1974. At the time this report was filed, the estimate
+was not available.
+EARMARK, LIMITED TAX BENEFITS, AND LIMITED TARIFF BENEFITS
+Pursuant to clause 9(e), 9(f), and 9(g) of rule XXI, the Committee
+finds that H.R. 633 contains no earmarks, limited tax benefits, or
+limited tariff benefits.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+Section 1 designates that the short title may be cited as the
+‘‘Tools to Address Known Exploitation by Immobilizing Techno-
+logical Deepfakes on Websites and Networks Act’’ or the ‘‘TAKE IT
+DOWN Act.’’
+Section 2. Criminal prohibition on intentional disclosure of non-
+consensual intimate visual depictions
+Section 2 amends the Communications Act of 1934 (47 U.S.C.
+223) to create a new Federal crime for the intentional disclosure of
+nonconsensual intimate visual depictions. Subsection (a)(2) estab-
+lishes a new Federal criminal provision that makes it unlawful for
+a person to use an interactive computer service to knowingly pub-
+lish or threaten to publish an intimate visual depiction of an identi-
+fiable individual and includes penalties. The bill provides two dif-
+ferent offenses under subsection (2)(A) and (2)(B) depending on
+whether the identifiable individual within an intimate visual depic-
+tion is of an adult or minor.
+Subsection (a)(3) establishes a criminal provision that makes it
+unlawful for a person to use an interactive computer service to
+knowingly publish a digital forgery of an identifiable individual.
+The bill provides two different offenses under 3(A) and 3(B) de-
+pending on whether the identifiable individual within an intimate
+visual depiction is of an adult or a minor. Subsection 3(C) clarifies
+subsections (A) and (B) do not apply to any law enforcement inves-
+tigations, or disclosures made in good faith to law enforcement, in
+legal proceedings, as part of a medical diagnosis, to seek support
+with respect to receipt.
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+8
+Section 2 provides for further exceptions and penalties, including
+for intentional threats to commit an offense under this Section
+against adults and minors.
+Section 3. Notice and removal of nonconsensual intimate visual de-
+pictions
+Section 3 requires covered platforms to establish and implement
+a notice and takedown process within one year of the enactment of
+this Act in accordance with the requirements outlined in this Sec-
+tion. Subsection (a)(1)(A) establishes the overall requirements for
+the covered platform to implement the notice and takedown proc-
+ess, including a process for an identifiable individual to notify the
+platform of an intimate visual depiction that has been published on
+the covered platform and the ability to submit a request to remove
+the intimate visual depiction.
+Subsection (a)(3) requires a covered platform, ‘‘upon receiving a
+valid removal request’’ to use the process described in paragraph
+(1)(A)(ii) ‘‘not later than 48 hours’’ after receiving such request—(1)
+remove the intimate visual depiction; and (2) make reasonable ef-
+forts to identify and remove any known identical copies of such de-
+piction. Subsection (a)(4) provides a limitation on liability to enable
+covered platforms to comply with the notice and takedown process
+without incurring liability for good faith disabling of access to, or
+removal of, material claimed to be a nonconsensual intimate visual
+depiction.
+Subsection (b)(1) provides that a failure to reasonably comply
+with the notice and take down obligations under subsection (a)
+shall be treated as a violation of a rule defining an unfair or a de-
+ceptive act or practice under Section 18(a)(1)(B) of the Federal
+Trade Commission Act.
+Section 4. Definitions
+Section 4 provides definitions that apply to the entirety of this
+Act.
+The terms ‘‘consent’’, ‘‘digital forgery’’, ‘‘identifiable individual’’,
+‘‘intimate visual depiction’’, and ‘‘minor’’ have the meaning given
+such terms in section 223(h) of the Communications Act of 1934 (47
+U.S.C. 223), as added by section 2.
+This section defines the term ‘‘covered platform’’ as a website, on-
+line service, online application, or mobile application: (i) that serves
+the public and (I) that primarily provides a forum for user-gen-
+erated content, including messages, videos, images, games, and
+audio files; or (II) for which it is in the regular course of trade or
+business of the website, online service, online application, or mobile
+application to publish, curate, host, or make available content of
+nonconsensual intimate visual depictions.
+The term ‘‘covered platform’’ does not include: (i) broadband
+internet access service providers (as described in section 8.1(b) of
+title 47, Code of Federal Regulations, or successor regulation), (ii)
+electronic mail, (iii) except for those covered platforms that publish
+or make available in the regular course of business nonconsensual
+intimate visual depictions, an online service, application, or website
+that consists primarily of content that is not user generated but is
+preselected by the provider of such; and for which any chat, com-
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+9
+ment, or interactive functionality is incidental to, directly related
+to, or dependent on providing content.
+Section 5. Severability
+This section provides that if any provision of this Act or amend-
+ment made by the Act is determined to be unenforceable or invalid,
+all remaining provisions and amendments shall not be affected.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+COMMUNICATIONS ACT OF 1934
+* * * * * * *
+TITLE II—COMMON CARRIERS
+PART I—COMMON CARRIER REGULATION
+* * * * * * *
+SEC. 223. OBSCENE OR HARASSING TELEPHONE CALLS IN THE DIS-
+TRICT OF COLUMBIA OR IN INTERSTATE OR FOREIGN
+COMMUNICATIONS.
+(a) Whoever—
+(1) in interstate or foreign communications—
+(A) by means of a telecommunications device know-
+ingly—
+(i) makes, creates, or solicits, and
+(ii) initiates the transmission of,
+any comment, request, suggestion, proposal, image, or
+other communication which is obscene or child pornog-
+raphy, with intent to annoy, abuse, threaten, or harass an-
+other person;
+(B) by means of a telecommunications device know-
+ingly—
+(i) makes, creates, or solicits, and
+(ii) initiates the transmission of,
+any comment, request, suggestion, proposal, image, or
+other communication which is obscene or child pornog-
+raphy, knowing that the recipient of the communication is
+under 18 years of age, regardless of whether the maker of
+such communication placed the call or initiated the com-
+munication;
+(C) makes a telephone call or utilizes a telecommuni-
+cations device, whether or not conversation or communica-
+tion ensues, without disclosing his identity and with intent
+to annoy, abuse, threaten, or harass any person at the
+called number or who receives the communications;
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+10
+(D) makes or causes the telephone of another repeatedly
+or continuously to ring, with intent to harass any person
+at the called number; or
+(E) makes repeated telephone calls or repeatedly initi-
+ates communication with a telecommunications device,
+during which conversation or communication ensues, solely
+to harass any person at the called number or who receives
+the communication; or
+(2) knowingly permits any telecommunications facility under
+his control to be used for any activity prohibited by paragraph
+(1) with the intent that it be used for such activity,
+shall be fined under title 18, United States Code, or imprisoned not
+more than two years, or both.
+(b)(1) Whoever knowingly—
+(A) within the United States, by means of telephone, makes
+(directly or by recording device) any obscene communication for
+commercial purposes to any person, regardless of whether the
+maker of such communication placed the call; or
+(B) permits any telephone facility under such person’s con-
+trol to be used for an activity prohibited by subparagraph (A),
+shall be fined in accordance with title 18, United States Code, or
+imprisoned not more than two years, or both.
+(2) Whoever knowingly—
+(A) within the United States, by means of telephone, makes
+(directly or by recording device) any indecent communication
+for commercial purposes which is available to any person
+under 18 years of age or to any other person without that per-
+son’s consent, regardless of whether the maker of such commu-
+nication placed the call; or
+(B) permits any telephone facility under such person’s con-
+trol to be used for an activity prohibited by subparagraph (A),
+shall be fined not more than $50,000 or imprisoned not more
+than six months, or both.
+(3) It is a defense to prosecution under paragraph (2) of this sub-
+section that the defendant restricted access to the prohibited com-
+munication to persons 18 years of age or older in accordance with
+subsection (c) of this section and with such procedures as the Com-
+mission may prescribe by regulation.
+(4) In addition to the penalties under paragraph (1), whoever,
+within the United States, intentionally violates paragraph (1) or (2)
+shall be subject to a fine of not more than $50,000 for each viola-
+tion. For purposes of this paragraph, each day of violation shall
+constitute a separate violation.
+(5)(A) In addition to the penalties under paragraphs (1), (2), and
+(5), whoever, within the United States, violates paragraph (1) or (2)
+shall be subject to a civil fine of not more than $50,000 for each
+violation. For purposes of this paragraph, each day of violation
+shall constitute a separate violation.
+(B) A fine under this paragraph may be assessed either—
+(i) by a court, pursuant to civil action by the Commission or
+any attorney employed by the Commission who is designated
+by the Commission for such purposes, or
+(ii) by the Commission after appropriate administrative pro-
+ceedings.
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+11
+(6) The Attorney General may bring a suit in the appropriate dis-
+trict court of the United States to enjoin any act or practice which
+violates paragraph (1) or (2). An injunction may be granted in ac-
+cordance with the Federal Rules of Civil Procedure.
+(c)(1) A common carrier within the District of Columbia or within
+any State, or in interstate or foreign commerce, shall not, to the
+extent technically feasible, provide access to a communication spec-
+ified in subsection (b) from the telephone of any subscriber who has
+not previously requested in writing the carrier to provide access to
+such communication if the carrier collects from subscribers an iden-
+tifiable charge for such communication that the carrier remits, in
+whole or in part, to the provider of such communication.
+(2) Except as provided in paragraph (3), no cause of action may
+be brought in any court or administrative agency against any com-
+mon carrier, or any of its affiliates, including their officers, direc-
+tors, employees, agents, or authorized representatives on account
+of—
+(A) any action which the carrier demonstrates was taken in
+good faith to restrict access pursuant to paragraph (1) of this
+subsection; or
+(B) any access permitted—
+(i) in good faith reliance upon the lack of any representa-
+tion by a provider of communications that communications
+provided by that provider are communications specified in
+subsection (b), or
+(ii) because a specific representation by the provider did
+not allow the carrier, acting in good faith, a sufficient pe-
+riod to restrict access to communications described in sub-
+section (b).
+(3) Notwithstanding paragraph (2) of this subsection, a provider
+of communications services to which subscribers are denied access
+pursuant to paragraph (1) of this subsection may bring an action
+for a declaratory judgment or similar action in a court. Any such
+action shall be limited to the question of whether the communica-
+tions which the provider seeks to provide fall within the category
+of communications to which the carrier will provide access only to
+subscribers who have previously requested such access.
+(d) Whoever—
+(1) in interstate or foreign communications knowingly—
+(A) uses an interactive computer service to send to a spe-
+cific person or persons under 18 years of age, or
+(B) uses any interactive computer service to display in a
+manner available to a person under 18 years of age,
+any comment, request, suggestion, proposal, image, or other
+communication that is obscene or child pornography, regard-
+less of whether the user of such service placed the call or initi-
+ated the communication; or
+(2) knowingly permits any telecommunications facility under
+such person’s control to be used for an activity prohibited by
+paragraph (1) with the intent that it be used for such activity,
+shall be fined under title 18, United States Code, or imprisoned not
+more than two years, or both.
+(e) In addition to any other defenses available by law:
+(1) No person shall be held to have violated subsection (a)
+øor (d)¿, (d), or (h) solely for providing access or connection to
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+12
+or from a facility, system, or network not under that person’s
+control, including transmission, downloading, intermediate
+storage, access software, or other related capabilities that are
+incidental to providing such access or connection that does not
+include the creation of the content of the communication.
+(2) The defenses provided by paragraph (1) of this subsection
+shall not be applicable to a person who is a conspirator with
+an entity actively involved in the creation or knowing distribu-
+tion of communications that violate this section, or who know-
+ingly advertises the availability of such communications.
+(3) The defenses provided in paragraph (1) of this subsection
+shall not be applicable to a person who provides access or con-
+nection to a facility, system, or network engaged in the viola-
+tion of this section that is owned or controlled by such person.
+(4) No employer shall be held liable under this section for
+the actions of an employee or agent unless the employee’s or
+agent’s conduct is within the scope of his or her employment
+or agency and the employer (A) having knowledge of such con-
+duct, authorizes or ratifies such conduct, or (B) recklessly dis-
+regards such conduct.
+(5) It is a defense to a prosecution under subsection (a)(1)(B)
+or (d), or under subsection (a)(2) with respect to the use of a
+facility for an activity under subsection (a)(1)(B) that a per-
+son—
+(A) has taken, in good faith, reasonable, effective, and
+appropriate actions under the circumstances to restrict or
+prevent access by minors to a communication specified in
+such subsections, which may involve any appropriate
+measures to restrict minors from such communications, in-
+cluding any method which is feasible under available tech-
+nology; or
+(B) has restricted access to such communication by re-
+quiring use of a verified credit card, debit account, adult
+access code, or adult personal identification number.
+(6) The Commission may describe measures which are rea-
+sonable, effective, and appropriate to restrict access to prohib-
+ited communications under subsection (d). Nothing in this sec-
+tion authorizes the Commission to enforce, or is intended to
+provide the Commission with the authority to approve, sanc-
+tion, or permit, the use of such measures. The Commission
+shall have no enforcement authority over the failure to utilize
+such measures. The Commission shall not endorse specific
+products relating to such measures. The use of such measures
+shall be admitted as evidence of good faith efforts for purposes
+of paragraph (5) in any action arising under subsection (d).
+Nothing in this section shall be construed to treat interactive
+computer services as common carriers or telecommunications
+carriers.
+(f)(1) No cause of action may be brought in any court or adminis-
+trative agency against any person on account of any activity that
+is not in violation of any law punishable by criminal or civil pen-
+alty, and that the person has taken in good faith to implement a
+defense authorized under this section or otherwise to restrict or
+prevent the transmission of, or access to, a communication specified
+in this section.
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+13
+(2) No State or local government may impose any liability for
+commercial activities or actions by commercial entities, nonprofit li-
+braries, or institutions of higher education in connection with an
+activity or action described in subsection (a)(2) or (d) that is incon-
+sistent with the treatment of those activities or actions under this
+section: Provided, however, That nothing herein shall preclude any
+State or local government from enacting and enforcing complemen-
+tary oversight, liability, and regulatory systems, procedures, and
+requirements, so long as such systems, procedures, and require-
+ments govern only intrastate services and do not result in the im-
+position of inconsistent rights, duties or obligations on the provi-
+sion of interstate services. Nothing in this subsection shall preclude
+any State or local government from governing conduct not covered
+by this section.
+(g) Nothing in subsection (a), (d), (e), or (f) or in the defenses to
+prosecution under subsection (a) or (d) shall be construed to affect
+or limit the application or enforcement of any other Federal law.
+(h) INTENTIONAL DISCLOSURE OF NONCONSENSUAL INTIMATE VIS-
+UAL DEPICTIONS.—
+(1) DEFINITIONS.—In this subsection:
+(A) CONSENT.—The term ‘‘consent’’ means an affirmative,
+conscious, and voluntary authorization made by an indi-
+vidual free from force, fraud, duress, misrepresentation, or
+coercion.
+(B) DIGITAL FORGERY.—The term ‘‘digital forgery’’ means
+any intimate visual depiction of an identifiable individual
+created through the use of software, machine learning, arti-
+ficial intelligence, or any other computer-generated or tech-
+nological means, including by adapting, modifying, manip-
+ulating, or altering an authentic visual depiction, that,
+when viewed as a whole by a reasonable person, is indistin-
+guishable from an authentic visual depiction of the indi-
+vidual.
+(C) IDENTIFIABLE INDIVIDUAL.—The term ‘‘identifiable in-
+dividual’’ means an individual—
+(i) who appears in whole or in part in an intimate
+visual depiction; and
+(ii) whose face, likeness, or other distinguishing char-
+acteristic (including a unique birthmark or other rec-
+ognizable feature) is displayed in connection with such
+intimate visual depiction.
+(D) INTERACTIVE COMPUTER SERVICE.—The term ‘‘inter-
+active computer service’’ has the meaning given the term in
+section 230.
+(E) INTIMATE VISUAL DEPICTION.—The term ‘‘intimate vis-
+ual depiction’’ has the meaning given such term in section
+1309 of the Consolidated Appropriations Act, 2022 (15
+U.S.C. 6851).
+(F) MINOR.—The term ‘‘minor’’ means any individual
+under the age of 18 years.
+(2) OFFENSE INVOLVING AUTHENTIC INTIMATE VISUAL DEPIC-
+TIONS.—
+(A) INVOLVING ADULTS.—Except as provided in subpara-
+graph (C), it shall be unlawful for any person, in interstate
+or foreign commerce, to use an interactive computer service
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6603 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+14
+to knowingly publish an intimate visual depiction of an
+identifiable individual who is not a minor if—
+(i) the intimate visual depiction was obtained or cre-
+ated under circumstances in which the person knew or
+reasonably should have known the identifiable indi-
+vidual had a reasonable expectation of privacy;
+(ii) what is depicted was not voluntarily exposed by
+the identifiable individual in a public or commercial
+setting;
+(iii) what is depicted is not a matter of public con-
+cern; and
+(iv) publication of the intimate visual depiction—
+(I) is intended to cause harm; or
+(II) causes harm, including psychological, finan-
+cial, or reputational harm, to the identifiable indi-
+vidual.
+(B) INVOLVING MINORS.—Except as provided in subpara-
+graph (C), it shall be unlawful for any person, in interstate
+or foreign commerce, to use an interactive computer service
+to knowingly publish an intimate visual depiction of an
+identifiable individual who is a minor with intent to—
+(i) abuse, humiliate, harass, or degrade the minor; or
+(ii) arouse or gratify the sexual desire of any person.
+(C) EXCEPTIONS.—Subparagraphs (A) and (B) shall not
+apply to—
+(i) a lawfully authorized investigative, protective, or
+intelligence activity of—
+(I) a law enforcement agency of the United
+States, a State, or a political subdivision of a
+State; or
+(II) an intelligence agency of the United States;
+(ii) a disclosure made reasonably and in good faith—
+(I) to a law enforcement officer or agency;
+(II) as part of a document production or filing
+associated with a legal proceeding;
+(III) as part of medical education, diagnosis, or
+treatment or for a legitimate medical, scientific, or
+education purpose;
+(IV) in the reporting of unlawful content or unso-
+licited or unwelcome conduct or in pursuance of a
+legal, professional, or other lawful obligation; or
+(V) to seek support or help with respect to the re-
+ceipt of an unsolicited intimate visual depiction;
+(iii) a disclosure reasonably intended to assist the
+identifiable individual;
+(iv) a person who possesses or publishes an intimate
+visual depiction of himself or herself engaged in nudity
+or sexually explicit conduct (as that term is defined in
+section 2256(2)(A) of title 18, United States Code); or
+(v) the publication of an intimate visual depiction
+that constitutes—
+(I) child pornography (as that term is defined in
+section 2256 of title 18, United States Code); or
+(II) a visual depiction described in subsection (a)
+or (b) of section 1466A of title 18, United States
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6603 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+15
+Code (relating to obscene visual representations of
+the sexual abuse of children).
+(3) OFFENSE INVOLVING DIGITAL FORGERIES.—
+(A) INVOLVING ADULTS.—Except as provided in subpara-
+graph (C), it shall be unlawful for any person, in interstate
+or foreign commerce, to use an interactive computer service
+to knowingly publish a digital forgery of an identifiable in-
+dividual who is not a minor if—
+(i) the digital forgery was published without the con-
+sent of the identifiable individual;
+(ii) what is depicted was not voluntarily exposed by
+the identifiable individual in a public or commercial
+setting;
+(iii) what is depicted is not a matter of public con-
+cern; and
+(iv) publication of the digital forgery—
+(I) is intended to cause harm; or
+(II) causes harm, including psychological, finan-
+cial, or reputational harm, to the identifiable indi-
+vidual.
+(B) INVOLVING MINORS.—Except as provided in subpara-
+graph (C), it shall be unlawful for any person, in interstate
+or foreign commerce, to use an interactive computer service
+to knowingly publish a digital forgery of an identifiable in-
+dividual who is a minor with intent to—
+(i) abuse, humiliate, harass, or degrade the minor; or
+(ii) arouse or gratify the sexual desire of any person.
+(C) EXCEPTIONS.—Subparagraphs (A) and (B) shall not
+apply to—
+(i) a lawfully authorized investigative, protective, or
+intelligence activity of—
+(I) a law enforcement agency of the United
+States, a State, or a political subdivision of a
+State; or
+(II) an intelligence agency of the United States;
+(ii) a disclosure made reasonably and in good faith—
+(I) to a law enforcement officer or agency;
+(II) as part of a document production or filing
+associated with a legal proceeding;
+(III) as part of medical education, diagnosis, or
+treatment or for a legitimate medical, scientific, or
+education purpose;
+(IV) in the reporting of unlawful content or unso-
+licited or unwelcome conduct or in pursuance of a
+legal, professional, or other lawful obligation; or
+(V) to seek support or help with respect to the re-
+ceipt of an unsolicited intimate visual depiction;
+(iii) a disclosure reasonably intended to assist the
+identifiable individual;
+(iv) a person who possesses or publishes a digital for-
+gery of himself or herself engaged in nudity or sexually
+explicit conduct (as that term is defined in section
+2256(2)(A) of title 18, United States Code); or
+(v) the publication of an intimate visual depiction
+that constitutes—
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6659 Sfmt 6603 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+16
+(I) child pornography (as that term is defined in
+section 2256 of title 18, United States Code); or
+(II) a visual depiction described in subsection (a)
+or (b) of section 1466A of title 18, United States
+Code (relating to obscene visual representations of
+the sexual abuse of children).
+(4) PENALTIES.—
+(A) OFFENSES INVOLVING ADULTS.—Any person who vio-
+lates paragraph (2)(A) or (3)(A) shall be fined under title
+18, United States Code, imprisoned not more than 2 years,
+or both.
+(B) OFFENSES INVOLVING MINORS.—Any person who vio-
+lates paragraph (2)(B) or (3)(B) shall be fined under title
+18, United States Code, imprisoned not more than 3 years,
+or both.
+(5) RULES OF CONSTRUCTION.—For purposes of paragraphs
+(2) and (3)—
+(A) the fact that the identifiable individual provided con-
+sent for the creation of the intimate visual depiction shall
+not establish that the individual provided consent for the
+publication of the intimate visual depiction; and
+(B) the fact that the identifiable individual disclosed the
+intimate visual depiction to another individual shall not es-
+tablish that the identifiable individual provided consent for
+the publication of the intimate visual depiction by the per-
+son alleged to have violated paragraph (2) or (3), respec-
+tively.
+(6) THREATS.—
+(A) THREATS INVOLVING AUTHENTIC INTIMATE VISUAL DE-
+PICTIONS.—Any person who intentionally threatens to com-
+mit an offense under paragraph (2) for the purpose of in-
+timidation, coercion, extortion, or to create mental distress
+shall be punished as provided in paragraph (4).
+(B) THREATS INVOLVING DIGITAL FORGERIES.—
+(i) THREATS INVOLVING ADULTS.—Any person who in-
+tentionally threatens to commit an offense under para-
+graph (3)(A) for the purpose of intimidation, coercion,
+extortion, or to create mental distress shall be fined
+under title 18, United States Code, imprisoned not
+more than 18 months, or both.
+(ii) THREATS INVOLVING MINORS.—Any person who
+intentionally threatens to commit an offense under
+paragraph (3)(B) for the purpose of intimidation, coer-
+cion, extortion, or to create mental distress shall be
+fined under title 18, United States Code, imprisoned
+not more than 30 months, or both.
+(7) FORFEITURE.—
+(A) IN GENERAL.—The court, in imposing a sentence on
+any person convicted of a violation of paragraph (2) or (3),
+shall order, in addition to any other sentence imposed and
+irrespective of any provision of State law, that the person
+forfeit to the United States—
+(i) any material distributed in violation of that para-
+graph;
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6659 Sfmt 6603 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+17
+(ii) the person’s interest in property, real or personal,
+constituting or derived from any gross proceeds of the
+violation, or any property traceable to such property,
+obtained or retained directly or indirectly as a result of
+the violation; and
+(iii) any personal property of the person used, or in-
+tended to be used, in any manner or part, to commit
+or to facilitate the commission of the violation.
+(B) PROCEDURES.—Section 413 of the Controlled Sub-
+stances Act (21 U.S.C. 853), with the exception of sub-
+sections (a) and (d), shall apply to the criminal forfeiture
+of property under subparagraph (A).
+(8) RESTITUTION.—The court shall order restitution for an of-
+fense under paragraph (2) or (3) in the same manner as under
+section 2264 of title 18, United States Code.
+(9) RULE OF CONSTRUCTION.—Nothing in this subsection
+shall be construed to limit the application of any other relevant
+law, including section 2252 of title 18, United States Code.
+ø(h)¿ (i) DEFINITIONS.—For purposes of this section—
+(1) The use of the term ‘‘telecommunications device’’ in this
+section—
+(A) shall not impose new obligations on broadcasting sta-
+tion licensees and cable operators covered by obscenity and
+indecency provisions elsewhere in this Act;
+(B) does not include an interactive computer service; and
+(C) in the case of subparagraph (C) of subsection (a)(1),
+includes any device or software that can be used to origi-
+nate telecommunications or other types of communications
+that are transmitted, in whole or in part, by the Internet
+(as such term is defined in section 1104 of the Internet
+Tax Freedom Act (47 U.S.C. 151 note)).
+(2) The term ‘‘interactive computer service’’ has the meaning
+provided in section 230(f)(2).
+(3) The term ‘‘access software’’ means software (including cli-
+ent or server software) or enabling tools that do not create or
+provide the content of the communication but that allow a user
+to do any one or more of the following:
+(A) filter, screen, allow, or disallow content;
+(B) pick, choose, analyze, or digest content; or
+(C) transmit, receive, display, forward, cache, search,
+subset, organize, reorganize, or translate content.
+(4) The term ‘‘institution of higher education’’ has the mean-
+ing provided in section 101 of the Higher Education Act of
+1965.
+(5) The term ‘‘library’’ means a library eligible for participa-
+tion in State-based plans for funds under title III of the Li-
+brary Services and Construction Act (20 U.S.C. 355e et seq.).
+* * * * * * *
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00017 Fmt 6659 Sfmt 6601 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+MINORITY VIEWS
+In H.R. 633, the TAKE IT DOWN Act, Congress entrusts the
+Federal Trade Commission (FTC) with delivering on a promise to
+provide recourse to those victimized by bad actors who have ex-
+ploited advancing technology including generative AI that can de-
+pict vulnerable individuals in sexually explicit situations that never
+occurred, and ubiquitous online social media that allows images to
+be distributed to an entire contact list at the push of a button, de-
+stroying reputations and lives in the process.
+When Congress created the FTC, it recognized the need for a
+government entity that could protect Americans faced with enor-
+mous and powerful corporations focused solely on pursuit of profit.
+Congress recognized that a dynamic marketplace with constant ad-
+vances in business practices and technology required the develop-
+ment of specialized expertise, and that to have trust and legitimacy
+in the eyes of consumers, markets, and the courts, such an agency
+would require independence and ideological balance, ensuring a
+fair hearing, transparency, and accountability.
+This is why Congress specifically constructed the FTC as a multi-
+member Commission led by Commissioners representing more than
+one political party, with terms that extended longer than those of
+Representatives, Senators, or Presidents. To avoid political pres-
+sure from a presidential administration, the FTC Act is clear that
+once appointed by the President and confirmed by the Senate, no
+Commissioner can be dismissed without due cause, explicitly speci-
+fied as ‘‘inefficiency, neglect of duty, or malfeasance in office.’’
+For more than a century, the FTC has lived up to its statutory
+obligation as an independent agency protecting competition and
+consumers. Recognizing the FTC’s good work, Congress has given
+it additional statutory authority over a wide range of consumer
+protection areas.
+It is, therefore, unconscionable that in hearings and markup re-
+garding H.R. 633 and the online dangers allowed to proliferate by
+Big Tech, where the role for the FTC to responsibly monitor and
+bring accountability to rogue corporations could not be more appar-
+ent or urgent, the majority abandoned its duty to defend the Com-
+mission and its leaders against clear ideological animus.
+Commissioner Rebecca Kelly Slaughter, who President Trump
+has illegally attempted to fire without cause, was called as a wit-
+ness in the March 26, 2025, hearing entitled ‘‘The World Wild Web:
+Examining Harms Online,’’ where she forcefully argued for the
+FTC’s important duty to act on the very harms under discussion
+in an independent and transparent manner. Commissioner Slaugh-
+ter recounted how in her long service to the Commission, the agen-
+cy had vigorously pursued this mission across Presidential admin-
+istrations with all the authorities granted by Congress. Commis-
+sioner Slaughter’s testimony strongly made the case that Congress
+(18)
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00018 Fmt 6604 Sfmt 6604 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+19
+would be right to entrust an independent FTC, and its Commis-
+sioners, with once again protecting vulnerable Americans and that
+they would continue to do so through their full statutory terms re-
+gardless of what political party might be in power at the time.
+Despite this, the majority insisted in its hearing announcements
+and at the hearing itself on referring to Ms. Slaughter as a
+‘‘former’’ Commissioner, inexplicably attempting to legitimize the
+unlawful actions of a President pursuing a nakedly political agenda
+by claiming the ability to fire independent FTC commissioners at
+a whim, directly contravening established law and precedent.
+At the April 8, 2025 Committee markup of H.R. 633, Representa-
+tive Soto introduced an amendment to allow the Committee mem-
+bers to vote to address this clear law violation and reaffirm their
+Constitutional role as a co-equal branch of government by condi-
+tioning the effective date of H.R. 633 on the recognition that the
+President’s unlawful attempt to fire Commissioner Slaughter and
+her Colleague Commissioner Alvaro Bedoya without cause was con-
+trary to law and that these Commissioners were entitled to con-
+tinue to serve out their terms, ensuring transparency and legit-
+imacy for the agency tasked with enforcing the critical notice and
+takedown provisions of the bill.
+The minority also introduced several amendments to make H.R.
+633 stronger, clearer, and to address areas of the bill where insuffi-
+cient consideration was given to the possibility of loopholes and un-
+intended consequences that might threaten the good the bill aims
+to do for victims. The majority made clear, however, that it was un-
+willing to consider amendments to H.R. 633 because it intended to
+adopt the exact same version of the Take it Down Act that has al-
+ready moved through the Senate.
+The goals of H.R. 633 are laudable, but rather than rushing this
+bill through the Committee the majority should have taken more
+care to clarify and strengthen the bill and to defend the statutory
+independence of the agency that it intends to enforce the notice and
+takedown provisions of this Act, to ensure that the FTC can do its
+work without fear or favor.
+FRANK PALLONE, Jr.,
+Ranking Member.
+Æ
+VerDate Sep 11 2014 04:55 May 09, 2025 Jkt 059006 PO 00000 Frm 00019 Fmt 6604 Sfmt 6611 E:\HR\OC\HR082.XXX HR082
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba

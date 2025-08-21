@@ -1,0 +1,1077 @@
+Title: APRIL24, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: APRIL24, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 18
+Source: documents - H. Rept. 119-70
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–70
+DEPLOYING AMERICAN BLOCKCHAINS ACT OF 2025
+the Union and ordered to be printed
+Mr. GUTHRIE, from the Committee on Energy and Commerce,
+submitted the following
+R E P O R T
+[To accompany H.R. 1664]
+The Committee on Energy and Commerce, to whom was referred
+the bill (H.R. 1664) to direct the Secretary of Commerce to take ac-
+tions necessary and appropriate to promote the competitiveness of
+the United States related to the deployment, use, application, and
+competitiveness of blockchain technology or other distributed ledg-
+er technology, and for other purposes, having considered the same,
+reports favorably thereon without amendment and recommends
+that the bill do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 1
+Background and Need for Legislation .................................................................... 2
+Committee Action .................................................................................................... 5
+Committee Votes ...................................................................................................... 6
+Oversight Findings and Recommendations ........................................................... 6
+New Budget Authority, Entitlement Authority, and Tax Expenditures ............. 6
+Congressional Budget Office Estimate ................................................................... 6
+Federal Mandates Statement ................................................................................. 6
+Statement of General Performance Goals and Objectives .................................... 6
+Duplication of Federal Programs ............................................................................ 7
+Related Committee and Subcommittee Hearings ................................................. 7
+Committee Cost Estimate ....................................................................................... 7
+Earmark, Limited Tax Benefits, and Limited Tariff Benefits ............................. 8
+Advisory Committee Statement .............................................................................. 8
+Applicability to Legislative Branch ........................................................................ 8
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 9
+PURPOSE AND SUMMARY
+H.R. 1664, the Deploying American Blockchains Act of 2025, was
+introduced by Representative Cammack on February 27, 2025, and
+59–006
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+was referred to the Committee on Energy and Commerce. H.R.
+1664 would direct the Secretary of Commerce to take actions nec-
+essary and appropriate to promote the competitiveness of the
+United States related to the deployment, use, application, and com-
+petitiveness of blockchain technology or other distributed ledger
+technology, and for other purposes.
+BACKGROUND AND NEED FOR LEGISLATION
+Blockchains, a subset of distributed ledger technology, are an
+emerging general-purpose technology with many possible applica-
+tions. Through various design approaches, blockchains can be used
+to track products through a supply chain,1 give Americans in-
+creased control over their data and digital identity,2 and assist in
+the auditing of companies.3 Congress is working to promote the
+competitiveness of the United States with regard to blockchain
+technologies.
+One unique aspect of blockchains is the use of tokens. A token
+is a transferrable, digital representation of information recorded on
+blockchain technology or other distributed ledger technology. As a
+general-purpose container of information, tokens are used to rep-
+resent all types of information, including collectibles like a digital
+baseball card,4 a ticket to a live event,5 or even a state-issued driv-
+er’s license.6
+Today, many of the challenges facing the United States are dig-
+ital and technological, with the leading countries writing technical
+standards for those lagging behind. It is critical that America—not
+China—set the rules of the road for the technologies of tomorrow.
+In a March 2023 report titled ‘‘The New American Foreign Policy
+of Technology,’’ the German Marshall Fund stated that ‘‘U.S. lead-
+ership is needed to ensure that nationalist and authoritarian forces
+do not fill the resulting structural vacuum in an increasingly dig-
+ital world.’’7
+Blockchains are a central component of the Chinese Communist
+Party’s (CCP’s) strategy to undermine the U.S.-led global order. In
+remarks to the Political Bureau of the Central Committee of the
+CCP in 2019, President Xi remarked, ‘‘We must take the
+blockchain as an important breakthrough for independent innova-
+tion of core technologies.’’8 In its 14th Five-Year plan, the CCP’s
+1Vishal Gaur and Abhinav Gaiha, Building a Transparent Supply Chain, Harvard Business
+Review (June 2020), https://hbr.org/2020/05/building-a-transparent-supply-chain.
+2Gregory Rocco, Decentralized Identity and Web3, SpruceID (August 5, 2022) https://
+blog.spruceid.com/decentralized-identity-and-web3/.
+3CoinDesk, Paul Brody Discusses Fidelity Digital Assets Utilizing EY’s Blockchain Analytics
+Tool, CoinDesk (October 17, 2023), https://www.coindesk.com/video/paul-brody-discusses-fidelity-
+digital-assets-utilizing-eys-blockchain-analytics-tool/.
+4Henry Palattella, Topps to release Baseball NFT Collection, Major League Baseball (April
+26, 2022) https://www.mlb.com/news/topps-baseball-nft-collection.
+5Live Nation Entertainment, Live Nation Unveils Live Stubs Digital Collectible NFT Ticket
+Stubs, Minting First Ever Set for the Swedeish House Mafia: Paradise Again Tour, (October 29,
+2021), https://www.livenationentertainment.com/2021/10/live-nation-unveils-live-stubs-digital-
+collectible-nft-ticket-stubs-minting-first-ever-set-for-the-swedish-house-mafia-paradise-again-
+tour/.
+6Elissa Maercklein, Credible: Introducing Mobile Driver’s Licenses, SpruceID (December 8,
+2022) https://blog.spruceid.com/credible-introducing-mobile-drivers-licenses/.
+7Karen Kornbluh and Julia Trehu, The New American Foreign Policy of Technology, the Ger-
+man Marshall Fund of the United States (March 13, 2023), https://www.gmfus.org/news/new-
+american-foreign-policy-technology.
+8Brandon Stewart, China Embracing Blockchain Technology While The US Struggles With
+Libra, readBTC, October 27, 2019. https://www.readbtc.com/stories/china-embracing-blockchain-
+technology-libra-struggles.
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+Central Commission for Cybersecurity and Information makes
+clear its goal to become the global leader in the digital economy by
+
+Section 3:
+2025.9 In 2019, the CCP established the Blockchain-based Service
+Network (BSN),10 a low-cost blockchain infrastructure layer closely
+tied with the CCP’s Digital Yuan project and described as ‘‘the
+backbone of a potential new phase of the global internet.’’11 Serv-
+ices provided by BSN, such as the Interchain Communications
+Hub, Key Trust Mode, and Oracles Services, enabled the BSN to
+mediate and observe user activity on-chain.12 According to the BSN
+Introduction Whitepaper, ‘‘[a]ll matters of the BSN, including regu-
+latory design, technical standards, development and operations
+management, business models and pricing are determined by the
+BSN Development Association.’’13 The BSN Development Associa-
+tion is composed of government agencies like the State Information
+Center of China and sanctioned entities such as China Mobile
+Communications.14 The BSN Secretary General, stated that they
+were building a global blockchain network where ‘‘China controls
+the rights to internet access.’’15
+On December 19, 2023, the Ministry of Industry and Information
+Technology of the People’s Republic of China released ‘‘Reply to
+Proposal No. 02969 of the First Session of the 14th Chinese Peo-
+ple’s Political Consultive Conference (CPPCC) National Com-
+mittee.’’16 This statement outlines the Ministry’s previous work
+and future plans to ‘‘seize the opportunity to seize Web3.0.’’17 Pre-
+vious work of the Ministry includes continuously optimizing the
+policy environment, deepening technical expertise, accelerating pi-
+lots of blockchain applications in 16 characteristic fields, and pro-
+moting the establishment of a blockchain technical standards com-
+mittee.18 Future plans of the Ministry include developing a na-
+tional strategy document for blockchain development, to strengthen
+research into the core technologies that underpin blockchains, lead-
+ership in the development of international blockchain standards,
+and to improve the public’s understanding of blockchain technology
+by promoting application pilots such as distributed digital iden-
+tity.19
+9Rogier Creemers, et. Al., Translation: 14th Five-Year Plan for National Informatization,
+DigiChina, Stanford University (December 2021). https://digichina.stanford.edu/work/translation-
+14th-five-year-plan-for-national-informatization-dec-2021/.
+10Ledger Insights, China’s national blockchain infrastructure takes shape (December 2, 2019)
+https://www.ledgerinsights.com/chinas-national-blockchain-infrastructure-bsn/.
+11Mikk Raud and Eli MacKinnon, China’s Digital Current and Blockchain Network: Disparate
+Projects of Two Sides of the Same Coin?, DigiChina, Stanford University (March 8, 2022) https://
+digichina.stanford.edu/work/chinas-digital-currency-and-blockchain-network-disparate-projects-
+or-two-sides-of-the-same-coin/.
+12Blockchain-based Service Network, Blockchain-based Service Network User Manual version
+
+Section 4:
+1.8.5, (February 8, 2023) https://www.bsnbase.io/static/tmpFile/bzsc/index.html.
+13Blockchain-based Service Network Development Association, Blockchain-based Service Net-
+work Introductory White Paper (February 5, 2020), https://bsnbase.io/static/tmpFile/
+BSNIntroductionWhitepaper.pdf.
+14Supra Note 13; Executive Order 14032, Addressing the Threat From Securities Investments
+That Finance Certain Companies of the People’s Republic of China, (June 3, 2021) https://
+ofac.treasury.gov/media/99111/download?inline.
+1524 minute mark, ‘‘How Blockchain Technology and BSN Support Fintech Development,’’
+YouTube, November 4, 2020. https://www.youtube.com/watch?v=k9Gtq-j__3U.
+16Ministry of Industry and Information Technology of the People’s Republic of China, Reply
+to Proposal No. 02969 of the First Session of the 14th CPPCC National Committee (December
+12, 2023), https://www.miit.gov.cn/zwgk/jytafwgk/art/2023/art_7eba1016ef5a4d98979b0167f38e4
+b35.html.
+17Ibid.
+18Ibid.
+19Ibid.
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+The Committee on Energy and Commerce plays a vital role in
+advancing American competitiveness and global technological lead-
+ership. In March 2016, the Subcommittee on Commerce, Manufac-
+turing, and Trade held one of the first hearings on blockchains. The
+title of that hearing was ‘‘Disruptor Series: Digital Currency and
+Blockchain Technology.’’20 Other efforts followed over the years,
+which culminated in the inclusion of legislation championed by
+Rep. Brett Guthrie21 and Rep. Darren Soto22 in Former Chair
+Cathy McMorris Rodgers’ bipartisan legislation with then-Rep.
+Bobby Rush, known as the American COMPETE Act.23 That legis-
+lation became Title XV of the ‘‘Consolidated Appropriations Act,
+2021’’24 and was signed into law on December 27, 2020.
+The American COMPETE Act required the Department of Com-
+merce to study and report on emerging technologies like
+blockchain.25 The reports, completed in August 2023, included nine
+outstanding challenges and recommendations on ‘‘. . . how the
+U.S. Federal Government can ensure that the technology develops
+in the service of U.S. values.’’26 The report further described nu-
+merous applications for blockchain technology such as supply
+chains, personal data and identity management, loyalty programs,
+and fraud reduction, to name a few.27
+In September 2022, the Department of Commerce completed a
+report titled ‘‘Responsible Advancement of U.S. Competitiveness in
+Digital Assets.’’28 This report noted ‘‘[o]utside of explicit financial
+use cases, the ability to tokenize many different types of assets
+could lead to a world in which many physical assets (i.e. objects)
+have a digital counterpart, thus opening the door to numerous use
+cases for tracking and recording actions on those assets.’’29 The re-
+port states that ‘‘U.S. competitiveness in this space . . . could be
+important to continued U.S. economic leadership.’’30
+These two blockchain reports from the Department of Commerce
+underline the agency’s mission:
+The Department of Commerce’s mission is to create the con-
+ditions for economic growth and opportunity for all commu-
+nities. Through its 13 bureaus, the Department works to drive
+U.S. economic competitiveness, strengthen domestic industry,
+and spur the growth of quality jobs in all communities across
+the country. The Department serves as the voice of business in
+20Committee on Energy and Commerce, Disrupter Series: Digital Currency and Blockchain
+Technology, (March 16, 2016), https://docs.house.gov/Committee/Calendar/
+ByEvent.aspx?EventID=104677.
+21H.R. 6938, Advancing Block Chain Act (116th Congress), https://www.congress.gov/bill/
+116th-congress/house-bill/6938?q=%7B%22search%22%3A%5B%22%22%5D%7D&s=1&r=5.
+22H.R. 8153 Blockchain Innovation Act (116th Congress), https://www.congress.gov/bill/116th-
+congress/house-bill/8153/text?s=2&r=5&q=%7B%22search%22%3A%5B%22%22%5D%7D.
+23H.R. 8132, American Competitiveness of a More Productive Emerging Tech Economy Act
+(116th Congress), https://www.congress.gov/bill/116th-congress/house-bill/8132?q=%7B%22search
+%22%3A%5B%22%22%5D%7D&s=3&r=3.
+24Consolidated Appropriations Act, 2021, Public Law 116–260 (Dec. 27, 2020), https://
+www.congress.gov/116/plaws/publ260/PLAW-116publ260.pdf.
+25Ibid.
+26National Institute of Standards and Technology, American Competitiveness of a More Pro-
+ductive Emerging Tech Economy Act (The American COMPETE Act) (July 2023) (NIST GCR 23–
+039).
+27Ibid.
+28U.S. Department of Commerce, Responsible Advancement of U.S. Competitiveness in Digital
+Assets (September 1, 2022), https://www.commerce.gov/sites/default/files/2022-09/Digital-Asset-
+Competitiveness-Report.pdf
+29Ibid, 2.
+30Ibid, 2.
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+5
+the Federal Government, and at the same time, the Depart-
+ment touches and serves every American every day.31
+Building on its mission statement, the Department of Com-
+merce’s 2022–2026 Strategic Plan includes Strategic Objective 1.2,
+‘‘Accelerate the development, commercialization, and deployment of
+critical and emerging technologies.’’32 The objective states that
+‘‘[t]o maintain its global leadership, the Nation must innovate more
+and innovate faster than the rest of the world’’ and that ‘‘[t]he De-
+partment will also work closely with industry to create the nec-
+essary conditions for innovation in the public and private sec-
+tors.’’33
+The U.S. should develop policies that support the competitive-
+ness of the United States with regard to blockchain technology to
+ensure China does not control the world’s rights to access the inter-
+net. Despite the dominance of Silicon Valley during the early days
+of the internet, recent reports show that the United States is losing
+market share amongst blockchain developers.34 Meaningful support
+for American technological leadership depends on open dialogue
+and collaboration among the Federal government, industry, aca-
+demia, civil society, and other engaged stakeholders. The mission
+of the Department of Commerce is to promote American leadership
+and global competitiveness, making it the federal agency best posi-
+tioned agency to promote the growth, development, and deployment
+of blockchains, applications built on blockchains, and tokens.
+H.R. 1664, the Deploying American Blockchains Act ensures that
+the Department of Commerce is taking actions necessary and ap-
+propriate to promote the competitiveness of the United States re-
+lated to blockchain technologies. It is best to take such actions now
+with our values driving the process, rather than allowing our ad-
+versaries to set the rules of the road. Congress can ensure we lead
+the next era of American innovation and entrepreneurship with a
+regulatory environment that keeps pace with the constantly evolv-
+ing tech sector.
+COMMITTEE ACTION
+On June 7, 2023, the Subcommittee on Innovation, Data, and
+Commerce held a hearing on blockchains. The title of the hearing
+was ‘‘Building Blockchains: Exploring Web3 and Other Applications
+for Distributed Ledger Technologies.’’ Witness testimony focused on
+the ways blockchains and other distributed ledger technologies are
+a general-purpose technology with a wide array of commercial ap-
+plications. The Subcommittee received testimony from:
+• Carla L. Reyes, Associate Professor of Law, SMU Dedman
+School of Law;
+• Hasshi Sudler, Professor and Chief Executive Officer,
+Villanova University College of Engineering and Internet
+Think Tank, Inc.;
+• Ryan Wyatt, President, Polygon Labs; and
+31U.S. Department of Commerce, About Commerce, https://www.commerce.gov/about.
+32U.S. Department of Commerce, Strategic Plan 2022–2026, https://www.commerce.gov/sites/
+default/files/2022-03/DOC-Strategic-Plan-2022%E2%80%932026.pdf.
+33Ibid.
+34Electric Capital, Developer Report (October 1, 2023), https://www.developerreport.com/
+developer-report-geography.
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+6
+• Ross Schulman, Senior Fellow, Decentralization, Electronic
+Frontier Foundation.
+On September 20, 2023, the Subcommittee on Innovation, Data,
+and Commerce held a hearing on multiple bills, including draft text
+of the bill ‘‘To establish a supply chain resiliency and crisis re-
+sponse program in the Department of Commerce, and for other
+purposes.’’ The title of the hearing was ‘‘Mapping America’s Supply
+Chains: Solutions to Unleash Innovation, Boost Economic Resil-
+ience, and Beat China.’’ The Subcommittee received testimony
+from:
+• Chris Griswold, Policy Director, American Compass;
+• Deena Ghazarian, Founder and Chief Executive Officer,
+Austere;
+• Justin Slaughter, Policy Director, Paradigm; and
+• Scott Paul, President, Alliance for American Manufac-
+turing.
+On April 8, 2025, the full Committee on Energy and Commerce
+met in open markup session and ordered H.R. 1664, without
+amendment, favorably reported to the House by a voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the re-
+corded votes on the motion to report legislation and amendments
+thereto. There were no record votes taken in connection with order-
+ing H.R. 1664 reported.
+OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Pursuant to clause 2(b)(1) of rule X and clause 3(c)(1) of rule
+XIII, the Committee held hearings and made findings that are re-
+flected in this report.
+NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY,
+AND TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII, the Committee finds that
+H.R. 1664 would result in no new or increased budget authority,
+entitlement authority, or tax expenditures or revenues.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE
+Pursuant to clause 3(c)(3) of rule XIII, at the time this report
+was filed, the cost estimate prepared by the Director of the Con-
+gressional Budget Office pursuant to section 402 of the Congres-
+sional Budget Act of 1974 was not available.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the general performance
+goal or objective of this legislation is to direct the Secretary of
+Commerce to take actions necessary and appropriate to promote
+the competitiveness of the United States related to the deployment,
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+7
+use, application, and competitiveness of blockchains technology or
+other distributed ledger technology.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII, no provision of H.R. 1664
+is known to be duplicative of another Federal program, including
+any program that was included in a report to Congress pursuant
+to section 21 of Public Law 111–139 or the most recent Catalog of
+Federal Domestic Assistance.
+RELATED COMMITTEE AND SUBCOMMITTEE HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII, the following related hear-
+ings were used to develop or consider H.R. 1664:
+• On February 1, 2023, the Subcommittee on Innovation,
+Data, and Commerce held a hearing entitled ‘‘Economic Dan-
+ger Zone: How America Competes to Win the Future Versus
+China.’’ The Subcommittee received testimony from:
+» Brandon Pugh, Policy and Resident Senior Fellow, R
+Street Institute;
+» Jeff Farrah, Executive Director, Autonomous Vehicle
+Industry Association;
+» Samm Sacks, Cyber Policy Fellow, International Secu-
+rity Program, New America; and
+» Marc Jarsulic, Senior Fellow and Chief Economist,
+Center for American Progress.
+• On June 7, 2023, the Subcommittee on Innovation, Data,
+and Commerce held a hearing titled ‘‘Building Blockchains: Ex-
+ploring Web3 and Other applications for Distributed Ledger
+Technologies.’’ The Subcommittee received testimony from:
+» Carla L. Reyes, Associate Professor of Law, SMU
+Dedman School of Law;
+» Hasshi Sudler, Professor and Chief Executive Officer,
+Villanova University College of Engineering and Internet
+Think Tank, Inc.;
+» Ryan Wyatt, President, Polygon Labs; and
+» Ross Schulman, Senior Fellow, Decentralization, Elec-
+tronic Frontier Foundation.
+• On September 20, 2023, the Subcommittee on Innovation,
+Data, and Commerce held a hearing titled ‘‘Mapping America’s
+Supply Chains: Solutions to Unleash Innovation, Boost Eco-
+nomic Resilience, and Beat China.’’ The Subcommittee received
+testimony from:
+» Chris Griswold, Policy Director, American Compass;
+» Deena Ghazarian, Founder and Chief Executive Offi-
+cer, Austere;
+» Justin Slaughter, Policy Director, Paradigm; and
+» Scott Paul, President, Alliance for American Manufac-
+turing.
+COMMITTEE COST ESTIMATE
+Pursuant to clause 3(d)(1) of rule XIII, the Committee adopts as
+its own the cost estimate prepared by the Director of the Congres-
+sional Budget Office pursuant to section 402 of the Congressional
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+8
+Budget Act of 1974. At the time this report was filed, the estimate
+was not available.
+EARMARK, LIMITED TAX BENEFITS, AND LIMITED TARIFF BENEFITS
+Pursuant to clause 9(e), 9(f), and 9(g) of rule XXI, the Committee
+finds that H.R. 1664 contains no earmarks, limited tax benefits, or
+limited tariff benefits.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+
+Section 5:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 6:
+Section 1. Short title
+
+Section 7:
+Section 1 provides that the Act may be cited as the ‘‘Deploying
+American Blockchains Act of 2025’’.
+
+Section 8:
+Section 2. Definitions
+
+Section 9:
+Section 2 defines key terms throughout the legislation.
+
+Section 10:
+Section 3. Department of Commerce leadership on blockchain
+
+Section 11:
+Section 3 designates the Secretary of Commerce to serve as a
+principal advisor to the President pertaining to the deployment,
+use, application and competitiveness of blockchain technology or
+other distributed ledger technology, applications built on
+blockchain technology or other distributed ledger technology, to-
+kens, or tokenization.
+
+Section 12:
+Section 3 states that the Secretary shall support the leadership
+of the United States with respect to the deployment, use, applica-
+tion, and competitiveness of blockchain technology, other distrib-
+uted ledger technology, applications built on blockchain technology
+or other distributed ledger technology, tokens, or tokenization.
+Such activities shall include the establishment of a ‘‘Blockchain De-
+ployment Program’’ at the Department of Commerce and an advi-
+sory committee to support the deployment, use, application, and
+competitiveness of blockchains technology or other distributed ledg-
+er technology, applications built on blockchain technology or other
+distributed ledger technology, tokens, and tokenization.
+
+Section 13:
+Section 3 states that the Secretary shall, on an ongoing basis, fa-
+cilitate and support the development of a compendium of identified
+or recommended guidelines or best practices for the deployment of
+blockchain technology or other distributed ledger technology, appli-
+cations built on blockchain technology or other distributed ledger
+technology, tokens, and tokenization. Such best practices shall be
+designed to support interoperability, reduce cybersecurity risk, sup-
+port operations, and quantify the value and potential cost savings
+associated with adoption.
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+9
+
+Section 14:
+Section 3 states that, in carrying out the section, the Secretary
+shall consult regularly with stakeholders, collaborate with private-
+sector stakeholder to identify approaches to the deployment of
+blockchains, make public research and information on the use of
+blockchains, develop standardized terminology, develop best prac-
+tices which ease the use of blockchains, support open-source infra-
+structure, and consider the needs of both the public and private
+sector.
+
+Section 15:
+Section 3 states that nothing in the section may be construed to
+require a private entity to share information with, request assist-
+ance from, implement any measure or recommendation suggested
+by, or adopt the best practices developed by, the Secretary of Com-
+merce.
+
+Section 16:
+Section 3 states that in implementing the section, the Secretary
+of Commerce may consult with the heads of relevant Federal agen-
+cies. The Blockchain Deployment Program established in Section 3
+shall terminate on the date that is 7 years after the date of the en-
+actment of this Act.
+
+Section 17:
+Section 4. Report to Congress
+
+Section 18:
+Section 4 states that not later than 2 years after the date of the
+enactment of this Act, and annually thereafter, the Secretary of
+Commerce shall make publicly available and submit to the Com-
+mittee on Energy and Commerce of the House of Representatives
+and the Committee on Commerce, Science, and Transportation of
+the Senate a report on the activities of the Secretary under this Act
+for the previous year, any recommendation for additional legisla-
+tion to strengthen American competitiveness with respect to
+blockchains, and a description of any emerging risks and long term
+trends with respect to blockchains.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+This legislation does not amend any existing Federal statute.
+Æ
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6611 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–70
+DEPLOYING AMERICAN BLOCKCHAINS ACT OF 2025
+APRIL24, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. GUTHRIE, from the Committee on Energy and Commerce,
+submitted the following
+R E P O R T
+[To accompany H.R. 1664]
+The Committee on Energy and Commerce, to whom was referred
+the bill (H.R. 1664) to direct the Secretary of Commerce to take ac-
+tions necessary and appropriate to promote the competitiveness of
+the United States related to the deployment, use, application, and
+competitiveness of blockchain technology or other distributed ledg-
+er technology, and for other purposes, having considered the same,
+reports favorably thereon without amendment and recommends
+that the bill do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 1
+Background and Need for Legislation .................................................................... 2
+Committee Action .................................................................................................... 5
+Committee Votes ...................................................................................................... 6
+Oversight Findings and Recommendations ........................................................... 6
+New Budget Authority, Entitlement Authority, and Tax Expenditures ............. 6
+Congressional Budget Office Estimate ................................................................... 6
+Federal Mandates Statement ................................................................................. 6
+Statement of General Performance Goals and Objectives .................................... 6
+Duplication of Federal Programs ............................................................................ 7
+Related Committee and Subcommittee Hearings ................................................. 7
+Committee Cost Estimate ....................................................................................... 7
+Earmark, Limited Tax Benefits, and Limited Tariff Benefits ............................. 8
+Advisory Committee Statement .............................................................................. 8
+Applicability to Legislative Branch ........................................................................ 8
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 9
+PURPOSE AND SUMMARY
+H.R. 1664, the Deploying American Blockchains Act of 2025, was
+introduced by Representative Cammack on February 27, 2025, and
+59–006
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+was referred to the Committee on Energy and Commerce. H.R.
+1664 would direct the Secretary of Commerce to take actions nec-
+essary and appropriate to promote the competitiveness of the
+United States related to the deployment, use, application, and com-
+petitiveness of blockchain technology or other distributed ledger
+technology, and for other purposes.
+BACKGROUND AND NEED FOR LEGISLATION
+Blockchains, a subset of distributed ledger technology, are an
+emerging general-purpose technology with many possible applica-
+tions. Through various design approaches, blockchains can be used
+to track products through a supply chain,1 give Americans in-
+creased control over their data and digital identity,2 and assist in
+the auditing of companies.3 Congress is working to promote the
+competitiveness of the United States with regard to blockchain
+technologies.
+One unique aspect of blockchains is the use of tokens. A token
+is a transferrable, digital representation of information recorded on
+blockchain technology or other distributed ledger technology. As a
+general-purpose container of information, tokens are used to rep-
+resent all types of information, including collectibles like a digital
+baseball card,4 a ticket to a live event,5 or even a state-issued driv-
+er’s license.6
+Today, many of the challenges facing the United States are dig-
+ital and technological, with the leading countries writing technical
+standards for those lagging behind. It is critical that America—not
+China—set the rules of the road for the technologies of tomorrow.
+In a March 2023 report titled ‘‘The New American Foreign Policy
+of Technology,’’ the German Marshall Fund stated that ‘‘U.S. lead-
+ership is needed to ensure that nationalist and authoritarian forces
+do not fill the resulting structural vacuum in an increasingly dig-
+ital world.’’7
+Blockchains are a central component of the Chinese Communist
+Party’s (CCP’s) strategy to undermine the U.S.-led global order. In
+remarks to the Political Bureau of the Central Committee of the
+CCP in 2019, President Xi remarked, ‘‘We must take the
+blockchain as an important breakthrough for independent innova-
+tion of core technologies.’’8 In its 14th Five-Year plan, the CCP’s
+1Vishal Gaur and Abhinav Gaiha, Building a Transparent Supply Chain, Harvard Business
+Review (June 2020), https://hbr.org/2020/05/building-a-transparent-supply-chain.
+2Gregory Rocco, Decentralized Identity and Web3, SpruceID (August 5, 2022) https://
+blog.spruceid.com/decentralized-identity-and-web3/.
+3CoinDesk, Paul Brody Discusses Fidelity Digital Assets Utilizing EY’s Blockchain Analytics
+Tool, CoinDesk (October 17, 2023), https://www.coindesk.com/video/paul-brody-discusses-fidelity-
+digital-assets-utilizing-eys-blockchain-analytics-tool/.
+4Henry Palattella, Topps to release Baseball NFT Collection, Major League Baseball (April
+26, 2022) https://www.mlb.com/news/topps-baseball-nft-collection.
+5Live Nation Entertainment, Live Nation Unveils Live Stubs Digital Collectible NFT Ticket
+Stubs, Minting First Ever Set for the Swedeish House Mafia: Paradise Again Tour, (October 29,
+2021), https://www.livenationentertainment.com/2021/10/live-nation-unveils-live-stubs-digital-
+collectible-nft-ticket-stubs-minting-first-ever-set-for-the-swedish-house-mafia-paradise-again-
+tour/.
+6Elissa Maercklein, Credible: Introducing Mobile Driver’s Licenses, SpruceID (December 8,
+2022) https://blog.spruceid.com/credible-introducing-mobile-drivers-licenses/.
+7Karen Kornbluh and Julia Trehu, The New American Foreign Policy of Technology, the Ger-
+man Marshall Fund of the United States (March 13, 2023), https://www.gmfus.org/news/new-
+american-foreign-policy-technology.
+8Brandon Stewart, China Embracing Blockchain Technology While The US Struggles With
+Libra, readBTC, October 27, 2019. https://www.readbtc.com/stories/china-embracing-blockchain-
+technology-libra-struggles.
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+Central Commission for Cybersecurity and Information makes
+clear its goal to become the global leader in the digital economy by
+2025.9 In 2019, the CCP established the Blockchain-based Service
+Network (BSN),10 a low-cost blockchain infrastructure layer closely
+tied with the CCP’s Digital Yuan project and described as ‘‘the
+backbone of a potential new phase of the global internet.’’11 Serv-
+ices provided by BSN, such as the Interchain Communications
+Hub, Key Trust Mode, and Oracles Services, enabled the BSN to
+mediate and observe user activity on-chain.12 According to the BSN
+Introduction Whitepaper, ‘‘[a]ll matters of the BSN, including regu-
+latory design, technical standards, development and operations
+management, business models and pricing are determined by the
+BSN Development Association.’’13 The BSN Development Associa-
+tion is composed of government agencies like the State Information
+Center of China and sanctioned entities such as China Mobile
+Communications.14 The BSN Secretary General, stated that they
+were building a global blockchain network where ‘‘China controls
+the rights to internet access.’’15
+On December 19, 2023, the Ministry of Industry and Information
+Technology of the People’s Republic of China released ‘‘Reply to
+Proposal No. 02969 of the First Session of the 14th Chinese Peo-
+ple’s Political Consultive Conference (CPPCC) National Com-
+mittee.’’16 This statement outlines the Ministry’s previous work
+and future plans to ‘‘seize the opportunity to seize Web3.0.’’17 Pre-
+vious work of the Ministry includes continuously optimizing the
+policy environment, deepening technical expertise, accelerating pi-
+lots of blockchain applications in 16 characteristic fields, and pro-
+moting the establishment of a blockchain technical standards com-
+mittee.18 Future plans of the Ministry include developing a na-
+tional strategy document for blockchain development, to strengthen
+research into the core technologies that underpin blockchains, lead-
+ership in the development of international blockchain standards,
+and to improve the public’s understanding of blockchain technology
+by promoting application pilots such as distributed digital iden-
+tity.19
+9Rogier Creemers, et. Al., Translation: 14th Five-Year Plan for National Informatization,
+DigiChina, Stanford University (December 2021). https://digichina.stanford.edu/work/translation-
+14th-five-year-plan-for-national-informatization-dec-2021/.
+10Ledger Insights, China’s national blockchain infrastructure takes shape (December 2, 2019)
+https://www.ledgerinsights.com/chinas-national-blockchain-infrastructure-bsn/.
+11Mikk Raud and Eli MacKinnon, China’s Digital Current and Blockchain Network: Disparate
+Projects of Two Sides of the Same Coin?, DigiChina, Stanford University (March 8, 2022) https://
+digichina.stanford.edu/work/chinas-digital-currency-and-blockchain-network-disparate-projects-
+or-two-sides-of-the-same-coin/.
+12Blockchain-based Service Network, Blockchain-based Service Network User Manual version
+1.8.5, (February 8, 2023) https://www.bsnbase.io/static/tmpFile/bzsc/index.html.
+13Blockchain-based Service Network Development Association, Blockchain-based Service Net-
+work Introductory White Paper (February 5, 2020), https://bsnbase.io/static/tmpFile/
+BSNIntroductionWhitepaper.pdf.
+14Supra Note 13; Executive Order 14032, Addressing the Threat From Securities Investments
+That Finance Certain Companies of the People’s Republic of China, (June 3, 2021) https://
+ofac.treasury.gov/media/99111/download?inline.
+1524 minute mark, ‘‘How Blockchain Technology and BSN Support Fintech Development,’’
+YouTube, November 4, 2020. https://www.youtube.com/watch?v=k9Gtq-j__3U.
+16Ministry of Industry and Information Technology of the People’s Republic of China, Reply
+to Proposal No. 02969 of the First Session of the 14th CPPCC National Committee (December
+12, 2023), https://www.miit.gov.cn/zwgk/jytafwgk/art/2023/art_7eba1016ef5a4d98979b0167f38e4
+b35.html.
+17Ibid.
+18Ibid.
+19Ibid.
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+The Committee on Energy and Commerce plays a vital role in
+advancing American competitiveness and global technological lead-
+ership. In March 2016, the Subcommittee on Commerce, Manufac-
+turing, and Trade held one of the first hearings on blockchains. The
+title of that hearing was ‘‘Disruptor Series: Digital Currency and
+Blockchain Technology.’’20 Other efforts followed over the years,
+which culminated in the inclusion of legislation championed by
+Rep. Brett Guthrie21 and Rep. Darren Soto22 in Former Chair
+Cathy McMorris Rodgers’ bipartisan legislation with then-Rep.
+Bobby Rush, known as the American COMPETE Act.23 That legis-
+lation became Title XV of the ‘‘Consolidated Appropriations Act,
+2021’’24 and was signed into law on December 27, 2020.
+The American COMPETE Act required the Department of Com-
+merce to study and report on emerging technologies like
+blockchain.25 The reports, completed in August 2023, included nine
+outstanding challenges and recommendations on ‘‘. . . how the
+U.S. Federal Government can ensure that the technology develops
+in the service of U.S. values.’’26 The report further described nu-
+merous applications for blockchain technology such as supply
+chains, personal data and identity management, loyalty programs,
+and fraud reduction, to name a few.27
+In September 2022, the Department of Commerce completed a
+report titled ‘‘Responsible Advancement of U.S. Competitiveness in
+Digital Assets.’’28 This report noted ‘‘[o]utside of explicit financial
+use cases, the ability to tokenize many different types of assets
+could lead to a world in which many physical assets (i.e. objects)
+have a digital counterpart, thus opening the door to numerous use
+cases for tracking and recording actions on those assets.’’29 The re-
+port states that ‘‘U.S. competitiveness in this space . . . could be
+important to continued U.S. economic leadership.’’30
+These two blockchain reports from the Department of Commerce
+underline the agency’s mission:
+The Department of Commerce’s mission is to create the con-
+ditions for economic growth and opportunity for all commu-
+nities. Through its 13 bureaus, the Department works to drive
+U.S. economic competitiveness, strengthen domestic industry,
+and spur the growth of quality jobs in all communities across
+the country. The Department serves as the voice of business in
+20Committee on Energy and Commerce, Disrupter Series: Digital Currency and Blockchain
+Technology, (March 16, 2016), https://docs.house.gov/Committee/Calendar/
+ByEvent.aspx?EventID=104677.
+21H.R. 6938, Advancing Block Chain Act (116th Congress), https://www.congress.gov/bill/
+116th-congress/house-bill/6938?q=%7B%22search%22%3A%5B%22%22%5D%7D&s=1&r=5.
+22H.R. 8153 Blockchain Innovation Act (116th Congress), https://www.congress.gov/bill/116th-
+congress/house-bill/8153/text?s=2&r=5&q=%7B%22search%22%3A%5B%22%22%5D%7D.
+23H.R. 8132, American Competitiveness of a More Productive Emerging Tech Economy Act
+(116th Congress), https://www.congress.gov/bill/116th-congress/house-bill/8132?q=%7B%22search
+%22%3A%5B%22%22%5D%7D&s=3&r=3.
+24Consolidated Appropriations Act, 2021, Public Law 116–260 (Dec. 27, 2020), https://
+www.congress.gov/116/plaws/publ260/PLAW-116publ260.pdf.
+25Ibid.
+26National Institute of Standards and Technology, American Competitiveness of a More Pro-
+ductive Emerging Tech Economy Act (The American COMPETE Act) (July 2023) (NIST GCR 23–
+039).
+27Ibid.
+28U.S. Department of Commerce, Responsible Advancement of U.S. Competitiveness in Digital
+Assets (September 1, 2022), https://www.commerce.gov/sites/default/files/2022-09/Digital-Asset-
+Competitiveness-Report.pdf
+29Ibid, 2.
+30Ibid, 2.
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+5
+the Federal Government, and at the same time, the Depart-
+ment touches and serves every American every day.31
+Building on its mission statement, the Department of Com-
+merce’s 2022–2026 Strategic Plan includes Strategic Objective 1.2,
+‘‘Accelerate the development, commercialization, and deployment of
+critical and emerging technologies.’’32 The objective states that
+‘‘[t]o maintain its global leadership, the Nation must innovate more
+and innovate faster than the rest of the world’’ and that ‘‘[t]he De-
+partment will also work closely with industry to create the nec-
+essary conditions for innovation in the public and private sec-
+tors.’’33
+The U.S. should develop policies that support the competitive-
+ness of the United States with regard to blockchain technology to
+ensure China does not control the world’s rights to access the inter-
+net. Despite the dominance of Silicon Valley during the early days
+of the internet, recent reports show that the United States is losing
+market share amongst blockchain developers.34 Meaningful support
+for American technological leadership depends on open dialogue
+and collaboration among the Federal government, industry, aca-
+demia, civil society, and other engaged stakeholders. The mission
+of the Department of Commerce is to promote American leadership
+and global competitiveness, making it the federal agency best posi-
+tioned agency to promote the growth, development, and deployment
+of blockchains, applications built on blockchains, and tokens.
+H.R. 1664, the Deploying American Blockchains Act ensures that
+the Department of Commerce is taking actions necessary and ap-
+propriate to promote the competitiveness of the United States re-
+lated to blockchain technologies. It is best to take such actions now
+with our values driving the process, rather than allowing our ad-
+versaries to set the rules of the road. Congress can ensure we lead
+the next era of American innovation and entrepreneurship with a
+regulatory environment that keeps pace with the constantly evolv-
+ing tech sector.
+COMMITTEE ACTION
+On June 7, 2023, the Subcommittee on Innovation, Data, and
+Commerce held a hearing on blockchains. The title of the hearing
+was ‘‘Building Blockchains: Exploring Web3 and Other Applications
+for Distributed Ledger Technologies.’’ Witness testimony focused on
+the ways blockchains and other distributed ledger technologies are
+a general-purpose technology with a wide array of commercial ap-
+plications. The Subcommittee received testimony from:
+• Carla L. Reyes, Associate Professor of Law, SMU Dedman
+School of Law;
+• Hasshi Sudler, Professor and Chief Executive Officer,
+Villanova University College of Engineering and Internet
+Think Tank, Inc.;
+• Ryan Wyatt, President, Polygon Labs; and
+31U.S. Department of Commerce, About Commerce, https://www.commerce.gov/about.
+32U.S. Department of Commerce, Strategic Plan 2022–2026, https://www.commerce.gov/sites/
+default/files/2022-03/DOC-Strategic-Plan-2022%E2%80%932026.pdf.
+33Ibid.
+34Electric Capital, Developer Report (October 1, 2023), https://www.developerreport.com/
+developer-report-geography.
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+6
+• Ross Schulman, Senior Fellow, Decentralization, Electronic
+Frontier Foundation.
+On September 20, 2023, the Subcommittee on Innovation, Data,
+and Commerce held a hearing on multiple bills, including draft text
+of the bill ‘‘To establish a supply chain resiliency and crisis re-
+sponse program in the Department of Commerce, and for other
+purposes.’’ The title of the hearing was ‘‘Mapping America’s Supply
+Chains: Solutions to Unleash Innovation, Boost Economic Resil-
+ience, and Beat China.’’ The Subcommittee received testimony
+from:
+• Chris Griswold, Policy Director, American Compass;
+• Deena Ghazarian, Founder and Chief Executive Officer,
+Austere;
+• Justin Slaughter, Policy Director, Paradigm; and
+• Scott Paul, President, Alliance for American Manufac-
+turing.
+On April 8, 2025, the full Committee on Energy and Commerce
+met in open markup session and ordered H.R. 1664, without
+amendment, favorably reported to the House by a voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the re-
+corded votes on the motion to report legislation and amendments
+thereto. There were no record votes taken in connection with order-
+ing H.R. 1664 reported.
+OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Pursuant to clause 2(b)(1) of rule X and clause 3(c)(1) of rule
+XIII, the Committee held hearings and made findings that are re-
+flected in this report.
+NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY,
+AND TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII, the Committee finds that
+H.R. 1664 would result in no new or increased budget authority,
+entitlement authority, or tax expenditures or revenues.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE
+Pursuant to clause 3(c)(3) of rule XIII, at the time this report
+was filed, the cost estimate prepared by the Director of the Con-
+gressional Budget Office pursuant to section 402 of the Congres-
+sional Budget Act of 1974 was not available.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the general performance
+goal or objective of this legislation is to direct the Secretary of
+Commerce to take actions necessary and appropriate to promote
+the competitiveness of the United States related to the deployment,
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+7
+use, application, and competitiveness of blockchains technology or
+other distributed ledger technology.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII, no provision of H.R. 1664
+is known to be duplicative of another Federal program, including
+any program that was included in a report to Congress pursuant
+to section 21 of Public Law 111–139 or the most recent Catalog of
+Federal Domestic Assistance.
+RELATED COMMITTEE AND SUBCOMMITTEE HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII, the following related hear-
+ings were used to develop or consider H.R. 1664:
+• On February 1, 2023, the Subcommittee on Innovation,
+Data, and Commerce held a hearing entitled ‘‘Economic Dan-
+ger Zone: How America Competes to Win the Future Versus
+China.’’ The Subcommittee received testimony from:
+» Brandon Pugh, Policy and Resident Senior Fellow, R
+Street Institute;
+» Jeff Farrah, Executive Director, Autonomous Vehicle
+Industry Association;
+» Samm Sacks, Cyber Policy Fellow, International Secu-
+rity Program, New America; and
+» Marc Jarsulic, Senior Fellow and Chief Economist,
+Center for American Progress.
+• On June 7, 2023, the Subcommittee on Innovation, Data,
+and Commerce held a hearing titled ‘‘Building Blockchains: Ex-
+ploring Web3 and Other applications for Distributed Ledger
+Technologies.’’ The Subcommittee received testimony from:
+» Carla L. Reyes, Associate Professor of Law, SMU
+Dedman School of Law;
+» Hasshi Sudler, Professor and Chief Executive Officer,
+Villanova University College of Engineering and Internet
+Think Tank, Inc.;
+» Ryan Wyatt, President, Polygon Labs; and
+» Ross Schulman, Senior Fellow, Decentralization, Elec-
+tronic Frontier Foundation.
+• On September 20, 2023, the Subcommittee on Innovation,
+Data, and Commerce held a hearing titled ‘‘Mapping America’s
+Supply Chains: Solutions to Unleash Innovation, Boost Eco-
+nomic Resilience, and Beat China.’’ The Subcommittee received
+testimony from:
+» Chris Griswold, Policy Director, American Compass;
+» Deena Ghazarian, Founder and Chief Executive Offi-
+cer, Austere;
+» Justin Slaughter, Policy Director, Paradigm; and
+» Scott Paul, President, Alliance for American Manufac-
+turing.
+COMMITTEE COST ESTIMATE
+Pursuant to clause 3(d)(1) of rule XIII, the Committee adopts as
+its own the cost estimate prepared by the Director of the Congres-
+sional Budget Office pursuant to section 402 of the Congressional
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+8
+Budget Act of 1974. At the time this report was filed, the estimate
+was not available.
+EARMARK, LIMITED TAX BENEFITS, AND LIMITED TARIFF BENEFITS
+Pursuant to clause 9(e), 9(f), and 9(g) of rule XXI, the Committee
+finds that H.R. 1664 contains no earmarks, limited tax benefits, or
+limited tariff benefits.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+Section 1 provides that the Act may be cited as the ‘‘Deploying
+American Blockchains Act of 2025’’.
+Section 2. Definitions
+Section 2 defines key terms throughout the legislation.
+Section 3. Department of Commerce leadership on blockchain
+Section 3 designates the Secretary of Commerce to serve as a
+principal advisor to the President pertaining to the deployment,
+use, application and competitiveness of blockchain technology or
+other distributed ledger technology, applications built on
+blockchain technology or other distributed ledger technology, to-
+kens, or tokenization.
+Section 3 states that the Secretary shall support the leadership
+of the United States with respect to the deployment, use, applica-
+tion, and competitiveness of blockchain technology, other distrib-
+uted ledger technology, applications built on blockchain technology
+or other distributed ledger technology, tokens, or tokenization.
+Such activities shall include the establishment of a ‘‘Blockchain De-
+ployment Program’’ at the Department of Commerce and an advi-
+sory committee to support the deployment, use, application, and
+competitiveness of blockchains technology or other distributed ledg-
+er technology, applications built on blockchain technology or other
+distributed ledger technology, tokens, and tokenization.
+Section 3 states that the Secretary shall, on an ongoing basis, fa-
+cilitate and support the development of a compendium of identified
+or recommended guidelines or best practices for the deployment of
+blockchain technology or other distributed ledger technology, appli-
+cations built on blockchain technology or other distributed ledger
+technology, tokens, and tokenization. Such best practices shall be
+designed to support interoperability, reduce cybersecurity risk, sup-
+port operations, and quantify the value and potential cost savings
+associated with adoption.
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+9
+Section 3 states that, in carrying out the section, the Secretary
+shall consult regularly with stakeholders, collaborate with private-
+sector stakeholder to identify approaches to the deployment of
+blockchains, make public research and information on the use of
+blockchains, develop standardized terminology, develop best prac-
+tices which ease the use of blockchains, support open-source infra-
+structure, and consider the needs of both the public and private
+sector.
+Section 3 states that nothing in the section may be construed to
+require a private entity to share information with, request assist-
+ance from, implement any measure or recommendation suggested
+by, or adopt the best practices developed by, the Secretary of Com-
+merce.
+Section 3 states that in implementing the section, the Secretary
+of Commerce may consult with the heads of relevant Federal agen-
+cies. The Blockchain Deployment Program established in Section 3
+shall terminate on the date that is 7 years after the date of the en-
+actment of this Act.
+Section 4. Report to Congress
+Section 4 states that not later than 2 years after the date of the
+enactment of this Act, and annually thereafter, the Secretary of
+Commerce shall make publicly available and submit to the Com-
+mittee on Energy and Commerce of the House of Representatives
+and the Committee on Commerce, Science, and Transportation of
+the Senate a report on the activities of the Secretary under this Act
+for the previous year, any recommendation for additional legisla-
+tion to strengthen American competitiveness with respect to
+blockchains, and a description of any emerging risks and long term
+trends with respect to blockchains.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+This legislation does not amend any existing Federal statute.
+Æ
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6611 E:\HR\OC\HR070.XXX HR070
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

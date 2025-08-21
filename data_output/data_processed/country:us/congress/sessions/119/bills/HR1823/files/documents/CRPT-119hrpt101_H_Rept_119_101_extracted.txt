@@ -1,0 +1,1358 @@
+Title: MAY17, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: MAY17, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 27
+Source: documents - H. Rept. 119-101
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–101
+VA BUDGET SHORTFALL ACCOUNTABILITY ACT
+the Union and ordered to be printed
+Mr. BOST, from the Committee on Veterans’ Affairs,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 1823]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Veterans’ Affairs, to whom was referred the
+bill (H.R. 1823) to direct the Secretary of Veterans Affairs and the
+Comptroller General of the United States to report on certain fund-
+ing shortfalls in the Department of Veterans Affairs, having consid-
+ered the same, reports favorably thereon with an amendment and
+recommends that the bill as amended do pass.
+CONTENTS
+Page
+Amendment .............................................................................................................. 2
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 3
+Hearings ................................................................................................................... 4
+Subcommittee Consideration .................................................................................. 4
+Committee Consideration ........................................................................................ 5
+Committee Votes ...................................................................................................... 6
+Committee Correspondence
+Committee Oversight Findings ............................................................................... 13
+Statement of General Performance Goals and Objectives .................................... 13
+Earmarks and Tax and Tariff Benefits .................................................................. 13
+Committee Cost Estimate ....................................................................................... 13
+Budget Authority and Congressional Budget Office Estimate ............................ 13
+Federal Mandates Statement ................................................................................. 14
+Advisory Committee Statement .............................................................................. 14
+Applicability to Legislative Branch ........................................................................ 14
+Statement on Duplication of Federal Programs .................................................... 14
+59–006
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 14
+Changes in Existing Law Made by the Bill, as Reported ..................................... 15
+Minority Views ......................................................................................................... 16
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘VA Budget Shortfall Accountability Act’’.
+
+Section 4:
+SECTION 2. FUNDING SHORTFALLS IN CERTAIN ADMINISTRATIONS OF THE DEPARTMENT OF
+VETERANS AFFAIRS: REVIEWS; REPORTS.
+(a) FIRSTGAO REVIEW.—
+(1) REVIEW REQUIRED.—Not later than 30 days after the date of the enact-
+ment of this Act, the Comptroller General of the United States shall begin a
+review regarding the circumstances surrounding, and the causes of—
+(A) the shortfall in the funding of the Veterans Benefits Administration
+for fiscal year 2024; and
+(B) the expected shortfall in the funding of the Veterans Health Adminis-
+tration in fiscal year 2025.
+(2) ELEMENTS.—The review under this subsection shall include the following
+elements:
+(A) A comparison of monthly obligations and expenditures in relevant ac-
+counts against the spending plan of the Department of Veterans Affairs.
+(B) Any transfers between accounts described in subparagraph (A).
+(C) The reasons for any significant diversions of obligations or expendi-
+tures from such spending plan.
+(D) An analysis of the accuracy of any projections or estimates relevant
+to diversions described in subparagraph (C).
+(E) Remedial actions the Secretary of Veterans Affairs may take—
+(i) to improve the accuracy of supporting information submitted
+under section 1105(a) of title 31, United States Code, with respect to
+the Department; and
+(ii) to prevent funding shortfalls for the Department.
+(3) REPORT.—Not later than 30 days after completing such review, the Comp-
+troller General shall submit to the Secretary of Veterans Affairs a written re-
+port containing the results and findings of such review.
+(b) SUBSEQUENT GAO REVIEWS.—In each of the five calendar years following the
+date of the enactment of this Act, the Comptroller General shall conduct a review
+including the elements described in subsection (a)(2), and submit a report described
+in subsection (a)(3), regarding the funding of the Department of Veterans Affairs for
+the most recent fiscal year to end before the date of such review.
+(c) REPORTS OF THE SECRETARY OF VETERANS AFFAIRS.—Not later than 30 days
+after the Secretary of Veterans Affairs receives a report of the Comptroller General
+under subsection (a) or (b), the Secretary shall submit such report to—
+(1) the Committees on Veterans’ Affairs of the House of Representatives and
+the Senate; and
+(2) the Committees on Appropriations of the House of Representatives and
+the Senate.
+PURPOSE AND SUMMARY
+H.R. 1823, the ‘‘VA Budget Shortfall Accountability Act,’’ was in-
+troduced by Rep. Jack Bergman of Michigan on March 4, 2025. The
+bill, as amended, would require the Comptroller General to conduct
+a review of the circumstances surrounding the expected shortfall
+for Fiscal Year 2024 and require an annual review thereafter of the
+funding situation at the Department of Veterans Affairs (VA). Spe-
+cifically, it would require the Comptroller General to perform an
+audit of various accounting systems and procedures at VA that led
+to inaccurate financial projections and false claims of a funding
+shortfall in fiscal year (FY) 2024 and 2025. This bill, as amended,
+would ensure that such budgeting mistakes do not happen again
+and would prevent the overall mismanagement of billions of dollars
+in taxpayer funds.
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+BACKGROUND AND NEED FOR LEGISLATION
+
+Section 5:
+Section 1: Short Title
+This Act may be cited as the ‘‘VA Budget Shortfall Accountability
+Act.’’
+
+Section 6:
+Section 2: Funding Shortfalls in Certain Administrations of the De-
+partment of Veterans Affairs: Review; Reports
+In July 2024, the Department of Veterans Affairs (VA) informed
+Congress that the Veterans Benefits Administration (VBA) would
+need almost $2.9 billion in emergency funding for the remainder of
+FY 2024, citing an impending shortfall that may hinder the deliv-
+ery of veterans’ benefits. VA also informed Congress that the Vet-
+erans Health Administration (VHA) may need an additional $12
+billion in funding in FY 2025 based on financial projections.
+In August 2024, VA requested supplemental appropriations of
+$12 billion to cover medical care for the rest of FY 2024 and all of
+FY 2025 at VHA.
+In September 2024, Congress approved the funding for VBA to
+avert potential delays in payments to approximately 7 million vet-
+erans and beneficiaries (P.L. 118–82). In that bill, Congress also re-
+quired the VA Office of Inspector General to review the cir-
+cumstances that led to projected funding shortfalls at VBA and
+VHA.
+In October 2024, VA officials acknowledged significant errors in
+their budget projections. VA said that without the supplemental
+funding Congress had already appropriated, VBA would have car-
+ried over approximately $2.1 billion in the compensation and pen-
+sion account and over $92 million in the readjustment benefits ac-
+count, thus negating the need for the supplemental funding re-
+quest. In November, VHA also revised its estimated shortfall from
+$12 billion to $6.6 billion for only the remainder of FY 2025.
+In mid-March 2025, Congress passed a continuing resolution to
+fund VA’s remaining FY 2025 medical care using $6 billion from
+the Toxic Exposure Fund.
+VA attributed the initial miscalculations to unprecedented in-
+creases in benefits claims and health care utilization. VA delivered
+a record $187 billion in benefits (including $173 billion in com-
+pensation and pension benefits) to 6.7 million veterans and bene-
+ficiaries in 2024. VA also processed a record 2,517,519 disability
+benefit claims, a 27% increase over the year prior. Further, VA pro-
+vided a record 127.5 million health care appointments in fiscal
+2024—a 6% rise from the previous year.
+VA’s inaccurate requests for emergency funding caused panic
+among veterans and their families, who were worried about delays
+and cuts in VA services. The Committee was concerned that the
+misleading information would undermine public faith in VA as an
+institution and that these errors in accounting suggested a much
+larger issue with VA management overall.
+The Committee recognizes that veterans must be able to trust
+VA to provide their promised benefits and healthcare. As such,
+H.R. 1823, as amended, would require the Comptroller General to
+perform an internal audit of VA’s accounting systems and proce-
+dures, which resulted in VA’s incorrect 2024 budget projections.
+The bill, as amended, would ensure that such a budgeting mistake
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+does not happen again and would prevent the mismanagement of
+federal funds.
+Through this and subsequent reviews by the Comptroller Gen-
+eral, the Committee believes H.R. 1823, as amended, will hold the
+VA responsible for its stewardship of taxpayer dollars and the care,
+benefits, and services that are delivered to veterans and their bene-
+ficiaries.
+HEARINGS
+On March 11, 2025, the Subcommittee on Health held a legisla-
+tive hearing on H.R. 1823 and other bills that were pending before
+the subcommittee.
+The following witnesses testified:
+The Honorable Jack Bergman, U.S. House of Representa-
+tives, 1st Congressional District, Michigan; The Honorable
+Greg Murphy, U.S. House of Representatives, 3rd Congres-
+sional District, North Carolina; The Honorable Steve Womack,
+U.S. House of Representatives, 3rd Congressional District, Ar-
+kansas; The Honorable Don Bacon, U.S. House of Representa-
+tives, 1st Congressional District, Nebraska; The Honorable Syl-
+via Garcia, U.S. House of Representatives, 29th Congressional
+District, Texas; The Honorable Lauren Underwood, U.S. House
+of Representatives, 14th Congressional District, Illinois; The
+Honorable Chris Deluzio, U.S. House of Representatives, 17th
+Congressional District, Pennsylvania; Dr. Thomas O’Toole,
+Deputy Assistant Under Secretary for Health for Clinical Serv-
+ices, Quality and Field Operations, Veterans Health Adminis-
+tration, U.S. Department of Veterans Affairs; Dr. Antoinette
+Shappell, Deputy Assistant Under Secretary for Health for Pa-
+tient Services, Veterans Health Administration, U.S. Depart-
+ment of Veterans Affairs; Dr. Thomas Emmendorfer, Executive
+Director, Pharmacy Benefits Management, Veterans Health
+Administration, U.S. Department of Veterans Affairs; Dr. Jef-
+frey Gold, President, University of Nebraska System; Ms. Sue
+Morris, President, Veterans Trust; Mr. Brian Dempsey, Direc-
+tor of Government Affairs, Wounded Warrior Project; Mr. Ed
+Harries, President, National Association of State Veterans
+Homes; Mr. Jon Retzer, Deputy National Legislative Director,
+Disabled American Veterans.
+The following individuals and organizations submitted state-
+ments for the record:
+Veterans Healthcare Policy Institute; Paralyzed Veterans of
+America; American Federation of Government Employees; Rep-
+resentative Murphy; Trajector Medical; American Association
+for Marriage and Family Therapy.
+SUBCOMMITTEE CONSIDERATION
+On March 25, 2025, the Subcommittee on Health met in an open
+markup session, a quorum being present, on H.R. 1823 and other
+bills pending before the subcommittee. Following a motion by Rep-
+resentative Kimberlyn King-Hinds of the Northern Mariana Is-
+lands, H.R. 1823 was ordered favorably forwarded to the full Com-
+mittee on Veterans’ Affairs by a voice vote.
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+5
+COMMITTEE CONSIDERATION
+On May 6, 2025, the full Committee met in an open markup ses-
+sion to consider H.R. 1823, as amended. During consideration of
+the bill, the following amendments were considered:
+An amendment in the nature of a substitute to H.R. 1823 of-
+fered by Representative Bergman was agreed to by voice vote.
+The amendment in the nature of a substitute would direct the
+Comptroller General of the United States to conduct a forensic
+audit on an annual basis until calendar year 2031.
+A substitute amendment to the amendment in the nature of
+a substitute to H.R. 1823 offered by Representative Delia Ra-
+mirez of Illinois would strike the entirety of the bill and
+change its focus from oversight over the previous administra-
+tion, to the production of a report concerning all communica-
+tion within VA that discusses any policy, directive, or guidance
+from the Department of Government Efficiency (DOGE) to the
+Secretary relating to the management of VA employees. The
+amendment failed by a recorded vote of 11 yeas, 13 nays.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1823 offered by Ranking Member Mark Takano
+of California would require the United States Attorney General
+to submit to the Committee on Veterans’ Affairs and the Com-
+mittee on Appropriations in both the U.S. House of Represent-
+atives and the U.S. Senate any evidence of wrongdoing in VA
+budget mismanagement. The amendment failed by a recorded
+vote of 11 yeas, 13 nays.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1823 offered by Ranking Member Takano would
+require that any federal funds not expended because of DOGE
+be used to furnish hospital care or medical services. The
+amendment failed by a recorded vote of 11 yeas, 13 nays.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1823 offered by Representative Tim Kennedy of
+New would exempt VA from any hiring freeze, reinstate any
+veteran who was a career employee prior to January 20, 2025,
+and require a written notice to Congress 15 days prior to the
+termination of an employee. The amendment failed by a re-
+corded vote of 11 yeas, 13 nays.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1823 offered by Representative Kennedy would
+exempt any veteran working in VA from being removed from
+employment pursuant to a reduction in force. The amendment
+failed by a recorded vote of 11 yeas, 13 nays.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1823 offered by Representative Kennedy would
+exempt any veteran with a service-connected disability work-
+ing in VA from being removed from employment pursuant to
+a reduction in force. The amendment failed by a recorded vote
+of 11 yeas, 13 nays.
+A motion by Representative Bergman to report H.R. 1823, as
+amended, favorably to the House of Representatives, was agreed to
+by voice vote.
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+6
+COMMITTEE VOTES
+In compliance with clause 3(b) of rule XIII of the Rules of the
+House of Representatives, six recorded votes were taken on amend-
+ments or in connection with ordering H.R. 1823, as amended, re-
+ported to the House.
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+7
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 7:
+100.101RH
+ereh
+9
+oilof
+tesffo
+tresnI
+8
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 8:
+200.101RH
+ereh
+01
+oilof
+tesffo
+tresnI
+9
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 9:
+300.101RH
+ereh
+11
+oilof
+tesffo
+tresnI
+10
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 10:
+400.101RH
+ereh
+21
+oilof
+tesffo
+tresnI
+11
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 11:
+500.101RH
+ereh
+31
+oilof
+tesffo
+tresnI
+12
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 12:
+600.101RH
+ereh
+41
+oilof
+tesffo
+tresnI
+13
+COMMITTEE OVERSIGHT FINDINGS
+In compliance with clause 3(c)(1) of rule XIII and clause (2)(b)(1)
+of rule X of the Rules of the House of Representatives, the Commit-
+tee’s oversight findings and recommendations are reflected in the
+descriptive portions of this report.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+In accordance with clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee’s performance goals and
+objectives of H.R. 1823, as amended, are to ensure that VA submits
+to Congress accurate information supporting the President’s Budg-
+et and to help prevent funding shortfalls for VA.
+EARMARKS AND TAX AND TARIFF BENEFITS
+H.R. 1823, as amended, does not contain any Congressional ear-
+marks, limited tax benefits, or limited tariff benefits as defined in
+clause 9 of rule XXI of the Rules of the House of Representatives.
+COMMITTEE COST ESTIMATE
+The Committee adopts as its own the cost estimate on H.R. 1823,
+as amended, prepared by the Director of the Congressional Budget.
+BUDGET AUTHORITY AND CONGRESSIONAL BUDGET OFFICE COST
+ESTIMATE
+Pursuant to clause (3)(c)(3) of rule XIII of the Rules of the House
+of Representatives, the following is the cost estimate for H.R. 1823,
+as amended, provided by the Congressional Budget Office pursuant
+to section 402 of the Congressional Budget Act of 1974:
+H.R. 1823 would require the Government Accountability Office
+(GAO) to report to the Congress on the causes of funding shortfalls
+in appropriation accounts for health care, disability compensation,
+and education benefits that the Department of Veterans Affairs
+(VA) anticipated would occur in 2024 and 2025. The bill also would
+require GAO to report annually, for five years, VA’s spending plans
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 13:
+700.101RH
+ereh
+61
+oilof
+tesffo
+tresnI
+14
+for those accounts, deviations from those spending plans, and
+transfers from those accounts.
+Based on the costs of similar studies and reports, CBO estimates
+that fulfilling the bill’s reporting requirements would cost less than
+$500,000 over the 2025–2029 period; such spending would be sub-
+ject to the availability of appropriated funds.
+The CBO staff contact for this estimate is Noah Callahan. The
+estimate was reviewed by Christina Hawley Anthony, Deputy Di-
+rector of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+FEDERAL MANDATES STATEMENT
+
+Section 14:
+Section 423 of the Congressional Budget and Impoundment Con-
+trol Act (as amended by Section 101(a)(2) of the Unfunded Mandate
+Reform Act, P.L. 104–4), is inapplicable to H.R. 1823, as amended.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees, within the meaning of section 5(b) of the
+Federal Advisory Committee Act would be created by H.R. 1823, as
+amended.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that H.R. 1823, as amended, does not relate
+to the terms and conditions of employment or access to public serv-
+ices or accommodations within the meaning of section 102(b)(3) of
+the Congressional Accountability Act.
+STATEMENT ON DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee finds that no provision of H.R.
+1823, as amended, establishes or reauthorizes a program of the
+Federal Government known to be duplicative of another Federal
+program, a program that was included in any report from the Gov-
+ernment Accountability Office to Congress pursuant to section 21
+of Public Law 111–139, or a program related to a program identi-
+fied in the most recent Catalog of Federal Domestic Assistance.
+
+Section 15:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 16:
+Section 1: Short title
+This section would establish the short title as the ‘‘VA Budget
+Shortfall Accountability Act.’’
+
+Section 17:
+Section 2: Funding shortfalls in certain administrations of the De-
+partment of Veterans Affairs: reviews; reports
+
+Section 18:
+Section 2(a) would require the Government Accountability Office
+(GAO) to review the circumstances and causes of the funding short-
+fall in the Veterans Benefits Administration (VBA) for fiscal year
+2024 and the expected funding shortfall in the Veterans Health Ad-
+ministration (VHA) in fiscal year 2025. In the review, GAO would
+examine VBA and VHA’s relevant accounts, compare monthly obli-
+gations and expenditures against VA’s spending plan, identify sig-
+nificant diversions from the spending plan and their causes, and
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+15
+analyze the accuracy of projections or estimates relevant to such di-
+versions. This review would also include remedial actions that the
+VA Secretary may take to ensure that VA submits to Congress ac-
+curate information supporting the President’s Budget and to pre-
+vent future funding shortfalls for VA. GAO would submit the re-
+view to the Secretary within 30 days of completion.
+
+Section 19:
+Section 2(b) would require GAO to submit annual reviews for the
+next five calendar years. Each review would examine the most re-
+cent fiscal year.
+
+Section 20:
+Section 2(c) would require VA to submit reviews to the Commit-
+tees on Veterans’ Affairs and Appropriations in the House of Rep-
+resentatives and the Senate. Each review would be due to Congress
+within 30 days from when the Secretary receives the review from
+GAO.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+existing law in which no change is proposed is shown in roman):
+There are no changes to existing statutes made by H.R. 1823.
+*******INSERT RAMSEYER*******
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+MINORITY VIEWS
+This bill, as amended, requires the U.S. Government Account-
+ability Office (GAO) to conduct a review of the circumstances sur-
+rounding the budget shortfalls at the Veterans Benefits Adminis-
+tration (VBA) and the Veterans Health Administration (VHA) in
+fiscal year (FY) 2024 and FY 2025, respectively. The review must
+include a comparison of monthly obligations in the relevant ac-
+counts, the reasons for any significant diversions from the spending
+plan, an analysis of the accuracy of any estimates, and rec-
+ommendations on remedial actions the Department of Veterans Af-
+fairs (VA) can take to improve projection accuracy and avoid future
+shortfalls. GAO will submit the report to VA, who must report it
+to the House and Senate Veterans’ Affairs and Appropriations
+Committees.
+The A.N.S. to this bill requires GAO to do an initial review and
+then complete subsequent reviews for five years following the date
+of enactment, reviewing requests for subsequent fiscal years.
+Committee Democrats are concerned that this bill is duplicative
+of existing Office of Inspector General efforts. The Office of Inspec-
+tor General (OIG) recently issued two reports, which were man-
+dated by the Veterans Benefits Continuity and Accountability Sup-
+plemental Appropriations Act 2024 (P.L. 118–82). Those reports
+identified that VA’s existing accounting and budget technological
+infrastructure is a primary cause of the shortcomings in VA’s moni-
+toring of budget execution that led to the shortfall. This bill does
+nothing to address that and other underlying causes, and instead
+seems to be designed to reopen investigation of previous errors.
+To Committee Democrats’ knowledge, the Majority did not con-
+sult with GAO on this legislation and in fact did not seek technical
+assistance from GAO to ensure the request complies with GAO’s
+standard operating procedures and comment periods.
+Additionally, GAO is already working on a report related to this
+issue. GAO’s review, which it initiated under its Comptroller Gen-
+eral authority (i.e. not based on a request or mandate from Con-
+gress), has much of the same scope as this bill; although, it does
+not address the VBA portions of the bill.
+Committee Democrats are concerned that Rep. Bergman’s legisla-
+tion duplicates work that VA oversight bodies, including OIG and
+GAO, are already doing. It is especially concerning that it was in-
+cluded in this markup in the context of the letter the Chairman re-
+cently sent to the Department of Justice, urging the Attorney Gen-
+eral to investigate three former Biden administration officials for
+criminal wrongdoing in handling last year’s budget shortfall. This
+bill should be viewed as political retaliation; it is not serious over-
+sight.
+Finally, Committee Democrats are disappointed that the Major-
+ity did not accept any amendments offered by our members at
+(16)
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6604 Sfmt 6604 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+17
+markup. Due to this bill’s focus on VA’s budget requests, Demo-
+cratic amendments focused on ensuring that the ongoing workforce
+changes, accountability at VA, and other efforts will in fact improve
+VA’s budget and not impact veteran care. These amendments in-
+cluded:
+
+Section 21:
+1. Substitute Amendment offered by Rep. Ramirez: Requires
+VA to report to Congress within 30 days all documents related
+to the Department of Government Efficiency’s (DOGE) involve-
+ment at VA related to VA workforce actions (to include termi-
+nations, reductions in force, and reorganization plans); VA con-
+tract terminations or recompetes; and VA data systems which
+DOGE has accessed.
+
+Section 22:
+2. Amendment offered by Rep. Takano: Requires the Attor-
+ney General to submit to the Committees on Veterans’ Affairs,
+and the Committees on Appropriations, of the Senate and the
+House of Representatives, any evidence of wrongdoing that is
+in the possession of the Attorney General and collected in the
+course of any ongoing or future investigation into alleged budg-
+et mismanagement at VA. Given that the department and its
+funding are under the oversight jurisdiction of these Commit-
+tees, these bodies should have access to this information, and
+yet the Majority declined to vote to make this a requirement.
+This raises concerns that their ultimate goal with this legisla-
+tion and in requesting ongoing investigation is not, in fact, le-
+gitimate oversight efforts.
+
+Section 23:
+3. Amendment offered by Rep. Takano: Requires any savings
+garnered from contract cancellations at VA, as ordered by
+DOGE, to be reinvested into veteran care and employee serv-
+ices. The Trump administration has claimed that the goal of
+any potential savings is to reinvest them into veteran care, but
+as DOGE is not a congressionally-established agency, it has no
+obligation to follow through on these claims. Therefore, Com-
+mittee Democrats are concerned that the Majority elected not
+to support an amendment that would require VA to fulfill
+these claims.
+
+Section 24:
+4. Amendment offered by Rep. Kennedy: Would add the text
+of Rep. Kennedy’s legislation, H.R. 2722, which exempts VA
+from hiring freezes, exempts veterans from RIFs, and rein-
+states veterans who have been fired since Jan. 20. It also pro-
+hibits removal of probationary employees at the department.
+
+Section 25:
+5. Amendment offered by Rep. Kennedy: Would exempt vet-
+erans from planned or future reductions in force at the depart-
+ment.
+
+Section 26:
+6. Amendment offered by Rep. Kennedy: Would exempt dis-
+abled veterans from planned or future reductions in force at
+the department. Committee Democrats feel that veterans who
+have chosen to continue to serve their country through post-
+service employment in the federal workforce at VA should not
+be subject to any firings and should not bear the burden of any
+attempts to ‘‘right size’’ the department’s workforce. Unfortu-
+nately, the Majority does not appear to share that sentiment,
+even for those veterans who have made the ultimate sacrifice
+and have permanent disabilities following their service.
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00017 Fmt 6604 Sfmt 6604 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+18
+
+Section 27:
+7. Amendment offered by Rep. Budzinski: Would require VA
+to brief Committees on Veterans’ Affairs, and the Committees
+on Appropriations, of the Senate and the House of Representa-
+tives prior to its annual budget submission, and require that
+all personnel involved in development of the budget submis-
+sion, including employees of DOGE, participate in the briefing.
+Committee Democrats believe GAO’s oversight resources could be
+put to better use on more meaningful oversight of VA’s budget for-
+mulation and execution—to include the role of the Office of Man-
+agement and Budget in determining VA’s annual budget requests.
+MARK TAKANO,
+Ranking Member.
+Æ
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00018 Fmt 6604 Sfmt 6611 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–101
+VA BUDGET SHORTFALL ACCOUNTABILITY ACT
+MAY17, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. BOST, from the Committee on Veterans’ Affairs,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 1823]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Veterans’ Affairs, to whom was referred the
+bill (H.R. 1823) to direct the Secretary of Veterans Affairs and the
+Comptroller General of the United States to report on certain fund-
+ing shortfalls in the Department of Veterans Affairs, having consid-
+ered the same, reports favorably thereon with an amendment and
+recommends that the bill as amended do pass.
+CONTENTS
+Page
+Amendment .............................................................................................................. 2
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 3
+Hearings ................................................................................................................... 4
+Subcommittee Consideration .................................................................................. 4
+Committee Consideration ........................................................................................ 5
+Committee Votes ...................................................................................................... 6
+Committee Correspondence
+Committee Oversight Findings ............................................................................... 13
+Statement of General Performance Goals and Objectives .................................... 13
+Earmarks and Tax and Tariff Benefits .................................................................. 13
+Committee Cost Estimate ....................................................................................... 13
+Budget Authority and Congressional Budget Office Estimate ............................ 13
+Federal Mandates Statement ................................................................................. 14
+Advisory Committee Statement .............................................................................. 14
+Applicability to Legislative Branch ........................................................................ 14
+Statement on Duplication of Federal Programs .................................................... 14
+59–006
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+Section-by-Section Analysis of the Legislation ...................................................... 14
+Changes in Existing Law Made by the Bill, as Reported ..................................... 15
+Minority Views ......................................................................................................... 16
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘VA Budget Shortfall Accountability Act’’.
+SECTION 2. FUNDING SHORTFALLS IN CERTAIN ADMINISTRATIONS OF THE DEPARTMENT OF
+VETERANS AFFAIRS: REVIEWS; REPORTS.
+(a) FIRSTGAO REVIEW.—
+(1) REVIEW REQUIRED.—Not later than 30 days after the date of the enact-
+ment of this Act, the Comptroller General of the United States shall begin a
+review regarding the circumstances surrounding, and the causes of—
+(A) the shortfall in the funding of the Veterans Benefits Administration
+for fiscal year 2024; and
+(B) the expected shortfall in the funding of the Veterans Health Adminis-
+tration in fiscal year 2025.
+(2) ELEMENTS.—The review under this subsection shall include the following
+elements:
+(A) A comparison of monthly obligations and expenditures in relevant ac-
+counts against the spending plan of the Department of Veterans Affairs.
+(B) Any transfers between accounts described in subparagraph (A).
+(C) The reasons for any significant diversions of obligations or expendi-
+tures from such spending plan.
+(D) An analysis of the accuracy of any projections or estimates relevant
+to diversions described in subparagraph (C).
+(E) Remedial actions the Secretary of Veterans Affairs may take—
+(i) to improve the accuracy of supporting information submitted
+under section 1105(a) of title 31, United States Code, with respect to
+the Department; and
+(ii) to prevent funding shortfalls for the Department.
+(3) REPORT.—Not later than 30 days after completing such review, the Comp-
+troller General shall submit to the Secretary of Veterans Affairs a written re-
+port containing the results and findings of such review.
+(b) SUBSEQUENT GAO REVIEWS.—In each of the five calendar years following the
+date of the enactment of this Act, the Comptroller General shall conduct a review
+including the elements described in subsection (a)(2), and submit a report described
+in subsection (a)(3), regarding the funding of the Department of Veterans Affairs for
+the most recent fiscal year to end before the date of such review.
+(c) REPORTS OF THE SECRETARY OF VETERANS AFFAIRS.—Not later than 30 days
+after the Secretary of Veterans Affairs receives a report of the Comptroller General
+under subsection (a) or (b), the Secretary shall submit such report to—
+(1) the Committees on Veterans’ Affairs of the House of Representatives and
+the Senate; and
+(2) the Committees on Appropriations of the House of Representatives and
+the Senate.
+PURPOSE AND SUMMARY
+H.R. 1823, the ‘‘VA Budget Shortfall Accountability Act,’’ was in-
+troduced by Rep. Jack Bergman of Michigan on March 4, 2025. The
+bill, as amended, would require the Comptroller General to conduct
+a review of the circumstances surrounding the expected shortfall
+for Fiscal Year 2024 and require an annual review thereafter of the
+funding situation at the Department of Veterans Affairs (VA). Spe-
+cifically, it would require the Comptroller General to perform an
+audit of various accounting systems and procedures at VA that led
+to inaccurate financial projections and false claims of a funding
+shortfall in fiscal year (FY) 2024 and 2025. This bill, as amended,
+would ensure that such budgeting mistakes do not happen again
+and would prevent the overall mismanagement of billions of dollars
+in taxpayer funds.
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+BACKGROUND AND NEED FOR LEGISLATION
+Section 1: Short Title
+This Act may be cited as the ‘‘VA Budget Shortfall Accountability
+Act.’’
+Section 2: Funding Shortfalls in Certain Administrations of the De-
+partment of Veterans Affairs: Review; Reports
+In July 2024, the Department of Veterans Affairs (VA) informed
+Congress that the Veterans Benefits Administration (VBA) would
+need almost $2.9 billion in emergency funding for the remainder of
+FY 2024, citing an impending shortfall that may hinder the deliv-
+ery of veterans’ benefits. VA also informed Congress that the Vet-
+erans Health Administration (VHA) may need an additional $12
+billion in funding in FY 2025 based on financial projections.
+In August 2024, VA requested supplemental appropriations of
+$12 billion to cover medical care for the rest of FY 2024 and all of
+FY 2025 at VHA.
+In September 2024, Congress approved the funding for VBA to
+avert potential delays in payments to approximately 7 million vet-
+erans and beneficiaries (P.L. 118–82). In that bill, Congress also re-
+quired the VA Office of Inspector General to review the cir-
+cumstances that led to projected funding shortfalls at VBA and
+VHA.
+In October 2024, VA officials acknowledged significant errors in
+their budget projections. VA said that without the supplemental
+funding Congress had already appropriated, VBA would have car-
+ried over approximately $2.1 billion in the compensation and pen-
+sion account and over $92 million in the readjustment benefits ac-
+count, thus negating the need for the supplemental funding re-
+quest. In November, VHA also revised its estimated shortfall from
+$12 billion to $6.6 billion for only the remainder of FY 2025.
+In mid-March 2025, Congress passed a continuing resolution to
+fund VA’s remaining FY 2025 medical care using $6 billion from
+the Toxic Exposure Fund.
+VA attributed the initial miscalculations to unprecedented in-
+creases in benefits claims and health care utilization. VA delivered
+a record $187 billion in benefits (including $173 billion in com-
+pensation and pension benefits) to 6.7 million veterans and bene-
+ficiaries in 2024. VA also processed a record 2,517,519 disability
+benefit claims, a 27% increase over the year prior. Further, VA pro-
+vided a record 127.5 million health care appointments in fiscal
+2024—a 6% rise from the previous year.
+VA’s inaccurate requests for emergency funding caused panic
+among veterans and their families, who were worried about delays
+and cuts in VA services. The Committee was concerned that the
+misleading information would undermine public faith in VA as an
+institution and that these errors in accounting suggested a much
+larger issue with VA management overall.
+The Committee recognizes that veterans must be able to trust
+VA to provide their promised benefits and healthcare. As such,
+H.R. 1823, as amended, would require the Comptroller General to
+perform an internal audit of VA’s accounting systems and proce-
+dures, which resulted in VA’s incorrect 2024 budget projections.
+The bill, as amended, would ensure that such a budgeting mistake
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+does not happen again and would prevent the mismanagement of
+federal funds.
+Through this and subsequent reviews by the Comptroller Gen-
+eral, the Committee believes H.R. 1823, as amended, will hold the
+VA responsible for its stewardship of taxpayer dollars and the care,
+benefits, and services that are delivered to veterans and their bene-
+ficiaries.
+HEARINGS
+On March 11, 2025, the Subcommittee on Health held a legisla-
+tive hearing on H.R. 1823 and other bills that were pending before
+the subcommittee.
+The following witnesses testified:
+The Honorable Jack Bergman, U.S. House of Representa-
+tives, 1st Congressional District, Michigan; The Honorable
+Greg Murphy, U.S. House of Representatives, 3rd Congres-
+sional District, North Carolina; The Honorable Steve Womack,
+U.S. House of Representatives, 3rd Congressional District, Ar-
+kansas; The Honorable Don Bacon, U.S. House of Representa-
+tives, 1st Congressional District, Nebraska; The Honorable Syl-
+via Garcia, U.S. House of Representatives, 29th Congressional
+District, Texas; The Honorable Lauren Underwood, U.S. House
+of Representatives, 14th Congressional District, Illinois; The
+Honorable Chris Deluzio, U.S. House of Representatives, 17th
+Congressional District, Pennsylvania; Dr. Thomas O’Toole,
+Deputy Assistant Under Secretary for Health for Clinical Serv-
+ices, Quality and Field Operations, Veterans Health Adminis-
+tration, U.S. Department of Veterans Affairs; Dr. Antoinette
+Shappell, Deputy Assistant Under Secretary for Health for Pa-
+tient Services, Veterans Health Administration, U.S. Depart-
+ment of Veterans Affairs; Dr. Thomas Emmendorfer, Executive
+Director, Pharmacy Benefits Management, Veterans Health
+Administration, U.S. Department of Veterans Affairs; Dr. Jef-
+frey Gold, President, University of Nebraska System; Ms. Sue
+Morris, President, Veterans Trust; Mr. Brian Dempsey, Direc-
+tor of Government Affairs, Wounded Warrior Project; Mr. Ed
+Harries, President, National Association of State Veterans
+Homes; Mr. Jon Retzer, Deputy National Legislative Director,
+Disabled American Veterans.
+The following individuals and organizations submitted state-
+ments for the record:
+Veterans Healthcare Policy Institute; Paralyzed Veterans of
+America; American Federation of Government Employees; Rep-
+resentative Murphy; Trajector Medical; American Association
+for Marriage and Family Therapy.
+SUBCOMMITTEE CONSIDERATION
+On March 25, 2025, the Subcommittee on Health met in an open
+markup session, a quorum being present, on H.R. 1823 and other
+bills pending before the subcommittee. Following a motion by Rep-
+resentative Kimberlyn King-Hinds of the Northern Mariana Is-
+lands, H.R. 1823 was ordered favorably forwarded to the full Com-
+mittee on Veterans’ Affairs by a voice vote.
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+5
+COMMITTEE CONSIDERATION
+On May 6, 2025, the full Committee met in an open markup ses-
+sion to consider H.R. 1823, as amended. During consideration of
+the bill, the following amendments were considered:
+An amendment in the nature of a substitute to H.R. 1823 of-
+fered by Representative Bergman was agreed to by voice vote.
+The amendment in the nature of a substitute would direct the
+Comptroller General of the United States to conduct a forensic
+audit on an annual basis until calendar year 2031.
+A substitute amendment to the amendment in the nature of
+a substitute to H.R. 1823 offered by Representative Delia Ra-
+mirez of Illinois would strike the entirety of the bill and
+change its focus from oversight over the previous administra-
+tion, to the production of a report concerning all communica-
+tion within VA that discusses any policy, directive, or guidance
+from the Department of Government Efficiency (DOGE) to the
+Secretary relating to the management of VA employees. The
+amendment failed by a recorded vote of 11 yeas, 13 nays.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1823 offered by Ranking Member Mark Takano
+of California would require the United States Attorney General
+to submit to the Committee on Veterans’ Affairs and the Com-
+mittee on Appropriations in both the U.S. House of Represent-
+atives and the U.S. Senate any evidence of wrongdoing in VA
+budget mismanagement. The amendment failed by a recorded
+vote of 11 yeas, 13 nays.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1823 offered by Ranking Member Takano would
+require that any federal funds not expended because of DOGE
+be used to furnish hospital care or medical services. The
+amendment failed by a recorded vote of 11 yeas, 13 nays.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1823 offered by Representative Tim Kennedy of
+New would exempt VA from any hiring freeze, reinstate any
+veteran who was a career employee prior to January 20, 2025,
+and require a written notice to Congress 15 days prior to the
+termination of an employee. The amendment failed by a re-
+corded vote of 11 yeas, 13 nays.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1823 offered by Representative Kennedy would
+exempt any veteran working in VA from being removed from
+employment pursuant to a reduction in force. The amendment
+failed by a recorded vote of 11 yeas, 13 nays.
+An amendment to the amendment in the nature of a sub-
+stitute to H.R. 1823 offered by Representative Kennedy would
+exempt any veteran with a service-connected disability work-
+ing in VA from being removed from employment pursuant to
+a reduction in force. The amendment failed by a recorded vote
+of 11 yeas, 13 nays.
+A motion by Representative Bergman to report H.R. 1823, as
+amended, favorably to the House of Representatives, was agreed to
+by voice vote.
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+6
+COMMITTEE VOTES
+In compliance with clause 3(b) of rule XIII of the Rules of the
+House of Representatives, six recorded votes were taken on amend-
+ments or in connection with ordering H.R. 1823, as amended, re-
+ported to the House.
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+7
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.101RH
+ereh
+9
+oilof
+tesffo
+tresnI
+
+8
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+200.101RH
+ereh
+01
+oilof
+tesffo
+tresnI
+
+9
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+300.101RH
+ereh
+11
+oilof
+tesffo
+tresnI
+
+10
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+400.101RH
+ereh
+21
+oilof
+tesffo
+tresnI
+
+11
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+500.101RH
+ereh
+31
+oilof
+tesffo
+tresnI
+
+12
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+600.101RH
+ereh
+41
+oilof
+tesffo
+tresnI
+
+13
+COMMITTEE OVERSIGHT FINDINGS
+In compliance with clause 3(c)(1) of rule XIII and clause (2)(b)(1)
+of rule X of the Rules of the House of Representatives, the Commit-
+tee’s oversight findings and recommendations are reflected in the
+descriptive portions of this report.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+In accordance with clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee’s performance goals and
+objectives of H.R. 1823, as amended, are to ensure that VA submits
+to Congress accurate information supporting the President’s Budg-
+et and to help prevent funding shortfalls for VA.
+EARMARKS AND TAX AND TARIFF BENEFITS
+H.R. 1823, as amended, does not contain any Congressional ear-
+marks, limited tax benefits, or limited tariff benefits as defined in
+clause 9 of rule XXI of the Rules of the House of Representatives.
+COMMITTEE COST ESTIMATE
+The Committee adopts as its own the cost estimate on H.R. 1823,
+as amended, prepared by the Director of the Congressional Budget.
+BUDGET AUTHORITY AND CONGRESSIONAL BUDGET OFFICE COST
+ESTIMATE
+Pursuant to clause (3)(c)(3) of rule XIII of the Rules of the House
+of Representatives, the following is the cost estimate for H.R. 1823,
+as amended, provided by the Congressional Budget Office pursuant
+to section 402 of the Congressional Budget Act of 1974:
+H.R. 1823 would require the Government Accountability Office
+(GAO) to report to the Congress on the causes of funding shortfalls
+in appropriation accounts for health care, disability compensation,
+and education benefits that the Department of Veterans Affairs
+(VA) anticipated would occur in 2024 and 2025. The bill also would
+require GAO to report annually, for five years, VA’s spending plans
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+700.101RH
+ereh
+61
+oilof
+tesffo
+tresnI
+
+14
+for those accounts, deviations from those spending plans, and
+transfers from those accounts.
+Based on the costs of similar studies and reports, CBO estimates
+that fulfilling the bill’s reporting requirements would cost less than
+$500,000 over the 2025–2029 period; such spending would be sub-
+ject to the availability of appropriated funds.
+The CBO staff contact for this estimate is Noah Callahan. The
+estimate was reviewed by Christina Hawley Anthony, Deputy Di-
+rector of Budget Analysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+FEDERAL MANDATES STATEMENT
+Section 423 of the Congressional Budget and Impoundment Con-
+trol Act (as amended by Section 101(a)(2) of the Unfunded Mandate
+Reform Act, P.L. 104–4), is inapplicable to H.R. 1823, as amended.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees, within the meaning of section 5(b) of the
+Federal Advisory Committee Act would be created by H.R. 1823, as
+amended.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that H.R. 1823, as amended, does not relate
+to the terms and conditions of employment or access to public serv-
+ices or accommodations within the meaning of section 102(b)(3) of
+the Congressional Accountability Act.
+STATEMENT ON DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee finds that no provision of H.R.
+1823, as amended, establishes or reauthorizes a program of the
+Federal Government known to be duplicative of another Federal
+program, a program that was included in any report from the Gov-
+ernment Accountability Office to Congress pursuant to section 21
+of Public Law 111–139, or a program related to a program identi-
+fied in the most recent Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1: Short title
+This section would establish the short title as the ‘‘VA Budget
+Shortfall Accountability Act.’’
+Section 2: Funding shortfalls in certain administrations of the De-
+partment of Veterans Affairs: reviews; reports
+Section 2(a) would require the Government Accountability Office
+(GAO) to review the circumstances and causes of the funding short-
+fall in the Veterans Benefits Administration (VBA) for fiscal year
+2024 and the expected funding shortfall in the Veterans Health Ad-
+ministration (VHA) in fiscal year 2025. In the review, GAO would
+examine VBA and VHA’s relevant accounts, compare monthly obli-
+gations and expenditures against VA’s spending plan, identify sig-
+nificant diversions from the spending plan and their causes, and
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+15
+analyze the accuracy of projections or estimates relevant to such di-
+versions. This review would also include remedial actions that the
+VA Secretary may take to ensure that VA submits to Congress ac-
+curate information supporting the President’s Budget and to pre-
+vent future funding shortfalls for VA. GAO would submit the re-
+view to the Secretary within 30 days of completion.
+Section 2(b) would require GAO to submit annual reviews for the
+next five calendar years. Each review would examine the most re-
+cent fiscal year.
+Section 2(c) would require VA to submit reviews to the Commit-
+tees on Veterans’ Affairs and Appropriations in the House of Rep-
+resentatives and the Senate. Each review would be due to Congress
+within 30 days from when the Secretary receives the review from
+GAO.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+existing law in which no change is proposed is shown in roman):
+There are no changes to existing statutes made by H.R. 1823.
+*******INSERT RAMSEYER*******
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6659 Sfmt 6602 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+MINORITY VIEWS
+This bill, as amended, requires the U.S. Government Account-
+ability Office (GAO) to conduct a review of the circumstances sur-
+rounding the budget shortfalls at the Veterans Benefits Adminis-
+tration (VBA) and the Veterans Health Administration (VHA) in
+fiscal year (FY) 2024 and FY 2025, respectively. The review must
+include a comparison of monthly obligations in the relevant ac-
+counts, the reasons for any significant diversions from the spending
+plan, an analysis of the accuracy of any estimates, and rec-
+ommendations on remedial actions the Department of Veterans Af-
+fairs (VA) can take to improve projection accuracy and avoid future
+shortfalls. GAO will submit the report to VA, who must report it
+to the House and Senate Veterans’ Affairs and Appropriations
+Committees.
+The A.N.S. to this bill requires GAO to do an initial review and
+then complete subsequent reviews for five years following the date
+of enactment, reviewing requests for subsequent fiscal years.
+Committee Democrats are concerned that this bill is duplicative
+of existing Office of Inspector General efforts. The Office of Inspec-
+tor General (OIG) recently issued two reports, which were man-
+dated by the Veterans Benefits Continuity and Accountability Sup-
+plemental Appropriations Act 2024 (P.L. 118–82). Those reports
+identified that VA’s existing accounting and budget technological
+infrastructure is a primary cause of the shortcomings in VA’s moni-
+toring of budget execution that led to the shortfall. This bill does
+nothing to address that and other underlying causes, and instead
+seems to be designed to reopen investigation of previous errors.
+To Committee Democrats’ knowledge, the Majority did not con-
+sult with GAO on this legislation and in fact did not seek technical
+assistance from GAO to ensure the request complies with GAO’s
+standard operating procedures and comment periods.
+Additionally, GAO is already working on a report related to this
+issue. GAO’s review, which it initiated under its Comptroller Gen-
+eral authority (i.e. not based on a request or mandate from Con-
+gress), has much of the same scope as this bill; although, it does
+not address the VBA portions of the bill.
+Committee Democrats are concerned that Rep. Bergman’s legisla-
+tion duplicates work that VA oversight bodies, including OIG and
+GAO, are already doing. It is especially concerning that it was in-
+cluded in this markup in the context of the letter the Chairman re-
+cently sent to the Department of Justice, urging the Attorney Gen-
+eral to investigate three former Biden administration officials for
+criminal wrongdoing in handling last year’s budget shortfall. This
+bill should be viewed as political retaliation; it is not serious over-
+sight.
+Finally, Committee Democrats are disappointed that the Major-
+ity did not accept any amendments offered by our members at
+(16)
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6604 Sfmt 6604 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+17
+markup. Due to this bill’s focus on VA’s budget requests, Demo-
+cratic amendments focused on ensuring that the ongoing workforce
+changes, accountability at VA, and other efforts will in fact improve
+VA’s budget and not impact veteran care. These amendments in-
+cluded:
+1. Substitute Amendment offered by Rep. Ramirez: Requires
+VA to report to Congress within 30 days all documents related
+to the Department of Government Efficiency’s (DOGE) involve-
+ment at VA related to VA workforce actions (to include termi-
+nations, reductions in force, and reorganization plans); VA con-
+tract terminations or recompetes; and VA data systems which
+DOGE has accessed.
+2. Amendment offered by Rep. Takano: Requires the Attor-
+ney General to submit to the Committees on Veterans’ Affairs,
+and the Committees on Appropriations, of the Senate and the
+House of Representatives, any evidence of wrongdoing that is
+in the possession of the Attorney General and collected in the
+course of any ongoing or future investigation into alleged budg-
+et mismanagement at VA. Given that the department and its
+funding are under the oversight jurisdiction of these Commit-
+tees, these bodies should have access to this information, and
+yet the Majority declined to vote to make this a requirement.
+This raises concerns that their ultimate goal with this legisla-
+tion and in requesting ongoing investigation is not, in fact, le-
+gitimate oversight efforts.
+3. Amendment offered by Rep. Takano: Requires any savings
+garnered from contract cancellations at VA, as ordered by
+DOGE, to be reinvested into veteran care and employee serv-
+ices. The Trump administration has claimed that the goal of
+any potential savings is to reinvest them into veteran care, but
+as DOGE is not a congressionally-established agency, it has no
+obligation to follow through on these claims. Therefore, Com-
+mittee Democrats are concerned that the Majority elected not
+to support an amendment that would require VA to fulfill
+these claims.
+4. Amendment offered by Rep. Kennedy: Would add the text
+of Rep. Kennedy’s legislation, H.R. 2722, which exempts VA
+from hiring freezes, exempts veterans from RIFs, and rein-
+states veterans who have been fired since Jan. 20. It also pro-
+hibits removal of probationary employees at the department.
+5. Amendment offered by Rep. Kennedy: Would exempt vet-
+erans from planned or future reductions in force at the depart-
+ment.
+6. Amendment offered by Rep. Kennedy: Would exempt dis-
+abled veterans from planned or future reductions in force at
+the department. Committee Democrats feel that veterans who
+have chosen to continue to serve their country through post-
+service employment in the federal workforce at VA should not
+be subject to any firings and should not bear the burden of any
+attempts to ‘‘right size’’ the department’s workforce. Unfortu-
+nately, the Majority does not appear to share that sentiment,
+even for those veterans who have made the ultimate sacrifice
+and have permanent disabilities following their service.
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00017 Fmt 6604 Sfmt 6604 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+18
+7. Amendment offered by Rep. Budzinski: Would require VA
+to brief Committees on Veterans’ Affairs, and the Committees
+on Appropriations, of the Senate and the House of Representa-
+tives prior to its annual budget submission, and require that
+all personnel involved in development of the budget submis-
+sion, including employees of DOGE, participate in the briefing.
+Committee Democrats believe GAO’s oversight resources could be
+put to better use on more meaningful oversight of VA’s budget for-
+mulation and execution—to include the role of the Office of Man-
+agement and Budget in determining VA’s annual budget requests.
+MARK TAKANO,
+Ranking Member.
+Æ
+VerDate Sep 11 2014 05:40 May 18, 2025 Jkt 059006 PO 00000 Frm 00018 Fmt 6604 Sfmt 6611 E:\HR\OC\HR101.XXX HR101
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

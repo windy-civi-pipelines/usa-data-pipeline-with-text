@@ -1,0 +1,1937 @@
+Title: MARCH27, 2025.—Committed to the Committee of the Whole House on the State
+Official Title: MARCH27, 2025.—Committed to the Committee of the Whole House on the State
+Number of Sections: 6
+Source: documents - H. Rept. 119-42
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–42
+INTERNAL REVENUE SERVICE MATH AND TAXPAYER
+HELP ACT
+of the Union and ordered to be printed
+Mr. SMITH of Missouri, from the Committee on Ways and Means,
+submitted the following
+R E P O R T
+[To accompany H.R. 998]
+The Committee on Ways and Means, to whom was referred the
+bill (H.R. 998) to amend the Internal Revenue Code of 1986 to re-
+quire additional information on math and clerical error notices,
+having considered the same, reports favorably thereon with an
+amendment and recommends that the bill as amended do pass.
+CONTENTS
+Page
+I. SUMMARY AND BACKGROUND ................................................................. 3
+A. Purpose and Summary ..................................................................... 3
+B. Background and Need for Legislation ............................................. 3
+C. Legislative History ............................................................................ 4
+D. Designated Hearing .......................................................................... 4
+II. EXPLANATION OF THE BILL ...................................................................... 4
+III. VOTE OF THE COMMITTEE......................................................................... 8
+IV. BUDGET EFFECTS OF THE BILL ............................................................... 8
+A. Committee Estimate of Budgetary Effects ...................................... 8
+B. Statement Regarding New Budget Authority and Tax Expendi-
+tures Budget Authority. ................................................................. 9
+C. Cost Estimate Prepared by the Congressional Budget Office ....... 9
+V. OTHER MATTERS TO BE DISCUSSED UNDER THE RULES OF THE
+HOUSE .......................................................................................................... 9
+A. Committee Oversight Findings and Recommendations ................. 9
+B. Statement of General Performance Goals and Objectives ............. 9
+C. Applicability of House Rule XXI, Clause 5(b) ................................. 9
+D. Information Relating to Unfunded Mandates ................................ 9
+E. Congressional Earmarks, Limited Tax Benefits, and Limited
+Tariff Benefits ................................................................................. 10
+F. Duplication of Federal Programs ..................................................... 10
+G. Tax Complexity Analysis .................................................................. 10
+VI. CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED 10
+The amendment is as follows:
+59–006
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+2
+Strike all after the enacting clause and insert the following:
+
+Section 2:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Internal Revenue Service Math and Taxpayer Help
+Act’’.
+SEC. 2. IMPROVEMENT OF NOTICES OF MATH OR CLERICAL ERROR.
+(a) IN GENERAL.—Section 6213(b)(1) of the Internal Revenue Code of 1986 is
+amended—
+(1) by striking ‘‘ERRORS.—If the taxpayer’’ and inserting ‘‘ERRORS.—
+‘‘(A) INGENERAL.—If the taxpayer’’,
+(2) by striking ‘‘Each notice’’ in the second sentence and inserting ‘‘Subject to
+subparagraph (B), each notice’’, and
+(3) by adding at the end the following new subparagraph:
+‘‘(B) SPECIFICITYOFMATHORCLERICALERRORNOTICE.—
+‘‘(i) IN GENERAL.—The notice provided under subparagraph (A)
+shall—
+‘‘(I) be sent to the taxpayer’s last known address,
+‘‘(II) describe the mathematical or clerical error in comprehen-
+sive, plain language, including—
+‘‘(aa) the type of error,
+‘‘(bb) the section of this title to which the error relates,
+‘‘(cc) a description of the nature of the error, and
+‘‘(dd) the specific line of the return on which the error was
+made,
+‘‘(III) an itemized computation of any direct or incidental adjust-
+ments to be made to the return in correction of the error, including
+any adjustment to the amount of—
+‘‘(aa) adjusted gross income,
+‘‘(bb) taxable income,
+‘‘(cc) itemized or standard deductions,
+‘‘(dd) nonrefundable credits,
+‘‘(ee) credits under section 24, 25A, 32, 35, or 36B, credits
+claimed with respect to undistributed long-term capital gains
+on Form 2439, credits for Federal taxes paid on fuels claimed
+on Form 4136, and any other refundable credits,
+‘‘(ff) income tax,
+‘‘(gg) other taxes,
+‘‘(hh) total tax,
+‘‘(ii) Federal income tax withheld or excess tax withheld
+under section 3101 or 3201(a),
+‘‘(jj) estimated tax payments, including amount applied from
+prior year’s return,
+‘‘(kk) refund or amount owed,
+‘‘(ll) net operating loss carryforwards, or
+‘‘(mm) credit carryforwards,
+‘‘(IV) include the telephone number for the automated phone
+transcript service, and
+‘‘(V) display the date by which the taxpayer may request to abate
+any assessment specified in such notice pursuant to paragraph
+(2)(A), in bold, font size 14, and immediately next to the taxpayer’s
+address on page 1 of the notice.
+‘‘(ii) NO LISTS OF POTENTIAL ERRORS.—A notice which provides mul-
+tiple potential or alternative errors which may be applicable to the re-
+turn shall not be sufficiently specific for purposes of clause (i)(II); how-
+ever, if multiple specific errors apply to the return all such errors
+should be listed.’’.
+(b) NOTICE OF ABATEMENT.—Paragraph (2) of section 6213(b) is amended by add-
+ing at the end the following new subparagraph:
+‘‘(C) NOTICE.—Upon determination of an abatement pursuant to subpara-
+graph (A), the Secretary shall send notice to the taxpayer of such abate-
+ment which—
+‘‘(i) is sent to the taxpayer’s last known address,
+‘‘(ii) describes the abatement in comprehensive, plain language, and
+‘‘(iii) provides an itemized computation of any adjustments to be
+made to the items described in the notice of mathematical or clerical
+error, including any changes to any item described in paragraph
+(1)(B)(i)(III).’’.
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+3
+(c) EFFECTIVEDATE.—The amendments made by this section shall apply to notices
+sent after the date which is 12 months after the date of the enactment of this Act.
+(d) PROCEDURES.—Not later than 180 days after the date of the enactment of this
+Act, the Secretary of the Treasury (or such Secretary’s delegate) shall provide for
+procedures by which a taxpayer may request an abatement referred to in section
+6213(b)(1)(B)(i)(V) of the Internal Revenue Code of 1986 in writing, electronically,
+by telephone, or in person.
+(e) PILOT PROGRAM.—Not later than 18 months after the date of the enactment
+of this Act, the Secretary of the Treasury (or such Secretary’s delegate), in consulta-
+tion with the National Taxpayer Advocate, shall—
+(1) implement a pilot program to send a trial number of notices, in an amount
+which is a statistically significant portion of all such notices, of mathematical
+or clerical error pursuant to section 6213(b) of the Internal Revenue Code of
+1986 by certified or registered mail with e-signature confirmation of receipt, and
+(2) report to Congress, aggregated by the type of error under section 6213(g)
+of such Code to which the notices relate, on—
+(A) the number of mathematical or clerical errors noticed under the pro-
+gram and the dollar amounts involved,
+(B) the number of abatements of tax and the dollar amounts of such
+abatements, and
+(C) the effect of such pilot program on taxpayer response and adjustments
+or abatements to tax,
+with conclusions drawn about the effectiveness of certified or registered mail,
+with and without return receipt, and any other recommendations for improving
+taxpayer response rates.
+I. SUMMARY AND BACKGROUND
+A. PURPOSE AND SUMMARY
+The bill, H.R. 998, the ‘‘Internal Revenue Service Math and Tax-
+payer Help Act,’’ as amended, was ordered reported by the Com-
+mittee on Ways and Means on February 12, 2025.
+The provision establishes rules for the content required in a no-
+tice of math or clerical error, to ensure that the recipient will un-
+derstand the nature of the error identified by the IRS and how to
+seek an abatement of the additional tax if the taxpayer believes the
+IRS is in error. In addition, it requires that the IRS issue notices
+of abatements when it reverses the math error assessment on tax-
+payer request and prescribes specific rules for such notices. Within
+180 days of enactment, the Secretary is required to establish new
+rules and guidance on how to seek abatement of a tax assessment
+made under math error authority. Finally, the provision requires
+that the IRS conduct a pilot program to evaluate the effectiveness
+of issuing such notices of math error by certified or registered mail,
+with or without confirmation of receipt, to report to Congress on
+the results of that program, and to make recommendations on how
+to further improve taxpayer response to notices.
+B. BACKGROUND AND NEED FOR LEGISLATION
+Each year, the IRS sends millions of ‘‘math error’’ notices to tax-
+payers that propose to adjust their tax liabilities.1 These math
+error notices often do not explain the reasons for the adjustments,
+and some are never received by the taxpayer due to lost mail.2 The
+IRS is not currently required to inform taxpayers that they must
+dispute the adjustments within 60 days if they disagree or gen-
+1Legislative Recommendation #37—Clarify That the National Taxpayer Advocate May Hire
+Legal Counsel to Enable Her to Advocate More Effectively for Taxpayers, National Taxpayer Ad-
+vocate 2025 Purple Book (Dec. 31, 2024), https://www.taxpayeradvocate.irs.gov/reports/2024-an-
+nual-report-to-congress/national-taxpayer-advocate-2025-purple-book/.
+2Id.
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+4
+erally forfeit their right to do so.3 Many taxpayers do not under-
+stand that the failure to respond to an IRS math error notice with-
+in 60 days means they have conceded the adjustment and have for-
+feited their right to challenge the IRS’s position in Tax Court.4
+The Committee on Ways and Means is committed to leveling the
+playing field for taxpayers by ensuring that they are notified of any
+adjustments to their tax return and giving them enough time to
+challenge the adjustment, if necessary. Taxpayers deserve full
+transparency and an ability to challenge the IRS when they exer-
+cise their math error authority.
+C. LEGISLATIVE HISTORY
+Background
+H.R. 998 was introduced on February 10, 2025, and was referred
+to the Committee on Ways and Means.
+Committee Hearings
+On February 11, 2025, the Committee on Ways and Means held
+a hearing titled, ‘‘IRS Return on Investment and the Need for Mod-
+ernization’’.
+Committee Action
+The Committee on Ways and Means marked up H.R. 998, on
+February 12, 2025, and order the bill, as amended, favorably re-
+ported (with a quorum being present).
+D. DESIGNATED HEARING
+Pursuant to clause 3(c)(6) of rule XIII, the following hearing was
+used to develop and consider H.R. 998:
+‘‘IRS Return on Investment and the Need for Modernization’’
+on February 11, 2025.
+II. EXPLANATION OF THE BILL
+A. THE INTERNAL REVENUE SERVICE MATH ERROR AND TAXPAYER
+HELP ACT (SEC. 2 OF THE BILL AND SEC. 6213(b)5 OF THE CODE)
+PRESENT LAW
+In general
+The Federal income tax system relies upon self-reporting and as-
+sessment. A taxpayer is expected to prepare a report of his or her
+liability6 and submit it to the Internal Revenue Service (‘‘IRS’’)
+with any payment due. The Code provides general authority for the
+IRS to assess all taxes shown on returns, including assessment of
+tax computed by the taxpayer,7 other than certain Federal unem-
+ployment tax and estimated income taxes.8 The assessment is re-
+quired to be made by recording the liability in the ‘‘office of the
+3Id.
+4Id.
+5All section references in the document are to the Internal Revenue Code of 1986, as amended
+(the ‘‘Code’’), unless otherwise stated.
+6Secs. 6011 and 6012.
+7Sec. 6201.
+8Sec. 6201(b).
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+5
+Secretary’’ in a manner determined under regulations.9 In addition,
+the IRS may make supplemental assessments within the limita-
+tions period whenever it determines that an assessment was imper-
+fect or incomplete.10
+The authority of the IRS to assess additional tax is generally
+subject to certain restrictions on assessment known as deficiency
+procedures.11 These deficiency procedures generally ensure a tax-
+payer access to administrative review and a pre-payment judicial
+forum (i.e., the United States Tax Court) for reviewing disputed ad-
+justments proposed by the IRS. A deficiency of tax is the amount
+by which the liability determined under the Code exceeds the sum
+of certain taxes12 assessed for a period (including amounts shown
+on a return), after reduction for any rebates of tax.
+Math error exception to restrictions on assessments
+There are several exceptions to the restrictions on assessment of
+tax.13 One of the principal exceptions is the IRS’s authority to
+make a summary assessment of tax without issuance of a notice of
+deficiency if the error is a result of a mathematical or clerical error,
+generally referred to as math error authority. Purely mathematical
+or clerical issues are often identified early in the processing of a re-
+turn, prior to issuance of any refund rather than as a result of an
+examination of a return. Other grounds for math error authority
+may be identified after initial processing, including in the course of
+an examination of other issues subject to the general restrictions
+on assessment.
+Definition of math error
+The definition of mathematical or clerical errors is not limited to
+math, clerical, or transcription errors. It addresses over 20 cat-
+egories of errors,14 many of which relate to rules regarding refund-
+able credits.15 Since 2015, the math error authority covers situa-
+tions for which a taxpayer claiming certain refundable credits ei-
+ther is subject to a multi-year ban against claiming such credits as
+a consequence of having made a prior fraudulent or reckless claim
+or, in the case of taxpayer who has made prior improper claims,
+omits information required by the Secretary to demonstrate eligi-
+bility for the credit.16 In 2020 and 2021, math error authority was
+expanded to cover certain errors related to valid taxpayer identi-
+fication numbers and reconciliation of advance payments with re-
+spect to the 2020 recovery rebate credit, 2020 additional recovery
+9Sec. 6203.
+10Sec. 6204.
+11Secs. 6211 through 6215.
+12The taxes to which deficiency procedures apply are income, estate and gift and excise taxes
+arising under chapters 41, 42, or 44. Secs. 6211 and 6213.
+13Section 6213 provides that a taxpayer may waive the restrictions on assessment, permits
+immediate assessment to reflect payments of tax remitted to the IRS and to correct amounts
+credited or applied as a result of claims for carrybacks under section 1341(b), and requires as-
+sessment of amounts ordered as criminal restitution. Assessment is also permitted in certain
+circumstances in which collection of the tax would be in jeopardy. Secs. 6851, 6852, and 6861.
+14Secs. 6213(g)(2)(A) through (V).
+15Math error authority currently applies to certain errors related to the earned income tax
+credit, the child tax credit, the American opportunity tax credit, recovery rebate credits, and
+various energy-related credits.
+16Secs. 6213(g)(2)(K), (P), and (Q). Pub. L. No. 114–113, Div. Q, sec. 208.
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+6
+rebate credit, and 2021 recovery rebate credit.17 In 2022, math
+error authority was again expanded to apply to errors in docu-
+menting energy related credits, including omission of product or ve-
+hicle identification numbers.18
+Notice of math error assessment and request for abatement
+If a mistake on the return is of a type that is within the meaning
+of mathematical or clerical error, the IRS immediately assesses the
+additional tax due as a result of correcting the mistake and sends
+notice to the taxpayer informing the taxpayer of the assessment.
+The statute is silent as to the level of detail required in the notice.
+Math error authority may be used to deny an improperly claimed
+credit, either during initial processing of a return on which the
+credit is claimed or in an examination of the return after the re-
+fund has been issued, and to assess immediately any additional tax
+due as a result without issuing a notice of deficiency. The issuance
+of a notice of math error begins a 60-day period within which the
+taxpayer may submit a request for abatement of the math error ad-
+justment. If a taxpayer timely submits a request, the statute di-
+rects the IRS to abate the assessment. The IRS may then refer the
+unresolved issue for examination under the deficiency procedures.19
+REASONS FOR CHANGE
+Under present law, the IRS is not required to send notices of its
+exercise of math error authority by certified or registered mail, un-
+like the requirements applicable to notices of deficiency following
+an examination, which must be sent to the last known address of
+the taxpayer, by certified mail (registered mail if the address is
+outside the United States). As a result, the IRS has developed form
+letters intended to inform the taxpayer of the nature of the prob-
+lem, which sometimes include preprinted lists of potential bases on
+which an assessment is made. Furthermore, many taxpayers are
+not aware of their right to right to question the assessment by
+seeking an abatement. Even for those who are aware of the right
+to do so, the lack of clarity in some form letters used by the IRS
+have prevented taxpayers from understanding the nature of the
+error they may have made on a return and how to refute it.
+EXPLANATION OF PROVISION
+The provision amends the statute authorizing use of math error
+assessment authority. It prescribes specific procedures and content
+for notices of math or clerical error, requires the IRS to update pro-
+cedures on how to request abatement and, upon determination of
+an abatement, to issue a notice of abatement to the taxpayer. In
+addition, the provision requires implementation of a pilot program
+to explore use of certified or registered mail for issuance of math
+error notices.
+17Pub. L. No. 116–136, sec. 2201; Pub. L. No. 116–260, Div. N, sec. 272; Pub. L. No. 117–
+2, title IX, sec. 9601. See also secs. 6213(g)(2)(L); 6428(e)(1), (g)(4); 6428A(e)(1), (g)(7);
+6428B(e)(2)(G), (f)(1).
+18Secs. 6213(g)(2)(R), (S), (T), (U), and (V). Pub. L. No. 117–169, secs. 13301(g)(2), 13401(i)(4),
+13402(c), and 13403(b)(2).
+19Sec. 6213(b)(2)(A).
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+7
+Notice of math or clerical error
+With respect to the issuance of a notice of math or clerical as-
+sessment, the provision requires that the IRS send such notice to
+the taxpayer’s last known address and describe the math or clerical
+error in plain language. The due date for submission of a request
+for abatement must be included in 14-point font, boldface, next to
+the address of the taxpayer on the first page of the notice. The no-
+tice must include the telephone number for the automated phone
+transcript service, as well as an itemized computation of adjust-
+ments.
+With respect to the description of the math error adjustment, the
+IRS must include the type of error, the section of the Code to which
+the error relates, and the line on the return on which the error was
+made. In identifying the type of error, the notice may not rely on
+a list of multiple categories of math errors in the alternative. In-
+stead, it must identify the specific type of math error authority re-
+lied upon for each specific error on the return.
+The itemized computation of the adjustments must address all
+changes to any component of the computation of taxable income
+and tax liability or tax due. These items include adjusted gross in-
+come, taxable income, itemized or standard deductions, credits
+(whether or not refundable), losses, and other items specifically
+listed in the provision.
+Abatement process
+The IRS is directed to prescribe procedures that permit tax-
+payers to request abatement in writing, electronically, by tele-
+phone, or in person. Such procedures are to be issued no later than
+180 days after date of enactment.
+If an abatement is made after a notice of math error, a notice
+of abatement sent to the taxpayer’s last known address is required.
+Such notice must include a plain language description of the abate-
+ment as well as an itemized computation of any adjustments made
+to the items that were included in the notice of math or clerical
+error.
+Pilot program and report to Congress
+The provision requires that the Secretary, in cooperation with
+the National Taxpayer Advocate, conduct a study of the effective-
+ness of use of certified or registered mail, with e-signature con-
+firmation of receipt and report the results to Congress. The study
+is to include issuance of trial notices in an amount which is a sta-
+tistically significant portion of all such notices. The program must
+be implemented no later than 18 months after date of enactment.
+For each type of math error authority relied upon in the notices,
+the report shall include information on the number and dollar
+amounts of notices under the trial, as well as similar information
+on the number and dollar amount of abatements under the trial
+and the pilot program effect on taxpayer responsiveness. The report
+is to include conclusions about the effectiveness of using certified
+or registered mail, with or without confirmation of receipt, as well
+as any recommendations on how to improve taxpayer response
+rates.
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+8
+EFFECTIVE DATE
+The provision is effective on date of enactment, except for amend-
+ments to the Code, which are effective for notices sent after the
+date which is 12 months after date of enactment.
+III. VOTE OF THE COMMITTEE
+Pursuant to clause 3(b) of rule XIII of the Rules of the House of
+Representatives, the following statement is made concerning the
+vote of the Committee on Ways and Means in its consideration of
+H.R. 998, the ‘‘Internal Revenue Service Math and Taxpayer Help
+Act,’’ on February 12, 2025.
+The bill, H.R. 998, the ‘‘Internal Revenue Service Math and Tax-
+payer Help Act,’’ as amended, was ordered favorably reported to
+the House of Representatives by a recorded vote of 43 yeas and 0
+nays (with a quorum being present).
+Representative Yea Nay Present Representative Yea Nay Present
+Mr. Smith (MO) ................... X ............. ............. Mr. Neal ............................. X ............. .............
+Mr. Buchanan ..................... X ............. ............. Mr. Doggett ........................ X ............. .............
+Mr. Smith (NE).................... X ............. ............. Mr. Thompson .................... X ............. .............
+Mr. Kelly .............................. ........... ............. ............. Mr. Larson.......................... X ............. .............
+Mr. Schweikert .................... X ............. ............. Mr. Davis............................ X ............. .............
+Mr. LaHood.......................... X ............. ............. Ms. Sa´nchez....................... X ............. .............
+Mr. Arrington....................... X ............. ............. Ms. Sewell.......................... X ............. .............
+Mr. Estes............................. X ............. ............. Ms. DelBene ....................... X ............. .............
+Mr. Smucker........................ X ............. ............. Ms. Chu.............................. X ............. .............
+Mr. Hern .............................. X ............. ............. Ms. Moore (WI)................... X ............. .............
+Mrs. Miller (WV) .................. X ............. ............. Mr. Boyle ............................ X ............. .............
+Dr. Murphy .......................... X ............. ............. Mr. Beyer............................ X ............. .............
+Mr. Kustoff .......................... X ............. ............. Mr. Evans........................... X ............. .............
+Mr. Fitzpatrick..................... X ............. ............. Mr. Schneider..................... X ............. .............
+Mr. Steube........................... X ............. ............. Mr. Panetta ........................ X ............. .............
+Ms. Tenney .......................... X ............. ............. Mr. Gomez .......................... ........... ............. .............
+Mrs. Fischbach.................... X ............. ............. Mr. Horsford ....................... X ............. .............
+Mr. Moore (UT) .................... X ............. ............. Ms. Plaskett ....................... X ............. .............
+Ms. Van Duyne.................... X ............. ............. Mr. Suozzi........................... X ............. .............
+Mr. Feenstra........................ X ............. .............
+Ms. Malliotakis.................... X ............. .............
+Mr. Carey............................. X ............. .............
+Mr. Yakym ........................... X ............. .............
+Mr. Miller (OH) .................... X ............. .............
+Mr. Bean ............................. X ............. .............
+Mr. Moran............................ X ............. .............
+IV. BUDGET EFFECTS OF THE BILL
+A. COMMITTEE ESTIMATE OF BUDGETARY EFFECTS
+In compliance with clause 3(d) of rule XIII of the Rules of the
+House of Representatives, the following statement is made con-
+cerning the effects on the budget of the bill, H.R. 998 as reported.
+The estimate prepared by the Joint Committee on Taxation (JCT)
+is included below.
+The staff of the Joint Committee on Taxation estimates the bill
+to have the following effect on Federal fiscal year budget receipts
+for the period 2025 through 2034:
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+9
+Fiscal years, millions of dollars—
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2025–29 2025–34
+0 ........... ¥3 ¥3 ¥3 ¥4 ¥4 ¥4 ¥4 ¥4 ¥4 ¥14 ¥33
+NOTE: Details may not add to totals due to rounding. The date of enactment is assumed to be March 1, 2025.
+B. STATEMENT REGARDING NEW BUDGET AUTHORITY AND TAX
+EXPENDITURES BUDGET AUTHORITY
+In compliance with clause 3(c)(2) of rule XIII of the Rules of the
+House of Representatives, the Committee states that the bill in-
+volves no new or increased budget authority.
+C. COST ESTIMATE PREPARED BY THE CONGRESSIONAL BUDGET
+OFFICE
+The Congressional Budget Act of 1974, as amended stipulates
+that revenue estimates provided by the staff of the Joint Com-
+mittee on Taxation (‘‘JCT’’) will be the official estimates for all tax
+legislation considered by Congress. As such CBO incorporates these
+estimates into its cos estimates of the effects of the legislation. The
+estimates for the revenue provisions of H.R. 998 were provided by
+JCT (See Section IV, Subsection).
+V. OTHER MATTERS TO BE DISCUSSED UNDER THE
+RULES OF THE HOUSE
+A. COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+With respect to clause 3(c)(1) of rule XIII of the Rules of the
+House of Representatives, the Committee made findings and rec-
+ommendations that are reflected in this report.
+B. STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+With respect to clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee advises that the bill does
+not authorize funding, so no statement of general performance
+goals and objectives is required.
+C. APPLICABILITY OF HOUSE RULE XXI, CLAUSE 5(b)
+Rule XXI 5(b) of the Rules of the House of Representatives pro-
+vides, in part, that ‘‘A bill or joint resolution, amendment, or con-
+ference report carrying a Federal income tax rate increase may not
+be considered as passed or agreed to unless so determined by a
+vote of not less than three-fifths of the Members voting, a quorum
+being present.’’ The Committee has carefully reviewed the bill, and
+states that the bill does not provide such a Federal income tax rate
+increase.
+D. INFORMATION RELATING TO UNFUNDED MANDATES
+This information is provided in accordance with section 423 of
+the Unfunded Mandates Reform Act of 1995 (Pub. L. No. 104–4).
+The Committee has determined that the bill does not contain
+Federal mandates on the private sector. The Committee has deter-
+mined that the bill does not impose a Federal intergovernmental
+mandate on State, local, or tribal governments.
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+10
+E. CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND
+LIMITED TARIFF BENEFITS
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the bill, and states that the provisions of the bill do not
+contain any congressional earmarks, limited tax benefits, or limited
+tariff benefits within the meaning of the rule.
+F. DUPLICATION OF FEDERAL PROGRAMS
+In compliance with clause 3(c)(5) of rule XIII of the Rules of the
+House of Representatives, the Committee states that no provision
+of the bill establishes or reauthorizes: (1) a program of the Federal
+Government known to be duplicative of another Federal program;
+(2) a program included in any report from the Government Ac-
+countability Office to Congress pursuant to section 21 of Public
+Law 111–139; or (3) a program related to a program identified in
+the most recent Catalog of Federal Domestic Assistance, published
+pursuant to the Federal Program Information Act (Pub. L. No. 95–
+220, as amended by Pub. L. No. 98–169).
+G. TAX COMPLEXITY ANALYSIS
+
+Section 3:
+Section 4022(b) of the Internal Revenue Service Reform and Re-
+structuring Act of 1998 (the ‘‘IRS Reform Act’’) requires the staff
+of the Joint Committee on Taxation (in consultation with the Inter-
+nal Revenue Service and the Treasury Department) to provide a
+tax complexity analysis. The complexity analysis is required for all
+legislation reported by the Senate Committee on Finance, the
+House Committee on Ways and Means, or any committee of con-
+ference if the legislation includes a provision that directly or indi-
+rectly amends the Internal Revenue Code and has widespread ap-
+plicability to individuals or small businesses.
+The staff of the Joint Committee on Taxation has determined
+that there are no provisions that are of widespread applicability to
+individuals or small businesses.
+VI. CHANGES IN EXISTING LAW MADE BY THE BILL, AS
+REPORTED
+A. TEXT OF EXISTING LAW AMENDED OR REPEALED BY THE BILL, AS
+REPORTED
+Pursuant to clause 3(e) of rule XIII of the Rules of the House of
+Representatives, the text of each section proposed to be repealed by
+the bill is shown below:
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+11
+INTERNAL REVENUE CODE OF 1986
+* * * * * * *
+Subtitle F—Procedure and Administration
+* * * * * * *
+CHAPTER 63—ASSESSMENT
+* * * * * * *
+Subchapter B—DEFICIENCY PROCEDURES IN
+THE CASE OF INCOME, ESTATE, GIFT, AND
+CERTAIN EXCISE TAXES
+* * * * * * *
+SEC. 6213. RESTRICTIONS APPLICABLE TO DEFICIENCIES; PETITION
+TO TAX COURT.
+(a) TIME FOR FILING PETITION AND RESTRICTION ON ASSESS-
+MENT.—Within 90 days, or 150 days if the notice is addressed to
+a person outside the United States, after the notice of deficiency
+authorized in section 6212 is mailed (not counting Saturday, Sun-
+day, or a legal holiday in the District of Columbia as the last day),
+the taxpayer may file a petition with the Tax Court for a redeter-
+mination of the deficiency. Except as otherwise provided in section
+6851, 6852, or 6861 no assessment of a deficiency in respect of any
+tax imposed by subtitle A, or B, chapter 41, 42, 43, or 44 and no
+levy or proceeding in court for its collection shall be made, begun,
+or prosecuted until such notice has been mailed to the taxpayer,
+nor until the expiration of such 90-day or 150-day period, as the
+case may be, nor, if a petition has been filed with the Tax Court,
+until the decision of the Tax Court has become final. Notwith-
+standing the provisions of section 7421(a), the making of such as-
+sessment or the beginning of such proceeding or levy during the
+time such prohibition is in force may be enjoined by a proceeding
+in the proper court, including the Tax Court, and a refund may be
+ordered by such court of any amount collected within the period
+during which the Secretary is prohibited from collecting by levy or
+through a proceeding in court under the provisions of this sub-
+
+Section 4:
+section. The Tax Court shall have no jurisdiction to enjoin any ac-
+tion or proceeding or order any refund under this subsection unless
+a timely petition for a redetermination of the deficiency has been
+filed and then only in respect of the deficiency that is the subject
+of such petition. Any petition filed with the Tax Court on or before
+the last date specified for filing such petition by the Secretary in
+the notice of deficiency shall be treated as timely filed.
+(b) EXCEPTIONS TO RESTRICTIONS ON ASSESSMENT.—
+(1) ASSESSMENTS ARISING OUT OF MATHEMATICAL OR CLER-
+ICAL ø ERRORS.—¿ øIf the taxpayer¿ ERRORS.—
+(A) IN GENERAL.—If the taxpayer is notified that, on ac-
+count of a mathematical or clerical error appearing on the
+return, an amount of tax in excess of that shown on the
+return is due, and that an assessment of the tax has been
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+12
+or will be made on the basis of what would have been the
+correct amount of tax but for the mathematical or clerical
+error, such notice shall not be considered as a notice of de-
+ficiency for the purposes of subsection (a) (prohibiting as-
+sessment and collection until notice of the deficiency has
+been mailed), or of section 6212(c)(1) (restricting further
+deficiency letters), or of section 6512(a) (prohibiting credits
+or refunds after petition to the Tax Court), and the tax-
+payer shall have no right to file a petition with the Tax
+Court based on such notice, nor shall such assessment or
+collection be prohibited by the provisions of subsection (a)
+of this section. øEach notice¿ Subject to subparagraph (B),
+each notice under this paragraph shall set forth the error
+alleged and an explanation thereof.
+(B) SPECIFICITY OF MATH OR CLERICAL ERROR NOTICE.—
+(i) IN GENERAL.—The notice provided under subpara-
+graph (A) shall—
+(I) be sent to the taxpayer’s last known address,
+(II) describe the mathematical or clerical error in
+comprehensive, plain language, including—
+(aa) the type of error,
+(bb) the section of this title to which the
+error relates,
+(cc) a description of the nature of the error,
+and
+(dd) the specific line of the return on which
+the error was made,
+(III) an itemized computation of any direct or in-
+cidental adjustments to be made to the return in
+correction of the error, including any adjustment to
+the amount of—
+(aa) adjusted gross income,
+(bb) taxable income,
+(cc) itemized or standard deductions,
+(dd) nonrefundable credits,
+(ee) credits under section 24, 25A, 32, 35, or
+36B, credits claimed with respect to undistrib-
+uted long-term capital gains on Form 2439,
+credits for Federal taxes paid on fuels claimed
+on Form 4136, and any other refundable cred-
+its,
+(ff) income tax,
+(gg) other taxes,
+(hh) total tax,
+(ii) Federal income tax withheld or excess
+tax withheld under section 3101 or 3201(a),
+(jj) estimated tax payments, including
+amount applied from prior year’s return,
+(kk) refund or amount owed,
+(ll) net operating loss carryforwards, or
+(mm) credit carryforwards,
+(IV) include the telephone number for the auto-
+mated phone transcript service, and
+(V) display the date by which the taxpayer may
+request to abate any assessment specified in such
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6603 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+13
+notice pursuant to paragraph (2)(A), in bold, font
+size 14, and immediately next to the taxpayer’s ad-
+dress on page 1 of the notice.
+(ii) NO LISTS OF POTENTIAL ERRORS.—A notice which
+provides multiple potential or alternative errors which
+may be applicable to the return shall not be sufficiently
+specific for purposes of clause (i)(II); however, if mul-
+tiple specific errors apply to the return all such errors
+should be listed.
+(2) ABATEMENT OF ASSESSMENT OF MATHEMATICAL OR CLER-
+ICAL ERRORS.—
+(A) REQUEST FOR ABATEMENT.—Notwithstanding section
+6404(b), a taxpayer may file with the Secretary within 60
+days after notice is sent under paragraph (1) a request for
+an abatement of any assessment specified in such notice,
+and upon receipt of such request, the Secretary shall abate
+the assessment. Any reassessment of the tax with respect
+to which an abatement is made under this subparagraph
+shall be subject to the deficiency procedures prescribed by
+this subchapter.
+(B) STAY OF COLLECTION.—In the case of any assessment
+referred to in paragraph (1), notwithstanding paragraph
+(1), no levy or proceeding in court for the collection of such
+assessment shall be made, begun, or prosecuted during the
+period in which such assessment may be abated under this
+paragraph.
+(C) NOTICE.—Upon determination of an abatement pur-
+suant to subparagraph (A), the Secretary shall send notice
+to the taxpayer of such abatement which—
+(i) is sent to the taxpayer’s last known address,
+(ii) describes the abatement in comprehensive, plain
+language, and
+(iii) provides an itemized computation of any adjust-
+ments to be made to the items described in the notice
+of mathematical or clerical error, including any
+changes to any item described in paragraph
+(1)(B)(i)(III).
+(3) ASSESSMENTS ARISING OUT OF TENTATIVE CARRYBACK OR
+REFUND ADJUSTMENTS.—If the Secretary determines that the
+amount applied, credited, or refunded under section 6411 is in
+excess of the overassessment attributable to the carryback or
+the amount described in section 1341(b)(1) with respect to
+which such amount was applied, credited, or refunded, he may
+assess without regard to the provisions of paragraph (2) the
+amount of the excess as a deficiency as if it were due to a
+mathematical or clerical error appearing on the return.
+(4) ASSESSMENT OF AMOUNT PAID.—Any amount paid as a
+tax or in respect of a tax may be assessed upon the receipt of
+such payment notwithstanding the provisions of subsection (a).
+In any case where such amount is paid after the mailing of a
+notice of deficiency under section 6212, such payment shall not
+deprive the Tax Court of jurisdiction over such deficiency de-
+termined under section 6211 without regard to such assess-
+ment.
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6601 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+14
+(5) CERTAIN ORDERS OF CRIMINAL RESTITUTION.—If the tax-
+payer is notified that an assessment has been or will be made
+pursuant to section 6201(a)(4)—
+(A) such notice shall not be considered as a notice of de-
+ficiency for the purposes of subsection (a) (prohibiting as-
+sessment and collection until notice of the deficiency has
+been mailed), section 6212(c)(1) (restricting further defi-
+ciency letters), or section 6512(a) (prohibiting credits or re-
+funds after petition to the Tax Court), and
+(B) subsection (a) shall not apply with respect to the
+amount of such assessment.
+(c) FAILURE TO FILE PETITION.—If the taxpayer does not file a pe-
+tition with the Tax Court within the time prescribed in subsection
+(a), the deficiency, notice of which has been mailed to the taxpayer,
+shall be assessed, and shall be paid upon notice and demand from
+the Secretary.
+(d) WAIVER OF RESTRICTIONS.—The taxpayer shall at any time
+(whether or not a notice of deficiency has been issued) have the
+right, by a signed notice in writing filed with the Secretary, to
+waive the restrictions provided in subsection (a) on the assessment
+and collection of the whole or any part of the deficiency.
+(e) SUSPENSION OF FILING PERIOD FOR CERTAIN EXCISE TAXES.—
+The running of the time prescribed by subsection (a) for filing a pe-
+tition in the Tax Court with respect to the taxes imposed by section
+4941 (relating to taxes on self-dealing), 4942 (relating to taxes on
+failure to distribute income), 4943 (relating to taxes on excess busi-
+ness holdings), 4944 (relating to investments which jeopardize
+charitable purpose), 4945 (relating to taxes on taxable expendi-
+tures), 4951 (relating to taxes on self-dealing), or 4952 (relating to
+taxes on taxable expenditures), 4955 (relating to taxes on political
+expenditures), 4958 (relating to private excess benefit), 4971 (relat-
+ing to excise taxes on failure to meet minimum funding standard),
+4975 (relating to excise taxes on prohibited transactions) shall be
+suspended for any period during which the Secretary has extended
+the time allowed for making correction under section 4963(e).
+(f) COORDINATION WITH TITLE 11.—
+(1) SUSPENSION OF RUNNING OF PERIOD FOR FILING PETITION
+IN TITLE 11 CASES.—In any case under title 11 of the United
+States Code, the running of the time prescribed by subsection
+(a) for filing a petition in the Tax Court with respect to any
+deficiency shall be suspended for the period during which the
+debtor is prohibited by reason of such case from filing a peti-
+tion in the Tax Court with respect to such deficiency, and for
+60 days thereafter.
+(2) CERTAIN ACTION NOT TAKEN INTO ACCOUNT.—For pur-
+poses of the second and third sentences of subsection (a), the
+filing of a proof of claim or request for payment (or the taking
+of any other action) in a case under title 11 of the United
+States Code shall not be treated as action prohibited by such
+second sentence.
+(g) DEFINITIONS.—For purposes of this section—
+(1) RETURN.—The term ‘‘return’’ includes any return, state-
+ment, schedule, or list, and any amendment or supplement
+thereto, filed with respect to any tax imposed by subtitle A or
+B, or chapter 41, 42, 43, or 44.
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6601 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+15
+(2) MATHEMATICAL OR CLERICAL ERROR.—The term ‘‘mathe-
+matical or clerical error’’ means—
+(A) an error in addition, subtraction, multiplication, or
+division shown on any return,
+(B) an incorrect use of any table provided by the Inter-
+nal Revenue Service with respect to any return if such in-
+correct use is apparent from the existence of other infor-
+mation on the return,
+(C) an entry on a return of an item which is inconsistent
+with another entry of the same or another item on such re-
+turn,
+(D) an omission of information which is required to be
+supplied on the return to substantiate an entry on the re-
+turn,
+(E) an entry on a return of a deduction or credit in an
+amount which exceeds a statutory limit imposed by sub-
+title A or B, or chapter 41, 42, 43, or 44, if such limit is
+expressed—
+(i) as a specified monetary amount, or
+(ii) as a percentage, ratio, or fraction,
+and if the items entering into the application of such limit
+appear on such return,
+(F) an omission of a correct taxpayer identification num-
+ber required under section 32 (relating to the earned in-
+come credit) to be included on a return,
+(G) an entry on a return claiming the credit under sec-
+tion 32 with respect to net earnings from self-employment
+described in section 32(c)(2)(A) to the extent the tax im-
+posed by section 1401 (relating to self-employment tax) on
+such net earnings has not been paid,
+(H) an omission of a correct TIN required under section
+21 (relating to expenses for household and dependent care
+services necessary for gainful employment) or section 151
+(relating to allowance of deductions for personal exemp-
+tions),
+(I) an omission of a correct TIN required under section
+24(e) (relating to child tax credit) to be included on a re-
+turn,
+(J) an omission of a correct TIN required under section
+25A(g)(1) (relating to higher education tuition and related
+expenses) to be included on a return,
+(K) an omission of information required by section
+32(k)(2) (relating to taxpayers making improper prior
+claims of earned income credit) or an entry on the return
+claiming the credit under section 32 for a taxable year for
+which the credit is disallowed under subsection (k)(1)
+thereof,
+(L) the inclusion on a return of a TIN required to be in-
+cluded on the return under section 21, 24, 32, 6428, or
+6428A if—
+(i) such TIN is of an individual whose age affects the
+amount of the credit under such section, and
+(ii) the computation of the credit on the return re-
+flects the treatment of such individual as being of an
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6659 Sfmt 6601 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+16
+age different from the individual’s age based on such
+TIN,
+(M) the entry on the return claiming the credit under
+
+Section 5:
+section 32 with respect to a child if, according to the Fed-
+eral Case Registry of Child Support Orders established
+under section 453(h) of the Social Security Act, the tax-
+payer is a noncustodial parent of such child,
+(N) an omission of any increase required under section
+36(f) with respect to the recapture of a credit allowed
+under section 36,
+(O) the inclusion on a return of an individual taxpayer
+identification number issued under section 6109(i) which
+has expired, been revoked by the Secretary, or is otherwise
+invalid,
+(P) an omission of information required by section
+24(g)(2) or an entry on the return claiming the credit
+under section 24 for a taxable year for which the credit is
+disallowed under subsection (g)(1) thereof,
+(Q) an omission of information required by section
+25A(b)(4)(B) or an entry on the return claiming the Amer-
+ican Opportunity Tax Credit for a taxable year for which
+such credit is disallowed under section 25A(b)(4)(A),
+(R) an omission of information or documentation re-
+quired under section 25C(b)(6)(B) (relating to home energy
+audits) to be included on a return,
+(S) an omission of a correct product identification num-
+ber required under section 25C(h) (relating to credit for
+nonbusiness energy property) to be included on a return,
+(T) an omission of a correct vehicle identification number
+required under section 30D(f)(9) (relating to credit for new
+clean vehicles) to be included on a return,
+(U) an omission of a correct vehicle identification num-
+ber required under section 25E(d) (relating to credit for
+previously-owned clean vehicles) to be included on a re-
+turn, and
+(V) an omission of a correct vehicle identification number
+required under section 45W(e) (relating to commercial
+clean vehicle credit) to be included on a return.
+A taxpayer shall be treated as having omitted a correct TIN for
+purposes of the preceding sentence if information provided by
+the taxpayer on the return with respect to the individual
+whose TIN was provided differs from the information the Sec-
+retary obtains from the person issuing the TIN.
+(h) CROSS REFERENCES.—
+(1) For assessment as if a mathematical error on the re-
+turn, in the case of erroneous claims for income tax pre-
+payment credits, see section 6201(a)(3).
+(2) For assessments without regard to restrictions im-
+posed by this section in the case of—
+(A) Recovery of foreign income taxes, see section
+905(c).
+(B) Recovery of foreign estate tax, see section 2016.
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6659 Sfmt 6601 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+17
+(3) For provisions relating to application of this sub-
+chapter in the case of certain partnership items, etc., see
+
+Section 6:
+section 6230(a).
+* * * * * * *
+Æ
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00017 Fmt 6659 Sfmt 6611 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–42
+INTERNAL REVENUE SERVICE MATH AND TAXPAYER
+HELP ACT
+MARCH27, 2025.—Committed to the Committee of the Whole House on the State
+of the Union and ordered to be printed
+Mr. SMITH of Missouri, from the Committee on Ways and Means,
+submitted the following
+R E P O R T
+[To accompany H.R. 998]
+The Committee on Ways and Means, to whom was referred the
+bill (H.R. 998) to amend the Internal Revenue Code of 1986 to re-
+quire additional information on math and clerical error notices,
+having considered the same, reports favorably thereon with an
+amendment and recommends that the bill as amended do pass.
+CONTENTS
+Page
+I. SUMMARY AND BACKGROUND ................................................................. 3
+A. Purpose and Summary ..................................................................... 3
+B. Background and Need for Legislation ............................................. 3
+C. Legislative History ............................................................................ 4
+D. Designated Hearing .......................................................................... 4
+II. EXPLANATION OF THE BILL ...................................................................... 4
+III. VOTE OF THE COMMITTEE......................................................................... 8
+IV. BUDGET EFFECTS OF THE BILL ............................................................... 8
+A. Committee Estimate of Budgetary Effects ...................................... 8
+B. Statement Regarding New Budget Authority and Tax Expendi-
+tures Budget Authority. ................................................................. 9
+C. Cost Estimate Prepared by the Congressional Budget Office ....... 9
+V. OTHER MATTERS TO BE DISCUSSED UNDER THE RULES OF THE
+HOUSE .......................................................................................................... 9
+A. Committee Oversight Findings and Recommendations ................. 9
+B. Statement of General Performance Goals and Objectives ............. 9
+C. Applicability of House Rule XXI, Clause 5(b) ................................. 9
+D. Information Relating to Unfunded Mandates ................................ 9
+E. Congressional Earmarks, Limited Tax Benefits, and Limited
+Tariff Benefits ................................................................................. 10
+F. Duplication of Federal Programs ..................................................... 10
+G. Tax Complexity Analysis .................................................................. 10
+VI. CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED 10
+The amendment is as follows:
+59–006
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+2
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Internal Revenue Service Math and Taxpayer Help
+Act’’.
+SEC. 2. IMPROVEMENT OF NOTICES OF MATH OR CLERICAL ERROR.
+(a) IN GENERAL.—Section 6213(b)(1) of the Internal Revenue Code of 1986 is
+amended—
+(1) by striking ‘‘ERRORS.—If the taxpayer’’ and inserting ‘‘ERRORS.—
+‘‘(A) INGENERAL.—If the taxpayer’’,
+(2) by striking ‘‘Each notice’’ in the second sentence and inserting ‘‘Subject to
+subparagraph (B), each notice’’, and
+(3) by adding at the end the following new subparagraph:
+‘‘(B) SPECIFICITYOFMATHORCLERICALERRORNOTICE.—
+‘‘(i) IN GENERAL.—The notice provided under subparagraph (A)
+shall—
+‘‘(I) be sent to the taxpayer’s last known address,
+‘‘(II) describe the mathematical or clerical error in comprehen-
+sive, plain language, including—
+‘‘(aa) the type of error,
+‘‘(bb) the section of this title to which the error relates,
+‘‘(cc) a description of the nature of the error, and
+‘‘(dd) the specific line of the return on which the error was
+made,
+‘‘(III) an itemized computation of any direct or incidental adjust-
+ments to be made to the return in correction of the error, including
+any adjustment to the amount of—
+‘‘(aa) adjusted gross income,
+‘‘(bb) taxable income,
+‘‘(cc) itemized or standard deductions,
+‘‘(dd) nonrefundable credits,
+‘‘(ee) credits under section 24, 25A, 32, 35, or 36B, credits
+claimed with respect to undistributed long-term capital gains
+on Form 2439, credits for Federal taxes paid on fuels claimed
+on Form 4136, and any other refundable credits,
+‘‘(ff) income tax,
+‘‘(gg) other taxes,
+‘‘(hh) total tax,
+‘‘(ii) Federal income tax withheld or excess tax withheld
+under section 3101 or 3201(a),
+‘‘(jj) estimated tax payments, including amount applied from
+prior year’s return,
+‘‘(kk) refund or amount owed,
+‘‘(ll) net operating loss carryforwards, or
+‘‘(mm) credit carryforwards,
+‘‘(IV) include the telephone number for the automated phone
+transcript service, and
+‘‘(V) display the date by which the taxpayer may request to abate
+any assessment specified in such notice pursuant to paragraph
+(2)(A), in bold, font size 14, and immediately next to the taxpayer’s
+address on page 1 of the notice.
+‘‘(ii) NO LISTS OF POTENTIAL ERRORS.—A notice which provides mul-
+tiple potential or alternative errors which may be applicable to the re-
+turn shall not be sufficiently specific for purposes of clause (i)(II); how-
+ever, if multiple specific errors apply to the return all such errors
+should be listed.’’.
+(b) NOTICE OF ABATEMENT.—Paragraph (2) of section 6213(b) is amended by add-
+ing at the end the following new subparagraph:
+‘‘(C) NOTICE.—Upon determination of an abatement pursuant to subpara-
+graph (A), the Secretary shall send notice to the taxpayer of such abate-
+ment which—
+‘‘(i) is sent to the taxpayer’s last known address,
+‘‘(ii) describes the abatement in comprehensive, plain language, and
+‘‘(iii) provides an itemized computation of any adjustments to be
+made to the items described in the notice of mathematical or clerical
+error, including any changes to any item described in paragraph
+(1)(B)(i)(III).’’.
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+3
+(c) EFFECTIVEDATE.—The amendments made by this section shall apply to notices
+sent after the date which is 12 months after the date of the enactment of this Act.
+(d) PROCEDURES.—Not later than 180 days after the date of the enactment of this
+Act, the Secretary of the Treasury (or such Secretary’s delegate) shall provide for
+procedures by which a taxpayer may request an abatement referred to in section
+6213(b)(1)(B)(i)(V) of the Internal Revenue Code of 1986 in writing, electronically,
+by telephone, or in person.
+(e) PILOT PROGRAM.—Not later than 18 months after the date of the enactment
+of this Act, the Secretary of the Treasury (or such Secretary’s delegate), in consulta-
+tion with the National Taxpayer Advocate, shall—
+(1) implement a pilot program to send a trial number of notices, in an amount
+which is a statistically significant portion of all such notices, of mathematical
+or clerical error pursuant to section 6213(b) of the Internal Revenue Code of
+1986 by certified or registered mail with e-signature confirmation of receipt, and
+(2) report to Congress, aggregated by the type of error under section 6213(g)
+of such Code to which the notices relate, on—
+(A) the number of mathematical or clerical errors noticed under the pro-
+gram and the dollar amounts involved,
+(B) the number of abatements of tax and the dollar amounts of such
+abatements, and
+(C) the effect of such pilot program on taxpayer response and adjustments
+or abatements to tax,
+with conclusions drawn about the effectiveness of certified or registered mail,
+with and without return receipt, and any other recommendations for improving
+taxpayer response rates.
+I. SUMMARY AND BACKGROUND
+A. PURPOSE AND SUMMARY
+The bill, H.R. 998, the ‘‘Internal Revenue Service Math and Tax-
+payer Help Act,’’ as amended, was ordered reported by the Com-
+mittee on Ways and Means on February 12, 2025.
+The provision establishes rules for the content required in a no-
+tice of math or clerical error, to ensure that the recipient will un-
+derstand the nature of the error identified by the IRS and how to
+seek an abatement of the additional tax if the taxpayer believes the
+IRS is in error. In addition, it requires that the IRS issue notices
+of abatements when it reverses the math error assessment on tax-
+payer request and prescribes specific rules for such notices. Within
+180 days of enactment, the Secretary is required to establish new
+rules and guidance on how to seek abatement of a tax assessment
+made under math error authority. Finally, the provision requires
+that the IRS conduct a pilot program to evaluate the effectiveness
+of issuing such notices of math error by certified or registered mail,
+with or without confirmation of receipt, to report to Congress on
+the results of that program, and to make recommendations on how
+to further improve taxpayer response to notices.
+B. BACKGROUND AND NEED FOR LEGISLATION
+Each year, the IRS sends millions of ‘‘math error’’ notices to tax-
+payers that propose to adjust their tax liabilities.1 These math
+error notices often do not explain the reasons for the adjustments,
+and some are never received by the taxpayer due to lost mail.2 The
+IRS is not currently required to inform taxpayers that they must
+dispute the adjustments within 60 days if they disagree or gen-
+1Legislative Recommendation #37—Clarify That the National Taxpayer Advocate May Hire
+Legal Counsel to Enable Her to Advocate More Effectively for Taxpayers, National Taxpayer Ad-
+vocate 2025 Purple Book (Dec. 31, 2024), https://www.taxpayeradvocate.irs.gov/reports/2024-an-
+nual-report-to-congress/national-taxpayer-advocate-2025-purple-book/.
+2Id.
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+4
+erally forfeit their right to do so.3 Many taxpayers do not under-
+stand that the failure to respond to an IRS math error notice with-
+in 60 days means they have conceded the adjustment and have for-
+feited their right to challenge the IRS’s position in Tax Court.4
+The Committee on Ways and Means is committed to leveling the
+playing field for taxpayers by ensuring that they are notified of any
+adjustments to their tax return and giving them enough time to
+challenge the adjustment, if necessary. Taxpayers deserve full
+transparency and an ability to challenge the IRS when they exer-
+cise their math error authority.
+C. LEGISLATIVE HISTORY
+Background
+H.R. 998 was introduced on February 10, 2025, and was referred
+to the Committee on Ways and Means.
+Committee Hearings
+On February 11, 2025, the Committee on Ways and Means held
+a hearing titled, ‘‘IRS Return on Investment and the Need for Mod-
+ernization’’.
+Committee Action
+The Committee on Ways and Means marked up H.R. 998, on
+February 12, 2025, and order the bill, as amended, favorably re-
+ported (with a quorum being present).
+D. DESIGNATED HEARING
+Pursuant to clause 3(c)(6) of rule XIII, the following hearing was
+used to develop and consider H.R. 998:
+‘‘IRS Return on Investment and the Need for Modernization’’
+on February 11, 2025.
+II. EXPLANATION OF THE BILL
+A. THE INTERNAL REVENUE SERVICE MATH ERROR AND TAXPAYER
+HELP ACT (SEC. 2 OF THE BILL AND SEC. 6213(b)5 OF THE CODE)
+PRESENT LAW
+In general
+The Federal income tax system relies upon self-reporting and as-
+sessment. A taxpayer is expected to prepare a report of his or her
+liability6 and submit it to the Internal Revenue Service (‘‘IRS’’)
+with any payment due. The Code provides general authority for the
+IRS to assess all taxes shown on returns, including assessment of
+tax computed by the taxpayer,7 other than certain Federal unem-
+ployment tax and estimated income taxes.8 The assessment is re-
+quired to be made by recording the liability in the ‘‘office of the
+3Id.
+4Id.
+5All section references in the document are to the Internal Revenue Code of 1986, as amended
+(the ‘‘Code’’), unless otherwise stated.
+6Secs. 6011 and 6012.
+7Sec. 6201.
+8Sec. 6201(b).
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+5
+Secretary’’ in a manner determined under regulations.9 In addition,
+the IRS may make supplemental assessments within the limita-
+tions period whenever it determines that an assessment was imper-
+fect or incomplete.10
+The authority of the IRS to assess additional tax is generally
+subject to certain restrictions on assessment known as deficiency
+procedures.11 These deficiency procedures generally ensure a tax-
+payer access to administrative review and a pre-payment judicial
+forum (i.e., the United States Tax Court) for reviewing disputed ad-
+justments proposed by the IRS. A deficiency of tax is the amount
+by which the liability determined under the Code exceeds the sum
+of certain taxes12 assessed for a period (including amounts shown
+on a return), after reduction for any rebates of tax.
+Math error exception to restrictions on assessments
+There are several exceptions to the restrictions on assessment of
+tax.13 One of the principal exceptions is the IRS’s authority to
+make a summary assessment of tax without issuance of a notice of
+deficiency if the error is a result of a mathematical or clerical error,
+generally referred to as math error authority. Purely mathematical
+or clerical issues are often identified early in the processing of a re-
+turn, prior to issuance of any refund rather than as a result of an
+examination of a return. Other grounds for math error authority
+may be identified after initial processing, including in the course of
+an examination of other issues subject to the general restrictions
+on assessment.
+Definition of math error
+The definition of mathematical or clerical errors is not limited to
+math, clerical, or transcription errors. It addresses over 20 cat-
+egories of errors,14 many of which relate to rules regarding refund-
+able credits.15 Since 2015, the math error authority covers situa-
+tions for which a taxpayer claiming certain refundable credits ei-
+ther is subject to a multi-year ban against claiming such credits as
+a consequence of having made a prior fraudulent or reckless claim
+or, in the case of taxpayer who has made prior improper claims,
+omits information required by the Secretary to demonstrate eligi-
+bility for the credit.16 In 2020 and 2021, math error authority was
+expanded to cover certain errors related to valid taxpayer identi-
+fication numbers and reconciliation of advance payments with re-
+spect to the 2020 recovery rebate credit, 2020 additional recovery
+9Sec. 6203.
+10Sec. 6204.
+11Secs. 6211 through 6215.
+12The taxes to which deficiency procedures apply are income, estate and gift and excise taxes
+arising under chapters 41, 42, or 44. Secs. 6211 and 6213.
+13Section 6213 provides that a taxpayer may waive the restrictions on assessment, permits
+immediate assessment to reflect payments of tax remitted to the IRS and to correct amounts
+credited or applied as a result of claims for carrybacks under section 1341(b), and requires as-
+sessment of amounts ordered as criminal restitution. Assessment is also permitted in certain
+circumstances in which collection of the tax would be in jeopardy. Secs. 6851, 6852, and 6861.
+14Secs. 6213(g)(2)(A) through (V).
+15Math error authority currently applies to certain errors related to the earned income tax
+credit, the child tax credit, the American opportunity tax credit, recovery rebate credits, and
+various energy-related credits.
+16Secs. 6213(g)(2)(K), (P), and (Q). Pub. L. No. 114–113, Div. Q, sec. 208.
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+6
+rebate credit, and 2021 recovery rebate credit.17 In 2022, math
+error authority was again expanded to apply to errors in docu-
+menting energy related credits, including omission of product or ve-
+hicle identification numbers.18
+Notice of math error assessment and request for abatement
+If a mistake on the return is of a type that is within the meaning
+of mathematical or clerical error, the IRS immediately assesses the
+additional tax due as a result of correcting the mistake and sends
+notice to the taxpayer informing the taxpayer of the assessment.
+The statute is silent as to the level of detail required in the notice.
+Math error authority may be used to deny an improperly claimed
+credit, either during initial processing of a return on which the
+credit is claimed or in an examination of the return after the re-
+fund has been issued, and to assess immediately any additional tax
+due as a result without issuing a notice of deficiency. The issuance
+of a notice of math error begins a 60-day period within which the
+taxpayer may submit a request for abatement of the math error ad-
+justment. If a taxpayer timely submits a request, the statute di-
+rects the IRS to abate the assessment. The IRS may then refer the
+unresolved issue for examination under the deficiency procedures.19
+REASONS FOR CHANGE
+Under present law, the IRS is not required to send notices of its
+exercise of math error authority by certified or registered mail, un-
+like the requirements applicable to notices of deficiency following
+an examination, which must be sent to the last known address of
+the taxpayer, by certified mail (registered mail if the address is
+outside the United States). As a result, the IRS has developed form
+letters intended to inform the taxpayer of the nature of the prob-
+lem, which sometimes include preprinted lists of potential bases on
+which an assessment is made. Furthermore, many taxpayers are
+not aware of their right to right to question the assessment by
+seeking an abatement. Even for those who are aware of the right
+to do so, the lack of clarity in some form letters used by the IRS
+have prevented taxpayers from understanding the nature of the
+error they may have made on a return and how to refute it.
+EXPLANATION OF PROVISION
+The provision amends the statute authorizing use of math error
+assessment authority. It prescribes specific procedures and content
+for notices of math or clerical error, requires the IRS to update pro-
+cedures on how to request abatement and, upon determination of
+an abatement, to issue a notice of abatement to the taxpayer. In
+addition, the provision requires implementation of a pilot program
+to explore use of certified or registered mail for issuance of math
+error notices.
+17Pub. L. No. 116–136, sec. 2201; Pub. L. No. 116–260, Div. N, sec. 272; Pub. L. No. 117–
+2, title IX, sec. 9601. See also secs. 6213(g)(2)(L); 6428(e)(1), (g)(4); 6428A(e)(1), (g)(7);
+6428B(e)(2)(G), (f)(1).
+18Secs. 6213(g)(2)(R), (S), (T), (U), and (V). Pub. L. No. 117–169, secs. 13301(g)(2), 13401(i)(4),
+13402(c), and 13403(b)(2).
+19Sec. 6213(b)(2)(A).
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+7
+Notice of math or clerical error
+With respect to the issuance of a notice of math or clerical as-
+sessment, the provision requires that the IRS send such notice to
+the taxpayer’s last known address and describe the math or clerical
+error in plain language. The due date for submission of a request
+for abatement must be included in 14-point font, boldface, next to
+the address of the taxpayer on the first page of the notice. The no-
+tice must include the telephone number for the automated phone
+transcript service, as well as an itemized computation of adjust-
+ments.
+With respect to the description of the math error adjustment, the
+IRS must include the type of error, the section of the Code to which
+the error relates, and the line on the return on which the error was
+made. In identifying the type of error, the notice may not rely on
+a list of multiple categories of math errors in the alternative. In-
+stead, it must identify the specific type of math error authority re-
+lied upon for each specific error on the return.
+The itemized computation of the adjustments must address all
+changes to any component of the computation of taxable income
+and tax liability or tax due. These items include adjusted gross in-
+come, taxable income, itemized or standard deductions, credits
+(whether or not refundable), losses, and other items specifically
+listed in the provision.
+Abatement process
+The IRS is directed to prescribe procedures that permit tax-
+payers to request abatement in writing, electronically, by tele-
+phone, or in person. Such procedures are to be issued no later than
+180 days after date of enactment.
+If an abatement is made after a notice of math error, a notice
+of abatement sent to the taxpayer’s last known address is required.
+Such notice must include a plain language description of the abate-
+ment as well as an itemized computation of any adjustments made
+to the items that were included in the notice of math or clerical
+error.
+Pilot program and report to Congress
+The provision requires that the Secretary, in cooperation with
+the National Taxpayer Advocate, conduct a study of the effective-
+ness of use of certified or registered mail, with e-signature con-
+firmation of receipt and report the results to Congress. The study
+is to include issuance of trial notices in an amount which is a sta-
+tistically significant portion of all such notices. The program must
+be implemented no later than 18 months after date of enactment.
+For each type of math error authority relied upon in the notices,
+the report shall include information on the number and dollar
+amounts of notices under the trial, as well as similar information
+on the number and dollar amount of abatements under the trial
+and the pilot program effect on taxpayer responsiveness. The report
+is to include conclusions about the effectiveness of using certified
+or registered mail, with or without confirmation of receipt, as well
+as any recommendations on how to improve taxpayer response
+rates.
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+8
+EFFECTIVE DATE
+The provision is effective on date of enactment, except for amend-
+ments to the Code, which are effective for notices sent after the
+date which is 12 months after date of enactment.
+III. VOTE OF THE COMMITTEE
+Pursuant to clause 3(b) of rule XIII of the Rules of the House of
+Representatives, the following statement is made concerning the
+vote of the Committee on Ways and Means in its consideration of
+H.R. 998, the ‘‘Internal Revenue Service Math and Taxpayer Help
+Act,’’ on February 12, 2025.
+The bill, H.R. 998, the ‘‘Internal Revenue Service Math and Tax-
+payer Help Act,’’ as amended, was ordered favorably reported to
+the House of Representatives by a recorded vote of 43 yeas and 0
+nays (with a quorum being present).
+Representative Yea Nay Present Representative Yea Nay Present
+Mr. Smith (MO) ................... X ............. ............. Mr. Neal ............................. X ............. .............
+Mr. Buchanan ..................... X ............. ............. Mr. Doggett ........................ X ............. .............
+Mr. Smith (NE).................... X ............. ............. Mr. Thompson .................... X ............. .............
+Mr. Kelly .............................. ........... ............. ............. Mr. Larson.......................... X ............. .............
+Mr. Schweikert .................... X ............. ............. Mr. Davis............................ X ............. .............
+Mr. LaHood.......................... X ............. ............. Ms. Sa´nchez....................... X ............. .............
+Mr. Arrington....................... X ............. ............. Ms. Sewell.......................... X ............. .............
+Mr. Estes............................. X ............. ............. Ms. DelBene ....................... X ............. .............
+Mr. Smucker........................ X ............. ............. Ms. Chu.............................. X ............. .............
+Mr. Hern .............................. X ............. ............. Ms. Moore (WI)................... X ............. .............
+Mrs. Miller (WV) .................. X ............. ............. Mr. Boyle ............................ X ............. .............
+Dr. Murphy .......................... X ............. ............. Mr. Beyer............................ X ............. .............
+Mr. Kustoff .......................... X ............. ............. Mr. Evans........................... X ............. .............
+Mr. Fitzpatrick..................... X ............. ............. Mr. Schneider..................... X ............. .............
+Mr. Steube........................... X ............. ............. Mr. Panetta ........................ X ............. .............
+Ms. Tenney .......................... X ............. ............. Mr. Gomez .......................... ........... ............. .............
+Mrs. Fischbach.................... X ............. ............. Mr. Horsford ....................... X ............. .............
+Mr. Moore (UT) .................... X ............. ............. Ms. Plaskett ....................... X ............. .............
+Ms. Van Duyne.................... X ............. ............. Mr. Suozzi........................... X ............. .............
+Mr. Feenstra........................ X ............. .............
+Ms. Malliotakis.................... X ............. .............
+Mr. Carey............................. X ............. .............
+Mr. Yakym ........................... X ............. .............
+Mr. Miller (OH) .................... X ............. .............
+Mr. Bean ............................. X ............. .............
+Mr. Moran............................ X ............. .............
+IV. BUDGET EFFECTS OF THE BILL
+A. COMMITTEE ESTIMATE OF BUDGETARY EFFECTS
+In compliance with clause 3(d) of rule XIII of the Rules of the
+House of Representatives, the following statement is made con-
+cerning the effects on the budget of the bill, H.R. 998 as reported.
+The estimate prepared by the Joint Committee on Taxation (JCT)
+is included below.
+The staff of the Joint Committee on Taxation estimates the bill
+to have the following effect on Federal fiscal year budget receipts
+for the period 2025 through 2034:
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+9
+Fiscal years, millions of dollars—
+2025 2026 2027 2028 2029 2030 2031 2032 2033 2034 2025–29 2025–34
+0 ........... ¥3 ¥3 ¥3 ¥4 ¥4 ¥4 ¥4 ¥4 ¥4 ¥14 ¥33
+NOTE: Details may not add to totals due to rounding. The date of enactment is assumed to be March 1, 2025.
+B. STATEMENT REGARDING NEW BUDGET AUTHORITY AND TAX
+EXPENDITURES BUDGET AUTHORITY
+In compliance with clause 3(c)(2) of rule XIII of the Rules of the
+House of Representatives, the Committee states that the bill in-
+volves no new or increased budget authority.
+C. COST ESTIMATE PREPARED BY THE CONGRESSIONAL BUDGET
+OFFICE
+The Congressional Budget Act of 1974, as amended stipulates
+that revenue estimates provided by the staff of the Joint Com-
+mittee on Taxation (‘‘JCT’’) will be the official estimates for all tax
+legislation considered by Congress. As such CBO incorporates these
+estimates into its cos estimates of the effects of the legislation. The
+estimates for the revenue provisions of H.R. 998 were provided by
+JCT (See Section IV, Subsection).
+V. OTHER MATTERS TO BE DISCUSSED UNDER THE
+RULES OF THE HOUSE
+A. COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+With respect to clause 3(c)(1) of rule XIII of the Rules of the
+House of Representatives, the Committee made findings and rec-
+ommendations that are reflected in this report.
+B. STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+With respect to clause 3(c)(4) of rule XIII of the Rules of the
+House of Representatives, the Committee advises that the bill does
+not authorize funding, so no statement of general performance
+goals and objectives is required.
+C. APPLICABILITY OF HOUSE RULE XXI, CLAUSE 5(b)
+Rule XXI 5(b) of the Rules of the House of Representatives pro-
+vides, in part, that ‘‘A bill or joint resolution, amendment, or con-
+ference report carrying a Federal income tax rate increase may not
+be considered as passed or agreed to unless so determined by a
+vote of not less than three-fifths of the Members voting, a quorum
+being present.’’ The Committee has carefully reviewed the bill, and
+states that the bill does not provide such a Federal income tax rate
+increase.
+D. INFORMATION RELATING TO UNFUNDED MANDATES
+This information is provided in accordance with section 423 of
+the Unfunded Mandates Reform Act of 1995 (Pub. L. No. 104–4).
+The Committee has determined that the bill does not contain
+Federal mandates on the private sector. The Committee has deter-
+mined that the bill does not impose a Federal intergovernmental
+mandate on State, local, or tribal governments.
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+10
+E. CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND
+LIMITED TARIFF BENEFITS
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the bill, and states that the provisions of the bill do not
+contain any congressional earmarks, limited tax benefits, or limited
+tariff benefits within the meaning of the rule.
+F. DUPLICATION OF FEDERAL PROGRAMS
+In compliance with clause 3(c)(5) of rule XIII of the Rules of the
+House of Representatives, the Committee states that no provision
+of the bill establishes or reauthorizes: (1) a program of the Federal
+Government known to be duplicative of another Federal program;
+(2) a program included in any report from the Government Ac-
+countability Office to Congress pursuant to section 21 of Public
+Law 111–139; or (3) a program related to a program identified in
+the most recent Catalog of Federal Domestic Assistance, published
+pursuant to the Federal Program Information Act (Pub. L. No. 95–
+220, as amended by Pub. L. No. 98–169).
+G. TAX COMPLEXITY ANALYSIS
+Section 4022(b) of the Internal Revenue Service Reform and Re-
+structuring Act of 1998 (the ‘‘IRS Reform Act’’) requires the staff
+of the Joint Committee on Taxation (in consultation with the Inter-
+nal Revenue Service and the Treasury Department) to provide a
+tax complexity analysis. The complexity analysis is required for all
+legislation reported by the Senate Committee on Finance, the
+House Committee on Ways and Means, or any committee of con-
+ference if the legislation includes a provision that directly or indi-
+rectly amends the Internal Revenue Code and has widespread ap-
+plicability to individuals or small businesses.
+The staff of the Joint Committee on Taxation has determined
+that there are no provisions that are of widespread applicability to
+individuals or small businesses.
+VI. CHANGES IN EXISTING LAW MADE BY THE BILL, AS
+REPORTED
+A. TEXT OF EXISTING LAW AMENDED OR REPEALED BY THE BILL, AS
+REPORTED
+Pursuant to clause 3(e) of rule XIII of the Rules of the House of
+Representatives, the text of each section proposed to be repealed by
+the bill is shown below:
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+11
+INTERNAL REVENUE CODE OF 1986
+* * * * * * *
+Subtitle F—Procedure and Administration
+* * * * * * *
+CHAPTER 63—ASSESSMENT
+* * * * * * *
+Subchapter B—DEFICIENCY PROCEDURES IN
+THE CASE OF INCOME, ESTATE, GIFT, AND
+CERTAIN EXCISE TAXES
+* * * * * * *
+SEC. 6213. RESTRICTIONS APPLICABLE TO DEFICIENCIES; PETITION
+TO TAX COURT.
+(a) TIME FOR FILING PETITION AND RESTRICTION ON ASSESS-
+MENT.—Within 90 days, or 150 days if the notice is addressed to
+a person outside the United States, after the notice of deficiency
+authorized in section 6212 is mailed (not counting Saturday, Sun-
+day, or a legal holiday in the District of Columbia as the last day),
+the taxpayer may file a petition with the Tax Court for a redeter-
+mination of the deficiency. Except as otherwise provided in section
+6851, 6852, or 6861 no assessment of a deficiency in respect of any
+tax imposed by subtitle A, or B, chapter 41, 42, 43, or 44 and no
+levy or proceeding in court for its collection shall be made, begun,
+or prosecuted until such notice has been mailed to the taxpayer,
+nor until the expiration of such 90-day or 150-day period, as the
+case may be, nor, if a petition has been filed with the Tax Court,
+until the decision of the Tax Court has become final. Notwith-
+standing the provisions of section 7421(a), the making of such as-
+sessment or the beginning of such proceeding or levy during the
+time such prohibition is in force may be enjoined by a proceeding
+in the proper court, including the Tax Court, and a refund may be
+ordered by such court of any amount collected within the period
+during which the Secretary is prohibited from collecting by levy or
+through a proceeding in court under the provisions of this sub-
+section. The Tax Court shall have no jurisdiction to enjoin any ac-
+tion or proceeding or order any refund under this subsection unless
+a timely petition for a redetermination of the deficiency has been
+filed and then only in respect of the deficiency that is the subject
+of such petition. Any petition filed with the Tax Court on or before
+the last date specified for filing such petition by the Secretary in
+the notice of deficiency shall be treated as timely filed.
+(b) EXCEPTIONS TO RESTRICTIONS ON ASSESSMENT.—
+(1) ASSESSMENTS ARISING OUT OF MATHEMATICAL OR CLER-
+ICAL ø ERRORS.—¿ øIf the taxpayer¿ ERRORS.—
+(A) IN GENERAL.—If the taxpayer is notified that, on ac-
+count of a mathematical or clerical error appearing on the
+return, an amount of tax in excess of that shown on the
+return is due, and that an assessment of the tax has been
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+12
+or will be made on the basis of what would have been the
+correct amount of tax but for the mathematical or clerical
+error, such notice shall not be considered as a notice of de-
+ficiency for the purposes of subsection (a) (prohibiting as-
+sessment and collection until notice of the deficiency has
+been mailed), or of section 6212(c)(1) (restricting further
+deficiency letters), or of section 6512(a) (prohibiting credits
+or refunds after petition to the Tax Court), and the tax-
+payer shall have no right to file a petition with the Tax
+Court based on such notice, nor shall such assessment or
+collection be prohibited by the provisions of subsection (a)
+of this section. øEach notice¿ Subject to subparagraph (B),
+each notice under this paragraph shall set forth the error
+alleged and an explanation thereof.
+(B) SPECIFICITY OF MATH OR CLERICAL ERROR NOTICE.—
+(i) IN GENERAL.—The notice provided under subpara-
+graph (A) shall—
+(I) be sent to the taxpayer’s last known address,
+(II) describe the mathematical or clerical error in
+comprehensive, plain language, including—
+(aa) the type of error,
+(bb) the section of this title to which the
+error relates,
+(cc) a description of the nature of the error,
+and
+(dd) the specific line of the return on which
+the error was made,
+(III) an itemized computation of any direct or in-
+cidental adjustments to be made to the return in
+correction of the error, including any adjustment to
+the amount of—
+(aa) adjusted gross income,
+(bb) taxable income,
+(cc) itemized or standard deductions,
+(dd) nonrefundable credits,
+(ee) credits under section 24, 25A, 32, 35, or
+36B, credits claimed with respect to undistrib-
+uted long-term capital gains on Form 2439,
+credits for Federal taxes paid on fuels claimed
+on Form 4136, and any other refundable cred-
+its,
+(ff) income tax,
+(gg) other taxes,
+(hh) total tax,
+(ii) Federal income tax withheld or excess
+tax withheld under section 3101 or 3201(a),
+(jj) estimated tax payments, including
+amount applied from prior year’s return,
+(kk) refund or amount owed,
+(ll) net operating loss carryforwards, or
+(mm) credit carryforwards,
+(IV) include the telephone number for the auto-
+mated phone transcript service, and
+(V) display the date by which the taxpayer may
+request to abate any assessment specified in such
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6603 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+13
+notice pursuant to paragraph (2)(A), in bold, font
+size 14, and immediately next to the taxpayer’s ad-
+dress on page 1 of the notice.
+(ii) NO LISTS OF POTENTIAL ERRORS.—A notice which
+provides multiple potential or alternative errors which
+may be applicable to the return shall not be sufficiently
+specific for purposes of clause (i)(II); however, if mul-
+tiple specific errors apply to the return all such errors
+should be listed.
+(2) ABATEMENT OF ASSESSMENT OF MATHEMATICAL OR CLER-
+ICAL ERRORS.—
+(A) REQUEST FOR ABATEMENT.—Notwithstanding section
+6404(b), a taxpayer may file with the Secretary within 60
+days after notice is sent under paragraph (1) a request for
+an abatement of any assessment specified in such notice,
+and upon receipt of such request, the Secretary shall abate
+the assessment. Any reassessment of the tax with respect
+to which an abatement is made under this subparagraph
+shall be subject to the deficiency procedures prescribed by
+this subchapter.
+(B) STAY OF COLLECTION.—In the case of any assessment
+referred to in paragraph (1), notwithstanding paragraph
+(1), no levy or proceeding in court for the collection of such
+assessment shall be made, begun, or prosecuted during the
+period in which such assessment may be abated under this
+paragraph.
+(C) NOTICE.—Upon determination of an abatement pur-
+suant to subparagraph (A), the Secretary shall send notice
+to the taxpayer of such abatement which—
+(i) is sent to the taxpayer’s last known address,
+(ii) describes the abatement in comprehensive, plain
+language, and
+(iii) provides an itemized computation of any adjust-
+ments to be made to the items described in the notice
+of mathematical or clerical error, including any
+changes to any item described in paragraph
+(1)(B)(i)(III).
+(3) ASSESSMENTS ARISING OUT OF TENTATIVE CARRYBACK OR
+REFUND ADJUSTMENTS.—If the Secretary determines that the
+amount applied, credited, or refunded under section 6411 is in
+excess of the overassessment attributable to the carryback or
+the amount described in section 1341(b)(1) with respect to
+which such amount was applied, credited, or refunded, he may
+assess without regard to the provisions of paragraph (2) the
+amount of the excess as a deficiency as if it were due to a
+mathematical or clerical error appearing on the return.
+(4) ASSESSMENT OF AMOUNT PAID.—Any amount paid as a
+tax or in respect of a tax may be assessed upon the receipt of
+such payment notwithstanding the provisions of subsection (a).
+In any case where such amount is paid after the mailing of a
+notice of deficiency under section 6212, such payment shall not
+deprive the Tax Court of jurisdiction over such deficiency de-
+termined under section 6211 without regard to such assess-
+ment.
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6601 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+14
+(5) CERTAIN ORDERS OF CRIMINAL RESTITUTION.—If the tax-
+payer is notified that an assessment has been or will be made
+pursuant to section 6201(a)(4)—
+(A) such notice shall not be considered as a notice of de-
+ficiency for the purposes of subsection (a) (prohibiting as-
+sessment and collection until notice of the deficiency has
+been mailed), section 6212(c)(1) (restricting further defi-
+ciency letters), or section 6512(a) (prohibiting credits or re-
+funds after petition to the Tax Court), and
+(B) subsection (a) shall not apply with respect to the
+amount of such assessment.
+(c) FAILURE TO FILE PETITION.—If the taxpayer does not file a pe-
+tition with the Tax Court within the time prescribed in subsection
+(a), the deficiency, notice of which has been mailed to the taxpayer,
+shall be assessed, and shall be paid upon notice and demand from
+the Secretary.
+(d) WAIVER OF RESTRICTIONS.—The taxpayer shall at any time
+(whether or not a notice of deficiency has been issued) have the
+right, by a signed notice in writing filed with the Secretary, to
+waive the restrictions provided in subsection (a) on the assessment
+and collection of the whole or any part of the deficiency.
+(e) SUSPENSION OF FILING PERIOD FOR CERTAIN EXCISE TAXES.—
+The running of the time prescribed by subsection (a) for filing a pe-
+tition in the Tax Court with respect to the taxes imposed by section
+4941 (relating to taxes on self-dealing), 4942 (relating to taxes on
+failure to distribute income), 4943 (relating to taxes on excess busi-
+ness holdings), 4944 (relating to investments which jeopardize
+charitable purpose), 4945 (relating to taxes on taxable expendi-
+tures), 4951 (relating to taxes on self-dealing), or 4952 (relating to
+taxes on taxable expenditures), 4955 (relating to taxes on political
+expenditures), 4958 (relating to private excess benefit), 4971 (relat-
+ing to excise taxes on failure to meet minimum funding standard),
+4975 (relating to excise taxes on prohibited transactions) shall be
+suspended for any period during which the Secretary has extended
+the time allowed for making correction under section 4963(e).
+(f) COORDINATION WITH TITLE 11.—
+(1) SUSPENSION OF RUNNING OF PERIOD FOR FILING PETITION
+IN TITLE 11 CASES.—In any case under title 11 of the United
+States Code, the running of the time prescribed by subsection
+(a) for filing a petition in the Tax Court with respect to any
+deficiency shall be suspended for the period during which the
+debtor is prohibited by reason of such case from filing a peti-
+tion in the Tax Court with respect to such deficiency, and for
+60 days thereafter.
+(2) CERTAIN ACTION NOT TAKEN INTO ACCOUNT.—For pur-
+poses of the second and third sentences of subsection (a), the
+filing of a proof of claim or request for payment (or the taking
+of any other action) in a case under title 11 of the United
+States Code shall not be treated as action prohibited by such
+second sentence.
+(g) DEFINITIONS.—For purposes of this section—
+(1) RETURN.—The term ‘‘return’’ includes any return, state-
+ment, schedule, or list, and any amendment or supplement
+thereto, filed with respect to any tax imposed by subtitle A or
+B, or chapter 41, 42, 43, or 44.
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6659 Sfmt 6601 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+15
+(2) MATHEMATICAL OR CLERICAL ERROR.—The term ‘‘mathe-
+matical or clerical error’’ means—
+(A) an error in addition, subtraction, multiplication, or
+division shown on any return,
+(B) an incorrect use of any table provided by the Inter-
+nal Revenue Service with respect to any return if such in-
+correct use is apparent from the existence of other infor-
+mation on the return,
+(C) an entry on a return of an item which is inconsistent
+with another entry of the same or another item on such re-
+turn,
+(D) an omission of information which is required to be
+supplied on the return to substantiate an entry on the re-
+turn,
+(E) an entry on a return of a deduction or credit in an
+amount which exceeds a statutory limit imposed by sub-
+title A or B, or chapter 41, 42, 43, or 44, if such limit is
+expressed—
+(i) as a specified monetary amount, or
+(ii) as a percentage, ratio, or fraction,
+and if the items entering into the application of such limit
+appear on such return,
+(F) an omission of a correct taxpayer identification num-
+ber required under section 32 (relating to the earned in-
+come credit) to be included on a return,
+(G) an entry on a return claiming the credit under sec-
+tion 32 with respect to net earnings from self-employment
+described in section 32(c)(2)(A) to the extent the tax im-
+posed by section 1401 (relating to self-employment tax) on
+such net earnings has not been paid,
+(H) an omission of a correct TIN required under section
+21 (relating to expenses for household and dependent care
+services necessary for gainful employment) or section 151
+(relating to allowance of deductions for personal exemp-
+tions),
+(I) an omission of a correct TIN required under section
+24(e) (relating to child tax credit) to be included on a re-
+turn,
+(J) an omission of a correct TIN required under section
+25A(g)(1) (relating to higher education tuition and related
+expenses) to be included on a return,
+(K) an omission of information required by section
+32(k)(2) (relating to taxpayers making improper prior
+claims of earned income credit) or an entry on the return
+claiming the credit under section 32 for a taxable year for
+which the credit is disallowed under subsection (k)(1)
+thereof,
+(L) the inclusion on a return of a TIN required to be in-
+cluded on the return under section 21, 24, 32, 6428, or
+6428A if—
+(i) such TIN is of an individual whose age affects the
+amount of the credit under such section, and
+(ii) the computation of the credit on the return re-
+flects the treatment of such individual as being of an
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6659 Sfmt 6601 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+16
+age different from the individual’s age based on such
+TIN,
+(M) the entry on the return claiming the credit under
+section 32 with respect to a child if, according to the Fed-
+eral Case Registry of Child Support Orders established
+under section 453(h) of the Social Security Act, the tax-
+payer is a noncustodial parent of such child,
+(N) an omission of any increase required under section
+36(f) with respect to the recapture of a credit allowed
+under section 36,
+(O) the inclusion on a return of an individual taxpayer
+identification number issued under section 6109(i) which
+has expired, been revoked by the Secretary, or is otherwise
+invalid,
+(P) an omission of information required by section
+24(g)(2) or an entry on the return claiming the credit
+under section 24 for a taxable year for which the credit is
+disallowed under subsection (g)(1) thereof,
+(Q) an omission of information required by section
+25A(b)(4)(B) or an entry on the return claiming the Amer-
+ican Opportunity Tax Credit for a taxable year for which
+such credit is disallowed under section 25A(b)(4)(A),
+(R) an omission of information or documentation re-
+quired under section 25C(b)(6)(B) (relating to home energy
+audits) to be included on a return,
+(S) an omission of a correct product identification num-
+ber required under section 25C(h) (relating to credit for
+nonbusiness energy property) to be included on a return,
+(T) an omission of a correct vehicle identification number
+required under section 30D(f)(9) (relating to credit for new
+clean vehicles) to be included on a return,
+(U) an omission of a correct vehicle identification num-
+ber required under section 25E(d) (relating to credit for
+previously-owned clean vehicles) to be included on a re-
+turn, and
+(V) an omission of a correct vehicle identification number
+required under section 45W(e) (relating to commercial
+clean vehicle credit) to be included on a return.
+A taxpayer shall be treated as having omitted a correct TIN for
+purposes of the preceding sentence if information provided by
+the taxpayer on the return with respect to the individual
+whose TIN was provided differs from the information the Sec-
+retary obtains from the person issuing the TIN.
+(h) CROSS REFERENCES.—
+(1) For assessment as if a mathematical error on the re-
+turn, in the case of erroneous claims for income tax pre-
+payment credits, see section 6201(a)(3).
+(2) For assessments without regard to restrictions im-
+posed by this section in the case of—
+(A) Recovery of foreign income taxes, see section
+905(c).
+(B) Recovery of foreign estate tax, see section 2016.
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6659 Sfmt 6601 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd
+
+17
+(3) For provisions relating to application of this sub-
+chapter in the case of certain partnership items, etc., see
+section 6230(a).
+* * * * * * *
+Æ
+VerDate Sep 11 2014 02:23 Apr 11, 2025 Jkt 059006 PO 00000 Frm 00017 Fmt 6659 Sfmt 6611 E:\HR\OC\HR042.XXX HR042
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliwmd

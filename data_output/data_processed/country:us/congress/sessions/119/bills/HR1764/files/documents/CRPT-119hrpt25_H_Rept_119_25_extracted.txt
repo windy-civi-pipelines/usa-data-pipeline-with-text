@@ -1,0 +1,700 @@
+Title: MARCH21, 2025.—Committed to the Committee of the Whole House on the State
+Official Title: MARCH21, 2025.—Committed to the Committee of the Whole House on the State
+Number of Sections: 9
+Source: documents - H. Rept. 119-25
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–25
+ALIGNING SEC REGULATIONS FOR THE WORLD BANK’S
+INTERNATIONAL DEVELOPMENT ASSOCIATION ACT
+of the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+[To accompany H.R. 1764]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 1764) to accord securities issued by the International De-
+velopment Association the same exemption from the securities laws
+that applies to the securities of other multilateral development
+banks in which the United States is a member, having considered
+the same, reports favorably thereon with an amendment and rec-
+ommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Consideration ........................................................................................ 3
+Related Hearings ..................................................................................................... 3
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings ............................................................................... 6
+Performance Goals and Objectives ......................................................................... 6
+Committee Cost Estimate ....................................................................................... 6
+New Budget Authority and CBO Cost Estimate ................................................... 6
+Unfunded Mandates Statement .............................................................................. 6
+Earmark Statement ................................................................................................. 6
+Federal Advisory Committee Act Statement ......................................................... 7
+Applicability to the Legislative Branch ................................................................. 7
+Duplication of Federal Programs ............................................................................ 7
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 7
+Changes in Existing Law Made by the Bill, as Reported ..................................... 7
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 05:25 Apr 03, 2025 Jkt 059008 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR025.XXX HR025
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+2
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Aligning SEC Regulations for the World Bank’s
+International Development Association Act’’.
+SEC. 2. EXEMPTION OF SECURITIES OF THE INTERNATIONAL DEVELOPMENT ASSOCIATION
+FROM THE SECURITIES LAWS.
+(a) IN GENERAL.—The International Development Association Act (22 U.S.C. 284
+et seq.) is amended by adding at the end the following:
+‘‘SEC. 33. EXEMPTION OF SECURITIES OF THE INTERNATIONAL DEVELOPMENT ASSOCIATION
+FROM THE SECURITIES LAWS.
+‘‘(a) EXEMPTION FROM SECURITIES LAWS; REPORTS TO SECURITIES AND EXCHANGE
+COMMISSION.—Any securities issued by the Association (including any guaranty by
+the Association, whether or not limited in scope) and any securities guaranteed by
+the Association as to both principal and interest shall be deemed to be exempted
+securities within the meaning of section 3(a)(2) of the Securities Act of 1933 (15
+U.S.C. 77c(a)(2)) and section 3(a)(12) of the Securities Exchange Act of 1934 (15
+U.S.C. 78c(a)(12)). The Association shall file with the Securities and Exchange Com-
+mission such annual and other reports with regard to such securities as the Com-
+mission shall determine to be appropriate in view of the special character of the As-
+sociation and its operations and necessary in the public interest or for the protection
+of investors.
+‘‘(b) AUTHORITY OF SECURITIES AND EXCHANGE COMMISSION TO SUSPEND EXEMP-
+TION; REPORTS TO CONGRESS.—The Securities and Exchange Commission, acting in
+consultation with the National Advisory Council on International Monetary and Fi-
+nancial Problems, is authorized to suspend the provisions of subsection (a) of this
+
+Section 4:
+section at any time as to any or all securities issued or guaranteed by the Associa-
+tion during the period of such suspension. The Commission shall include in its an-
+nual reports to the Congress such information as it shall deem advisable with re-
+gard to the operations and effect of this section.’’.
+(b) EFFECTIVEDATE.—
+(1) IN GENERAL.—The amendment made by subsection (a) shall take effect 30
+days after the date of enactment of this Act.
+(2) EXCEPTION.—Notwithstanding paragraph (1), the amendment made by
+subsection (a) shall not take effect if, before the effective date described under
+paragraph (1), the Secretary of the Treasury reports to the Committee on Fi-
+nancial Services of the House of Representatives and the Committee on Bank-
+ing, Housing, and Urban Affairs of the Senate that the International Develop-
+ment Association is providing financial assistance to any country the govern-
+ment of which the Secretary of State has determined, for purposes of section
+6(j) of the Export Administration Act of 1979, section 620A of the Foreign As-
+sistance Act of 1961, or section 40 of the Arms Export Control Act, to be a gov-
+ernment that has repeatedly provided support for acts of international ter-
+rorism.
+PURPOSE AND SUMMARY
+Introduced on March 3, 2025, by Representative Maxine Waters,
+H.R. 1764, the Aligning SEC Regulations for the World Bank’s
+International Development Association Act, would classify securities
+issued by the World Bank’s International Development Association
+(IDA) as exempted securities, subject to reporting requirements
+deemed appropriate by the Securities and Exchange Commission.
+BACKGROUND AND NEED FOR LEGISLATION
+H.R. 1764 brings about parity among other World Bank groups
+and various other multilateral development banks to classify secu-
+rities issued by the World Bank’s IDA as exempted securities. Prior
+to 2018, IDA did not raise funds in the securities market and
+therefore did not require this exemption. The exemption remains
+consistent with previous treatment of multilateral development
+bank securities.
+VerDate Sep 11 2014 05:25 Apr 03, 2025 Jkt 059008 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR025.XXX HR025
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+3
+COMMITTEE CONSIDERATION
+118TH CONGRESS
+On February 7, 2023, the Committee Financial Services held a
+hearing titled ‘‘Combatting the Economic Threat from China,’’
+which examined tools to combat the economic threat from China.
+Witnesses were Mr. Rich Ashooh, former Assistant Secretary of
+Commerce for Export Administration; Mr. Tom Feddo, former As-
+sistant Secretary for Investment Security at the Department of
+Treasury and former Assistant Director for Enforcement at the Of-
+fice of Foreign Assets Control; Mr. Eric Lorber, former Senior Advi-
+sor to the Undersecretary for Treasury’s Terrorism and Financial
+Intelligence Division; Mr. Clete Willems, former Deputy National
+Security Advisor and Deputy National Economic Advisor; and Mr.
+Peter Harrell, former Senior Director for International Economic
+Policy with the Biden Administration.
+On February 24, 2023, Representative Maxine Waters (D–CA) in-
+troduced H.R. 1161, the Aligning SEC Regulations for the World
+Bank’s International Development Associations Act. The bill was re-
+ferred solely to the Committee on Financial Services.
+The Committee on Financial Services met in open session on
+February 28, 2023, and ordered H.R. 1161 to be reported favorably
+to the House as amended by a recorded vote of 38 yeas and 0 nays,
+a quorum being present (Record Vote No. FC–23). Before the ques-
+tion was called to order the bill favorably reported, the Committee
+adopted an amendment in the nature of a substitute offered by Ms.
+Waters by voice vote.
+119TH CONGRESS
+On March 5, 2025, Representative Maxine Waters (D–CA) intro-
+duced H.R. 1764, the Aligning SEC Regulations for the World
+Bank’s International Development Associations Act. The bill was re-
+ferred solely to the Committee on Financial Services.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+1764:
+The Full Committee held a hearing on February 25, 2025, titled
+‘‘Examining Policies to Counter China.’’ A discussion draft of the
+bill was considered in this hearing. Witness who testified were:
+John Miller, Senior Vice President of Policy, Trust, Data, and Tech-
+nology, and General Counsel, Information Technology Industry
+Council; Nicholas McMurray, Managing Director of International
+and Nuclear Policy, ClearPath; John Cassara, retired United States
+Treasury Department Special Agent; Martin Muhleisen, Non-
+resident Senior Fellow at the GAO Economic Center at the Atlantic
+Council; and Dr. Rush Doshi, C.V. Starr Senior Fellow for Asian
+Studies, and Director of the China Strategy Initiative at the Coun-
+cil on Foreign Relations, and an assistant professor at Georgetown
+University.
+The Committee on Financial Services met in open session on
+March 5, 2025 to consider, among others, H.R. 1764.
+VerDate Sep 11 2014 05:25 Apr 03, 2025 Jkt 059008 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR025.XXX HR025
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+4
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On March 5, 2025, the Committee ordered H.R. 1764, as amend-
+ed, to be reported favorably to the House by a recorded vote of 49
+yeas to 0 nays, a quorum being present. (Record Vote No. FC–026).
+Before the question to report was called, the Committee adopted
+an amendment in the nature of a substitute offered by Ms. Waters
+making technical changes by voice vote.
+VerDate Sep 11 2014 05:25 Apr 03, 2025 Jkt 059008 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR025.XXX HR025
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+5
+VerDate Sep 11 2014 05:25 Apr 03, 2025 Jkt 059008 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR025.XXX HR025
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+Section 5:
+100.52RH
+ereh
+6
+oilof
+tesffo
+tresnI
+6
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 1764 is to classify securities
+issued by the World Bank’s IDA as exempted securities and to re-
+quire the Secretary of the Treasury to certify that the IDA is not
+providing financial assistance to any country that has repeatedly
+provided support for acts of international terrorism.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 1764.
+The Committee has requested but not received a cost estimate
+from the Director of the Congressional Budget Office. However,
+pursuant to clause 3(d)(1) of rule XIII of the House of Representa-
+tives, the Committee will adopt as its own the cost estimate by the
+Director of the Congressional Budget Office once it has been pre-
+pared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+VerDate Sep 11 2014 05:25 Apr 03, 2025 Jkt 059008 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR025.XXX HR025
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+7
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+
+Section 6:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+The following is a section-by-section analysis of H.R. 1764, the
+Aligning SEC Regulations for the World Bank’s International De-
+velopment Associations Act.
+
+Section 7:
+Section 1. Short title
+
+Section 8:
+Section 1 provides that the short title is ‘‘Aligning SEC Regula-
+tions for the World Bank’s International Development Association
+Act.’’
+
+Section 9:
+Section 2. Exemption of Securities of the International Development
+Association from the Securities Laws
+• Amends the International Development Association Act (22
+U.S.C. 284–284cc) to align securities guaranteed by the Asso-
+ciation with the exemptions provided under the Securities Act
+of 1933 (15 U.S.C. 77c(a)(2)) and the Securities Exchange Act
+of 1934 (15 U.S.C. 78c(a)(12)).
+• Provides the Securities and Exchange Commission author-
+ity to suspend the exemptions.
+• Provides an effective date of 30 days after enactment.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+INTERNATIONAL DEVELOPMENT ASSOCIATION ACT
+* * * * * * *
+VerDate Sep 11 2014 05:25 Apr 03, 2025 Jkt 059008 PO 00000 Frm 00007 Fmt 6659 Sfmt 6601 E:\HR\OC\HR025.XXX HR025
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+8
+SEC. 33. EXEMPTION OF SECURITIES OF THE INTERNATIONAL DEVEL-
+OPMENT ASSOCIATION FROM THE SECURITIES LAWS.
+(a) EXEMPTION FROM SECURITIES LAWS; REPORTS TO SECURITIES
+AND EXCHANGE COMMISSION.—Any securities issued by the Associa-
+tion (including any guaranty by the Association, whether or not lim-
+ited in scope) and any securities guaranteed by the Association as
+to both principal and interest shall be deemed to be exempted secu-
+rities within the meaning of section 3(a)(2) of the Securities Act of
+1933 (15 U.S.C. 77c(a)(2)) and section 3(a)(12) of the Securities Ex-
+change Act of 1934 (15 U.S.C. 78c(a)(12)). The Association shall file
+with the Securities and Exchange Commission such annual and
+other reports with regard to such securities as the Commission shall
+determine to be appropriate in view of the special character of the
+Association and its operations and necessary in the public interest
+or for the protection of investors.
+(b) AUTHORITY OF SECURITIES AND EXCHANGE COMMISSION TO
+SUSPEND EXEMPTION; REPORTS TO CONGRESS.—The Securities and
+Exchange Commission, acting in consultation with the National Ad-
+visory Council on International Monetary and Financial Problems,
+is authorized to suspend the provisions of subsection (a) of this sec-
+tion at any time as to any or all securities issued or guaranteed by
+the Association during the period of such suspension. The Commis-
+sion shall include in its annual reports to the Congress such infor-
+mation as it shall deem advisable with regard to the operations and
+effect of this section.
+Æ
+VerDate Sep 11 2014 05:25 Apr 03, 2025 Jkt 059008 PO 00000 Frm 00008 Fmt 6659 Sfmt 6611 E:\HR\OC\HR025.XXX HR025
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–25
+ALIGNING SEC REGULATIONS FOR THE WORLD BANK’S
+INTERNATIONAL DEVELOPMENT ASSOCIATION ACT
+MARCH21, 2025.—Committed to the Committee of the Whole House on the State
+of the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+[To accompany H.R. 1764]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 1764) to accord securities issued by the International De-
+velopment Association the same exemption from the securities laws
+that applies to the securities of other multilateral development
+banks in which the United States is a member, having considered
+the same, reports favorably thereon with an amendment and rec-
+ommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Consideration ........................................................................................ 3
+Related Hearings ..................................................................................................... 3
+Committee Votes ...................................................................................................... 4
+Committee Oversight Findings ............................................................................... 6
+Performance Goals and Objectives ......................................................................... 6
+Committee Cost Estimate ....................................................................................... 6
+New Budget Authority and CBO Cost Estimate ................................................... 6
+Unfunded Mandates Statement .............................................................................. 6
+Earmark Statement ................................................................................................. 6
+Federal Advisory Committee Act Statement ......................................................... 7
+Applicability to the Legislative Branch ................................................................. 7
+Duplication of Federal Programs ............................................................................ 7
+Section-by-Section Analysis of the Legislation ...................................................... 7
+Changes in Existing Law Made by the Bill, as Reported ..................................... 7
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 05:25 Apr 03, 2025 Jkt 059008 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR025.XXX HR025
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+2
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Aligning SEC Regulations for the World Bank’s
+International Development Association Act’’.
+SEC. 2. EXEMPTION OF SECURITIES OF THE INTERNATIONAL DEVELOPMENT ASSOCIATION
+FROM THE SECURITIES LAWS.
+(a) IN GENERAL.—The International Development Association Act (22 U.S.C. 284
+et seq.) is amended by adding at the end the following:
+‘‘SEC. 33. EXEMPTION OF SECURITIES OF THE INTERNATIONAL DEVELOPMENT ASSOCIATION
+FROM THE SECURITIES LAWS.
+‘‘(a) EXEMPTION FROM SECURITIES LAWS; REPORTS TO SECURITIES AND EXCHANGE
+COMMISSION.—Any securities issued by the Association (including any guaranty by
+the Association, whether or not limited in scope) and any securities guaranteed by
+the Association as to both principal and interest shall be deemed to be exempted
+securities within the meaning of section 3(a)(2) of the Securities Act of 1933 (15
+U.S.C. 77c(a)(2)) and section 3(a)(12) of the Securities Exchange Act of 1934 (15
+U.S.C. 78c(a)(12)). The Association shall file with the Securities and Exchange Com-
+mission such annual and other reports with regard to such securities as the Com-
+mission shall determine to be appropriate in view of the special character of the As-
+sociation and its operations and necessary in the public interest or for the protection
+of investors.
+‘‘(b) AUTHORITY OF SECURITIES AND EXCHANGE COMMISSION TO SUSPEND EXEMP-
+TION; REPORTS TO CONGRESS.—The Securities and Exchange Commission, acting in
+consultation with the National Advisory Council on International Monetary and Fi-
+nancial Problems, is authorized to suspend the provisions of subsection (a) of this
+section at any time as to any or all securities issued or guaranteed by the Associa-
+tion during the period of such suspension. The Commission shall include in its an-
+nual reports to the Congress such information as it shall deem advisable with re-
+gard to the operations and effect of this section.’’.
+(b) EFFECTIVEDATE.—
+(1) IN GENERAL.—The amendment made by subsection (a) shall take effect 30
+days after the date of enactment of this Act.
+(2) EXCEPTION.—Notwithstanding paragraph (1), the amendment made by
+subsection (a) shall not take effect if, before the effective date described under
+paragraph (1), the Secretary of the Treasury reports to the Committee on Fi-
+nancial Services of the House of Representatives and the Committee on Bank-
+ing, Housing, and Urban Affairs of the Senate that the International Develop-
+ment Association is providing financial assistance to any country the govern-
+ment of which the Secretary of State has determined, for purposes of section
+6(j) of the Export Administration Act of 1979, section 620A of the Foreign As-
+sistance Act of 1961, or section 40 of the Arms Export Control Act, to be a gov-
+ernment that has repeatedly provided support for acts of international ter-
+rorism.
+PURPOSE AND SUMMARY
+Introduced on March 3, 2025, by Representative Maxine Waters,
+H.R. 1764, the Aligning SEC Regulations for the World Bank’s
+International Development Association Act, would classify securities
+issued by the World Bank’s International Development Association
+(IDA) as exempted securities, subject to reporting requirements
+deemed appropriate by the Securities and Exchange Commission.
+BACKGROUND AND NEED FOR LEGISLATION
+H.R. 1764 brings about parity among other World Bank groups
+and various other multilateral development banks to classify secu-
+rities issued by the World Bank’s IDA as exempted securities. Prior
+to 2018, IDA did not raise funds in the securities market and
+therefore did not require this exemption. The exemption remains
+consistent with previous treatment of multilateral development
+bank securities.
+VerDate Sep 11 2014 05:25 Apr 03, 2025 Jkt 059008 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR025.XXX HR025
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+3
+COMMITTEE CONSIDERATION
+118TH CONGRESS
+On February 7, 2023, the Committee Financial Services held a
+hearing titled ‘‘Combatting the Economic Threat from China,’’
+which examined tools to combat the economic threat from China.
+Witnesses were Mr. Rich Ashooh, former Assistant Secretary of
+Commerce for Export Administration; Mr. Tom Feddo, former As-
+sistant Secretary for Investment Security at the Department of
+Treasury and former Assistant Director for Enforcement at the Of-
+fice of Foreign Assets Control; Mr. Eric Lorber, former Senior Advi-
+sor to the Undersecretary for Treasury’s Terrorism and Financial
+Intelligence Division; Mr. Clete Willems, former Deputy National
+Security Advisor and Deputy National Economic Advisor; and Mr.
+Peter Harrell, former Senior Director for International Economic
+Policy with the Biden Administration.
+On February 24, 2023, Representative Maxine Waters (D–CA) in-
+troduced H.R. 1161, the Aligning SEC Regulations for the World
+Bank’s International Development Associations Act. The bill was re-
+ferred solely to the Committee on Financial Services.
+The Committee on Financial Services met in open session on
+February 28, 2023, and ordered H.R. 1161 to be reported favorably
+to the House as amended by a recorded vote of 38 yeas and 0 nays,
+a quorum being present (Record Vote No. FC–23). Before the ques-
+tion was called to order the bill favorably reported, the Committee
+adopted an amendment in the nature of a substitute offered by Ms.
+Waters by voice vote.
+119TH CONGRESS
+On March 5, 2025, Representative Maxine Waters (D–CA) intro-
+duced H.R. 1764, the Aligning SEC Regulations for the World
+Bank’s International Development Associations Act. The bill was re-
+ferred solely to the Committee on Financial Services.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+1764:
+The Full Committee held a hearing on February 25, 2025, titled
+‘‘Examining Policies to Counter China.’’ A discussion draft of the
+bill was considered in this hearing. Witness who testified were:
+John Miller, Senior Vice President of Policy, Trust, Data, and Tech-
+nology, and General Counsel, Information Technology Industry
+Council; Nicholas McMurray, Managing Director of International
+and Nuclear Policy, ClearPath; John Cassara, retired United States
+Treasury Department Special Agent; Martin Muhleisen, Non-
+resident Senior Fellow at the GAO Economic Center at the Atlantic
+Council; and Dr. Rush Doshi, C.V. Starr Senior Fellow for Asian
+Studies, and Director of the China Strategy Initiative at the Coun-
+cil on Foreign Relations, and an assistant professor at Georgetown
+University.
+The Committee on Financial Services met in open session on
+March 5, 2025 to consider, among others, H.R. 1764.
+VerDate Sep 11 2014 05:25 Apr 03, 2025 Jkt 059008 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR025.XXX HR025
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+4
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On March 5, 2025, the Committee ordered H.R. 1764, as amend-
+ed, to be reported favorably to the House by a recorded vote of 49
+yeas to 0 nays, a quorum being present. (Record Vote No. FC–026).
+Before the question to report was called, the Committee adopted
+an amendment in the nature of a substitute offered by Ms. Waters
+making technical changes by voice vote.
+VerDate Sep 11 2014 05:25 Apr 03, 2025 Jkt 059008 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR025.XXX HR025
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+5
+VerDate Sep 11 2014 05:25 Apr 03, 2025 Jkt 059008 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR025.XXX HR025
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+100.52RH
+ereh
+6
+oilof
+tesffo
+tresnI
+
+6
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 1764 is to classify securities
+issued by the World Bank’s IDA as exempted securities and to re-
+quire the Secretary of the Treasury to certify that the IDA is not
+providing financial assistance to any country that has repeatedly
+provided support for acts of international terrorism.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 1764.
+The Committee has requested but not received a cost estimate
+from the Director of the Congressional Budget Office. However,
+pursuant to clause 3(d)(1) of rule XIII of the House of Representa-
+tives, the Committee will adopt as its own the cost estimate by the
+Director of the Congressional Budget Office once it has been pre-
+pared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+VerDate Sep 11 2014 05:25 Apr 03, 2025 Jkt 059008 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR025.XXX HR025
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+7
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+The following is a section-by-section analysis of H.R. 1764, the
+Aligning SEC Regulations for the World Bank’s International De-
+velopment Associations Act.
+Section 1. Short title
+Section 1 provides that the short title is ‘‘Aligning SEC Regula-
+tions for the World Bank’s International Development Association
+Act.’’
+Section 2. Exemption of Securities of the International Development
+Association from the Securities Laws
+• Amends the International Development Association Act (22
+U.S.C. 284–284cc) to align securities guaranteed by the Asso-
+ciation with the exemptions provided under the Securities Act
+of 1933 (15 U.S.C. 77c(a)(2)) and the Securities Exchange Act
+of 1934 (15 U.S.C. 78c(a)(12)).
+• Provides the Securities and Exchange Commission author-
+ity to suspend the exemptions.
+• Provides an effective date of 30 days after enactment.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+INTERNATIONAL DEVELOPMENT ASSOCIATION ACT
+* * * * * * *
+VerDate Sep 11 2014 05:25 Apr 03, 2025 Jkt 059008 PO 00000 Frm 00007 Fmt 6659 Sfmt 6601 E:\HR\OC\HR025.XXX HR025
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+8
+SEC. 33. EXEMPTION OF SECURITIES OF THE INTERNATIONAL DEVEL-
+OPMENT ASSOCIATION FROM THE SECURITIES LAWS.
+(a) EXEMPTION FROM SECURITIES LAWS; REPORTS TO SECURITIES
+AND EXCHANGE COMMISSION.—Any securities issued by the Associa-
+tion (including any guaranty by the Association, whether or not lim-
+ited in scope) and any securities guaranteed by the Association as
+to both principal and interest shall be deemed to be exempted secu-
+rities within the meaning of section 3(a)(2) of the Securities Act of
+1933 (15 U.S.C. 77c(a)(2)) and section 3(a)(12) of the Securities Ex-
+change Act of 1934 (15 U.S.C. 78c(a)(12)). The Association shall file
+with the Securities and Exchange Commission such annual and
+other reports with regard to such securities as the Commission shall
+determine to be appropriate in view of the special character of the
+Association and its operations and necessary in the public interest
+or for the protection of investors.
+(b) AUTHORITY OF SECURITIES AND EXCHANGE COMMISSION TO
+SUSPEND EXEMPTION; REPORTS TO CONGRESS.—The Securities and
+Exchange Commission, acting in consultation with the National Ad-
+visory Council on International Monetary and Financial Problems,
+is authorized to suspend the provisions of subsection (a) of this sec-
+tion at any time as to any or all securities issued or guaranteed by
+the Association during the period of such suspension. The Commis-
+sion shall include in its annual reports to the Congress such infor-
+mation as it shall deem advisable with regard to the operations and
+effect of this section.
+Æ
+VerDate Sep 11 2014 05:25 Apr 03, 2025 Jkt 059008 PO 00000 Frm 00008 Fmt 6659 Sfmt 6611 E:\HR\OC\HR025.XXX HR025
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba

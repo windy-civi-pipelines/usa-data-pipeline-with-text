@@ -1,0 +1,547 @@
+Title: JULY10, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JULY10, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 9
+Source: documents - H. Rept. 119-195
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–195
+PRECISION AGRICULTURE SATELLITE CONNECTIVITY ACT
+the Union and ordered to be printed
+Mr. GUTHRIE, from the Committee on Energy and Commerce,
+submitted the following
+R E P O R T
+[To accompany H.R. 1618]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Energy and Commerce, to whom was referred
+the bill (H.R. 1618) to require the Federal Communications Com-
+mission to review certain rules of the Commission and develop rec-
+ommendations for rule changes to promote precision agriculture,
+and for other purposes, having considered the same, reports favor-
+ably thereon with an amendment and recommends that the bill as
+amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Action .................................................................................................... 2
+Committee Votes ...................................................................................................... 3
+Oversight Findings and Recommendations ........................................................... 3
+New Budget Authority, Entitlement Authority, and Tax Expenditures ............. 3
+Congressional Budget Office Estimate ................................................................... 3
+Federal Mandates Statement ................................................................................. 4
+Statement of General Performance Goals and Objectives .................................... 4
+Duplication of Federal Programs ............................................................................ 4
+Related Committee and Subcommittee Hearings ................................................. 4
+Committee Cost Estimate ....................................................................................... 5
+Earmark, Limited Tax Benefits, and Limited Tariff Benefits ............................. 5
+Advisory Committee Statement .............................................................................. 5
+Applicability to Legislative Branch ........................................................................ 5
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 5
+Changes in Existing Law Made by the Bill, as Reported ..................................... 5
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Precision Agriculture Satellite Connectivity Act’’.
+59–006
+VerDate Sep 11 2014 02:47 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6621 E:\HR\OC\HR195.XXX HR195
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+SEC. 2. PRECISION AGRICULTURE SATELLITE CONNECTIVITY.
+(a) REVIEW.—The Commission shall—
+(1) review the rules of the Commission relating to fixed satellite service, mo-
+bile satellite service, and earth exploration satellite service to determine if there
+are rule changes that the Commission could implement under existing authority
+to promote precision agriculture; and
+(2) if the Commission determines under paragraph (1) that there are rule
+changes that the Commission could implement, develop recommendations for
+how to implement the changes.
+(b) REPORT.—Not later than 15 months after the date of the enactment of this Act,
+the Commission shall submit to the Committee on Energy and Commerce of the
+House of Representatives and the Committee on Commerce, Science, and Transpor-
+tation of the Senate a report on the results of the review conducted under subsection
+(a), including any recommendations developed under paragraph (2) of such sub-
+
+Section 4:
+section.
+(c) COMMISSIONDEFINED.—In this section, the term ‘‘Commission’’ means the Fed-
+eral Communications Commission.
+PURPOSE AND SUMMARY
+H.R. 1618, the Precision Agriculture Satellite Connectivity Act,
+was introduced by Representative Robert E. Latta (R–OH) on Feb-
+ruary 26, 2025. The bill requires the Federal Communications
+Commission (FCC) to review its rules regarding certain satellite
+communications services to determine if changes to its rules could
+promote precision agriculture. If the FCC determines that there are
+rule changes that could be made under the FCC’s existing author-
+ity to promote precision agriculture, the FCC must develop rec-
+ommendations and submit them to Congress within 15 months of
+enactment.
+BACKGROUND AND NEED FOR LEGISLATION
+Precision agriculture allows for the optimization of crop yield,
+water usage, and soil sustainability. Unfortunately, many rural
+communities have little or no connectivity, thereby reducing the
+ability of many farmers to utilize precision agriculture. Addition-
+ally, there are earth exploration and observation services author-
+ized by the FCC that could promote precision agriculture. These
+satellite technologies offer the opportunity to expand the use of pre-
+cision agriculture throughout the United States, and this legisla-
+tion would require the FCC to evaluate its rules to see if there are
+changes that can be made to promote this deployment.
+COMMITTEE ACTION
+The Committee on Energy and Commerce held a hearing in the
+development of the legislation during the 119th Congress. On Jan-
+uary 23, 2025, the Subcommittee on Communications and Tech-
+nology held a hearing entitled, ‘‘Strengthening American Leader-
+ship in Wireless Technology.’’ The Subcommittee received testi-
+mony from the following witnesses:
+• Mr. Michael K. Powell, President & CEO, NCTA—The
+Internet & Television Association;
+• Mr. Brad Gillen, Executive Vice President, CTIA—The
+Wireless Association;
+• Ms. Diane Rinaldo, Executive Director, Open RAN Policy
+Coalition; and
+• Mr. Chris Lewis, President & CEO, Public Knowledge.
+On March 4, 2025, the full Committee on Energy and Commerce
+met in open markup session and adopted an amendment in the na-
+VerDate Sep 11 2014 02:47 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR195.XXX HR195
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+ture of a substitute by voice vote, and then ordered H.R. 1618, as
+amended, favorably reported to the House by voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the record
+votes on the motion to report legislation and amendments thereto.
+There were no record votes taken in connection with order H.R.
+1618 reported.
+OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Pursuant to clause 2(b)(1) of rule X and clause 3(c)(1) of rule
+XIII, the Committee held hearings and made findings that are re-
+flected in this report.
+NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY, AND TAX
+EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII, the Committee finds that
+H.R. 1618 would result in no new or increased budget authority,
+entitlement authority, or tax expenditures or revenues.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE
+Pursuant to clause 3(c)(3) of rule XIII, the following is the cost
+estimate provided by the Congressional Budget Office pursuant to
+
+Section 5:
+section 402 of the Congressional Budget Act of 1974:
+H.R. 1618 would require the Federal Communications Commis-
+sion (FCC) to review its rules concerning fixed, mobile, and earth
+exploration satellite service and recommend changes that would
+promote precision agriculture. The bill would require the FCC to
+report to the Congress on that review and any associated rec-
+ommendations within 15 months of enactment.
+Using information from the FCC, CBO expects that it would need
+five part-time employees, at an average cost of $195,000 per person
+to review the relevant rules and report to the Congress. On that
+basis, CBO estimates that it would cost the agency $1 million over
+the 2025–2030 period to implement the bill. However, because the
+VerDate Sep 11 2014 02:47 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR195.XXX HR195
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 6:
+100.591RH
+ereh
+7
+oilof
+tesffo
+tresnI
+4
+FCC is authorized to collect fees each year sufficient to offset the
+appropriated costs of its regulatory activities, CBO estimates that
+the net cost to the FCC would be negligible, assuming appropria-
+tion actions consistent with that authority.
+If the FCC increased fees to offset the costs associated with im-
+plementing the bill, H.R. 1618 would increase the cost of an exist-
+ing mandate on private entities required to pay those fees. CBO es-
+timates that the incremental cost of that mandate would be small
+and fall below the annual threshold established in the Unfunded
+Mandates Reform Act (UMRA) for private-sector mandates ($203
+million in 2025, adjusted annually for inflation).
+H.R. 1618 contains no intergovernmental mandates as defined in
+UMRA.
+The CBO staff contacts for this estimate are Zunara Naeem (for
+federal costs) and Rachel Austin (for mandates). The estimate was
+reviewed by H. Samuel Papenfuss, Deputy Director of Budget Anal-
+ysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the general performance
+goal or objective of this legislation is to require the Federal Com-
+munications Commission to review its rules regarding certain sat-
+ellite communications services to determine whether any changes
+could be made to promote precision agriculture, and if so, develop
+and submit recommendations to Congress on the rule changes that
+could promote precision agriculture.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII, no provision of H.R. 1618
+is known to be duplicative of another Federal program, including
+any program that was included in a report to Congress pursuant
+to section 21 of Public Law 111–139 or the most recent Catalog of
+Federal Domestic Assistance.
+RELATED COMMITTEE AND SUBCOMMITTEE HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII, the following hearings
+were used to develop or consider H.R. 1618:
+On January 23, 2025, the Subcommittee on Communications and
+Technology held a hearing. The title of the hearing was ‘‘Strength-
+ening American Leadership in Wireless Technology.’’ The Sub-
+committee received testimony from the following witnesses:
+• Mr. Michael K. Powell, President & CEO, NCTA—The
+Internet & Television Association;
+• Mr. Brad Gillen, Executive Vice President, CTIA—The
+Wireless Association;
+• Ms. Diane Rinaldo, Executive Director, Open RAN Policy
+Coalition; and
+VerDate Sep 11 2014 02:47 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR195.XXX HR195
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+5
+• Mr. Chris Lewis, President & CEO, Public Knowledge.
+COMMITTEE COST ESTIMATE
+Pursuant to clause 3(d)(1) of rule XIII, the Committee adopts as
+its own the cost estimate prepared by the Director of the Congres-
+sional Budget Office pursuant to section 402 of the Congressional
+Budget Act of 1974.
+EARMARK, LIMITED TAX BENEFITS, AND LIMITED TARIFF BENEFITS
+Pursuant to clause 9(e), 9(f), and 9(g) of rule XXI, the Committee
+finds that H.R. 1618 contains no earmarks, limited tax benefits, or
+limited tariff benefits.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+
+Section 7:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 8:
+Section 1. Short title
+This section designates that the short title may be cited as the
+‘‘Precision Agriculture Satellite Connectivity Act.’’
+
+Section 9:
+Section 2. Precision agriculture satellite connectivity
+Subsection (a) requires the Federal Communications Commission
+(the Commission) to (1) review the rules of the Commission relat-
+ing to fixed satellite service, mobile satellite service, and earth ex-
+ploration satellite service to determine whether there are any
+changes to its rules that could promote precision agriculture; and
+(2) if the Commission identifies such changes, to develop rec-
+ommendations for how to implement those changes.
+Subsection (b) requires the Commission to submit, not later than
+15 months after the date of enactment, a report to the House Com-
+mittee on Energy and Commerce and the Senate Committee on
+Commerce, Science, and Transportation on the results of the re-
+view conducted under subsection (a), including any recommenda-
+tions.
+Subsection (c) defines key terms.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+This legislation does not amend any existing Federal statute.
+Æ
+VerDate Sep 11 2014 02:47 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6611 E:\HR\OC\HR195.XXX HR195
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–195
+PRECISION AGRICULTURE SATELLITE CONNECTIVITY ACT
+JULY10, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. GUTHRIE, from the Committee on Energy and Commerce,
+submitted the following
+R E P O R T
+[To accompany H.R. 1618]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Energy and Commerce, to whom was referred
+the bill (H.R. 1618) to require the Federal Communications Com-
+mission to review certain rules of the Commission and develop rec-
+ommendations for rule changes to promote precision agriculture,
+and for other purposes, having considered the same, reports favor-
+ably thereon with an amendment and recommends that the bill as
+amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Action .................................................................................................... 2
+Committee Votes ...................................................................................................... 3
+Oversight Findings and Recommendations ........................................................... 3
+New Budget Authority, Entitlement Authority, and Tax Expenditures ............. 3
+Congressional Budget Office Estimate ................................................................... 3
+Federal Mandates Statement ................................................................................. 4
+Statement of General Performance Goals and Objectives .................................... 4
+Duplication of Federal Programs ............................................................................ 4
+Related Committee and Subcommittee Hearings ................................................. 4
+Committee Cost Estimate ....................................................................................... 5
+Earmark, Limited Tax Benefits, and Limited Tariff Benefits ............................. 5
+Advisory Committee Statement .............................................................................. 5
+Applicability to Legislative Branch ........................................................................ 5
+Section-by-Section Analysis of the Legislation ...................................................... 5
+Changes in Existing Law Made by the Bill, as Reported ..................................... 5
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Precision Agriculture Satellite Connectivity Act’’.
+59–006
+VerDate Sep 11 2014 02:47 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6621 E:\HR\OC\HR195.XXX HR195
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+SEC. 2. PRECISION AGRICULTURE SATELLITE CONNECTIVITY.
+(a) REVIEW.—The Commission shall—
+(1) review the rules of the Commission relating to fixed satellite service, mo-
+bile satellite service, and earth exploration satellite service to determine if there
+are rule changes that the Commission could implement under existing authority
+to promote precision agriculture; and
+(2) if the Commission determines under paragraph (1) that there are rule
+changes that the Commission could implement, develop recommendations for
+how to implement the changes.
+(b) REPORT.—Not later than 15 months after the date of the enactment of this Act,
+the Commission shall submit to the Committee on Energy and Commerce of the
+House of Representatives and the Committee on Commerce, Science, and Transpor-
+tation of the Senate a report on the results of the review conducted under subsection
+(a), including any recommendations developed under paragraph (2) of such sub-
+section.
+(c) COMMISSIONDEFINED.—In this section, the term ‘‘Commission’’ means the Fed-
+eral Communications Commission.
+PURPOSE AND SUMMARY
+H.R. 1618, the Precision Agriculture Satellite Connectivity Act,
+was introduced by Representative Robert E. Latta (R–OH) on Feb-
+ruary 26, 2025. The bill requires the Federal Communications
+Commission (FCC) to review its rules regarding certain satellite
+communications services to determine if changes to its rules could
+promote precision agriculture. If the FCC determines that there are
+rule changes that could be made under the FCC’s existing author-
+ity to promote precision agriculture, the FCC must develop rec-
+ommendations and submit them to Congress within 15 months of
+enactment.
+BACKGROUND AND NEED FOR LEGISLATION
+Precision agriculture allows for the optimization of crop yield,
+water usage, and soil sustainability. Unfortunately, many rural
+communities have little or no connectivity, thereby reducing the
+ability of many farmers to utilize precision agriculture. Addition-
+ally, there are earth exploration and observation services author-
+ized by the FCC that could promote precision agriculture. These
+satellite technologies offer the opportunity to expand the use of pre-
+cision agriculture throughout the United States, and this legisla-
+tion would require the FCC to evaluate its rules to see if there are
+changes that can be made to promote this deployment.
+COMMITTEE ACTION
+The Committee on Energy and Commerce held a hearing in the
+development of the legislation during the 119th Congress. On Jan-
+uary 23, 2025, the Subcommittee on Communications and Tech-
+nology held a hearing entitled, ‘‘Strengthening American Leader-
+ship in Wireless Technology.’’ The Subcommittee received testi-
+mony from the following witnesses:
+• Mr. Michael K. Powell, President & CEO, NCTA—The
+Internet & Television Association;
+• Mr. Brad Gillen, Executive Vice President, CTIA—The
+Wireless Association;
+• Ms. Diane Rinaldo, Executive Director, Open RAN Policy
+Coalition; and
+• Mr. Chris Lewis, President & CEO, Public Knowledge.
+On March 4, 2025, the full Committee on Energy and Commerce
+met in open markup session and adopted an amendment in the na-
+VerDate Sep 11 2014 02:47 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR195.XXX HR195
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+ture of a substitute by voice vote, and then ordered H.R. 1618, as
+amended, favorably reported to the House by voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the record
+votes on the motion to report legislation and amendments thereto.
+There were no record votes taken in connection with order H.R.
+1618 reported.
+OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Pursuant to clause 2(b)(1) of rule X and clause 3(c)(1) of rule
+XIII, the Committee held hearings and made findings that are re-
+flected in this report.
+NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY, AND TAX
+EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII, the Committee finds that
+H.R. 1618 would result in no new or increased budget authority,
+entitlement authority, or tax expenditures or revenues.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE
+Pursuant to clause 3(c)(3) of rule XIII, the following is the cost
+estimate provided by the Congressional Budget Office pursuant to
+section 402 of the Congressional Budget Act of 1974:
+H.R. 1618 would require the Federal Communications Commis-
+sion (FCC) to review its rules concerning fixed, mobile, and earth
+exploration satellite service and recommend changes that would
+promote precision agriculture. The bill would require the FCC to
+report to the Congress on that review and any associated rec-
+ommendations within 15 months of enactment.
+Using information from the FCC, CBO expects that it would need
+five part-time employees, at an average cost of $195,000 per person
+to review the relevant rules and report to the Congress. On that
+basis, CBO estimates that it would cost the agency $1 million over
+the 2025–2030 period to implement the bill. However, because the
+VerDate Sep 11 2014 02:47 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR195.XXX HR195
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.591RH
+ereh
+7
+oilof
+tesffo
+tresnI
+
+4
+FCC is authorized to collect fees each year sufficient to offset the
+appropriated costs of its regulatory activities, CBO estimates that
+the net cost to the FCC would be negligible, assuming appropria-
+tion actions consistent with that authority.
+If the FCC increased fees to offset the costs associated with im-
+plementing the bill, H.R. 1618 would increase the cost of an exist-
+ing mandate on private entities required to pay those fees. CBO es-
+timates that the incremental cost of that mandate would be small
+and fall below the annual threshold established in the Unfunded
+Mandates Reform Act (UMRA) for private-sector mandates ($203
+million in 2025, adjusted annually for inflation).
+H.R. 1618 contains no intergovernmental mandates as defined in
+UMRA.
+The CBO staff contacts for this estimate are Zunara Naeem (for
+federal costs) and Rachel Austin (for mandates). The estimate was
+reviewed by H. Samuel Papenfuss, Deputy Director of Budget Anal-
+ysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the general performance
+goal or objective of this legislation is to require the Federal Com-
+munications Commission to review its rules regarding certain sat-
+ellite communications services to determine whether any changes
+could be made to promote precision agriculture, and if so, develop
+and submit recommendations to Congress on the rule changes that
+could promote precision agriculture.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII, no provision of H.R. 1618
+is known to be duplicative of another Federal program, including
+any program that was included in a report to Congress pursuant
+to section 21 of Public Law 111–139 or the most recent Catalog of
+Federal Domestic Assistance.
+RELATED COMMITTEE AND SUBCOMMITTEE HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII, the following hearings
+were used to develop or consider H.R. 1618:
+On January 23, 2025, the Subcommittee on Communications and
+Technology held a hearing. The title of the hearing was ‘‘Strength-
+ening American Leadership in Wireless Technology.’’ The Sub-
+committee received testimony from the following witnesses:
+• Mr. Michael K. Powell, President & CEO, NCTA—The
+Internet & Television Association;
+• Mr. Brad Gillen, Executive Vice President, CTIA—The
+Wireless Association;
+• Ms. Diane Rinaldo, Executive Director, Open RAN Policy
+Coalition; and
+VerDate Sep 11 2014 02:47 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR195.XXX HR195
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+5
+• Mr. Chris Lewis, President & CEO, Public Knowledge.
+COMMITTEE COST ESTIMATE
+Pursuant to clause 3(d)(1) of rule XIII, the Committee adopts as
+its own the cost estimate prepared by the Director of the Congres-
+sional Budget Office pursuant to section 402 of the Congressional
+Budget Act of 1974.
+EARMARK, LIMITED TAX BENEFITS, AND LIMITED TARIFF BENEFITS
+Pursuant to clause 9(e), 9(f), and 9(g) of rule XXI, the Committee
+finds that H.R. 1618 contains no earmarks, limited tax benefits, or
+limited tariff benefits.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+This section designates that the short title may be cited as the
+‘‘Precision Agriculture Satellite Connectivity Act.’’
+Section 2. Precision agriculture satellite connectivity
+Subsection (a) requires the Federal Communications Commission
+(the Commission) to (1) review the rules of the Commission relat-
+ing to fixed satellite service, mobile satellite service, and earth ex-
+ploration satellite service to determine whether there are any
+changes to its rules that could promote precision agriculture; and
+(2) if the Commission identifies such changes, to develop rec-
+ommendations for how to implement those changes.
+Subsection (b) requires the Commission to submit, not later than
+15 months after the date of enactment, a report to the House Com-
+mittee on Energy and Commerce and the Senate Committee on
+Commerce, Science, and Transportation on the results of the re-
+view conducted under subsection (a), including any recommenda-
+tions.
+Subsection (c) defines key terms.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+This legislation does not amend any existing Federal statute.
+Æ
+VerDate Sep 11 2014 02:47 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6611 E:\HR\OC\HR195.XXX HR195
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

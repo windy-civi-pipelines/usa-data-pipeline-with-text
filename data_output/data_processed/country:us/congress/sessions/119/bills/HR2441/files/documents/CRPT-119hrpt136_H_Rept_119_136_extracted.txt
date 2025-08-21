@@ -1,0 +1,1177 @@
+Title: JUNE4, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JUNE4, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 11
+Source: documents - H. Rept. 119-136
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–136
+IMPROVING DISCLOSURE FOR INVESTORS ACT OF 2025
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 2441]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 2441) to provide for the electronic delivery of certain reg-
+ulatory document required under the securities laws, having con-
+sidered the same, reports favorably thereon with an amendment
+and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 4
+Background and Need for Legislation .................................................................... 4
+Committee Consideration ........................................................................................ 4
+Related Hearings ..................................................................................................... 5
+Committee Votes ...................................................................................................... 6
+Committee Oversight Findings ............................................................................... 8
+Performance Goals and Objectives ......................................................................... 8
+Committee Cost Estimate ....................................................................................... 8
+New Budget Authority and CBO Cost Estimate ................................................... 8
+Unfunded Mandates Statement .............................................................................. 8
+Earmark Statement ................................................................................................. 8
+Federal Advisory Committee Act Statement ......................................................... 8
+Applicability to the Legislative Branch ................................................................. 9
+Duplication of Federal Programs ............................................................................ 9
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 9
+Changes in Existing Law Made by the Bill, as Reported ..................................... 10
+Minority Views or Supplemental Views, Additional Views, or Dissenting
+Views ..................................................................................................................... 12
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+2
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Improving Disclosure for Investors Act of 2025’’.
+SEC. 2. ELECTRONIC DELIVERY.
+(a) PROMULGATION OF RULES.—Not later than 180 days after the date of the en-
+actment of this section, the Securities and Exchange Commission shall propose and,
+not later than 1 year after the date of the enactment of this section, the Commission
+shall finalize rules, regulations, amendments, or interpretations, as appropriate, to
+allow a covered entity to satisfy the entity’s obligation to deliver regulatory docu-
+ments required under the securities laws to investors using electronic delivery.
+(b) REQUIRED PROVISIONS.—Rules, regulations, amendments, or interpretations
+the Commission promulgates pursuant to subsection (a) shall:
+(1) With respect to investors that do not receive all regulatory documents by
+electronic delivery, provide for—
+(A) delivery of an initial communication in paper form regarding elec-
+tronic delivery;
+(B) a transition period not to exceed 180 days until such regulatory docu-
+ments are delivered to such investors by electronic delivery; and
+(C) during a period not to exceed 2 years following the transition period
+set forth in subparagraph (B), delivery of an annual notice in paper form
+solely reminding such investors of the ability to opt out of electronic deliv-
+ery at any time and receive paper versions of regulatory documents.
+(2) Set forth requirements for the content of the initial communication de-
+scribed in paragraph (1)(A).
+(3) Set forth requirements for the timing of delivery of a notice of website
+availability of regulatory documents and the content of the appropriate notice
+described in subsection (g)(3)(B).
+(4) Provide a mechanism for investors to opt out of electronic delivery at any
+time and receive paper versions of regulatory documents.
+(5) Require measures reasonably designed to identify and remediate failed
+electronic deliveries of regulatory documents.
+(6) Set forth minimum requirements regarding readability and retainability
+for regulatory documents that are delivered electronically.
+(7) For covered entities other than brokers, dealers, investment advisers reg-
+istered with the Commission, and investment companies, require measures rea-
+sonably designed to ensure the confidentiality of personal information in regu-
+latory documents that are delivered to investors electronically.
+(c) EXEMPTION FROM CERTAIN REQUIREMENTS.—Section 101(c) of the Electronic
+Signatures in Global and National Commerce Act (15 U.S.C. 7001(c)) shall not apply
+with respect to a regulatory document delivered in accordance with this section.
+(d) RULE OF CONSTRUCTION.—Nothing in this section shall be construed as alter-
+ing the substance or timing of any regulatory document obligation under the securi-
+ties laws or regulations of a self-regulatory organization.
+(e) TREATMENTOFREVISIONSNOTCOMPLETEDINATIMELYMANNER.—If the Com-
+mission fails to finalize the rules, regulations, amendments, or interpretations re-
+quired under subsection (a) before the date specified in such subsection—
+(1) a covered entity may deliver regulatory documents using electronic deliv-
+ery in accordance with subsections (b) and (c); and
+(2) such electronic delivery shall be deemed to satisfy the obligation of the
+covered entity to deliver regulatory documents required under the securities
+laws.
+(f) OTHERREQUIREDACTIONS.—
+(1) REVIEWOFRULES.—The Commission shall—
+(A) within 180 days of the date of enactment of this Act, conduct a review
+of the rules and regulations of the Commission to determine whether any
+such rules or regulations require delivery of written documents to investors;
+and
+(B) within 1 year of the date of enactment of this Act, promulgate amend-
+ments to such rules or regulations to provide that any requirement to de-
+liver a regulatory document ‘‘in writing’’ may be satisfied by electronic de-
+livery.
+(2) ACTIONS BY SELF-REGULATORY ORGANIZATIONS.—Each self-regulatory orga-
+nization shall adopt rules and regulations, or amend the rules and regulations
+of the self-regulatory organization, consistent with this Act and consistent with
+rules, regulations, amendments, or interpretations finalized by the Commission
+pursuant to subsection (a).
+(3) RULEOFAPPLICATION.—This subsection shall not apply to a rule or regula-
+tion issued pursuant to a Federal statute if that Federal statute specifically re-
+quires delivery of paper documents to investors.
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+3
+(g) DEFINITIONS.—In this section:
+(1) COMMISSION.—The term ‘‘Commission’’ means the Securities and Ex-
+change Commission.
+(2) COVEREDENTITY.—The term ‘‘covered entity’’ means—
+(A) an investment company (as defined in section 3(a)(1) of the Invest-
+ment Company Act of 1940 (15 U.S.C. 80a–3(a)(1))) that is registered under
+such Act;
+(B) a business development company (as defined in section 2(a) of the In-
+vestment Company Act of 1940 (15 U.S.C. 80a–2(a))) that has elected to be
+regulated as such under such Act;
+(C) a registered broker or dealer (as such terms are defined, respectively,
+in paragraphs (4) and (5) of section 3(a) of the Securities Exchange Act of
+1934 (15 U.S.C. 78c(a)));
+(D) a registered municipal securities dealer (as defined in section 3(a)(30)
+of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(30)));
+(E) a registered government securities broker or government securities
+dealer (as such terms are defined, respectively, in paragraphs (43) and (44)
+of section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)));
+(F) a registered investment adviser (as defined in section 202(a)(11) of the
+Investment Advisers Act of 1940 (15 U.S.C. 80b-1(a)(11)));
+(G) a registered transfer agent (as defined in section 3(a)(25) of the Secu-
+rities Exchange Act of 1934 (15 U.S.C. 78c(a)(25))); or
+(H) a registered funding portal (as defined in the second paragraph (80)
+of section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))).
+(3) ELECTRONIC DELIVERY.—The term ‘‘electronic delivery’’, with respect to
+regulatory documents, includes—
+(A) the direct delivery of such regulatory document to an electronic ad-
+dress of an investor;
+(B) the posting of such regulatory document to a website, and direct deliv-
+ery of an appropriate notice of the availability of the regulatory document
+to an electronic address of the investor; or
+(C) any other electronic method reasonably designed to ensure receipt of
+such regulatory document by the investor.
+(4) REGULATORYDOCUMENTS.—The term ‘‘regulatory documents’’ includes—
+(A) prospectuses meeting the requirements of section 10(a) of the Securi-
+ties Act of 1933 (15 U.S.C. 77j(a));
+(B) summary prospectuses meeting the requirements of—
+(i) section 230.498 of title 17, Code of Federal Regulations; or
+(ii) section 230.498A of title 17, Code of Federal Regulations;
+(C) statements of additional information, as described under section
+
+Section 4:
+270.30e–3(h)(2) of title 17, Code of Federal Regulations;
+(D) annual and semi-annual reports to investors meeting the require-
+ments of section 30(e) of the Investment Company Act of 1940 (15 U.S.C.
+80a–29(e));
+(E) notices meeting the requirements under section 270.19a–1 of title 17,
+Code of Federal Regulations;
+(F) confirmations and account statements meeting the requirements
+under section 240.10b of title 17, Code of Federal Regulations;
+(G) proxy statements meeting the requirements under section 240.14a–3
+of title 17, Code of Federal Regulations;
+(H) privacy notices meeting the requirements of Regulation S–P under
+subpart A of part 248 of title 17, Code of Federal Regulations;
+(I) affiliate marketing notices meeting the requirements of Regulation S–
+AM under subpart B of part 248 of title 17, Code of Federal Regulations;
+and
+(J) all other regulatory documents required to be delivered by covered en-
+tities to investors under the securities laws and the rules and regulations
+of the Commission and the self-regulatory organizations.
+(5) SECURITIES LAWS.—The term ‘‘securities laws’’ has the meaning given the
+term in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)).
+(6) SELF-REGULATORYORGANIZATION.—The term ‘‘self-regulatory organization’’
+means—
+(A) a self-regulatory organization, as defined in section 3(a)(26) of the Se-
+curities Exchange Act of 1934 (15 U.S.C. 78c(a)(26)); and
+(B) the Municipal Securities Rulemaking Board.
+(7) WEBSITE.—The term ‘‘website’’ means an internet website or other digital,
+internet, or electronic-based information repository, including a mobile applica-
+tion.
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6621 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+4
+PURPOSE AND SUMMARY
+H.R. 2441, the Improving Disclosure for Investors Act of 2025,
+was introduced on March 27, 2025, by Representative Bill
+Huizenga (MI–04). H.R. 2441 would direct the Securities and Ex-
+change Commission (SEC) to promulgate rules with respect to the
+electronic delivery of certain required disclosures to investors.
+Under the bill, such rules would allow registered investment com-
+panies (i.e., mutual funds, closed end funds, and exchange-traded
+funds), business development companies (BDCs), registered broker-
+dealers, registered advisers, and other SEC-regulated entities to
+meet their obligations under U.S. securities laws to deliver regu-
+latory documents to investors electronically.
+BACKGROUND AND NEED FOR LEGISLATION
+A 2022 survey found that 85 percent of individual investors
+would be comfortable with e-delivery as the default for investor
+communications if they have the choice to opt-in to paper delivery.1
+H.R. 2441 preserves the ability for investors who prefer to receive
+paper notices and disclosures to do so by requiring the SEC to in-
+corporate investor protections into its rules, such as providing a
+means for investors to opt out of electronic delivery at any time.
+Aside from reducing the environmental impact of tons of disposed
+paper each year, the benefits of making electronic delivery the de-
+fault method for the entities listed above include facilitating posi-
+tive investor engagement, as investors can more easily search for
+and find information most relevant to them. Additionally, electronic
+delivery enhances the effectiveness of investor communications for
+individuals with disabilities or those for whom English is not their
+primary language. At a time when so many households, even senior
+households, have transitioned to online management of their fi-
+nances, H.R. 2441 is a significant and critical step forward in mod-
+ernizing how investor disclosures are delivered while preserving
+choice.
+COMMITTEE CONSIDERATION
+117TH CONGRESS
+On December 15, 2022, Representative Bill Huizenga (R–MI) in-
+troduced H.R. 9570, the Improving Disclosure for Investors Act of
+2022, with Representative Jake Auchincloss (D–MA) as original co-
+sponsor. This bill is an earlier iteration of H.R. 2441. The bill was
+referred solely to the Committee on Financial Services.
+118TH CONGRESS
+On March 27, 2023, Representative Bill Huizenga (R–MI) intro-
+duced H.R. 1807, the Improving Disclosure for Investors Act of
+2023, with Representatives Auchincloss, Bryan Steil (R–WI), and
+Wiley Nickel (D–NC) as original cosponsors. Representative John
+Rutherford (R–FL) was added subsequently as a cosponsor. This
+bill is an earlier iteration of H.R. 2441. The bill was referred solely
+to the Committee on Financial Services.
+1SIFMA, Most Investors Want Electronic, Not Paper, Delivery of Investor Documents (Summer
+2022), https://www.sifma.org/wp-content/uploads/2022/07/SIFMA-Survey-Results-for-SEC-July-
+
+Section 5:
+2022.pdf.
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+5
+On March 9, 2023, the Subcommittee on Capital Markets of the
+Committee on Financial Services held a hearing entitled ‘‘U.S. Pub-
+lic Markets Built for the 21st Century: Exploring Reforms to Make
+Our Public Markets Attractive for Small and Emerging Companies
+Raising Capital’’ to examine matters relating to H.R. 1807. On
+April 26, 2023, the Committee on Financial Services ordered H.R.
+1807 to be reported favorably to the House of Representatives by
+voice vote. In addition, Senator Thom Tillis (R–NC) introduced a
+companion bill, S. 3815, with Senator John Hickenlooper (D–CO)
+as an original cosponsor. On March 7, 2024, H.R. 1807 was added
+to H.R. 2799, the Expanding Access to Capital Act of 2023. On
+March 8, 2024, H.R. 2799 was passed by the House by a recorded
+vote of 212 yeas and 205 nays. The bill was received in the Senate
+and referred to the Committee on Banking, Housing, and Urban
+Affairs.
+119TH CONGRESS
+On March 27, 2025, Representative Huizenga introduced H.R.
+2441, the Improving Disclosure for Investors Act of 2025, with Rep-
+resentatives Brad Sherman (D–CA), Steil, and Auchincloss as origi-
+nal cosponsors. Representatives Brittany Pettersen (D–CO) and
+Ann Wagner (R–MO) were added subsequently as cosponsors. The
+bill was referred solely to the Committee on Financial Services.
+The bill was attached to the February 26, 2025, hearing titled ‘‘The
+Future of American Capital: Strengthening Public and Private
+Markets by Increasing Investor Access and Facilitating Capital
+Formation,’’ and the March 25, 2025, hearing titled, ‘‘Beyond Sil-
+icon Valley: Expanding Access to Capital Across America.’’
+On May 20, 2025, the Committee met in open session to consider,
+among others, H.R. 2441. The Committee ordered H.R. 2441, as
+amended, to be favorably reported to the House of Representatives.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearings were used to develop
+H.R. 2441:
+The Capital Markets Subcommittee of the Committee on Finan-
+cial Services held a February 26, 2025, hearing titled ‘‘The Future
+of American Capital: Strengthening Public and Private Markets by
+Increasing Investor Access and Facilitating Capital Formation’’ and
+the Full Committee held a March 25, 2025, hearing titled, ‘‘Beyond
+Silicon Valley: Expanding Access to Capital Across America.’’ A dis-
+cussion draft version of the bill was attached to both hearings. The
+following witnesses testified at the February 26, 2025, hearing: Mr.
+Andrew Barnell, CEO and Co-Founder, Geneoscopy; Mr. McKeever
+Conwell, Founder and Managing Partner, RareBreed Ventures; Ms.
+Rebecca Kacaba, CEO and Co-Founder, DealMaker; Ms. Anna
+Pinedo, Partner, Mayer Brown; and Ms. Alexandra Thornton, Sen-
+ior Director, Financial Regulation, Center for American Progress.
+The following witnesses testified at the March 25, 2025, hearing:
+Mr. Steve Case, Chairman and CEO, Revolution LLC; Mr. Bill
+Newell, Senior Business Advisor & Former CEO, Sutro Biopharma;
+Ms. Candice Matthews Brackeen, General Partner, Lightship Cap-
+ital; Mr. Joel Trotter, Partner, Latham & Watkins LLP; and Ms.
+Amanda Senn, Director of the Alabama Securities Commission.
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+6
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On May 20, 2025, the Committee ordered H.R. 2441, as amend-
+ed, to be reported favorably to the House by a recorded vote of 39
+yeas and 11 nays, a quorum being present. (Record Vote No. FC–
+116).2
+The Committee considered the following amendments to H.R.
+2441:
+• Representative Bill Huizenga (R–MI) offered an amend-
+ment in the nature of a substitute, which made minor edits
+and technical changes. This amendment was adopted by a
+voice vote.
+• Representative Sylvia Garcia (D–TX) offered an amend-
+ment (No. 3), designated AMEND_HR2441_2. This amendment
+would add a new section that requires covered entities to con-
+tinue honoring any investor election—made within the one-
+year period prior to enactment—to receive regulatory docu-
+ments in either paper or electronic form. The entity must con-
+tinue using the elected delivery method until the investor opts
+for a different format. This amendment was withdrawn.
+2On May 28, 2024, Representative Joyce Beatty notified the Committee in writing that her
+yea vote on the motion to report H.R. 2441, as amended, was in error. She intended to vote
+nay. See letter in Committee Letters section of this report.
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+7
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 6:
+100.631RH
+ereh
+9 oilof
+tesffo
+tresnI
+8
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 2441 is to direct the Securities
+and Exchange Commission to modernize how investor disclosures
+are delivered while preserving investors’ choice of delivery method.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 2441. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of House rule XIII, the Committee will adopt as its own the
+cost estimate by the Director of the Congressional Budget Office
+once it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+9
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+
+Section 7:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 8:
+Section 1. Short title
+This section cites H.R. 1807 as the ‘‘Improving Disclosure for In-
+vestors Act of 2025’’.
+
+Section 9:
+Section 2. Electronic delivery
+This section directs the SEC to promulgate rules to allow a cov-
+ered entity to meet its obligations to deliver regulatory documents
+required under the securities laws to investors using electronic de-
+livery. Within this section, a ‘‘covered entity’’ is defined as a reg-
+istered investment company, a business development company, a
+registered broker or dealer, a registered municipal securities deal-
+er, a registered government securities broker or government securi-
+ties dealer, a registered investment adviser, a registered transfer
+agent, or a registered funding portal.
+
+Section 10:
+Section 2 also states that the rules will: (1) for any investors who
+do not receive all regulatory documents electronically, provide for
+delivery of an initial communication regarding electronic delivery
+in paper, include a transition period not longer than 180 days, and
+during a period not to exceed two years, provide investors with an
+annual notice in paper reminding investors that they can opt out
+of electronic delivery at any time; (2) set forth the requirements for
+the initial communication to investors; (3) set forth the require-
+ments for providing investors with notice that regulatory docu-
+ments are available on a website and the contents of the notice; (4)
+provide a mechanism for investors to opt out of electronic delivery
+and to receive paper versions of regulatory documents; (5) include
+measures to identify and remediate failed electronic deliveries; (6)
+set forth requirements regarding readability and retainability of
+regulatory documents delivered electronically; and (7) require
+measures designed to ensure the confidentiality of personal infor-
+mation. Moreover, this section specifies exemptions, rules of con-
+struction, and notes that if rules are not completed in a timely
+manner, a covered entity may deliver regulatory documents elec-
+tronically to satisfy its obligations under the securities laws.
+This section also directs the SEC to review the rules to deter-
+mine whether any rules require delivery of written documents to
+investors and to promulgate amendments to the rules to provide
+that delivery of regulatory documents in writing may be satisfied
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+10
+electronically. Finally, this section directs self-regulatory organiza-
+tions to adopt rules or amend their rules consistent with the SEC’s
+final rules on electronic delivery.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+H.R. 2441 does not repeal or amend any section of a statute.
+Therefore, the Office of Legislative Counsel did not prepare the re-
+port required under clause 3(e) of rule XIII of the House of Rep-
+resentatives.
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+11
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+Section 11:
+200.631RH
+ereh
+41
+oilof
+tesffo
+tresnI
+MINORITY VIEWS
+This bill directs the SEC to promulgate rules to allow broker-
+dealers, mutual funds, retirement plans, etc., to satisfy their disclo-
+sure and statements delivery obligations through electronic means.
+Importantly, the bill includes a clause that self-effectuates the bill,
+should the SEC not complete the rulemaking in time. This bill ig-
+nores the reality that many investors, particularly seniors, do not
+have access to or the ability to review electronic documents, or sim-
+ply do not prefer electronic delivery of financial documents. This
+bill requires investors to proactively opt-in to receive paper docu-
+ments, which would effectively prevent individuals who do not have
+easy access to the internet from viewing important financial docu-
+ments about the securities they invest in. Furthermore, the bill—
+concerningly—would automatically enroll investors in e-delivery
+even if they affirmatively opted to receive paper documents.
+Several major investor advocate groups strongly oppose this bill,
+including AARP, NASAA, Consumer Federation of America, Ameri-
+cans for Financial Reform, and Public Citizen. AARP in particular
+is critical of this bill in its current form, writing:
+‘‘Full and meaningful disclosure is critical to individual
+financial planning. Millions of Americans, many who are
+50 and older or living in rural areas, do not have regular
+broadband internet access or do not routinely use com-
+puters at home. This means they would miss out on critical
+account information if the default delivery were electronic
+[. . .] If enacted as currently drafted, this legislation would
+amount to no disclosure at all for many consumers.’’
+The SEC’s Investor Advisory Committee has previously rec-
+ommended against the policy contained within this bill at a prior
+meeting. Additionally, in a letter to the Committee, the Consumer
+Federation of America warns that:
+‘‘Importantly, this bill would unwind the paper delivery
+of pro-investor disclosure improvements that the SEC final-
+ized recently that would make shareholder reports more
+concise and visually appealing.’’1
+Ranking Member Waters raised serious concerns with a prior
+version of this bill in the 118th Congress, but consented to a voice
+vote on the condition that it would undergo changes needed to miti-
+gate concerns raised by consumer advocates. The current bill does
+not address the Ranking Member’s concerns.
+1Consumer Federation of America, Statement for the Record of Micah Hauptman, Director of
+Investor Protection (Mar. 9, 2023).
+(12)
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6604 Sfmt 6604 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+13
+For these reasons, we oppose H.R. 2441.
+Sincerely,
+MAXINE WATERS,
+Ranking Member.
+NYDIA M. VELA ´ ZQUEZ,
+STEPHEN F. LYNCH,
+AL GREEN,
+JOYCE BEATTY,
+RASHIDA TLAIB,
+SYLVIA R. GARCIA,
+NIKEMA WILLIAMS,
+Members of Congress.
+Æ
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6604 Sfmt 6611 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–136
+IMPROVING DISCLOSURE FOR INVESTORS ACT OF 2025
+JUNE4, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 2441]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 2441) to provide for the electronic delivery of certain reg-
+ulatory document required under the securities laws, having con-
+sidered the same, reports favorably thereon with an amendment
+and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 4
+Background and Need for Legislation .................................................................... 4
+Committee Consideration ........................................................................................ 4
+Related Hearings ..................................................................................................... 5
+Committee Votes ...................................................................................................... 6
+Committee Oversight Findings ............................................................................... 8
+Performance Goals and Objectives ......................................................................... 8
+Committee Cost Estimate ....................................................................................... 8
+New Budget Authority and CBO Cost Estimate ................................................... 8
+Unfunded Mandates Statement .............................................................................. 8
+Earmark Statement ................................................................................................. 8
+Federal Advisory Committee Act Statement ......................................................... 8
+Applicability to the Legislative Branch ................................................................. 9
+Duplication of Federal Programs ............................................................................ 9
+Section-by-Section Analysis of the Legislation ...................................................... 9
+Changes in Existing Law Made by the Bill, as Reported ..................................... 10
+Minority Views or Supplemental Views, Additional Views, or Dissenting
+Views ..................................................................................................................... 12
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+2
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Improving Disclosure for Investors Act of 2025’’.
+SEC. 2. ELECTRONIC DELIVERY.
+(a) PROMULGATION OF RULES.—Not later than 180 days after the date of the en-
+actment of this section, the Securities and Exchange Commission shall propose and,
+not later than 1 year after the date of the enactment of this section, the Commission
+shall finalize rules, regulations, amendments, or interpretations, as appropriate, to
+allow a covered entity to satisfy the entity’s obligation to deliver regulatory docu-
+ments required under the securities laws to investors using electronic delivery.
+(b) REQUIRED PROVISIONS.—Rules, regulations, amendments, or interpretations
+the Commission promulgates pursuant to subsection (a) shall:
+(1) With respect to investors that do not receive all regulatory documents by
+electronic delivery, provide for—
+(A) delivery of an initial communication in paper form regarding elec-
+tronic delivery;
+(B) a transition period not to exceed 180 days until such regulatory docu-
+ments are delivered to such investors by electronic delivery; and
+(C) during a period not to exceed 2 years following the transition period
+set forth in subparagraph (B), delivery of an annual notice in paper form
+solely reminding such investors of the ability to opt out of electronic deliv-
+ery at any time and receive paper versions of regulatory documents.
+(2) Set forth requirements for the content of the initial communication de-
+scribed in paragraph (1)(A).
+(3) Set forth requirements for the timing of delivery of a notice of website
+availability of regulatory documents and the content of the appropriate notice
+described in subsection (g)(3)(B).
+(4) Provide a mechanism for investors to opt out of electronic delivery at any
+time and receive paper versions of regulatory documents.
+(5) Require measures reasonably designed to identify and remediate failed
+electronic deliveries of regulatory documents.
+(6) Set forth minimum requirements regarding readability and retainability
+for regulatory documents that are delivered electronically.
+(7) For covered entities other than brokers, dealers, investment advisers reg-
+istered with the Commission, and investment companies, require measures rea-
+sonably designed to ensure the confidentiality of personal information in regu-
+latory documents that are delivered to investors electronically.
+(c) EXEMPTION FROM CERTAIN REQUIREMENTS.—Section 101(c) of the Electronic
+Signatures in Global and National Commerce Act (15 U.S.C. 7001(c)) shall not apply
+with respect to a regulatory document delivered in accordance with this section.
+(d) RULE OF CONSTRUCTION.—Nothing in this section shall be construed as alter-
+ing the substance or timing of any regulatory document obligation under the securi-
+ties laws or regulations of a self-regulatory organization.
+(e) TREATMENTOFREVISIONSNOTCOMPLETEDINATIMELYMANNER.—If the Com-
+mission fails to finalize the rules, regulations, amendments, or interpretations re-
+quired under subsection (a) before the date specified in such subsection—
+(1) a covered entity may deliver regulatory documents using electronic deliv-
+ery in accordance with subsections (b) and (c); and
+(2) such electronic delivery shall be deemed to satisfy the obligation of the
+covered entity to deliver regulatory documents required under the securities
+laws.
+(f) OTHERREQUIREDACTIONS.—
+(1) REVIEWOFRULES.—The Commission shall—
+(A) within 180 days of the date of enactment of this Act, conduct a review
+of the rules and regulations of the Commission to determine whether any
+such rules or regulations require delivery of written documents to investors;
+and
+(B) within 1 year of the date of enactment of this Act, promulgate amend-
+ments to such rules or regulations to provide that any requirement to de-
+liver a regulatory document ‘‘in writing’’ may be satisfied by electronic de-
+livery.
+(2) ACTIONS BY SELF-REGULATORY ORGANIZATIONS.—Each self-regulatory orga-
+nization shall adopt rules and regulations, or amend the rules and regulations
+of the self-regulatory organization, consistent with this Act and consistent with
+rules, regulations, amendments, or interpretations finalized by the Commission
+pursuant to subsection (a).
+(3) RULEOFAPPLICATION.—This subsection shall not apply to a rule or regula-
+tion issued pursuant to a Federal statute if that Federal statute specifically re-
+quires delivery of paper documents to investors.
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6621 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+3
+(g) DEFINITIONS.—In this section:
+(1) COMMISSION.—The term ‘‘Commission’’ means the Securities and Ex-
+change Commission.
+(2) COVEREDENTITY.—The term ‘‘covered entity’’ means—
+(A) an investment company (as defined in section 3(a)(1) of the Invest-
+ment Company Act of 1940 (15 U.S.C. 80a–3(a)(1))) that is registered under
+such Act;
+(B) a business development company (as defined in section 2(a) of the In-
+vestment Company Act of 1940 (15 U.S.C. 80a–2(a))) that has elected to be
+regulated as such under such Act;
+(C) a registered broker or dealer (as such terms are defined, respectively,
+in paragraphs (4) and (5) of section 3(a) of the Securities Exchange Act of
+1934 (15 U.S.C. 78c(a)));
+(D) a registered municipal securities dealer (as defined in section 3(a)(30)
+of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(30)));
+(E) a registered government securities broker or government securities
+dealer (as such terms are defined, respectively, in paragraphs (43) and (44)
+of section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)));
+(F) a registered investment adviser (as defined in section 202(a)(11) of the
+Investment Advisers Act of 1940 (15 U.S.C. 80b-1(a)(11)));
+(G) a registered transfer agent (as defined in section 3(a)(25) of the Secu-
+rities Exchange Act of 1934 (15 U.S.C. 78c(a)(25))); or
+(H) a registered funding portal (as defined in the second paragraph (80)
+of section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a))).
+(3) ELECTRONIC DELIVERY.—The term ‘‘electronic delivery’’, with respect to
+regulatory documents, includes—
+(A) the direct delivery of such regulatory document to an electronic ad-
+dress of an investor;
+(B) the posting of such regulatory document to a website, and direct deliv-
+ery of an appropriate notice of the availability of the regulatory document
+to an electronic address of the investor; or
+(C) any other electronic method reasonably designed to ensure receipt of
+such regulatory document by the investor.
+(4) REGULATORYDOCUMENTS.—The term ‘‘regulatory documents’’ includes—
+(A) prospectuses meeting the requirements of section 10(a) of the Securi-
+ties Act of 1933 (15 U.S.C. 77j(a));
+(B) summary prospectuses meeting the requirements of—
+(i) section 230.498 of title 17, Code of Federal Regulations; or
+(ii) section 230.498A of title 17, Code of Federal Regulations;
+(C) statements of additional information, as described under section
+270.30e–3(h)(2) of title 17, Code of Federal Regulations;
+(D) annual and semi-annual reports to investors meeting the require-
+ments of section 30(e) of the Investment Company Act of 1940 (15 U.S.C.
+80a–29(e));
+(E) notices meeting the requirements under section 270.19a–1 of title 17,
+Code of Federal Regulations;
+(F) confirmations and account statements meeting the requirements
+under section 240.10b of title 17, Code of Federal Regulations;
+(G) proxy statements meeting the requirements under section 240.14a–3
+of title 17, Code of Federal Regulations;
+(H) privacy notices meeting the requirements of Regulation S–P under
+subpart A of part 248 of title 17, Code of Federal Regulations;
+(I) affiliate marketing notices meeting the requirements of Regulation S–
+AM under subpart B of part 248 of title 17, Code of Federal Regulations;
+and
+(J) all other regulatory documents required to be delivered by covered en-
+tities to investors under the securities laws and the rules and regulations
+of the Commission and the self-regulatory organizations.
+(5) SECURITIES LAWS.—The term ‘‘securities laws’’ has the meaning given the
+term in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)).
+(6) SELF-REGULATORYORGANIZATION.—The term ‘‘self-regulatory organization’’
+means—
+(A) a self-regulatory organization, as defined in section 3(a)(26) of the Se-
+curities Exchange Act of 1934 (15 U.S.C. 78c(a)(26)); and
+(B) the Municipal Securities Rulemaking Board.
+(7) WEBSITE.—The term ‘‘website’’ means an internet website or other digital,
+internet, or electronic-based information repository, including a mobile applica-
+tion.
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6621 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+4
+PURPOSE AND SUMMARY
+H.R. 2441, the Improving Disclosure for Investors Act of 2025,
+was introduced on March 27, 2025, by Representative Bill
+Huizenga (MI–04). H.R. 2441 would direct the Securities and Ex-
+change Commission (SEC) to promulgate rules with respect to the
+electronic delivery of certain required disclosures to investors.
+Under the bill, such rules would allow registered investment com-
+panies (i.e., mutual funds, closed end funds, and exchange-traded
+funds), business development companies (BDCs), registered broker-
+dealers, registered advisers, and other SEC-regulated entities to
+meet their obligations under U.S. securities laws to deliver regu-
+latory documents to investors electronically.
+BACKGROUND AND NEED FOR LEGISLATION
+A 2022 survey found that 85 percent of individual investors
+would be comfortable with e-delivery as the default for investor
+communications if they have the choice to opt-in to paper delivery.1
+H.R. 2441 preserves the ability for investors who prefer to receive
+paper notices and disclosures to do so by requiring the SEC to in-
+corporate investor protections into its rules, such as providing a
+means for investors to opt out of electronic delivery at any time.
+Aside from reducing the environmental impact of tons of disposed
+paper each year, the benefits of making electronic delivery the de-
+fault method for the entities listed above include facilitating posi-
+tive investor engagement, as investors can more easily search for
+and find information most relevant to them. Additionally, electronic
+delivery enhances the effectiveness of investor communications for
+individuals with disabilities or those for whom English is not their
+primary language. At a time when so many households, even senior
+households, have transitioned to online management of their fi-
+nances, H.R. 2441 is a significant and critical step forward in mod-
+ernizing how investor disclosures are delivered while preserving
+choice.
+COMMITTEE CONSIDERATION
+117TH CONGRESS
+On December 15, 2022, Representative Bill Huizenga (R–MI) in-
+troduced H.R. 9570, the Improving Disclosure for Investors Act of
+2022, with Representative Jake Auchincloss (D–MA) as original co-
+sponsor. This bill is an earlier iteration of H.R. 2441. The bill was
+referred solely to the Committee on Financial Services.
+118TH CONGRESS
+On March 27, 2023, Representative Bill Huizenga (R–MI) intro-
+duced H.R. 1807, the Improving Disclosure for Investors Act of
+2023, with Representatives Auchincloss, Bryan Steil (R–WI), and
+Wiley Nickel (D–NC) as original cosponsors. Representative John
+Rutherford (R–FL) was added subsequently as a cosponsor. This
+bill is an earlier iteration of H.R. 2441. The bill was referred solely
+to the Committee on Financial Services.
+1SIFMA, Most Investors Want Electronic, Not Paper, Delivery of Investor Documents (Summer
+2022), https://www.sifma.org/wp-content/uploads/2022/07/SIFMA-Survey-Results-for-SEC-July-
+2022.pdf.
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+5
+On March 9, 2023, the Subcommittee on Capital Markets of the
+Committee on Financial Services held a hearing entitled ‘‘U.S. Pub-
+lic Markets Built for the 21st Century: Exploring Reforms to Make
+Our Public Markets Attractive for Small and Emerging Companies
+Raising Capital’’ to examine matters relating to H.R. 1807. On
+April 26, 2023, the Committee on Financial Services ordered H.R.
+1807 to be reported favorably to the House of Representatives by
+voice vote. In addition, Senator Thom Tillis (R–NC) introduced a
+companion bill, S. 3815, with Senator John Hickenlooper (D–CO)
+as an original cosponsor. On March 7, 2024, H.R. 1807 was added
+to H.R. 2799, the Expanding Access to Capital Act of 2023. On
+March 8, 2024, H.R. 2799 was passed by the House by a recorded
+vote of 212 yeas and 205 nays. The bill was received in the Senate
+and referred to the Committee on Banking, Housing, and Urban
+Affairs.
+119TH CONGRESS
+On March 27, 2025, Representative Huizenga introduced H.R.
+2441, the Improving Disclosure for Investors Act of 2025, with Rep-
+resentatives Brad Sherman (D–CA), Steil, and Auchincloss as origi-
+nal cosponsors. Representatives Brittany Pettersen (D–CO) and
+Ann Wagner (R–MO) were added subsequently as cosponsors. The
+bill was referred solely to the Committee on Financial Services.
+The bill was attached to the February 26, 2025, hearing titled ‘‘The
+Future of American Capital: Strengthening Public and Private
+Markets by Increasing Investor Access and Facilitating Capital
+Formation,’’ and the March 25, 2025, hearing titled, ‘‘Beyond Sil-
+icon Valley: Expanding Access to Capital Across America.’’
+On May 20, 2025, the Committee met in open session to consider,
+among others, H.R. 2441. The Committee ordered H.R. 2441, as
+amended, to be favorably reported to the House of Representatives.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearings were used to develop
+H.R. 2441:
+The Capital Markets Subcommittee of the Committee on Finan-
+cial Services held a February 26, 2025, hearing titled ‘‘The Future
+of American Capital: Strengthening Public and Private Markets by
+Increasing Investor Access and Facilitating Capital Formation’’ and
+the Full Committee held a March 25, 2025, hearing titled, ‘‘Beyond
+Silicon Valley: Expanding Access to Capital Across America.’’ A dis-
+cussion draft version of the bill was attached to both hearings. The
+following witnesses testified at the February 26, 2025, hearing: Mr.
+Andrew Barnell, CEO and Co-Founder, Geneoscopy; Mr. McKeever
+Conwell, Founder and Managing Partner, RareBreed Ventures; Ms.
+Rebecca Kacaba, CEO and Co-Founder, DealMaker; Ms. Anna
+Pinedo, Partner, Mayer Brown; and Ms. Alexandra Thornton, Sen-
+ior Director, Financial Regulation, Center for American Progress.
+The following witnesses testified at the March 25, 2025, hearing:
+Mr. Steve Case, Chairman and CEO, Revolution LLC; Mr. Bill
+Newell, Senior Business Advisor & Former CEO, Sutro Biopharma;
+Ms. Candice Matthews Brackeen, General Partner, Lightship Cap-
+ital; Mr. Joel Trotter, Partner, Latham & Watkins LLP; and Ms.
+Amanda Senn, Director of the Alabama Securities Commission.
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+6
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On May 20, 2025, the Committee ordered H.R. 2441, as amend-
+ed, to be reported favorably to the House by a recorded vote of 39
+yeas and 11 nays, a quorum being present. (Record Vote No. FC–
+116).2
+The Committee considered the following amendments to H.R.
+2441:
+• Representative Bill Huizenga (R–MI) offered an amend-
+ment in the nature of a substitute, which made minor edits
+and technical changes. This amendment was adopted by a
+voice vote.
+• Representative Sylvia Garcia (D–TX) offered an amend-
+ment (No. 3), designated AMEND_HR2441_2. This amendment
+would add a new section that requires covered entities to con-
+tinue honoring any investor election—made within the one-
+year period prior to enactment—to receive regulatory docu-
+ments in either paper or electronic form. The entity must con-
+tinue using the elected delivery method until the investor opts
+for a different format. This amendment was withdrawn.
+2On May 28, 2024, Representative Joyce Beatty notified the Committee in writing that her
+yea vote on the motion to report H.R. 2441, as amended, was in error. She intended to vote
+nay. See letter in Committee Letters section of this report.
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+7
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+100.631RH
+ereh
+9 oilof
+tesffo
+tresnI
+
+8
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 2441 is to direct the Securities
+and Exchange Commission to modernize how investor disclosures
+are delivered while preserving investors’ choice of delivery method.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 2441. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of House rule XIII, the Committee will adopt as its own the
+cost estimate by the Director of the Congressional Budget Office
+once it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+9
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+This section cites H.R. 1807 as the ‘‘Improving Disclosure for In-
+vestors Act of 2025’’.
+Section 2. Electronic delivery
+This section directs the SEC to promulgate rules to allow a cov-
+ered entity to meet its obligations to deliver regulatory documents
+required under the securities laws to investors using electronic de-
+livery. Within this section, a ‘‘covered entity’’ is defined as a reg-
+istered investment company, a business development company, a
+registered broker or dealer, a registered municipal securities deal-
+er, a registered government securities broker or government securi-
+ties dealer, a registered investment adviser, a registered transfer
+agent, or a registered funding portal.
+Section 2 also states that the rules will: (1) for any investors who
+do not receive all regulatory documents electronically, provide for
+delivery of an initial communication regarding electronic delivery
+in paper, include a transition period not longer than 180 days, and
+during a period not to exceed two years, provide investors with an
+annual notice in paper reminding investors that they can opt out
+of electronic delivery at any time; (2) set forth the requirements for
+the initial communication to investors; (3) set forth the require-
+ments for providing investors with notice that regulatory docu-
+ments are available on a website and the contents of the notice; (4)
+provide a mechanism for investors to opt out of electronic delivery
+and to receive paper versions of regulatory documents; (5) include
+measures to identify and remediate failed electronic deliveries; (6)
+set forth requirements regarding readability and retainability of
+regulatory documents delivered electronically; and (7) require
+measures designed to ensure the confidentiality of personal infor-
+mation. Moreover, this section specifies exemptions, rules of con-
+struction, and notes that if rules are not completed in a timely
+manner, a covered entity may deliver regulatory documents elec-
+tronically to satisfy its obligations under the securities laws.
+This section also directs the SEC to review the rules to deter-
+mine whether any rules require delivery of written documents to
+investors and to promulgate amendments to the rules to provide
+that delivery of regulatory documents in writing may be satisfied
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+10
+electronically. Finally, this section directs self-regulatory organiza-
+tions to adopt rules or amend their rules consistent with the SEC’s
+final rules on electronic delivery.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+H.R. 2441 does not repeal or amend any section of a statute.
+Therefore, the Office of Legislative Counsel did not prepare the re-
+port required under clause 3(e) of rule XIII of the House of Rep-
+resentatives.
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+11
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6602 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+200.631RH
+ereh
+41
+oilof
+tesffo
+tresnI
+
+MINORITY VIEWS
+This bill directs the SEC to promulgate rules to allow broker-
+dealers, mutual funds, retirement plans, etc., to satisfy their disclo-
+sure and statements delivery obligations through electronic means.
+Importantly, the bill includes a clause that self-effectuates the bill,
+should the SEC not complete the rulemaking in time. This bill ig-
+nores the reality that many investors, particularly seniors, do not
+have access to or the ability to review electronic documents, or sim-
+ply do not prefer electronic delivery of financial documents. This
+bill requires investors to proactively opt-in to receive paper docu-
+ments, which would effectively prevent individuals who do not have
+easy access to the internet from viewing important financial docu-
+ments about the securities they invest in. Furthermore, the bill—
+concerningly—would automatically enroll investors in e-delivery
+even if they affirmatively opted to receive paper documents.
+Several major investor advocate groups strongly oppose this bill,
+including AARP, NASAA, Consumer Federation of America, Ameri-
+cans for Financial Reform, and Public Citizen. AARP in particular
+is critical of this bill in its current form, writing:
+‘‘Full and meaningful disclosure is critical to individual
+financial planning. Millions of Americans, many who are
+50 and older or living in rural areas, do not have regular
+broadband internet access or do not routinely use com-
+puters at home. This means they would miss out on critical
+account information if the default delivery were electronic
+[. . .] If enacted as currently drafted, this legislation would
+amount to no disclosure at all for many consumers.’’
+The SEC’s Investor Advisory Committee has previously rec-
+ommended against the policy contained within this bill at a prior
+meeting. Additionally, in a letter to the Committee, the Consumer
+Federation of America warns that:
+‘‘Importantly, this bill would unwind the paper delivery
+of pro-investor disclosure improvements that the SEC final-
+ized recently that would make shareholder reports more
+concise and visually appealing.’’1
+Ranking Member Waters raised serious concerns with a prior
+version of this bill in the 118th Congress, but consented to a voice
+vote on the condition that it would undergo changes needed to miti-
+gate concerns raised by consumer advocates. The current bill does
+not address the Ranking Member’s concerns.
+1Consumer Federation of America, Statement for the Record of Micah Hauptman, Director of
+Investor Protection (Mar. 9, 2023).
+(12)
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6604 Sfmt 6604 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+13
+For these reasons, we oppose H.R. 2441.
+Sincerely,
+MAXINE WATERS,
+Ranking Member.
+NYDIA M. VELA ´ ZQUEZ,
+STEPHEN F. LYNCH,
+AL GREEN,
+JOYCE BEATTY,
+RASHIDA TLAIB,
+SYLVIA R. GARCIA,
+NIKEMA WILLIAMS,
+Members of Congress.
+Æ
+VerDate Sep 11 2014 04:00 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6604 Sfmt 6611 E:\HR\OC\HR136.XXX HR136
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD

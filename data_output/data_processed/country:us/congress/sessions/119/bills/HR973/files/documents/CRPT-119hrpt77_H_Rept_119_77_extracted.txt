@@ -1,0 +1,469 @@
+Title: APRIL24, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: APRIL24, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 7
+Source: documents - H. Rept. 119-77
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–77
+SETTING CONSUMER STANDARDS FOR LITHIUM-ION
+BATTERIES ACT
+the Union and ordered to be printed
+Mr. GUTHRIE, from the Committee on Energy and Commerce,
+submitted the following
+R E P O R T
+[To accompany H.R. 973]
+The Committee on Energy and Commerce, to whom was referred
+the bill (H.R. 973) to establish consumer standards for lithium-ion
+batteries, having considered the same, reports favorably thereon
+without amendment and recommends that the bill do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 1
+Background and Need for Legislation .................................................................... 2
+Committee Action .................................................................................................... 2
+Committee Votes ...................................................................................................... 3
+Oversight Findings and Recommendations ........................................................... 3
+New Budget Authority, Entitlement Authority, and Tax Expenditures ............. 3
+Congressional Budget Office Estimate ................................................................... 3
+Federal Mandates Statement ................................................................................. 3
+Statement of General Performance Goals and Objectives .................................... 3
+Duplication of Federal Programs ............................................................................ 3
+Related Committee and Subcommittee Hearings ................................................. 3
+Committee Cost Estimate ....................................................................................... 4
+Earmark, Limited Tax Benefits, and Limited Tariff Benefits ............................. 4
+Advisory Committee Statement .............................................................................. 4
+Applicability to Legislative Branch ........................................................................ 4
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 4
+Changes in Existing Law Made by the Bill, as Reported ..................................... 5
+PURPOSE AND SUMMARY
+H.R. 973, the Setting Consumer Standards for Lithium-Ion Bat-
+teries Act, was introduced by Representative Torres on February 4,
+2025, and referred to the Committee on Energy and Commerce.
+H.R. 973 requires the Consumer Product Safety Commission
+(CPSC) to promulgate a consumer product safety standard to pro-
+59–006
+VerDate Sep 11 2014 06:24 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR077.XXX HR077
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+tect consumers from the risk of fires associated with rechargeable
+lithium-ion batteries used in micromobility devices.
+BACKGROUND AND NEED FOR LEGISLATION
+Lithium-Ion batteries are lightweight, rechargeable batteries
+found in many consumer electronics and are often used in micro-
+mobility devices, such as electric bikes and scooters. When poorly
+made, lacking adequate safety testing, charged improperly, or dam-
+aged, these batteries are prone to ignite and the associated fires
+may be accompanied by explosions and the release of toxic gas.1 As
+micromobility devices have risen in popularity, the use of lithium-
+ion batteries has increased, creating the need for safety standards.
+Currently, there is no federal safety standard for lithium-ion bat-
+teries2 and many uncertified and untested batteries are available
+for purchase.3
+From 2019 to 2023, the Fire Department of New York reported
+more than 400 fires, 300 injuries, and twelve deaths caused by lith-
+ium-ion batteries in New York City alone.4 Urban areas are at an
+increased risk for injuries and property damage due to high popu-
+lation density, but Lithium-ion battery fires impact communities
+across the United States. Consumer advocates and fire profes-
+sionals have warned consumers only to use certified and tested
+products and called for strong federal safety standards.5
+COMMITTEE ACTION
+On September 27, 2023, the Subcommittee on Innovation, Data,
+and Commerce held a hearing on H.R. 1797.6 The hearing was en-
+titled, ‘‘Proposals to Enhance Product Safety and Transparency for
+Americans.’’ The Subcommittee received testimony from:
+• Kathleen Callahan, Owner, Xpertech Auto Repair;
+• Scott Benavidez, Chairman, Automotive Service Associa-
+tion;
+• Steven Michael Gentine, Counsel, Arnold & Porter, LLP;
+• John Breyault, Vice President of Public Policy, Tele-
+communications and Fraud, National Consumers League; and
+• David Touhey, Certified Venue Expert, Principal, Connett
+Consulting (IAVM, Fix the Tix Coalition member, former presi-
+dent of venues, Monumental Sports); and Adjunct Professor of
+sports management, Georgetown University and George Wash-
+ington University.
+On April 8, 2025, the full Committee on Energy and Commerce
+met in open markup session and ordered H.R. 973, without amend-
+ment, favorably reported to the House by a voice vote.
+1National Fire Protection Association, Lithium-Ion Battery Safety (accessed Apr.14, 2025),
+https://www.nfpa.org/education-and-research/home-fire-safety/lithium-ion-batteries.
+2Letter from the International Association of Fire Fighters, to Subcommittee on Innovation,
+Data, and Commerce Chair Gus Bilirakis and Ranking Member Jan Schakowsky, (Sept. 26,
+2023).
+3International Association of Fire Fighters, Preventing Lithium-Ion Battery Fires, (July 18,
+2023), https://www.iaff.org/news/preventing-lithium-ion-battery-fires/.
+4See note 2.
+5See note 1.
+6This legislation was introduced in the 118th Congress as H.R. 1797.
+VerDate Sep 11 2014 06:24 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR077.XXX HR077
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the record
+votes on the motion to report legislation and amendments thereto.
+There were no record votes taken in connection with ordering H.R.
+973 reported.
+OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Pursuant to clause 2(b)(1) of rule X and clause 3(c)(1) of rule
+XIII, the Committee held a hearing and made findings that are re-
+flected in this report.
+NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY,
+AND TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII, the Committee finds that
+H.R. 973 would result in no new or increased budget authority, en-
+titlement authority, or tax expenditures or revenues.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE
+Pursuant to clause 3(c)(3) of rule XIII, at the time this report
+was filed, the cost estimate prepared by the Director of the Con-
+gressional Budget Office pursuant to section 402 of the Congres-
+sional Budget Act of 1974 was not available.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the general performance
+goal or objective of this legislation is to direct the CPSC to promul-
+gate a final consumer product safety standard to protect consumer
+lives and property against the risk of fires caused by lithium-ion
+batteries.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII, no provision of H.R. 973
+is known to be duplicative of another Federal program, including
+any program that was included in a report to Congress pursuant
+to section 21 of Public Law 111–139 or the most recent Catalog of
+Federal Domestic Assistance.
+RELATED COMMITTEE AND SUBCOMMITTEE HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII, the following hearing was
+used to develop or consider H.R. 973:
+• On September 27, 2023, the Subcommittee on Innovation,
+Data, and Commerce held a hearing on H.R. 1797. The hearing
+was entitled, ‘‘Proposals to Enhance Product Safety and Trans-
+parency for Americans.’’ The Subcommittee received testimony
+from:
+» Kathleen Callahan, Owner, Xpertech Auto Repair;
+» Scott Benavidez, Chairman, Automotive Service Asso-
+ciation;
+VerDate Sep 11 2014 06:24 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR077.XXX HR077
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+» Steven Michael Gentine, Counsel, Arnold & Porter,
+LLP;
+» John Breyault, Vice President of Public Policy, Tele-
+communications and Fraud, National Consumers League;
+and
+» David Touhey, Certified Venue Expert, Principal,
+Connett Consulting (IAVM, Fix the Tix Coalition member,
+former president of venues, Monumental Sports); and Ad-
+junct Professor of sports management, Georgetown Univer-
+sity and George Washington University.
+COMMITTEE COST ESTIMATE
+Pursuant to clause 3(d)(1) of rule XIII, the Committee adopts as
+its own the cost estimate prepared by the Director of the Congres-
+sional Budget Office pursuant to section 402 of the Congressional
+Budget Act of 1974. At the time this report was filed, the estimate
+was not available.
+EARMARK, LIMITED TAX BENEFITS, AND LIMITED TARIFF BENEFITS
+Pursuant to clause 9(e), 9(f), and 9(g) of rule XXI, the Committee
+finds that H.R. 973 contains no earmarks, limited tax benefits, or
+limited tariff benefits.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+
+Section 3:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 4:
+Section 1. Short title
+
+Section 5:
+Section 1 allows the Act to be cited as the ‘‘Setting Consumer
+Standards for Lithium-Ion Batteries Act.’’
+
+Section 6:
+Section 2. Consumer product safety standard for certain batteries
+
+Section 7:
+Section 2 requires the Consumer Product Safety Commission to
+promulgate, under 5 U.S.C. 553, the provisions of ANSI/CAN/UL
+2271, ANSI/CAN/UL 2849, and ANSI/CAN/UL 2272, and any revi-
+sions of such standards, as a final consumer product safety stand-
+ard for consumer products, as defined in section 3(a)(5) of the Con-
+sumer Product Safety Act (15 U.S.C. 2052(a)(5)). Such a standard
+will be treated as a consumer product safety rule promulgated
+under section 9 of the Consumer Product Safety Act (15 U.S.C.
+2058). Section 2 also requires the CPSC to submit a report to Con-
+gress no later than 5 years after the date of enactment of this act
+regarding fires, explosions, and other hazards relating to lithium-
+ion batteries used in micromobility devices during the period be-
+tween date of enactment and the report date.
+VerDate Sep 11 2014 06:24 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR077.XXX HR077
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+5
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+This legislation does not amend any existing Federal statute.
+Æ
+VerDate Sep 11 2014 06:24 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6611 E:\HR\OC\HR077.XXX HR077
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–77
+SETTING CONSUMER STANDARDS FOR LITHIUM-ION
+BATTERIES ACT
+APRIL24, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. GUTHRIE, from the Committee on Energy and Commerce,
+submitted the following
+R E P O R T
+[To accompany H.R. 973]
+The Committee on Energy and Commerce, to whom was referred
+the bill (H.R. 973) to establish consumer standards for lithium-ion
+batteries, having considered the same, reports favorably thereon
+without amendment and recommends that the bill do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 1
+Background and Need for Legislation .................................................................... 2
+Committee Action .................................................................................................... 2
+Committee Votes ...................................................................................................... 3
+Oversight Findings and Recommendations ........................................................... 3
+New Budget Authority, Entitlement Authority, and Tax Expenditures ............. 3
+Congressional Budget Office Estimate ................................................................... 3
+Federal Mandates Statement ................................................................................. 3
+Statement of General Performance Goals and Objectives .................................... 3
+Duplication of Federal Programs ............................................................................ 3
+Related Committee and Subcommittee Hearings ................................................. 3
+Committee Cost Estimate ....................................................................................... 4
+Earmark, Limited Tax Benefits, and Limited Tariff Benefits ............................. 4
+Advisory Committee Statement .............................................................................. 4
+Applicability to Legislative Branch ........................................................................ 4
+Section-by-Section Analysis of the Legislation ...................................................... 4
+Changes in Existing Law Made by the Bill, as Reported ..................................... 5
+PURPOSE AND SUMMARY
+H.R. 973, the Setting Consumer Standards for Lithium-Ion Bat-
+teries Act, was introduced by Representative Torres on February 4,
+2025, and referred to the Committee on Energy and Commerce.
+H.R. 973 requires the Consumer Product Safety Commission
+(CPSC) to promulgate a consumer product safety standard to pro-
+59–006
+VerDate Sep 11 2014 06:24 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR077.XXX HR077
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+tect consumers from the risk of fires associated with rechargeable
+lithium-ion batteries used in micromobility devices.
+BACKGROUND AND NEED FOR LEGISLATION
+Lithium-Ion batteries are lightweight, rechargeable batteries
+found in many consumer electronics and are often used in micro-
+mobility devices, such as electric bikes and scooters. When poorly
+made, lacking adequate safety testing, charged improperly, or dam-
+aged, these batteries are prone to ignite and the associated fires
+may be accompanied by explosions and the release of toxic gas.1 As
+micromobility devices have risen in popularity, the use of lithium-
+ion batteries has increased, creating the need for safety standards.
+Currently, there is no federal safety standard for lithium-ion bat-
+teries2 and many uncertified and untested batteries are available
+for purchase.3
+From 2019 to 2023, the Fire Department of New York reported
+more than 400 fires, 300 injuries, and twelve deaths caused by lith-
+ium-ion batteries in New York City alone.4 Urban areas are at an
+increased risk for injuries and property damage due to high popu-
+lation density, but Lithium-ion battery fires impact communities
+across the United States. Consumer advocates and fire profes-
+sionals have warned consumers only to use certified and tested
+products and called for strong federal safety standards.5
+COMMITTEE ACTION
+On September 27, 2023, the Subcommittee on Innovation, Data,
+and Commerce held a hearing on H.R. 1797.6 The hearing was en-
+titled, ‘‘Proposals to Enhance Product Safety and Transparency for
+Americans.’’ The Subcommittee received testimony from:
+• Kathleen Callahan, Owner, Xpertech Auto Repair;
+• Scott Benavidez, Chairman, Automotive Service Associa-
+tion;
+• Steven Michael Gentine, Counsel, Arnold & Porter, LLP;
+• John Breyault, Vice President of Public Policy, Tele-
+communications and Fraud, National Consumers League; and
+• David Touhey, Certified Venue Expert, Principal, Connett
+Consulting (IAVM, Fix the Tix Coalition member, former presi-
+dent of venues, Monumental Sports); and Adjunct Professor of
+sports management, Georgetown University and George Wash-
+ington University.
+On April 8, 2025, the full Committee on Energy and Commerce
+met in open markup session and ordered H.R. 973, without amend-
+ment, favorably reported to the House by a voice vote.
+1National Fire Protection Association, Lithium-Ion Battery Safety (accessed Apr.14, 2025),
+https://www.nfpa.org/education-and-research/home-fire-safety/lithium-ion-batteries.
+2Letter from the International Association of Fire Fighters, to Subcommittee on Innovation,
+Data, and Commerce Chair Gus Bilirakis and Ranking Member Jan Schakowsky, (Sept. 26,
+2023).
+3International Association of Fire Fighters, Preventing Lithium-Ion Battery Fires, (July 18,
+2023), https://www.iaff.org/news/preventing-lithium-ion-battery-fires/.
+4See note 2.
+5See note 1.
+6This legislation was introduced in the 118th Congress as H.R. 1797.
+VerDate Sep 11 2014 06:24 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR077.XXX HR077
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the record
+votes on the motion to report legislation and amendments thereto.
+There were no record votes taken in connection with ordering H.R.
+973 reported.
+OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Pursuant to clause 2(b)(1) of rule X and clause 3(c)(1) of rule
+XIII, the Committee held a hearing and made findings that are re-
+flected in this report.
+NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY,
+AND TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII, the Committee finds that
+H.R. 973 would result in no new or increased budget authority, en-
+titlement authority, or tax expenditures or revenues.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE
+Pursuant to clause 3(c)(3) of rule XIII, at the time this report
+was filed, the cost estimate prepared by the Director of the Con-
+gressional Budget Office pursuant to section 402 of the Congres-
+sional Budget Act of 1974 was not available.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the general performance
+goal or objective of this legislation is to direct the CPSC to promul-
+gate a final consumer product safety standard to protect consumer
+lives and property against the risk of fires caused by lithium-ion
+batteries.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII, no provision of H.R. 973
+is known to be duplicative of another Federal program, including
+any program that was included in a report to Congress pursuant
+to section 21 of Public Law 111–139 or the most recent Catalog of
+Federal Domestic Assistance.
+RELATED COMMITTEE AND SUBCOMMITTEE HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII, the following hearing was
+used to develop or consider H.R. 973:
+• On September 27, 2023, the Subcommittee on Innovation,
+Data, and Commerce held a hearing on H.R. 1797. The hearing
+was entitled, ‘‘Proposals to Enhance Product Safety and Trans-
+parency for Americans.’’ The Subcommittee received testimony
+from:
+» Kathleen Callahan, Owner, Xpertech Auto Repair;
+» Scott Benavidez, Chairman, Automotive Service Asso-
+ciation;
+VerDate Sep 11 2014 06:24 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR077.XXX HR077
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+» Steven Michael Gentine, Counsel, Arnold & Porter,
+LLP;
+» John Breyault, Vice President of Public Policy, Tele-
+communications and Fraud, National Consumers League;
+and
+» David Touhey, Certified Venue Expert, Principal,
+Connett Consulting (IAVM, Fix the Tix Coalition member,
+former president of venues, Monumental Sports); and Ad-
+junct Professor of sports management, Georgetown Univer-
+sity and George Washington University.
+COMMITTEE COST ESTIMATE
+Pursuant to clause 3(d)(1) of rule XIII, the Committee adopts as
+its own the cost estimate prepared by the Director of the Congres-
+sional Budget Office pursuant to section 402 of the Congressional
+Budget Act of 1974. At the time this report was filed, the estimate
+was not available.
+EARMARK, LIMITED TAX BENEFITS, AND LIMITED TARIFF BENEFITS
+Pursuant to clause 9(e), 9(f), and 9(g) of rule XXI, the Committee
+finds that H.R. 973 contains no earmarks, limited tax benefits, or
+limited tariff benefits.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+Section 1 allows the Act to be cited as the ‘‘Setting Consumer
+Standards for Lithium-Ion Batteries Act.’’
+Section 2. Consumer product safety standard for certain batteries
+Section 2 requires the Consumer Product Safety Commission to
+promulgate, under 5 U.S.C. 553, the provisions of ANSI/CAN/UL
+2271, ANSI/CAN/UL 2849, and ANSI/CAN/UL 2272, and any revi-
+sions of such standards, as a final consumer product safety stand-
+ard for consumer products, as defined in section 3(a)(5) of the Con-
+sumer Product Safety Act (15 U.S.C. 2052(a)(5)). Such a standard
+will be treated as a consumer product safety rule promulgated
+under section 9 of the Consumer Product Safety Act (15 U.S.C.
+2058). Section 2 also requires the CPSC to submit a report to Con-
+gress no later than 5 years after the date of enactment of this act
+regarding fires, explosions, and other hazards relating to lithium-
+ion batteries used in micromobility devices during the period be-
+tween date of enactment and the report date.
+VerDate Sep 11 2014 06:24 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR077.XXX HR077
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+5
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+This legislation does not amend any existing Federal statute.
+Æ
+VerDate Sep 11 2014 06:24 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6611 E:\HR\OC\HR077.XXX HR077
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

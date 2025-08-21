@@ -1,0 +1,452 @@
+Title: VerDate Sep 11 2014 01:21 Jun 29, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR030.XXX SR030
+Official Title: VerDate Sep 11 2014 01:21 Jun 29, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR030.XXX SR030
+Number of Sections: 5
+Source: documents - S. Rept. 119-30
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+1
+Calendar No. 91
+119THCONGRESS
+" SENATE !
+REPORT
+1st Session 119–30
+LULU’S LAW
+R E P O R T
+OFTHE
+COMMITTEE ON COMMERCE, SCIENCE, AND
+TRANSPORTATION
+ON
+S. 1003
+JUNE 12, 2025.—Ordered to be printed
+U.S. GOVERNMENT PUBLISHING OFFICE
+59–010 WASHINGTON : 2025
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+31#.ssergnoc
+SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION
+ONE HUNDRED NINETEENTH CONGRESS
+FIRST SESSION
+TED CRUZ, Texas, Chairman
+JOHNTHUNE,SouthDakota MARIACANTWELL,Washington
+ROGERF.WICKER,Mississippi AMYKLOBUCHAR,Minnesota
+DEBFISCHER,Nebraska BRIANSCHATZ,Hawaii
+JERRYMORAN,Kansas EDWARDJ.MARKEY,Massachusetts
+DANSULLIVAN,Alaska GARYC.PETERS,Michigan
+MARSHABLACKBURN,Tennessee TAMMYBALDWIN,Wisconsin
+TODDYOUNG,Indiana TAMMYDUCKWORTH,Illinois
+TEDBUDD,NorthCarolina JACKYROSEN,Nevada
+ERICSCHMITT,Missouri BENRAYLUJA´N,NewMexico
+JOHNCURTIS,Utah JOHNW.HICKENLOOPER,Colorado
+BERNIEMORENO,Ohio JOHNFETTERMAN,Pennsylvania
+TIMSHEEHY,Montana ANDYKIM,NewJersey
+SHELLEYMOORECAPITO,WestVirginia LISABLUNTROCHESTER,Delaware
+CYNTHIAM.LUMMIS,Wyoming
+BRAD GRANTZ, Majority Staff Director
+LILA HARPER HELMS, Democratic Staff Director
+(II)
+VerDate Sep 11 2014 01:21 Jun 29, 2025 Jkt 059010 PO 00000 Frm 00002 Fmt 5904 Sfmt 5904 E:\HR\OC\SR030.XXX SR030
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+Calendar No. 91
+119THCONGRESS REPORT
+1st Session " SENATE ! 119–30
+LULU’S LAW
+JUNE12, 2025.—Ordered to be printed
+Mr. CRUZ, from the Committee on Commerce, Science, and
+Transportation, submitted the following
+R E P O R T
+[To accompany S. 1003]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Commerce, Science, and Transportation, to
+which was referred the bill (S. 1003) to require the Federal Com-
+munications Commission to issue an order providing that a shark
+attack is an event for which a wireless emergency alert may be
+transmitted, and for other purposes, having considered the same,
+reports favorably thereon without amendment and recommends
+that the bill do pass.
+PURPOSE OF THE BILL
+The purpose of S. 1003, Lulu’s Law, is to require the Federal
+Communications Commission to issue an order providing that a
+shark attack is an event for which a wireless emergency alert may
+be transmitted.
+BACKGROUND AND NEEDS
+The Federal Communications Commission (FCC), in partnership
+with the Federal Emergency Management Agency (FEMA) and
+wireless providers, manages the Wireless Emergency Alerts (WEA)
+system. WEA is a national public warning system that alerts the
+public about dangerous weather, missing children, and other crit-
+ical situations. WEA alerts are sent by authorized public safety of-
+ficials through FEMA’s Integrated Public Alert and Warning Sys-
+VerDate Sep 11 2014 01:21 Jun 29, 2025 Jkt 059010 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\SR030.XXX SR030
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+tem to participating wireless carriers, who then distribute the alert
+to compatible mobile devices in the affected area.1
+In June 2024, Lulu Gribbin and McCray Faust were attacked by
+a shark at Rosemary Beach, Florida, causing Ms. Gribbin to sus-
+tain near-fatal injuries.2 Ninety minutes earlier and just a few
+miles away, another woman was attacked by a shark and also suf-
+fered severe injuries.3 To help prevent future shark attacks and
+honor Ms. Gribbin, Senator Britt introduced this legislation, which
+would require the FCC to issue an order providing that a shark at-
+tack is an event for which an alert message may be transmitted via
+the WEA system.
+LEGISLATIVE HISTORY
+S. 1003 was introduced on March 12, 2025, by Senator Britt (for
+herself and Senators Schatz, Warnock, Fischer, Ricketts, Capito,
+Kaine, Tuberville, and Cassidy) and was referred to the Committee
+on Commerce, Science, and Transportation of the Senate. On
+March 24, 2025, Senator Coons was added as a cosponsor. On April
+30, 2025, the Committee met in open Executive Session and, by
+voice vote, ordered S. 1003 reported favorably without amendment.
+H.R. 2076, a House companion bill to S. 1003, was introduced on
+March 11, 2025, by Representative Palmer and was referred to the
+Committee on Energy and Commerce of the House of Representa-
+tives. On April 9, 2025, Representative Figures was added as a co-
+sponsor.
+118th Congress
+S. 4832, Lulu’s Law, was introduced on July 30, 2024, by Senator
+Britt (for herself and Senator Capito) and was referred to the Com-
+mittee on Commerce, Science, and Transportation of the Senate.
+The bill had six additional cosponsors.
+H.R. 9376, a House companion bill to S. 4832, was introduced on
+August 16, 2024, by Representative Palmer (for himself and Rep-
+resentatives Dunn, Sewell, Moore, Strong, Aderholt, Rogers, and
+Carl) and was referred to the Committee on Energy and Commerce
+of the House of Representatives.
+ESTIMATED COSTS
+In accordance with paragraph 11(a) of rule XXVI of the Standing
+Rules of the Senate and section 403 of the Congressional Budget
+Act of 1974, the Committee provides the following cost estimate,
+prepared by the Congressional Budget Office:
+1‘‘Wireless Emergency Alerts,’’ Federal Communications Commission (https://www.fcc.gov/
+consumers/guides/wireless-emergency-alerts-wea).
+2Gillian Brooks, ‘‘‘It Was a Horrific Thing That Happened’: Mountain Brook Mayor Says Com-
+munity Is Praying for Teens Injured in Florida Shark Attack,’’ WBRC, June 8, 2024, (https://
+www.wbrc.com/2024/06/08/two-central-alabama-girls-injured-friday-shark-attack-walton-
+county-florida/).
+3Ashlyn Mitchell, ‘‘‘Lulu’s Law’ Introduced for the Second Time to Warn Beachgoers of Shark
+Attacks,’’ Fox 10 News, March 13, 2025 (https://www.fox10tv.com/2025/03/13/lulus-law-
+introduced-second-time-warn-beachgoers-shark-attacks/).
+VerDate Sep 11 2014 01:21 Jun 29, 2025 Jkt 059010 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\SR030.XXX SR030
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+S. 1003 would require the Federal Communications Commission
+(FCC) to issue a rule that shark attacks are an event for which
+wireless emergency alerts may be transmitted.
+Based on the cost of similar activities, CBO estimates that the
+administrative costs to implement S. 1003 would be insignificant.
+Because the FCC is authorized to collect fees each year sufficient
+to offset the appropriated costs of its regulatory activities, CBO es-
+timates that the net cost to the FCC would be negligible, assuming
+appropriation actions consistent with that authority.
+If the FCC increases annual fee collections to offset the costs of
+implementing provisions in the bill, S. 1003 would increase the cost
+of an existing private-sector mandate on entities required to pay
+those fees. CBO estimates that the incremental cost of the mandate
+would be small and would fall well below the annual threshold es-
+tablished in the Unfunded Mandates Reform Act (UMRA) for pri-
+vate-sector mandates ($203 million in 2025, adjusted annually for
+inflation).
+S. 1003 contains no intergovernmental mandates as defined in
+UMRA.
+The CBO staff contacts for this estimate are Margot Berman (for
+federal costs) and Rachel Austin (for mandates). The estimate was
+reviewed by H. Samuel Papenfuss, Deputy Director of Budget Anal-
+ysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+REGULATORY IMPACT STATEMENT
+Because S. 1003 does not create any new programs, the legisla-
+tion will have no additional regulatory impact, and will result in
+no additional reporting requirements. The legislation will have no
+further effect on the number or types of individuals and businesses
+regulated, the economic impact of such regulation, the personal pri-
+vacy of affected individuals, or the paperwork required from such
+individuals and businesses.
+VerDate Sep 11 2014 01:21 Jun 29, 2025 Jkt 059010 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\SR030.XXX SR030
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 2:
+100.030RS
+ereh
+5
+oilof
+tesffo
+tresnI
+4
+CONGRESSIONALLY DIRECTED SPENDING
+In compliance with paragraph 4(b) of rule XLIV of the Standing
+Rules of the Senate, the Committee provides that no provisions
+contained in the bill, as reported, meet the definition of congres-
+sionally directed spending items under the rule.
+
+Section 3:
+SECTION-BY-SECTION ANALYSIS
+
+Section 4:
+Section 1. Short title.
+This section would provide that the bill may be cited as ‘‘Lulu’s
+Law’’.
+
+Section 5:
+Section 2. Wireless emergency alerts.
+This section would define the term ‘‘Alert Message’’ and would
+require that no later than 180 days after the date of the enactment
+of this Act, the FCC issue an order to provide that a shark attack
+is an event for which an Alert Message may be transmitted.
+CHANGES IN EXISTING LAW
+In compliance with paragraph 12 of rule XXVI of the Standing
+Rules of the Senate, the Committee states that the bill as reported
+would make no change to existing law.
+Æ
+VerDate Sep 11 2014 01:21 Jun 29, 2025 Jkt 059010 PO 00000 Frm 00006 Fmt 6659 Sfmt 6611 E:\HR\OC\SR030.XXX SR030
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+1
+Calendar No. 91
+119THCONGRESS
+" SENATE !
+REPORT
+1st Session 119–30
+LULU’S LAW
+R E P O R T
+OFTHE
+COMMITTEE ON COMMERCE, SCIENCE, AND
+TRANSPORTATION
+ON
+S. 1003
+JUNE 12, 2025.—Ordered to be printed
+U.S. GOVERNMENT PUBLISHING OFFICE
+59–010 WASHINGTON : 2025
+VerDate Sep 11 2014 01:21 Jun 29, 2025 Jkt 059010 PO 00000 Frm 00001 Fmt 4012 Sfmt 4012 E:\HR\OC\SR030.XXX SR030
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+31#.ssergnoc
+
+SENATE COMMITTEE ON COMMERCE, SCIENCE, AND TRANSPORTATION
+ONE HUNDRED NINETEENTH CONGRESS
+FIRST SESSION
+TED CRUZ, Texas, Chairman
+JOHNTHUNE,SouthDakota MARIACANTWELL,Washington
+ROGERF.WICKER,Mississippi AMYKLOBUCHAR,Minnesota
+DEBFISCHER,Nebraska BRIANSCHATZ,Hawaii
+JERRYMORAN,Kansas EDWARDJ.MARKEY,Massachusetts
+DANSULLIVAN,Alaska GARYC.PETERS,Michigan
+MARSHABLACKBURN,Tennessee TAMMYBALDWIN,Wisconsin
+TODDYOUNG,Indiana TAMMYDUCKWORTH,Illinois
+TEDBUDD,NorthCarolina JACKYROSEN,Nevada
+ERICSCHMITT,Missouri BENRAYLUJA´N,NewMexico
+JOHNCURTIS,Utah JOHNW.HICKENLOOPER,Colorado
+BERNIEMORENO,Ohio JOHNFETTERMAN,Pennsylvania
+TIMSHEEHY,Montana ANDYKIM,NewJersey
+SHELLEYMOORECAPITO,WestVirginia LISABLUNTROCHESTER,Delaware
+CYNTHIAM.LUMMIS,Wyoming
+BRAD GRANTZ, Majority Staff Director
+LILA HARPER HELMS, Democratic Staff Director
+(II)
+VerDate Sep 11 2014 01:21 Jun 29, 2025 Jkt 059010 PO 00000 Frm 00002 Fmt 5904 Sfmt 5904 E:\HR\OC\SR030.XXX SR030
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Calendar No. 91
+119THCONGRESS REPORT
+1st Session " SENATE ! 119–30
+LULU’S LAW
+JUNE12, 2025.—Ordered to be printed
+Mr. CRUZ, from the Committee on Commerce, Science, and
+Transportation, submitted the following
+R E P O R T
+[To accompany S. 1003]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Commerce, Science, and Transportation, to
+which was referred the bill (S. 1003) to require the Federal Com-
+munications Commission to issue an order providing that a shark
+attack is an event for which a wireless emergency alert may be
+transmitted, and for other purposes, having considered the same,
+reports favorably thereon without amendment and recommends
+that the bill do pass.
+PURPOSE OF THE BILL
+The purpose of S. 1003, Lulu’s Law, is to require the Federal
+Communications Commission to issue an order providing that a
+shark attack is an event for which a wireless emergency alert may
+be transmitted.
+BACKGROUND AND NEEDS
+The Federal Communications Commission (FCC), in partnership
+with the Federal Emergency Management Agency (FEMA) and
+wireless providers, manages the Wireless Emergency Alerts (WEA)
+system. WEA is a national public warning system that alerts the
+public about dangerous weather, missing children, and other crit-
+ical situations. WEA alerts are sent by authorized public safety of-
+ficials through FEMA’s Integrated Public Alert and Warning Sys-
+VerDate Sep 11 2014 01:21 Jun 29, 2025 Jkt 059010 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\SR030.XXX SR030
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+tem to participating wireless carriers, who then distribute the alert
+to compatible mobile devices in the affected area.1
+In June 2024, Lulu Gribbin and McCray Faust were attacked by
+a shark at Rosemary Beach, Florida, causing Ms. Gribbin to sus-
+tain near-fatal injuries.2 Ninety minutes earlier and just a few
+miles away, another woman was attacked by a shark and also suf-
+fered severe injuries.3 To help prevent future shark attacks and
+honor Ms. Gribbin, Senator Britt introduced this legislation, which
+would require the FCC to issue an order providing that a shark at-
+tack is an event for which an alert message may be transmitted via
+the WEA system.
+LEGISLATIVE HISTORY
+S. 1003 was introduced on March 12, 2025, by Senator Britt (for
+herself and Senators Schatz, Warnock, Fischer, Ricketts, Capito,
+Kaine, Tuberville, and Cassidy) and was referred to the Committee
+on Commerce, Science, and Transportation of the Senate. On
+March 24, 2025, Senator Coons was added as a cosponsor. On April
+30, 2025, the Committee met in open Executive Session and, by
+voice vote, ordered S. 1003 reported favorably without amendment.
+H.R. 2076, a House companion bill to S. 1003, was introduced on
+March 11, 2025, by Representative Palmer and was referred to the
+Committee on Energy and Commerce of the House of Representa-
+tives. On April 9, 2025, Representative Figures was added as a co-
+sponsor.
+118th Congress
+S. 4832, Lulu’s Law, was introduced on July 30, 2024, by Senator
+Britt (for herself and Senator Capito) and was referred to the Com-
+mittee on Commerce, Science, and Transportation of the Senate.
+The bill had six additional cosponsors.
+H.R. 9376, a House companion bill to S. 4832, was introduced on
+August 16, 2024, by Representative Palmer (for himself and Rep-
+resentatives Dunn, Sewell, Moore, Strong, Aderholt, Rogers, and
+Carl) and was referred to the Committee on Energy and Commerce
+of the House of Representatives.
+ESTIMATED COSTS
+In accordance with paragraph 11(a) of rule XXVI of the Standing
+Rules of the Senate and section 403 of the Congressional Budget
+Act of 1974, the Committee provides the following cost estimate,
+prepared by the Congressional Budget Office:
+1‘‘Wireless Emergency Alerts,’’ Federal Communications Commission (https://www.fcc.gov/
+consumers/guides/wireless-emergency-alerts-wea).
+2Gillian Brooks, ‘‘‘It Was a Horrific Thing That Happened’: Mountain Brook Mayor Says Com-
+munity Is Praying for Teens Injured in Florida Shark Attack,’’ WBRC, June 8, 2024, (https://
+www.wbrc.com/2024/06/08/two-central-alabama-girls-injured-friday-shark-attack-walton-
+county-florida/).
+3Ashlyn Mitchell, ‘‘‘Lulu’s Law’ Introduced for the Second Time to Warn Beachgoers of Shark
+Attacks,’’ Fox 10 News, March 13, 2025 (https://www.fox10tv.com/2025/03/13/lulus-law-
+introduced-second-time-warn-beachgoers-shark-attacks/).
+VerDate Sep 11 2014 01:21 Jun 29, 2025 Jkt 059010 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\SR030.XXX SR030
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+S. 1003 would require the Federal Communications Commission
+(FCC) to issue a rule that shark attacks are an event for which
+wireless emergency alerts may be transmitted.
+Based on the cost of similar activities, CBO estimates that the
+administrative costs to implement S. 1003 would be insignificant.
+Because the FCC is authorized to collect fees each year sufficient
+to offset the appropriated costs of its regulatory activities, CBO es-
+timates that the net cost to the FCC would be negligible, assuming
+appropriation actions consistent with that authority.
+If the FCC increases annual fee collections to offset the costs of
+implementing provisions in the bill, S. 1003 would increase the cost
+of an existing private-sector mandate on entities required to pay
+those fees. CBO estimates that the incremental cost of the mandate
+would be small and would fall well below the annual threshold es-
+tablished in the Unfunded Mandates Reform Act (UMRA) for pri-
+vate-sector mandates ($203 million in 2025, adjusted annually for
+inflation).
+S. 1003 contains no intergovernmental mandates as defined in
+UMRA.
+The CBO staff contacts for this estimate are Margot Berman (for
+federal costs) and Rachel Austin (for mandates). The estimate was
+reviewed by H. Samuel Papenfuss, Deputy Director of Budget Anal-
+ysis.
+PHILLIP L. SWAGEL,
+Director, Congressional Budget Office.
+REGULATORY IMPACT STATEMENT
+Because S. 1003 does not create any new programs, the legisla-
+tion will have no additional regulatory impact, and will result in
+no additional reporting requirements. The legislation will have no
+further effect on the number or types of individuals and businesses
+regulated, the economic impact of such regulation, the personal pri-
+vacy of affected individuals, or the paperwork required from such
+individuals and businesses.
+VerDate Sep 11 2014 01:21 Jun 29, 2025 Jkt 059010 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\SR030.XXX SR030
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.030RS
+ereh
+5
+oilof
+tesffo
+tresnI
+
+4
+CONGRESSIONALLY DIRECTED SPENDING
+In compliance with paragraph 4(b) of rule XLIV of the Standing
+Rules of the Senate, the Committee provides that no provisions
+contained in the bill, as reported, meet the definition of congres-
+sionally directed spending items under the rule.
+SECTION-BY-SECTION ANALYSIS
+Section 1. Short title.
+This section would provide that the bill may be cited as ‘‘Lulu’s
+Law’’.
+Section 2. Wireless emergency alerts.
+This section would define the term ‘‘Alert Message’’ and would
+require that no later than 180 days after the date of the enactment
+of this Act, the FCC issue an order to provide that a shark attack
+is an event for which an Alert Message may be transmitted.
+CHANGES IN EXISTING LAW
+In compliance with paragraph 12 of rule XXVI of the Standing
+Rules of the Senate, the Committee states that the bill as reported
+would make no change to existing law.
+Æ
+VerDate Sep 11 2014 01:21 Jun 29, 2025 Jkt 059010 PO 00000 Frm 00006 Fmt 6659 Sfmt 6611 E:\HR\OC\SR030.XXX SR030
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

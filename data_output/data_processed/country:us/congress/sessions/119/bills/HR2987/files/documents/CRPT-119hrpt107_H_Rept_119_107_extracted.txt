@@ -1,0 +1,1558 @@
+Title: MAY21, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: MAY21, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 7
+Source: documents - H. Rept. 119-107
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–107
+CAPPING EXCESSIVE AWARDING OF SBLC ENTRANTS ACT
+OF 2025
+the Union and ordered to be printed
+Mr. WILLIAMS of Texas, from the Committee on Small Business,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 2987]
+The Committee on Small Business, to whom was referred the bill
+(H.R. 2987) to amend the Small Business Act to require a limit on
+the number of small business lending companies, and for other pur-
+poses, having considered the same, reports favorably thereon with
+an amendment and recommends that the bill as amended do pass.
+CONTENTS
+Page
+I. Purpose and Bill Summary ........................................................................ 2
+II. Need for Legislation .................................................................................... 2
+III. Hearings....................................................................................................... 2
+IV. Committee Consideration ........................................................................... 2
+V. Committee Votes ......................................................................................... 3
+VI. Section-by-Section of H.R. 2987 ................................................................. 5
+VII. Congressional Budget Office Cost Estimate ............................................. 5
+VIII. New Budget Authority, Entitlement Authority, and Tax Expenditures 5
+IX. Oversight Findings & Recommendations .................................................. 5
+X. Performance Goals and Objectives ............................................................ 5
+XI. Statement of Duplication of Federal Programs ........................................ 5
+XII. Congressional Earmarks, Limited Tax Benefits, and Limited Tariff
+Benefits..................................................................................................... 6
+XIII. Federal Mandates Statement ..................................................................... 6
+XIV. Federal Advisory Committee Statement ................................................... 6
+XV. Applicability to Legislative Branch ........................................................... 6
+XVI. Statement of Constitutional Authority...................................................... 6
+XVII. Changes in Existing Law Made by the Bill, as Reported ........................ 6
+XVIII. Minority Views ............................................................................................ 14
+59–006
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+2
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 2:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Capping Excessive Awarding of SBLC Entrants Act
+of 2025’’ or the ‘‘CEASE Act of 2025’’.
+SEC. 2. LIMITATION ON NUMBER OF SMALL BUSINESS LENDING COMPANIES.
+
+Section 3:
+Section 23 of the Small Business Act (15 U.S.C. 650) is amended by adding at
+the end the following:
+‘‘(k) LIMITATION ON NUMBER OF SMALL BUSINESS LENDING COMPANIES.—The Ad-
+ministrator shall ensure that not more than 16 small business lending companies
+that are not nonprofit entities are authorized to make loans under section 7 at any
+time.’’.
+I. PURPOSE AND BILL SUMMARY
+On April 24, 2025, Rep. Bresnahan introduced H.R. 2987, the
+Capping Excessive Awarding of SBLC Entrants (CEASE) Act. H.R.
+2987 limits the number of for-profit Small Business Lending Com-
+panies (SBLCs) licensed by the SBA to 16.
+II. NEED FOR LEGISLATION
+The SBA is authorized to issue government-backed 7(a) loans
+through certified depository institutions like banks and credit
+unions, as well as certified non-depository SBLCs. Unlike certified
+depository institutions, whose primary regulator is the Federal Re-
+serve, SBLCs are primarily regulated by the SBA and are not sub-
+ject to the same safety and soundness regulations and require-
+ments. Currently, the SBA does not have the capabilities to act as
+the primary regulatory for a significant number of SBLCs.
+In 1981, the SBA instituted its own moratorium on licensing
+SBLCs because the agency did not have adequate resources to over-
+see and regulate additional SBLCs beyond the existing 14.1 Under
+the Biden-Harris Administration, in 2023, the SBA finalized a rule
+that lifted the SBA’s self-imposed, 40-year moratorium that limited
+licensing on new SBLCs.2 During the 118th Congress, Members of
+the House and the Senate expressed bipartisan concerns regarding
+this rule due to risks of the integrity of SBA’s loan programs.3
+This bill is necessary to restore proper oversight capabilities to
+the SBA, while also ensuring that federally regulated lenders, such
+as community banks, remain a fundamental pillar of 7(a) lending.
+III. HEARINGS
+On February 12, 2025, the Committee on Small Business held a
+hearing examining matters related to H.R. 2987, titled ‘‘Driving
+Economic Growth: SBA Lending Programs and the Vital Role of
+Community Banks.’’
+IV. COMMITTEE CONSIDERATION
+The Committee on Small Business met in open session, with a
+quorum being present, on April 30, 2025, and ordered H.R. 2987,
+1SBA, ‘‘Business Loan Policy; Small Business Lending Companies,’’ 46 Federal Register 41523
+(Aug. 17, 1981).
+2SBA, ‘‘Small Business Lending Company (SBLC) Moratorium Rescission and Removal of the
+Requirement for a Loan Authorization,’’ 88 Federal Register 21890 (Apr. 12, 2023).
+3Letter from Roger Williams, et al., Chairman, H. Comm. on Small Bus., to Isabella Casillas
+Guzman, Adm’r, U.S. Small Bus. Admin. (May 16, 2023).
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+3
+as amended, to be reported favorably to the House of Representa-
+tives. During the markup, the Committee adopted an amendment
+in the nature of a substitute offered by Rep. Bresnahan by voice
+vote.
+V. COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee to list the recorded votes on the mo-
+tion to report legislation and amendments thereto. The Committee
+voted to favorably report H.R. 2987, as amended, to the House of
+Representatives at 6:16 PM.
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+4
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+Section 4:
+100.701RH
+ereh
+5
+oilof
+tesffo
+tresnI
+5
+VI. SECTION-BY-SECTION OF H.R. 2987
+
+Section 5:
+Section 1—Short title
+This Act may be cited as the ‘‘Capping Excessive Awarding of
+SBLC Entrants Act’’ or the ‘‘CEASE Act.’’
+
+Section 6:
+Section 2—Limitations on number of Small Business Lending Com-
+panies
+This section limits the maximum number of licensed for-profit
+SBLCs to 16.
+VII. CONGRESSIONAL BUDGET OFFICE COST ESTIMATE
+Pursuant to 3(c)(3) of rule XIII of the Rules of the House of Rep-
+resentatives, the Committee adopts as its own the cost estimate
+prepared by the Director of the Congressional Budget Office pursu-
+ant to section 402 of the Congressional Budget Act of 1974. The
+Committee has requested but not received from the Director of the
+Congressional Budget Office a cost estimate for the Committee’s
+provisions.
+VIII. NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY,
+AND TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII of the Rules of the House
+of Representatives and section 308(a)(I) of the Congressional Budg-
+et Act of 1974, the Committee provides the following opinion and
+estimate with respect to new budget authority, entitlement author-
+ity, and tax expenditures. While the Committee has not received an
+estimate of new budget authority contained in the cost estimate
+prepared by the Director of the Congressional Budget Office pursu-
+ant to Sec. 402 of the Congressional Budget Act of 1974, the Com-
+mittee does not believe that there will be any additional costs at-
+tributable to this legislation. H.R. 2987 does not direct new spend-
+ing, but instead reallocates funding independently authorized and
+appropriated.
+IX. OVERSIGHT FINDINGS & RECOMMENDATIONS
+In accordance with clause 3(c)(1) of rule XIII and clause 2(b)(1)
+of rule X of the Rules of the House of Representatives, the over-
+sight findings and recommendations of the Committee on Small
+Business with respect to the subject matter contained in H.R. 2987
+are incorporated into the descriptive portions of this report.
+X. PERFORMANCE GOALS AND OBJECTIVES
+With respect to the requirements of clause 3(c)(4) of rule XIII of
+the Rules of the House of Representatives, there are no specific
+performance goals and objectives of H.R. 2987 applicable.
+XI. STATEMENT OF DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, no provision of H.R. 2987 is known to be dupli-
+cative of another Federal program, including any program that was
+included in a report to Congress pursuant to section 21 of Public
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+6
+Law 111–139 or the most recent Catalog of Federal Domestic As-
+sistance.
+XII. CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND
+LIMITED TARIFF BENEFITS
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee finds that the bill does not con-
+tain any congressional earmarks, limited tax benefits, or limited
+tariff benefits as defined in clause 9(e), 9(f), or 9(g) of rule XXI of
+the Rules of the House of Representatives.
+XIII. FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+XIV. FEDERAL ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+XV. APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+XVI. STATEMENT OF CONSTITUTIONAL AUTHORITY
+Pursuant to clause 7 of rule XII of the Rules of the House, the
+Committee finds that the authority for this legislation in Art. I, §8,
+cl.1 of the Constitution of the United States.
+XVII. CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+SMALL BUSINESS ACT
+* * * * * * *
+SEC. 23. SUPERVISORY AND ENFORCEMENT AUTHORITY FOR SMALL
+BUSINESS LENDING COMPANIES.
+(a) IN GENERAL.—The Administrator is authorized—
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6601 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+7
+(1) to supervise the safety and soundness of small business
+lending companies and non-Federally regulated lenders;
+(2) with respect to small business lending companies to set
+capital standards to regulate, to examine, and to enforce laws
+governing such companies, in accordance with the purposes of
+this Act; and
+(3) with respect to non-Federally regulated lenders to regu-
+late, to examine, and to enforce laws governing the lending ac-
+tivities of such lenders under section 7(a) in accordance with
+the purposes of this Act.
+(b) CAPITAL DIRECTIVE.—
+(1) IN GENERAL.—If the Administrator determines that a
+small business lending company is being operated in an impru-
+dent manner, the Administrator may, in addition to any other
+action authorized by law, issue a directive to such company to
+increase capital to such level as the Administrator determines
+will result in the safe and sound operation of such company.
+(2) DELEGATION.—The Administrator may not delegate the
+authority granted under paragraph (1) except to an Associate
+Deputy Administrator.
+(3) REGULATIONS.—The Administrator shall issue regulations
+outlining the conditions under which the Administrator may
+determine the level of capital pursuant to paragraph (1).
+(c) CIVIL ACTION.—If a small business lending company violates
+this Act, the Administrator may institute a civil action in an appro-
+priate district court to terminate the rights, privileges, and fran-
+chises of the company under this Act.
+(d) REVOCATION OR SUSPENSION OF LOAN AUTHORITY.—
+(1) The Administrator may revoke or suspend the authority
+of a small business lending company or a non-Federally regu-
+lated lender to make, service or liquidate business loans au-
+thorized by section 7(a) of this Act—
+(A) for false statements knowingly made in any written
+submission required under this Act;
+(B) for omission of a material fact from any written sub-
+mission required under this Act;
+(C) for willful or repeated violation of this Act;
+(D) for willful or repeated violation of any condition im-
+posed by the Administrator with respect to any applica-
+tion, request, or agreement under this Act; or
+(E) for violation of any cease and desist order of the Ad-
+ministrator under this section.
+(2) The Administrator may revoke or suspend authority
+under paragraph (1) only after a hearing under subsection (f).
+The Administrator may delegate power to revoke or suspend
+authority under paragraph (1) only to the Deputy Adminis-
+trator and only if the Administrator is unavailable to take such
+action.
+(A) The Administrator, after finding extraordinary cir-
+cumstances and in order to protect the financial or legal
+position of the United States, may issue a suspension
+order without conducting a hearing pursuant to subsection
+(f). If the Administrator issues a suspension under the pre-
+ceding sentence, the Administrator shall within two busi-
+ness days follow the procedures set forth in subsection (f).
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6601 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+8
+(B) Any suspension under paragraph (1) shall remain in
+effect until the Administrator makes a decision pursuant
+to subparagraph (4) to permanently revoke the authority
+of the small business lending company or non-Federally
+regulated lender, suspend the authority for a time certain,
+or terminate the suspension.
+(3) The small business lending company or non-Federally
+regulated lender must notify borrowers of a revocation and
+that a new entity has been appointed to service their loans.
+The Administrator or an employee of the Administration des-
+ignated by the Administrator may provide such notice to the
+borrower.
+(4) Any revocation or suspension under paragraph (1) shall
+be made by the Administrator except that the Administrator
+shall delegate to an administrative law judge as that term is
+used in section 3105 of title 5, United States Code, the author-
+ity to conduct any hearing required under subsection (f). The
+Administrator shall base the decision to revoke on the record
+of the hearing.
+(e) CEASE AND DESIST ORDER.—
+(1) Where a small business lending company, a non-Feder-
+ally regulated lender, or other person violates this Act or is en-
+gaging or is about to engage in any acts or practices which con-
+stitute or will constitute a violation of this Act, the Adminis-
+trator may order, after the opportunity for hearing pursuant to
+subsection (f), the company, lender, or other person to cease
+and desist from such action or failure to act. The Adminis-
+trator may delegate the authority under the preceding sen-
+tence only to the Deputy Administrator and only if the Admin-
+istrator is unavailable to take such action.
+(2) The Administrator, after finding extraordinary cir-
+cumstances and in order to protect the financial or legal posi-
+tion of the United States, may issue a cease and desist order
+without conducting a hearing pursuant to subsection (f). If the
+Administrator issues a cease and desist order under the pre-
+ceding sentence, the Administrator shall within two business
+days follow the procedures set forth in subsection (f).
+(3) The Administrator may further order such small business
+lending company or non-Federally regulated lender or other
+person to take such action or to refrain from such action as the
+Administrator deems necessary to insure compliance with this
+Act.
+(4) A cease and desist order under this subsection may also
+provide for the suspension of authority to lend in subsection
+(d).
+(f) PROCEDURE FOR REVOCATION OR SUSPENSION OF LOAN AU-
+THORITY AND FOR CEASE AND DESIST ORDER.—
+(1) Before revoking or suspending authority under subsection
+(d) or issuing a cease and desist order under subsection (e), the
+Administrator shall serve an order to show cause upon the
+small business lending company, non-Federally regulated lend-
+er, or other person why an order revoking or suspending the
+authority or a cease and desist order should not be issued. The
+order to show cause shall contain a statement of the matters
+of fact and law asserted by the Administrator and the legal au-
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+9
+thority and jurisdiction under which a hearing is to be held,
+and shall set forth that a hearing will be held before an admin-
+istrative law judge at a time and place stated in the order.
+Such hearing shall be conducted pursuant to the provisions of
+
+Section 7:
+sections 554, 556, and 557 of title 5, United States Code. If
+after hearing, or a waiver thereof, the Administrator deter-
+mines that an order revoking or suspending the authority or
+a cease and desist order should be issued, the Administrator
+shall promptly issue such order, which shall include a state-
+ment of the findings of the Administrator and the grounds and
+reasons therefor and specify the effective date of the order, and
+shall cause the order to be served on the small business lend-
+ing company, non-Federally regulated lender, or other person
+involved.
+(2) Witnesses summoned before the Administrator shall be
+paid by the party at whose instance they were called the same
+fees and mileage that are paid witnesses in the courts of the
+United States.
+(3) A cease and desist order, suspension or revocation issued
+by the Administrator, after the hearing under this subsection
+is final agency action for purposes of chapter 7 of title 5,
+United States Code. An adversely aggrieved party shall have
+20 days from the date of issuance of the cease and desist order,
+suspension or revocation, to seek judicial review in an appro-
+priate district court.
+(g) REMOVAL OR SUSPENSION OF MANAGEMENT OFFICIAL.—
+(1) DEFINITION.—In this section, the term ‘‘management offi-
+cial’’ means, with respect to a small business lending company
+or a non-Federally regulated lender, an officer, director, gen-
+eral partner, manager, employee, agent, or other participant in
+the management of the affairs of the company’s or lender’s ac-
+tivities under section 7(a) of this Act.
+(2) REMOVAL OF MANAGEMENT OFFICIAL.—
+(A) NOTICE.—The Administrator may serve upon any
+management official a written notice of its intention to re-
+move that management official if, in the opinion of the Ad-
+ministrator, the management official—
+(i) willfully and knowingly commits a substantial
+violation of—
+(I) this Act;
+(II) any regulation issued under this Act;
+(III) a final cease-and-desist order under this
+Act; or
+(IV) any agreement by the management official,
+the small business lending company or non-Feder-
+ally regulated lender under this Act; or
+(ii) willfully and knowingly commits a substantial
+breach of a fiduciary duty of that person as a manage-
+ment official and the violation or breach of fiduciary
+duty is one involving personal dishonesty on the part
+of such management official.
+(B) CONTENTS OF NOTICE.—A notice under subparagraph
+(A) shall contain a statement of the facts constituting
+grounds therefor and shall fix a time and place at which
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+10
+a hearing, conducted pursuant to sections 554, 556, and
+557 of title 5, United States Code, will be held thereon.
+(C) HEARING.—
+(i) TIMING.—A hearing under subparagraph (B) shall
+be held not earlier than 30 days and later than 60
+days after the date of service of notice of the hearing,
+unless an earlier or a later date is set by the Adminis-
+trator at the request of—
+(I) the management official, and for good cause
+shown; or
+(II) the Attorney General.
+(ii) CONSENT.—Unless the management official ap-
+pears at a hearing under this paragraph in person or
+by a duly authorized representative, the management
+official shall be deemed to have consented to the
+issuance of an order of removal under subparagraph
+(A).
+(D) ORDER OF REMOVAL.—
+(i) IN GENERAL.—In the event of consent under sub-
+paragraph (C)(ii), or if upon the record made at a
+hearing under this subsection, the Administrator finds
+that any of the grounds specified in the notice of re-
+moval has been established, the Administrator may
+issue such orders of removal from office as the Admin-
+istrator deems appropriate.
+(ii) EFFECTIVENESS.—An order under clause (i)
+shall—
+(I) take effect 30 days after the date of service
+upon the subject small business lending company
+or non-Federally regulated lender and the man-
+agement official concerned (except in the case of
+an order issued upon consent as described in sub-
+paragraph (C)(ii), which shall become effective at
+the time specified in such order); and
+(II) remain effective and enforceable, except to
+such extent as it is stayed, modified, terminated,
+or set aside by action of the Administrator or a re-
+viewing court in accordance with this section.
+(3) AUTHORITY TO SUSPEND OR PROHIBIT PARTICIPATION.—
+(A) IN GENERAL.—In order to protect a small business
+lending company, a non-Federally regulated lender or the
+interests of the Administration or the United States, the
+Administrator may suspend from office or prohibit from
+further participation in any manner in the management or
+conduct of the affairs of a small business lending company
+or a non-Federally regulated lender a management official
+by written notice to such effect served upon the manage-
+ment official. Such suspension or prohibition may prohibit
+the management official from making, servicing, review-
+ing, approving, or liquidating any loan under section 7(a)
+of this Act.
+(B) EFFECTIVENESS.—A suspension or prohibition under
+subparagraph (A)—
+(i) shall take effect upon service of notice under
+paragraph (2); and
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+11
+(ii) unless stayed by a court in proceedings author-
+ized by subparagraph (C), shall remain in effect—
+(I) pending the completion of the administrative
+proceedings pursuant to a notice of intention to re-
+move served under paragraph (2); and
+(II) until such time as the Administrator dis-
+misses the charges specified in the notice, or, if an
+order of removal or prohibition is issued against
+the management official, until the effective date of
+any such order.
+(C) JUDICIAL REVIEW OF SUSPENSION PRIOR TO HEAR-
+ING.—Not later than 10 days after a management official
+is suspended or prohibited from participation under sub-
+paragraph (A), the management official may apply to an
+appropriate district court for a stay of the suspension or
+prohibition pending the completion of the administrative
+proceedings pursuant to a notice of intent to remove
+served upon the management official under paragraph (2).
+(4) AUTHORITY TO SUSPEND ON CRIMINAL CHARGES.—
+(A) IN GENERAL.—If a management official is charged in
+any information, indictment, or complaint authorized by a
+United States attorney, with a felony involving dishonesty
+or breach of trust, the Administrator may, by written no-
+tice served upon the management official, suspend the
+management official from office or prohibit the manage-
+ment official from further participation in any manner in
+the management or conduct of the affairs of the small
+business lending company or non-Federally regulated lend-
+er.
+(B) EFFECTIVENESS.—A suspension or prohibition under
+subparagraph (A) shall remain in effect until the informa-
+tion, indictment, or complaint is finally disposed of, or
+until terminated by the Administrator or upon an order of
+a district court.
+(C) AUTHORITY UPON CONVICTION.—If a judgment of con-
+viction with respect to an offense described in subpara-
+graph (A) is entered against a management official, then
+at such time as the judgment is not subject to further judi-
+cial review (and for purposes of this subparagraph shall
+not include any petition for a writ of habeas corpus), the
+Administrator may issue and serve upon the management
+official an order removing the management official, effec-
+tive upon service of a copy of the order upon the small
+business lending company or non-Federally regulated lend-
+er.
+(D) AUTHORITY UPON DISMISSAL OR OTHER DISPOSITION.—
+A finding of not guilty or other disposition of charges de-
+scribed in subparagraph (A) shall not preclude the Admin-
+istrator from instituting proceedings under subsection (e)
+or (f).
+(5) NOTIFICATION TO SMALL BUSINESS LENDING COMPANY OR
+A NON-FEDERALLY REGULATED LENDER.—Copies of each notice
+required to be served on a management official under this sec-
+tion shall also be served upon the small business lending com-
+pany or non-Federally regulated lender involved.
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+12
+(6) FINAL AGENCY ACTION AND JUDICIAL REVIEW.—
+(A) ISSUANCE OF ORDERS.—After a hearing under this
+subsection, and not later than 30 days after the Adminis-
+trator notifies the parties that the case has been submitted
+for final decision, the Administrator shall render a decision
+in the matter (which shall include findings of fact upon
+which its decision is predicated), and shall issue and cause
+to be served upon each party to the proceeding an order
+or orders consistent with this section. The decision of the
+Administrator shall constitute final agency action for pur-
+poses of chapter 7 of title 5, United States Code.
+(B) JUDICIAL REVIEW.—An adversely aggrieved party
+shall have 20 days from the date of issuance of the order
+to seek judicial review in an appropriate district court.
+(h) APPOINTMENT OF RECEIVER.—
+(1) In any proceeding under subsection (f)(4) or subsection
+(g)(6)(C), the court may take exclusive jurisdiction of a small
+business lending company or a non-Federally regulated lender
+and appoint a receiver to hold and administer the assets of the
+company or lender.
+(2) Upon request of the Administrator, the court may appoint
+the Administrator as a receiver under paragraph (1).
+(i) POSSESSION OF ASSETS.—
+(1) If a small business lending company or a non-Federally
+regulated lender is not in compliance with capital require-
+ments or is insolvent, the Administrator may take possession
+of the portfolio of loans guaranteed by the Administrator and
+sell such loans to a third party by means of a receiver ap-
+pointed under subsection (h).
+(2) If a small business lending company or a non-Federally
+regulated lender is not in compliance with capital require-
+ments or is insolvent or otherwise operating in an unsafe and
+unsound condition, the Administrator may take possession of
+servicing activities of loans that are guaranteed by the Admin-
+istrator and sell such servicing rights to a third party by
+means of a receiver appointed under subsection (h).
+(j) PENALTIES AND FORFEITURES.—
+(1) Except as provided in paragraph (2), a small business
+lending company or a non-Federally regulated lender which
+violates any regulation or written directive issued by the Ad-
+ministrator regarding the filing of any regular or special report
+shall pay to the United States a civil penalty of not more than
+$5,000 for each day of the continuance of the failure to file
+such report, unless it is shown that such failure is due to rea-
+sonable cause and not due to willful neglect. The civil penalties
+under this subsection may be enforced in a civil action brought
+by the Administrator. The penalties under this subsection shall
+not apply to any affiliate of a small business lending company
+that procures at least 10 percent of its annual purchasing re-
+quirements from small manufacturers.
+(2) The Administrator may by rules and regulations that
+shall be codified in the Code of Federal Regulations, after an
+opportunity for notice and comment, or upon application of an
+interested party, at any time previous to such failure, by order,
+after notice and opportunity for hearing which shall be con-
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+13
+ducted pursuant to sections 554, 556, and 557 of title 5, United
+States Code, exempt in whole or in part, any small business
+lending company or non-Federally regulated lender from para-
+graph (1), upon such terms and conditions and for such period
+of time as it deems necessary and appropriate, if the Adminis-
+trator finds that such action is not inconsistent with the public
+interest or the protection of the Administration. The Adminis-
+trator may for the purposes of this section make any alter-
+native requirements appropriate to the situation.
+(k) LIMITATION ON NUMBER OF SMALL BUSINESS LENDING COM-
+PANIES.—The Administrator shall ensure that not more than 16
+small business lending companies that are not nonprofit entities are
+authorized to make loans under section 7 at any time.
+* * * * * * *
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6601 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+XVIII. MINORITY VIEWS
+H.R. 2987, the ‘‘Capping Excessive Awarding of SBLC Entrants
+Act,’’ or ‘‘CEASE Act,’’ introduced by Representative Rob
+Bresnahan (R, PA) places a statutory moratorium on the number
+of Small Business Lending Company (SBLC) licenses that can be
+issued by the U.S. Small Business Administration (BA) at sixteen.
+SBLCs are non-depository lending institutions that are author-
+ized by the SBA to make 7(a) loans nationwide up to the pro-
+grammatic cap of $5 million per small business. There are cur-
+rently sixteen entities that have been awarded SBLC licenses to
+make 7(a) program loans.
+There has been bipartisan, bicameral, concern about the SBA’s
+ability to issue additional SBLC licenses for more than two years.
+Committee Democrats, first expressed concern about the SBA’s de-
+cision to amend its regulations to lift its previous moratorium on
+the licensing of new SBLCs, after the SBA made the announcement
+in April 2023, as part of its SBLC Moratorium Recession and Re-
+moval of the Requirement for a Loan Authorization rule.1
+Prior to finalization of the SBLC rule, the SBA had placed a mor-
+atorium on licensing new SBLCs since 1982, as it believed it did
+not have the necessary resources to properly supervise any new en-
+trants into the program. Prior to adoption of the rule, the only way
+for an interested lender to obtain an SBLC license was to acquire
+one from one of the fourteen license holders in existence at the
+time. Although there is no cap on the number of licenses that can
+be issued under the SBLC rule, in the proposed rule, the SBA stat-
+ed that based on the oversight capacity it had at the time, it be-
+lieved it had the ability to license and supervise three new SBLCs.2
+On Number 1, 2023, the SBA announced that it was granting
+three new SBLC licenses to lending companies.3 Arkansas Capital
+Corporation, Alaska Growth Capital BIDCO, Inc., and Funding Cir-
+cle were the three companies granted SBLC lienees.4 Shortly after
+being granted an SBLC license, Funding Circle’s U.K.-based parent
+company announced that it was selling its U.S.-subsidiary after the
+U.S.-based company reported an annual loss of approximately $5
+million in 2023.5 Funding Circle ultimately decided to return its
+newly granted SBLC license to the SBA upon the sale of its U.S.-
+subsidiary to Ready Capital, another SBLC company.6
+188 Fed. Reg. 21890 (April 12, 2023).
+287 Fed. Reg. 66963. Small Business Lending Company (SBLC) Moratorium Rescission and
+Removal of the Requirement for a Loan Authorization. Pg. 66964. (November 7, 2022).
+3U.S. SMALL BUSINESS ADMINISTRATION. ‘‘Biden-Harris Administration Takes Historic
+Step in Expanding Access to Capital and Filling Lending Gaps in Underserved Communities.’’
+(Archived New Release 23–86). (Nov. 1, 2023).
+4Id.
+5CHAKRAVARTY, RAJASHREE. ‘‘Funding Circle Sells its US Unit, Returns SBLC License.’’
+BANKING DIVE (Jun. 26, 2024).
+6Id.
+(14)
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6604 Sfmt 6604 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+15
+During the Committee’s markup session, Representative
+Bresnahan, the sponsor of H.R. 2987, stated that H.R. 2987 would
+statutorily limit the number of SBLC licenses at sixteen and no
+currently awarded SBLC licenses would be impacted.
+Given the controversy and upheaval associated with the award-
+ing of a SBLC license to Funding Circle, Committee Democrats also
+believe it is worth exploring the necessity of statutorily codifying
+the number of SBLC licenses at the currently issued number of six-
+teen. However, the text of H.R. 2987 is silent as to the morato-
+rium’s applicability to currently existing Community Advantage
+SBLC licenses.
+The Community Advantage program (CA program) began oper-
+ations in February 2011, as an SBA pilot program. The program
+is designed to facilitate smaller-dollar loans to small businesses
+that are new businesses or located in an underserved community.
+As part of the SBLC rule in 2023, the SBA transitioned the CA
+program from its original form as a pilot to a specifically des-
+ignated Community Advantage SBLC-licensed program. CA lenders
+who continued to be interested in making loans under the program
+were required to register with the SBA as CA SBLCs. Thus far,
+143 CA lenders have registered with the SBA as CA SBLCs.7
+The CA program has been hugely successful in facilitating small-
+er-dollar loans to small businesses that are new or located in an
+underserved community. In FY 2024, the Community Advantage
+program issued 1,118 loans valued at more than $196 million, with
+an average loan size of approximately $175,700.8 Thus far in FY
+2025, CA lenders have issued 800 loans, valued at approximately
+$132 million, with an average loan size of approximately $165,300.9
+Given the CA program’s demonstrated track record of bringing
+smaller-dollar capital awards to new and underserved small busi-
+ness, Committee Democrats, have long championed the program.
+Last Congress, Representative Judy Chu (D, CA) and I made sev-
+eral efforts to work with the Republican-majority to permanently
+codify the program, but those efforts proved unsuccessful.
+Committee Democrats believe the CA program needs to continue
+to grow and lenders with an interest in participating in the pro-
+gram need to be awarded a CA SBLC license, if they meet all the
+programmatic requirements for licensure. I am concerned that HR
+2987’s textual silence as to the SBLC moratorium’s applicability to
+the CA SBLC program could be interpreted by the Trump Adminis-
+tration or a future Presidential Administration as Congress’ direc-
+tive to the SBA to limit the number of CA SBLC licenses or even
+shutdown the program altogether. That could not be further from
+the truth.
+The standard practice would be for outstanding questions associ-
+ated with legislative text to be answered as part of a committee
+hearing with the SBA’s leadership or industry participants. Yet no
+such hearing on this legislation has been held. Committee Demo-
+crats opposed the legislation because of a lack of engagement with
+7Information provided by The Mission Lenders Working Group. (Provided on January 29,
+2025). On file with Small Business Committee Staff.
+8U.S. SMALL BUS. ADMIN., 7(a) & 504 Summary Report, (Data as of: Apr. 25, 2025). (Last
+Accessed: Apr. 25, 2025).
+9Id.
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6604 Sfmt 6604 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+16
+the SBA, all necessary industry partners, and a due diligence re-
+view required to support the legislation.
+So, while Committee Democrats remain concerned about the
+SBA’s ability to award an unlimited number of new SBLC licenses,
+central questions regarding the legislation’s text remain and there-
+fore Democrats cannot support the legislation in its current form.
+NYDIA M. VELA ´ ZQUEZ,
+Ranking Member.
+Æ
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6604 Sfmt 6611 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–107
+CAPPING EXCESSIVE AWARDING OF SBLC ENTRANTS ACT
+OF 2025
+MAY21, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. WILLIAMS of Texas, from the Committee on Small Business,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 2987]
+The Committee on Small Business, to whom was referred the bill
+(H.R. 2987) to amend the Small Business Act to require a limit on
+the number of small business lending companies, and for other pur-
+poses, having considered the same, reports favorably thereon with
+an amendment and recommends that the bill as amended do pass.
+CONTENTS
+Page
+I. Purpose and Bill Summary ........................................................................ 2
+II. Need for Legislation .................................................................................... 2
+III. Hearings....................................................................................................... 2
+IV. Committee Consideration ........................................................................... 2
+V. Committee Votes ......................................................................................... 3
+VI. Section-by-Section of H.R. 2987 ................................................................. 5
+VII. Congressional Budget Office Cost Estimate ............................................. 5
+VIII. New Budget Authority, Entitlement Authority, and Tax Expenditures 5
+IX. Oversight Findings & Recommendations .................................................. 5
+X. Performance Goals and Objectives ............................................................ 5
+XI. Statement of Duplication of Federal Programs ........................................ 5
+XII. Congressional Earmarks, Limited Tax Benefits, and Limited Tariff
+Benefits..................................................................................................... 6
+XIII. Federal Mandates Statement ..................................................................... 6
+XIV. Federal Advisory Committee Statement ................................................... 6
+XV. Applicability to Legislative Branch ........................................................... 6
+XVI. Statement of Constitutional Authority...................................................... 6
+XVII. Changes in Existing Law Made by the Bill, as Reported ........................ 6
+XVIII. Minority Views ............................................................................................ 14
+59–006
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+2
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Capping Excessive Awarding of SBLC Entrants Act
+of 2025’’ or the ‘‘CEASE Act of 2025’’.
+SEC. 2. LIMITATION ON NUMBER OF SMALL BUSINESS LENDING COMPANIES.
+Section 23 of the Small Business Act (15 U.S.C. 650) is amended by adding at
+the end the following:
+‘‘(k) LIMITATION ON NUMBER OF SMALL BUSINESS LENDING COMPANIES.—The Ad-
+ministrator shall ensure that not more than 16 small business lending companies
+that are not nonprofit entities are authorized to make loans under section 7 at any
+time.’’.
+I. PURPOSE AND BILL SUMMARY
+On April 24, 2025, Rep. Bresnahan introduced H.R. 2987, the
+Capping Excessive Awarding of SBLC Entrants (CEASE) Act. H.R.
+2987 limits the number of for-profit Small Business Lending Com-
+panies (SBLCs) licensed by the SBA to 16.
+II. NEED FOR LEGISLATION
+The SBA is authorized to issue government-backed 7(a) loans
+through certified depository institutions like banks and credit
+unions, as well as certified non-depository SBLCs. Unlike certified
+depository institutions, whose primary regulator is the Federal Re-
+serve, SBLCs are primarily regulated by the SBA and are not sub-
+ject to the same safety and soundness regulations and require-
+ments. Currently, the SBA does not have the capabilities to act as
+the primary regulatory for a significant number of SBLCs.
+In 1981, the SBA instituted its own moratorium on licensing
+SBLCs because the agency did not have adequate resources to over-
+see and regulate additional SBLCs beyond the existing 14.1 Under
+the Biden-Harris Administration, in 2023, the SBA finalized a rule
+that lifted the SBA’s self-imposed, 40-year moratorium that limited
+licensing on new SBLCs.2 During the 118th Congress, Members of
+the House and the Senate expressed bipartisan concerns regarding
+this rule due to risks of the integrity of SBA’s loan programs.3
+This bill is necessary to restore proper oversight capabilities to
+the SBA, while also ensuring that federally regulated lenders, such
+as community banks, remain a fundamental pillar of 7(a) lending.
+III. HEARINGS
+On February 12, 2025, the Committee on Small Business held a
+hearing examining matters related to H.R. 2987, titled ‘‘Driving
+Economic Growth: SBA Lending Programs and the Vital Role of
+Community Banks.’’
+IV. COMMITTEE CONSIDERATION
+The Committee on Small Business met in open session, with a
+quorum being present, on April 30, 2025, and ordered H.R. 2987,
+1SBA, ‘‘Business Loan Policy; Small Business Lending Companies,’’ 46 Federal Register 41523
+(Aug. 17, 1981).
+2SBA, ‘‘Small Business Lending Company (SBLC) Moratorium Rescission and Removal of the
+Requirement for a Loan Authorization,’’ 88 Federal Register 21890 (Apr. 12, 2023).
+3Letter from Roger Williams, et al., Chairman, H. Comm. on Small Bus., to Isabella Casillas
+Guzman, Adm’r, U.S. Small Bus. Admin. (May 16, 2023).
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+3
+as amended, to be reported favorably to the House of Representa-
+tives. During the markup, the Committee adopted an amendment
+in the nature of a substitute offered by Rep. Bresnahan by voice
+vote.
+V. COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee to list the recorded votes on the mo-
+tion to report legislation and amendments thereto. The Committee
+voted to favorably report H.R. 2987, as amended, to the House of
+Representatives at 6:16 PM.
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+4
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+100.701RH
+ereh
+5
+oilof
+tesffo
+tresnI
+
+5
+VI. SECTION-BY-SECTION OF H.R. 2987
+Section 1—Short title
+This Act may be cited as the ‘‘Capping Excessive Awarding of
+SBLC Entrants Act’’ or the ‘‘CEASE Act.’’
+Section 2—Limitations on number of Small Business Lending Com-
+panies
+This section limits the maximum number of licensed for-profit
+SBLCs to 16.
+VII. CONGRESSIONAL BUDGET OFFICE COST ESTIMATE
+Pursuant to 3(c)(3) of rule XIII of the Rules of the House of Rep-
+resentatives, the Committee adopts as its own the cost estimate
+prepared by the Director of the Congressional Budget Office pursu-
+ant to section 402 of the Congressional Budget Act of 1974. The
+Committee has requested but not received from the Director of the
+Congressional Budget Office a cost estimate for the Committee’s
+provisions.
+VIII. NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY,
+AND TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII of the Rules of the House
+of Representatives and section 308(a)(I) of the Congressional Budg-
+et Act of 1974, the Committee provides the following opinion and
+estimate with respect to new budget authority, entitlement author-
+ity, and tax expenditures. While the Committee has not received an
+estimate of new budget authority contained in the cost estimate
+prepared by the Director of the Congressional Budget Office pursu-
+ant to Sec. 402 of the Congressional Budget Act of 1974, the Com-
+mittee does not believe that there will be any additional costs at-
+tributable to this legislation. H.R. 2987 does not direct new spend-
+ing, but instead reallocates funding independently authorized and
+appropriated.
+IX. OVERSIGHT FINDINGS & RECOMMENDATIONS
+In accordance with clause 3(c)(1) of rule XIII and clause 2(b)(1)
+of rule X of the Rules of the House of Representatives, the over-
+sight findings and recommendations of the Committee on Small
+Business with respect to the subject matter contained in H.R. 2987
+are incorporated into the descriptive portions of this report.
+X. PERFORMANCE GOALS AND OBJECTIVES
+With respect to the requirements of clause 3(c)(4) of rule XIII of
+the Rules of the House of Representatives, there are no specific
+performance goals and objectives of H.R. 2987 applicable.
+XI. STATEMENT OF DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, no provision of H.R. 2987 is known to be dupli-
+cative of another Federal program, including any program that was
+included in a report to Congress pursuant to section 21 of Public
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+6
+Law 111–139 or the most recent Catalog of Federal Domestic As-
+sistance.
+XII. CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND
+LIMITED TARIFF BENEFITS
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee finds that the bill does not con-
+tain any congressional earmarks, limited tax benefits, or limited
+tariff benefits as defined in clause 9(e), 9(f), or 9(g) of rule XXI of
+the Rules of the House of Representatives.
+XIII. FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+XIV. FEDERAL ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+XV. APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+XVI. STATEMENT OF CONSTITUTIONAL AUTHORITY
+Pursuant to clause 7 of rule XII of the Rules of the House, the
+Committee finds that the authority for this legislation in Art. I, §8,
+cl.1 of the Constitution of the United States.
+XVII. CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+SMALL BUSINESS ACT
+* * * * * * *
+SEC. 23. SUPERVISORY AND ENFORCEMENT AUTHORITY FOR SMALL
+BUSINESS LENDING COMPANIES.
+(a) IN GENERAL.—The Administrator is authorized—
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6601 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+7
+(1) to supervise the safety and soundness of small business
+lending companies and non-Federally regulated lenders;
+(2) with respect to small business lending companies to set
+capital standards to regulate, to examine, and to enforce laws
+governing such companies, in accordance with the purposes of
+this Act; and
+(3) with respect to non-Federally regulated lenders to regu-
+late, to examine, and to enforce laws governing the lending ac-
+tivities of such lenders under section 7(a) in accordance with
+the purposes of this Act.
+(b) CAPITAL DIRECTIVE.—
+(1) IN GENERAL.—If the Administrator determines that a
+small business lending company is being operated in an impru-
+dent manner, the Administrator may, in addition to any other
+action authorized by law, issue a directive to such company to
+increase capital to such level as the Administrator determines
+will result in the safe and sound operation of such company.
+(2) DELEGATION.—The Administrator may not delegate the
+authority granted under paragraph (1) except to an Associate
+Deputy Administrator.
+(3) REGULATIONS.—The Administrator shall issue regulations
+outlining the conditions under which the Administrator may
+determine the level of capital pursuant to paragraph (1).
+(c) CIVIL ACTION.—If a small business lending company violates
+this Act, the Administrator may institute a civil action in an appro-
+priate district court to terminate the rights, privileges, and fran-
+chises of the company under this Act.
+(d) REVOCATION OR SUSPENSION OF LOAN AUTHORITY.—
+(1) The Administrator may revoke or suspend the authority
+of a small business lending company or a non-Federally regu-
+lated lender to make, service or liquidate business loans au-
+thorized by section 7(a) of this Act—
+(A) for false statements knowingly made in any written
+submission required under this Act;
+(B) for omission of a material fact from any written sub-
+mission required under this Act;
+(C) for willful or repeated violation of this Act;
+(D) for willful or repeated violation of any condition im-
+posed by the Administrator with respect to any applica-
+tion, request, or agreement under this Act; or
+(E) for violation of any cease and desist order of the Ad-
+ministrator under this section.
+(2) The Administrator may revoke or suspend authority
+under paragraph (1) only after a hearing under subsection (f).
+The Administrator may delegate power to revoke or suspend
+authority under paragraph (1) only to the Deputy Adminis-
+trator and only if the Administrator is unavailable to take such
+action.
+(A) The Administrator, after finding extraordinary cir-
+cumstances and in order to protect the financial or legal
+position of the United States, may issue a suspension
+order without conducting a hearing pursuant to subsection
+(f). If the Administrator issues a suspension under the pre-
+ceding sentence, the Administrator shall within two busi-
+ness days follow the procedures set forth in subsection (f).
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6601 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+8
+(B) Any suspension under paragraph (1) shall remain in
+effect until the Administrator makes a decision pursuant
+to subparagraph (4) to permanently revoke the authority
+of the small business lending company or non-Federally
+regulated lender, suspend the authority for a time certain,
+or terminate the suspension.
+(3) The small business lending company or non-Federally
+regulated lender must notify borrowers of a revocation and
+that a new entity has been appointed to service their loans.
+The Administrator or an employee of the Administration des-
+ignated by the Administrator may provide such notice to the
+borrower.
+(4) Any revocation or suspension under paragraph (1) shall
+be made by the Administrator except that the Administrator
+shall delegate to an administrative law judge as that term is
+used in section 3105 of title 5, United States Code, the author-
+ity to conduct any hearing required under subsection (f). The
+Administrator shall base the decision to revoke on the record
+of the hearing.
+(e) CEASE AND DESIST ORDER.—
+(1) Where a small business lending company, a non-Feder-
+ally regulated lender, or other person violates this Act or is en-
+gaging or is about to engage in any acts or practices which con-
+stitute or will constitute a violation of this Act, the Adminis-
+trator may order, after the opportunity for hearing pursuant to
+subsection (f), the company, lender, or other person to cease
+and desist from such action or failure to act. The Adminis-
+trator may delegate the authority under the preceding sen-
+tence only to the Deputy Administrator and only if the Admin-
+istrator is unavailable to take such action.
+(2) The Administrator, after finding extraordinary cir-
+cumstances and in order to protect the financial or legal posi-
+tion of the United States, may issue a cease and desist order
+without conducting a hearing pursuant to subsection (f). If the
+Administrator issues a cease and desist order under the pre-
+ceding sentence, the Administrator shall within two business
+days follow the procedures set forth in subsection (f).
+(3) The Administrator may further order such small business
+lending company or non-Federally regulated lender or other
+person to take such action or to refrain from such action as the
+Administrator deems necessary to insure compliance with this
+Act.
+(4) A cease and desist order under this subsection may also
+provide for the suspension of authority to lend in subsection
+(d).
+(f) PROCEDURE FOR REVOCATION OR SUSPENSION OF LOAN AU-
+THORITY AND FOR CEASE AND DESIST ORDER.—
+(1) Before revoking or suspending authority under subsection
+(d) or issuing a cease and desist order under subsection (e), the
+Administrator shall serve an order to show cause upon the
+small business lending company, non-Federally regulated lend-
+er, or other person why an order revoking or suspending the
+authority or a cease and desist order should not be issued. The
+order to show cause shall contain a statement of the matters
+of fact and law asserted by the Administrator and the legal au-
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+9
+thority and jurisdiction under which a hearing is to be held,
+and shall set forth that a hearing will be held before an admin-
+istrative law judge at a time and place stated in the order.
+Such hearing shall be conducted pursuant to the provisions of
+sections 554, 556, and 557 of title 5, United States Code. If
+after hearing, or a waiver thereof, the Administrator deter-
+mines that an order revoking or suspending the authority or
+a cease and desist order should be issued, the Administrator
+shall promptly issue such order, which shall include a state-
+ment of the findings of the Administrator and the grounds and
+reasons therefor and specify the effective date of the order, and
+shall cause the order to be served on the small business lend-
+ing company, non-Federally regulated lender, or other person
+involved.
+(2) Witnesses summoned before the Administrator shall be
+paid by the party at whose instance they were called the same
+fees and mileage that are paid witnesses in the courts of the
+United States.
+(3) A cease and desist order, suspension or revocation issued
+by the Administrator, after the hearing under this subsection
+is final agency action for purposes of chapter 7 of title 5,
+United States Code. An adversely aggrieved party shall have
+20 days from the date of issuance of the cease and desist order,
+suspension or revocation, to seek judicial review in an appro-
+priate district court.
+(g) REMOVAL OR SUSPENSION OF MANAGEMENT OFFICIAL.—
+(1) DEFINITION.—In this section, the term ‘‘management offi-
+cial’’ means, with respect to a small business lending company
+or a non-Federally regulated lender, an officer, director, gen-
+eral partner, manager, employee, agent, or other participant in
+the management of the affairs of the company’s or lender’s ac-
+tivities under section 7(a) of this Act.
+(2) REMOVAL OF MANAGEMENT OFFICIAL.—
+(A) NOTICE.—The Administrator may serve upon any
+management official a written notice of its intention to re-
+move that management official if, in the opinion of the Ad-
+ministrator, the management official—
+(i) willfully and knowingly commits a substantial
+violation of—
+(I) this Act;
+(II) any regulation issued under this Act;
+(III) a final cease-and-desist order under this
+Act; or
+(IV) any agreement by the management official,
+the small business lending company or non-Feder-
+ally regulated lender under this Act; or
+(ii) willfully and knowingly commits a substantial
+breach of a fiduciary duty of that person as a manage-
+ment official and the violation or breach of fiduciary
+duty is one involving personal dishonesty on the part
+of such management official.
+(B) CONTENTS OF NOTICE.—A notice under subparagraph
+(A) shall contain a statement of the facts constituting
+grounds therefor and shall fix a time and place at which
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6601 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+10
+a hearing, conducted pursuant to sections 554, 556, and
+557 of title 5, United States Code, will be held thereon.
+(C) HEARING.—
+(i) TIMING.—A hearing under subparagraph (B) shall
+be held not earlier than 30 days and later than 60
+days after the date of service of notice of the hearing,
+unless an earlier or a later date is set by the Adminis-
+trator at the request of—
+(I) the management official, and for good cause
+shown; or
+(II) the Attorney General.
+(ii) CONSENT.—Unless the management official ap-
+pears at a hearing under this paragraph in person or
+by a duly authorized representative, the management
+official shall be deemed to have consented to the
+issuance of an order of removal under subparagraph
+(A).
+(D) ORDER OF REMOVAL.—
+(i) IN GENERAL.—In the event of consent under sub-
+paragraph (C)(ii), or if upon the record made at a
+hearing under this subsection, the Administrator finds
+that any of the grounds specified in the notice of re-
+moval has been established, the Administrator may
+issue such orders of removal from office as the Admin-
+istrator deems appropriate.
+(ii) EFFECTIVENESS.—An order under clause (i)
+shall—
+(I) take effect 30 days after the date of service
+upon the subject small business lending company
+or non-Federally regulated lender and the man-
+agement official concerned (except in the case of
+an order issued upon consent as described in sub-
+paragraph (C)(ii), which shall become effective at
+the time specified in such order); and
+(II) remain effective and enforceable, except to
+such extent as it is stayed, modified, terminated,
+or set aside by action of the Administrator or a re-
+viewing court in accordance with this section.
+(3) AUTHORITY TO SUSPEND OR PROHIBIT PARTICIPATION.—
+(A) IN GENERAL.—In order to protect a small business
+lending company, a non-Federally regulated lender or the
+interests of the Administration or the United States, the
+Administrator may suspend from office or prohibit from
+further participation in any manner in the management or
+conduct of the affairs of a small business lending company
+or a non-Federally regulated lender a management official
+by written notice to such effect served upon the manage-
+ment official. Such suspension or prohibition may prohibit
+the management official from making, servicing, review-
+ing, approving, or liquidating any loan under section 7(a)
+of this Act.
+(B) EFFECTIVENESS.—A suspension or prohibition under
+subparagraph (A)—
+(i) shall take effect upon service of notice under
+paragraph (2); and
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6659 Sfmt 6601 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+11
+(ii) unless stayed by a court in proceedings author-
+ized by subparagraph (C), shall remain in effect—
+(I) pending the completion of the administrative
+proceedings pursuant to a notice of intention to re-
+move served under paragraph (2); and
+(II) until such time as the Administrator dis-
+misses the charges specified in the notice, or, if an
+order of removal or prohibition is issued against
+the management official, until the effective date of
+any such order.
+(C) JUDICIAL REVIEW OF SUSPENSION PRIOR TO HEAR-
+ING.—Not later than 10 days after a management official
+is suspended or prohibited from participation under sub-
+paragraph (A), the management official may apply to an
+appropriate district court for a stay of the suspension or
+prohibition pending the completion of the administrative
+proceedings pursuant to a notice of intent to remove
+served upon the management official under paragraph (2).
+(4) AUTHORITY TO SUSPEND ON CRIMINAL CHARGES.—
+(A) IN GENERAL.—If a management official is charged in
+any information, indictment, or complaint authorized by a
+United States attorney, with a felony involving dishonesty
+or breach of trust, the Administrator may, by written no-
+tice served upon the management official, suspend the
+management official from office or prohibit the manage-
+ment official from further participation in any manner in
+the management or conduct of the affairs of the small
+business lending company or non-Federally regulated lend-
+er.
+(B) EFFECTIVENESS.—A suspension or prohibition under
+subparagraph (A) shall remain in effect until the informa-
+tion, indictment, or complaint is finally disposed of, or
+until terminated by the Administrator or upon an order of
+a district court.
+(C) AUTHORITY UPON CONVICTION.—If a judgment of con-
+viction with respect to an offense described in subpara-
+graph (A) is entered against a management official, then
+at such time as the judgment is not subject to further judi-
+cial review (and for purposes of this subparagraph shall
+not include any petition for a writ of habeas corpus), the
+Administrator may issue and serve upon the management
+official an order removing the management official, effec-
+tive upon service of a copy of the order upon the small
+business lending company or non-Federally regulated lend-
+er.
+(D) AUTHORITY UPON DISMISSAL OR OTHER DISPOSITION.—
+A finding of not guilty or other disposition of charges de-
+scribed in subparagraph (A) shall not preclude the Admin-
+istrator from instituting proceedings under subsection (e)
+or (f).
+(5) NOTIFICATION TO SMALL BUSINESS LENDING COMPANY OR
+A NON-FEDERALLY REGULATED LENDER.—Copies of each notice
+required to be served on a management official under this sec-
+tion shall also be served upon the small business lending com-
+pany or non-Federally regulated lender involved.
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6659 Sfmt 6601 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+12
+(6) FINAL AGENCY ACTION AND JUDICIAL REVIEW.—
+(A) ISSUANCE OF ORDERS.—After a hearing under this
+subsection, and not later than 30 days after the Adminis-
+trator notifies the parties that the case has been submitted
+for final decision, the Administrator shall render a decision
+in the matter (which shall include findings of fact upon
+which its decision is predicated), and shall issue and cause
+to be served upon each party to the proceeding an order
+or orders consistent with this section. The decision of the
+Administrator shall constitute final agency action for pur-
+poses of chapter 7 of title 5, United States Code.
+(B) JUDICIAL REVIEW.—An adversely aggrieved party
+shall have 20 days from the date of issuance of the order
+to seek judicial review in an appropriate district court.
+(h) APPOINTMENT OF RECEIVER.—
+(1) In any proceeding under subsection (f)(4) or subsection
+(g)(6)(C), the court may take exclusive jurisdiction of a small
+business lending company or a non-Federally regulated lender
+and appoint a receiver to hold and administer the assets of the
+company or lender.
+(2) Upon request of the Administrator, the court may appoint
+the Administrator as a receiver under paragraph (1).
+(i) POSSESSION OF ASSETS.—
+(1) If a small business lending company or a non-Federally
+regulated lender is not in compliance with capital require-
+ments or is insolvent, the Administrator may take possession
+of the portfolio of loans guaranteed by the Administrator and
+sell such loans to a third party by means of a receiver ap-
+pointed under subsection (h).
+(2) If a small business lending company or a non-Federally
+regulated lender is not in compliance with capital require-
+ments or is insolvent or otherwise operating in an unsafe and
+unsound condition, the Administrator may take possession of
+servicing activities of loans that are guaranteed by the Admin-
+istrator and sell such servicing rights to a third party by
+means of a receiver appointed under subsection (h).
+(j) PENALTIES AND FORFEITURES.—
+(1) Except as provided in paragraph (2), a small business
+lending company or a non-Federally regulated lender which
+violates any regulation or written directive issued by the Ad-
+ministrator regarding the filing of any regular or special report
+shall pay to the United States a civil penalty of not more than
+$5,000 for each day of the continuance of the failure to file
+such report, unless it is shown that such failure is due to rea-
+sonable cause and not due to willful neglect. The civil penalties
+under this subsection may be enforced in a civil action brought
+by the Administrator. The penalties under this subsection shall
+not apply to any affiliate of a small business lending company
+that procures at least 10 percent of its annual purchasing re-
+quirements from small manufacturers.
+(2) The Administrator may by rules and regulations that
+shall be codified in the Code of Federal Regulations, after an
+opportunity for notice and comment, or upon application of an
+interested party, at any time previous to such failure, by order,
+after notice and opportunity for hearing which shall be con-
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6659 Sfmt 6601 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+13
+ducted pursuant to sections 554, 556, and 557 of title 5, United
+States Code, exempt in whole or in part, any small business
+lending company or non-Federally regulated lender from para-
+graph (1), upon such terms and conditions and for such period
+of time as it deems necessary and appropriate, if the Adminis-
+trator finds that such action is not inconsistent with the public
+interest or the protection of the Administration. The Adminis-
+trator may for the purposes of this section make any alter-
+native requirements appropriate to the situation.
+(k) LIMITATION ON NUMBER OF SMALL BUSINESS LENDING COM-
+PANIES.—The Administrator shall ensure that not more than 16
+small business lending companies that are not nonprofit entities are
+authorized to make loans under section 7 at any time.
+* * * * * * *
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00013 Fmt 6659 Sfmt 6601 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+XVIII. MINORITY VIEWS
+H.R. 2987, the ‘‘Capping Excessive Awarding of SBLC Entrants
+Act,’’ or ‘‘CEASE Act,’’ introduced by Representative Rob
+Bresnahan (R, PA) places a statutory moratorium on the number
+of Small Business Lending Company (SBLC) licenses that can be
+issued by the U.S. Small Business Administration (BA) at sixteen.
+SBLCs are non-depository lending institutions that are author-
+ized by the SBA to make 7(a) loans nationwide up to the pro-
+grammatic cap of $5 million per small business. There are cur-
+rently sixteen entities that have been awarded SBLC licenses to
+make 7(a) program loans.
+There has been bipartisan, bicameral, concern about the SBA’s
+ability to issue additional SBLC licenses for more than two years.
+Committee Democrats, first expressed concern about the SBA’s de-
+cision to amend its regulations to lift its previous moratorium on
+the licensing of new SBLCs, after the SBA made the announcement
+in April 2023, as part of its SBLC Moratorium Recession and Re-
+moval of the Requirement for a Loan Authorization rule.1
+Prior to finalization of the SBLC rule, the SBA had placed a mor-
+atorium on licensing new SBLCs since 1982, as it believed it did
+not have the necessary resources to properly supervise any new en-
+trants into the program. Prior to adoption of the rule, the only way
+for an interested lender to obtain an SBLC license was to acquire
+one from one of the fourteen license holders in existence at the
+time. Although there is no cap on the number of licenses that can
+be issued under the SBLC rule, in the proposed rule, the SBA stat-
+ed that based on the oversight capacity it had at the time, it be-
+lieved it had the ability to license and supervise three new SBLCs.2
+On Number 1, 2023, the SBA announced that it was granting
+three new SBLC licenses to lending companies.3 Arkansas Capital
+Corporation, Alaska Growth Capital BIDCO, Inc., and Funding Cir-
+cle were the three companies granted SBLC lienees.4 Shortly after
+being granted an SBLC license, Funding Circle’s U.K.-based parent
+company announced that it was selling its U.S.-subsidiary after the
+U.S.-based company reported an annual loss of approximately $5
+million in 2023.5 Funding Circle ultimately decided to return its
+newly granted SBLC license to the SBA upon the sale of its U.S.-
+subsidiary to Ready Capital, another SBLC company.6
+188 Fed. Reg. 21890 (April 12, 2023).
+287 Fed. Reg. 66963. Small Business Lending Company (SBLC) Moratorium Rescission and
+Removal of the Requirement for a Loan Authorization. Pg. 66964. (November 7, 2022).
+3U.S. SMALL BUSINESS ADMINISTRATION. ‘‘Biden-Harris Administration Takes Historic
+Step in Expanding Access to Capital and Filling Lending Gaps in Underserved Communities.’’
+(Archived New Release 23–86). (Nov. 1, 2023).
+4Id.
+5CHAKRAVARTY, RAJASHREE. ‘‘Funding Circle Sells its US Unit, Returns SBLC License.’’
+BANKING DIVE (Jun. 26, 2024).
+6Id.
+(14)
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00014 Fmt 6604 Sfmt 6604 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+15
+During the Committee’s markup session, Representative
+Bresnahan, the sponsor of H.R. 2987, stated that H.R. 2987 would
+statutorily limit the number of SBLC licenses at sixteen and no
+currently awarded SBLC licenses would be impacted.
+Given the controversy and upheaval associated with the award-
+ing of a SBLC license to Funding Circle, Committee Democrats also
+believe it is worth exploring the necessity of statutorily codifying
+the number of SBLC licenses at the currently issued number of six-
+teen. However, the text of H.R. 2987 is silent as to the morato-
+rium’s applicability to currently existing Community Advantage
+SBLC licenses.
+The Community Advantage program (CA program) began oper-
+ations in February 2011, as an SBA pilot program. The program
+is designed to facilitate smaller-dollar loans to small businesses
+that are new businesses or located in an underserved community.
+As part of the SBLC rule in 2023, the SBA transitioned the CA
+program from its original form as a pilot to a specifically des-
+ignated Community Advantage SBLC-licensed program. CA lenders
+who continued to be interested in making loans under the program
+were required to register with the SBA as CA SBLCs. Thus far,
+143 CA lenders have registered with the SBA as CA SBLCs.7
+The CA program has been hugely successful in facilitating small-
+er-dollar loans to small businesses that are new or located in an
+underserved community. In FY 2024, the Community Advantage
+program issued 1,118 loans valued at more than $196 million, with
+an average loan size of approximately $175,700.8 Thus far in FY
+2025, CA lenders have issued 800 loans, valued at approximately
+$132 million, with an average loan size of approximately $165,300.9
+Given the CA program’s demonstrated track record of bringing
+smaller-dollar capital awards to new and underserved small busi-
+ness, Committee Democrats, have long championed the program.
+Last Congress, Representative Judy Chu (D, CA) and I made sev-
+eral efforts to work with the Republican-majority to permanently
+codify the program, but those efforts proved unsuccessful.
+Committee Democrats believe the CA program needs to continue
+to grow and lenders with an interest in participating in the pro-
+gram need to be awarded a CA SBLC license, if they meet all the
+programmatic requirements for licensure. I am concerned that HR
+2987’s textual silence as to the SBLC moratorium’s applicability to
+the CA SBLC program could be interpreted by the Trump Adminis-
+tration or a future Presidential Administration as Congress’ direc-
+tive to the SBA to limit the number of CA SBLC licenses or even
+shutdown the program altogether. That could not be further from
+the truth.
+The standard practice would be for outstanding questions associ-
+ated with legislative text to be answered as part of a committee
+hearing with the SBA’s leadership or industry participants. Yet no
+such hearing on this legislation has been held. Committee Demo-
+crats opposed the legislation because of a lack of engagement with
+7Information provided by The Mission Lenders Working Group. (Provided on January 29,
+2025). On file with Small Business Committee Staff.
+8U.S. SMALL BUS. ADMIN., 7(a) & 504 Summary Report, (Data as of: Apr. 25, 2025). (Last
+Accessed: Apr. 25, 2025).
+9Id.
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00015 Fmt 6604 Sfmt 6604 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba
+
+16
+the SBA, all necessary industry partners, and a due diligence re-
+view required to support the legislation.
+So, while Committee Democrats remain concerned about the
+SBA’s ability to award an unlimited number of new SBLC licenses,
+central questions regarding the legislation’s text remain and there-
+fore Democrats cannot support the legislation in its current form.
+NYDIA M. VELA ´ ZQUEZ,
+Ranking Member.
+Æ
+VerDate Sep 11 2014 02:42 May 29, 2025 Jkt 059006 PO 00000 Frm 00016 Fmt 6604 Sfmt 6611 E:\HR\OC\HR107.XXX HR107
+GNIRAEH
+htiw
+DORP32NS521KSD
+no
+iksraleiba

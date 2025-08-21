@@ -1,0 +1,1341 @@
+Title: JUNE6, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JUNE6, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 10
+Source: documents - H. Rept. 119-148
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–148
+SECURE OUR PORTS ACT OF 2025
+the Union and ordered to be printed
+Mr. GRAVES, from the Committee on Transportation and
+Infrastructure, submitted the following
+R E P O R T
+[To accompany H.R. 252]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Transportation and Infrastructure, to whom
+was referred the bill (H.R. 252) to amend title 46, United States
+Code, to prohibit certain contracts for port operations and manage-
+ment, and for other purposes, having considered the same, reports
+favorably thereon with an amendment and recommends that the
+bill as amended do pass.
+CONTENTS
+Page
+Purpose of Legislation ............................................................................................. 2
+Background and Need for Legislation .................................................................... 2
+Hearings ................................................................................................................... 2
+Legislative History and Consideration .................................................................. 3
+Committee Votes ...................................................................................................... 3
+Committee Oversight Findings and Recommendations ........................................ 3
+New Budget Authority and Tax Expenditures ...................................................... 3
+Congressional Budget Office Cost Estimate .......................................................... 3
+Performance Goals and Objectives ......................................................................... 7
+Duplication of Federal Programs ............................................................................ 7
+Congressional Earmarks, Limited Tax Benefits, and Limited Tariff Benefits ... 7
+Federal Mandates Statement ................................................................................. 7
+Preemption Clarification ......................................................................................... 7
+Advisory Committee Statement .............................................................................. 7
+Applicability to Legislative Branch ........................................................................ 7
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 8
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+2
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Secure Our Ports Act of 2025’’.
+SEC. 2. PROHIBITION ON CERTAIN CONTRACTS FOR PORT OPERATION AND MANAGEMENT.
+(a) IN GENERAL.—Subchapter II of chapter 700 of title 46, United States Code, is
+amended by adding at the end the following:
+‘‘§70015. Prohibition on certain contracts for port operation and manage-
+ment
+‘‘(a) IN GENERAL.—An owner or operator of a facility for which a facility security
+plan is required under section 70103(c) of this title may not enter into a contract
+for the ownership, leasing, or operation of such facility with an entity that is—
+‘‘(1) a Chinese, Russian, North Korean, or Iranian state-owned enterprise; or
+‘‘(2) a foreign entity for which any percentage is owned by a country listed
+in paragraph (1).
+‘‘(b) DEFINITIONS.—In this section, the terms ‘facility’, and ‘owner or operator’
+have the meanings given such terms in section 70101 of this title.’’.
+(b) CLERICALAMENDMENT.—The analysis for chapter 700 of title 46, United States
+Code, is amended by inserting after the item relating to section 70014 the following:
+‘‘70015. Prohibition on certain contracts for port operation and management.’’.
+PURPOSE OF LEGISLATION
+The purpose of H.R. 252, as amended, is to amend title 46,
+United States Code, to prohibit certain contracts for port operations
+and management, and for other purposes.
+BACKGROUND AND NEED FOR LEGISLATION
+H.R. 252, as amended, prohibits owners or operators of a facility
+for which a facility security plan is required under section 70103(c)
+of title 46, United States Code from entering into contracts for the
+ownership, leasing, or operation of the facility with a Chinese, Rus-
+sian, North Korean, or Iranian state-owned enterprise. This in-
+cludes a prohibition on entering into contracts for the ownership,
+leasing, or operation of a facility with a foreign entity for which
+any percentage is owned by a Chinese, Russian, North Korean, or
+Iranian state-owned enterprise.
+Facility security plans are required for facilities the Secretary be-
+lieves may be involved in a transportation security incident, exclud-
+ing any facilities owned or operated by the Department of Defense.1
+The plan must be approved by the Secretary and the facility must
+operate in accordance with the plan unless a waiver is approved by
+the Secretary.2 Accordingly, any facility that is required to have a
+facility security plan is important to maritime security. It would be
+dangerous to the security of United States supply chains and port
+terminals for any of these identified facilities to be subject to the
+control of Chinese, Russian, North Korean, or Iranian state-owned
+enterprises. H.R. 252, as amended, is critical to maintaining the
+United States’ National security.
+HEARINGS
+For the purposes of rule XIII, clause 3(c)(6)(A) of the 118th Con-
+gress the following hearing was used to develop or consider H.R.
+252:
+The Subcommittee on Coast Guard and Maritime Transportation
+held a hearing entitled, ‘‘America Builds: Maritime Infrastructure’’
+on February 5, 2025, to examine the state of the Nation’s maritime
+146 U.S.C. 70103(c).
+2Id.
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+3
+infrastructure. The Subcommittee received testimony from Mr.
+Paul Anderson, President and Chief Executive Officer, Port Tampa
+Bay; Mr. Joe Rella, President St. John’s Shipbuilding Inc. on behalf
+of Shipbuilders Council of America; Mr. Tom Reynolds, Chief Strat-
+egy Officer, Seasats on behalf of Association for Uncrewed Vehicle
+Systems International; and Mr. Brian Schoeneman, Political and
+Legislative Director, Seafarers International Union of North Amer-
+ica on behalf of USA Maritime.
+LEGISLATIVE HISTORY AND CONSIDERATION
+H.R. 252, the Secure Our Ports Act of 2025, was introduced in
+the United States House of Representatives on January 9, 2025, by
+Rep. Ken Calvert and referred to the Committee on Transportation
+and Infrastructure. Within the Committee on Transportation and
+Infrastructure, H.R. 252 was referred to the Subcommittee on
+Coast Guard and Maritime Transportation. The Subcommittee on
+Coast Guard and Maritime Transportation was discharged from
+further consideration of H.R. 252 on April 2, 2025.
+The Committee considered H.R. 252 on April 2, 2025, and or-
+dered the measure to be reported to the House with a favorable
+recommendation, with amendment, by voice vote.
+An Amendment in the Nature of a Substitute to H.R. 252, offered
+by Mr. Ezell of Mississippi; was AGREED TO by voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires each committee report to include the total number of
+votes cast for and against on each record vote on a motion to report
+and on any amendment offered to the measure or matter, and the
+names of those members voting for and against.
+No recorded votes were requested for H.R. 252.
+COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+With respect to the requirements of clause 3(c)(1) of rule XIII of
+the Rules of the House of Representatives, the Committee’s over-
+sight findings and recommendations are reflected in this report.
+NEW BUDGET AUTHORITY AND TAX EXPENDITURES
+Clause 3(c)(2) of rule XIII of the Rules of the House of Represent-
+atives does not apply where a cost estimate and comparison pre-
+pared by the Director of the Congressional Budget Office under sec-
+tion 402 of the Congressional Budget Act of 1974 has been timely
+submitted prior to the filing of the report and is included in the re-
+port. Such a cost estimate is included in this report.
+CONGRESSIONAL BUDGET OFFICE COST ESTIMATE
+With respect to the requirement of clause 3(c)(3) of rule XIII of
+the Rules of the House of Representatives and section 402 of the
+Congressional Budget Act of 1974, the Committee has received the
+enclosed cost estimate for H.R. 252, as amended, from the Director
+of the Congressional Budget Office:
+The Majority Leader of the House of Representatives announces
+bills that will be considered under suspension of the rules in that
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+4
+chamber. Under suspension, floor debate is limited, all floor
+amendments are prohibited, points of order against the bill are
+waived, and final passage requires a two-thirds majority vote.
+At the request of the Majority Leader and the House Committee
+on the Budget, CBO estimates the effects of those bills on direct
+spending and revenues. CBO has limited time to review the legisla-
+tion before consideration. Although it is possible in most cases to
+determine whether the legislation would affect direct spending or
+revenues, time may be insufficient to estimate the magnitude of
+those effects. If CBO has prepared estimates for similar or identical
+legislation, a more detailed assessment of budgetary effects, includ-
+ing effects on spending subject to appropriation, may be included.
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+5
+sevitatneserpeR
+fo
+esuoH
+eht
+ni
+seluR
+eht
+fo
+noisnepsuS
+rednU deredisnoC
+noitalsigeL
+fo
+seuneveR
+dna
+gnidnepS
+tceriD
+no stceffE
+5202 ,9 enuJ
+fo
+keeW
+vog.esuoh.scod
+ta
+txet
+llib
+noisnepsuS
+setamitse
+dehsilbup
+ot
+kniL
+gnidneps
+t c s e t r c i e d f f n e o e n u o n i e t v a e m r r d of n n a i
+lanoitiddA
+seunever
+no
+tceffE
+tce
+r g id ni d n n o e t p c s effE
+eltiT
+rebmun
+lliB
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+...........................................................
+....................
+enoN
+....................
+enoN
+-tnuoccA
+dna ycnerapsnarT kartmA
+...
+881
+.R.H
+.fdp.lmx_hr_881h/90605202
+.13016
+-xaT
+dna
+sregnessaP rof ytiliba .dednema sa ,tcA sreyap
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+...........................................................
+....................
+enoN
+....................
+enoN
+...........tcA
+draoB no gnignahC
+ybaB
+...
+842
+.R.H
+.fdp.lmx_hr_842h/90605202
+.26416
+/keewsihtsllib/vog.esuoh.scod//:sptth
+...........................................................
+...........................................................
+....................
+enoN
+....................
+enoN
+.. dednema
+sa ,tcA stroP ruO eruceS
+...
+252
+.R.H
+.fdp.lmx_hr_252h/90605202
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+...........................................................
+....................
+enoN
+....................
+enoN
+dna
+ytefaS
+rednilyC saG desserpmoC
+2811
+.R.H
+.fdp.lmx_HR_2811H/90605202
+.57216
+fo
+tcA
+stnemevorpmI thgisrevO .5202
+/keewsihtsllib/vog.esuoh.scod//:sptth
+...........................................................
+...........................................................
+....................
+enoN
+....................
+enoN
+-snarT
+ytirohtuA yellaV eessenneT
+3731
+.R.H
+.fdp.lmx_HR_3731H/90605202
+.dednema
+sa ,5202 fo tcA ycnerap
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+...........................................................
+....................
+enoN
+sseL
+yb ecudeR
+lanoitanretnI
+eht ezirohtua
+oT
+8491
+.R.H
+.fdp.lmx_hr_8491h/90605202
+.85316
+.K005$
+nahT
+noissimmoC
+retaW dna yradnuoB
+-er
+seitivitca
+rof sdnuf tpecca
+ot
+tnemtaert
+retawetsaw ot gnital
+rof
+dna
+,skrow lortnoc doolf dna .sesoprup rehto
+/keewsihtsllib/vog.esuoh.scod//:sptth
+...........................................................
+...........................................................
+....................
+enoN
+sseL
+yb esaercnI
+spihS
+naciremA
+rof ograC naciremA
+5302
+.R.H
+.fdp.lmx_HR_5302H/90605202
+.K005$
+nahT
+.tcA
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+...........................................................
+....................
+enoN
+....................
+enoN
+eht
+fo
+tnadnammoC eht tcerid
+oT
+1532
+.R.H
+.fdp.]1[lmx_hr_1532h/90605202
+.64416
+ycilop
+eht
+etadpu ot drauG tsaoC
+eht
+gnidrager
+drauG tsaoC eht
+fo
+gurd
+taert
+ot noitacidem fo esu
+.sesoprup
+rehto rof dna ,esodrevo
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+...........................................................
+....................
+enoN
+....................
+enoN
+tcA
+ytiruceS
+niahC ylppuS emitiraM
+0932
+.R.H
+.fdp.lmx_hr_0932h/90605202
+.73416
+/keewsihtsllib/vog.esuoh.scod//:sptth
+...........................................................
+...........................................................
+....................
+enoN
+....................
+enoN
+yrellaG
+sserP
+esuoH eht gnitangiseD
+731
+.seR
+.H
+.fdp.lmx_HR_731RH/90605202
+,713–H
+,613–H ,513–H smooR(
+detinU
+eht
+fo 913–H dna ,813–H
+kcirederF‘‘
+eht sa )lotipaC setatS
+sa
+,’’yrellaG sserP ssalguoD .dednema
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+6
+deunitnoC—sevitatneserpeR
+fo
+esuoH
+eht
+ni
+seluR
+eht
+fo
+noisnepsuS rednU
+deredisnoC
+noitalsigeL
+fo
+seuneveR
+dna
+gnidnepS
+tceriD
+no
+stceffE
+5202 ,9 enuJ
+fo
+keeW
+vog.esuoh.scod
+ta
+txet
+llib
+noisnepsuS
+setamitse
+dehsilbup
+ot
+kniL
+gnidneps
+t c s e t r c i e d f f n e o e n u o n i e t v a e m r r d of n n a i
+lanoitiddA
+seunever
+no
+tceffE
+tce
+r g id ni
+d n n o e t p c s effE
+eltiT
+rebmun
+lliB
+/keewsihtsllib/vog.esuoh.scod//:sptth
+...........................................................
+...........................................................
+....................
+enoN
+....................
+enoN
+tsirorret
+citimesitna
+eht gnicnuoneD
+.....
+.seR
+.H
+02%02%seR02%H/90605202
+.odaroloC
+,redluoB
+ni
+kcatta
+.fdp.)snavE(
+/keewsihtsllib/vog.esuoh.scod//:sptth
+...........................................................
+...........................................................
+....................
+enoN
+....................
+enoN
+yllacigoloedi
+ni
+esir
+eht gninmednoC
+.....
+.seR
+.H
+02%02%seR02%H/90605202
+-idni
+hsiweJ
+no
+skcatta
+detavitom
+.fdp.)werD02%naV(
+-ni
+,setatS
+detinU
+eht ni
+slaudiv
+tluassa
+tneloiv
+tnecer
+eht
+gnidulc
+-er
+dna
+,odaroloC
+,redluoB
+ni
+-peR
+fo
+esuoH
+eht gnimriffa
+-moc
+ot
+tnemtimmoc
+sevitatneser
+-itilop
+dna
+msitimesitna
+gnitab
+.ecneloiv
+detavitom
+yllac
+eciffO
+tegduB
+lanoissergnoC
+:ecruoS
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+7
+PERFORMANCE GOALS AND OBJECTIVES
+With respect to the requirement of clause 3(c)(4) of rule XIII of
+the Rules of the House of Representatives, the performance goal
+and objective of this legislation is to prohibit Chinese, Russian,
+North Korean, or Iranian state-owned enterprises, or an entity
+with any percent ownership of those countries, from entering into
+contracts for the ownership, leasing, or operation of port facilities
+that are subject to facility security plans.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee finds that no provision of H.R.
+252, as amended, establishes or reauthorizes a program of the Fed-
+eral government known to be duplicative of another Federal pro-
+gram, a program that was included in any report from the Govern-
+ment Accountability Office to Congress pursuant to section 21 of
+Public Law 111–139, or a program related to a program identified
+in the most recent Catalog of Federal Domestic Assistance.
+CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND LIMITED
+TARIFF BENEFITS
+In compliance with clause 9 of rule XXI of the Rules of the House
+of Representatives, this bill, as reported, contains no congressional
+earmarks, limited tax benefits, or limited tariff benefits as defined
+in clause 9(e), 9(f), or 9(g) of Rule XXI.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act
+(Public Law 104–4).
+PREEMPTION CLARIFICATION
+
+Section 4:
+Section 423 of the Congressional Budget Act of 1974 requires the
+report of any Committee on a bill or joint resolution to include a
+statement on the extent to which the bill or joint resolution is in-
+tended to preempt state, local, or tribal law. The Committee finds
+that H.R. 252, as amended, does not preempt any state, local, or
+tribal law.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the definition of Section 5(b) of
+Public Law 92–463 (5 U.S.C. 1004 (b)), United States Code, are cre-
+ated by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act (Public Law 104–1).
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+8
+
+Section 5:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 6:
+Section 1. Short title
+This section provides that this bill may be cited as the ‘‘Secure
+Our Ports Act of 2025’’.
+
+Section 7:
+Section 2. Prohibition on certain contracts for port operation and
+management
+This section amends Subchapter II of Chapter 700 of title 46,
+United States Code, by prohibiting owners or operators of a facility
+for which a facility security plan is required under section 70103(c)
+of this title from entering into contracts for the ownership, leasing,
+or operation of the facility with a Chinese, Russian, North Korean,
+or Iranian state-owned enterprise.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italic,
+existing law in which no change is proposed is shown in roman):
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+TITLE 46, UNITED STATES CODE
+* * * * * * *
+SUBTITLE VII—SECURITY AND DRUG
+ENFORCEMENT
+* * * * * * *
+CHAPTER 700—PORTS AND WATERWAYS SAFETY
+SUBCHAPTER I—VESSEL OPERATIONS
+Sec.
+
+Section 8:
+70001. Vessel traffic services.
+* * * * * * *
+SUBCHAPTER II—PORTS AND WATERWAYS SAFETY
+* * * * * * *
+
+Section 9:
+70015. Prohibition on certain contracts for port operation and management.
+* * * * * * *
+SUBCHAPTER II—PORTS AND WATERWAYS SAFETY
+* * * * * * *
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+9
+
+Section 10:
+§70015. Prohibition on certain contracts for port operation
+and management
+(a) IN GENERAL.—An owner or operator of a facility for which a
+facility security plan is required under section 70103(c) of this title
+may not enter into a contract for the ownership, leasing, or oper-
+ation of such facility with an entity that is—
+(1) a Chinese, Russian, North Korean, or Iranian state-owned
+enterprise; or
+(2) a foreign entity for which any percentage is owned by a
+country listed in paragraph (1).
+(b) DEFINITIONS.—In this section, the terms ‘‘facility’’, and ‘‘owner
+or operator’’ have the meanings given such terms in section 70101
+of this title.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6611 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–148
+SECURE OUR PORTS ACT OF 2025
+JUNE6, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. GRAVES, from the Committee on Transportation and
+Infrastructure, submitted the following
+R E P O R T
+[To accompany H.R. 252]
+[Including cost estimate of the Congressional Budget Office]
+The Committee on Transportation and Infrastructure, to whom
+was referred the bill (H.R. 252) to amend title 46, United States
+Code, to prohibit certain contracts for port operations and manage-
+ment, and for other purposes, having considered the same, reports
+favorably thereon with an amendment and recommends that the
+bill as amended do pass.
+CONTENTS
+Page
+Purpose of Legislation ............................................................................................. 2
+Background and Need for Legislation .................................................................... 2
+Hearings ................................................................................................................... 2
+Legislative History and Consideration .................................................................. 3
+Committee Votes ...................................................................................................... 3
+Committee Oversight Findings and Recommendations ........................................ 3
+New Budget Authority and Tax Expenditures ...................................................... 3
+Congressional Budget Office Cost Estimate .......................................................... 3
+Performance Goals and Objectives ......................................................................... 7
+Duplication of Federal Programs ............................................................................ 7
+Congressional Earmarks, Limited Tax Benefits, and Limited Tariff Benefits ... 7
+Federal Mandates Statement ................................................................................. 7
+Preemption Clarification ......................................................................................... 7
+Advisory Committee Statement .............................................................................. 7
+Applicability to Legislative Branch ........................................................................ 7
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 8
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+59–006
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6602 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+2
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Secure Our Ports Act of 2025’’.
+SEC. 2. PROHIBITION ON CERTAIN CONTRACTS FOR PORT OPERATION AND MANAGEMENT.
+(a) IN GENERAL.—Subchapter II of chapter 700 of title 46, United States Code, is
+amended by adding at the end the following:
+‘‘§70015. Prohibition on certain contracts for port operation and manage-
+ment
+‘‘(a) IN GENERAL.—An owner or operator of a facility for which a facility security
+plan is required under section 70103(c) of this title may not enter into a contract
+for the ownership, leasing, or operation of such facility with an entity that is—
+‘‘(1) a Chinese, Russian, North Korean, or Iranian state-owned enterprise; or
+‘‘(2) a foreign entity for which any percentage is owned by a country listed
+in paragraph (1).
+‘‘(b) DEFINITIONS.—In this section, the terms ‘facility’, and ‘owner or operator’
+have the meanings given such terms in section 70101 of this title.’’.
+(b) CLERICALAMENDMENT.—The analysis for chapter 700 of title 46, United States
+Code, is amended by inserting after the item relating to section 70014 the following:
+‘‘70015. Prohibition on certain contracts for port operation and management.’’.
+PURPOSE OF LEGISLATION
+The purpose of H.R. 252, as amended, is to amend title 46,
+United States Code, to prohibit certain contracts for port operations
+and management, and for other purposes.
+BACKGROUND AND NEED FOR LEGISLATION
+H.R. 252, as amended, prohibits owners or operators of a facility
+for which a facility security plan is required under section 70103(c)
+of title 46, United States Code from entering into contracts for the
+ownership, leasing, or operation of the facility with a Chinese, Rus-
+sian, North Korean, or Iranian state-owned enterprise. This in-
+cludes a prohibition on entering into contracts for the ownership,
+leasing, or operation of a facility with a foreign entity for which
+any percentage is owned by a Chinese, Russian, North Korean, or
+Iranian state-owned enterprise.
+Facility security plans are required for facilities the Secretary be-
+lieves may be involved in a transportation security incident, exclud-
+ing any facilities owned or operated by the Department of Defense.1
+The plan must be approved by the Secretary and the facility must
+operate in accordance with the plan unless a waiver is approved by
+the Secretary.2 Accordingly, any facility that is required to have a
+facility security plan is important to maritime security. It would be
+dangerous to the security of United States supply chains and port
+terminals for any of these identified facilities to be subject to the
+control of Chinese, Russian, North Korean, or Iranian state-owned
+enterprises. H.R. 252, as amended, is critical to maintaining the
+United States’ National security.
+HEARINGS
+For the purposes of rule XIII, clause 3(c)(6)(A) of the 118th Con-
+gress the following hearing was used to develop or consider H.R.
+252:
+The Subcommittee on Coast Guard and Maritime Transportation
+held a hearing entitled, ‘‘America Builds: Maritime Infrastructure’’
+on February 5, 2025, to examine the state of the Nation’s maritime
+146 U.S.C. 70103(c).
+2Id.
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+3
+infrastructure. The Subcommittee received testimony from Mr.
+Paul Anderson, President and Chief Executive Officer, Port Tampa
+Bay; Mr. Joe Rella, President St. John’s Shipbuilding Inc. on behalf
+of Shipbuilders Council of America; Mr. Tom Reynolds, Chief Strat-
+egy Officer, Seasats on behalf of Association for Uncrewed Vehicle
+Systems International; and Mr. Brian Schoeneman, Political and
+Legislative Director, Seafarers International Union of North Amer-
+ica on behalf of USA Maritime.
+LEGISLATIVE HISTORY AND CONSIDERATION
+H.R. 252, the Secure Our Ports Act of 2025, was introduced in
+the United States House of Representatives on January 9, 2025, by
+Rep. Ken Calvert and referred to the Committee on Transportation
+and Infrastructure. Within the Committee on Transportation and
+Infrastructure, H.R. 252 was referred to the Subcommittee on
+Coast Guard and Maritime Transportation. The Subcommittee on
+Coast Guard and Maritime Transportation was discharged from
+further consideration of H.R. 252 on April 2, 2025.
+The Committee considered H.R. 252 on April 2, 2025, and or-
+dered the measure to be reported to the House with a favorable
+recommendation, with amendment, by voice vote.
+An Amendment in the Nature of a Substitute to H.R. 252, offered
+by Mr. Ezell of Mississippi; was AGREED TO by voice vote.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires each committee report to include the total number of
+votes cast for and against on each record vote on a motion to report
+and on any amendment offered to the measure or matter, and the
+names of those members voting for and against.
+No recorded votes were requested for H.R. 252.
+COMMITTEE OVERSIGHT FINDINGS AND RECOMMENDATIONS
+With respect to the requirements of clause 3(c)(1) of rule XIII of
+the Rules of the House of Representatives, the Committee’s over-
+sight findings and recommendations are reflected in this report.
+NEW BUDGET AUTHORITY AND TAX EXPENDITURES
+Clause 3(c)(2) of rule XIII of the Rules of the House of Represent-
+atives does not apply where a cost estimate and comparison pre-
+pared by the Director of the Congressional Budget Office under sec-
+tion 402 of the Congressional Budget Act of 1974 has been timely
+submitted prior to the filing of the report and is included in the re-
+port. Such a cost estimate is included in this report.
+CONGRESSIONAL BUDGET OFFICE COST ESTIMATE
+With respect to the requirement of clause 3(c)(3) of rule XIII of
+the Rules of the House of Representatives and section 402 of the
+Congressional Budget Act of 1974, the Committee has received the
+enclosed cost estimate for H.R. 252, as amended, from the Director
+of the Congressional Budget Office:
+The Majority Leader of the House of Representatives announces
+bills that will be considered under suspension of the rules in that
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+4
+chamber. Under suspension, floor debate is limited, all floor
+amendments are prohibited, points of order against the bill are
+waived, and final passage requires a two-thirds majority vote.
+At the request of the Majority Leader and the House Committee
+on the Budget, CBO estimates the effects of those bills on direct
+spending and revenues. CBO has limited time to review the legisla-
+tion before consideration. Although it is possible in most cases to
+determine whether the legislation would affect direct spending or
+revenues, time may be insufficient to estimate the magnitude of
+those effects. If CBO has prepared estimates for similar or identical
+legislation, a more detailed assessment of budgetary effects, includ-
+ing effects on spending subject to appropriation, may be included.
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+5
+sevitatneserpeR
+fo
+esuoH
+eht
+ni
+seluR
+eht
+fo
+noisnepsuS
+rednU deredisnoC
+noitalsigeL
+fo
+seuneveR
+dna
+gnidnepS
+tceriD
+no stceffE
+5202 ,9 enuJ
+fo
+keeW
+vog.esuoh.scod
+ta
+txet
+llib
+noisnepsuS
+setamitse
+dehsilbup
+ot
+kniL
+gnidneps
+t c s e t r c i e d f f n e o e n u o n i e t v a e m r r d of n n a i
+lanoitiddA
+seunever
+no
+tceffE
+tce
+r g id ni d n n o e t p c s effE
+eltiT
+rebmun
+lliB
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+...........................................................
+....................
+enoN
+....................
+enoN
+-tnuoccA
+dna ycnerapsnarT kartmA
+...
+881
+.R.H
+.fdp.lmx_hr_881h/90605202
+.13016
+-xaT
+dna
+sregnessaP rof ytiliba .dednema sa ,tcA sreyap
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+...........................................................
+....................
+enoN
+....................
+enoN
+...........tcA
+draoB no gnignahC
+ybaB
+...
+842
+.R.H
+.fdp.lmx_hr_842h/90605202
+.26416
+/keewsihtsllib/vog.esuoh.scod//:sptth
+...........................................................
+...........................................................
+....................
+enoN
+....................
+enoN
+.. dednema
+sa ,tcA stroP ruO eruceS
+...
+252
+.R.H
+.fdp.lmx_hr_252h/90605202
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+...........................................................
+....................
+enoN
+....................
+enoN
+dna
+ytefaS
+rednilyC saG desserpmoC
+2811
+.R.H
+.fdp.lmx_HR_2811H/90605202
+.57216
+fo
+tcA
+stnemevorpmI thgisrevO .5202
+/keewsihtsllib/vog.esuoh.scod//:sptth
+...........................................................
+...........................................................
+....................
+enoN
+....................
+enoN
+-snarT
+ytirohtuA yellaV eessenneT
+3731
+.R.H
+.fdp.lmx_HR_3731H/90605202
+.dednema
+sa ,5202 fo tcA ycnerap
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+...........................................................
+....................
+enoN
+sseL
+yb ecudeR
+lanoitanretnI
+eht ezirohtua
+oT
+8491
+.R.H
+.fdp.lmx_hr_8491h/90605202
+.85316
+.K005$
+nahT
+noissimmoC
+retaW dna yradnuoB
+-er
+seitivitca
+rof sdnuf tpecca
+ot
+tnemtaert
+retawetsaw ot gnital
+rof
+dna
+,skrow lortnoc doolf dna .sesoprup rehto
+/keewsihtsllib/vog.esuoh.scod//:sptth
+...........................................................
+...........................................................
+....................
+enoN
+sseL
+yb esaercnI
+spihS
+naciremA
+rof ograC naciremA
+5302
+.R.H
+.fdp.lmx_HR_5302H/90605202
+.K005$
+nahT
+.tcA
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+...........................................................
+....................
+enoN
+....................
+enoN
+eht
+fo
+tnadnammoC eht tcerid
+oT
+1532
+.R.H
+.fdp.]1[lmx_hr_1532h/90605202
+.64416
+ycilop
+eht
+etadpu ot drauG tsaoC
+eht
+gnidrager
+drauG tsaoC eht
+fo
+gurd
+taert
+ot noitacidem fo esu
+.sesoprup
+rehto rof dna ,esodrevo
+/keewsihtsllib/vog.esuoh.scod//:sptth
+/noitacilbup/vog.obc.www//:sptth
+...........................................................
+....................
+enoN
+....................
+enoN
+tcA
+ytiruceS
+niahC ylppuS emitiraM
+0932
+.R.H
+.fdp.lmx_hr_0932h/90605202
+.73416
+/keewsihtsllib/vog.esuoh.scod//:sptth
+...........................................................
+...........................................................
+....................
+enoN
+....................
+enoN
+yrellaG
+sserP
+esuoH eht gnitangiseD
+731
+.seR
+.H
+.fdp.lmx_HR_731RH/90605202
+,713–H
+,613–H ,513–H smooR(
+detinU
+eht
+fo 913–H dna ,813–H
+kcirederF‘‘
+eht sa )lotipaC setatS
+sa
+,’’yrellaG sserP ssalguoD .dednema
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+6
+deunitnoC—sevitatneserpeR
+fo
+esuoH
+eht
+ni
+seluR
+eht
+fo
+noisnepsuS rednU
+deredisnoC
+noitalsigeL
+fo
+seuneveR
+dna
+gnidnepS
+tceriD
+no
+stceffE
+5202 ,9 enuJ
+fo
+keeW
+vog.esuoh.scod
+ta
+txet
+llib
+noisnepsuS
+setamitse
+dehsilbup
+ot
+kniL
+gnidneps
+t c s e t r c i e d f f n e o e n u o n i e t v a e m r r d of n n a i
+lanoitiddA
+seunever
+no
+tceffE
+tce
+r g id ni
+d n n o e t p c s effE
+eltiT
+rebmun
+lliB
+/keewsihtsllib/vog.esuoh.scod//:sptth
+...........................................................
+...........................................................
+....................
+enoN
+....................
+enoN
+tsirorret
+citimesitna
+eht gnicnuoneD
+.....
+.seR
+.H
+02%02%seR02%H/90605202
+.odaroloC
+,redluoB
+ni
+kcatta
+.fdp.)snavE(
+/keewsihtsllib/vog.esuoh.scod//:sptth
+...........................................................
+...........................................................
+....................
+enoN
+....................
+enoN
+yllacigoloedi
+ni
+esir
+eht gninmednoC
+.....
+.seR
+.H
+02%02%seR02%H/90605202
+-idni
+hsiweJ
+no
+skcatta
+detavitom
+.fdp.)werD02%naV(
+-ni
+,setatS
+detinU
+eht ni
+slaudiv
+tluassa
+tneloiv
+tnecer
+eht
+gnidulc
+-er
+dna
+,odaroloC
+,redluoB
+ni
+-peR
+fo
+esuoH
+eht gnimriffa
+-moc
+ot
+tnemtimmoc
+sevitatneser
+-itilop
+dna
+msitimesitna
+gnitab
+.ecneloiv
+detavitom
+yllac
+eciffO
+tegduB
+lanoissergnoC
+:ecruoS
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+7
+PERFORMANCE GOALS AND OBJECTIVES
+With respect to the requirement of clause 3(c)(4) of rule XIII of
+the Rules of the House of Representatives, the performance goal
+and objective of this legislation is to prohibit Chinese, Russian,
+North Korean, or Iranian state-owned enterprises, or an entity
+with any percent ownership of those countries, from entering into
+contracts for the ownership, leasing, or operation of port facilities
+that are subject to facility security plans.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee finds that no provision of H.R.
+252, as amended, establishes or reauthorizes a program of the Fed-
+eral government known to be duplicative of another Federal pro-
+gram, a program that was included in any report from the Govern-
+ment Accountability Office to Congress pursuant to section 21 of
+Public Law 111–139, or a program related to a program identified
+in the most recent Catalog of Federal Domestic Assistance.
+CONGRESSIONAL EARMARKS, LIMITED TAX BENEFITS, AND LIMITED
+TARIFF BENEFITS
+In compliance with clause 9 of rule XXI of the Rules of the House
+of Representatives, this bill, as reported, contains no congressional
+earmarks, limited tax benefits, or limited tariff benefits as defined
+in clause 9(e), 9(f), or 9(g) of Rule XXI.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act
+(Public Law 104–4).
+PREEMPTION CLARIFICATION
+Section 423 of the Congressional Budget Act of 1974 requires the
+report of any Committee on a bill or joint resolution to include a
+statement on the extent to which the bill or joint resolution is in-
+tended to preempt state, local, or tribal law. The Committee finds
+that H.R. 252, as amended, does not preempt any state, local, or
+tribal law.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the definition of Section 5(b) of
+Public Law 92–463 (5 U.S.C. 1004 (b)), United States Code, are cre-
+ated by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act (Public Law 104–1).
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+8
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+This section provides that this bill may be cited as the ‘‘Secure
+Our Ports Act of 2025’’.
+Section 2. Prohibition on certain contracts for port operation and
+management
+This section amends Subchapter II of Chapter 700 of title 46,
+United States Code, by prohibiting owners or operators of a facility
+for which a facility security plan is required under section 70103(c)
+of this title from entering into contracts for the ownership, leasing,
+or operation of the facility with a Chinese, Russian, North Korean,
+or Iranian state-owned enterprise.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italic,
+existing law in which no change is proposed is shown in roman):
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (new matter is printed in italics
+and existing law in which no change is proposed is shown in
+roman):
+TITLE 46, UNITED STATES CODE
+* * * * * * *
+SUBTITLE VII—SECURITY AND DRUG
+ENFORCEMENT
+* * * * * * *
+CHAPTER 700—PORTS AND WATERWAYS SAFETY
+SUBCHAPTER I—VESSEL OPERATIONS
+Sec.
+70001. Vessel traffic services.
+* * * * * * *
+SUBCHAPTER II—PORTS AND WATERWAYS SAFETY
+* * * * * * *
+70015. Prohibition on certain contracts for port operation and management.
+* * * * * * *
+SUBCHAPTER II—PORTS AND WATERWAYS SAFETY
+* * * * * * *
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6601 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD
+
+9
+§70015. Prohibition on certain contracts for port operation
+and management
+(a) IN GENERAL.—An owner or operator of a facility for which a
+facility security plan is required under section 70103(c) of this title
+may not enter into a contract for the ownership, leasing, or oper-
+ation of such facility with an entity that is—
+(1) a Chinese, Russian, North Korean, or Iranian state-owned
+enterprise; or
+(2) a foreign entity for which any percentage is owned by a
+country listed in paragraph (1).
+(b) DEFINITIONS.—In this section, the terms ‘‘facility’’, and ‘‘owner
+or operator’’ have the meanings given such terms in section 70101
+of this title.
+* * * * * * *
+Æ
+VerDate Sep 11 2014 03:23 Jun 14, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6659 Sfmt 6611 E:\HR\OC\HR148.XXX HR148
+STROPER
+htiw
+DORP441S7X7KSD
+no
+nosliWMD

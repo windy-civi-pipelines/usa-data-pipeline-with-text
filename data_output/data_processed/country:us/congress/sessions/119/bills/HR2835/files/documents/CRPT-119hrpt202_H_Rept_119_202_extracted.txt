@@ -1,0 +1,1110 @@
+Title: JULY15, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: JULY15, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 11
+Source: documents - H. Rept. 119-202
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–202
+SMALL BANK HOLDING COMPANY RELIEF ACT
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 2835]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 2835) to raise the consolidated assets threshold under the
+small bank holding company policy statement, and for other pur-
+poses, having considered the same, reports favorably thereon with
+an amendment and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Consideration ........................................................................................ 3
+Related Hearings ..................................................................................................... 4
+Committee Votes ...................................................................................................... 4
+Performance Goals and Objectives ......................................................................... 7
+Committee Cost Estimate ....................................................................................... 7
+New Budget Authority and CBO Cost Estimate ................................................... 7
+Unfunded Mandates Statement .............................................................................. 7
+Earmark Statement ................................................................................................. 7
+Federal Advisory Committee Act Statement ......................................................... 7
+Applicability to the Legislative Branch ................................................................. 8
+Duplication of Federal Programs ............................................................................ 8
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 8
+Minority Views ......................................................................................................... 9
+59–006
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+
+Section 3:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Small Bank Holding Company Relief Act’’.
+SEC. 2. CHANGES REQUIRED TO THE SMALL BANK HOLDING COMPANY AND SAVINGS AND
+LOAN HOLDING COMPANY POLICY STATEMENT.
+Not later than 180 days after the date of the enactment of this Act, the Board
+of Governors of the Federal Reserve System shall revise appendix C to part 225 of
+title 12, Code of Federal Regulations (commonly known as the ‘‘Small Bank Holding
+Company and Savings and Loan Holding Company Policy Statement’’), to raise the
+consolidated asset threshold under that appendix to $25,000,000,000 for any bank
+holding company or savings and loan holding company.
+PURPOSE AND SUMMARY
+H.R. 2835, the Small Bank Holding Company Relief Act, was in-
+troduced on April 10, 2025, by Representative Byron Donalds (FL–
+19). H.R. 2835 requires the Federal Reserve Board to raise the con-
+solidated asset threshold of the Small Bank Holding Company and
+Savings and Loan Holding Company Policy Statement (Policy
+Statement) from $3 billion to $25 billion. The bill will provide sen-
+sible regulatory relief to make it easier for smaller community
+banks to raise capital. The bill does not change capital rules and
+regulations for subsidiary banks.
+BACKGROUND AND NEED FOR LEGISLATION
+The Policy Statement applies only to bank holding companies
+(BHC) that (i) are not engaged in significant nonbanking activities
+either directly or through a nonbank subsidiary; (ii) do not conduct
+significant off-balance sheet activities; and (iii) do not have a mate-
+rial amount of debt or equity securities outstanding (other than
+preferred securities) that are registered with the Securities and Ex-
+change Commission. The Policy Statement also applies to BHCs
+seeking to acquire an additional bank or company, as well as to
+transactions involving changes in control, stock redemption, or
+other shareholder transactions, provided they meet these qualifica-
+tions.
+The Policy Statement reflects the Federal Reserve’s recognition
+of the funding constraints faced by small BHCs when seeking to fi-
+nance their formation or growth through acquisitions. Ordinarily,
+the Federal Reserve would be reluctant to approve debt-financed
+startup or acquisition transactions due to the risks that high debt-
+servicing costs pose to solvency and liquidity. Excessive leverage
+may impair a BHC’s ability to serve as a ‘‘source of strength’’ for
+its subsidiary banks. However, the Federal Reserve has acknowl-
+edged that small BHCs typically face limited access to equity fi-
+nancing in both public and private capital markets. As a result, the
+use of debt financing is often necessary for these institutions.
+The Federal Reserve first adopted the Policy Statement in 1980.
+In 2015, it amended the asset-size threshold from $500 million to
+$1 billion, allowing more institutions to benefit from its provisions.
+The threshold was further increased in August 2018 to $3 billion.
+These adjustments reflected a bipartisan effort to account for mar-
+ket changes and maintain regulatory flexibility for small institu-
+tions.
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+Since 2018, the total value of assets held by U.S. commercial
+banks has increased from $16.7 trillion to approximately $23.8 tril-
+lion, a 42.5 percent rise. If the Policy Statement’s threshold had
+been adjusted in line with this growth alone, the asset-size limit
+would now exceed $4.3 billion. This suggests that in real terms
+fewer BHCs qualify for the Policy Statement’s regulatory treatment
+over time. Raising the threshold would maintain the relative defini-
+tion of a ‘‘small’’ BHC in the context of broader asset growth and
+inflation across the banking sector.
+COMMITTEE CONSIDERATION
+119TH CONGRESS
+On April 10, 2025, Representative Byron Donalds introduced
+H.R. 2835, the Small Bank Holding Company Relief Act, with Rep-
+resentatives Mike Haridopolos (R–FL) and Frank Lucas (R–OK) as
+original cosponsors. Representatives Troy Downing (R–MT), Andy
+Barr (R–KY), Monica De La Cruz (R–TX), and Pete Sessions (R–
+TX) were added subsequently as cosponsors. The bill was referred
+solely to the Committee on Financial Services. The bill was at-
+tached to the February 5, 2025, hearing titled ‘‘Making Community
+Banking Great Again.’’
+On June 10, 2025, the Committee on Financial Services met in
+open session to consider, among others, H.R. 2835. The Committee
+ordered H.R. 2835, as amended, to be reported favorably to the
+House of Representatives.
+118TH CONGRESS
+On June 23, 2023, Representative Alexander Mooney (R–WV) in-
+troduced H.R. 4346, the Small Bank Holding Company Relief Act
+of 2023, with Representatives Barr, Donalds, De La Cruz, Andrew
+Ogles (R–TN), and Zach Nunn (R–IA) as original cosponsors. Rep-
+resentatives Blaine Luetkemeyer (R–MO), Roger Williams (R–TX),
+and French Hill (R–AR) were added subsequently as cosponsors.
+This bill is an earlier iteration of H.R. 2835. The bill was referred
+solely to the Committee on Financial Services. H.R. 4346 was incor-
+porated as a title under H.R. 8337, the Bank Resilience and Regu-
+latory Improvement Act. On May 16, 2024, H.R. 8337 was ordered
+to be reported favorably by the Committee by a vote of 24 yeas and
+22 nays.
+115TH CONGRESS
+On January 11, 2018, Representative Mia Love (R–UT) intro-
+duced H.R. 4771, the Small Bank Holding Company Relief Act of
+2018, with Representatives Josh Gottheimer (D–NJ) and Gregory
+Meeks (D–NY) as original cosponsors. This bill is an earlier
+iteration of H.R. 2835. The bill was referred solely to the Com-
+mittee on Financial Services. On January 18, 2018, the Committee
+on Financial Services ordered H.R. 4771 to be favorably reported
+to the House of Representatives by a recorded vote of 41 yeas and
+14 nays. On February 8, 2018, the House passed H.R. 4771 by a
+recorded vote of 280 yeas and 139 nays. It was received in the Sen-
+ate and referred to the Senate Committee on Banking, Housing,
+and Urban Affairs. A similar provision was included in S.2155, the
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+Economic Growth, Regulatory Relief, and Consumer Protection Act
+which became Public Law 115—174 on May 24, 2018.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+2835:
+The Committee on Financial Services held a February 5, 2025,
+hearing titled ‘‘Making Community Banking Great Again.’’ A dis-
+cussion draft version of the bill was attached to the hearing. The
+following witnesses testified at the hearing: Ms. Cathy Owen, Exec-
+utive Chairman, Eagle Bank & Trust Company; Ms. Susannah
+Marshall, Bank Commissioner, Arkansas State Bank Department;
+Ms. Rebeca Romero Rainey, President & CEO, Independent Com-
+munity Bankers of America; Mr. Patrick J. Kennedy Jr., Founding
+Partner, Kennedy Sutherland, LLP; and Ms. Mitria Spotser, Vice
+President, Federal Policy, Center for Responsible Lending.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On June 10, 2025, the Committee ordered H.R. 2835, as amend-
+ed, to be reported favorably to the House by a recorded vote of 30
+yeas and 20 nays, a quorum being present. (Record Vote No. FC–
+135).
+The Committee considered the following amendments to H.R.
+2835:
+• Representative Donalds offered an amendment in the na-
+ture of a substitute, which made minor edits and technical
+changes. This amendment was adopted by a voice vote.
+• Representative Bill Foster (D–IL) offered an amendment
+(No. 2), designated AMENDHR2835_3. This amendment would
+reduce the consolidated asset threshold under the Federal Re-
+serve’s Small Bank Holding Company and Savings and Loan
+Holding Company Policy Statement to $4 billion, down from
+$25 billion as proposed in the bill. It would also require GAO
+to submit a report within 18 months evaluating the effective-
+ness of the threshold, including its impact on competition, con-
+sumer benefits, and the safety and soundness of bank holding
+companies. This amendment failed by a recorded vote of 19
+yeas and 29 nays, a quorum being present. (Record Vote No.
+FC–134).
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+5
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 4:
+100.202RH
+ereh
+6
+oilof
+tesffo
+tresnI
+6
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 5:
+200.202RH
+ereh
+7
+oilof
+tesffo
+tresnI
+7
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 2835 is to require the Federal
+Reserve Board to raise the consolidated asset threshold of the Pol-
+icy Statement from $3 billion to $25 billion, to provide sensible reg-
+ulatory relief to make it easier for smaller community banks to
+raise capital.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 2835. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of rule XIII of the Rules of the House of Representatives,
+the Committee will adopt as its own the cost estimate by the Direc-
+tor of the Congressional Budget Office once it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+8
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+
+Section 6:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 7:
+Section 1. Short title
+
+Section 8:
+Section 1 provides the short title is the ‘‘Small Bank Holding
+Company Relief Act.’’
+
+Section 9:
+Section 2. Changes required to the small bank holding company
+and savings and loan holding company policy statement
+
+Section 10:
+Section 2 requires that, not later than 180 days after the date
+of enactment, the Board of Governors of the Federal Reserve Sys-
+tem revise appendix C to part 225 of title 12, Code of Federal Reg-
+ulations, to raise the consolidated asset threshold to
+$25,000,000,000 for any bank holding company or savings and loan
+holding company.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+H.R. 2835 does not repeal or amend any section of a statute.
+Therefore, the Office of Legislative Counsel did not prepare the re-
+port required under clause 3(e) of rule XIII of the House of Rep-
+resentatives.
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+9
+MINORITY VIEWS
+H.R. 2835 would significantly increase the consolidated asset
+threshold from $3 billion to $25 billion for bank holding companies
+(BHCs) and savings and loan holding companies (SLHCs) to be eli-
+gible for the Federal Reserve’s Small Bank Holding Company and
+Savings and Loan Holding Company Policy Statement. This state-
+ment exempts small BHCs and SLHCs from consolidated risk-
+based capital and leverage requirements, reduces reporting require-
+ments, expedites bank mergers, and allows them to have higher
+debt flexibility to finance bank acquisitions. While Congress has
+updated this threshold from time to time, most recently in 2018 by
+increasing the threshold from $1 billion to $3 billion, H.R. 2835
+would significantly increase the threshold by 833% and be a major
+rollback, exempting 98% of all BHCs and SLHCs including numer-
+ous mid-sized banks that have different risk profiles compared to
+much smaller community banks.
+The Federal Reserve’s Small Bank Holding Company and Sav-
+ings and Loan Holding Company Policy Statement was first imple-
+mented by the Fed in 1980. It was originally designed to help the
+smallest BHCs with less than $150 million in assets ($618 million
+in today’s dollars)1 that had less access to equity financing than
+larger institutions to take on more debt to help finance a bank ac-
+quisition. Congress increased the $150 million threshold to $500
+million in 2006, added SLHCs and increased the threshold to $1
+billion in 2015, and raised the threshold to $3 billion in 2018 ($3.8
+billion in today’s dollars), where it stands today.
+Under the policy statement, small BHCs and SLHCs may qualify
+if they have fewer than $3 billion in total assets and don’t engage
+in significant nonbanking activities, off-balance-sheet activities, or
+have material amounts of SEC-registered debt or equity securities
+(excluding trust preferred securities, or TruPS). They are allowed
+to use up to 75% debt for acquisitions provided the BHC would re-
+duce the debt to 30% or less of equity in 12 years and retire the
+debt in 25 years.2 (BHC debt generally is limited to 30% of eq-
+uity.)3 While this policy statement primarily applies to the forma-
+tion of small BHCs, it also applies to existing small BHCs that
+wish to acquire an additional bank or company and to transactions
+involving changes in control, stock redemptions, or other share-
+holder transactions.4 In addition to debt flexibility, BHCs and
+SLHCs that qualify are exempt from consolidated risk-based and
+leverage capital rules, provided the subsidiary depository institu-
+tion is well-capitalized.5 They also have less frequent reporting re-
+quirements, filing reports semi-annually instead of quarterly, and
+1Staff utilized U.S. Bureau of Labor Statistics’ CPI Inflation Calculator for inflation-adjusted
+figures in this section.
+2Appendix C to part 225 of title 12, Code of Federal Regulations. Also see CRS, Over the Line:
+Asset Thresholds in Bank Regulation (May 3, 2021), and Jones Day, The Fed’s Small BHC Policy
+Statement—Regulatory Relief for Bank Growth and Acquisitions (Aug. 17, 2017), which indicated
+increasing the threshold above $1 billion may have diminishing returns given securities-related
+exceptions.
+3Id.
+4Id.
+5This exemption is provided by Section 171 of Dodd-Frank (referred to as the ‘‘Collins Amend-
+ment’’), which exempts small BHCs covered by the policy statement from having to meet the
+same capital requirements at the holding company level that depository subsidiaries face. See
+CRS, Over the Line: Asset Thresholds in Bank Regulation (May 3, 2021).
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6602 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+10
+the reports are significantly less detailed, in part because the hold-
+ing companies are not subject to capital requirements.6
+There have been a variety of proposed adjustments that the
+House has considered the last decade. After Congress raised the
+threshold from $500 million to $1 billion in 2015, House Repub-
+licans sought to increase the $1 billion threshold to $5 billion in
+
+Section 11:
+2016.7 That bill passed the House by a vote of 247–171. The
+Obama Administration issued a Statement of Administration Policy
+(SAP) with a veto threat opposing the bill, explaining, ‘‘[T]his piece
+of legislation [is] an attempt to allow large banks to evade specific
+minimum leverage and risk-based capital requirements. These lim-
+itations were put in place to ensure that banks remain sound and
+able to serve their customers. Community banks with $1 to $5 bil-
+lion in assets already have sufficient access to capital markets and
+as a group are exhibiting health and resilience. Raising the thresh-
+old to exempt banks with over $1 billion from important minimum
+leverage and capital requirements would do little more than en-
+courage banks to take on debt, endangering their soundness and
+potentially depriving their customers of much needed banking serv-
+ices should the bank fail.’’8
+In 2017, Trump’s Treasury Department issued a recommendation
+to raise the threshold to $2 billion.9 House Republicans instead
+proposed a much bigger increase to $10 billion as part of a major
+financial deregulatory bill, which passed the House but with all
+Democrats opposing the bill.10 In 2018, House Republicans pro-
+posed to raise the threshold to $3 billion as a standalone bill,11
+which the House passed by a vote of 280–139. This change was in-
+cluded in S. 2155 (115th), the Economic Growth, Regulatory Relief,
+and Consumer Protection Act (Crapo), which was signed into law
+by President Trump.12
+There has not been evidence presented to Congress thus far to
+justify raising this particular threshold to $25 billion. Chairman
+Hill’s community bank agenda simply suggested that, ‘‘The consoli-
+dated asset threshold under the Small Bank Holding Company Pol-
+icy Statement should be raised to allow more community banks to
+grow using certain debt financing,’’ but it did not specify a new
+threshold or cite any studies to justify this change.13 Earlier this
+year, House Republicans posted a discussion draft of Rep. Donalds’
+bill that proposed raising the threshold to $10 billion, instead of
+$25 billion, that was considered as part of a hearing on community
+banking.14 Despite having several bank industry witnesses testify,
+the proposal was not discussed and none of the witnesses provided
+a rationale to explain why increasing this threshold to $10 billion,
+6Federal Reserve Bank of Minneapolis, Small Bank Holding Company Policy Statement Revi-
+sions (Jun. 16, 2015).
+7H.R. 3791 (114th), Small Bank Holding Company Relief (Love).
+8Obama White House, Statement of Administration Policy, H.R. 3791—Raise the Consolidated
+Assets Threshold under the Small Bank Holding Company Policy Statement (Apr. 12, 2016).
+9Treasury, A Financial System That Creates Economic Opportunities Banks and Credit
+Unions (June 2017).
+10H.R. 10 (115th), the Financial Choice Act (Hensarling).
+11H.R. 4771 (115th), Small Bank Holding Company Relief Act of 2018 (Love).
+12P.L. 115–174.
+13Rep. French Hill (R–AR), Rep. Hill Outlines Principles to Make Banking Great Again (Nov.
+14, 2024).
+14FSC hearing, Make Community Banking Great Again (Feb. 5, 2025).
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6602 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+11
+let alone $25 billion, would be justified.15 The proposal also was not
+discussed at a recent Financial Institutions Subcommittee hearing
+that focused on bank mergers.
+Increasing this threshold by 833% from $3 billion to $25 billion
+would expand the scope to cover roughly 98% of all BHCs and
+SLHCs,16 which includes numerous mid-sized banks that have dif-
+ferent risk profiles than much smaller banks. For example, some
+mid-sized banks have major exposures to commercial real estate
+(CRE) that has raised some concerns.17
+It would be prudent to gather more data and analysis to consider
+what adjustments, if any, should be made. One approach would be
+to make an adjustment based on inflation, which would be roughly
+$3.8 billion today, and to study the issue further. Rep. Bill Foster
+(D–IL), Ranking Member of the Financial Institutions Sub-
+committee, offered such an amendment that Republicans rejected
+that would increase the threshold to $4 billion, and require the
+Government Accountability Office (GAO) to do an impact study
+that would give Congress more data and analysis to help explore
+legislative options to make the eligibility criteria more dynamic
+and the policy statement more effective in a way that supports
+community banks and the communities they serve in a safe and
+sound manner.
+Congress might also consider utilizing a more nuanced definition
+to support smaller banks, instead of a simple asset threshold, as
+Better Markets suggested more generally in response to Chairman
+Hill’s community bank agenda.18 This could include or utilizing
+FDIC’s definition of a community bank that goes beyond asset size
+and considers factors like a bank’s lending and deposit-gathering
+activities, its geographic focus, and its overall relationship with the
+community,19 or considering if the institution receives high exam
+ratings.
+While there may be some benefits with adjusting the threshold,
+there are risks too, given the reduced reporting and exemptions
+from certain capital requirements, among other factors. The change
+could result in more situations in which a BHC get into financial
+trouble with knock-on impacts to its subsidiary bank. After all, the
+Fed acknowledged in its Policy Statement that ‘‘The Board believes
+that a high level of debt at the parent holding company impairs the
+ability of a bank holding company to provide financial assistance
+to its subsidiary bank(s) and, in some cases, the servicing require-
+ments on such debt may be a significant drain on the resources of
+the bank(s).’’20 Several consumer groups oppose the bill, including
+Americans for Financial Reform and Public Citizen.
+For these reasons, we oppose H.R. 2835.
+Sincerely,
+MAXINE WATERS,
+Ranking Member.
+15Id.
+16See Fed, Annual Report—Supervision and Regulation (2023) and FFIEC, Large Holding
+Companies (Dec. 31, 2024).
+17CRS, Commercial Real Estate and the Banking Sector (Sep. 12, 2024).
+18Better Markets, Community Banks Are Vital to Main Street Families and Businesses, Con-
+gress Should Reconsider Priorities to Help Them (Apr. 1, 2025). For analysis of various bank
+threshold, see CRS, Over the Line: Asset Thresholds in Bank Regulation (May 3, 2021).
+19FDIC, Community Banking Studies—2012 and 2020 (accessed Jun. 7, 2025).
+20Appendix C to part 225 of title 12, Code of Federal Regulations.
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6602 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+12
+NYDIA M. VELA ´ ZQUEZ,
+GREGORY W. MEEKS,
+AL GREEN,
+EMANUEL CLEAVER, II,
+BILL FOSTER,
+JOYCE BEATTY,
+JUAN VARGAS,
+RASHIDA TLAIB,
+SYLVIA R. GARCIA,
+NIKEMA WILLIAMS,
+Members of Congress.
+Æ
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6602 Sfmt 6611 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–202
+SMALL BANK HOLDING COMPANY RELIEF ACT
+JULY15, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. HILL of Arkansas, from the Committee on Financial Services,
+submitted the following
+R E P O R T
+together with
+MINORITY VIEWS
+[To accompany H.R. 2835]
+The Committee on Financial Services, to whom was referred the
+bill (H.R. 2835) to raise the consolidated assets threshold under the
+small bank holding company policy statement, and for other pur-
+poses, having considered the same, reports favorably thereon with
+an amendment and recommends that the bill as amended do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Consideration ........................................................................................ 3
+Related Hearings ..................................................................................................... 4
+Committee Votes ...................................................................................................... 4
+Performance Goals and Objectives ......................................................................... 7
+Committee Cost Estimate ....................................................................................... 7
+New Budget Authority and CBO Cost Estimate ................................................... 7
+Unfunded Mandates Statement .............................................................................. 7
+Earmark Statement ................................................................................................. 7
+Federal Advisory Committee Act Statement ......................................................... 7
+Applicability to the Legislative Branch ................................................................. 8
+Duplication of Federal Programs ............................................................................ 8
+Section-by-Section Analysis of the Legislation ...................................................... 8
+Changes in Existing Law Made by the Bill, as Reported ..................................... 8
+Minority Views ......................................................................................................... 9
+59–006
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+The amendment is as follows:
+Strike all after the enacting clause and insert the following:
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ‘‘Small Bank Holding Company Relief Act’’.
+SEC. 2. CHANGES REQUIRED TO THE SMALL BANK HOLDING COMPANY AND SAVINGS AND
+LOAN HOLDING COMPANY POLICY STATEMENT.
+Not later than 180 days after the date of the enactment of this Act, the Board
+of Governors of the Federal Reserve System shall revise appendix C to part 225 of
+title 12, Code of Federal Regulations (commonly known as the ‘‘Small Bank Holding
+Company and Savings and Loan Holding Company Policy Statement’’), to raise the
+consolidated asset threshold under that appendix to $25,000,000,000 for any bank
+holding company or savings and loan holding company.
+PURPOSE AND SUMMARY
+H.R. 2835, the Small Bank Holding Company Relief Act, was in-
+troduced on April 10, 2025, by Representative Byron Donalds (FL–
+19). H.R. 2835 requires the Federal Reserve Board to raise the con-
+solidated asset threshold of the Small Bank Holding Company and
+Savings and Loan Holding Company Policy Statement (Policy
+Statement) from $3 billion to $25 billion. The bill will provide sen-
+sible regulatory relief to make it easier for smaller community
+banks to raise capital. The bill does not change capital rules and
+regulations for subsidiary banks.
+BACKGROUND AND NEED FOR LEGISLATION
+The Policy Statement applies only to bank holding companies
+(BHC) that (i) are not engaged in significant nonbanking activities
+either directly or through a nonbank subsidiary; (ii) do not conduct
+significant off-balance sheet activities; and (iii) do not have a mate-
+rial amount of debt or equity securities outstanding (other than
+preferred securities) that are registered with the Securities and Ex-
+change Commission. The Policy Statement also applies to BHCs
+seeking to acquire an additional bank or company, as well as to
+transactions involving changes in control, stock redemption, or
+other shareholder transactions, provided they meet these qualifica-
+tions.
+The Policy Statement reflects the Federal Reserve’s recognition
+of the funding constraints faced by small BHCs when seeking to fi-
+nance their formation or growth through acquisitions. Ordinarily,
+the Federal Reserve would be reluctant to approve debt-financed
+startup or acquisition transactions due to the risks that high debt-
+servicing costs pose to solvency and liquidity. Excessive leverage
+may impair a BHC’s ability to serve as a ‘‘source of strength’’ for
+its subsidiary banks. However, the Federal Reserve has acknowl-
+edged that small BHCs typically face limited access to equity fi-
+nancing in both public and private capital markets. As a result, the
+use of debt financing is often necessary for these institutions.
+The Federal Reserve first adopted the Policy Statement in 1980.
+In 2015, it amended the asset-size threshold from $500 million to
+$1 billion, allowing more institutions to benefit from its provisions.
+The threshold was further increased in August 2018 to $3 billion.
+These adjustments reflected a bipartisan effort to account for mar-
+ket changes and maintain regulatory flexibility for small institu-
+tions.
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+Since 2018, the total value of assets held by U.S. commercial
+banks has increased from $16.7 trillion to approximately $23.8 tril-
+lion, a 42.5 percent rise. If the Policy Statement’s threshold had
+been adjusted in line with this growth alone, the asset-size limit
+would now exceed $4.3 billion. This suggests that in real terms
+fewer BHCs qualify for the Policy Statement’s regulatory treatment
+over time. Raising the threshold would maintain the relative defini-
+tion of a ‘‘small’’ BHC in the context of broader asset growth and
+inflation across the banking sector.
+COMMITTEE CONSIDERATION
+119TH CONGRESS
+On April 10, 2025, Representative Byron Donalds introduced
+H.R. 2835, the Small Bank Holding Company Relief Act, with Rep-
+resentatives Mike Haridopolos (R–FL) and Frank Lucas (R–OK) as
+original cosponsors. Representatives Troy Downing (R–MT), Andy
+Barr (R–KY), Monica De La Cruz (R–TX), and Pete Sessions (R–
+TX) were added subsequently as cosponsors. The bill was referred
+solely to the Committee on Financial Services. The bill was at-
+tached to the February 5, 2025, hearing titled ‘‘Making Community
+Banking Great Again.’’
+On June 10, 2025, the Committee on Financial Services met in
+open session to consider, among others, H.R. 2835. The Committee
+ordered H.R. 2835, as amended, to be reported favorably to the
+House of Representatives.
+118TH CONGRESS
+On June 23, 2023, Representative Alexander Mooney (R–WV) in-
+troduced H.R. 4346, the Small Bank Holding Company Relief Act
+of 2023, with Representatives Barr, Donalds, De La Cruz, Andrew
+Ogles (R–TN), and Zach Nunn (R–IA) as original cosponsors. Rep-
+resentatives Blaine Luetkemeyer (R–MO), Roger Williams (R–TX),
+and French Hill (R–AR) were added subsequently as cosponsors.
+This bill is an earlier iteration of H.R. 2835. The bill was referred
+solely to the Committee on Financial Services. H.R. 4346 was incor-
+porated as a title under H.R. 8337, the Bank Resilience and Regu-
+latory Improvement Act. On May 16, 2024, H.R. 8337 was ordered
+to be reported favorably by the Committee by a vote of 24 yeas and
+22 nays.
+115TH CONGRESS
+On January 11, 2018, Representative Mia Love (R–UT) intro-
+duced H.R. 4771, the Small Bank Holding Company Relief Act of
+2018, with Representatives Josh Gottheimer (D–NJ) and Gregory
+Meeks (D–NY) as original cosponsors. This bill is an earlier
+iteration of H.R. 2835. The bill was referred solely to the Com-
+mittee on Financial Services. On January 18, 2018, the Committee
+on Financial Services ordered H.R. 4771 to be favorably reported
+to the House of Representatives by a recorded vote of 41 yeas and
+14 nays. On February 8, 2018, the House passed H.R. 4771 by a
+recorded vote of 280 yeas and 139 nays. It was received in the Sen-
+ate and referred to the Senate Committee on Banking, Housing,
+and Urban Affairs. A similar provision was included in S.2155, the
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+Economic Growth, Regulatory Relief, and Consumer Protection Act
+which became Public Law 115—174 on May 24, 2018.
+RELATED HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII of the Rules of the House
+of Representatives, the following hearing was used to develop H.R.
+2835:
+The Committee on Financial Services held a February 5, 2025,
+hearing titled ‘‘Making Community Banking Great Again.’’ A dis-
+cussion draft version of the bill was attached to the hearing. The
+following witnesses testified at the hearing: Ms. Cathy Owen, Exec-
+utive Chairman, Eagle Bank & Trust Company; Ms. Susannah
+Marshall, Bank Commissioner, Arkansas State Bank Department;
+Ms. Rebeca Romero Rainey, President & CEO, Independent Com-
+munity Bankers of America; Mr. Patrick J. Kennedy Jr., Founding
+Partner, Kennedy Sutherland, LLP; and Ms. Mitria Spotser, Vice
+President, Federal Policy, Center for Responsible Lending.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII of the Rules of the House of Representa-
+tives requires the Committee Report to include for each record vote
+on a motion to report the measure or matter and on any amend-
+ments offered to the measure or matter the total number of votes
+for and against and the names of the Members voting for and
+against.
+On June 10, 2025, the Committee ordered H.R. 2835, as amend-
+ed, to be reported favorably to the House by a recorded vote of 30
+yeas and 20 nays, a quorum being present. (Record Vote No. FC–
+135).
+The Committee considered the following amendments to H.R.
+2835:
+• Representative Donalds offered an amendment in the na-
+ture of a substitute, which made minor edits and technical
+changes. This amendment was adopted by a voice vote.
+• Representative Bill Foster (D–IL) offered an amendment
+(No. 2), designated AMENDHR2835_3. This amendment would
+reduce the consolidated asset threshold under the Federal Re-
+serve’s Small Bank Holding Company and Savings and Loan
+Holding Company Policy Statement to $4 billion, down from
+$25 billion as proposed in the bill. It would also require GAO
+to submit a report within 18 months evaluating the effective-
+ness of the threshold, including its impact on competition, con-
+sumer benefits, and the safety and soundness of bank holding
+companies. This amendment failed by a recorded vote of 19
+yeas and 29 nays, a quorum being present. (Record Vote No.
+FC–134).
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+5
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.202RH
+ereh
+6
+oilof
+tesffo
+tresnI
+
+6
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+200.202RH
+ereh
+7
+oilof
+tesffo
+tresnI
+
+7
+COMMITTEE OVERSIGHT FINDINGS
+Pursuant to clause 3(c) of rule XIII of the Rules of the House of
+Representatives, the findings and recommendations of the Com-
+mittee, based on oversight activities under clause 2(b)(1) of rule X
+of the Rules of the House of Representatives, are incorporated in
+the descriptive portions of this report.
+PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII of the Rules of the House
+of Representatives, the goal of H.R. 2835 is to require the Federal
+Reserve Board to raise the consolidated asset threshold of the Pol-
+icy Statement from $3 billion to $25 billion, to provide sensible reg-
+ulatory relief to make it easier for smaller community banks to
+raise capital.
+COMMITTEE COST ESTIMATE
+Clause 3(d)(1) of rule XIII of the Rules of the House of Rep-
+resentatives requires an estimate and a comparison of the costs
+that would be incurred in carrying out H.R. 2835. The Committee
+has requested but not received a cost estimate from the Director
+of the Congressional Budget Office. However, pursuant to clause
+3(d)(1) of rule XIII of the Rules of the House of Representatives,
+the Committee will adopt as its own the cost estimate by the Direc-
+tor of the Congressional Budget Office once it has been prepared.
+NEW BUDGET AUTHORITY AND CBO COST ESTIMATE
+With respect to the requirements of clause 3(c)(2) of rule XIII of
+the Rules of the House of Representatives and section 308(a) of the
+Congressional Budget Act of 1974 and with respect to requirements
+of clause 3(c)(3) of rule XIII of the Rules of the House of Represent-
+atives and section 402 of the Congressional Budget Act of 1974, a
+cost estimate was not made available to the Committee in time for
+the filing of this report. The Chairman of the Committee shall
+cause such estimate to be printed in the Congressional Record upon
+its receipt by the Committee.
+UNFUNDED MANDATES STATEMENT
+The Committee has requested but not received from the Director
+of the Congressional Budget Office an estimate of the Federal man-
+dates pursuant to section 423 of the Unfunded Mandates Reform
+Act. The Committee will adopt the estimate once it has been pre-
+pared by the Director.
+EARMARK STATEMENT
+With respect to clause 9 of rule XXI of the Rules of the House
+of Representatives, the Committee has carefully reviewed the pro-
+visions of the resolution and states that the provisions of the bill
+do not contain any congressional earmarks, limited tax benefits, or
+limited tariff benefits within the meaning of the rule.
+FEDERAL ADVISORY COMMITTEE ACT STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+8
+APPLICABILITY TO THE LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII of the Rules of the House
+of Representatives, the Committee states that no provision of the
+bill establishes or reauthorizes a program of the Federal Govern-
+ment known to be duplicative of another Federal program, includ-
+ing any program that was included in a report to Congress pursu-
+ant to section 21 of the Public Law 111–139 or the most recent
+Catalog of Federal Domestic Assistance.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+Section 1 provides the short title is the ‘‘Small Bank Holding
+Company Relief Act.’’
+Section 2. Changes required to the small bank holding company
+and savings and loan holding company policy statement
+Section 2 requires that, not later than 180 days after the date
+of enactment, the Board of Governors of the Federal Reserve Sys-
+tem revise appendix C to part 225 of title 12, Code of Federal Reg-
+ulations, to raise the consolidated asset threshold to
+$25,000,000,000 for any bank holding company or savings and loan
+holding company.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+H.R. 2835 does not repeal or amend any section of a statute.
+Therefore, the Office of Legislative Counsel did not prepare the re-
+port required under clause 3(e) of rule XIII of the House of Rep-
+resentatives.
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+9
+MINORITY VIEWS
+H.R. 2835 would significantly increase the consolidated asset
+threshold from $3 billion to $25 billion for bank holding companies
+(BHCs) and savings and loan holding companies (SLHCs) to be eli-
+gible for the Federal Reserve’s Small Bank Holding Company and
+Savings and Loan Holding Company Policy Statement. This state-
+ment exempts small BHCs and SLHCs from consolidated risk-
+based capital and leverage requirements, reduces reporting require-
+ments, expedites bank mergers, and allows them to have higher
+debt flexibility to finance bank acquisitions. While Congress has
+updated this threshold from time to time, most recently in 2018 by
+increasing the threshold from $1 billion to $3 billion, H.R. 2835
+would significantly increase the threshold by 833% and be a major
+rollback, exempting 98% of all BHCs and SLHCs including numer-
+ous mid-sized banks that have different risk profiles compared to
+much smaller community banks.
+The Federal Reserve’s Small Bank Holding Company and Sav-
+ings and Loan Holding Company Policy Statement was first imple-
+mented by the Fed in 1980. It was originally designed to help the
+smallest BHCs with less than $150 million in assets ($618 million
+in today’s dollars)1 that had less access to equity financing than
+larger institutions to take on more debt to help finance a bank ac-
+quisition. Congress increased the $150 million threshold to $500
+million in 2006, added SLHCs and increased the threshold to $1
+billion in 2015, and raised the threshold to $3 billion in 2018 ($3.8
+billion in today’s dollars), where it stands today.
+Under the policy statement, small BHCs and SLHCs may qualify
+if they have fewer than $3 billion in total assets and don’t engage
+in significant nonbanking activities, off-balance-sheet activities, or
+have material amounts of SEC-registered debt or equity securities
+(excluding trust preferred securities, or TruPS). They are allowed
+to use up to 75% debt for acquisitions provided the BHC would re-
+duce the debt to 30% or less of equity in 12 years and retire the
+debt in 25 years.2 (BHC debt generally is limited to 30% of eq-
+uity.)3 While this policy statement primarily applies to the forma-
+tion of small BHCs, it also applies to existing small BHCs that
+wish to acquire an additional bank or company and to transactions
+involving changes in control, stock redemptions, or other share-
+holder transactions.4 In addition to debt flexibility, BHCs and
+SLHCs that qualify are exempt from consolidated risk-based and
+leverage capital rules, provided the subsidiary depository institu-
+tion is well-capitalized.5 They also have less frequent reporting re-
+quirements, filing reports semi-annually instead of quarterly, and
+1Staff utilized U.S. Bureau of Labor Statistics’ CPI Inflation Calculator for inflation-adjusted
+figures in this section.
+2Appendix C to part 225 of title 12, Code of Federal Regulations. Also see CRS, Over the Line:
+Asset Thresholds in Bank Regulation (May 3, 2021), and Jones Day, The Fed’s Small BHC Policy
+Statement—Regulatory Relief for Bank Growth and Acquisitions (Aug. 17, 2017), which indicated
+increasing the threshold above $1 billion may have diminishing returns given securities-related
+exceptions.
+3Id.
+4Id.
+5This exemption is provided by Section 171 of Dodd-Frank (referred to as the ‘‘Collins Amend-
+ment’’), which exempts small BHCs covered by the policy statement from having to meet the
+same capital requirements at the holding company level that depository subsidiaries face. See
+CRS, Over the Line: Asset Thresholds in Bank Regulation (May 3, 2021).
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00009 Fmt 6602 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+10
+the reports are significantly less detailed, in part because the hold-
+ing companies are not subject to capital requirements.6
+There have been a variety of proposed adjustments that the
+House has considered the last decade. After Congress raised the
+threshold from $500 million to $1 billion in 2015, House Repub-
+licans sought to increase the $1 billion threshold to $5 billion in
+2016.7 That bill passed the House by a vote of 247–171. The
+Obama Administration issued a Statement of Administration Policy
+(SAP) with a veto threat opposing the bill, explaining, ‘‘[T]his piece
+of legislation [is] an attempt to allow large banks to evade specific
+minimum leverage and risk-based capital requirements. These lim-
+itations were put in place to ensure that banks remain sound and
+able to serve their customers. Community banks with $1 to $5 bil-
+lion in assets already have sufficient access to capital markets and
+as a group are exhibiting health and resilience. Raising the thresh-
+old to exempt banks with over $1 billion from important minimum
+leverage and capital requirements would do little more than en-
+courage banks to take on debt, endangering their soundness and
+potentially depriving their customers of much needed banking serv-
+ices should the bank fail.’’8
+In 2017, Trump’s Treasury Department issued a recommendation
+to raise the threshold to $2 billion.9 House Republicans instead
+proposed a much bigger increase to $10 billion as part of a major
+financial deregulatory bill, which passed the House but with all
+Democrats opposing the bill.10 In 2018, House Republicans pro-
+posed to raise the threshold to $3 billion as a standalone bill,11
+which the House passed by a vote of 280–139. This change was in-
+cluded in S. 2155 (115th), the Economic Growth, Regulatory Relief,
+and Consumer Protection Act (Crapo), which was signed into law
+by President Trump.12
+There has not been evidence presented to Congress thus far to
+justify raising this particular threshold to $25 billion. Chairman
+Hill’s community bank agenda simply suggested that, ‘‘The consoli-
+dated asset threshold under the Small Bank Holding Company Pol-
+icy Statement should be raised to allow more community banks to
+grow using certain debt financing,’’ but it did not specify a new
+threshold or cite any studies to justify this change.13 Earlier this
+year, House Republicans posted a discussion draft of Rep. Donalds’
+bill that proposed raising the threshold to $10 billion, instead of
+$25 billion, that was considered as part of a hearing on community
+banking.14 Despite having several bank industry witnesses testify,
+the proposal was not discussed and none of the witnesses provided
+a rationale to explain why increasing this threshold to $10 billion,
+6Federal Reserve Bank of Minneapolis, Small Bank Holding Company Policy Statement Revi-
+sions (Jun. 16, 2015).
+7H.R. 3791 (114th), Small Bank Holding Company Relief (Love).
+8Obama White House, Statement of Administration Policy, H.R. 3791—Raise the Consolidated
+Assets Threshold under the Small Bank Holding Company Policy Statement (Apr. 12, 2016).
+9Treasury, A Financial System That Creates Economic Opportunities Banks and Credit
+Unions (June 2017).
+10H.R. 10 (115th), the Financial Choice Act (Hensarling).
+11H.R. 4771 (115th), Small Bank Holding Company Relief Act of 2018 (Love).
+12P.L. 115–174.
+13Rep. French Hill (R–AR), Rep. Hill Outlines Principles to Make Banking Great Again (Nov.
+14, 2024).
+14FSC hearing, Make Community Banking Great Again (Feb. 5, 2025).
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00010 Fmt 6602 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+11
+let alone $25 billion, would be justified.15 The proposal also was not
+discussed at a recent Financial Institutions Subcommittee hearing
+that focused on bank mergers.
+Increasing this threshold by 833% from $3 billion to $25 billion
+would expand the scope to cover roughly 98% of all BHCs and
+SLHCs,16 which includes numerous mid-sized banks that have dif-
+ferent risk profiles than much smaller banks. For example, some
+mid-sized banks have major exposures to commercial real estate
+(CRE) that has raised some concerns.17
+It would be prudent to gather more data and analysis to consider
+what adjustments, if any, should be made. One approach would be
+to make an adjustment based on inflation, which would be roughly
+$3.8 billion today, and to study the issue further. Rep. Bill Foster
+(D–IL), Ranking Member of the Financial Institutions Sub-
+committee, offered such an amendment that Republicans rejected
+that would increase the threshold to $4 billion, and require the
+Government Accountability Office (GAO) to do an impact study
+that would give Congress more data and analysis to help explore
+legislative options to make the eligibility criteria more dynamic
+and the policy statement more effective in a way that supports
+community banks and the communities they serve in a safe and
+sound manner.
+Congress might also consider utilizing a more nuanced definition
+to support smaller banks, instead of a simple asset threshold, as
+Better Markets suggested more generally in response to Chairman
+Hill’s community bank agenda.18 This could include or utilizing
+FDIC’s definition of a community bank that goes beyond asset size
+and considers factors like a bank’s lending and deposit-gathering
+activities, its geographic focus, and its overall relationship with the
+community,19 or considering if the institution receives high exam
+ratings.
+While there may be some benefits with adjusting the threshold,
+there are risks too, given the reduced reporting and exemptions
+from certain capital requirements, among other factors. The change
+could result in more situations in which a BHC get into financial
+trouble with knock-on impacts to its subsidiary bank. After all, the
+Fed acknowledged in its Policy Statement that ‘‘The Board believes
+that a high level of debt at the parent holding company impairs the
+ability of a bank holding company to provide financial assistance
+to its subsidiary bank(s) and, in some cases, the servicing require-
+ments on such debt may be a significant drain on the resources of
+the bank(s).’’20 Several consumer groups oppose the bill, including
+Americans for Financial Reform and Public Citizen.
+For these reasons, we oppose H.R. 2835.
+Sincerely,
+MAXINE WATERS,
+Ranking Member.
+15Id.
+16See Fed, Annual Report—Supervision and Regulation (2023) and FFIEC, Large Holding
+Companies (Dec. 31, 2024).
+17CRS, Commercial Real Estate and the Banking Sector (Sep. 12, 2024).
+18Better Markets, Community Banks Are Vital to Main Street Families and Businesses, Con-
+gress Should Reconsider Priorities to Help Them (Apr. 1, 2025). For analysis of various bank
+threshold, see CRS, Over the Line: Asset Thresholds in Bank Regulation (May 3, 2021).
+19FDIC, Community Banking Studies—2012 and 2020 (accessed Jun. 7, 2025).
+20Appendix C to part 225 of title 12, Code of Federal Regulations.
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00011 Fmt 6602 Sfmt 6602 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+12
+NYDIA M. VELA ´ ZQUEZ,
+GREGORY W. MEEKS,
+AL GREEN,
+EMANUEL CLEAVER, II,
+BILL FOSTER,
+JOYCE BEATTY,
+JUAN VARGAS,
+RASHIDA TLAIB,
+SYLVIA R. GARCIA,
+NIKEMA WILLIAMS,
+Members of Congress.
+Æ
+VerDate Sep 11 2014 01:02 Aug 09, 2025 Jkt 059006 PO 00000 Frm 00012 Fmt 6602 Sfmt 6611 E:\HR\OC\HR202.XXX HR202
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr

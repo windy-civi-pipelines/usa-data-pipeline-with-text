@@ -1,0 +1,758 @@
+Title: APRIL24, 2025.—Committed to the Committee of the Whole House on the State of
+Official Title: APRIL24, 2025.—Committed to the Committee of the Whole House on the State of
+Number of Sections: 7
+Source: documents - H. Rept. 119-65
+Media Type: application/pdf
+
+================================================================================
+
+Section 1:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–65
+SECURE SPACE ACT OF 2025
+the Union and ordered to be printed
+Mr. GUTHRIE, from the Committee on Energy and Commerce,
+submitted the following
+R E P O R T
+[To accompany H.R. 2458]
+The Committee on Energy and Commerce, to whom was referred
+the bill (H.R. 2458) to amend the Secure and Trusted Communica-
+tions Networks Act of 2019 to prohibit the Federal Communica-
+tions Commission from granting a license or United States market
+access for a geostationary orbit satellite system or a nongeo-
+stationary orbit satellite system, or an authorization to use an indi-
+vidually licensed earth station or a blanket-licensed earth station,
+if the license, grant of market access, or authorization would be
+held or controlled by an entity that produces or provides any cov-
+ered communications equipment or service or an affiliate of such an
+entity, and for other purposes, having considered the same, reports
+favorably thereon without amendment and recommends that the
+bill do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Action .................................................................................................... 3
+Committee Votes ...................................................................................................... 3
+Oversight Findings and Recommendations ........................................................... 5
+New Budget Authority, Entitlement Authority, and Tax Expenditures ............. 5
+Congressional Budget Office Estimate ................................................................... 5
+Federal Mandates Statement ................................................................................. 5
+Statement of General Performance Goals and Objectives .................................... 5
+Duplication of Federal Programs ............................................................................ 5
+Related Committee and Subcommittee Hearings ................................................. 5
+Committee Cost Estimate ....................................................................................... 6
+Earmark, Limited Tax Benefits, and Limited Tariff Benefits ............................. 6
+Advisory Committee Statement .............................................................................. 6
+Applicability to Legislative Branch ........................................................................ 6
+
+Section 2:
+Section-by-Section Analysis of the Legislation ...................................................... 6
+Changes in Existing Law Made by the Bill, as Reported ..................................... 7
+59–006
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR065.XXX HR065
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+2
+PURPOSE AND SUMMARY
+H.R. 2458, the ‘‘Secure Space Act of 2025’’ would amend the Se-
+cure and Trusted Communications Network Act of 2019 by adding
+a new section preventing the Federal Communications Commission
+(FCC) from granting a license for, or a petition for declaratory rul-
+ing to access the United States market using, a geostationary orbit
+(GSO) satellite system or a non-geostationary orbit (NGSO) sat-
+ellite system, or an authorization to use an individually licensed
+earth station or a blanket-licensed earth station, if the license,
+grant of market access, or authorization would be held or controlled
+by an entity that produces or provides any communications equip-
+ment or service on the FCC’s covered list (a list identifying commu-
+nications equipment and services that pose a unacceptable risk to
+U.S. national security) or an affiliate of such entity (as defined in
+the Communications Act of 1934). H.R. 2458 would also require the
+FCC to issue rules one year after the bill’s enactment to implement
+this legislation.
+BACKGROUND AND NEED FOR LEGISLATION
+In the last few years, the United States has seen significant ad-
+vancements in the ability of satellites to provide broadband inter-
+net and other critical services to consumers and businesses
+throughout the country and the world. In fact, American satellite
+operators are leading the world in developing next-generation space
+technologies, services, and applications. These developments have
+been especially beneficial to Americans living in areas where other
+types of technologies have not been built yet to provide communica-
+tions services to American homes and businesses due to geographic
+considerations and other factors.
+However, it is also the case that other countries, including for-
+eign adversaries of the United States, are making aggressive moves
+to dominate the satellite industry. Indeed, the Chinese Communist
+Party has placed satellite internet in its list of priorities for new
+infrastructure,1 signaling increased investment in this burgeoning
+sector. And in the last few years, the combined satellite fleets of
+China and Russia have grown by approximately 70 percent.2
+In light of these developments, it is imperative that Congress
+take the necessary steps to ensure that satellite networks providing
+service in the United States are secure and protected (along with
+their relevant supply chains) from threats by untrusted actors. The
+United States cannot risk having its satellite networks face the
+same national security challenges that certain domestic terrestrial
+communications networks have faced, especially given the global
+nature of satellite network operations. Accordingly, H.R. 2458 ad-
+dresses these concerns by preventing an entity producing or pro-
+viding communications equipment or services that have been iden-
+tified as a national security risk (or an affiliate as defined in the
+Communications Act of 1934) from gaining access to the U.S. sat-
+ellite marketplace.
+1Makena Young & Akhil Thadani, Low Orbit, High Stakes, Center for Strategic & Inter-
+national Studies (Dec. 14, 2022).
+2Defense Intelligence Agency, Challenges to Security in Space (2022).
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR065.XXX HR065
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+3
+COMMITTEE ACTION
+On February 2, 2023, the Subcommittee on Communications and
+Technology held a hearing entitled, ‘‘Launching Into the State of
+the Satellite Marketplace.’’ The Subcommittee received testimony
+from:
+• Tom Stroup, President, Satellite Industry Association;
+• Julie Zoller, Head of Global Regulatory Affairs, Project
+Kuiper at Amazon;
+• Jennifer A. Manner, Senior Vice President of Regulatory
+Affairs, Echostar Corporation;
+• Margo Deckard, Co-Founder and Chief Operating Officer,
+Lynk Global, Inc.; and
+• Kari Bingen, Director of the Aerospace Security Project
+and Senior Fellow at the International Security Program, Cen-
+ter for Strategic and International Studies.
+On February 8, 2023, the Subcommittee on Communications and
+Technology held a hearing entitled, ‘‘Liftoff: Unleashing Innovation
+in Satellite Communications Technologies.’’ The Subcommittee re-
+ceived testimony on the Secure Space Act from:
+• David Goldman, Senior Director of Satellite Policy,
+SpaceX;
+• Peter Davidson, Vice President of Global Government Af-
+fairs & Policy, Intelsat;
+• Whitney Q. Lohmeyer, Professor of Engineering, Olin Col-
+lege of Engineering; and
+• Danielle Pin˜eres, Vice President of Regulatory Affairs &
+Compliance, Planet Labs.
+On March 8, 2023, the Subcommittee on Communications and
+Technology met in open markup session and forwarded the Secure
+Space Act (introduced in the 118th Congress as H.R. 675), as
+amended, to the full Committee by a record vote of 26 yeas and 0
+nays.
+On March 23, 2023, the full Committee on Energy and Com-
+merce met in open markup session and ordered H.R. 675, as
+amended, favorably reported to the House by a record vote of 46
+yeas and 0 nays.
+H.R. 2458 was reintroduced on March 27, 2025 by Representa-
+tives Frank Pallone (D–NJ) and Brett Guthrie (R–KY). On April 9,
+2025, the full Committee on Energy and Commerce met in open
+markup session and ordered H.R. 2458 favorably reported to the
+House by a record vote of 52 yeas and 1 nay.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the record
+votes on the motion to report legislation and amendments thereto.
+The following reflects the record votes taken during the Committee
+consideration:
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR065.XXX HR065
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+4
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR065.XXX HR065
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+Section 3:
+100.56RH
+ereh
+6
+oilof
+tesffo
+tresnI
+5
+OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Pursuant to clause 2(b)(1) of rule X and clause 3(c)(1) of rule
+XIII, the Committee held hearings and made findings that are re-
+flected in this report.
+NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY,
+AND TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII, the Committee finds that
+H.R. 2458 would result in no new or increased budget authority,
+entitlement authority, or tax expenditures or revenues.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE
+Pursuant to clause 3(c)(3) of rule XIII, at the time this report
+was filed, the cost estimate prepared by the Director of the Con-
+gressional Budget Office pursuant to section 402 of the Congres-
+sional Budget Act of 1974 was not available.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the general performance
+goal or objective of this legislation is to prohibit the Federal Com-
+munications Commission from granting a license, market access, or
+an authorization to an entity producing or providing communica-
+tions equipment or services that have been identified as a national
+security risk (or an affiliate as defined in the Communications Act
+of 1934) to operate a geostationary orbit satellite system or a non-
+geostationary orbit satellite system, or to use an individually li-
+censed earth station or a blanket-licensed earth station, in the
+United States.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII, no provision of H.R. 2458
+is known to be duplicative of another Federal program, including
+any program that was included in a report to Congress pursuant
+to section 21 of Public Law 111–139 or the most recent Catalog of
+Federal Domestic Assistance.
+RELATED COMMITTEE AND SUBCOMMITTEE HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII, the following hearings
+were used to develop or consider the Secure Space Act:
+• On February 2, 2023, the Subcommittee on Communica-
+tions and Technology held a hearing entitled, ‘‘Launching Into
+the State of the Satellite Marketplace.’’ The Subcommittee re-
+ceived testimony from:
+» Tom Stroup, President, Satellite Industry Association;
+» Julie Zoller, Head of Global Regulatory Affairs,
+Project Kuiper at Amazon;
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR065.XXX HR065
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+6
+» Jennifer A. Manner, Senior Vice President of Regu-
+latory Affairs, Echostar Corporation;
+» Margo Deckard, Co-Founder and Chief Operating Of-
+ficer, Lynk Global, Inc.; and
+» Kari Bingen, Director of the Aerospace Security
+Project and Senior Fellow at the International Security
+Program, Center for Strategic and International Studies.
+• On February 8, 2023, the Subcommittee on Communica-
+tions and Technology held a hearing entitled, ‘‘Liftoff:
+Unleashing Innovation in Satellite Communications Tech-
+nologies.’’ The Subcommittee received testimony on the Secure
+Space Act from:
+» David Goldman, Senior Director of Satellite Policy,
+SpaceX;
+» Peter Davidson, Vice President of Global Government
+Affairs & Policy, Intelsat;
+» Whitney Q. Lohmeyer, Professor of Engineering, Olin
+College of Engineering; and
+» Danielle Pin˜eres, Vice President of Regulatory Affairs
+& Compliance, Planet Labs.
+COMMITTEE COST ESTIMATE
+Pursuant to clause 3(d)(1) of rule XIII, the Committee adopts as
+its own the cost estimate prepared by the Director of the Congres-
+sional Budget Office pursuant to section 402 of the Congressional
+Budget Act of 1974. At the time this report was filed, the estimate
+was not available.
+EARMARK, LIMITED TAX BENEFITS, AND LIMITED TARIFF BENEFITS
+Pursuant to clause 9(e), 9(f), and 9(g) of rule XXI, the Committee
+finds that H.R. 2458 contains no earmarks, limited tax benefits, or
+limited tariff benefits.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+
+Section 4:
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 5:
+Section 1. Short title
+This section designates that the short title may be cited as the
+‘‘Secure Space Act of 2025’’.
+
+Section 6:
+Section 2. Prohibition on grant of certain licenses, United States
+market access, or earth station authorizations
+This section would amend the Secure and Trusted Communica-
+tions Networks Act of 2019 by adding a new section to prevent the
+FCC from granting a license for, or a petition for declaratory ruling
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR065.XXX HR065
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+7
+to access the United States market using, GSO satellite system or
+NGSO satellite system, or an authorization to use an individually
+licensed earth station or a blanket-licensed earth station if the li-
+cense, grant of market access, or authorization would be held or
+controlled by an entity that produces or provides any communica-
+tions equipment or service on the FCC’s covered list or an affiliate
+of such entity (as defined in the Communications Act of 1934). This
+
+Section 7:
+section would also require the FCC to issue rules one year after the
+Act’s enactment to implement this legislation and defines key
+terms used in the legislation.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+SECURE AND TRUSTED COMMUNICATIONS NETWORKS
+ACT OF 2019
+* * * * * * *
+SEC. 10. PROHIBITION ON GRANT OF CERTAIN SATELLITE LICENSES,
+UNITED STATES MARKET ACCESS, OR EARTH STATION AU-
+THORIZATIONS.
+(a) IN GENERAL.—The Commission may not grant a license for,
+or a petition for a declaratory ruling to access the United States
+market using, a geostationary orbit satellite system or a nongeo-
+stationary orbit satellite system, or an authorization to use an indi-
+vidually licensed earth station or a blanket-licensed earth station,
+if such license, grant of market access, or authorization would be
+held or controlled by—
+(1) an entity that produces or provides any covered commu-
+nications equipment or service; or
+(2) an affiliate (as defined in section 3 of the Communications
+Act of 1934 (47 U.S.C. 153)) of an entity described in paragraph
+(1).
+(b) DEFINITIONS.—In this section:
+(1) BLANKET-LICENSED EARTH STATION.—The term ‘‘blanket-
+licensed earth station’’ means an earth station that is licensed
+with a geostationary orbit satellite system or a nongeostationary
+orbit satellite system.
+(2) GATEWAY STATION.—The term ‘‘gateway station’’ means an
+earth station or a group of earth stations that—
+(A) supports the routing and switching functions of a geo-
+stationary orbit satellite system or a nongeostationary orbit
+satellite system;
+(B) may also be used for telemetry, tracking, and com-
+mand transmissions;
+(C) does not originate or terminate communication traf-
+fic; and
+(D) is not for the exclusive use of any customer.
+(3) INDIVIDUALLY LICENSED EARTH STATION.—The term ‘‘indi-
+vidually licensed earth station’’ means—
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6603 E:\HR\OC\HR065.XXX HR065
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+8
+(A) an earth station (other than a blanket-licensed earth
+station) that sends a signal to, and receives a signal from,
+a geostationary orbit satellite system or a nongeostationary
+orbit satellite system; or
+(B) a gateway station.
+SEC. ø10.¿ 11. SEVERABILITY.
+If any provision of this Act, or the application of such a provision
+to any person or circumstance, is held to be unconstitutional, the
+remaining provisions of this Act, and the application of such provi-
+sions to any person or circumstance, shall not be affected thereby.
+SEC. ø11.¿ 12. DETERMINATION OF BUDGETARY EFFECTS.
+The budgetary effects of this Act, for the purpose of complying
+with the Statutory Pay-As-You-Go Act of 2010, shall be determined
+by reference to the latest statement titled ‘‘Budgetary Effects of
+PAYGO Legislation’’ for this Act, submitted for printing in the Con-
+gressional Record by the Chairman of the House Budget Com-
+mittee, provided that such statement has been submitted prior to
+the vote on passage.
+Æ
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6611 E:\HR\OC\HR065.XXX HR065
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+
+================================================================================
+
+Raw Text:
+119THCONGRESS REPORT
+1st Session " HOUSE OF REPRESENTATIVES ! 119–65
+SECURE SPACE ACT OF 2025
+APRIL24, 2025.—Committed to the Committee of the Whole House on the State of
+the Union and ordered to be printed
+Mr. GUTHRIE, from the Committee on Energy and Commerce,
+submitted the following
+R E P O R T
+[To accompany H.R. 2458]
+The Committee on Energy and Commerce, to whom was referred
+the bill (H.R. 2458) to amend the Secure and Trusted Communica-
+tions Networks Act of 2019 to prohibit the Federal Communica-
+tions Commission from granting a license or United States market
+access for a geostationary orbit satellite system or a nongeo-
+stationary orbit satellite system, or an authorization to use an indi-
+vidually licensed earth station or a blanket-licensed earth station,
+if the license, grant of market access, or authorization would be
+held or controlled by an entity that produces or provides any cov-
+ered communications equipment or service or an affiliate of such an
+entity, and for other purposes, having considered the same, reports
+favorably thereon without amendment and recommends that the
+bill do pass.
+CONTENTS
+Page
+Purpose and Summary ............................................................................................ 2
+Background and Need for Legislation .................................................................... 2
+Committee Action .................................................................................................... 3
+Committee Votes ...................................................................................................... 3
+Oversight Findings and Recommendations ........................................................... 5
+New Budget Authority, Entitlement Authority, and Tax Expenditures ............. 5
+Congressional Budget Office Estimate ................................................................... 5
+Federal Mandates Statement ................................................................................. 5
+Statement of General Performance Goals and Objectives .................................... 5
+Duplication of Federal Programs ............................................................................ 5
+Related Committee and Subcommittee Hearings ................................................. 5
+Committee Cost Estimate ....................................................................................... 6
+Earmark, Limited Tax Benefits, and Limited Tariff Benefits ............................. 6
+Advisory Committee Statement .............................................................................. 6
+Applicability to Legislative Branch ........................................................................ 6
+Section-by-Section Analysis of the Legislation ...................................................... 6
+Changes in Existing Law Made by the Bill, as Reported ..................................... 7
+59–006
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00001 Fmt 6659 Sfmt 6646 E:\HR\OC\HR065.XXX HR065
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+2
+PURPOSE AND SUMMARY
+H.R. 2458, the ‘‘Secure Space Act of 2025’’ would amend the Se-
+cure and Trusted Communications Network Act of 2019 by adding
+a new section preventing the Federal Communications Commission
+(FCC) from granting a license for, or a petition for declaratory rul-
+ing to access the United States market using, a geostationary orbit
+(GSO) satellite system or a non-geostationary orbit (NGSO) sat-
+ellite system, or an authorization to use an individually licensed
+earth station or a blanket-licensed earth station, if the license,
+grant of market access, or authorization would be held or controlled
+by an entity that produces or provides any communications equip-
+ment or service on the FCC’s covered list (a list identifying commu-
+nications equipment and services that pose a unacceptable risk to
+U.S. national security) or an affiliate of such entity (as defined in
+the Communications Act of 1934). H.R. 2458 would also require the
+FCC to issue rules one year after the bill’s enactment to implement
+this legislation.
+BACKGROUND AND NEED FOR LEGISLATION
+In the last few years, the United States has seen significant ad-
+vancements in the ability of satellites to provide broadband inter-
+net and other critical services to consumers and businesses
+throughout the country and the world. In fact, American satellite
+operators are leading the world in developing next-generation space
+technologies, services, and applications. These developments have
+been especially beneficial to Americans living in areas where other
+types of technologies have not been built yet to provide communica-
+tions services to American homes and businesses due to geographic
+considerations and other factors.
+However, it is also the case that other countries, including for-
+eign adversaries of the United States, are making aggressive moves
+to dominate the satellite industry. Indeed, the Chinese Communist
+Party has placed satellite internet in its list of priorities for new
+infrastructure,1 signaling increased investment in this burgeoning
+sector. And in the last few years, the combined satellite fleets of
+China and Russia have grown by approximately 70 percent.2
+In light of these developments, it is imperative that Congress
+take the necessary steps to ensure that satellite networks providing
+service in the United States are secure and protected (along with
+their relevant supply chains) from threats by untrusted actors. The
+United States cannot risk having its satellite networks face the
+same national security challenges that certain domestic terrestrial
+communications networks have faced, especially given the global
+nature of satellite network operations. Accordingly, H.R. 2458 ad-
+dresses these concerns by preventing an entity producing or pro-
+viding communications equipment or services that have been iden-
+tified as a national security risk (or an affiliate as defined in the
+Communications Act of 1934) from gaining access to the U.S. sat-
+ellite marketplace.
+1Makena Young & Akhil Thadani, Low Orbit, High Stakes, Center for Strategic & Inter-
+national Studies (Dec. 14, 2022).
+2Defense Intelligence Agency, Challenges to Security in Space (2022).
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00002 Fmt 6659 Sfmt 6602 E:\HR\OC\HR065.XXX HR065
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+3
+COMMITTEE ACTION
+On February 2, 2023, the Subcommittee on Communications and
+Technology held a hearing entitled, ‘‘Launching Into the State of
+the Satellite Marketplace.’’ The Subcommittee received testimony
+from:
+• Tom Stroup, President, Satellite Industry Association;
+• Julie Zoller, Head of Global Regulatory Affairs, Project
+Kuiper at Amazon;
+• Jennifer A. Manner, Senior Vice President of Regulatory
+Affairs, Echostar Corporation;
+• Margo Deckard, Co-Founder and Chief Operating Officer,
+Lynk Global, Inc.; and
+• Kari Bingen, Director of the Aerospace Security Project
+and Senior Fellow at the International Security Program, Cen-
+ter for Strategic and International Studies.
+On February 8, 2023, the Subcommittee on Communications and
+Technology held a hearing entitled, ‘‘Liftoff: Unleashing Innovation
+in Satellite Communications Technologies.’’ The Subcommittee re-
+ceived testimony on the Secure Space Act from:
+• David Goldman, Senior Director of Satellite Policy,
+SpaceX;
+• Peter Davidson, Vice President of Global Government Af-
+fairs & Policy, Intelsat;
+• Whitney Q. Lohmeyer, Professor of Engineering, Olin Col-
+lege of Engineering; and
+• Danielle Pin˜eres, Vice President of Regulatory Affairs &
+Compliance, Planet Labs.
+On March 8, 2023, the Subcommittee on Communications and
+Technology met in open markup session and forwarded the Secure
+Space Act (introduced in the 118th Congress as H.R. 675), as
+amended, to the full Committee by a record vote of 26 yeas and 0
+nays.
+On March 23, 2023, the full Committee on Energy and Com-
+merce met in open markup session and ordered H.R. 675, as
+amended, favorably reported to the House by a record vote of 46
+yeas and 0 nays.
+H.R. 2458 was reintroduced on March 27, 2025 by Representa-
+tives Frank Pallone (D–NJ) and Brett Guthrie (R–KY). On April 9,
+2025, the full Committee on Energy and Commerce met in open
+markup session and ordered H.R. 2458 favorably reported to the
+House by a record vote of 52 yeas and 1 nay.
+COMMITTEE VOTES
+Clause 3(b) of rule XIII requires the Committee to list the record
+votes on the motion to report legislation and amendments thereto.
+The following reflects the record votes taken during the Committee
+consideration:
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00003 Fmt 6659 Sfmt 6602 E:\HR\OC\HR065.XXX HR065
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+4
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00004 Fmt 6659 Sfmt 6602 E:\HR\OC\HR065.XXX HR065
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+100.56RH
+ereh
+6
+oilof
+tesffo
+tresnI
+
+5
+OVERSIGHT FINDINGS AND RECOMMENDATIONS
+Pursuant to clause 2(b)(1) of rule X and clause 3(c)(1) of rule
+XIII, the Committee held hearings and made findings that are re-
+flected in this report.
+NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY,
+AND TAX EXPENDITURES
+Pursuant to clause 3(c)(2) of rule XIII, the Committee finds that
+H.R. 2458 would result in no new or increased budget authority,
+entitlement authority, or tax expenditures or revenues.
+CONGRESSIONAL BUDGET OFFICE ESTIMATE
+Pursuant to clause 3(c)(3) of rule XIII, at the time this report
+was filed, the cost estimate prepared by the Director of the Con-
+gressional Budget Office pursuant to section 402 of the Congres-
+sional Budget Act of 1974 was not available.
+FEDERAL MANDATES STATEMENT
+The Committee adopts as its own the estimate of Federal man-
+dates prepared by the Director of the Congressional Budget Office
+pursuant to section 423 of the Unfunded Mandates Reform Act.
+STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+Pursuant to clause 3(c)(4) of rule XIII, the general performance
+goal or objective of this legislation is to prohibit the Federal Com-
+munications Commission from granting a license, market access, or
+an authorization to an entity producing or providing communica-
+tions equipment or services that have been identified as a national
+security risk (or an affiliate as defined in the Communications Act
+of 1934) to operate a geostationary orbit satellite system or a non-
+geostationary orbit satellite system, or to use an individually li-
+censed earth station or a blanket-licensed earth station, in the
+United States.
+DUPLICATION OF FEDERAL PROGRAMS
+Pursuant to clause 3(c)(5) of rule XIII, no provision of H.R. 2458
+is known to be duplicative of another Federal program, including
+any program that was included in a report to Congress pursuant
+to section 21 of Public Law 111–139 or the most recent Catalog of
+Federal Domestic Assistance.
+RELATED COMMITTEE AND SUBCOMMITTEE HEARINGS
+Pursuant to clause 3(c)(6) of rule XIII, the following hearings
+were used to develop or consider the Secure Space Act:
+• On February 2, 2023, the Subcommittee on Communica-
+tions and Technology held a hearing entitled, ‘‘Launching Into
+the State of the Satellite Marketplace.’’ The Subcommittee re-
+ceived testimony from:
+» Tom Stroup, President, Satellite Industry Association;
+» Julie Zoller, Head of Global Regulatory Affairs,
+Project Kuiper at Amazon;
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00005 Fmt 6659 Sfmt 6602 E:\HR\OC\HR065.XXX HR065
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+6
+» Jennifer A. Manner, Senior Vice President of Regu-
+latory Affairs, Echostar Corporation;
+» Margo Deckard, Co-Founder and Chief Operating Of-
+ficer, Lynk Global, Inc.; and
+» Kari Bingen, Director of the Aerospace Security
+Project and Senior Fellow at the International Security
+Program, Center for Strategic and International Studies.
+• On February 8, 2023, the Subcommittee on Communica-
+tions and Technology held a hearing entitled, ‘‘Liftoff:
+Unleashing Innovation in Satellite Communications Tech-
+nologies.’’ The Subcommittee received testimony on the Secure
+Space Act from:
+» David Goldman, Senior Director of Satellite Policy,
+SpaceX;
+» Peter Davidson, Vice President of Global Government
+Affairs & Policy, Intelsat;
+» Whitney Q. Lohmeyer, Professor of Engineering, Olin
+College of Engineering; and
+» Danielle Pin˜eres, Vice President of Regulatory Affairs
+& Compliance, Planet Labs.
+COMMITTEE COST ESTIMATE
+Pursuant to clause 3(d)(1) of rule XIII, the Committee adopts as
+its own the cost estimate prepared by the Director of the Congres-
+sional Budget Office pursuant to section 402 of the Congressional
+Budget Act of 1974. At the time this report was filed, the estimate
+was not available.
+EARMARK, LIMITED TAX BENEFITS, AND LIMITED TARIFF BENEFITS
+Pursuant to clause 9(e), 9(f), and 9(g) of rule XXI, the Committee
+finds that H.R. 2458 contains no earmarks, limited tax benefits, or
+limited tariff benefits.
+ADVISORY COMMITTEE STATEMENT
+No advisory committees within the meaning of section 5(b) of the
+Federal Advisory Committee Act were created by this legislation.
+APPLICABILITY TO LEGISLATIVE BRANCH
+The Committee finds that the legislation does not relate to the
+terms and conditions of employment or access to public services or
+accommodations within the meaning of section 102(b)(3) of the Con-
+gressional Accountability Act.
+SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+Section 1. Short title
+This section designates that the short title may be cited as the
+‘‘Secure Space Act of 2025’’.
+Section 2. Prohibition on grant of certain licenses, United States
+market access, or earth station authorizations
+This section would amend the Secure and Trusted Communica-
+tions Networks Act of 2019 by adding a new section to prevent the
+FCC from granting a license for, or a petition for declaratory ruling
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00006 Fmt 6659 Sfmt 6602 E:\HR\OC\HR065.XXX HR065
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+7
+to access the United States market using, GSO satellite system or
+NGSO satellite system, or an authorization to use an individually
+licensed earth station or a blanket-licensed earth station if the li-
+cense, grant of market access, or authorization would be held or
+controlled by an entity that produces or provides any communica-
+tions equipment or service on the FCC’s covered list or an affiliate
+of such entity (as defined in the Communications Act of 1934). This
+section would also require the FCC to issue rules one year after the
+Act’s enactment to implement this legislation and defines key
+terms used in the legislation.
+CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+In compliance with clause 3(e) of rule XIII of the Rules of the
+House of Representatives, changes in existing law made by the bill,
+as reported, are shown as follows (existing law proposed to be omit-
+ted is enclosed in black brackets, new matter is printed in italics,
+and existing law in which no change is proposed is shown in
+roman):
+SECURE AND TRUSTED COMMUNICATIONS NETWORKS
+ACT OF 2019
+* * * * * * *
+SEC. 10. PROHIBITION ON GRANT OF CERTAIN SATELLITE LICENSES,
+UNITED STATES MARKET ACCESS, OR EARTH STATION AU-
+THORIZATIONS.
+(a) IN GENERAL.—The Commission may not grant a license for,
+or a petition for a declaratory ruling to access the United States
+market using, a geostationary orbit satellite system or a nongeo-
+stationary orbit satellite system, or an authorization to use an indi-
+vidually licensed earth station or a blanket-licensed earth station,
+if such license, grant of market access, or authorization would be
+held or controlled by—
+(1) an entity that produces or provides any covered commu-
+nications equipment or service; or
+(2) an affiliate (as defined in section 3 of the Communications
+Act of 1934 (47 U.S.C. 153)) of an entity described in paragraph
+(1).
+(b) DEFINITIONS.—In this section:
+(1) BLANKET-LICENSED EARTH STATION.—The term ‘‘blanket-
+licensed earth station’’ means an earth station that is licensed
+with a geostationary orbit satellite system or a nongeostationary
+orbit satellite system.
+(2) GATEWAY STATION.—The term ‘‘gateway station’’ means an
+earth station or a group of earth stations that—
+(A) supports the routing and switching functions of a geo-
+stationary orbit satellite system or a nongeostationary orbit
+satellite system;
+(B) may also be used for telemetry, tracking, and com-
+mand transmissions;
+(C) does not originate or terminate communication traf-
+fic; and
+(D) is not for the exclusive use of any customer.
+(3) INDIVIDUALLY LICENSED EARTH STATION.—The term ‘‘indi-
+vidually licensed earth station’’ means—
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00007 Fmt 6659 Sfmt 6603 E:\HR\OC\HR065.XXX HR065
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
+
+8
+(A) an earth station (other than a blanket-licensed earth
+station) that sends a signal to, and receives a signal from,
+a geostationary orbit satellite system or a nongeostationary
+orbit satellite system; or
+(B) a gateway station.
+SEC. ø10.¿ 11. SEVERABILITY.
+If any provision of this Act, or the application of such a provision
+to any person or circumstance, is held to be unconstitutional, the
+remaining provisions of this Act, and the application of such provi-
+sions to any person or circumstance, shall not be affected thereby.
+SEC. ø11.¿ 12. DETERMINATION OF BUDGETARY EFFECTS.
+The budgetary effects of this Act, for the purpose of complying
+with the Statutory Pay-As-You-Go Act of 2010, shall be determined
+by reference to the latest statement titled ‘‘Budgetary Effects of
+PAYGO Legislation’’ for this Act, submitted for printing in the Con-
+gressional Record by the Chairman of the House Budget Com-
+mittee, provided that such statement has been submitted prior to
+the vote on passage.
+Æ
+VerDate Sep 11 2014 06:38 Apr 25, 2025 Jkt 059006 PO 00000 Frm 00008 Fmt 6659 Sfmt 6611 E:\HR\OC\HR065.XXX HR065
+GNIRAEH
+htiw
+DORP3G4DYL8PAL
+no
+kcirederfr
